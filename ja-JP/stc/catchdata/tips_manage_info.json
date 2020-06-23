@@ -1,0 +1,157 @@
+{
+    "tips_manage_info": [
+        {
+            "id": "1",
+            "title": "test",
+            "regTarget": "Formation://Canvas",
+            "targetPath": "Formation://Canvas/Top/TopBackground",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "443,35,-251",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "2",
+            "title": "test",
+            "regTarget": "Factory://Canvas",
+            "targetPath": "Factory://Canvas/Top/TopBackground",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "443,-24,-251",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "3",
+            "title": "test",
+            "regTarget": "Dorm://Canvas",
+            "targetPath": "Dorm://Canvas/TipsHolder",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "0,0,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "4",
+            "title": "test",
+            "regTarget": "Deployment://Canvas",
+            "targetPath": "Deployment://Canvas",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "483.8924,499.324,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "5",
+            "title": "test",
+            "regTarget": "Research://Canvas",
+            "targetPath": "Research://Canvas/Top",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "443,-24,-250.9996",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "6",
+            "title": "test",
+            "regTarget": "MissionSelection://Canvas",
+            "targetPath": "MissionSelection://Canvas/Top/TopBackground",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-406.0145,-17,-251",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "7",
+            "title": "test",
+            "regTarget": "Dorm://Canvas/SquadFormation(Clone)",
+            "targetPath": "Dorm://Canvas/SquadFormation(Clone)/Top/TipsHolder",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "61.57983,-0.8320923,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "8",
+            "title": "test",
+            "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)",
+            "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "810,338,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "9",
+            "title": "test",
+            "regTarget": "Dorm://Canvas/SquadSkillExpTraining(Clone)",
+            "targetPath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-605.9326,1.025471,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "10",
+            "title": "test",
+            "regTarget": "Formation://Canvas/SquadSkillExpTraining(Clone)",
+            "targetPath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-605.9326,1.025471,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "11",
+            "title": "test",
+            "regTarget": "Dorm://Canvas/SquadTranscribeList(Clone)",
+            "targetPath": "Dorm://Canvas/SquadTranscribeList(Clone)/Right/ChipDismantling/ChipDismantlingList",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "228,371,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "12",
+            "title": "Formation_Presets",
+            "regTarget": "Formation://TileSetting(Clone)/TileCanvas/DefaultTeamtNode",
+            "targetPath": "Formation://TileSetting(Clone)/TileCanvas/DefaultTeamtNode/RightPanel/TeamText",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-361,0,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "13",
+            "title": "Formation_Equipmentswitch",
+            "regTarget": "Formation://Canvas",
+            "targetPath": "Formation://Canvas/Formation/Main/Right/Eqiupmentswitch (1)/ON",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-313.02,860.6,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "14",
+            "title": "Gashapon",
+            "regTarget": "Dorm://GashaponController(Clone)",
+            "targetPath": "Dorm://GashaponController(Clone)",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "44,-437,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "15",
+            "title": "Dorm_FurnGift",
+            "regTarget": "Dorm://Canvas/BoxPanel/Top",
+            "targetPath": "Dorm://Canvas/BoxPanel/Top",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "427,489,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "16",
+            "title": "UserDressup_HomePage",
+            "regTarget": "UserDressup://Canvas",
+            "targetPath": "UserDressup://Canvas/Top",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "893,4,0",
+            "tipManageSize": "152,76"
+        },
+        {
+            "id": "17",
+            "title": "Mall_ClothesShop",
+            "regTarget": "Mall://Canvas/ClothingStore(Clone)",
+            "targetPath": "Mall://Canvas/ClothingStore(Clone)/Diamonds/Icon",
+            "tipsManagePath": "TipsSystem",
+            "tipManagePos": "-420,0,0",
+            "tipManageSize": "152,76"
+        }
+    ]
+}

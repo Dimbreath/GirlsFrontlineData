@@ -1,0 +1,30 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><黑屏1>:8個小時後。
+()||<BIN>167</BIN><BGM>BGM_Sneak</BGM><黑屏2>:22點20分，下水道敵方據點內……
+RO635(0)<Speaker>RO635</Speaker>||:你確定我們這麼偷偷溜進來沒問題麼……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:沒問題啦，剛才妖精已經把路線偵查得很清楚了。+不過路線雖然沒問題了，下水道裡還有很多閘口，如果那些白色的傢伙不是傻子，肯定早就提早進行控制了。+萬一其他人形來了，它們把閘門一關，我們不是被逮個正著了嗎？
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:雖然也有道理，但我們也太深入裡面了……一旦被包圍就麻煩了……
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我們協助完指揮官就馬上離開，肯定沒問題的！
+RO635(3)<Speaker>RO635</Speaker>||:真的沒問題嗎……+咦？這是……格里芬的通訊請求？
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>晚上好，RO635小姐是吧。</color>
+RO635(0)<Speaker>RO635</Speaker>;Mk46(0)||:啊你好，你是……？
+RO635(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Mk46，身份訊息已經發送給你了，姑且是指揮官這次行動的臨時副官。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Mk46(0)||:新來的傢伙，好像沒什麼幹勁啊……
+M4 SOPMOD IIMod(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>喂，我可都聽到了哦……</color>+<color=#00CCFF>總之……我負責的攻擊梯隊正在檢查裝備，10分鐘後到達下水道入口的位置。</color>
+RO635(2)<Speaker>RO635</Speaker>;Mk46(0)||:感謝你了，Mk46，希望人手夠多。+請你們先在預定的位置待機，只有在攻擊命令下達後才開始行動。
+RO635(2);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>好吧，我就等著你們了哦。</color>+<color=#00CCFF>指揮官把任務方案傳給我了，一旦人員就位，隨時可以開始行動。</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:收到。
+RO635(0)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN><BGM>BGM_stage11</BGM>:指揮官，感謝您的支援，我已經看到了您派遣的梯隊的位置了。+在等待您的時間裡，我和SOP2趁敵人不注意，已經找到了控制中心的位置。+雖然這個位置比較危險，但是從這邊可以為我們的梯隊提供更多的協助。+我的計劃是這樣的，讓梯隊將下水道的出入口封鎖住，我可以從這邊的控制中心連接控制平台網絡的終端。+我猜測敵人會關閉閘口來切斷線人的撤退路線，所以我會先潛入進二級平層破壞他們對下水道閘門的控制權。+然後SOP2潛入進去找到線人帶他出來，然後回到我們梯隊控制的出入口。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你不能直接控制閘門把白色的傢伙都關起來嗎？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:那樣破解系統會花更多的時間，目前來看找到線人的窗口期已經越來越短了。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:誒……好吧……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:我需要分出運算能力來黑進這邊的閘門控制系統，所以梯隊的部署就拜託指揮官您了。+SOP2，你能把地圖上的閘門和節點標記給我嗎？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:沒問題！
+RO635(0)<Speaker>RO635</Speaker>||:我需要在敵人還沒察覺到的時候將它們從二級平層中踢出來……嗯，那麼就開始行——！
+RO635(0)<Speaker>？？</Speaker>||:不要——入那——控——系統。
+RO635(4)<Speaker>RO635</Speaker>||:什麼聲音……？
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:啊？什麼什麼聲音？
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:不是你在講話麼……？
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我什麼都沒講啊？
+RO635(3)<Speaker>RO635</Speaker>||<黑点1>:難道是我錯覺了……+算了不管了，抓緊時間，開始行動！
+()||<黑点2><BIN>10</BIN>:

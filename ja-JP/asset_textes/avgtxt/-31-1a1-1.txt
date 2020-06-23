@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:……+黑客。+間諜。+情報販子。+抑或是“大人物們”的掮客。
+()<Speaker>K</Speaker>||:<color=#00CCFF>然後，那邊的指揮官，我知道你就在終端裡監視著這裡。</color>+<color=#00CCFF>雖然我不知道你長什麼樣，但是從你剛才的指揮中，我知道為什麼那麼多人畏懼你了。</color>+<color=#00CCFF>不過在這個城市裡，你不會想和我成為敵人，就像我暫時不想和你成為敵人一樣。</color>
+()<Speaker></Speaker>||:其中某一個是他的身份。+也有可能……全部都是。
+()<Speaker>K</Speaker>||:<color=#00CCFF>不管如何，這是一個招呼。</color>+<color=#00CCFF>我應該說……“很高興見到你”，還是“歡迎來到貝萊格萊德”？</color>+<color=#00CCFF>我已經等你來等了很久了。</color>
+()<Speaker></Speaker>||:我不喜歡和這類人打交道。+他會為了很高的出價而幫助你。+但是你永遠不會知道，什麼時候他會為了更高的出價而出賣你。
+()<Speaker></Speaker>||:……
+()<Speaker>K</Speaker>||<黑屏1><CGDelay>0.5</CGDelay>:所以接下來……+安潔莉婭……讓我來說說她的故事吧。+你想從哪裡開始聽呢？
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM>:……第二天，格里芬秘密安全屋。
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||<CGDelay>0.3</CGDelay>:指揮官！
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:指揮官！起床了！
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:格琳娜小姐？啊……指揮官還是不肯從房間裡出來麼……？
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;RO635(0)||:嗯……似乎昨天和那個“K”先生的談話，讓指揮官很低落。
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:我能明白，仿佛一切都是白費了一樣……+不過即使如此，我還是如“K”的要求那樣，把手提箱拿過來了，要進行解析嗎？+還是說聯繫一下帕斯卡小姐？
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;RO635(0)||:指揮官要求我們所有行動待機，在下個命令下達前，我們還是什麼都不要做吧。
+RO635(0)<Speaker>RO635</Speaker>||:但是和“K”所說的定期聯絡的時間快到了，如果這樣下去的話……
+()<Speaker></Speaker>||:……門突然被打開。
+()<Speaker>指揮官</Speaker>||:格琳娜，來通訊室。
+NPC-Kalin(2)<Speaker>格琳娜</Speaker>||<黑屏1>:啊……好的，指揮官！
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||<黑屏2><BIN>8</BIN>:信號不是特別好……啊，接通了！+指揮官，在B-3-5F頻道可以進行加密視頻通訊了，信息黑域可以維持三分鐘。
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>指揮官，你遲到了，作為安全承包商，這不是一個好習慣。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:…………
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>怎麼了，從你的表情上我可以感受到對我相當的不滿。</color>+<color=#00CCFF>根據我了解到的信息，你把所有外派的人形都召回到這個安全屋了。</color>+<color=#00CCFF>我可以理解成這是某種程度上的抗命麼。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:據我所知，我接受到的命令是找到安潔。
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>經過昨天那些事，你還那麼認為？</color>+<color=#00CCFF>“找到安潔”？</color>+<color=#00CCFF>如果你真心這麼認為，那我不得不重新另找人選了。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:人形的非法入境，重型單位的偷渡運輸，一切都太過於順利了。+能做到這些事需要付出大量的代價，那可不單單只是用錢就能解決的，所以格里芬有著不得不存在在這裡的理由。+這一切都說明，你和你背後的人沒有比我更好的選擇了，要麼告訴我更多安潔的情報，要麼我讓我的人形度假到一切不可輓回為止。
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>聰明人，指揮官。</color>+<color=#00CCFF>不過我已經告訴你足夠豐富的情報了。</color>+<color=#00CCFF>“安潔不是你們的敵人”。</color>+<color=#00CCFF>就和我昨天說的一樣。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:我們當然知道安潔小姐不是我們的敵人了！+正是因為她不是敵人，所以我們才那麼擔心她，想要找到她啊！
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>嗯，格琳娜，格里芬的資深後勤官。</color>+<color=#00CCFF>因為是孤兒從小流浪所以對金錢尤其看重，克魯格因為可憐你所以在你還未成年時就違反規定把你招募進入了格里芬。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:…………
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>一般來說我不太喜歡和太貪財的人打交道，因為這種人會為了一點點錢甚至把自己都賣了。</color>+<color=#00CCFF>你會為了錢出賣你身邊那位指揮官嗎？</color>
+NPC-Kalin(8)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:當然不會！
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>嗯。相比你剛才虛假的微笑，還是現在真正在生氣的樣子比較可愛。</color>+<color=#00CCFF>我相信你不會，因為凡事都有相應的價值，換句話說，等價的籌碼。</color>+<color=#00CCFF>就像我說出的每一個情報一樣，這些情報需要你們付出等價的籌碼來交換。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:是否等價，不是你一個人說了算的。我不想再重複一遍，在我獲得更多情報之前，格里芬什麼都不會做。
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>雙方的認同，非常正確。指揮官，你是個很善於談判的人，也是個善於抓住重點的人。看來我也不得不作出一些讓步了。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:K先生，請不要再繞圈子了，我們不應該好好合作才對嗎？
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>你提的意見非常有建設性，所以我會再增加一條情報。</color>+<color=#00CCFF>安潔作為“叛徒”，正在執行不符合她“叛徒”身份的任務，而就如你們所知，她就在這座城市當中。</color>+<color=#00CCFF>她孤身帶著她的人形小隊，執行的任務一如既往有著極高的風險。而勢單力薄的她如果沒有支援，很有可能會被敵人的數量淹沒。而本來要執行支援任務的某些人，卻還在溫暖的屋子裡享受假期。</color>
+()<Speaker>指揮官</Speaker>||:…………
+NPC-Kalin(7)<Speaker>格琳娜</Speaker>||:…………
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>我可以再額外贈送一條信息。她的小隊中，有著原本屬於AR小隊的人形。</color>+<color=#00CCFF>如果我的情報沒有錯的話，她們曾在你的麾下執行過任務，對吧，格里芬的指揮官。</color>
+NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:M4……？她們，也在這座城市？
+()<Speaker>指揮官</Speaker>||:……+接下來需要我們做什麼。
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>我很喜歡你務實的個性，指揮官。</color>+<color=#00CCFF>我想接下來我們的合作會非常愉快。</color>
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:……貝萊格萊德格里芬安全屋。
+RO635(0)<Speaker>RO635</Speaker>||:被人類罵……被圍困……被水淹……+甚至沒辦法搞清楚敵人真正藏在哪裡……這樣下去……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你在說什麼啊，RO？+別在那邊鬱悶了，昨天洗完得衣服都乾了哦。和裝備一起，我都放在這邊啦。
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:……真羡慕你啊，可以在這種情況下還那麼放鬆。+後來有做過檢查嗎？水沒泡壞你的素體吧？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:沒有！我一直在你肩上本來就沒怎麼沾水啦~+我們什麼時候才能換一個全防水的素體啊？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:我覺得短時間內應該沒可能了……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那最好以後我們不要再去下水道了……+要是指揮官的梯隊再晚一點來，可能我們就真的在水裡全完蛋了。
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:其實我比較在意……那個“K”先生所說的守護天使……+連我都沒法通過遠程控制的閘門，就這麼突然被打開了……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你是說……昨天救我們的另有其人？
+RO635(0)<Speaker>RO635</Speaker>||:我不是很確定……啊，稍等，有通訊接入。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>RO，還在嗎？麻煩你把手提箱拿到通訊室來好嗎？然後指揮官說讓SOP2也一起來一趟吧。</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:好的收到，我們走吧SOP2，有新的任務了。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>8</BIN>:這個手提箱是？
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:已經按照“K”先生說的方式啟動了手提箱。這個是……？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:什麼嘛……只是一個全息地圖還一堆坐標。
+NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:不管怎麼說，這些坐標也太多了……我們真的要每個坐標都派人形過去嗎？
+RO635(4)<Speaker>RO635</Speaker>||:每個坐標都要……？這幾乎布滿了整座城市了，這也未免太……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:是那個什麼K要求的嗎！這明顯是把我們當工具看待啊！這是讓我們當自行攝像頭嗎？！ 
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:唔……話是這麼說，但他有安潔的信息，我們接下來要做的事情也都是在協助安潔。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:誒！已經有安潔的消息了嗎？！
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:我們知道的也只有“她正在這座城市裡執行任務”這條信息而已，並且需要我們的幫助。
+RO635(3)<Speaker>RO635</Speaker>||:安潔她……也在貝萊格萊德……？+所以我們在這裡……不是偶然……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:如果安潔在這，那M4和AR15是不是也……+……+但是如果她們真的在這裡，那為什麼不聯繫我們？+能夠加密的通信手段還是很多的吧？
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:SOP2，不要激動。+只要我們把該做的事情做好，遲早都會碰見的。
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我覺得我……+我還沒想好如果真跟大家見面了……要說什麼才好。
+RO635(0)<Speaker>RO635</Speaker>||:現在想那種事情還太早了，SOP2。+那個，根據“K”的計劃，我們大家接下來要做什麼？
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:唔…嗯……假裝自己是人類，然後，放鬆……？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:果然還是要當自行攝像頭啊！
+()||<黑屏2><BIN>166</BIN>:……
+P22(0)<Speaker>P22</Speaker><通讯框>||:<color=#00CCFF>呼叫指揮官，我們梯隊已經抵達位置了。</color>+<color=#00CCFF>現在開始進行滲透準備。</color>
+Lewis(0)<Speaker>路易斯式機槍</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>我們也就位了，目前沒有遭遇什麼阻礙。</color>+<color=#00CCFF>嘿嘿，果然人類是不會特意為難長得好看的女孩子呢。</color>+<color=#00CCFF>不過確定要在進入指定區域前把武器藏起來嗎？</color>+<color=#00CCFF>總覺得不是很安全啊……</color>
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||<黑屏2><BIN>8</BIN>:最後兩支梯隊也就位了，這樣大家都已經到達指定坐標了，武器也已經收納完畢了，接下來要怎麼做，指揮官？
+()<Speaker>指揮官</Speaker>||:等待“K”接下來的需求吧。
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:明白了。+不過為什麼“K”先生會要我們去那些地方呢？+這些地方明明都是些居民區或者商場什麼的，看起來沒有什麼高價值目標啊……
+()<Speaker></Speaker>||:……滴。
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>指揮官，你的動作比我想象中更快一些。</color>+<color=#00CCFF>這將改善我對格里芬的整體評價。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:這種時候就不用賣關子了。+我們要做的一定不僅僅只是讓戰術人形在路邊站著這麼簡單吧？
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>我很喜歡I.O.P的產品，她們在身邊，就仿佛真的有人在陪伴一般。</color>+<color=#00CCFF>有的時候，溫柔也是一種武器。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:……所以你才要求人形隱藏武器嗎？為了讓她們看起來更像普通人類？
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>因為我們的敵人，也許比我們更像人類。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:你是說，白色的敵人……已經潛伏在那些坐標的位置了麼……
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>指揮官，你不是需要更多安潔的情報嗎？那就用你的行動來當作為換取情報的代價吧。</color>+<color=#00CCFF>那些白色的傢伙，找到它們，消滅它們，在一切還來得及的時候。</color>
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:可是如果敵人已經混進這些街區了，那不就表示它們已經混入一般人類和其他民用人形中間了嗎？！+這種情況下根本沒辦法分辨誰是潛伏的敵人吧！
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>手提箱裡有著之前白色敵人的特徵信息庫，發送給你們的人形。</color>+<color=#00CCFF>一旦掃描到符合特徵的傢伙就強行連接燒毀對方。</color>+<color=#00CCFF>如果碰到實在難纏的，就讓RO和SOP2去處理，經過昨天一天，她們應該有足夠的經驗了。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:……+你是怎麼知道RO和SOP2有識別潛伏敵人的經驗？
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>別這樣皺眉看著我，指揮官。獲得情報就是我的工作。</color>+<color=#00CCFF>特別是……關於你們的情報。</color>

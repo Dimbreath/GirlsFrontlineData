@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>157</BIN><黑屏2><BGM>BGM_Sneak</BGM>:……エゴールの通信機に騒がしい喚き声が伝わってきた。
+人类女性的声音()<Speaker>人間女性の声</Speaker>||:<color=#00CCFF>私は味方よ！殺さないで——！</color>+<color=#00CCFF>ケホッケホッ……お願い！私は脅迫されたの！私は何もしてない！助けて——！</color>
+NPC-Yegor(3)<Speaker>軍の兵士</Speaker><通讯框>||:<color=#00CCFF>大尉、アンジェだと思わしき目標を確保しました。確認したところ、こちらの医療スタッフがアンジェの姿に仮装されたようです。</color>
+人类女性的声音()<Speaker>人間女性の声</Speaker>||:<color=#00CCFF>あの人形が私を気絶させてここに捨てたの！ケホッケホッ……助けて――ケホッケホッ！お願い……</color>
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:……
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の兵士</Speaker><通讯框>||:<color=#00CCFF>感染を受けているようです。どうしますか、大尉？</color>
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:連れ戻してこい。途中で治療してやれ。
+NPC-YegorDamage(0)<Speaker></Speaker>||:……エゴールは戦車に靠れ、こめかみを強く押した。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>||:アンジェはビルの中にいる……+あいつは時間を稼いでいる……自分を治療するために……！//nクソッタレが――！
+()||:……そして思いっきり戦車の装甲を殴って、司令室に向かった。
+NPC-Yegor(3)<Speaker>軍の兵士</Speaker><通讯框>||:<color=#00CCFF>大尉！グリフィンの小隊がビルの方に向かっています！</color>
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:戻ってきたか、アンジェを守って最後の悪あがきをするために……！+偵察部隊は？やつらが着くより前にビルに入れるか？
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の兵士</Speaker>||:<color=#00CCFF>可能ですが、あのビルはグリフィンの重火力支援の射程内にあります。迂闊に接近すると被害を受けるかもしれません。</color>
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:ならひとまずその場で待機だ。//n全戦闘員に通達する、直ちに目標ビルへ向かい、包囲しろ！
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>||<黑屏1>0,0.7</黑屏1>:アンジェ！今さら何を企んでも無駄だ！ビルに戻ったとしても、貴様は袋のネズミ！+今度こそ、絶対に逃がしはしない！
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>:……10分後、グリフィン小隊はビルに戻り、アンジェにアドレナリンを注射した。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>||<BGM>BGM_Brain</BGM>:ふぅ……ありがとう、少し気分がよくなったわ。
+HK416(0)<Speaker>416</Speaker>||:注射する時のあんたの叫び声を録音すべきだったわね。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>||:私に葬式で流さないって約束するのならいいわよ。+さて、これでまた少し頭を動かせるようになった。
+AK12(0)<Speaker>AK-12</Speaker>||:指揮官、グリフィン小隊は全員ビルに到着したわ。今から最終防衛線の配置を始める。+爆弾及び起爆装置もすでに改造完了、私とAN94で設置を担当するわ。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;AK12(0)||:本当にやるのか？正直勝てる自信は全くないのだが……
+NPC-AngeDamage(0);AN94(0)<Speaker>AN-94</Speaker>||:最悪、みんなここで死ぬだけです。そしてその心の準備もできています。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>||:でもSOP IIと416は……+それと指揮官も……あなたたちはまだここで倒れるわけにはいかないのよ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ごめん。でもこれは指揮官の命令なんだ。いくらアンジェさんに撤退しろって言われても、わたしはわたしの命令に逆らうわけにはいかないんでしょ？
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>||:……指揮官、なぜこんな危険を冒してまで私を助けようとする？
+()||:……<c>危険な任務にはとっくに慣れているよ。これもその一つだ。<c>まずは目先のことを何とかする。あとのことはその時になったら考える。<c>君は色々と助けてくれたから、今回はそのお返しだ。
+指挥官()<Speaker>指揮官</Speaker>||<分支>1</分支>:危険な任務にはとっくに慣れているよ。これもその一つだ。
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>||<分支>1</分支>:だからいつも自分の重要さに気づかないのね？
+AK12(0)<Speaker>AK-12</Speaker>||<分支>1</分支>:だから、指揮官が大事な存在になったというわけ。そうでしょ？危険を冒さずに勝利は得られない。
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>||<分支>2</分支>:グリフィンに必要なのは戦略眼のある指揮官で、私のようなバカではないわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:ごめん。でも多分、わたしたちみんなバカだから、今こうして一緒にいるのでしょ？
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>||<分支>3</分支>:ここは戦場よ、貸し借りなんて言ってる場合じゃないわ！指揮官、わざわざこんなことをしなくていい！
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:アンジェ、どちらかというと、今はあんたが指揮官に借りを作ってるのよ。あとでどうやって感謝するのかを考えておいた方がいいわ。
+AN94(0)<Speaker>AN-94</Speaker>||:アンジェ、これからの対策を考えましょう。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>||:……そうね。+では、今の先決は敵を足止めして、即製爆弾の設置完了まで時間を稼ぐこと。+軍はきっと動かせるすべての戦力で攻めてくるでしょうから、これは時間との勝負になるわ！
+RO635(6)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:SOP II、416、軍が四方向から包囲してきた！
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Reverse</BGM>:ああもう……本当に主力を全部集めてきやがったわ。
+HK416(0)<Speaker>416</Speaker>||:アンジェがビルの中にいるって、すでに気づいてるようね。
+RO635(6)<Speaker>RO635</Speaker>||:軍の主力と真っ向から戦うことになるなんて……こんなの初めてかしら？+残念……本当は人形の素体で戦いたかったのに。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:ROはとりあえず寝てていいよ。+目が覚めた時には、もうアンジェを連れてここから離れてるから！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:そうね、どうせ今の私じゃ役に立たないから、あとは全部任せたわ。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:えっと……でもやっぱり起きていてね、RO？
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:え？どうして？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:二人で一緒にいるからこそ、AR小隊なんだよ。
+RO635(6)<Speaker>RO635</Speaker>||:……勝手にしなさい。+AR小隊と軍の主力が激突するところだけ、記録しておいてあげるわ。
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:敵が来るわ！迎撃準備を！+指揮官、ここが最後の防衛線です、必ず軍の攻撃を食い止めて、反逆小隊に時間稼ぎましょう！
+()||<BIN>10</BIN><黑点2>:

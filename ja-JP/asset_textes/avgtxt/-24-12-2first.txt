@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>85</BIN><BGM>BGM_Empty</BGM><黑屏2>:……作戦終了。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<黑屏1>0,5</黑屏1>:到着したよ、SOP II！+まさかあのスケアクロウの言ってたことが本当だったなんて……+……SOP II？
+()||<BIN>9</BIN><黑屏2>:……
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:<size=55>あ――――――！</size>
+()||<BIN>85</BIN><闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<震屏>:
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BGM>BGM_NightOPS</BGM>:SOP II？！
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:大丈夫……これでやっと一息つけるよ……+わたし……ずっと……+万が一罠だったらどうしようって……みんなを危険な目にあわせたらどうしようって……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:大丈夫です、SOP II、作戦には冒険する勇気が必要です。+もし私でしたら、こんなこと決められません。
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:でもM16は言ってたな……勇気と愚かの違いは、その結果だけ……+今までは小隊の仲間たちがわたしの無茶を後片付けしてくれてたけど、今ではわたしがみんなのために責任を負わないと……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:私たち、SOP IIの負担にはなりたくないよ……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:でも、今のわたしたちは同じ泥船に乗った仲間……昔だったらこんなこと考える必要なんてなかったのにな……+M4は……毎回毎回こんなに大変だったんだね……+もしかしたら色々迷惑をかけちゃったかもしれない……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:SOP II……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:はは、やっぱ隊長なんてわたしに似合わないや……+あとは、偵察隊の報告を待とう！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||<黑点1>:……はい。
+()||<BIN>9</BIN><黑点2><黑点1>:……数分後、偵察に出た人形たちが戻ってCx4に報告をした。表情からして、その結果は分かりきっていたことだった。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:……ごめん、SOP II、ここには何も残ってないし、通信することもできない……+指揮官に連絡することはできないし、何かの手掛かりも探せない……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:……やっぱりね。+こんなことになる可能性も考えたけど……
+Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:……SOP IIの目に落ち込んだ人形たちの表情が映った。
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage1</BGM>:ダメよ！みんな元気出して！+遺体が残ってないってことは、指揮官とカリーナがまだどこかでわたしたちを待っているってことだよ！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:先に少し休んでおくべきかもしれないです。+地図によれば、このまま行くとまた軍の拠点を通ることになります。
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:分かってるよ……+次の作戦プランもちゃんと保存してるはずだけど、わたしのメンタルじゃこんな演算できないかもしれない……+はは……AR15がいたら、きっとまたバカにこんな仕事はできないって笑うんだろうな。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:大丈夫です、SOP IIがいなかったら、わたしたちもここまで来ることはできなかったのですよ。+SOP IIはもう十分すごいんですから、ここから先も一緒に頑張りましょう！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:……<color=#A9A9A9>（もう他に方法はないの……？）</color>+<color=#A9A9A9>（待って、何かを忘れてる気がする……）</color>+<color=#A9A9A9>（この拠点に来たのはそもそも、どこか安全な場所を求めて……そして……）</color>+<color=#A9A9A9>（そしてなんだっけ……？）</color>+<color=#A9A9A9>（またメンタルを検索しないと……ああ！さっきの戦闘でデータベースがグチャグチャになってる……面倒くさいな……）</color>
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:そう言えば、SOP II、さっきAR小隊の4人について話してましたけど、確かもう一人メンバーがいたような？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ああ、あれはRO635……
+Cx4Storm(0);SOPIIDamage(2)||<闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>ああああああ――――――！</size>
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker><Shake>;SOPIIDamage(2)||:ま、またどうしたの？
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ごめんごめん、思い出した！+ああもうわたしのバカ！ここに来る目的を忘れるなんて！
+Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:……SOP IIはポケットの中を探った。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:えっとこれは……人形のコア？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そうだよ！これがわたしたちの仲間、RO635だよ！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:えーと、その人形さんって確かAR小隊の新メンバーですよね？あの頭のきれる……+でも……今のこの様子だと、簡単に修復できないような……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:軍が裏切って、その時エゴールに破壊されたの。わたしはコアしか持ち出すことができなかった。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:エゴールって……今回の軍の指揮官なの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そう、軍の人間部隊に襲われて、わたしもボロボロになって……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:でも鉄血の残骸で生き残れた？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ふふん、だってわたしは16Lab自慢の人形だよ、そう簡単に死ぬわけないじゃん！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:でもRO635さんは……どうすればいいの？+メンタルを移すにしても、素体がないよ？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:素体は必要ないの、今はとりあえずメンタル呼び起せばいい。
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIは予備電源を取り出した。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:これはスケアクロウからもらった電源……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そう、そしてこれ！
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIは一匹の――
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:え……それをどこで手に入れたのですか！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:しー……これは肝心なアイテムだけど、誤解されるから、他の人に言っちゃダメだよ。+とにかくCx4、今からわたしは暫く寝なきゃいけない。その間はみんなでここを守って。+もし緊急なことがあったら、まずはわたしの体を三回叩いて、そして予備電源を切るの。そうすればわたしは安全に起きれる。分かった？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:わ、分かりました！でも……本当に大丈夫ですか？+また何か危険なことを……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:もう今日はいっぱい危険なことをしてきたんじゃない。大事なのは――
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:大事なのは結果、ですね？+分かりました、外は安心して私たちに任せてください。
+()||:……SOP IIは頷いて、Cx4は外に出た。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そして……
+SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIは大きく息を吸った。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:RO635、今会いに行くよ！

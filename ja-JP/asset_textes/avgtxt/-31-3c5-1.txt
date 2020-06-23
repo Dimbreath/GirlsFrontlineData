@@ -1,0 +1,60 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BGM>BGM_Sneak</BGM><BIN>159</BIN>:……貝萊格萊德城內某處。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO，M16應該快到我們的防線了吧……
+RO635(0)<Speaker>RO635</Speaker>||:算算時間應該要到了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:真擔心啊。+無論是M16還是格里芬的其他同伴，我都不希望看到她們受傷……+為什麼……為什麼我們一定要和M16戰鬥呢？
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:SOP2……+放心吧，指揮官一定會和我們一起想辦法把M16弄回來的。+而且你不是也確認過指揮官的想法了嗎？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:嗯，指揮官說過不會對M16下死手的。
+RO635(0)<Speaker>RO635</Speaker>||:所以我們現在就專注在自己的任務上吧。+然後總能找到機會的。
+()||:……通訊接入。
+RO635(0)<Speaker>RO635</Speaker>||:這裡是RO635，發生了什麼意外狀況嗎？
+RO635(0);Lewis(0)<Speaker>路易斯式機槍</Speaker><通讯框>||:<color=#00CCFF>第一攔截點報告，鐵血車隊似乎想要避開我們設防的路線。</color>+<color=#00CCFF>我們需要去和你們會合嗎？</color>
+RO635(0)<Speaker>RO635</Speaker>;Lewis(0)||:明白了，請你們暫時留在那裡確認鐵血和其他敵人是否有其他動向。+保持聯絡，稍後會向你們下達新的指令。
+Lewis(0)<Speaker>路易斯式機槍</Speaker>||<通讯框>:<color=#00CCFF>好，我們會繼續警戒。</color>
+()||:……通訊結束。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M16……她是故意避開了我們嗎？
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:也許吧……不過只要她們想要離開這座城市，就無論如何也繞不開我們現在所在的這個位置。+SOP2，我們這次一定能見到她的。
+()||<黑屏2>:……貝萊格萊德的街道上。+喙駕駛摩托車在街道上疾馳。
+Beak_M16(0)<Speaker>喙</Speaker>||:甩掉她了嗎！+剛剛竟然讓她躲過去了，簡直不可思議！
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:有空碎碎念，還是看好你前面的路吧。
+Beak_M16(0)<Speaker>喙</Speaker>;M16A1BOSS(0)||:嘖，你有教訓我的資格嗎？+你剛才還是放水了吧！這個距離應該很好命中才對！
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:是你開得太不穩了，像你這樣動來動去，別說人形，我連大象都打不中！
+Beak_M16(0)<Speaker>喙</Speaker>;M16A1BOSS(0)||:你就是放水了，等我回去見到代理人——咦？！
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:怎麼了？
+Beak_M16(0)<Speaker>喙</Speaker>||:前面路障攔截！又是格里芬嗎！
+()||<BGM>BGM_Empty</BGM>:M16向前張望，看到兩個熟悉的身影站在不遠處用來充當障礙物的卡車上。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>（為什麼……她們會在這裡？）</color>
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:前面的鐵血，給我站住！+M16，馬上從那輛奇形怪狀的摩托上下來！！
+Beak_M16(0)<Speaker>喙</Speaker>||:可惡，說誰的摩托奇形怪狀啊？！+沒品位的格里芬人形！我要從你身上碾過去！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:喂——M16嗎——？！我是SOP2！+拜託你快下來吧！如果你不聽的話，那我這能來硬的了！
+()||<SE1>Explode</SE1>:——轟！！！
+()||<震屏>:SOP2將一發榴彈射向機車，巨大的爆炸將M16和喙從摩托上甩了下來。
+Beak_M16(0)<Speaker>喙</Speaker>||:可惡，那就只好——
+()||<黑屏1>:在喙摔在地上的一瞬間，她快速向四周發射了煙幕彈。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:停下來了嗎！+這麼濃的煙霧……什麼都看不清啊……
+()||:……滴。
+RO635(0)<Speaker>RO635</Speaker>||:有通訊接入？+等等，這個信號是……
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>RO635，是我。</color>+<color=#00CCFF>我現在需要你的協助。</color>
+()||<黑屏2>:…………
+M16A1()||<黑屏1>:咳……
+()||<BIN>159</BIN><黑屏2>:四周彌漫著濃煙，M16爬起來，聽到附近傳來了熟悉的聲音。
+M4A1()||:我們已經攔截到它們了……+多虧抄了近路才有包抄夾擊的機會。+RO和SOP2也在……我們就在這裡會合。
+Beak_M16(0)<Speaker>喙</Speaker>||:可惡！都已經出城了！
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:與其抱怨還不如趕緊行動起來。
+M16A1BOSS(0);Beak_M16(0)<Speaker>喙</Speaker>||<黑屏1>0,3</黑屏1>:我知道！+所有鐵血單位，放棄現有任務，向我靠攏，不惜一切代價要阻止敵人前進！
+低沉的女聲()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:怎麼了，我感覺到你開始覺得緊張了。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Brain</BGM>:我說過我不想聽到你的聲音。
+低沉的女聲()||:所以呢，你準備就在這裡和她們相見嗎？然後看著她們被腐蝕和融合？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:那種事……只有我來承受就夠了……
+低沉的女聲()||:呵呵呵，我就知道你會這麼說，所以我有一個你應該會感興趣的提案。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:你想說什麼？
+低沉的女聲()||:梭魚節點的核心就在你手上對吧？+讓你的心智和它連接，然後我就會幫助你們脫離現在的困境。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:……我拒絕。
+低沉的女聲()||:看看你對面的敵人吧，你曾經小隊的戰友，還有那個格里芬的指揮官。+你真的有勇氣和這些人戰鬥到底嗎？+如果你被擊斃在這裡，你的朋友們拿到核心，也照樣會和它連接，這樣結局又有什麼不同呢？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:…………
+低沉的女聲()||:我知道你需要時間思考這筆交易是否划算……不過她們已經離你越來越近了，M16。+再不下決定，可就來不及了。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:……那你能用什麼代價來交換呢？你應該不會覺得我會白白服從你的指令吧。
+低沉的女聲()||:當然，你和你的新朋友們可以順利地離開這裡。+而你的老朋友們，呵呵，我向你保證，她們不會受到什麼傷害。+我會用和平的方式解決。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:………………
+低沉的女聲()||:你的回答呢？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:那麼……回答就只剩下一個了……

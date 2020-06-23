@@ -1,0 +1,60 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Room</BGM><回忆>:……【有序紊流】事件3個月後。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:指揮官，今天的進度報告就放在這裡了。
+NPC-Kalin(0)<Speaker>指揮官</Speaker>||:謝謝，你辛苦了。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:哈哈，指揮官也辛苦了。+不過您已經適應這裡的工作了呢。
+NPC-Kalin(0)<Speaker>指揮官</Speaker>||:今天有什麼有趣的事嗎？
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:老樣子，後勤、維修、補給、和平的新聞廣播、吃壞肚子的人形。+為什麼她們一定要被設計成對某種食物過敏呢？真是搞不懂IOP那些人，這算是某種圖靈測試？
+NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:不說這個了，下班後要去咖啡廳喝點什麼嗎？+……沒什麼理由啊，就是放鬆一下，雖然基地有的也就只有速溶咖啡而已，畢竟我們已經被連續幾個月禁止離開基地了……+……哼哼，當然啦，就算是速溶咖啡也當然是您請客啦，指揮官。
+()||:……滴。
+NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:啊，有通訊請求……B級加密頻道，哈維爾先生的。
+NPC-Havel(0)<Speaker>哈維爾</Speaker><通讯框>||:<color=#00CCFF>指揮官，結束掉一天的工作心情如何？</color>+<color=#00CCFF>哈哈，你也說過，工作是沒那麼容易結束，所以我來了。</color>+<color=#00CCFF>你確保你現在身處的環境足夠私密吧？</color>
+()||:……我看了看格琳娜。
+NPC-Kalin(7)<Speaker>格琳娜</Speaker>||:……好吧，我想咖啡廳是泡湯了，對嗎？
+NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:不，別想拿自動販賣機的咖啡糊弄過去，我會攢著的哦。
+()<Speaker></Speaker>||:……格琳娜揮了揮手中的日程表，離開指揮室，房間只剩下我自己。
+NPC-Havel(0)<Speaker>哈維爾</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>別緊張，我說了今天我們不談指揮室裡的工作，對，讓它們都滾一邊去吧。</color>+<color=#00CCFF>今天，讓我們來談一些輕鬆的話題，比如……</color>+<color=#00CCFF>……你想出門來一趟觀光旅行嗎？</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:……
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><关闭蒙版>:……次日，14點30分，洲際列車站附近的暗巷。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:指揮官，這就是我們這次的任務？
+()<Speaker></Speaker>||:RO635拿著我遞給她的照片，那是貝萊格萊德熙來攘往的街頭，一個男人模糊的側臉被紅色油性筆畫上了一個圈。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:可是僅僅靠一張遠處拍到的照片，到底要怎麼去找……+而且，雖然您跟我說他是個情報販子，不過他真的有安潔的情報嗎？
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><回忆>:……一天前。
+NPC-Havel(0)<Speaker>哈維爾</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>雖然之前我們偉大的局長給你安排了任務，不過卻把格里芬所有的載具都給破壞了，一直不能出門我想你一定很鬱悶吧。</color>+<color=#00CCFF>所以！我好不容易幫你爭取來了這次機會，你一定要感謝我哦。</color>+<color=#00CCFF>你一定想問，到底是什麼機會？</color>+<color=#00CCFF>不要心急，我慢慢和你講。</color>
+NPC-Ange(0)<Speaker>哈維爾</Speaker>||<BIN>9</BIN><黑屏2><黑点1>:<color=#00CCFF>我偷偷地從局長那打聽到，安潔可能出現在南部的一個城市。</color>+<color=#00CCFF>當然她為什麼要去那可千萬不要問我，她的目的我也是完全不了解。</color>+<color=#00CCFF>說實話，如果我是她的話，之前回到安全局後我一定會拼命邀功要求漲薪，而不是像她那樣自顧自一溜煙不見了。</color>
+NPC-Zielinski(0)<Speaker>哈維爾</Speaker>||<黑点2><黑点1>:<color=#00CCFF>所以我想到，你立功的機會來了，要是真的找到安潔，局長一高興說不定就給你們格里芬批准個一架兩架直升機，那樣你們就有辦法自己出門啦！</color>
+NPC-Havel(0)<Speaker>哈維爾</Speaker><通讯框>||<BIN>8</BIN><黑点2><黑屏1>:<color=#00CCFF>嗯嗯，你說怎麼找到她？當然當然，我都幫指揮官你準備好了，我這就把我搜集到的極其重要的情報發送給你，一定要感謝我的大恩大德啊！</color>
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||<BIN>86</BIN><黑屏2><黑屏1><关闭蒙版>:指揮官，你有聽到嗎？
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:我看著RO手裡的照片，深深地嘆了口氣。+是的，我們手裡只有一張照片和一個線人曾經出現過的區域，相比要解決的問題來說，這些線索實在太少了。+要如何去找到他還是一個小問題，更大的問題是他是否真的掌握和安潔相關的情報。+而我還有一個問題……那就是哈維爾為什麼需要我去找他。+雖然哈維爾嘴上一直不正經，但我很明白他是個非常聰明的人，他要我們來執行這個任務，一定有他的道理。+……不過，這暫時不是我應該考慮的事情。
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Empty</BGM>:指揮官？
+指揮官()<Speaker>指揮官</Speaker>||<BGM>BGM_Truth</BGM>:我有在聽，這是唯一的線索，等到了目的地我們再想辦法吧。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<白屏1>:好吧……也是，現在光看著一張照片也想不出什麼主意來。+說起來這個車站我是第一次來，看起來比基地附近的要像樣多了。+不愧是洲際列車啊，上次坐還是在別的城市裡和調色板小隊一起呢——最糟糕的乘車體驗，我是說……列車很好，但隊友很吵。+希望這次能修正一下我的體驗，SOP2應該比AAT52好對付得多。+不過……真的過了很久啊……轉眼間，我們已經經歷這麼多事了。
+()<Speaker></Speaker>||<BIN>132</BIN><白屏2><黑屏1><回忆>:5個月前，格里芬公司與軍方組織了一場聯合行動，目的是抓捕鐵血主腦伊萊莎，徹底平息當地的人造生命暴動。+但是在行動中，我們遭遇了軍方部隊的背叛，險些全軍覆沒，而克魯格先生也被莫須有的罪名逮捕。
+()<Speaker></Speaker>||<BIN>133</BIN><黑屏2><黑屏1>:軍方的真實目的不僅僅是獨占主腦，還要利用M4A1和主腦間的聯繫，達成某個危險的目的。+而這一切，都被一個坍塌液改裝成的髒彈阻止了。+軍方損失慘重，不得不放棄行動，而主腦和M4A1的下落也從此不明。
+()<Speaker></Speaker>||<BIN>157</BIN><黑屏2><黑屏1>:我從戰場和之後收集到的情報中整理出某些可能性，但這就是真相嗎？+我無法確認，但我能確認的是，對真相感興趣的不只是我，或者只是參與過這次戰役的人。+坍塌液的輻射污染在戰區中擴散後，戰鬥迅速進入尾聲。
+()<Speaker></Speaker>||<BIN>146</BIN><黑屏2><黑屏1>:我就在這時被一個神秘的白色勢力抓捕。+它們是自稱涅托（Nyto）的審訊者，想從我的腦袋裡獲得安潔和M4A1的情報。+我陳述了一些……順便編造了一些無關緊要的事情，然後被404小隊營救，在格琳娜的護送下來到了新的格里芬基地。
+()<Speaker></Speaker>||<BIN>161</BIN><黑屏2><黑屏1>:在此之後無論是忤逆小隊，還是404小隊，都失去了蹤影，就像從來不存在過一樣。+在16LAB老闆哈維爾先生的引見下，我開始接受安全局局長澤林斯基交予我的工作委託……
+NPC-Ange(0)<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:並參與到針對安潔……那位格里芬前指揮官、安全局前特工、現今的逃亡叛徒的搜查行動中。+也就是……我這次的任務。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Empty</BGM><关闭蒙版>:不過指揮官……找到安潔之後要怎麼辦，您想過嗎？
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:……抱歉，我不該問這個，我只是想提供些建議……但是一思考到這個問題，我的雲圖就有點過載。
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:總之無論你怎麼選擇，我都相信你的決定，指揮官。+啊，SOP2回來了。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sunshine</BGM>:我回來啦——咦？我要的車站特產烤熱狗呢？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:拿去吧，下次不會再給你亂花錢啦，我們行動的經費也是有限的。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:耶——！難得出來一趟不就應該好好感受一番嘛，就算拍個照片炫耀一下也好啊！
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:你和那些夥伴現在倒是關係很好呢，不過等到完成了任務，我保證你拍的和任務無關的視覺訊息會被清理掉………+所以，服務器位置摸清了嗎？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:我已經用香蕉都掃描過啦！
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:“香蕉”？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:對啊，黃黃的不是很像香蕉嘛！帕斯卡幫我改裝了一下，可以大大提升我的電子戰能力哦♪
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker><Shake>||:那隻兵蟻……你還帶著啊……啊不行，光看著就讓我開始頭暈了……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:哈哈，那你不要看不就好啦！+總之我馬上就傳輸給你。+不過我還是不明白，我們就不能直接進車站嗎？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP2，這是公共民用車站，你知道嗎？這邊所有的入口都由軍方的士兵把守，保安系統掌控著這裡的每一個出入記錄。+指揮官現在多半是軍方的通緝犯，而我們更不可能會有合法身份，只要一踏進檢票口，3秒內我們的身份識別就會上傳到軍方的訊息庫，再過1秒我們就會被那邊兩個大個子人形摁倒在地。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:所以我們才會做了身份偽裝？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:至少不要被掃描識別出來……+你找到的那些服務器，我會植入一個病毒程序。+當我們用假的身份識別碼上傳到車站的審查系統時，系統將跳過驗證環節並自動向軍方的總訊息庫上傳一個假的身份。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:哇！RO，你連這個都能做到？！可以教教我嗎？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:多虧了格林娜小姐提前幫我做了準備……+這種基礎級別的電子戰，現在的你應該也能做到，前提是你能理解操作的原理。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:我不理解，但是聽起來很酷！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:哈哈……我就知道……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Reverse</BGM><黑点1>:讓我們開始吧，指揮官，請協助我消除服務器中的防壁系統，SOP2，你在旁邊望風。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>10</BIN><黑点2>:指揮官，我現在入侵了車站的服務器，現在需要你找到審查系統的漏洞，這樣我才能植入程序。+您是第一次入侵公共系統嗎？會不會緊張呢？
+()<Speaker></Speaker>||<黑点1>:也許會有些負罪感，不過那也是沒有辦法的事。慢慢適應吧，畢竟我們現在身份不同往日了。+總之這和以往的電子戰沒什麼區別，讓我們開始吧。
+()||<黑点2><BIN>10</BIN>:

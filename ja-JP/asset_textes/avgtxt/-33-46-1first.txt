@@ -1,0 +1,23 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:格里芬临时指挥室内。
+RO635(0)<Speaker>RO635</Speaker>||:指挥官，另一台列车炮一直咬着我们不放！
+AR15Mod(0)<Speaker>AR15</Speaker>||:追得还真紧啊……有办法甩掉他们吗？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:已经是最快了！既然是同型号，单凭速度估计是甩不掉他们。
+()||<SE1>Explode</SE1><震屏>:伴随着轰鸣的炮声，车体又是一阵剧烈的晃动。+在车厢中的众人抓住了身边的东西才勉强站稳。
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45姐，护盾快撑不住了！</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我们也用火炮打回去吧！
+HK416Mod(0)<Speaker>HK416</Speaker>||:有那么轻松就好了！+对面的护盾是完整的，我们的火炮还少了几门，硬碰硬是没有胜算的。
+()<Speaker>指挥官</Speaker>||:UMP45，你能查到这种型号的列车护盾发生器的位置吗？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:能查到。+指挥官，你是不是有什么绝妙的计划了？
+()<Speaker>指挥官</Speaker>||<黑屏1>:我有个方案……
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:装甲列车顶部。
+()||<BGM>BGM_Reverse</BGM>:格里芬控制的装甲列车开始渐渐减速。+AR小队守在车顶的掩体之后，等待军方装甲列车靠近。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没想到指挥官要我们这么做，真是吓了一跳。
+RO635(0)<Speaker>RO635</Speaker>||:就是因为指挥官会下这种命令，我们往往才能绝处逢生……这次一定也是一样的。
+AR15Mod(0)<Speaker>AR15</Speaker>||:指挥官的判断一定是对的。+这次的任务也不复杂——击毁车厢中段的护盾发生器，剩下的就交给那些火炮。
+DesertEagle(0)<Speaker>沙漠之鹰</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我这边的小队已经就位，行动开始时会掩护你们进行突击。</color>+<color=#00CCFF>期待诸位的华丽演出。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没问题。+对了对了，RO，AR15，我们要快点行动，等一下还要接M4回来呢！
+RO635(2)<Speaker>RO635</Speaker>||:那是当然，怎么能让M4错过班车呢。
+AR15Mod(0)<Speaker>AR15</Speaker>||:敌方列车进入攻击位置了，我们走！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:明白，出发啦！
+()||<黑点2>:

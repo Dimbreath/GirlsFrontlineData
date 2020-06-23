@@ -1,0 +1,23 @@
+ ()||<BGM>BGM_Sneak</BGM><BIN>4</BIN><Night>:……ナガンのいる倉庫に侵入した。
+PM(0)<Speaker>マカロフ</Speaker>||:倉庫に入ったわ。//n目標捜索開始よ。
+AK47(0)<Speaker>AK47</Speaker>||:いたぞ、ここだ！
+M1895(1)<Speaker>M1895</Speaker>||:う……+AK……47？
+AK47(0)<Speaker>AK47</Speaker>;M1895(1)||:お？まだ意識はあるな。//nこれがいくつか分かるか？
+AK47(0);M1895(1)<Speaker>M1895</Speaker>||:そんなに速く指を動かされて分かるか！目がかすんできたわ！
+AK47(0)<Speaker>AK47</Speaker>;M1895(1)||:マカロフ、見つけたぜ！+ただ目と脳がイカれちまってるみたいだ。どうする？
+AK47(0);M1895(1)<Speaker>M1895</Speaker>||<黑屏1>:誰がじゃ！//nわしは昼寝しとっただけじゃ、体はピンピンしておる！
+ ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><SE2>Alarm</SE2>:…………！！
+SKS(0)<Speaker>SKS</Speaker>||<BGM>BGM_Battle</BGM>:この音は……
+AK47(0)<Speaker>AK47</Speaker>||:チッ、早くも鉄血に見つかったか？
+PM(0)<Speaker>マカロフ</Speaker>||<黑屏1>:ただ近くをパトロールしているだけだと思う。//nこちらの居場所まではまだ特定できていないはずよ。
+ ()||<BIN>4</BIN><Night><黑屏2>:……大型の機甲兵が近づいてくる音がする。
+M1895(1)<Speaker>M1895</Speaker>||:くそっ、敵の機甲兵が倉庫まで入って来たみたいだ。//nもう逃げられんぞ！
+AK47(0)<Speaker>AK47</Speaker>;M1895(1)||:あたしとSKSが敵を引きつけるから、マカロフはチビを連れて早く逃げろ！
+AK47(0);PM(0)<Speaker>マカロフ</Speaker>||:二人とも、こんなときに英雄を気取るつもり？
+AK47(0)<Speaker>AK47</Speaker>;PM(0)||:英雄なんかに興味はねぇ。//nでも黙って見てろっていうんなら、それは願い下げだぜ。
+SKS(0)<Speaker>SKS</Speaker>;PM(0)||:罪悪感を感じるんだったら、戦記にあたしたちのこと格好よく書いてよね。 
+SKS(0);PM(0)<Speaker>マカロフ</Speaker>||:……
+PM(0)<Speaker>マカロフ</Speaker>||<黑屏1>:星条旗の人形の奴らみたいに、ことを大きく誇張するつもりはないわ。+だって私、嘘をつくのは苦手だから。+戦記とかその類のものは、やっぱりあなたたちが自分で帰って書きなさい。
+ ()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>Explode</SE1>:…………！！
+SKS()<Speaker>SKS</Speaker>||:い……今の爆発は……？
+马卡洛夫()<Speaker>マカロフ</Speaker>||:……私たちの最後のチャンスよ、逃さないで。

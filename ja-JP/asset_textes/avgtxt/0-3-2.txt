@@ -1,0 +1,21 @@
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:第一波は防いだ。とりあえずひと息つけるな。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:ったくもう、キリがないじゃん！ペルシカさんと連絡とれないの？
+M16(3)<Speaker>M16A1</Speaker>||:鉄血に見つかったからな。//n16LABの情報が漏れないよう、プリセットされてある通信モジュールが自動的に通信を切ったんだ。
+M4A1(2)<Speaker>M4A1</Speaker>;M16(3)||:でも転送はあと半分残ってるわ。持ちこたえられる？
+M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||:だめね、こちらの人数が少なすぎる。//nもう一度同じような攻勢をかけられたらおしまいよ。
+M16(3)<Speaker>M16A1</Speaker>;AR15(2)||:……方法ならある。+グリフィンの支援部隊が近くにいるんだ。//n長らく待機状態のようだから、おそらく見捨てられたのだろう。+M4、我々のアクセス権の信号を変更して、こちらを優先的に支援してもらってくれ。
+M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:了解。AR15、SOP II――+二人はその小隊を率いて敵を食い止めて。//nM16姉さんはここに残って私の警護を頼みます。
+M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:了解だよ。戻ってくるまで持ちこたえてね！
+()||<BIN>9</BIN><黑屏2>:……30分後。
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:……転送完了！
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><黑屏2>:ふぅーー+あの支援部隊が役に立ったようだな。
+M4A1(0)<Speaker>M4A1</Speaker>||:ええ。AR15たちを呼び戻して、急いでここを離れましょう。
+代理人()<Speaker>エージェント</Speaker>||<BGM>BGM_Empty</BGM>:逃がしはしませんよ……
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>:エージェントの信号だ！物凄い速さで近づいてくるぞ！
+代理人()<Speaker>エージェント</Speaker>||<BIN>9</BIN><黑屏2>:……鉄くずを寄せ集めただけの、生ゴミの処理にしか使えないような、ウジ虫としか戦ったことのない……ゴミ人形どもが！
+()||<黑屏1><SE1>Explode</SE1>:——！！
+()||<BIN>15</BIN><黑屏2>:……
+M4A1()<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:……ゲホッ……ゲホゲホ！+M16姉さ……ゲホッ……どこ……？
+代理人()<Speaker>エージェント</Speaker>||:人の心配をしている場合じゃなくてよ、M4A1。
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2>:うぐっ！――
+代理人()<Speaker>エージェント</Speaker>||<黑屏1>:……なぜなら……あなたに死を届けに参りましたから。

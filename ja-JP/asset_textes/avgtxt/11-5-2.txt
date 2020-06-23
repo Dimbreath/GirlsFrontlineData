@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Sneak</BGM><SE2>Gunfight</SE2>:砰砰！砰砰！+……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><黑点1>:安靜多了。+果然這不光光是儲存器，這裡的空間和一個更大的數據庫連接著。
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:喀嚓！+……RO635打開了房間的門。+……！
+()<Speaker>？？</Speaker>||<黑屏1>:請不要再前進了。
+M1903(4)<Position>0,8000</Position>;RO635-NoArmor(0)<Speaker>RO635</Speaker><Position>-450,0</Position>||<BIN>22</BIN><黑屏2><Night>:新的防壁麼……看來沒那麼輕鬆就結束工作啊。
+M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(0)||:…………
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:為什麼……是你？
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:…………
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:那個女僕的心智備份麼……用來做儲存器最後一道識別也太過於奢侈了。
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:來到這裡的，如果不是我認識的人，那就一定是敵人。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:看來到最後還是得幹一架才行……
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:不過我認識你，所以你不是敵人。
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:…………+我被植入在這個數據庫中，就是為了等待另一個我。+等待她來提取這份記憶……然後去做她應該做的事。+但是現在看來，她不會來了。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:不是當時的心智麼……為了防止泄密，融毀時的確不應該上傳數據。+這只是一個備份……？+那個……女僕小姐，請問你是怎麼認識我的？
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:我們都不過是在執行著主人的指令。+如果這是他所期望的，無論發生什麼我們都不會後悔。+拿去吧……這份情報是允諾交給你的。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:給我的？……這是？
+NPC-Maid(0)<Speaker>女僕</Speaker>;RO635-NoArmor(4)||:希望對你能有幫助，那麼請回吧，接下來就不是你該踏入的領域了。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||<震屏><白屏1>:啊等等，我——
+()<Speaker></Speaker>||<BIN>9</BIN><白屏2><黑屏1><BGM>BGM_Empty</BGM>:…………+……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM><Night>:RO？你醒了？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(3)<Speaker>RO635</Speaker>||:被那個女僕趕出來了麼……儲存器也毀壞了……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(3)||<震屏>:趕出來？你的心智沒燒壞吧？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:當然沒有，還有心智模組在胸口，你摸我頭幹嘛！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:我只是擔心你嘛！怎麼樣，有什麼線索嗎？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:那個女僕的心智備份在裡面，她交給我了這個數據……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:這是……啟動編碼和一個結構圖？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:這是這個房間的結構圖，你看最下面。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:逃生通道！一直連接到了這個城市的下水道？
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:沒錯，然後開關應該在這裡……！
+()||:RO走到一個角落，拍擊了下一個盆景的底部，一個連接接口露了出來，RO拉出了自己的端口接了上去。
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:看來啟動編碼也沒錯，這樣應該就可以了。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:嗚哇！
+()||:放滿設備的桌子緩緩平移，露出了一個僅夠一人通過的小口。
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<黑屏1>:芝麻開門。看來我們終於離目標越來越近了。

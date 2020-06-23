@@ -1,0 +1,949 @@
+{
+    "carnival_goto_page_info": [
+        {
+            "id": "1",
+            "type": "buy_bp_count",
+            "goto_page": "Mall-5"
+        },
+        {
+            "id": "2",
+            "type": "buy_bp_num",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "3",
+            "type": "coin_mission",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "4",
+            "type": "collect_gun",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "5",
+            "type": "combine_gun",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "6",
+            "type": "consume_bp",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "7",
+            "type": "consume_capsule",
+            "goto_page": "Factory-2"
+        },
+        {
+            "id": "8",
+            "type": "consume_coin1",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "9",
+            "type": "consume_coin2",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "10",
+            "type": "consume_coin3",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "11",
+            "type": "consume_exchange_coin",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "12",
+            "type": "consume_furniture_coin",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "14",
+            "type": "consume_gem",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "16",
+            "type": "consume_quick_reinforce",
+            "goto_page": "Reinforcement-0"
+        },
+        {
+            "id": "17",
+            "type": "consume_quick_training",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "18",
+            "type": "consume_skin_exchange",
+            "goto_page": "Dorm-2"
+        },
+        {
+            "id": "19",
+            "type": "cumulative_recharge_amount",
+            "goto_page": "Mall-3"
+        },
+        {
+            "id": "20",
+            "type": "cumulative_recharge_days",
+            "goto_page": "Mall-3"
+        },
+        {
+            "id": "21",
+            "type": "develop_equip",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "23",
+            "type": "develop_equip_rank4",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "24",
+            "type": "develop_equip_rank5",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "25",
+            "type": "develop_gun",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "27",
+            "type": "develop_gun_rank4",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "28",
+            "type": "develop_gun_rank5",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "29",
+            "type": "eat_gun",
+            "goto_page": "Factory-2"
+        },
+        {
+            "id": "30",
+            "type": "fix_gun",
+            "goto_page": "Reinforcement-0"
+        },
+        {
+            "id": "31",
+            "type": "gasha_count",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "32",
+            "type": "gift giving",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "34",
+            "type": "mission_common_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "35",
+            "type": "mission_duplicate_type1",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "36",
+            "type": "mission_duplicate_type2",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "37",
+            "type": "mission_duplicate_type3",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "38",
+            "type": "mission_emergent_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "39",
+            "type": "mission_night_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "40",
+            "type": "open_gift",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "41",
+            "type": "operation",
+            "goto_page": "MissionSelection-1"
+        },
+        {
+            "id": "42",
+            "type": "operation_duration",
+            "goto_page": "MissionSelection-1"
+        },
+        {
+            "id": "43",
+            "type": "s_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "44",
+            "type": "upgrade",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "46",
+            "type": "win_armorperson",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "47",
+            "type": "win_armorrobot",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "48",
+            "type": "win_boss",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "49",
+            "type": "win_person",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "50",
+            "type": "win_robot",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "51",
+            "type": "fix",
+            "goto_page": "Reinforcement-0"
+        },
+        {
+            "id": "52",
+            "type": "special_develop_gun",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "53",
+            "type": "mission_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "54",
+            "type": "adjust_equip",
+            "goto_page": "Research-2"
+        },
+        {
+            "id": "55",
+            "type": "trial_mission",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "56",
+            "type": "consume_iop_contract",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "57",
+            "type": "get_build_coin",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "58",
+            "type": "consume_build_coin",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "59",
+            "type": "consume_fight_report",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "60",
+            "type": "win_destroyer",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "61",
+            "type": "win_jammer",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "62",
+            "type": "win_alchemist",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "63",
+            "type": "retire_gun",
+            "goto_page": "Factory-1"
+        },
+        {
+            "id": "65",
+            "type": "consume_equip_contract",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "66",
+            "type": "develop_fight_report",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "67",
+            "type": "buy_furniture_coin",
+            "goto_page": "Mall-5"
+        },
+        {
+            "id": "68",
+            "type": "upvote",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "69",
+            "type": "buy_quick_training",
+            "goto_page": "Mall-1"
+        },
+        {
+            "id": "70",
+            "type": "buy_quick_reinforce",
+            "goto_page": "Mall-1"
+        },
+        {
+            "id": "71",
+            "type": "buy_iop_contract",
+            "goto_page": "Mall-1"
+        },
+        {
+            "id": "72",
+            "type": "buy_quick_develop",
+            "goto_page": "Mall-1"
+        },
+        {
+            "id": "73",
+            "type": "buy_equip_contract",
+            "goto_page": "Mall-1"
+        },
+        {
+            "id": "79",
+            "type": "special_develop_quickInput",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "80",
+            "type": "auto_mission_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "81",
+            "type": "operation_5",
+            "goto_page": "MissionSelection-1"
+        },
+        {
+            "id": "82",
+            "type": "reinforce_team2",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "83",
+            "type": "mission_emergency_1_1_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "84",
+            "type": "mission_emergency_1_2_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "85",
+            "type": "mission_emergency_1_3_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "86",
+            "type": "mission_emergency_1_4_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "87",
+            "type": "mission_emergency_1_5_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "88",
+            "type": "mission_emergency_1_6_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "89",
+            "type": "mission_emergency_1_7_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "90",
+            "type": "mission_emergency_1_8_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "91",
+            "type": "mission_emergency_3_1_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "92",
+            "type": "mission_emergency_3_2_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "93",
+            "type": "mission_emergency_3_3_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "94",
+            "type": "mission_emergency_3_4_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "95",
+            "type": "mission_emergency_3_5_1",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "100",
+            "type": "gun5_into_team",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "101",
+            "type": "gun_equip_type_4",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "102",
+            "type": "gun_equip_type_5",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "103",
+            "type": "gun5_into_team2",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "104",
+            "type": "team_from_1",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "105",
+            "type": "team_from_2",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "106",
+            "type": "team_from_3",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "107",
+            "type": "team_from_4",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "108",
+            "type": "team_from_5",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "115",
+            "type": "combine_gun_type_4",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "116",
+            "type": "combine_gun_type_2",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "117",
+            "type": "combine_gun_type_3",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "118",
+            "type": "combine_gun_type_5",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "119",
+            "type": "combine_gun_type_1",
+            "goto_page": "Factory-3"
+        },
+        {
+            "id": "123",
+            "type": "dorm_change",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "124",
+            "type": "friend_visit",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "125",
+            "type": "establish_up_type_101",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "126",
+            "type": "establish_up_type_103",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "127",
+            "type": "establish_up_type_102",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "128",
+            "type": "adopt_pet",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "129",
+            "type": "establish_up_type_201",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "130",
+            "type": "establish_up_type_202",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "131",
+            "type": "establish_up_type_204",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "132",
+            "type": "make_consume_fight_report",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "133",
+            "type": "establish_up_type_206",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "134",
+            "type": "establish_up_type_203",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "135",
+            "type": "establish_up_type_205",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "136",
+            "type": "friend_apply",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "137",
+            "type": "friend_card_change",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "138",
+            "type": "friend_headpic_change",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "142",
+            "type": "adjust_equip_attr_100",
+            "goto_page": "Research-2"
+        },
+        {
+            "id": "143",
+            "type": "develop_fairy",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "144",
+            "type": "eat_fairy",
+            "goto_page": "Research-3"
+        },
+        {
+            "id": "145",
+            "type": "upgrade_fairy",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "147",
+            "type": "retire_fairy",
+            "goto_page": "Factory-5"
+        },
+        {
+            "id": "148",
+            "type": "establish_up_type_301",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "149",
+            "type": "establish_up_type_302",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "150",
+            "type": "establish_up_type_303",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "151",
+            "type": "establish_up_type_304",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "153",
+            "type": "buy_mp",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "154",
+            "type": "buy_ammo",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "155",
+            "type": "buy_mre",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "156",
+            "type": "buy_part",
+            "goto_page": "Mall-0"
+        },
+        {
+            "id": "157",
+            "type": "mission_emergency_0_3_6",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "158",
+            "type": "mission_emergency_1_4_4",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "159",
+            "type": "mission_emergency_3_3_4",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "160",
+            "type": "dorm_goaway",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "161",
+            "type": "borrow_friend_team",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "162",
+            "type": "buy_bp_pay",
+            "goto_page": "Mall-5"
+        },
+        {
+            "id": "163",
+            "type": "soul_bond_gun",
+            "goto_page": "Formation-0"
+        },
+        {
+            "id": "164",
+            "type": "special_develop_equip",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "165",
+            "type": "eat",
+            "goto_page": "Factory-2"
+        },
+        {
+            "id": "166",
+            "type": "consume_voucher",
+            "goto_page": "Research-2"
+        },
+        {
+            "id": "167",
+            "type": "",
+            "goto_page": "SpecialOPS-0"
+        },
+        {
+            "id": "168",
+            "type": "auto_mission",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "169",
+            "type": "retire_equip",
+            "goto_page": "Factory-5"
+        },
+        {
+            "id": "170",
+            "type": "love_collect",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "172",
+            "type": "adjust_fairy",
+            "goto_page": "Research-4"
+        },
+        {
+            "id": "173",
+            "type": "gain_hg",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "174",
+            "type": "gain_smg",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "175",
+            "type": "gain_ar",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "176",
+            "type": "gain_mg",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "177",
+            "type": "gain_rf",
+            "goto_page": "Factory-0"
+        },
+        {
+            "id": "178",
+            "type": "gain_fittings",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "179",
+            "type": "gain_magazine",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "180",
+            "type": "gain_equipment",
+            "goto_page": "Factory-4"
+        },
+        {
+            "id": "183",
+            "type": "get_the_diamond",
+            "goto_page": "Mall-3"
+        },
+        {
+            "id": "184",
+            "type": "simulated_warfare",
+            "goto_page": "MissionSelection-2"
+        },
+        {
+            "id": "185",
+            "type": "mission_activities_win",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "186",
+            "type": "up_mod1",
+            "goto_page": "Research-5"
+        },
+        {
+            "id": "187",
+            "type": "up_mod2",
+            "goto_page": "Research-5"
+        },
+        {
+            "id": "188",
+            "type": "up_mod3",
+            "goto_page": "Research-5"
+        },
+        {
+            "id": "189",
+            "type": "upgrade2",
+            "goto_page": "Research-0"
+        },
+        {
+            "id": "190",
+            "type": "sun_friend_team_into",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "191",
+            "type": "night_friend_team_into",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "192",
+            "type": "mind_update",
+            "goto_page": "Research-5"
+        },
+        {
+            "id": "193",
+            "type": "reset_mission_group",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "194",
+            "type": "special_mission_point",
+            "goto_page": "MissionSelection-0"
+        },
+        {
+            "id": "195",
+            "type": "",
+            "goto_page": "SpecialActivity-0"
+        },
+        {
+            "id": "197",
+            "type": "get_lollipop",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "198",
+            "type": "get_icecream",
+            "goto_page": "Dorm-0"
+        },
+        {
+            "id": "199",
+            "type": "friend_greeting",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "200",
+            "type": "friend_request",
+            "goto_page": "Friend-0"
+        },
+        {
+            "id": "201",
+            "type": "get_core",
+            "goto_page": "Factory-1"
+        },
+        {
+            "id": "202",
+            "type": "squad_data_analyse",
+            "goto_page": "Dorm-20005"
+        },
+        {
+            "id": "203",
+            "type": "squad_eat_chip",
+            "goto_page": "Dorm-20006"
+        },
+        {
+            "id": "204",
+            "type": "",
+            "goto_page": "Dorm-20001"
+        },
+        {
+            "id": "205",
+            "type": "",
+            "goto_page": "Dorm-20002"
+        },
+        {
+            "id": "206",
+            "type": "",
+            "goto_page": "Dorm-20003"
+        },
+        {
+            "id": "207",
+            "type": "",
+            "goto_page": "Dorm-20004"
+        },
+        {
+            "id": "208",
+            "type": "",
+            "goto_page": "SpecialOPSPanel-0"
+        },
+        {
+            "id": "209",
+            "type": "uniform_get_color",
+            "goto_page": "UserDressup-1"
+        },
+        {
+            "id": "210",
+            "type": "activation_uniform_skill",
+            "goto_page": "UserDressup-0"
+        },
+        {
+            "id": "211",
+            "type": "",
+            "goto_page": "Mall-209"
+        },
+        {
+            "id": "212",
+            "type": "use_dye",
+            "goto_page": "UserDressup-1"
+        },
+        {
+            "id": "213",
+            "type": "buy_assign_dye",
+            "goto_page": "Mall-5"
+        },
+        {
+            "id": "214",
+            "type": "buy_random_dye",
+            "goto_page": "Mall-5"
+        },
+        {
+            "id": "215",
+            "type": "get_commander_uniform",
+            "goto_page": "Mall-209"
+        },
+        {
+            "id": "216",
+            "type": "buy_commander_uniform",
+            "goto_page": "Mall-209"
+        },
+        {
+            "id": "217",
+            "type": "explore_has_time",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "218",
+            "type": "explore_start",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "219",
+            "type": "explore_auto_team",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "220",
+            "type": "explore_first_times",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "221",
+            "type": "explore_replay",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "222",
+            "type": "explore_get_prize",
+            "goto_page": "Dorm-20008"
+        },
+        {
+            "id": "223",
+            "type": "explore_change_item",
+            "goto_page": "Dorm-20008"
+        }
+    ]
+}

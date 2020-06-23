@@ -1,0 +1,73 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM><Night>:
+()||<BIN>84</BIN></黑屏2>:
+()||<Night>:19點10分，貝萊格萊德居民區的一角。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:SOP2，偵查得怎麼樣了？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:又搜集了200個人形的視覺訊息，終於找到她了……
+RO635-NoArmor(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:辛苦你啦，SOP2。
+RO635-NoArmor(2);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:哈……你知道最辛苦的是什麼嗎？你的命令讓我看到了各種……充滿衝擊的畫面……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:啊……畢竟是民用人形的視覺訊息嘛……分析下來如何？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:大概是一個小時前的記錄了，我把和她位置相關的視覺訊息都集中起來了，你可以連起來看。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:好，我也把我的訊息和你同步起來，這樣應該可以推測出她的行為模式和路線。+看，路邊那台紅色跑車右邊，是那個女僕對嗎？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:是她，不會有錯，你看下一個視覺訊息。+她正在移動，不知道最後她會不會走到線人的住處。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:如果那個線人有那麼狡猾，她不一定會沒事就回家看看呢。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:沒關係，找出她的行動模式，我們等會可以對她進行跟蹤，線人總會露出馬腳的。
+()||<黑点2>:……5分鐘後。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:RO……你把訊息都看完了嗎？
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:嗯……有點奇怪……
+RO635-NoArmor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:你覺不覺得，遠處那邊的跑車有點眼熟？
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:不是有點眼熟，這就是她起點位置時的那輛跑車……+那個女僕……雖然她一直在不同的道路上行進，但實際上她一直在這附近兜圈子。
+RO635-NoArmor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:為什麼？這是什麼奇怪的散步命令？
+RO635-NoArmor(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:根據經驗，這種情況基本只有一種可能……+她察覺到有人在跟蹤她，而此時請示主人可能暴露訊號，她又不能冒著被綁架的風險遠離街區。+所以她正在尋找擺脫那些跟蹤她的人的最佳路徑，但是對方不停地在堵截她，導致她不得不在這附近轉圈尋找突破口。
+RO635-NoArmor(4);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:她發現了我們？這不可能，我們剛剛才收集到這些訊息，而這已經是一個小時前的事了？
+RO635-NoArmor(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我也認為不可能，所以……+跟蹤她的，是別人。
+RO635-NoArmor(4);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:誒？你是說……還有其他人在跟蹤她？
+RO635-NoArmor(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:這很有可能，想獲得情報的，絕對不只有我們……而且，多半不是朋友。
+RO635-NoArmor(4);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:不管他們是誰，我們不能讓女僕落到他們手裡！
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:沒錯，不過我們最好先鎖定敵人的位置，好在他們沒察覺到我們之前將他們處理掉。
+RO635-NoArmor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:你想要一點提示嗎？
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:你都知道什麼？
+RO635-NoArmor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:我剛剛偷偷用別的人形連接了下公共網絡。+這樣就能擴大視覺訊息的拾取範圍，及時注意到有沒有可疑的人出現在附近。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:跟蹤者麼……先從視覺上鎖定也是一個辦法。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:看，左手邊，那個消防栓和流浪漢之間，有個穿著大衣，低頭玩電子掌機的人，你看到了嗎？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:嗯，怎麼了？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:我覺得他的動作有些不太正常。
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:嗯……人形和人類不一樣，動作會有非常細微的延遲感，這人可能是人形偽裝的。
+RO635-NoArmor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:是吧？+他在這幾個街口不斷移動，雖然他在假裝自己很自然地行動，但從軌跡上看，他一直和那個女僕保持非常恆定的距離。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:真沒想到……這你都能察覺？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:哼哼，我的感覺可是很敏銳的，在追蹤這件事上我可是專家！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:這確實是你的長項，不過你確定？他的速度可並不快，很快就會跟丟的。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:也許他根本就不需要快呢？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:……我明白了，這裡的跟蹤者不只有一個，他們有各自的跟蹤路線。+他們在慢慢地收網，最終一定會抓住那個女僕。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:老套但有效的抓捕方式。+那些跟蹤的人，需要我挨個找出來嗎？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:不用，那樣太慢了，而且容易遺漏。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:那麼……+右邊的四樓，有一個人一直在觀察這片區域的周圍，雖然他躲在窗戶裡，但是我可以微弱地感覺到他的訊號源。+這可能是個指揮人形……我的電子戰能力比較弱，強行連接可能會被他發現，所以你可以先從他身上試試看？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:明白了。+我只需要黑進這個人形，然後順藤摸瓜就可以了。+交給我吧，你來繼續盯著那個女僕。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:光盯著太不保險了，萬一那些人立即採取行動，我們是來不及從他們手下保護住那個女僕的。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:所以……但是，現在就暴露太危險了。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:我也會和他們一樣假裝是普通的行人，只是一點一點悄悄地靠近過去……+你可以幫助我們製造一些機會，我再順勢帶著她離開這塊封鎖區。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我明白了……你盡可能帶著她往剛才的廣場那個方向去，人太多的話對方也不好直接下手。+我們可以藉助人群的掩護擺脫跟蹤……不過前提是那個女僕願意相信你。
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:沒關係，一看我的樣子就知道我是站在正義那邊的！
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||<黑点1>:光看樣子的話……還真的不太好說啊……
+()||<黑点2>:……+SOP2離開了角落，悄悄往街道上移動。+RO635啟動電子戰模式，模組將整個街區模擬成新的電子空間。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:首先……是第一個追蹤者。
+RO635-NoArmor(0)<Speaker></Speaker>||:……RO635的意識體攀爬到目標頭頂的樓上。
+RO635-NoArmor(0)<Speaker>人形追蹤者</Speaker>||:第23次，目標已脫離我的跟蹤，但依然停留在原來的街區。+詢問，是否需要更改行動計劃？
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:這個通訊訊號特徵……
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:等等，它們是！
+RO635(5)||<BGM>BGM_Danger</BGM>:該死……
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:為什麼……為什麼它們會三番兩次地出現在我們出現的地方。+是偶然麼……不，不可能……它們的目的到底是我們，還是……
+人形追蹤者()||:收到命令，繼續保持觀察，目標重複行動7次後更改行動。
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:沒時間調查了，必須阻止它們……+我可以通過過載讓這個人形偽裝成死機，但如果它和外界處於連接狀態，遠程診斷很快就會恢復它的機能。+完全破壞的話，它們就會發現有人在幫助那個女僕，那樣她的處境更危險。
+()||:呲……呲……
+人形追蹤者()||:……？報告……我的……
+()||:呲呲——！
+人形追蹤者()||:沒有異樣，一切正常。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:有辦法了！
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:SOP2能收到我的訊息嗎？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>怎麼了？</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:我已經黑進敵人的二級平層中了，是白色勢力。+他們的數量比我想象的還要多，硬拼我們肯定沒有勝算。+不過我會癱瘓一兩個負責封鎖路口的人形的行動，如果那個女僕的反應足夠快，一定會發現缺口的存在。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>然後我就負責掩護她離開這邊，防止敵人突然襲擊？</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:沒錯，我會找到所有的追蹤者，然後植入後門程序來控制過載。+等你們開始離開時，我就逐個過載那些跟蹤的人形，等他們意識到自己被黑了，再做反應就已經來不及了。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>收到！一旦離開危險區域我就會馬上控制住她，我們可是有好多好多的問題想要向她詢問呢！</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:好，那麼就開始行動吧！
+()||<黑点2><BIN>10</BIN>:

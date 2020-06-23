@@ -1,0 +1,16 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Sneak</BGM><BIN>159</BIN><黑屏2>:……作戦終了。
+Mk12(0)<Speaker>Mk12</Speaker>||:つまらない戦いだったな。
+Mk12(0);AK74U(0)<Speaker>AK74U</Speaker>||:人手が足りてるからでしょ。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:こんなの小手調べよ、敵がこれで諦めるわけがない。
+HK416(0);A91(0)<Speaker>A91</Speaker>||:あいつら、あたしたちのデータを集めてから一気に倒す気ね。+おそらく、最後に大規模な襲撃がくるわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;A91(0)||:敵がもうすぐ総攻撃を仕掛けてくるのなら、はやく戻ろうよ！行こう行こう！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker><Shake>||:あ！待って、SOP IIゆっくり！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;RO635(6)||<黑屏1>:SOP II！気を付けて、ROさんが落ちちゃいますよ。
+AK74U(0)<Speaker>AK74U</Speaker>||<黑屏2>:416、アタシが前に言ってたこと、真剣に考えてみた？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:時間がないわ、そういうのはまた今度……
+HK416(0)<Speaker></Speaker>||<SE1>Alarm</SE1><BGM>BGM_Empty</BGM>:……ウォーン――――――！+……全員の通信機から荒い警報音が鳴り始めた。
+HK416(0);NPC-Kalin(4)<Speaker>カリーナ</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>皆さん！例の敵が基地に対して総攻撃を始めました！</color>+<color=#00CCFF>全員、指揮官の指示に従い、各自戦闘準備をしてください！</color>
+HK416(3)<Speaker>416</Speaker>;NPC-Kalin(4)||:もう来たの！？あの黒いやつら――+でも……これが最後の攻撃か……+これが終わったら、私はここを離れる……
+HK416(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:416、なにしてるの、はやく行こうよ！
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:それとも、本当は別の選択が……

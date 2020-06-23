@@ -1,0 +1,41 @@
+()||<BIN>46</BIN><BGM>BGM_Sneak</BGM>:M16A1の失踪から1週間後。//nAR小隊の臨時セーフハウスにて。
+RO635(3)<Speaker>RO635</Speaker>||:ねえ、SOP II。
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:なに？
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:AR小隊ってよくこういうことに遭遇するの？
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:こういうことって？
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:今のような状況よ……//n本部と連絡が取れず、廃墟のような工廠で数百の鉄血に包囲され、マガジンが一つしか残されていないこの状況のこと。
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:それは……一年前、わたしとM4たちが離れ離れになった時も似たような感じだったかな。//n敵はこんなに多くなかったけど……
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:そう……つまり今の方がひどいってこと？
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:んー……そうじゃないかな？
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:そう……なのね……
+RO635(3)<Speaker></Speaker>;SOPII(0)||:……ROは突然立ち上がった。
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||:それなのに、また鉄血に向かってやたらめったら発砲して！//n言ったはずでしょ、こっそり哨戒所を抜けようって！
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:あんな状況じゃこっそり抜けるのは無理だよ。+敵に発見される前に、こっちから先にやっちゃったほうがよくない？
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||:信号を偽装してあるから、ローエンドの鉄血兵はわたしたちを識別できないのよ！
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:目の前にいても？+へぇ……すごいんだね？
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||:当然でしょ……って違う！そうじゃなくて、ちゃんとわたしのことを信頼してよ！//n自殺同然の命令を下したりはしないんだから、分かった？
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:分かったよ……+けど、やっぱりすごいよねぇ、さっきの。あれも16LABの新技術？
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||:ふふん、それにね、今や走りながらでも背後にいる敵の数を感知できるのよ。
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:でも、今は走ってないけど……
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||:今から走るのよ！ほら急いで、あいつらに囲まれるわよ！+なんなら後ろにいる敵の数でも当ててみる？！
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:う～ん……100ちょっとくらいかな？
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||<黑屏1>:振り向かなくていいから、早く走って！+ああああもう！指揮官お願いします！早くわたしたちを見つけてくださいー！！
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:……一日前、グリフィン本部にて。
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>||<BIN>22</BIN><黑屏2><BGM>BGM_Room</BGM>:……何か用か？
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:クルーガーさん、M16A1の捜索についてですが……+これ以上の捜索は必要ないのではないかと思います。引き続き資源を投じても無駄になるだけです。
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>;NPC-Helian(0)||:複製不可能なエリート人形を失うのは受け入れがたいことだ。//n望みがある限りは、諦めるべきではないだろう。+それに、私はあの指揮官と約束したのだ。
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:承知しました……+例の指揮官といえば……本当に晩餐会にお連れになるのですか？+あの階級で、あのような場に出席するのは適切ではないと存じます。//n情報秘匿の観点から見ても……ご再考いただいたほうが宜しいかと。
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>;NPC-Helian(0)||:指揮官には、この先起こることを知る権利がある。//nそれに、これから控えているのは戦いは厳しいものだ、勝利するために必要な情報だろう。+お前は私より指揮官との付き合いが多い。それなら分かるだろう、我々に残された退路はもう多くない。
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||<黑屏1>:……分かりました。+指揮官もじき到着するでしょう、至急面会のセッティングを行います。
+()||<BIN>8</BIN><黑屏2>:……その頃、司令室にて。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:本当？指揮官、M16を捜すの続けていいの？
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:ヘリアンさんを説得できるなんて、さすがは指揮官です！
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:でも、M16が失踪した区域は一通り捜したのに、何の手がかりもなかったよね……
+SOPII(2);RO635(0)<Speaker>RO635</Speaker>||:そうね。でもそれはつまり、M16が自力であそこを離れたってことよ。+仮に鉄血に遭遇していたら、交戦した痕跡が残っているはずでしょ？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:確かに！+きっとそうだよ！M16はそんな簡単には捕まらないもん！
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:ですので指揮官、引き続き支援をお願いしますね。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:え？指揮官、今回は前線について来れないの？
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:指揮官は今回、大切な仕事があって本部へ戻らないといけないの。+ただ、前線にいなくたって、指揮官は遠方から支援してくれますから問題ありませんよ。
+SOPII(0);RO635(4)<Speaker>RO635</Speaker>||:指揮官、M16の失踪はわたしの責任です。//nわたしは、M4が帰ってきたときに、1人も欠けていないAR小隊を見せてあげたいのです。少なくともわたしが入隊した頃のような……
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(4)||<黑屏1>:RO……大丈夫だって、指揮官がいれば何も怖くないよ！+早くいこ、M16がわたしたちを待ってるよ！
+()||<BIN>10</BIN><黑点2>:

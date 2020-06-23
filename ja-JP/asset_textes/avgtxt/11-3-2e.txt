@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><SE2>Gunfight</SE2><BIN>167</BIN><BGM>BGM_Boss</BGM>:……砰砰！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:該死！我們被火力打散了！+Mk46你們的小隊還沒問題麼！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>我這裡可以堅持啦，但敵人朝你們的方向去了！</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我們會想辦法的！先分頭行動吧，不要被它們包圍了！
+Mk46(0)<Speaker>Mk46</Speaker>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>但是……我們可不能拋下你們不管！</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我們可是精銳人形，兩個人更不容易被抓到，反而你們比較危險！
+Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>……好吧，既然你們這麼說！</color>+<color=#00CCFF>我們在目的坐標那等你們！要活下來啊聽到沒有！</color>
+()<Speaker></Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:這樣就只剩我們了……至少她們應該安全了……+RO！RO你在聽麼！敵人在閘門那邊，快點把門關上！你還在等什麼！
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:我在尋找這扇閘門的權限路徑！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:剛才你不是還很自信的嗎？？
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:沒想到這些閘門的權限底層邏輯寫得那麼混亂啊！稍等！+1號和4號大門……不行，衝突了……那和5號……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:我可以等，但是敵人不會！快點RO，我們阻擋不了它們太久！
+RO635(3)<Speaker>RO635</Speaker>||:2號和3號大門呢？不，那行不通，如果是7號——
+()<Speaker>？？</Speaker>||:<color=#00CCFF>G序列的閘門要從7號和14號路徑下達啟動命令。同時你要發送一個偽裝訊號，讓系統以為這是手動操縱的。</color>
+RO635(5)<Speaker>RO635</Speaker>||:誰？誰在說話？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:又是那個線人麼！
+RO635(5)<Speaker>RO635</Speaker>||:線人？+你現在在哪裡——
+()<Speaker>？？</Speaker>||:<color=#00CCFF>按我說的做。</color>+<color=#00CCFF>還有不要同時從兩個路徑下達訊號，系統會誤判為控制水流的命令。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:先照他說的做！我們快頂不住了！
+RO635(5)<Speaker>RO635</Speaker>||:那就……！
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><震屏><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:——轟！+安全閘門迅速地落下，沉重的響聲後，敵人被隔在大門外面，一切陷入安靜。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:他是對的……
+RO635(4)<Speaker>RO635</Speaker>||:……不愧是情報販子……+現在可以請你現身了嗎？線人先生。
+()<Speaker>？？</Speaker>||<BGM>BGM_Room</BGM>:<color=#00CCFF>線人先生，這個名字聽起來可不是那麼悅耳。</color>+<color=#00CCFF>如果接下來我們要更平和地溝通的話，你們可以稱我為——“K”。</color>
+RO635(4)<Speaker>RO635</Speaker>||:K？
+()<Speaker>K</Speaker>||:<color=#00CCFF>是的，K。</color>
+RO635(4)<Speaker>RO635</Speaker>||:那麼……K先生，現在可以請你現身了嗎？+如果你的情報能力真如此神通廣大，你應該知道我們找你已經找了很久了。
+()<Speaker>K</Speaker>||:<color=#00CCFF>剛才你選擇了關閉閘門隔開了敵人。</color>
+RO635(4)<Speaker>RO635</Speaker>||:哈……？現在不是說閘門的時候吧？
+()<Speaker>K</Speaker>||:<color=#00CCFF>那是個好的選擇。但是從情報分析的角度來說，一個好的選擇，也可能是一個壞的選擇。</color>+<color=#00CCFF>結論的關鍵在於是否曾通過多個角度去分析和論證它。</color>
+RO635(4)<Speaker>RO635</Speaker>||:你是什麼意思……
+()<Speaker>K</Speaker>||:<color=#00CCFF>雖然你暫時擋住了敵人，但你不要忘了，閘門的控制平台，還在他們的掌控下。</color>
+RO635(4)<Speaker>RO635</Speaker>||:！！
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay>:<color=#00CCFF>等你們活下來，我們再慢慢談吧。</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:嗡——
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:那、那是什麼聲音！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:是敵人嗎？
+RO635(4)<Speaker>RO635</Speaker>||:不……可能更糟……
+()<Speaker></Speaker>||:遠處傳來急流灌注的轟鳴聲。
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:那可能……是只有在下水道才會發生的事……

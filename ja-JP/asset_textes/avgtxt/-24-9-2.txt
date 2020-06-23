@@ -1,0 +1,40 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><黑屏2><BGM>BGM_Brain</BGM>:……SOP IIは戦場を駆け抜けた。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:おい！スケアクロウ！
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||:おや、お仲間はどこに行ったのかしら？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:彼女たちなら後方に残ったよ。//nここはわたしとあんたの二人しかいない。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||:武器は？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:……<c>ないよ。<c>（嘘）持ってるよ。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||<分支>1</分支>:嘘ね。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||<分支>2</分支>:なんの冗談かしら？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:本当に持ってないよ。じゃないとこの距離なら、あんたを十回バラせるね！内三回は素手で！
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:そう思うでしょう？まぁ、わたしは約束を守る人形だから。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||:イカレてますわね、SOP II。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:わたしの本当にイカレてるところ、あんたはまだ見たことないよ。
+BOSS-1(0);SOPII(0)||:
+()||:……スケアクロウは何も言わず、後ろに向いて手を振った。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:……？
+BOSS-1(0);SOPII(0)||:
+()||:……すると、ケースを曳いたダイナーゲートがSOP IIの前に来た。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPII(0)||:お望みの予備電源ですよ。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:何に使うとか聞かないの？
+SOPII(0)<Speaker></Speaker>||:……スケアクロウは振り向いて離れて行った。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:そんなのどうでもいいこと。//n今のわたしに、それは必要ない物ですので。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:これで終わりなの？
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:わたしたちはすでに撤退を始めています。//nだから、さっさと失せなさい。
+()||:……SOP IIはケースを開けて確認した。中に入っているのは確かに鉄血の予備電源だった。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:オーイ！わたしがこんなことするの嫌だって知ってるよね！//nあんたなんかよりも、あんたの頭と話したかったよ！
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:わたしも今回の交渉に客観的に賛同しただけです。もう次はありません。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:じゃあ逃げられると思うの、スケアクロウ？//n軍は先にあんたらの方を追うって分かってるの？
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:なぜそんなことを気にする？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:わたしたちにとって、あんたはいい囮になるから。//nここであっさり死んじゃったら、わたしたちも困るんだよ。+だから今のうちに、この予備電源のことは感謝しておく。わたしにとってこれはものすごく大事なものだから。+もちろん、あんまり本気にされても困るけど。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:なら、君たちが死んだその時は、その言葉を忘れておきますわ。
+()||:……スケアクロウは拠点施設の後ろに消えた。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker><通讯框>||:<color=#00CCFF>SOP II！軍が動き始めたよ！必要なものは手に入ったの？</color>
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:手に入ったよ！今戻ってるところ！+絶対に持ちこたえて！わたしが戻ったらすぐ撤退を始めるから！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPII(0)||:<color=#00CCFF>軍が包囲してきた！撤退するなら鉄血の管轄エリアに入るしかないよ！</color>+<color=#00CCFF>SOP II、早く安全なルートを探して、鉄血の防衛拠点を避けて！</color>
+Cx4Storm(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:分かった！+プランを作っておく！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><黑屏2>:急いで……急いで！SOP II！+ここまで来て、みんなをここで死なせるわけにはいかない！+もう一度よく地図を見て、M4と指揮官が残した作戦案をよく思い出して！//n今のこの状況で、何をどうすればいい……！
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:待って……鉄血の管轄エリア……これなら、面白そうじゃない？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:M16……あなたの言ってたこと、なんだか分かった気がする……
+()||<黑屏1>:…………

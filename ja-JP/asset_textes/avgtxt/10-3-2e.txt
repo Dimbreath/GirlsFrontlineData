@@ -1,0 +1,60 @@
+()||<BIN>99</BIN><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:…………パンッ！+……パンパンッ！
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:指揮官……指揮官の部隊がもうすぐ包囲網を突破するって！
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||<SE2>Gunfight</SE2>:みなさん、もう少しの辛抱です！10分もすれば指揮官の部隊が到着するはずですから！+SOP IIは？誰かSOP IIを見てませんかー！？
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:最後の時を楽しんでいるんじゃないですか？おおかた。
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE2>Gunfight</SE2>:あっはははははは——！！+どこに隠れたのかなぁ！？+無駄無駄、そんなの無駄だよ！//nほらほら～、見つけた奴から、食べちゃうぞ～！！
+BossJustice(0)<Speaker>ジャッジ</Speaker>||<SE2>Gunfight</SE2>:SOP II……+これがAR小隊のアタッカーの、本当の姿なのか？+だがこの距離なら、ちょうどいい……
+()||:……ジャッジが片手を上げた。
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:あの動きは……EMP！
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:みなさん伏せてください！+SOP II、援護をお願いします！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:お前も付き合え、ジャッジ！
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:ちょっと、お姉ちゃん何するつもり！？危ないよ！
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:この距離なら、当たるはず！+もう他に選択肢はないの、この狙撃にすべてを賭ける！
+SOP II&卡诺()<Speaker>SOPMOD II&カルカノ</Speaker>||<BGM>BGM_Empty</BGM>:ジャッジ——！！
+()||<SE1>Explode</SE1><震屏>:……ドーン！！+……巨大な爆発がSOP IIとカノを吹き飛ばした。+……ジャッジは重傷を負い、その場に倒れ込んだ。
+法官()<Speaker>ジャッジ</Speaker>||<SE2>Gunfight</SE2>:この攻撃……+ゲホッ……ゲホゲホッ……+ご主人……いるか、ご主人！？
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:……軍の人形ね。
+法官()<Speaker>ジャッジ</Speaker>||:……ゲホッ、そうか。+全鉄血に告ぐ、わたしを護れ！撤退だ！
+()||:……鉄血は撤退を始めた。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:軍が来たのね！はぁ、助かった～！
+()||:……SOP IIは起き上がり、呆然としばらく立ち尽くした。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:わたしたち……助かったの？
+()||<SE1>Runstep</SE1>:……カノは武器をしまい、駆け付ける。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||<BGM>BGM_Sneak</BGM>:ふむふむ、突然援軍が現れたってわけね。+どうやらワタシたち、軍に見捨てられた訳ではなかったようね。
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:お姉ちゃん、軍の人が来たよ。
+()||:……遠くから一人の人間が、人形小隊を連れて向かってきていた。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:あ！やっぱりエゴール大尉だったのですね？+こんにちは、この度のご支援、心より感謝いたします！
+()||:……エゴールはそれを気にも留めず、立ったままカノの後ろを見つめていた。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:あの、もう心配していただかなくとも大丈夫です！ワタシたちの指揮官の援軍も、直に到着しますので。
+NPC-Yegor(1)<Speaker>エゴール</Speaker>||:……
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:あのー……？
+()||:……エゴールは人形には目もくれず、M4A1とROのいるセーフハウスへと歩み入る。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:あの、すみません！その扉は開けないでください…！。+負傷者が中で治療を受けているんです！
+NPC-Yegor(1)<Speaker>エゴール</Speaker>||:M4A1は中か？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:え？+どうしてそれを……？
+()||:……エゴールは手を伸ばし、扉を開けようとした。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:ちょっと——！やめてくだ……――
+()||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:――……！+……SOP IIが近づこうとした瞬間、軍用人形に突然武器を向けられた。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||:落ち着いてください！エゴール大尉！//n申し訳ございません、彼女は決して悪気があったわけでは！
+NPC-Yegor(1)<Speaker>エゴール</Speaker>||:分かっている。+悪意を持っているのは、指揮官と連絡を取ろうとしているそこの人形だ。
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||:……！
+NPC-Yegor(1)<Speaker>エゴール</Speaker>||:無駄な抵抗はやめろ。通信は既に断っている。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:……+一体……何を……？
+NPC-Yegor(1)<Speaker>エゴール</Speaker>||:お前たちは知らなくていい事だ。+どうせ記憶に残らないのだからな。
+()||<BIN>9</BIN><SE1>Select</SE1>:……エゴールは突然武器を取り出した。
+()||<SE2>MachineGunBurst</SE2>:…………
+卡诺()<Speaker>カルカノM1891</Speaker>||:SOP II——！！
+叶戈尔()<Speaker>エゴール</Speaker>||<BGM>BGM_Truth</BGM>:五分残っている。+ここにいる奴ら、全員始末しろ。
+军方人形()<Speaker>軍用人形</Speaker>||<SE2>Gunfight</SE2>:ラジャー。
+叶戈尔()<Speaker>エゴール</Speaker>||:おいお前、ドアを爆破しろ。
+()||<SE1>Explode</SE1><黑屏1>:…………+……ドーン！
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>115</BIN><SE2>Gunfight</SE2>:……今の音は何！？+M4、M4聞こえてますか！？+ダメ、ここでは危険過ぎます。ひとまず、あなたを外へ運びます。+M4A1、さあ、わたしについて来――
+()||<BIN>116</BIN><震屏>:……
+叶戈尔()<Speaker>エゴール</Speaker>||:人形風情が邪魔をするな。
+()||<黑屏1>:…………！！
+()||<黑屏2><BIN>9</BIN><SE1>MachineGunBurst</SE1>:……バン！+……
+叶戈尔()<Speaker>エゴール</Speaker>||:さぁ、目を覚ませ、M4A1。+……その新しい姿で、私たちのために【鍵】を探すのだ。
+()||<黑屏1><SE2>AVG_Rain2</SE2>:…………ザザー！
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>112</BIN>:…………
+M4A1()<Speaker>M4A1</Speaker>||:ぁ……+ぁあ……ああ……
+M4A1()<Speaker>M4A1</Speaker>||<BIN>113</BIN><震屏><黑屏1>:あああああああああ——！！！

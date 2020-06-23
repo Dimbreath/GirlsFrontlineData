@@ -1,0 +1,10 @@
+()||<BIN>8</BIN><BGM>BGM_Room</BGM>:グリフィンS09地区戦術司令室にて――
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:……一体いつまで探しているんですか？ペルシカさん。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;NPC-Kalin(3)||:もうすぐ……もうちょっと……+（情報によると、可能性があるのはここが最後……）
+NPC-Persica(0);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:え？何か言いました？ペルシカさん。//n最後の何です？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>;NPC-Kalin(2)||<黑点1>:うん……前に約束したように、これが最後の依頼だから。+きっとここに、私の探しているものがあるはずなんだけど…… 
+NPC-Kalin(2)<Speaker>カリーナ</Speaker><通讯框>||<黑点2><BIN>10</BIN>:S09地区のHVVQJ？//nあそこは完全に廃墟です。データ保管庫なんてないですよ。
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:だから、一体何を探しているんですか？ペルシカさん。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;NPC-Kalin(3)||:まあ……大したものじゃないんだけどね。+ 前引っ越したときに落とした「角砂糖」かもしれない。
+NPC-Persica(0);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:はぁあああーー？！
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>;NPC-Kalin(2)||:とにかく探してみて。ここが最後だから、頼んだよ。

@@ -1,0 +1,25 @@
+()||<BIN>6</BIN><BGM>BGM_Sad</BGM>:……援護作戦終了。
+M4A1(0)<Speaker>M4A1</Speaker>||:指揮官、応答願います。//n援護作戦は無事完了。AR小隊はすでに目的地に到着しました。+データの収集はまもなく完了します。//nこのあとのご指示を……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:……
+M16(3)<Speaker>M16A1</Speaker>||:元気だせよ、SOP II。//n人形だろ 。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:人形だからこそ、影響を受けないで済むはずなのに……+わたしたち、ただの作戦の道具なのに、なんで疑似感情モジュールまで実装されているの？+ただ……敵の頭めがけて引き金を引けばいいだけなのに……
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>:さあな。+もしかしたら最初は……こうじゃなかったのかもな。
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2>:AR小隊。//nデータ収集が終わったら撤退してよいと、指揮官から。
+M16(0)<Speaker>M16A1</Speaker>||:了解。//nSOP II、行くぞ。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M16(0)||:うん……
+SOPII(2);M4A1(2)<Speaker>M4A1</Speaker>||:SOP II、大丈夫？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:うーん……分かんない……+やっとみんなで、また一緒にいることができたのに……
+SOPII(3);M4A1(2)<Speaker>M4A1</Speaker>||:指揮官の話では、AR15が武装解除されることはないそうよ。//nすぐに戻ってくるわ。
+M16(0)<Speaker>M16A1</Speaker>;M4A1(2)||:そうか、よかった。//nこれからはカフェか炭坑に会いにいかなきゃならないのかと思っていたぞ。
+M16(0);M4A1(0)<Speaker>M4A1</Speaker>||:もしかしたらこの任務を終えて帰ったら、丁度戻ってる頃かもしれないわ。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||:うん……+じゃあひとまず……
+M16(0)<Speaker>AR小隊</Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Alarm</SE1>:……！！
+M16(3)<Speaker>M16A1</Speaker>||:……これは……緊急放送！
+赫丽安()<Speaker>ヘリアン</Speaker>||:グリフィンの全指揮官、および戦術人形の各小隊に告ぐ。+ただいまより緊急速報を伝える。
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:……？
+赫丽安()<Speaker>ヘリアン</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Sneak</BGM>:AR小隊の戦術人形AR15が……+先ほどグリフィン上層部の命令に逆らい、無断で拠点から逃げ出した。
+M16(3)<Speaker>M16A1</Speaker>||:……？！
+赫丽安()<Speaker>ヘリアン</Speaker>||:なので、全指揮官および戦術人形は、こちらの人形を見つけ次第速やかに拘束するように。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:AR15……？
+赫丽安()<Speaker>ヘリアン</Speaker>||:また、こちらの人形は悪質なプログラムを抱えている疑いがあるため、やむを得ない場合は……+……戦術人形AR15の破壊を許可する。
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:……+どうして……AR15……+一体何を考えているの……

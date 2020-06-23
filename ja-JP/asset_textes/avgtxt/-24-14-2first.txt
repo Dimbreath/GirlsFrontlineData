@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Danger</BGM><BIN>159</BIN><黑屏2><SE2>Gunfight</SE2>:……戦闘はますます激しくなった。
+RO635(6)<Speaker>RO635</Speaker>||:……SOP II！+SOP II……！！
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:うっ……
+RO635(6)<Speaker>RO635</Speaker><Shake>;SOPIIDamage(2)||<SE2>Gunfight</SE2>:起きて！邪魔！
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ごめん、RO……今は……動けな……
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:諦めるないで！+さっきあのイェーガーの頭を潰した時の勢いを出して！+ついさっきも――
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:うるさいな！
+SOPIIDamage(3)<Speaker></Speaker>||:……SOP IIは一気に体を起こした。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:ROがずっとギャーギャー言って、わたしのメンタルを使うから、立ち上がれないんだよ！
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:そっちこそ、軍の勢いがちょっと収まったからといって、死んだふりしてサボろうとしてるじゃない！
+RO635(6);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:わたしは休める時に休んでるだけ。それに、軍のあれは勢いを収めたとかじゃないんだよ……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(3)||:SOP II、伏せて！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:
+()||<闪屏><duration>5</duration></闪屏>||:
+()||<震屏><SE1>Explode</SE1><火花>:……ドーン！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:軍の戦車！こんなに早いなんて！
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:わたしたちだけじゃあれに勝てない……+それに……+指揮官の増援があっても……あれを倒せない！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:……+もう……ここまでなの？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:最後の最後よ、SOP II。+もう暴れまわったりしないの？
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ダメよ……いくらわたしでも、あれに敵わないって知ってるよ。+それに、もうそんなに死ぬのが怖くないわけじゃなくなったみたい……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:えっと……ごめん、SOP II、きっと私たちのせいでしょ？
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:そんなのお互い様だよ。本当に同じ泥船に乗った感じだね。
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:みんな集まってきたね。最後ぐらい、せめて弾薬を全部使い切りましょうか。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:弾薬？そんなものとっくに――
+()||<闪屏><duration>5</duration></闪屏>:
+()||<震屏><SE1>Explode</SE1><SE2>Battlefield</SE2>:……ドーン――！！+……ドーン――！ドーン――！！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:……
+SOPIIDamage(2)<Speaker></Speaker>||:……突然、数発のロケット弾が軍の戦車を破壊した。
+RO635(6)<Speaker>RO635</Speaker>||:そんなもの隠してたの？
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:違うよ、わたしじゃないよ、あれは……
+SOPIIDamage(2)<Speaker></Speaker>||:……ピッ。
+SOPIIDamage(2)<Speaker>指揮官</Speaker>||<BGM>BGM_stage9</BGM>:……<c><color=#00CCFF>SOP II！みんな大丈夫だった？</color><c><color=#00CCFF>久しぶり！丸一日ぶりだね、会いたかった？</color><c><color=#00CCFF>新しい武器すごいでしょう？</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:わたしなら大丈夫……えっと、この声は……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:えっと……もしかして……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:すごい！でも誰？待って……もしかして……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:……指揮官？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<黑点1>:指揮官だ――！！！
+()||<黑点2>:……
+()||<闪屏><duration>5</duration></闪屏>:
+()||<震屏><SE1>Explode</SE1><SE2>Battlefield</SE2>:……ドーン――！！ドーン――！！！+……グリフィン人形たちの歓声の中、続けて発射されたロケット弾は軍の人形と戦車を全て火の海の中に沈めた。
+RO635(6)<Speaker>RO635</Speaker>||<黑屏1><火花关闭>:どうやら……まだ運が尽きてないようですね。+そうと分かったら、もう少し涙を我慢すればよかった……+まぁ……どっちでもいいか……

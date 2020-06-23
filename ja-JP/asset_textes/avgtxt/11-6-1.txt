@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>85</BIN><黑屏2>:21點30分，安全屋的角落……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:唔咕……真的要鑽到這個洞裡面去麼……+黑漆漆的看起來好可怕……
+RO635(0)<Speaker>RO635</Speaker>||:那個線人，一定是從這個秘密逃生通道離開的，洞口的邊緣灰塵很不規整，很明顯剛才被移動過。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:真希望你是對的，RO……最好這不是什麼敵人設下的陷阱……我們一下去就被幾十個人形團團包圍什麼的……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:唔……你說得也有道理……有什麼建議嗎？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我們不是還有妖精嗎？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:妖精？應該還在外面盤旋吧，要怎麼用？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那你趕緊召喚過來吧。+我們得先偵查一下底下的情況，然後還要收集下水道的地形情況，不然就算沒碰到敵人迷路了也一樣完蛋啊。+我先一個人帶妖精下去，我爬到一半就會放妖精飛下去。妖精比較小，可以先飛下去好好掃描一遍。+這樣就算真的有敵人在下面埋伏，我的速度比較快，也可以馬上上來。
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:不需要我也下去嗎？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:冒險的事我來做就足夠啦！而且，兩個人在那些狹窄的地方反而更危險……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:嗯……好吧，你說的也有道理。+啊，妖精已經到了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:好快！
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||<BGM>BGM_stage1</BGM>:終於要輪到我登場了嗎！接下去是什麼指令！
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)<Position>0,150</Position>||:我們需要你下去偵查下水道的情況，要是碰到敵人也悄悄地不要被發現哦。
+RO635(0);FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:誒！那不是超危險的麼！
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)||:要是任務成功的話，我回去就幫你申請更多的開發值。
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:好！成交了！
+()||:……RO635把妖精無人機遞給了SOP2。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:其實我一直在想……妖精的腦子是不是不太好使……
+RO635(0)<Speaker>RO635</Speaker>||:畢竟只是帕斯卡小姐一時興起設計出來的人格程序嘛。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:希望她在設計我們時沒有一時興起……
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:合作愉快，合作愉快！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:嗯，任務開始了哦，妖精，我們走——
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>10</BIN>:嗚哇……看來敵人又趕在了我們的前面……RO，你可以看到下面的掃描情況嗎？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>看來不太妙……果然它們也追查到下水道裡了，而且因為在下水道裡，那些白色的傢伙已經完全沒有顧忌了……</color>+<color=#00CCFF>就靠我們兩個完全沒有勝算……</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:那怎麼辦？就這麼乾看著嗎？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>我會和指揮官聯繫……在此之前，我們可以先做下情況模擬。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:情況模擬？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>我們先預判一下接下來可能會發生的戰鬥，這也是為了給指揮官做判斷提供更多的情報。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:嗚哇，RO你考慮得好周到啊……
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>還好啦……那你繼續掃描地圖，把敵人的數據持續傳送過來，我會在內部自己進行模擬計算。</color>+<color=#00CCFF>偵查的事就靠你啦！</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:好咧，包在我身上！
+()||<黑点2>:

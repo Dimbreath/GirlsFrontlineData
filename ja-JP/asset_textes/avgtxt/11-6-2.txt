@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>167</BIN><BGM>BGM_Empty</BGM><黑屏2>:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:RO，你能聽到嗎？+下水道的空間基本掃描完畢了。
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:怎麼樣，我很厲害吧！
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>除了那群白色的混蛋外，還有什麼新的線索嗎？</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:我發現了一些隱藏的小房間，裡面有各種槍支，如果都是那個線人的東西的話，他的準備真是夠充分的……
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>不過如果是要對付白色敵人的話，光靠槍可遠遠不夠……</color>+<color=#00CCFF>線人本身的行蹤呢？</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:我有掃描到和人類接近的熱源訊號，不過等妖精飛過去時就消失了。從分布來看，似乎他在向中心閘口區域靠近，那些白色敵人要追上他還需要一些時間。
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>它們肯定不是什麼心智正常的傢伙，背後一定還有指揮者在……SOP2，你看到涅托了嗎？</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:沒有，妖精已經徹底掃描過了，沒有類似涅托的訊號的反應。
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>看來這裡是沒必要讓涅托出席的場合……</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:現在該怎麼做……？+我們要趕在白色的傢伙之前找到線人？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>這個區域太封閉了，即使我們先找到他，也一定會被白色的敵人追上，交火是必不可少的。</color>+<color=#00CCFF>除了更多梯隊外，我們還需要重裝小隊的支援。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:在下水道裡？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>在下水道裡。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:好吧……希望別的梯隊能按時進入城市……+要是沒有支援的話，只能靠我和妖精還有你了。
+M4 SOPMOD IIMod(0);FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:包在我身上！
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>你要相信指揮官啦，我已經在傳輸地圖訊息和模擬數據給指揮官了。</color>+<color=#00CCFF>接下來只能等待指揮官的指令了。</color>+<color=#00CCFF>希望那個線人的情報對得起我們這一整天的奔波……</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:說起來，你知道指揮官現在在做什麼嗎？+這種時候還是指揮官親自來指揮才比較安心啊……
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>不要抱怨啦，指揮官一定有更加重要的工作，不然難道是拋下我們在哪個咖啡廳裡喝卡布奇諾嗎？</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>80</BIN>:……同一時間，貝萊格萊德的某家咖啡廳內。
+服務生()||<BGM>GF_Cafe</BGM>:您好，您的大杯卡布奇諾，根據您的要求做成了溫的，請慢用。
+()||:我點點頭，接過了杯子。+我嘗了嘗溫度，剛好，很像我加入格里芬前自己平時調配的溫度。+服務生轉身離開後，我慢慢品嘗了起來。+長時間使用配給的速溶咖啡，這種現磨的咖啡喝進嘴裡的感覺就像清水被吸進乾癟的海綿裡一樣讓人心情舒爽。+在咖啡因配合心理作用的衝擊下，我的精神開始重新振作了起來。
+NPC-Kalin(10)<Speaker>格琳娜</Speaker>||:我已經都查過一遍了。+沒想到真的一點關於那次事件的報道都沒有，明明鬧得那麼大……難道沒人想來管一管這件事嗎？
+指揮官()||:這種程度的訊息管制他們還是做得到的，關鍵的是後面他們就沒有下一步的動作了。
+NPC-Kalin(10)<Speaker>格琳娜</Speaker>||:您是說這不太符合他們的風格？
+指揮官()||:這不符合所有人的風格。
+()||:我轉頭看下咖啡廳的電視，電視裡正在播放新聞。
+電視新聞()||:<color=#00CCFF>根據新蘇維埃共和國聯盟外交部發言人公布的計劃，新蘇聯駐歐互會全權代表瓦西裡•瓦西裡耶維奇•羅申，將在三日後與泛歐重建互助委員會執行委員米爾科•米洛舍維奇，於南部城市貝萊格萊德進行會晤。</color>+<color=#00CCFF>羅申代表在訪問前夕接受採訪時稱，“本次會晤，不僅將討論關於國家聯盟之間雙邊協作的問題，同時也將討論如何解決更多地域性衝突的問題……”</color>+<color=#00CCFF>“我們將做一切努力恢復正義和和平，維護人民的尊嚴和不可侵犯性”……</color>
+電視新聞()||:<color=#00CCFF>下一則新聞——</color>
+電視新聞()||:<color=#00CCFF>根據福利與保障部官員在採訪中所透露，接下來三個月內五級公民的生活配給將會進一步降低……這一言論引發了新的一輪抗議狂潮，據悉已經有三地——</color>
+NPC-Kalin(10)<Speaker>格琳娜</Speaker>||:看來即使生活在城市裡，也不是每一個人都有好日子過啊……
+()||:我沒有回應格琳娜的評論，從終端上顯示，另外四批人形也通過其他列車站口進入這個城市了。+我望向遠方，遠處多瑙河中一艘貨運渡輪也在緩緩入港。編號52318，我們的剩下的重武器就在那艘船上。+看來哈維爾承諾的幫助開始起作用了，現在唯一剩下的就是……
+()||:滴……滴……+我收到了RO635傳輸過來的地圖，和之前發生的事情。
+指揮官()||:唯一剩下的就是……能夠將一切串聯起來的線人了。
+NPC-Kalin(10)<Speaker>格琳娜</Speaker>||:指揮官，您說什麼？
+()||:今天真夠折騰的，希望這就是最後一步了。
+指揮官()||:格琳娜，出發了。
+NPC-Kalin(10)<Speaker>格琳娜</Speaker>||<黑屏1>:誒？這就要走了嗎？我的蛋糕還沒吃完啊！

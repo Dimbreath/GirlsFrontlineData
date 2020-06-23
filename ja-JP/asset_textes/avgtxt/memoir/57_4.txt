@@ -1,0 +1,10 @@
+NPC-Ange(0)<Speaker>アンジェリア</Speaker>||<BGM>BGM_War</BGM><BIN>85</BIN>:出発の時間よ。 +準備はいい？AR15。
+NPC-Ange(0);AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>85</BIN>:……ええ、行きましょう。
+NPC-Ange(0)<Speaker>アンジェリア</Speaker>;AR15Mod(0)||<BIN>85</BIN>:調子良さそうね。
+NPC-Ange(0);AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>85</BIN>:……命令して。 +私はどうすればいい？
+NPC-Ange(0)<Speaker>アンジェリア</Speaker>;AR15Mod(0)||<BIN>85</BIN>:あら、随分と積極的なのね…… +早速借りを返そうとしてくれてるのかな？
+NPC-Ange(0);AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>85</BIN>:勘違いしないで。 +あんたたちと行動を共にすれば、私の探してる答えが見つかるかもしれない。 +そう判断したから命令を受け入れただけよ、アンジェリア。
+NPC-Ange(0)<Speaker>アンジェリア</Speaker>||<黑屏1><BIN>85</BIN>:それじゃ、目的を果たすまでは、お互い利用しあうことにしましょ。 +ようこそ、反逆小隊へ。//n歓迎するわ、AR15。
+()||<BIN>9</BIN><黑屏2>:私は行動を起こさないといけない。
+()||<BIN>9</BIN>:私の大切な人のため……そして―― +――なにより、私の存在価値を確かめるために。
+()||<BIN>9</BIN>:こうして、私の新たな旅が始まった。

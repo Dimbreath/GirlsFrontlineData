@@ -1,0 +1,18 @@
+ ()||<BGM>BGM_War</BGM><BIN>1</BIN><Night><SE1>Battlefield</SE1>:……グリフィンの部隊は敵の司令室を急襲し、ウロボロスとの交戦に入った。
+Weaver(2)<Speaker>ウロボロス</Speaker>||<SE2>Gunfight</SE2>:クソッ、またグリフィンの部隊か！+今回の作戦で、指揮が取れるのは404小隊だけのはず……あやつら、やはり生きておったか！
+？？()<Speaker>？？</Speaker>||:あなたの敵はこっちよ、ウロボロス。
+OTs14(0)<Speaker>OTs-14</Speaker><通讯框>||<SE1>Battlefield</SE1>:そんなに慌てて情けないわね……あなたらしくないわよ。
+Weaver(2)<Speaker>ウロボロス</Speaker>;OTs14(0)||<SE2>Gunfight</SE2>:OTs-14？！生きていたのか！
+Weaver(2);OTs14(0)<Speaker>OTs-14</Speaker>||:世の中そういうものよ、ウロボロス。//n何でもかんでもあなたの思い通りにいくとは限らないの。
+Weaver(1)<Speaker>ウロボロス</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:……+確かにおぬしの言うとおりだ。司令部に座っていながらおぬしらの死にざまを眺めようなど、甘い考えだったな。
+Weaver(1);OTs14(0)<Speaker>OTs-14</Speaker>||<SE2>Gunfight</SE2>:あなたの使命はあの爆発で果たされたでしょう？なのにまだ足掻くつもり？
+Weaver(1)<Speaker>ウロボロス</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:わたしには人形としての自我と尊厳がある。おぬしらのような奴隷には分からんものだ……
+Weaver(2)<Speaker>ウロボロス</Speaker>;OTs14(0)||<SE2>Gunfight</SE2><黑屏1>:おぬしらグリフィンの人形を一匹残らず殲滅してやる！+AR小隊に404小隊、それからおぬしのような傲慢な輩も含めてな！+幾千ものジャミング装置よりも、このわたしの方が価値ある存在だと、必ずエルダーブレインに証明してみせるさ！
+UMP9(3)<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1><黑屏2><BIN>2</BIN><Night>:SPP1とはぐれたのって、OTs-14だったんだね。//nこれはヘリアンに感謝しなきゃ！
+HK416(0)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:やっと勝算が見えてきたわね。//n45、作戦計画は？
+UMP45(0)<Speaker>UMP45</Speaker>||:彼女がウロボロスを引き付けてくれてるうちにいくわよ。+9、ダミーを囮に引き続き鉄血の妨害をお願いね。
+UMP9(3)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:任せて～。//n模擬信号を全部起動するね！
+UMP45(0)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1>:416はG11を座標R13にある高台まで連れて行って。//nいつでも撤退をサポートできるようにしててちょうだいね。
+G11(0)<Speaker>Gr G11</Speaker>||:了解……416、乱暴にしないでよ。//n起きちゃうから。
+HK416(2)<Speaker>416</Speaker>||:問題ないわ。//n気絶させて連れていくから。
+UMP45(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2><SE1>Battlefield</SE1>:416はG11を運び終えたらOTs-14の応援に向かって。彼女も連れてみんなで撤退するわよ。+私は引き続き部隊を指揮してウロボロスの体力を削り、奴の司令部をぶち壊す。+それじゃみんな、いつでも通信できるようにしててね。//nいくわよ。

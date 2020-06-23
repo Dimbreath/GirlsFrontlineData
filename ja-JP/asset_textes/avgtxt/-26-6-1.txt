@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Room</BGM><黑屏2>:
+()||:……反逆小隊は救援隊の残した信号を発見した。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:サプラ～イズーー！+あはははは！やっと見つけたよ、反逆小隊！
+AN94(2)<Speaker>AN-94</Speaker>||:もしその言葉よりも動きが早かったら、敵として反撃しているところでした。
+HK416(0)<Speaker>416</Speaker>||:悪いわね。こっちはAR小隊のM4 SOP II、こっちは反逆小隊のAK12とAN94。私は416、この場では、両方から顔見知りのはずよ。
+AN94(0)<Speaker>AN-94</Speaker>||:できることなら、特に会いたくはなったのですが、今は仕方ありません。
+HK416(0)<Speaker>416</Speaker>||:そう、のんきにお喋りをする時間はないわ、本題に入りましょう――アンジェはどこ？状況は？
+HK416(0)<Speaker></Speaker>||:……AN94が後ろを向くと、AK12の背中に気絶したアンジェがのっていた。
+AN94(2)<Speaker>AN-94</Speaker>||:アンジェ……アンジェは――
+AK12(2)<Speaker>AK-12</Speaker>||:数分前……汚染の影響を受けて気絶したわ。+捜索に時間かかったせいだけど、幸い命の危険はない。ただこれからの戦闘は私たちだけでなんとかするしかないわね。
+HK416(0)<Speaker>416</Speaker>||:残念ね、挨拶はまた今度にするしかないわ。+でもここにいるのは私たちだけじゃない。指揮官と重装部隊もいるわ。
+AN94(5)<Speaker>AN-94</Speaker>||:重装……部隊？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:新しいおもちゃだよ！遠距離からわたしたちを支援することができて、戦車が相手でも全然怖くない！みんな絶対気に入ると思うよ！
+AK12(0)<Speaker>AK-12</Speaker>||:ならまだ希望はあるってことね。問題はここから何をすればいいのか。
+AN94(0)<Speaker>AN-94</Speaker>||:ここの汚染レベルは低い。完全に安全ではないとはいえ、アンジェの感染は暫く悪化しないでしょう。
+RO635(6)<Speaker>RO635</Speaker>||:では引き続き汚染レベルの低いエリアへ移動する方がいいと思います。アンジェさんのこの状態ではそんなに長くはもたないかと。
+AK12(3)<Speaker>AK-12</Speaker>||:あれ？誰が喋ってるの？
+RO635(6)<Speaker>RO635</Speaker>||:ああ、気にしないでください、わたしはただアドバイスを――
+AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:待って、声がしました！
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:……軍の人形！目標は私たちか！
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:前方に身を隠せる場所がある、アンジェを連れて隠れて！
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:……ドーン！ドーン！
+AK12(2)<Speaker>AK-12</Speaker>||:みんな、急いで！もうすぐ着くわ！
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:重装部隊、援護を！
+()||<BIN>157</BIN><黑屏2>:……重火力による援護のもと、反逆小隊たちは無事建物の残骸に身を隠すことができた。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:こっちにだって切り札があるんだよ！大丈夫、こんな戦車ぐらいきっと何とかなる！
+()||:<color=#00CCFF>……ザァ――、ザッ。</color>
+()<Speaker>？？</Speaker>||:<color=#00CCFF>アンジェリア……</color>+<color=#00CCFF>やはり予想通りだったな。</color>
+()||<SE2>Gunfight</SE2>:……銃声とジャミングのノイズの中、一人の男の声がはっきりとオープンチャンネルに現れた。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker><通讯框>||:<color=#00CCFF>貴様はあの爆発から生き残った。これで貴様をこの手で殺せる。</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-YegorDamage(0)||:アンジェはすでに死んだわ！諦めなさい！
+AK12(2);NPC-YegorDamage(0)<Speaker>エゴール</Speaker><通讯框>||:<color=#00CCFF>そうとは思えない。あいつはただ気絶してるだけだろう。貴様らがここに来たのはその何よりの証拠だ。</color>
+HK416(0)<Speaker>416</Speaker>;NPC-YegorDamage(0)||:ここに来ることを予測してた……グリーンエリアへのルートがここだけだからか！
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker><通讯框>||:<color=#00CCFF>アンジェリア、貴様が砲弾の塵にならないことだけは保証する。</color>+<color=#00CCFF>直接この手で貴様を引きずり出して、私自ら部下の仇を取ってやる！</color>
+()||:……エゴールは通信を切った。
+AK12(2)<Speaker>AK-12</Speaker>||<SE2>Battlefield</SE2>:戦車の音！もう来ているわ！
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:指揮官、重装部隊を使って防衛線を維持してください！+彼女たちがいれば、絶対に勝てるはずです！
+()||<黑屏2><BIN>10</BIN>:

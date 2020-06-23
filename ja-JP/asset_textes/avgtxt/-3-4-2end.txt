@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Danger</BGM>:…………+……
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ったく……隠れるしか能がないの？+ちょっと遊んでやろうと思っただけなのに。//nああもう！イライラしてきた！+あんたたちの動きなんてすべてお見通しなんだからさ……+10分後、どの拠点に現れるか、ズバリ当ててあげようか？+フフッ、じゃあそこでサプライズよ！//nこのあたしを怒らせたこと、絶対に後悔させてやるんだから！
+()||:…………10分後。
+()||<SE1>Explode</SE1>:……ドーン！
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||<黑屏1>:どうよ、まずはあいさつに一発！+さてと、ちゃんと当たってるか答え合わせの時間よ！
+()||<BGM>BGM_Empty</BGM><BIN>7</BIN><Night><黑屏2>:…………
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:は？誰もいなくない？+なんで……どうして？
+BOSS-7(0)<Speaker>ゲーガー</Speaker><通讯框>;BOSS-9(0)||:アーキテクト！
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:え？なに？//nAR小隊を捕まえたとか？
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:お前って奴は……+アホか！回路がショートしちまったのか？//nなぜ基地を離れたんだ！
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:うっ……+へ、平気だって！//n防衛プログラムを起動してきたし、奴らに侵入されることはないはずだよ。
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:問題はそこじゃない！//nお前が基地を離れた隙に、奴らは砲台を迂回して逃げてしまったんだ！
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||<震屏>:ええーっ！？！+でっ、でもどうして！//nあたしが出撃するタイミングなんて分かるわけないじゃん！
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:基地から出るとき、砲台の電源は消したままだったか？
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ううん、だって砲台を使って奴らを……+……あっ！+そういうことか！
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:お前ってやつは……
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ああぁーっ！//nそんなややこしいこと、あたしに理解できるわけないじゃん！
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:もういい……+すぐ基地に戻って、警戒を最高レベルに引き上げるんだ。//n分かったな？
+BOSS-7(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ちょっと、なんであんたに命令されないといけないのさ！//nあたしの方が……
+BOSS-7(0)<Speaker>ゲーガー</Speaker>;BOSS-9(0)||:分かったな！
+BOSS-7(0)<Speaker>アーキテクト</Speaker>||<震屏>:ひぇっ！//nわ、わかったから！
+BOSS-7(0)<Speaker>ゲーガー</Speaker>||<黑屏1>:…………+奴らを逃がしてたまるものか……+絶対にとっ捕まえて、あいつを……ドリーマーを見返してやる！
+()||<黑屏2><BIN>9</BIN><BGM>BGM_War</BGM><SE2>Gunfight</SE2>:…………その頃。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:M16、弾薬が切れちゃったよ！
+M16(3)<Speaker>M16A1</Speaker>||:こっちもだ。おまけに手榴弾も足りない。//nRO、そっちはどうだ？
+RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:どうぞ……これが最後です。//n大切に使ってください。
+M16(3)<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:サンキュー。//n生きているうちに使い切れたらいいけんだけどな……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:こ、怖いこと言わないでよ！//nわたし、こんなところで死にたくないよ？！
+M16(0)<Speaker>M16A1</Speaker>||:冗談さ。//nもうじき夜も明けるよ。
+()||<SE1>Battlefield</SE1>:…………
+M16A1()<Speaker>M16A1</Speaker>||:ヘリアンの切り札はまだか……そろそろ出してもいい頃だろ。
+()||<SE2>Gunfight</SE2>:…………！
+M4SOPMODII()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:銃声が聞こえるよ！//n味方？
+UMP45()<Speaker>UMP45</Speaker>||:みんな～、待たせちゃったかな？+……♪
+M16A1()<Speaker>M16A1</Speaker>||<黑屏1><SE2>Gunfight</SE2>:…………+やっぱりお前か……
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>49</BIN><火花>:今でも私のことが死ぬほど嫌いみたいだね？
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:ハハ……+仕事は仕事さ。//nお前らから学んだことだ。
+UMP45()<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:そうね。//nでなきゃ、私たちもそもそも来てないわ……+まぁ……これも運命のいたずらなんでしょうね。
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:運命のいたずら？//nただの命令だろ。+45、弾薬をくれ。//n私が先陣を切る。
+UMP45()<Speaker>UMP45</Speaker>||:そんなもの……私が持ってるとでも？
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1><黑屏1><关闭火花>:そうだったな……+小賢しいお前が、そんなもの持ってるわけもなかった。
+()||<BIN>9</BIN><黑屏2>:…………
+M16A1()<Speaker>M16A1</Speaker>||:手榴弾だ！
+()||<黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:……ドーン！
+()||<BIN>8</BIN><黑屏2><Night>:…………5分後、臨時シェルターにて。
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:皆さん、お揃いですか！
+M16(3)<Speaker>M16A1</Speaker>||:ふぅ……全員そろったな……
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:えっと、あなたたちが噂の404小隊、なんだよね！+もしかして、わざわざわたしたちを助けに来てくれたの？
+UMP9(3)<Speaker>UMP9</Speaker>||:フフッ、その通りよ！+夜戦となると、わたしたちの右に出る者はいないわ！
+M16(3)<Speaker>M16A1</Speaker>||:…………+その点について異論はない。//nだが、先に連絡をよこしてくれたってよかったじゃないか。
+UMP45(0)<Speaker>UMP45</Speaker>||:ここのボスは1人じゃないからよ。//nもう片方のボスを刺激したくなかったの。
+RO635(0)<Speaker>RO635</Speaker>||:やっぱりそうだったのですね……+404小隊の皆さん、救助に来てくださりありがとうございます。
+HK416(0)<Speaker>416</Speaker>||:勘違いしないで。//n任務をまっとうしているだけよ。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:でも……たった4人で、ゲーガーに対抗できるの？
+G11(0)<Speaker>Gr G11</Speaker>||:んー……+もう……ゲーガー1人だけじゃないみたいだよ。
+RO635(4)<Speaker>RO635</Speaker>||:……どういうことですか？
+G11(2)<Speaker>Gr G11</Speaker>||:もう1人も怒らせちゃったみたい。//n多分……
+RO635(0)<Speaker>RO635</Speaker>||:UMP45、404小隊の隊長として……+この危機的状況を脱するための方策、何かあるのですよね？
+UMP45(0)<Speaker>UMP45</Speaker>||:方法は確かに考えてあるわ。//nだけど……+鉄血の第一波をなんとか凌いだ今、ここから脱出するのが先よ。
+()||:……UMP45はシェルターから出て行った。
+HK416(0)<Speaker>416</Speaker>||:………
+M16(3)<Speaker>M16A1</Speaker>||:ハァ……
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:あ、416も出てっちゃった。+M16、あの人と知り合いなの？
+M16(3)<Speaker>M16A1</Speaker>||:まぁな……+それより……+RO、指揮はやっぱりお前に頼むよ、いいか？
+RO635(0)<Speaker>RO635</Speaker>||:あ……ええ。//n指揮能力が一番高いのは私ですからね。
+M16(3)<Speaker>M16A1</Speaker>||:そうじゃない。+みんなを無事に連れて帰りたいのなら、指揮権は絶対に手放すな……+……UMP45に渡すのは絶対にダメだ、分かったな？
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:ええ……わかりました。
+()||<黑屏2><BIN>6</BIN><Night>:…………
+UMP45(0)<Speaker>UMP45</Speaker>||:夜が明けるわ……+出発の準備はできたようね、RO635さん。
+RO635(0)<Speaker>RO635</Speaker>||:……+M4A1だったら、なんと答えるのでしょうか。
+UMP45(0)<Speaker>UMP45</Speaker>||:会ったことないし、分からないわね。
+RO635(0)<Speaker>RO635</Speaker>||:……私に会ったことも、ないですよね？
+UMP45(0)<Speaker>UMP45</Speaker>||:あなたは……極秘の実験品だって、M16から聞いているわ。+任務中だから余計なことに首は突っ込まないけど、どうしても不思議に思うことがあるの……+あなたは本当に……そんな「モノ」として扱われてもいいの？
+RO635(0)<Speaker>RO635</Speaker>||:……今のところは、そうですね。
+UMP45(0)<Speaker>UMP45</Speaker>||:M4A1の代わりになる必要なんてないのよ……+それに彼女はメンタルが未熟だったわけだし、あなたより優れているとも限らないでしょ。
+RO635(0)<Speaker>RO635</Speaker>||:彼女は最後の任務で、仲間を全員守り抜きました。//n少なくともそれに関しては、到底真似できそうにありません。
+UMP45(0)<Speaker>UMP45</Speaker>||:大切なのは、あなたたちが同一人物ではない点よ。//nそれに、同じ任務に就いているわけでもない……+誰かの代わりとしてではなく、自分らしく生きればいいじゃない。
+UMP45(0)<Speaker>UMP45</Speaker>||:本当に、仲間たちを守りたいの？
+RO635(0)<Speaker>RO635</Speaker>||:…………+さすがはUMP45です。//n噂には聞いていましたが……+効率的に進めるためにも、今後はわたしがすべての指揮を執ります。//n異論はありませんね？
+UMP45(0)<Speaker>UMP45</Speaker>||:もちろんないわ……+私よりずっと素晴らしい指揮を執れるはずよ、ROさん、あなたなら……+……そう呼んでもいいかな？
+RO635(0)<Speaker>RO635</Speaker>||:ええ、みんなそう呼んでいます。+45、わたしたちはただ、一刻も早くここから脱出したいのです。//n協力してくれますよね？
+UMP45(0)<Speaker>UMP45</Speaker>||:それがヘリアンさんから任された仕事だからね。//nこう見えても、やる時はきちんとやるわよ。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:……ありがとうございます。//nその言葉が聞けて、よかった。

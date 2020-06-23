@@ -1,0 +1,37 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||<BIN>136</BIN><BGM>BGM_Sneak</BGM><黑屏2><震屏>:……什麼！？
+()<Speaker></Speaker>||:在戰鬥的空隙間，一輛卡車以極快的速度衝向教堂。就在所有人都以為是自爆卡車來襲而準備朝它開火時，卡車穩穩地一個突然剎車，瑪荷洛從卡車上跳了下來。
+NPC-Maid(0)<Speaker>瑪荷洛</Speaker>||:能使用的載具就是這些，如果現在帶著VIP離開還來得及。
+NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:所謂的支援，只有這些破破爛爛的卡車麼……就沒有裝甲車什麼的更加安全的東西嗎！
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:能找到車已經謝天謝地了。
+NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:那避難的平民怎麼辦？用這種沒有防護的載具還不如待在教堂裡……
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:沒錯，你們帶少數精銳人形帶著VIP趕到直升機撤離點，其他人形我允許留在教堂繼續保護平民。
+NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:可是敵人的攻勢……
+RO635(2)<Speaker>RO635</Speaker>||:它們的目標就是主席女士，如果帶著她離開的話，大幾率敵人也會被引開。如果只有感染生物的話，我相信剩餘的小組足以應對。我同意K先生的方案。
+NPC-Jason(0)<Speaker>K</Speaker>||:瑪荷洛會在車上引導你們，這是最後可以拿得出來的戰鬥力量了。
+指揮官()<Speaker>指揮官</Speaker>||:但是執行護衛任務的小組會承擔很高的風險。
+RO635(2)<Speaker>RO635</Speaker>||:指揮官……請相信我們。+如果這麼僵持下去，我們只會在這裡坐以待斃，如果行動起來也許還有一線生機。
+()<Speaker></Speaker>||:我轉過身來，看到她和SOP2已經整理好槍支彈藥，準備出發了。
+RO635(2)<Speaker>RO635</Speaker>||:SOP2，沒問題吧。
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那是當然！這種任務最適合交給我來做了！
+RO635(2)<Speaker>RO635</Speaker>||<黑点1>:我的計劃是開車快速通過城區，到達撤離點，送走主席女士。我看過地圖了，那塊區域相對安全一些，我們小組會朝城外撤離。一旦白色勢力的敵人被引走，你們就找機會帶著平民也往城外撤離。不管怎麼說，都比待在這座教堂裡強得多。
+()<Speaker></Speaker>||<BIN>86</BIN><黑点2>:……五分鐘後。+RO帶著她的小組和烏爾利赫主席，一行人行駛在地圖上那條前往三角洲的道路上。
+RO635(3)<Speaker>RO635</Speaker>||:十分抱歉主席女士，我們又不得不讓您冒險了。說實話我也不知道能不能順利開到目的地，從剛才敵人的攻勢來看，恐怕風險非常高。
+RO635(3);NPC-Ambassador(0)<Speaker>烏爾利赫主席</Speaker>||:……需要抱歉的是我，我明白我不該只有我一個人逃走。但如果能為那些平民孩子爭取逃生的機會的話，這是我必須要嘗試的選擇。
+RO635(3)<Speaker>RO635</Speaker>||:如果能順利到達目的地的話，那大家都能得救了……+雖然話這麼說……敵人這麼快就已經趕上來了……
+()<Speaker></Speaker>||:瑪荷洛看了RO一眼，RO點了點頭。+她回過頭去觀察車後隱隱出現騷動，轉頭髮現SOP2已經做出了攻擊姿態。+後方也敵人在試圖追趕，但是追不上卡車的速度。+就在RO稍微有一點放心，準備回過頭去之時。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:前面！
+()<Speaker></Speaker>||<BGM>BGM_Battle</BGM><震屏><SE1>Explode</SE1>:轟——！
+()<Speaker></Speaker>||:在卡車的前面突然撞出一輛轎車，瑪荷洛一驚試圖打方向躲避，但以為時已晚。卡車因為失控而一頭撞在路邊的柵欄上。
+RO635(5)<Speaker>RO635</Speaker>||:嘖，我就知道事情不會這麼簡單！主席女士，你沒事吧！
+()<Speaker></Speaker>||:RO635緊緊地用身體護住烏爾利赫主席，SOP2和其他人形已經跳下車做好的防禦的準備。
+NPC-Ambassador(0)<Speaker>烏爾利赫主席</Speaker>||:謝……謝謝，我沒事……
+RO635(4)<Speaker>RO635</Speaker>||:請待在車內不用亂動，我出去看看！
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO！白色勢力的敵人從後方衝過來了！
+RO635(4)<Speaker>RO635</Speaker>||:嘖，前面也出現了，還有感染生物！可惡，被前後夾擊了！
+()<Speaker></Speaker>||:正如她們倆所言，大使所在的這輛車現在幾乎要被包圍了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:現在該怎麼辦？
+RO635(5)<Speaker>RO635</Speaker>||:我們把前方的道路掃除乾淨，其他隊友防守住後方敵人的襲擊，一旦確保道路我們就帶VIP徒步離開！
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:砰砰！砰砰砰！
+()<Speaker></Speaker>||<黑点1>:槍聲，炮火聲，跑步聲，機械行進的聲音，肉體爆開時血液濺到四周的聲音，在這時混合成為了這條街上的唯一的主旋律。
+()||<黑点2><BIN>10</BIN>:

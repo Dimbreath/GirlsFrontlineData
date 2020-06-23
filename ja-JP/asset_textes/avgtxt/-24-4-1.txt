@@ -1,0 +1,90 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><BGM>BGM_Room</BGM><黑屏2>:……SOP IIは残りの腕で何とか指定位置まで辿り着いた。
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>自己診断はできるか？</color>
+()<Speaker>システム</Speaker>||:<color=#00CCFF>【パラメーター検査を開始します。スキャン中……】</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:重傷部位多数……作戦能力はおよそ10％に低下……
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>SOP II、お前はAR小隊の中で最も汎用パーツが多い人形だ。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:あの……汚い鉄血たち……？+あいつらのパーツを使えっていうの？
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>何とかして自分を修復しろ。まだチャンスはあるかもしれない。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:チャンス？
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>彼女を救うチャンスだ。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:そうだ！M4！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:でも……M16の識別信号が鉄血になってる……+M16は……本当に悪いやつじゃないの？
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>いいやつ、悪いやつ……まだそんな単純の方法で敵と味方を区別しているのか？</color>+<color=#00CCFF>私たちの中枢命令を思い出せ。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:どんな犠牲を払っても……M4を守る……
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>もし、まだ私を信じていられるのなら、自分を修復して、彼女の元へ行け。</color>
+()<Speaker></Speaker>||<黑屏1>:……泥まみれの戦場でSOP IIは必死に体を動かし、一体の鉄血人形の残骸の隣まで体を寄せた。
+()<Speaker>M4 SOPMOD II</Speaker>||<BIN>148</BIN><黑屏2>:……+M16……+わたし……信じられないよ……//nM16が鉄血になるなんて……もしかして、傘ウィルスのせい……？
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>……いや、これは私の意思だ。</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:はは……そうだよね……+でもM16が鉄血なら……わたしはM16を信じられないよ……
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>気にするな、それが私たちの原則だ。</color>+<color=#00CCFF>これ以上喋るな。早く自分を修復しろ、やり方は分かっているはずだ。</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:鉄血のパーツの扱いなら……わたしが一番よく知っているよ……！
+()<Speaker></Speaker>||<震屏>:……ガチャッ！+……SOP IIは残骸から腕を引き抜いた。
+()<Speaker>M4 SOPMOD II</Speaker>||:でも、状況が分からないよ……ここからどうすればいいのか……
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>後のことは、修復し終えたら教える。</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:中枢命令がまだ残ってるのなら……なんで自分でM4を助けにこないの……？
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>今はまだ……私の出番ではない。彼女たちのことは、お前に頼るしかない……</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:もしかして……もうわたし一人しかいないの……？
+()<Speaker></Speaker>||:……SOP IIは震える手で、残骸の腕を自分の体にくっ付けようとした。+……ガチャッ！
+()||<闪屏><duration>5</duration></闪屏><BIN>149</BIN>:
+()<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>グッアアアァァァ――！！</size>
+()<Speaker>M4 SOPMOD II</Speaker>||:これで……何とか動けるけど……+もうみんな……いなくなった……
+()<Speaker></Speaker>||:……SOP IIから微かなすすり泣き声が聞こえた。
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>泣いているのか？</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:泣いてない。
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>……強くなれ。//nM4の最後の位置座標はまだ覚えているか？今ならまだ間に合うかもしれない。</color>
+()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:……+M4……RO……待ってて……！
+()||<BIN>9</BIN><黑屏1><黑屏2>:……SOP IIはメンタルに残ってある記憶を辿って、セーフハウスを見つけた。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>70</BIN><黑屏2>:……！
+()<Speaker></Speaker>||:……そこでよく知っているあの人形の姿を発見したが、メンタルモデルは完全に動作を停止しているようだ。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:M4……+どうしたの……答えてよ……
+()<Speaker></Speaker>||:……SOP IIはM4に少し近づき、その体を揺らそうとした。
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>SOP II、触るな！</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:M16……！//nM4は……どうなってるの？
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>メンタルが非常モードに入っている。</color>+<color=#00CCFF>セカンダリレベルに接続することはできるか？昔作戦コマンドを同期した時のように。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:試してみる……
+SOPIIDamage(2)<Speaker></Speaker>;M16A1BOSS(0)||<CGDelay>0.5</CGDelay>:
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:ダメ、接続が全部拒否されてる。
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>接続が失敗した……</color>+<color=#00CCFF>誰の仕業なのか分からないが……助かったな。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:助かった？こんなんで助かったって言えるの？+意識を戻せないんなら、せめて別の場所に運ばせて！
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>ダメだ。M4のメンタルは今極めて不安定な状態になっている。余計なことをしたらまずい影響を与えるかもしれない。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:敵が……いつ現れてもおかしくないっていうのに、M4をこのまま残すの！？+それとも……鉄血に渡すつもり？
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>鉄血はすでに撤退した。</color>+<color=#00CCFF>このまま残した方が安全だ。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:それで……M16は助けに来てくれないの？昔みたいに……
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>……私は今、他にやるべきことがある。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:昔のM16A1なら……こんなこと言わない……
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>状況が変わったのさ。人は変わらなければならないように……人形も同じだ。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:わたし、むずかしいことはよく分からない……+たぶん、M16の言うことを聞くのも、これで最後かもしれない……+でも……もしM4に何かあったら、絶対許さないから！
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>M4なら大丈夫だ。保証する。</color>
+()<Speaker></Speaker>||:……SOP IIは躓きながら、セーフハウスの隅まで歩いた。+……そして、ROの隣まで寄った。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO……+一緒に行こう。
+()<Speaker></Speaker>||:……SOP IIはROの体を持ち上げ、また出口の方へと向かって、一歩、一歩と、歩き出した。
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>SOP II、彼女はもう機能を停止している。</color>+<color=#00CCFF>ROは私たちと違う。機会があったら、またメンタルモデルのバックアップをインストールすればいい。</color>
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN>:……SOP IIは何も言わず、セーフハウスの外に出た。
+()<Speaker></Speaker>||<震屏>:……パタンッ！+……しかしSOP IIは二人分の重さを支えきれず、ROの体と一緒に雨の中に倒れた。
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>意味もないことをするな――</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)|||<BGM>BGM_Empty</BGM><震屏>:じゃあ何をすれば意味があるっていうの――！！
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>……</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:みんないなくなった……+もうわたしと一緒にいる人はいない……+なら生きても死んでも……全部同じじゃない……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:生きて……なんの意味があるの……
+()<Speaker></Speaker>||:……
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>…………</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:せめて……せめて一人ぐらい、仲間を助けさせて！
+()<Speaker></Speaker>||:……SOP IIはROの体に手を伸ばした。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:メンタルモデルは修復できても……わたしたちの……M4との思い出はなくなる……+せっかくみんな、昔のように戻れたのに……でも……でも！
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>……</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:わたしはただ……+わたしを必要としてる人のために！
+()<Speaker></Speaker>||:……ガチャッ！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO、ごめんね……ちょっと乱暴かもしれないけど……！
+()<Speaker></Speaker>||:……SOP IIはROの体を引き裂き、中からメンタルコアを取り出した。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:これで、一緒に帰れる……
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>ここから離れるのか？もう少し遠くへ行ったら、連絡できなくなる。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:M16も、わたしを助けられないんでしょう？+ここからは、自分で何とかするから。
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>……</color>+<color=#00CCFF>どこへ行く気だ？</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:指揮官を探して、グリフィンに戻るの。
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>グリフィンに戻っても、何もよくなることはない……</color>+<color=#00CCFF>AR小隊も、鉄血も、グリフィンも……</color>+<color=#00CCFF>お前の知ってるすべてが、変わり始めている。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:そんなの分からないし、どうもいい。+わたしはただ……みんなに会いたいだけなの。
+SOPIIDamage(2)<Speaker></Speaker>||:……SOP IIは無理やり、笑顔を作った。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:M16、起こしてくれてありがとう。+今度こそ、死なないようにちゃんとやるから。+わたし一人だけになっても……絶対……生きるの……
+()<Speaker></Speaker>||<黑屏1>:……SOP IIは走り出した。雨の帳の中に消えていく。
+()||<黑点2><BIN>10</BIN>:

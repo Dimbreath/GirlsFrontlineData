@@ -1,0 +1,79 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><黑屏1>:……三只熊结束散步回家时，发现原本温暖的家已经面目全非。+杯盘狼藉的餐桌、散架的椅子，闯入者的脚印到处都是，这一切令熊爸爸与熊妈妈简直不敢置信。+不过，最让小熊伤心的还是……
+()||<BIN>7</BIN><BGM>BGM_Sneak</BGM><黑屏2>:虽然做好了可能从此不再醒来的最坏打算，但事情似乎没有发展到最坏的情况。+当AS Val挣扎着从残骸碎片中爬起时，怀中的小熊仍然完好无缺。
+ASVAL(0)<Speaker>AS Val</Speaker>||:呜……呃……好疼。+啊，至少小熊还在……其他人呢？
+()||:环顾四周，AS Val发现自己身处在一片雪原上。+直升机的碎片和被甩出机舱的战术人形们散落在坠机处附近，其中几个已经起身开始活动了。
+AK74U(0)<Speaker>AK74U</Speaker>||:还有人吗？还活着的就应答一声！
+ASVAL(0)<Speaker>AS Val</Speaker>||:我在这里！
+AK74U(0)<Speaker>AK74U</Speaker>||:巨浪也在吗！真是太好了……
+ASVAL(0)<Speaker>AS Val</Speaker>||:大家都还好吧？平安无事吗？
+9A91(0)<Speaker>9A91</Speaker>||:似乎最后关头直升机迫降成功了，大部分人形都还活着。+……但是称不上平安无事就是了。
+()||:断手断脚、奄奄一息的人形们被9A91集中安置在坠机处附近，而AK74U则四处搜寻坠落时被甩出去的其他人形。
+AK74U(0)<Speaker>AK74U</Speaker>||:没有挂彩的似乎只有我们三人组而已呢，这该算是运气好吗？
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:坐上了最后一架撤离的运输直升机却半路坠机……就算幸存下来，也不算是运气好吧。+回基地后，肯定会被其他人嘲笑的。
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:人类不是常说“大难不死，必有后福”吗。+我清点了一下人数，巨浪应该就是最后一个了，上机的全员都在这里。
+ASVAL(0)<Speaker>AS Val</Speaker>;9A91(0)||:我们是怎么坠毁的？
+ASVAL(0);9A91(0)<Speaker>9A91</Speaker>||:可能是地对空炮火，也可能是防空导弹。+但不管怎么样，我们都得跟总部取得联系，让他们派救援队过来……+所幸直升机的残骸还算完整，说不定无线电还能使用。
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:那么分配一下任务吧，9A91待在直升机里修理通讯设备。
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:……为什么是我修？
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:因为是你提出来的。而且，你在之前的作战中本来就有损伤，现在去战斗也发挥不出全力。+都怪你给了我们无谓的希望，所以乖乖认命负起责任吧。
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:那你们呢？
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:我跟巨浪先分散到直升机南侧与北侧展开警戒线……如果直升机是被击落的，就代表附近可能有敌人。
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:如果遭遇敌人的话……那该怎么办？
+AK74U(0)<Speaker>AK74U</Speaker>;ASVAL(0)||:虽然真的很不想发生这种事，但到了那种时候也只能打了。+毕竟现在我们没办法同步备份心智云图，机上的同伴们要是被击毁，那就真的灰飞烟灭了。
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:话虽如此，你们也绝不要逞强哦。
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:明白，如果有漏网之鱼就交给9A91自己想办法。+接下来各自分头行动吧。
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:那个……
+AK74U(0)<Speaker>AK74U</Speaker>;ASVAL(0)||:巨浪，回头基地见。
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:……嗯，回头见。
+()||<BGM>BGM_Room</BGM><黑点2>:AS Val独自一人带着枪与小熊，前往直升机残骸附近的制高点。+跋涉在这片雪原中，她也思考了一下当前面对的形势。
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>（其实……真的能等到救援队来吗？）</color>+<color=#A9A9A9>（不知道无线电能不能用……）</color>+<color=#A9A9A9>（也不知道能不能击败敌人……）</color>+<color=#A9A9A9>（但是她们俩都很有默契地不去戳破这层薄薄的希望……绝口不提失败的可能性，假装一切还有挽救的机会。）</color>+……+9A91跟AK74U……都很善解人意呢。
+()||<SE1>Select</SE1>:抵达要防守的山丘之后，AS Val架起枪，将小熊娃娃揣在怀中，自顾自地说着。
+ASVAL(0)<Speaker>AS Val</Speaker>||:小熊也知道的吧？当初我第一天来格里芬报到，除了你以外，一个朋友也没有时，是她们先向我伸出了手。
+ASVAL(0)<Speaker>AS Val</Speaker>||:唉……如果能让我决定谁要平安回去，我希望是她们。+……为什么？我如果死了的话，为我伤心的只要有小熊就足够了。+但是她们……如果死了，一定会让很多很多人都感到伤心的。+嗯，没错，就是这样。
+ASVAL(0)<Speaker>AS Val</Speaker>||:果然小熊最好了，有些话只能跟你说，在她们面前说这些话就太羞耻了……欸？
+()||:远方传来的动静吸引住了AS Val的目光，她下意识地缩紧了身子。+大群的军方自律人形出现在视野之内，数量远远超过几个战术人形可以应付的程度。
+ASVAL(0)<Speaker>AS Val</Speaker>||:……9A91，无线电修好了吗？
+9A91(0)<Speaker>9A91</Speaker><通讯框>||<SE2>AVG_tele_connect</SE2>:<color=#00CCFF>我才刚检查完电池重启系统，还在读说明书。</color>
+9A91(0)<Speaker>9A91</Speaker><通讯框>||:<color=#00CCFF>可恶，有必要设计的这么复杂吗！</color>
+AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>怎么回事，巨浪，突然问起这个？你那边有动静了吗？</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:北侧出现了大量军方人形……+虽然没有重型单位，但是数量庞大。他们正在向这里靠近，似乎想要搜索坠机点。
+ASVAL(0);AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>收到，我马上过去……</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:没有必要。我去引开它们，尽量争取时间。
+AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>你……！</color>
+()||<BGM>BGM_Empty</BGM><SE2>AVG_tele_disconnect</SE2>:AS Val切断了通讯，将小熊塞入胸口。
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Danger</BGM>:我也想帮上朋友的忙啊。+要上了，小熊！
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:AS Val深吸一口气，从山坡的掩护下跃出，主动朝军方人形的搜索队开火。
+()||<SE1>Gunfight</SE1>:被灭音器遮掩住枪声的子弹撂倒了几个军方人形，但是其余敌人很快分析出了开火方向，并朝AS Val还击。
+ASVAL(0)<Speaker>AS Val</Speaker>||:这样看来如我所料……+没有人类在背后指挥的话，自律人形还是优先执行交战而非搜索指令的。
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:自知并没有足够火力歼灭全部敌人的AS Val，每开几枪就躲藏进地形的掩护里。
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:每当军方人形失去了目标，她就又窜出来偷偷射击……
+()||<SE1>Gunfight</SE1>:……自律人形部队就这样逐渐被吸引到远离直升机的方向。
+ASVAL(0)<Speaker>AS Val</Speaker>||:追过来了……很好！+只要拉开够远的距离，剩下来的就是回去跟大家会合……
+()||<SE1>Gunfight</SE1>:——砰砰砰！
+ASVAL(0)<Speaker>AS Val</Speaker>||:这里也有？呜！
+()||<SE1>ClothingUp</SE1>:从出乎意料方向射来的子弹击中了AS Val，她摇摇晃晃地卧倒在地躲避扫射。
+ASVAL(0)<Speaker>AS Val</Speaker>||:膝关节受损，无法直立行走……这下逃不掉了呢。+既然如此，就只能尽可能地减少敌人的数量了！
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:即使局势急转直下，AS Val仍然沉着冷静地小心举枪瞄准地平线上的敌人，然后开火。
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>（已经给大家帮上忙了吧？）</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>（就算是最后一刻，也不是孤单地与这个世界告别，毕竟还有小熊啊。）</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>（以这种方式结束的话……倒也算是作了个不错的梦呢。）</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>Explode</SE1><黑屏1>:但是，一声爆炸将沉醉于战斗中的AS Val震醒了。
+ASVAL(1)<Speaker>AS Val</Speaker>||<SE1>AVG_tinnitus</SE1><黑屏2>:咳咳咳……枪榴弹？幸好没有直接命中……啊。
+()||:当AS Val检查自己身上是否有被刚才的攻击造成的损伤时，视线停留在揣在胸口的小熊上……
+()||<BGM>BGM_Sad</BGM>:或者，该说是曾经是小熊的破棉花团。
+ASVAL(1)<Speaker>AS Val</Speaker><Shake>||:啊啊……哇啊啊……
+()||:原本紧紧握住的枪支从AS Val的手中滑落。+她颤抖着握紧了棉花团，生怕有任何一点碎屑从手里飞散出去。
+ASVAL(1)<Speaker>AS Val</Speaker>||:小熊……得快点修好……小熊……
+()||:AS Val原本从容应战的信心，转瞬间就被彻底击溃。
+ASVAL(1)<Speaker>AS Val</Speaker>||:要是没有小熊的话……+我不就……+只能……在这里孤独迎接结束了吗……？
+()||<SE1>Gunfight</SE1>:泪水填满了视野，震耳欲聋的枪声覆盖了一切声音。+在压倒性的绝望中，AS Val小声地呢喃了一句。
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:……可我……还是不想死啊。
+()<Speaker>AK74U</Speaker>||<黑屏2>0,5</黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:不想死，就拿起武器！
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:咦……
+AK74U(0)<Speaker>AK74U</Speaker>||<BGM>BGM_stage3</BGM><BIN>7</BIN><黑屏2>:巨浪你搞什么鬼！怎么能在这种地方倒下！+要是云图没了就什么都没有了！起来战斗！回去我要好好跟你算帐！
+()||:不知何时来到身边的AK74U，冲着AS Val大声咆啸着。+这是幻觉吗？还是没有了小熊后，又随心杜撰出了新的架空朋友呢？
+()||:AS Val茫然地捧起手中的棉花团，然后将它塞进大衣口袋。
+()||<黑屏1>:接着，她拾起了掉落在地上的武器。
+()||<SE1>Select</SE1><BIN>9</BIN>:……
+()||<SE1>Gunfight</SE1><黑屏1>:枪声一直持续着，直到直升机的旋翼拍击声接近为止。

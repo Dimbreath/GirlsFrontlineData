@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Brain</BGM><BIN>159</BIN><黑屏2>:……救助作戦が中止し、全員基地に戻る途中にて。
+Mk12(0)<Speaker>Mk12</Speaker>||:大丈夫か、416？
+AK74U(0)<Speaker>AK74U</Speaker>||:アタシより顔色悪いね。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:私……間違ったことをした。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:あれは指揮官の決定だ。それに……今では最善の判断だと思う。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:分からないわ……もし私がそうアドバイスしなかったら……
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:もしそうしなかったら、あんたは副官失格ね。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:客観的なアドバイスをするのはあんたの役目だ、たとえそれがどんなに耳障りなものでもな。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:そんなに落ち込んでないようね。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:戦場だからな、心の準備はできてる。+もちろん、あんたが助けてくれたことには感謝してるさ。あたしの「野望」もここで終わらずに済んだし。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:「野望」ってなんのこと？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:さぁな、そんなの毎回違う。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:毎回？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:目が覚めると……毎回。+そして記録にあるものを見て、生き方を変えているんだ。分かるか？
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:贅沢なことね。まぁ、私とは関係のない話ね。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:そうか……でも分かってくれると思うよ。+前方の偵察に行ってくる。
+HK416(0)<Speaker></Speaker>||:……Mk12は前へ走った。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:416。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:なに？あんたも慰めに来たわけ？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:そういう気分じゃないと思うけど。+みんなに認められてよかったでしょ？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:他人に認められたくて何かをする人形じゃないわ。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:そうは見えないな。+本当は認められたくて仕方ないんでしょ？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:……こんな話するほど仲良くないと思うけど。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:じゃあアタシらと一緒になりたくない？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||<BGM>BGM_Empty</BGM>:……どういう意味？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||<BGM>BGM_Truth</BGM>:さっきも言ってたでしょ、あんたの噂は少し知ってるって。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:……それは知っていいことじゃないわよ。+私ならいつでもあんたたちのメンタルモデルを永遠に停止させることができる。その権限を持っているわ。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:そう怖いこと言うなよ、別になんかされても怖くないけどさ。+でも本当に、この機にここに残らなくていいの？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:私には私の考えがあるわ。+今回も一時的に協力してあげてるだけ。あんまり私に近づかない方がいいわ。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:あんたもさ、本当は選べたはずなんでしょ？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:適当なこと言わないで。私の何を知ってるっていうの？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:知ってるよ、特に今の居場所をあまり気に入ってないこと。+本当は、逃げたいんでしょ？
+HK416(0)<Speaker></Speaker>||:……！+……416は力強くAK-74Uの首を掴んだ。
+AK74U(0)<Speaker>AK74U</Speaker><Shake>||<SE1>Rope</SE1><SE2>Rope</SE2>:……！
+HK416(0)<Speaker>416</Speaker>||:私に何があったか、あんたに何が分かる。
+AK74U(0)<Speaker>AK74U</Speaker>||:……+いや……416……+知ってるぞ……あんたが「逃げた」ことを……
+HK416(0)<Speaker>416</Speaker>||:……！
+Python(0)<Speaker>パイソン</Speaker>||<BGM>BGM_Empty</BGM>:おい、ほどほどにしろよ。416も。
+HK416(0)<Speaker>416</Speaker>;Python(0)||:……冗談よ。
+HK416(0)<Speaker></Speaker>;Python(0)||:……416が手を離した。
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||:今は冗談を言ってる場合じゃないぞ。指揮官の通信は届いてるか？
+HK416(0)<Speaker></Speaker>;Python(0)||:……ピッ、416に通信が届いた。
+HK416(0)<Speaker>416</Speaker>;Python(0)||<BGM>BGM_Sneak</BGM>:……はい、分かりました。+すぐに向かいます。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:新しい任務？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:敵が現れたのよ、76号拠点に。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:76号？あそこは誰もいないよ。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:なに……？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:今は人手が足りないからね、放置されてる拠点も多い。//nとはいえそんなところを奪って、何か意味があるの？
+HK416(0);A91(0)<Speaker>A91</Speaker>||:適当に奪って遊ぶつもりじゃないの？
+HK416(0)<Speaker>416</Speaker>;A91(0)||:あんたはまずその酒瓶を下しなさいよ。
+HK416(0);A91(0)<Speaker>A91</Speaker>||:機嫌が悪いのは分かるわ。
+HK416(0)<Speaker>416</Speaker>;A91(0)||:はぁ……あいつらを駆逐するわよ。//n撤退ポイントに近いから、敵の手に落ちるとまずいことになるって指揮官が言ってた。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:416、前方に人形の信号を発見した。確認してきてくれ。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:敵か？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:違う……一部だけが鉄血で、他は全部グリフィンの。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:どういうこと？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:あんたならどうすればいいか分かるって、パイソンさんが言ってたよ。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:私が……？
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||:そんなに驚くことか？+私がわざわざ先頭から最後尾まで来たのもこのためだ。
+HK416(0)<Speaker>416</Speaker>;Python(0)||:引き金を引く以外に、鉄血とやり合う方法は知らないわ。
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||<黑点1>:会えばわかるさ。+あんたらは同じ「特別」な人形だし、ひょっとして知り合いかもしれないぞ。
+()||<黑点2><BGM>BGM_Empty</BGM>:…………二分後。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_illustratedBook</BGM>:あー！RO、ついたよ！+見て！セーフポイントだよ！わたしたち安全だよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:本部に何があったの？！+SOP II、教えて！じゃないとセーフポイントに入らせないわよ！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(6)||:あああ！右足が！言うことを聞かない――！
+SOPIIDamage(2);HK416(0)<Speaker>416</Speaker>||:うるさいわね。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……？！
+RO635(6)<Speaker>RO635</Speaker>;HK416(0)||:あ……あなたは……
+RO635(6);HK416(0)<Speaker>416</Speaker>||:こんな時にグズグズするなんて。早く合流しなさいって言ったでしょ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:この人形……どこかで会ったことある気がする？
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:あんたが会ったことある人形なんていくらでもいるわよ。//nとにかく、早く来なさい。+敵がもうすぐ攻撃を始めるわ。//nその前に、みんなで協力してここから離脱しないと。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;HK416(0)||:敵？軍がここまで攻めてきているのですか？
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:新しい敵よ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;HK416(0)||:新しい敵？+軍でも、鉄血でもなくて？+一体なんなの？
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:分からないわ。+分かってるのは、あれは私たちを皆殺しにしようとしてることだけ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:へー……そうなの？+わたしからすれば、相手は殺せるものなら何でもいいけど。
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:そこが問題なのよ。
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:あいつら、あの私たちを殺そうとしてるやつらは……+……殺しても死なないわ。
+()||<BIN>159</BIN><黑屏2>:……
+HK416(0)<Speaker>416</Speaker>||:少なくとも数時間前までは。今はもうなんとかなったわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:……行きましょう。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:え？まって、今の冗談なの？わたしもしかして笑うべきだった？
+HK416(3)<Speaker>416</Speaker>||<震屏><黑屏1>:早く来なさいって！
+()||<黑屏2><BIN>161</BIN><BGM>BGM_Empty</BGM>:……
+HK416(0)<Speaker>416</Speaker><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>指揮官、今から76号拠点に向かい、白い敵の襲撃に対処します。</color>+<color=#00CCFF>ついでに、途中で――</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>指揮官！指揮官！指揮官！</color>
+HK416(0)<Speaker></Speaker>||:……ピッ！+……416はSOP IIの通信を無理やり閉じた。
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>ひどいよ416！</color>+<color=#00CCFF>ROはまだなにも話してないのに！</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>は、話さなくていいから……戦死したことにして……</color>
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>途中でAR小隊のSOP IIとRO、そしてCx4ストームの人形部隊を拾いました。</color>+<color=#00CCFF>ちょっと……色々変なことになってるけど、今のところまだ自由に行動できるようです。</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>自由じゃないから！わたしは全然自由じゃないから――！</color>
+HK416(0)<Speaker>指揮官</Speaker>||:……<c>SOP II、無事だったのね！<c>RO……どこ？<c>おかえり！きっと無事だと信じてたよ！
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:<color=#00CCFF>はい、指揮官！色々あったけど、無事に帰って来れたよ！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>2</分支>:<color=#00CCFF>わたしは……わたしは……SOP IIの、肩に……//nここここれは一時的なものだから！仕方なくこうなってるんだから！</color>
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:<color=#00CCFF>うん！わたしも！きっとまた指揮官に会えるって信じてたよ！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>3</分支>:<color=#00CCFF>えと……その、あなたが無事なら何よりです、指揮官。</color>
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>……話は後にしましょう。もうすぐ76号拠点に到着するわ。</color>+<color=#00CCFF>指揮官、私たちは全ての部隊を救出できなかったので、ここから先の戦いは厳しいのもになると予想します。</color>+<color=#00CCFF>なるべく万全な準備をして、作戦に臨んでください。</color>
+()||<BIN>10</BIN><黑点2>:

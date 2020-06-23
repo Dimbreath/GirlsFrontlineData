@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>22</BIN><BGM>BGM_Empty</BGM>:SOP IIとROはペルシカの研究室に着いた。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Hello</BGM>:ペルシカさん――来たよ！
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:早かったわね、コーヒー一杯ぐらいは飲み終えられると思ってたけど――+あれ……SOP II、あなた一人だけなの？ROはどこ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ROも来てるよ、ほら！
+()||:SOP IIはペルシカにダイナーゲートを見せた。
+NPC-Persica(1)<Speaker>ペルシカ</Speaker>||:あら？本当にダイナーゲートの中にいるの？
+NPC-Persica(3)<Speaker>ペルシカ</Speaker>||:カリーナが冗談を言っていたのかと思って追い出しちゃったわ……
+RO635(6)<Speaker>RO635</Speaker>||:認めたくはありませんけど……+わたしのメンタルモデルは今……確かにこれの中にいます……ペルシカさん。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:それ自体はそんなに驚くことじゃないけど……まさかSOP IIがやったとはね……+昔のあなたなら、きっとバッテリーの切れたメンタルモデルしか持ってこれなかったはずなのに。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:バカにしないでよ！バッテリーのないメンタルモデルをペルシカさんに渡しても意味ないでしょ！
+SOPIIDamage(2);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:私にとっては意味のないことじゃないけど、それより今はなんでこんなことしたのかを知りたいわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:それは……わたしもよくわからなくって……あの時はただROを助けたいって思ったから、思いついたことを全部やったって感じ。+それでこうなったの。
+SOPIIDamage(0);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:うーん……まぁ予想通りの答えだけど……少し掘り下げると案外面白いかも……+でも、あなたは確かに私の予想を超えたわ、SOP II。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ふふん！わたしって肝心な時に奇跡を起こす人形なんだよ！
+RO635(6)<Speaker>RO635</Speaker>||:ペルシカさん……その前に、まずはわたしをこのダイナーゲートから移し出してもらえますか？
+RO635(6);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:ごめんねRO、今はあなたにマッチングする素体を持ってないから、メンタルを移し出しても何もできないわよ。+見た感じ今の状態でも安定してるようだし、とりあえずそのままにしておくのも……
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:な、なんでですか！こんな体は嫌です！普通の人形素体でもいいですから、とりあえず移し出してください！
+RO635(6);NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:うーん……そうは言ってもこれはプラモを組み立てるような簡単なことじゃないし……+あなたたちもたまたま運がよかっただけで、本当はメンタルの強制転移ってかなり危険なことなのよ。
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(0)||:もうこのバカげた体の中にいたくないのです！+このダイナーゲートの中にさえいなければいいので！お願いします、ペルシカさん！
+RO635(6);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:うーん……メンタルを暫く置くだけの場所ならなくはないけど。+そこへ行ったらちょっと面倒なことになるかもしれないわよ……
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:それでもいいです！どうせ今より面倒な状況なんてないですので！
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:分かったわ、何とかしてあげる。+それでSOP IIも……その継ぎ接ぎの体を何とかしないとね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:わたしはこの腕がたまに勝手に動く以外別に問題ないよ……ペルシカさんは先にROの方を手伝ってあげて。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:その前に、まずは二人の状態を検査しないとね。さ、こっちに座って。+ちょっと準備をするから、その間に今までの出来事を話してごらん。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:いいよ！でも話すと色々長くなるかも……
+()||<黑屏1>:SOP IIはROを抱いてペルシカの指した椅子に座った。+同時にペルシカも色々と作業を始めた。
+()||<黑屏2><BGM>BGM_Empty</BGM>:……30分後。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||<BGM>BGM_Moon</BGM>:そう、なかなかの冒険談だったわね。+あの子も無事だといいけど……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:ペルシカさん、誰かを心配してるの？
+SOPIIDamage(0);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:ああ別に？あなたたちのことが先だからね。+SOP II、ここまで自分たちの出来事に何か感想は？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:感想はね――もうこんなことは嫌だ！
+RO635(6)<Speaker>RO635</Speaker>||:同じく……
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:……質問を換えようか。最近何か学んだことはある？+戦いの中で、自分に関しても、他人に関しても……何か新しく分かったことはある？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:それは……
+SOPIIDamage(2)<Speaker></Speaker>||:SOP IIは俯いた。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:今までは、自分さえ楽しければそれでよかったけど……こうして色々あって、みんなを動かすのって大変なことなんだなって、初めて分かった気がする。+M4やROは本当にすごいんだなって……みんなを指揮して勝利して、みんなを無事戦場から連れ戻すのって、わたしにできないことだよ……
+RO635(6)<Speaker>RO635</Speaker>||:SOP II……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:だからわたしも、もう仲間を失いたくない、一人だけ残されたくない……生き残るのが自分だけなのはもう嫌なんだ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:他の人の力になって、みんな一緒に生き残りたい！みんな一緒に楽しく生きていきたい！
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:……分かったわ。
+NPC-Persica(2)<Speaker></Speaker>||:……ペルシカはやさしく微笑んだ。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:悪くない答えね。少しご褒美をあげようか。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ご褒美？+修理するだけじゃないの……？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||<黑屏1>:そう、これからあなたのメンタルとすべての武装を、アップグレードしてあげる。
+帕斯卡()<Speaker>ペルシカ</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:自分の新しい力に期待しててね、SOPMOD II。

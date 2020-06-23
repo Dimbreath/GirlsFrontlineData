@@ -1,0 +1,20 @@
+代理人()<Speaker>エージェント</Speaker>||<BGM>BGM_Empty</BGM><SE1>Heartbeat</SE1><BIN>9</BIN><黑屏1>:……死を届けに参りましたよ。+ほら、目を開けなさい……
+代理人()<Speaker>エージェント</Speaker>||<睁眼><SE1>m4a1_015</SE1><火花>1.7</火花><BIN>11</BIN>:……わたくしをご覧なさい、戦術人形M4A1。さあ。
+代理人()<Speaker>エージェント</Speaker>||<BGM>BGM_Sad</BGM>:幕引きの時間ですわ。//nあなたには最後まで見届けてもらいますわよ。
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2><黑屏1>:ゲホ…… + 代理……人……
+代理人()<Speaker>エージェント</Speaker>||<拉伸><BIN>12</BIN>:面白いですわ。//n死ぬ間際の目つきでさえ、あの娘たちとは違うのね。+そう、その目つきよ。もっと驚き、悔しがり、恨みなさい！
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013b</SE2><黑屏1><关闭火花>:ぐっ……ゲホッ……
+代理人()<Speaker>エージェント</Speaker>||<黑屏2><黑屏1><平移><SE1>Battlefield</SE1><刮花><边框>2</边框><BIN>20</BIN>:ご主人様の大事なものを盗んでおいて、逃げおおせられるとでも思っていたのかしら。+まずはあなた、次にAR小隊。//nそしてあなたのために命がけで戦っているグリフィンの人形たち。+すぐにあの娘たちも親を亡くした赤子のように、途方に暮れることになりますわ。+戦場で必死にあがいて、最後はわたくしたちの餌食となるのよ……
+代理人()<Speaker>エージェント</Speaker>||<SE1>Rope</SE1><黑屏2><BIN>12</BIN><火花>:まず手始めに、あなたにはここで死んでいただきますわ。
+M16A1()<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1><打海猫2>:……悪いが、そいつをここで死なせるわけにはいかん。
+代理人()<Speaker>エージェント</Speaker>||:…………！
+()||<关闭火花><快跑><SE1>RunStep</SE1>:
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2>0,4</黑屏2><SE1>MachineGunBurst</SE1><BIN>14</BIN><BGM>BGM_Danger</BGM><开火>:ごちゃごちゃ言ってないで、今すぐ地獄に堕ちろ……！+ 鉄血のクズが！
+()||<开火><SE1>MachineGunBurst</SE1><SE2>TiexueDie</SE2><黑点1>:
+M4A1(1)<Speaker>M4A1</Speaker>||<黑点2><BIN>15</BIN>:ケホッ……ゲホゲホ……
+M16(0)<Speaker>M16A1</Speaker>;M4A1(1)||:感謝しろよ。//nまた危ないところだったぞ。
+M16(0);M4A1(1)<Speaker>M4A1</Speaker>||:はい……M16姉さん、外はどうなっているのですか？AR15たちは――
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(1)||:戻ったわ、鉄血の増援が来ている。//n急いで撤退しないと。
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:支援部隊が食い止めてくれているから、急ごう！
+M16(3)<Speaker>M16A1</Speaker>;SOPII(0)||:M4、指揮はとれるか？//n怪我は軽くないようだが。
+M16(3);M4A1(1)<Speaker>M4A1</Speaker>||:大丈夫です、ゲホッ……M16姉さん、修復を手伝ってください。//n私は先に指揮システムをチェックしてきます。

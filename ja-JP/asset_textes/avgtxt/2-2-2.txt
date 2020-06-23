@@ -1,0 +1,20 @@
+()||<BGM>BGM_Sunshine</BGM><BIN>8</BIN>:……作戦終了。
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:今回も順調でしたね、お疲れ様でした！
+NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:あれ？指揮官さま、なんだか……あまり嬉しそうじゃないですね？
+NPC-Kalin(7)<Speaker>カリーナ</Speaker>||:……そりゃそうですよね。+この前まで重大な任務を任されていたのに、突然中止になっちゃって。+今じゃ……雑用しかやらせてもらえないなんて、落差が激しすぎますよね。
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:でっ、でも！新任の指揮官にしては、素晴らしい成績ですよ！+これからも一歩一歩真面目にやっていけば、チャンスはいくらでもありますよ。ね？
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||<黑点1>:……ええ、そうですよ！元気を出してください、まだまだやることはたくさんあるんですから！ 
+()||<BGM>BGM_Boss</BGM><黑点2><BIN>2</BIN>:同時刻。//n戦場の一角には、他の人形小隊たちの姿が……
+FN49(0)<Speaker>FF FN49</Speaker>||:敵は……見当たりませんね……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:おかしいなぁ、怪しい信号を見つけたのに。もしかしてまた無駄足なの？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:うーん……いない方がいいんですけどね。早く帰りましょう。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:怖いの？49。+でもなぁ、このまま戻ったら……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<黑屏1>0,8<黑屏1>:……あっ！あそこに誰かいます！
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2>0,8<黑屏2><BIN>2</BIN><黑屏1>0,8<黑屏1>:……！
+FN49(0)<Speaker>FF FN49</Speaker>||<黑屏2>0,8<黑屏2><BIN>2</BIN>:ん？あれって……味方の人形じゃないですか？+どどどうしましょう、撃ちますか？！
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:私に聞かれたって分かんないよぉ。こんなときはどうするべきか調べるから、ちょっと待ってて！
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:ああ、逃げちゃいました……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:うー……反応速いよ……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:こちらが遅すぎなんだと思います……+FNC、私たちって鈍すぎるんでしょうか……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:そんなはずないよ。私たち、新世代の戦術人形なんだから。+でもさっきの人形は……敵じゃないんでしょ？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<黑屏1>:味方の人形なら、どうして逃げたりなんか……+一体……どういうことなんでしょう……？

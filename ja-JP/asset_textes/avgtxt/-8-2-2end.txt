@@ -1,0 +1,49 @@
+()||<BIN>3</BIN><BGM>BGM_Boss</BGM>:…………
+FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:狩りごっこはおしまいよ、イントゥルーダー。
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker>||<BIN>3</BIN>:そうね、だけど十分収穫はあったわ。+残念ながら、本物の「人形」は手に入らなかったようですけど。
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)||<BIN>3</BIN>:……本物の「人形」？
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker>||<BIN>3</BIN>:「ウサギ」さんが探し求めているものよ……+それが見つからないと、わたくしにも彼女の「人形」殲滅を止められないのよ。
+BB_Noel(2)<Speaker>ノエル</Speaker>;BOSS-4(0)||<BIN>3</BIN>:…………
+FN49(0)<Speaker>FF FN49</Speaker>;BOSS-4(0)||<BIN>3</BIN>:あなたたちの目的は……一体……？
+FN49(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker>||<BIN>3</BIN>:あなたたちが一番よくわかっているでしょ？//nこれは単なる狩りごっこなの。+クリアするにはまだ早いわ、ゆっくり楽しまないと……
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)||<BIN>3</BIN>:フンッ……今はあんたの死体が拝めたらそれでいいわ。
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker>||<BIN>3</BIN>:申し訳ないけど、まだ閉幕するには早いわ……+あなたたちの標的リストにもう少しだけ残しておいてちょうだいね、わたくしの名前を。//nそれでは。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>3</BIN>:……まずい！煙幕だわ！
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>3</BIN>:……！+そんな小細工で……逃げ切れると思ってるの！
+FAL(0);FN57(0)||<BIN>3</BIN><SE1>RunStep</SE1><快跑>:
+()||<BIN>9</BIN><SE2>Gunfight</SE2>:FN小隊による集中射撃の後……
+FN49(0)<Speaker>FF FN49</Speaker>||<BIN>3</BIN><黑屏2>:……にっ……逃げられちゃいましたね。
+FN49(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:チッ！//n……目の前で取り逃がすとはね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:でも……何も収穫がなかったわけでもないよ？
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:……？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:これ、逃げるときに落としていったみたい。
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:これって……もしかして……+ふ、ふふふ……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:ど、どうしたの？
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN><黑屏1>:ふんっ……イントゥルーダー、どうやらすぐにまた会えそうね。
+()||<BIN>8</BIN><黑屏2><BGM>BGM_Empty</BGM>:任務が完了し、司令部に戻った後……
+FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:やっぱり、「ウサギ」と鉄血には何かつながりがあるみたいだね。
+FN57(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:FALが早速手がかりを提出しに行ったみたいだし、すぐに何かわかりそうだね。
+FN57(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:…………
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN><BGM>BGM_Sad</BGM>:……どうかした？//nノエルさん。
+FN57(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:あ！すいません、あ、あの……考えたんですけど……+本物の「人形」って、もしかしたら私のことを言っているのではないでしょうか……？
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:……？//nあなた、「人形」だったの？！
+FN57(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:何と言えばいいのでしょうか……ある意味では……そうなのかもしれません……+もちろん、私もはっきりそうだとは言いきれないのですが……+「ウサギ」が探してるという「人形」はやはり……
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:じゃあ、これまでの厄介事って、みんなあなたと関係あるってこと？
+FN57(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:うっ……すみません！//n……全て私のせいです……
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:そうよ、みんなアンタみたいなわけわかんないヤツのせいで、こんなに苦労させられてるんだよ？
+FN57(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:うぅ……この容赦ない物言い……+なんだか懐かしいような……
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:えっと……全部が全部、そうとは言えないと思うよ……
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:え？
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:ノエルは雷と一緒に落ちてきたんでしょ？+あの時、もし雷が落っこちてなかったら、私はとっくにイントゥルーダーにやられてたかもだし……+だから……私たちのほうこそ、ノエルに救われたのかもしれないよ。
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:……うぅ！//n……わ、私！感動しました！+FNCさんは本当にいい人ですね！
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:うひゃあ！//nは、放して！……痛いってば！
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:……厄介事は遅かれ早かれやってくるものよ。+もし「ウサギ」の目的がノエルなのだとしたら、逆に好都合ね。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BIN>8</BIN><BGM>BGM_Empty</BGM>:あら、やっと来たの？
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:調査ではっきりしたわ。//nあれはやはりイントゥルーダーの通信モジュールだったようね。+それに、発信源はまだよく分からないけども、とある座標からの信号が検知されたわ。+この信号、以前観測された「ウサギ」のものとほぼ一致しているわよ。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BIN>8</BIN>:さっすが～！//n良いニュースじゃない。
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><BGM>BGM_Sneak</BGM>:……喜ぶにはまだ早いわ、57。+調べによると、信号は北にある鉄血の廃工場を示しているそうよ。//nここは探索済みなんだけども……+鉄血がちらほらいる以外、基本的にはもう使用されていないのよね。+あんな場所から信号が発せられてるなんて……悪い予感しかしないわ。
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:……今回は私たちから打って出ますか？
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:そうね、もう一度調査に向かう必要があるわ。//nそして……+ノエル、あなたの出番よ。
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:……へ？
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑屏1>:「ウサギ」が巣から出てこないなら……
+FAL()<Speaker>FAL</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:……「ニンジン」をあげなくちゃ。

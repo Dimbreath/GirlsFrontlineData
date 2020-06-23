@@ -1,0 +1,27 @@
+()||<BGM>BGM_Sunshine</BGM><BIN>18</BIN>:……支援作戦終了。
+IDW(0)<Speaker>IDW</Speaker>||:にゃにゃ、やっと助かったにゃー！+よそのご主人様、ありがとうございますだにゃー！
+M16(0)<Speaker>M16A1</Speaker>||:指揮官、これで最後か？
+AR15(2)<Speaker>ST AR-15</Speaker>;M16(0)||:会議は取りやめになったのに、私たちはまだ帰れないの？
+AR15(2);M4A1(0)<Speaker>M4A1</Speaker>||:本部は機密漏洩の疑いのある人形をしらみつぶしに調べているの。//nここで待つしかないわ。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||:まったくもう、わたしたちは人形だよ。//n敵に秘密を漏らすわけないじゃん。
+SOPII(3);M4A1(0)<Speaker>M4A1</Speaker>||:命令なんだから、とにかく待って。
+AR15(2)<Speaker>ST AR-15</Speaker>;M4A1(0)||:退屈だわ、ちょっと休んでくる。//nその場で待機せよとも言われてないでしょ。
+M4A1(2)<Speaker>M4A1</Speaker>||:……+指揮官、AR15は……
+NPC-Helian(0)<Speaker>ヘリアン</Speaker>||<BGM>BGM_Empty</BGM>:待ちなさい。
+AR15(0)<Speaker>ST AR-15</Speaker>||:……
+NPC-Helian(0)<Speaker>ヘリアン</Speaker>||<BGM>BGM_Battle</BGM>:ただいまより重大発表を行う。+調査の結果、データの送受信に深刻なエラーを伴っている人形が発見された。+そして、それは他ならぬAR小隊のうちの一人だ。
+AR小队()<Speaker>AR小隊</Speaker>||:……！
+NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:AR小隊所属の戦術人形AR15。//nデータベースをスキャンしたところ、あなたがデータをアップロードする際に深刻なエラーを発生させていることを突き止めた。+なのでこれより通信モジュールをシャットダウンし、精査のため保安要員が取り調べ室に連行する。
+()||:……
+AR15(0)<Speaker>ST AR-15</Speaker>||:私のこと……ですよね……？
+M16(3)<Speaker>M16A1</Speaker>||:何だと……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:そんなバカな、きっと何かの間違いだよ！
+AR15(2)<Speaker>ST AR-15</Speaker>||:黙って、SOP II。//nあなたはただの人形よ。+どんなに騒いだって、命令には逆らえないの。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:でも……
+AR15(0)<Speaker>ST AR-15</Speaker>||:容疑の取り調べをするだけよ。//n私がやったと決まったわけじゃないし、ひとまず任務に集中して。
+M4A1(2)<Speaker>M4A1</Speaker>||:AR15。//n私たち、信じているから……
+AR15(0)<Speaker>ST AR-15</Speaker>||:……+分かってる。私がいないからって、任務をしくじらないでよ。
+()||:……AR15はヘリアンとともに去っていった。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:AR15……
+M16(3)<Speaker>M16A1</Speaker>||:これ以上考えても無駄だ。//nそれに今はやるべきことがある。+行こう。//nAR15も私たちがいつまでも心配し続けることを望んじゃいないはずだ。
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:……+どうしてこんなことに……

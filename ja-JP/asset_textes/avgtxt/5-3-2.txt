@@ -1,0 +1,21 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:……目標地点に到着。
+M16()<Speaker>M16</Speaker>||:（……爆破用意。）+3、2、1……+……今だ！
+()||<震屏><BIN>15</BIN><SE1>Explode</SE1>:……ボンッ！！
+()||:……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:あれ、誰もいないじゃん！
+AR15(0)<Speaker>ST AR-15</Speaker>||:静かに、周囲に気をつけて。
+M4A1(0)<Speaker>M4A1</Speaker>||:異常な信号なし、安全です。
+M16(3)<Speaker>M16A1</Speaker>||:ふん。//n地面の痕跡を見るに、ボスは撤退したばかりのようだな。
+？？()<Speaker>？？</Speaker>||<BGM>BGM_Boss</BGM>:正確に言うと、今から30分前にね。
+M4A1(3)<Speaker>M4A1</Speaker>||:……！
+BOSS-6(0)<Speaker>デストロイヤー</Speaker><通讯框>||:鉄血工造のデストロイヤーよ。+お会いできて光栄……って言うべきなのかな？ビデオ通話越しだけど。+しかし驚いたよ。//nあたしが思ってた以上に早かったわね。+本当は混乱に乗じて次の手を打つつもりだったけど、座標まで突き止められちゃうとはね。+クルーガーとかいう奴、なかなか素早いのね。
+M4A1(3)<Speaker>M4A1</Speaker>||:グリフィンは既に厳戒体制をしいているわ。//nもうこれ以上何も渡さないわよ。
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:ああそう。//nあたしにとっちゃ、大したことじゃないけど。
+AR15(0)<Speaker>ST AR-15</Speaker>||:まだ……別の目的があるっていうの？
+BOSS-6(0)<Speaker>デストロイヤー</Speaker>||:あんたたちのポンコツ頭じゃ思いつかないよねー、グリフィンのバカ人形。+おとなしくしてなよ、どうせ何もできやしないんだから。
+M16(3)<Speaker>M16A1</Speaker>||:チャンネルを抜けやがったな。//n奴の信号を追えるか？
+M4A1(0)<Speaker>M4A1</Speaker>;M16(3)||:何とかできますが、暗号化された内容が多く、すぐには解けません。
+M4A1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:あのバカ、距離が近かったせいで追跡されてるって気付いてないよね。
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(0)||:ひとまず撤退しましょ。//n本部に戻って、急いで報告しないと。
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:AR15……今回の任務にやけに積極的だね。
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(0)||<黑屏1>:何よ、私はいつだって実用主義者でしょ。//n何かおかしい？+急ぎましょ、時間がないわ。

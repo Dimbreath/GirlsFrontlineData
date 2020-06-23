@@ -1,0 +1,73 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>72</BIN><黑屏2>:
+()||:……
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:現在，間諜部分落幕了。
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:你們現在一個也逃不掉！
+()||:呲呲——！
+NytoWhite(0)<Speaker>人形追蹤者</Speaker>||:……？報告……我的……
+()||:啪——！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:各位，晚安了。+如果趁這時候調查他們的心智，也許有關於涅托的情——
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！你搞定了嗎，快醒過來，那個女僕要跑了！</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:什麼？
+()||<BIN>84</BIN><黑屏2><Night>:……RO635立刻脫離電子平層。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>那個女僕突然加快了移動，而且開始脫離原來的路線！</color>
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:她感覺到了……+她感覺到了周圍跟蹤者的訊號都消失了，所以準備逃跑。+可惡，反應居然這麼快，你能趕得上她嗎？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:<color=#00CCFF>我沒問題，不過需要你趕緊跟上來，我對溝通可沒啥自信啊。</color>
+()||<黑点2><BIN>86</BIN><Night>:……同一時間。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:……快點。+再快點——！+周圍確實沒有任何跟蹤者的訊號了。+這到底是怎麼回事，突然之間……+不管怎樣，這對我有利，但是現在不能回安全屋，必須盡快遠離……
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||<SE1>Rope</SE1>:唔——！
+()||:……女僕路過一個巷角時，突然被兩隻手拽進胡同。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:抓到你了~
+NPC-Maid(0)<Speaker>女僕人形</Speaker><Shake>||:唔！唔！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:抱歉，小姐，她只會這一個表情。+——SOP2，鬆開她的嘴。小姐，請不要喊叫，也不要報警。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:（驚恐地點點頭）……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:你認識這張照片上的人嗎？
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:我……不認識……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:別裝蒜了，你在做什麼我們早就知道。+而且如果不是我們，那些傢伙早就抓到你了。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:誰？有人在追捕我？我不知道……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:他們馬上就會醒過來！你以為光靠你一個能躲得過他們嗎！
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:你們……你們是不是搞錯了……+我……我真的什麼都不知道……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:小姐，我在入侵他們時聽到了他們的報告。+如果不是我們，恐怕他們現在已經將你團團圍住了。+他們會抓到你，不惜擴大規模，採取無差別攻擊，也要通過你找到這位人類先生的下落。+你和這位人類現在處境非常危險，你可以繼續向我們隱瞞，但我們就沒有理由保護你了。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:……
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:<color=#A9A9A9>（她的眼神變了……）</color>
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:小心——！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:！！
+()||<闪屏><duration>5</duration></闪屏>:
+()||:女僕人形的手臂彈出了尖刃，朝著RO的頭部猛刺過去，已有準備的SOP2抓住她的手臂，將女仆倒按在了牆壁上。
+()||<震屏>:
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:啊！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:果然力氣上的差距，是無論如何改造都無法彌補的。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:民間人形可搞不到16LAB的好東西呢。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:放開！放開我！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:抱歉，我們就以這種方式來溝通吧，這也是保護你的一種方式。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:……保護我？在這個城市裡沒有幾個人形可以比得過我的出力！+像你們這些來路不明的怪物，竟然還說得出保護我這種話？！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:如果我們真的是你的敵人，現在你已經被剛才那群傢伙直接架走了。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:那我又怎麼知道你不是另一批敵人？
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:我們不是壞人，也不會傷害你。+我們是格里芬安全承包公司的高級雇員，有人告訴我們這個人類可以為我們提供情報來找到另一個非常重要的人類。+從你的反應來看，你一定認識這個照片上的人。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:格里芬……？
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:對格里芬你有什麼想說的嗎？
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:我的確聽說過“格里芬”這個名字。+那你們要尋找的人類是……？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:安潔，安潔莉婭，你有聽說過這名字嗎？
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:安潔莉婭………我曾收到過命令，會有尋找安潔的人出現，她們是可以信任的。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:沒錯，沒錯，那就是我們了！
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:但我又怎麼能確認你們不是偽裝出來的呢？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:如果我們是偽裝的，那早就通過強行入侵來獲得我們想要的訊息了。+我們之所以用溝通的方式，也是為了表達我們的……善意。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:通過把我按在牆上來表達？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:女僕小姐，只要你給我們想要的，我們可以提供任何你想要的幫助……+我們有理由相信，現在照片上的那個人類已經遭遇了危險，我需要知道他現在的確切位置，這樣我們才能保證他的人身安全。+這是我們的指揮官的訊息編碼，我可以開放我們的連接，你完全可以通過二級平層來驗證我們的身份。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:好吧……我姑且先相信你們，現在比較緊急，驗證的事之後再說。+現在我能告訴你們的，只有照片上這個人的確碰到危機了，如果你們能協助我離開這裡，那我會告訴你他現在所在的位置。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:協助你離開沒有問題，但我希望你能先告訴我們他的位置，萬一有什麼情況我們也好應對。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||:好吧……那我就告訴你吧，在此之前能不能先把我從牆上放下來？這樣說話不太方便。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP2，放下她吧。
+NPC-Maid(0)<Speaker>女僕人形</Speaker>||<BGM>BGM_Empty</BGM>:！！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM><震屏>:誒！？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:啊！！
+()||<SE1>RunStep</SE1>:女僕在SOP2鬆手的瞬間，一腳踢開了RO，以極快速度往街口衝了出去。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:該死！她剛才的樣子都是裝的！SOP2！追得上嗎！
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:太快了！如果被她跑進廣場，那就來不及了……要開槍麼！？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:不行……不能冒這個風險！
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:但是！啊？？？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:發生……發生什麼了？
+RO635-NoArmor(0)||:
+()||:……+在狂奔的那名女僕人形，突然像撞到隱形的路障一般被絆倒，慣性帶動著她的身體滾動了好幾圈。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:……+喂……這是……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||<黑屏1>:這可不太妙……我有不太好的預感……

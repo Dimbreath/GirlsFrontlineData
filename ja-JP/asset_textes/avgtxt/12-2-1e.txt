@@ -1,0 +1,45 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>202</BIN><黑屏2>:指挥室内。
+()<Speaker>指挥官</Speaker>||<BGM>BGM_Room</BGM>:基地内还有什么要特别留意的么？
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:除了岸防炮外，注意基地的二层和三层。
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:你是说地下的区域么？
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:没错，地下这片区域恐怕已经被帕拉蒂斯改建成了制造异构体的研究基地了。+如果那里有复数涅托存在的话，恐怕到时想控制片区域会遇到很大的阻碍。
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:复数的涅托么……普通的梯队对付涅托会有很大的战损……
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:另外第三层空间，这个位置只有一个通道可以进入，通道内也只有一座电梯可以在地表和地底往返。+这块区域原本是用来封锁遗迹产物，理应永久封存，在我记忆中也是封存的状态。+但是有铁血的介入后，现在状态如何就无法肯定了。
+()<Speaker>指挥官</Speaker>||:铁血为什么会对那里感兴趣？
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:那里应该是被称为海星的设施，过去用来承载梭鱼系统的大型系统。+我想在贝莱格莱德争夺的梭鱼节点就是来自这里。
+()<Speaker>指挥官</Speaker>||:梭鱼节点的出处么，这样的话铁血的主脑会对这里感兴趣也就说得通了。
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:这和蝴蝶事件等一系列事件的缘由也同样有关，所以那个人形才会选择加入这次的行动。+没错吧，特殊小队的队长？
+()<Speaker>指挥官</Speaker>||:你说UMP45么？+不过她现在不是不在这么？
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:没关系，她会知道我的意思的。
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:梭鱼节点……我把铁血可能对第三层空间的关注度也增加进推演的影响因素里了。+还有其他信息可以提供么？
+RO635(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:地形和视觉信息都已经在刚才同步了，注意下这里的高地还有这些建筑的连接部分，这些都是伏击的好地方。+除此之外的话，其他就没有更多的情报可以分享了。
+()<Speaker>指挥官</Speaker>||:嗯，能看到地形和基地内的布局已经是巨大的帮助了。+格琳，在绘制地图时，这些信息务必要进行强调，绝对不能让作战梯队忽视。
+RO635(0);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:好的，我已经在做相应的注释了。
+RO635(0)<Speaker>RO635</Speaker>||:没有其他信息了的话，我会基于这些信息做作战计划的预判方案。
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:设置五套预案进行推演吧，这次行动未知性太高了，不知道有什么危险等着我们。
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:没问题，我在各个风险位置增加损失的权重，不过时间不是太够，应该来不及推演如果任务失败后撤离的方案。
+()<Speaker>指挥官</Speaker>||:没关系，控制住基地我们就不需要考虑撤离的问题了。
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:希望是这样吧……+M4，可以帮我一起模拟推演么？+我希望演算的内容可以更充分一些。
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:没问题，需要我进入二级平层么？
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:没关系，只要提供运算支持就可以了，剩下的事我会自己解决。
+NytoIsomer(4)<Speaker>丹德莱</Speaker>;M4A1Mod(0)||:需要我的帮助么？
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:不必了，一会进入潜艇基地的作战，我要你牢牢地跟着我。+一旦我不在我无法想象你会做出什么事来。
+NytoIsomer(4)<Speaker>丹德莱</Speaker>;M4A1Mod(0)||:即使你不说，我也会跟着你的，就和以前一样亲密无间。
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:……………
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:闲话聊到这。+那在等待地图完成的时间，要不要把露尼西亚最后部分的记忆看完？
+()<Speaker>指挥官</Speaker>||:还有这个时间么？
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:刚才露尼西亚不也说希望大家了解她么？+如果她是那么希望的，那我们更应该了解到最彻底的程度才行不是么。
+()<Speaker>指挥官</Speaker>||:但是RO还在进行推演，其他人形也还没回来。
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:没关系，推演只是在心智内自动运算就可以了。+而且我也挺在意最后M4她们是怎么脱困的。
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(4)||:指挥官，我们回来了。
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:看来该回来的人都已经到齐了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我刚才好像隐约听到要看M4和15大冒险的最后部分？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:大冒险是啥啊……+给，你的“香蕉”，已经用完了。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我就知道“香蕉”肯定会完成任务的！
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:虽然有一瞬间我很想偷偷把它过载了……
+()<Speaker>指挥官</Speaker>||:作战辛苦了，404小队呢？
+AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:她们要先进行维护，一会就过来。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那是不是我们就有时间把大冒险最后的部分看完了！+对吧，对吧，M4！
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:……真……真拿你没办法……+那就把那时的故事进行一个收尾吧。
+()||<黑点2><BIN>10</BIN>:
