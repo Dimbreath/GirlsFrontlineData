@@ -1,0 +1,11 @@
+()||<BIN>4</BIN><BGM>BGM_Sunshine</BGM>:Griffin Lounge.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, I have a special mission to report today.+Since it concerns the AR Team, I'll let them explain.
+M4A1(2)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:...
+M4A1(2);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:...M4A1?
+M4A1(3)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:Ah, sorry!+I was not aware that you are here, Commander.
+M4A1(3);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:What a rare sight. Even Miss M4 spaces out, huh.
+M4A1(2)<Speaker>M4A1</Speaker>;NPC-Kalin(2)||:Space out? Not really. I was just...
+M4A1(2);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:M4 always looks like she's got her head in the clouds, so I never thought she'd space out so deliberately.
+M4A1(2)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||<黑点1>:Fine... I was spacing out.+Or should I say...thinking about something.+Still... Back to the subject. I am here to report a situation.+While my team was organizing our previous battle records, we noticed that a set of nearby coordinates had been altered.
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||<黑点2><BIN>10</BIN>:This is it. An abandoned database.+The database itself seems fine, but its current coordinates clearly do not match its location as previously indicated.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:That's right, you don't see this happen every day. Should we look into it, Commander?+If it turns out to be a new Sangvis strategy to trick us, we'll become heroes!

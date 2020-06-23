@@ -1,0 +1,104 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>82</BIN><BGM>GF_Memorial</BGM><黑屏2>:...+In the Griffin dorms.
+()<Speaker></Speaker>||:<color=#00CCFF>【Tactical Doll Thunder, you have received a new daily schedule.】</color>+<color=#00CCFF>【You are requested to attend the indicated cocktail party tomorrow. Refer to the attachments for the location.】</color>+<color=#00CCFF>【Additional requirement: you must be formally dressed.】</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:So it's a new mission... +I need to complete it properly.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:...A call comes through.
+Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#A9A9A9>(Is this the Commander? Why would the Commander contact me at a time like this...)</color>+Good evening, Commander. +You ought to be off work. Are you putting in overtime?
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>If worrying about how you might misunderstand the invitation counts as overtime, then perhaps it is — the unpaid kind.</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:Am I misunderstanding something? Isn't it work?
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>Of course not, it's R&R.</color>+<color=#00CCFF>There'll be several other Dolls going with you, but you don't need to head there together.</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:So we're going to have fun? +Not to work, but to relax and have fun... +Is this a holiday?
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>That's right.</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:In that case, can I bring my friends along?
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>As long as they don't have any missions in progress.</color>+<color=#00CCFF>Who do you have in mind?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:I was thinking of M950A, is she free?
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>Let me see...</color>+<color=#00CCFF>Kalin, is M950A free on the day of the party?</color>
+NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>;Thunder50(0)||:<color=#00CCFF>M950A? What a shame, she happens to be on dispatch that day.</color>+<color=#00CCFF>The party will be over by the time she gets back...</color>
+NPC-Kalin(0);Thunder50(0)<Speaker>Thunder</Speaker>||:...You can't change her schedule?
+NPC-Kalin(3)<Speaker>Kalin</Speaker>;Thunder50(0)||:<color=#00CCFF>That would have to be done beforehand, and she's already set out. </color>
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>That's how it is. I'm very sorry, Thunder. Do you have anyone else in mind?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:No.
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>Then go and enjoy yourself as much as you like — that said, you'll need to mind your personal image, as you will be attending as a Griffin representative, after all.</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:...Understood. +I'll be at the party on time and I'll have a dress ready.
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>Are you upset because you can't bring a friend along to the party?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:That's not important. +The schedule's been arranged, and I will go.
+Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>I see.</color>+<color=#00CCFF>Then I hope you'll have a good time, Thunder.</color>
+Thunder50(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1><SE1>AVG_tele_disconnect</SE1>:The call from the Commander ends. +Thunder lies on her bed and opens a private comms channel, one for only two people.
+Thunder50(0)<Speaker>Thunder</Speaker>||<BGM>BGM_Wake</BGM><BIN>72</BIN><黑屏2>:<color=#00CCFF>The Commander gave me a mission to attend a cocktail party.</color>
+Thunder50(0)<Speaker></Speaker>||:<color=#00CCFF>【The user you are hailing — M950A — is currently on a mission. Switching to voicemail mode.】</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:<color=#00CCFF>I wish I was going to the party with you.</color>
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><黑屏1>:Thunder stares at the ceiling and quietly waits for a reply. +Ten minutes go by, then twenty... +Yet the comms channel remains silent. +An hour passes. +Thunder closes her eyes.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>【You have a new communications request.】</color>+<color=#00CCFF>【Connecting.】</color>
+M950A(0)<Speaker>M950A</Speaker><通讯框>||:<color=#00CCFF>The anniversary party? That's great, too bad I can't go back early. Things here are a little prickly, but I should still be able to come back on time!</color>+<color=#00CCFF>Enjoy the party, chances like these are hard to come by.</color>
+M950A(0)<Speaker>Thunder</Speaker>||<黑屏1>:...
+Thunder50(0)<Speaker>Thunder</Speaker>||<BIN>72</BIN><黑屏2>:<color=#00CCFF>The Commander seems very happy and wants me to enjoy the party as well.</color>+<color=#00CCFF>But I don't know what I should be doing.</color>
+M950A(0)<Speaker>M950A</Speaker><通讯框>;Thunder50(0)||:<color=#00CCFF>It's simple. A cocktail party is where you can express yourself, so do whatever you want!</color>+<color=#00CCFF>That's what I did.</color>
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#00CCFF>You've been to one before? But there's nothing I want to do.</color>
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:<color=#00CCFF>Well, that can't be helped.</color>+<color=#00CCFF>If there's anything you like or want to do that you can't do in the base, just go do it at the cocktail party.</color>+<color=#00CCFF>Besides, nobody's going to mind much at places like that, so just go ahead and express yourself!</color>
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#00CCFF>I understand.</color>
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:<color=#00CCFF>Crap, more enemies showed up.</color>+<color=#00CCFF>I need to focus on the battle. See ya!</color>
+M950A(0)<Speaker>Thunder</Speaker>;Thunder50(0)||:<color=#00CCFF>Alright.</color>
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:<color=#00CCFF>Oh yeah, while I might not be able to go out with you, could you tell me about your experience at the party when I get back?</color>+<color=#00CCFF>That way, it'll be like you had gone with me.</color>
+Thunder50(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>【Transmission ends.】</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#00CCFF>Yeah, I will.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>【The user you are hailing — M950A — is currently on a mission. Switching to voicemail mode.】</color>
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>GF_Cafe</BGM>:The next evening. +After the party officially begins, even the most elegant and dignified people soon end up talking and laughing loudly in the festive atmosphere. +I had thought that given the mood in the air, finding Thunder would be difficult, but in fact it only takes a minute to track her down. +She is standing by the dessert table, discussing something with a person dressed like a chef. +How surprising. I decide against interrupting the conversation and instead wait until the chef has left.
+Thunder50(2)<Speaker>Commander</Speaker>||:Good evening, Thunder.
+Thunder50(2)<Speaker>Thunder</Speaker>||:Ah, it's you, Commander.
+Thunder50(2)<Speaker></Speaker>||:She is still holding a plate of desserts, and she seems very relaxed as she looks toward me. +However, her face soon reverts back to its usual impassive state, and it makes me wonder if I had imagined the look of childish excitement I just saw.
+Thunder50(2)<Speaker>Commander</Speaker>||:You look very beautiful in that dress.
+Thunder50(2)<Speaker>Thunder</Speaker>||:Thank you, Commander. You look very presentable as well.
+Thunder50(2)<Speaker>Commander</Speaker>||:<color=#A9A9A9>She replied way too fast, that must have been a pre-programmed response, right?</color>+<color=#A9A9A9>Speaking of which, it wouldn't be strange for her to have something like that, given her previous job...</color>+Are the desserts here good?
+Thunder50(2)<Speaker>Thunder</Speaker>||:This one, and this one, and this one...they're all delicious. Would you like to try some, Commander? +It's called "Bitter Rock'n'Roll".
+Thunder50(2)<Speaker>Commander</Speaker>||:"Bitter Rock'n'Roll"? The chefs here sure give their work some...interesting names.
+Thunder50(2)<Speaker>Thunder</Speaker>||:I was the one who suggested it.
+Thunder50(2)<Speaker>Commander</Speaker>||:I see...then don't mind if I do. +...+I can't believe how good this is.
+Thunder50(2)<Speaker>Thunder</Speaker>||:I think it's quite delicious as well. +And this one over here, I'd like to name it "The Third Color Rivaled by None." +As for this one, I'd like to call it "Puppy Love". I haven't figured out what to call these two round ones yet... 
+Thunder50(2)<Speaker>Commander</Speaker>||:They're all interesting names. It looks like you're enjoying yourself, which is a weight off my shoulders.
+Thunder50(2)<Speaker>Thunder</Speaker>||:The person who made these came over and spoke to me. He said that they were all experimental works with no names. +It would be a shame to let these delicious things go into the belly without a name. +Therefore, I wanted to give them names before eating them. +That way, when I remember this event, I can call each of them by name.
+Thunder50(2)<Speaker>Commander</Speaker>||:...
+Thunder50(2)<Speaker>Thunder</Speaker>||:Commander? +Did I say something bad?
+Thunder50(2)<Speaker>Commander</Speaker>||:Not at all. +That gesture of yours is very...romantic. Yes, that's the word for it. +I recall that M950A also did something very romantic during the anniversary party several years back.
+Thunder50(2)<Speaker>Thunder</Speaker>||:What did she do? +I'd like to know.
+Thunder50(2)<Speaker>Commander</Speaker>||:Hm... +When the party was nearing its conclusion, she jolted all the drowsy people awake with her vigorous voice. +"Listen to my song!" she said. +Back then, the way she stood on stage, shouting with total self-confidence and reigniting the mood...it's as brilliant now when I think about it as it was then.
+Thunder50(2)<Speaker>Thunder</Speaker>||:I like her very much.
+Thunder50(2)<Speaker>Commander</Speaker>||:She's very likable when she's like that. Just like you.
+Thunder50(2)<Speaker>Thunder</Speaker>||:Likable...huh. +Are you praising me, or is there some other meaning to it, Commander?
+Thunder50(2)<Speaker>Commander</Speaker>||:Of course I'm praising you.
+Thunder50(2)<Speaker>Thunder</Speaker>||:Please help yourself.
+Thunder50(2)<Speaker></Speaker>||:Saying so, Thunder offers her scarred arm to me.
+Thunder50(2)<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:...Huh?
+Thunder50(2)<Speaker>Thunder</Speaker>||<SE1>Heartbeat</SE1>:I won't cry out in pain, so please do whatever you want.
+Thunder50(2)<Speaker>Commander</Speaker>||:I think you've gotten the wrong idea, Thunder. +That wasn't what I meant.... This is not your previous "workplace"+I've got a rough idea of what happened in the past, but I won't do things like that.
+Thunder50(2)<Speaker></Speaker>||:Thunder looks at me in confusion.
+Thunder50(2)<Speaker>Commander</Speaker>||<BGM>BGM_Moon</BGM>:...I admit, some humans are scum, the kind who would commit such... abuse against dolls and even their own kind. +But there's nobody like that in Griffin. You may wear a beautiful dress and taste desserts freely here and do whatever you want on your holidays. +See, even if you call it "Bitter Rock and Roll", ice cream on coffee is still sweet.
+Thunder50(2)<Speaker>Thunder</Speaker>||:I think I know what you're trying to say. +You are comforting me. +However, there is no need to comfort Dolls.
+Thunder50(2)<Speaker>Commander</Speaker>||:I'm telling you the truth, Thunder. +What you experienced in the past won't happen again in Griffin. +Even if I order you to do anything...
+Thunder50(2)<Speaker>Thunder</Speaker>||:I will obey your orders.
+Thunder50(2)<Speaker>Commander</Speaker>||:Then I have only one order for you— +"Seek your happiness to your heart's content, Thunder."
+Thunder50(2)<Speaker>Thunder</Speaker>||:...I still don't understand why you're doing this. +But if it's an order, then I will do my best to complete it.
+Thunder50(2)<Speaker>Commander</Speaker>||:If it makes you feel better, then go ahead and do so.
+Thunder50(2)<Speaker>Thunder</Speaker>||:Then, may I continue naming the desserts?
+Thunder50(2)<Speaker>Commander</Speaker>||:Of course. Like I said before, you can do what you want when you're on holiday. +Go ahead and do what you'd like.
+Thunder50(2)<Speaker>Thunder</Speaker>||:I understand...
+Thunder50(2)<Speaker>Commander</Speaker>||<震屏><SE1>AVG_weapon_reload</SE1><黑屏1>:...Wait a minute, what are you doing, hold on, Thunder! Don't pull out your gun at a party—!!
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【You have received a communication request from Thunder.】</color>+<color=#00CCFF>【Connecting.】</color>
+Thunder50(0)<Speaker>Thunder</Speaker><通讯框>||<BIN>72</BIN><黑屏2><BGM>GF_Memorial</BGM>:<color=#00CCFF>I've returned to the base.</color>
+Thunder50(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Sorry, I'm not back yet. </color>+<color=#00CCFF>Did you enjoy the party?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(0)||:<color=#00CCFF>Very much.</color>+<color=#00CCFF>The party was lively and safe, and I got to do what I wanted.</color>
+Thunder50(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Sounds good. What did you do?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(0)||:<color=#00CCFF>I gave many desserts names, and I met a skilled chef.</color>+<color=#00CCFF>There were many humans and Dolls at the party. There was one who was a little like me...she was in a black and burgundy dress and she was very pretty, but I didn't know her.</color>
+Thunder50(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Then things went well, didn't they?</color>+<color=#00CCFF>Oh yes, are you back in the dorm now?</color>
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(0)||:<color=#00CCFF>Not yet. The chef gave me a present. He said it was to thank me for naming his desserts.</color>+<color=#00CCFF>Since it's not good to eat desserts in the dorm, I'll be waiting for you in the café.</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:<color=#00CCFF>The Commander said I could do whatever I wanted on my holidays. Since I'm still on holiday, I want you to try them too.</color>+<color=#00CCFF>They're sweet and delicious, like a bullet through the neural cloud.</color>
+Thunder50(0)<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:<color=#00CCFF>The user you are hailing — M950A — is currently on a mission. Switching to voicemail mode.】</color>
+Thunder50(0)<Speaker>Thunder</Speaker>||<BGM>BGM_Empty</BGM><白屏1>:...
+Thunder50(0)<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><白屏2>:The door to the café suddenly flies open. +A familiar figure stands in the doorway in front of Thunder. She looks a little wind-blown and dusty, but her expression looks to be quite pleased.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:I'm back.
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:...Welcome back.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:Let me see... Is this the box? +I can't wait to see just how delicious the desserts you named are going to be. +I'll be opening it, okay? +...Thunder?
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||<SE1>AVG_weapon_reload</SE1>:...
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<震屏><黑屏1>:...Wait a minute, Thunder! Don't shoot in the café!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_pistol_finalshot_n</SE1>:That night, the gunshots that suddenly rang through the base sparked a mild panic.
+()<Speaker></Speaker>||<黑屏1>:However, I could not rebuke Thunder, who had used her wages to pay for the repairs. +After all, given that she was filling in the payment slips with a smile on her face, she must have had a good time.

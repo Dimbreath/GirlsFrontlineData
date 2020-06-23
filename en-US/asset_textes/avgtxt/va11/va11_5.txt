@@ -1,0 +1,164 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN><BGM>m_va_hopes_and_dreams</BGM>:Good evening, Boss.
+Dana(0)<Speaker>Dana</Speaker>||:Hey, Jill. Did you see the news about Griffin?
+吉尔()<Speaker>Jill</Speaker>||:Which one? Just about everything in The Augmented Eye has been about Griffin these few days.
+Dana(0)<Speaker>Dana</Speaker>||:The Griffin Dolls will be leaving this place in a week.
+吉尔()<Speaker>Jill</Speaker>||:I saw that. +But the Prime Minister never said whether or not she would consider them as replacements for the White Knights.
+Dana(0)<Speaker>Dana</Speaker>||:Yup. But I'm guessing it's most likely not going to happen.
+吉尔()<Speaker>Jill</Speaker>||:The Griffin Dolls caused quite a few problems here, and the technology that made them can't coexist happily with everything in this city. +Although, I heard about other conspiracy theories too.
+Dana(0)<Speaker>Dana</Speaker>||:Forget about those rumors, those politicians aren't TV screenwriters. +Although, I guess I'll miss them.
+吉尔()<Speaker>Jill</Speaker>||:Me too. At the very least, their faces made them approachable.
+Dana(0)<Speaker>Dana</Speaker>||:But the White Knights' helmets were really cool. +Alright, ready to work?
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:Leave it to me, Boss.
+吉尔()<Speaker>Jill</Speaker>||<BIN>9</BIN>:(Let's decide how I'll feel today...)<c>You've Got Me<c>Hopes And Dreams<c>Welcome To Va-11 Hall-A
+()||<分支>1</分支><BGM>m_va_youve_got_me</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_hopes_and_dreams</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<BIN>186</BIN><黑屏2>:Time to mix drinks and change lives.
+G28(0)<Speaker>???</Speaker>||:Good evening, Miss Bartender!
+吉尔()<Speaker>Jill</Speaker>||:Good evening, Doll of Griffin. +(Wow, her boobs are bigger than Alma's!)
+G28(0)<Speaker>???</Speaker>||:Wow, you could tell who I am at a glance? You must be that Miss Jill, right?
+吉尔()<Speaker>Jill</Speaker>||:That's right, I've served about a dozen Griffin Dolls this week.
+G28(0)<Speaker>???</Speaker>||:Haha! This bar's more popular than it looks!
+吉尔()<Speaker>Jill</Speaker>||:I just don't know why your colleagues all love to come down here. How should I address you?
+G28(0)<Speaker>Gr G28</Speaker>||:Call me Gr G28!
+吉尔()<Speaker>Jill</Speaker>||:Alright, alright, but you don't need to wave your gun around. It'll be taken as a show of force in human society. +What would you like, Gr G28?
+G28(0)<Speaker>Gr G28</Speaker>||:I want...this! A Frothy Water!
+吉尔()<Speaker>Jill</Speaker>||:One Frothy Water, no problem.
+吉尔()<Speaker>Jill</Speaker>||:(Let's make a Frothy Water for this 16 to 9 version of Alma. I thought she would have wanted something stronger.) +<va11><perfect>11<good>4,12,24
+G28(0)<Speaker>Gr G28</Speaker>||<分支>1</分支>:Thank you!
+G28(0)<Speaker>Gr G28</Speaker>||<分支>2</分支>:Is this Frothy Water? It doesn't look quite like what my intel says...
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:It looks just as clear and bland, but I think this is better suited to you.
+G28(0)<Speaker>Gr G28</Speaker>||<分支>2</分支>:Mm! I looked it up, and my big sister likes this too, so I'll accept this!
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:What?
+G28(0)<Speaker>Gr G28</Speaker>||:Ah...is this the taste that big sister likes? Looks like her tastes are surprisingly bland.
+吉尔()<Speaker>Jill</Speaker>||:Your big sister?
+G28(0)<Speaker>Gr G28</Speaker>||:Yes, my big sister. I heard she likes drinks like these in particular.
+吉尔()<Speaker>Jill</Speaker>||:...I'm sorry, could you satisfy my curiosity? I'd like to know how a sisterly bond is forged between Griffin Dolls. +I know how Lilims make their lives in this city, but is it different from how you do it in Griffin?
+G28(0)<Speaker>Gr G28</Speaker>||:Um...we tend to be...more mechanical about it.
+吉尔()<Speaker>Jill</Speaker>||:Mechanical?
+G28(0)<Speaker>Gr G28</Speaker>||:I heard that after Lilims are rolled out of the factory, they are educated, trained, and undergo learning in human society, and in the end they can choose and establish their family relationships, is that right?
+吉尔()<Speaker>Jill</Speaker>||:Pretty much, yes.
+G28(0)<Speaker>Gr G28</Speaker>||:Meanwhile, 416 and I were established as sisters ever since we were rolled out, probably because of our Imprinted weapons.
+吉尔()<Speaker>Jill</Speaker>||:Imprinted weapons? I've heard about them before, but I don't understand.
+G28(0)<Speaker>Gr G28</Speaker>||:That's right, by their specifications, Griffin Dolls count as civilian Dolls, do you get that part?
+吉尔()<Speaker>Jill</Speaker>||:I know you can't punch through steel slabs like military Dolls, or accurately throw knives into bullseyes from over a hundred meters away.
+G28(0)<Speaker>Gr G28</Speaker>||:Yes, and so we are fitted with the Imprint. Simply put, it is a module that increases our effectiveness when using specific weapons. +In other words, we are considered Tactical Dolls because of the weapons we hold, and that also decides part of our fate after being rolled out.
+吉尔()<Speaker>Jill</Speaker>||:So...your weapon and that of your sister's are related models?
+G28(0)<Speaker>Gr G28</Speaker>||:You're very smart, Miss Jill! +That's right! The Gr G28 is also known as the 417; you know what that means, right?
+吉尔()<Speaker>Jill</Speaker>||:So you came to this bar...to try the drinks that your sister likes? Why didn't you just come here with her directly?
+G28(0)<Speaker>Gr G28</Speaker>||:Unfortunately, my sister isn't that close to me...
+吉尔()<Speaker>Jill</Speaker>||:I can understand, I have a good friend who can't handle her big sister too.
+G28(0)<Speaker>Gr G28</Speaker>||:Um...maybe it's not like that? Our relationship isn't bad. +It's just that...our personalities aren't as... +When you look at me...you probably think that I'm the cute and lively type, right?
+吉尔()<Speaker>Jill</Speaker>||:I do feel that way, although I rarely see people evaluate themselves as such.
+G28(0)<Speaker>Gr G28</Speaker>||:That's what my Commander wrote on my evaluation report, and I believe my Commander! +But my sister...she's the complete opposite of me. She's distant from everyone in Griffin. +Her past is also a mystery, and she even went missing for a long time, and nobody knows what she did.
+吉尔()<Speaker>Jill</Speaker>||:Women are more charming the more mysterious they are; does that apply to Dolls too?
+G28(0)<Speaker>Gr G28</Speaker>||:I don't think that's necessarily the case, at least between colleagues. +Nobody actually says it, but most of them try to avoid her... +But...I'm her little sister, right? I ought to do something for her...
+吉尔()<Speaker>Jill</Speaker>||:I feel that...drinking what she likes in a bar won't necessarily solve the actual problem.
+G28(0)<Speaker>Gr G28</Speaker>||:I can't think of any other way. Could I have another drink? I'd like a beer...
+吉尔()<Speaker>Jill</Speaker>||:That doesn't sound like what your sister would order.
+G28(0)<Speaker>Gr G28</Speaker>||:That's right, this is something that I like, so I'd like to sample the beer here!
+吉尔()<Speaker>Jill</Speaker>||:Let me just tell you something first, the "beer" we have here isn't actual beer. +However, I can guarantee it is one of the flagship items on our menu.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give Miss Gr G28 a beer.)+<va11><perfect>2
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here, a beer.
+G28(0)<Speaker>Gr G28</Speaker>||:I'll try it!
+吉尔()<Speaker>Jill</Speaker>||:(Good heavens, she chugged it so hard her boobs jiggled.)
+G28(0)<Speaker>Gr G28</Speaker>||:Whew... This beer is great!
+吉尔()<Speaker>Jill</Speaker>||:Thank you. Even the most hated magazine editor-in-chief in this city can't stop praising it.
+G28(0)<Speaker>Gr G28</Speaker>||:Beer is just wonderful... +It's kind of hard to give this up and force myself to enjoy the watery drinks that my sister likes...
+吉尔()<Speaker>Jill</Speaker>||:Gr G28, do you like your sister?
+G28(0)<Speaker>Gr G28</Speaker>||:Of course I do! She's my sister, isn't she?
+吉尔()<Speaker>Jill</Speaker>||:But there's no rule which states that sisters have to share their preferences.
+G28(0)<Speaker>Gr G28</Speaker>||:Hm...but wouldn't it be strange if I didn't like those things? We were together when we were rolled out, after all.
+吉尔()<Speaker>Jill</Speaker>||:It's precisely because you were together when you were rolled out; nobody got your permission for that, right? +You say that the relationships of Doll sisters are more mechanical, but in truth, I feel that your family relationships are closer to those of humans than Lilims.
+G28(0)<Speaker>Gr G28</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:I'm sorry, I'm not saying that you shouldn't like your sister. +It's just...you aren't obliged to like anyone or anything, right?
+G28(0)<Speaker>Gr G28</Speaker>||:Hm... +Then, how does it feel to like someone of your own free will, Miss Jill? +Is it more enjoyable than being forced to like something?
+吉尔()<Speaker>Jill</Speaker>||:...
+G28(0)<Speaker>Gr G28</Speaker>||:Miss Jill?
+吉尔()<Speaker>Jill</Speaker>||:I don't know... +I threw away the obligations I had to do what I wanted...but it didn't make me too happy.
+G28(0)<Speaker>Gr G28</Speaker>||:Is that so... +I'd still like to learn from you.
+吉尔()<Speaker>Jill</Speaker>||:I'm just a bartender. You pay me, I talk to you. This isn't profound advice on how to live your life correctly, it's just cheap experience. +But I'll say, "I chose this, I'll bear the consequences for it..." +...And I won't run or hide anymore.
+G28(0)<Speaker>Gr G28</Speaker>||:Is it bad to let others choose your fate for you?
+吉尔()<Speaker>Jill</Speaker>||:No, it's only a matter of whether or not it suits you. +Maybe you like it this way, and I've said too much.
+G28(0)<Speaker>Gr G28</Speaker>||:Miss Jill, I think that I like my big sister from the bottom of my heart. + While I know this was already written into my neural cloud, it still makes me happy to see her. +But I don't know...if I should like "this" big sister.
+吉尔()<Speaker>Jill</Speaker>||:What do you mean?
+G28(0)<Speaker>Gr G28</Speaker>||:Did you know, Miss Jill? +My memories in my neural cloud regarding my big sister were once deleted.
+吉尔()<Speaker>Jill</Speaker>||:What?
+G28(0)<Speaker>Gr G28</Speaker>||:The missions she went on were extremely clandestine and dangerous, so my superiors made me forget many things about her, including the fact that she even existed, for a while. +She came back to Griffin several years ago, and some memories came back, but the rest... I'm sure they can't be recovered... +I even wonder if she's the original 416 from my memories...or a different 416 with harmless memories...
+吉尔()<Speaker>Jill</Speaker>||:...+I'm sorry, I forgot that Dolls aren't quite like us. What I said just now was pointless...
+G28(0)<Speaker>Gr G28</Speaker>||:No, Miss Jill. What you said actually made me feel very relieved...
+吉尔()<Speaker>Jill</Speaker>||:Did it?
+G28(0)<Speaker>Gr G28</Speaker>||:You're right. I've always used "factory settings" to cover up my relationship with my sister, which made me overlook a problem. +I like the Dolls called 416, and not that particular 416...
+吉尔()<Speaker>Jill</Speaker>||:Then do you have your answer now?
+G28(0)<Speaker>Gr G28</Speaker>||:No, but I want to try! +I'll try my best to like this 416 from the bottom of my heart! If I can't, then I'll wait for the next one!
+吉尔()<Speaker>Jill</Speaker>||:I envy you for having all that time to try it out, but I think what you're doing is right. +Also, you shouldn't just secretly sample the drinks she likes and then fake surprise at sharing tastes with her at your next gathering. +You should also tell her what you like at the same time, so she can understand you.
+G28(0)<Speaker>Gr G28</Speaker>||:...You're right, Miss Jill! +I should tell 416 that I like beer, and I hope that she can try some too!
+吉尔()<Speaker>Jill</Speaker>||:Take that step, then. All you need to do now is give her an invitation.
+G28(0)<Speaker>Gr G28</Speaker>||:I'll go look for her right now. Thank you, Miss Jill, I'll bring her with me next time!
+()<Speaker>Jill</Speaker>||:I'll be waiting. +Whew... +I hope I'll be able to take my own advice.
+HK416(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:She's finally gone.
+吉尔()<Speaker>Jill</Speaker>||<BGM>m_va_snowfall</BGM>:You are... +Oh...you were listening at the door all this time, weren't you?
+HK416(0)<Speaker>???</Speaker>||:You can tell who I am?
+吉尔()<Speaker>Jill</Speaker>||:Your weapon looks a bit like hers. +You're her big sister 416, aren't you?
+HK416(0)<Speaker>416</Speaker>||:If I were on a mission, you would have been silenced already.
+吉尔()<Speaker>Jill</Speaker>||:You heard it all just now. I'm guessing you don't like what she said.
+HK416(0)<Speaker>416</Speaker>||:Gr G28 is very annoying, but she's much smarter than she looks. +I should never have allowed the Commander to return her the memories concerning me.
+吉尔()<Speaker>Jill</Speaker>||:Things being what they are, can't you just accept her goodwill?
+HK416(0)<Speaker>416</Speaker>||:Mind your own business, bartender.
+吉尔()<Speaker>Jill</Speaker>||:Chatting is part of my job description. +So, did you come all this way to intimidate me, or are you my customer?
+HK416(0)<Speaker>416</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:Guten Tag? Would you like a drink?
+HK416(0)<Speaker>416</Speaker>||:<size=20>A beer.</size>
+吉尔()<Speaker>Jill</Speaker>||:What?
+HK416(0)<Speaker>416</Speaker>||:No, I want a Cobalt Velvet.
+吉尔()<Speaker>Jill</Speaker>||:You sounded like you wanted a beer just now.
+HK416(0)<Speaker>416</Speaker>||<震屏>:<size=60>I SAID I WANTED A BEER!</size>
+吉尔()<Speaker>Jill</Speaker>||:Fine, fine, no need to be so loud.
+吉尔()<Speaker>Jill</Speaker>||:(She said she wanted a beer, and then she changed it to a Cobalt Velvet, haha!)+<va11><perfect>2<good>7
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here, darling. A glass of your little sister's favorite beer.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:This is the Cobalt Velvet you wanted. Sorry, but you might regret not ordering your little sister's favorite beer.
+HK416(0)<Speaker>416</Speaker>||:She's not my little sister, there's no law stating that.
+吉尔()<Speaker>Jill</Speaker>||:There's a lot of bullshit in this world controlling us apart from laws. +You don't get to decide who your little sister is, just like how Gr G28 didn't decide who her big sister is.
+HK416(0)<Speaker>416</Speaker>||:I never asked her to do that. It's all one-sided on her part.
+吉尔()<Speaker>Jill</Speaker>||:Then why did you order the beer?
+HK416(0)<Speaker>416</Speaker>||:I... +I'm just...sampling it...
+吉尔()<Speaker>Jill</Speaker>||:Fine, we'll take it as an experiment. Feel free to tell me if your sampling yields any fruit.
+HK416(0)<Speaker>416</Speaker>||:Could you just leave me in peace for a bit?
+吉尔()<Speaker>Jill</Speaker>||:Sure. +...
+HK416(0)<Speaker>416</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:......
+HK416(0)<Speaker>416</Speaker>||:...Bartender.
+吉尔()<Speaker>Jill</Speaker>||:Hm?
+HK416(0)<Speaker>416</Speaker>||:Are human families also this troublesome?
+吉尔()<Speaker>Jill</Speaker>||:If you ask me, they're way more troublesome than how it is for you. +Not only can we change, but we can also change a lot. Some of us change ourselves every year, and some of us can stay the same for decades and then suddenly become a different person one day. +All human relationships are unreliable, and it's much easier for us to go from liking to hating than hating to liking.
+HK416(0)<Speaker>416</Speaker>||:I want to hate them too. +Not just my little sister, but many of my annoying colleagues.
+吉尔()<Speaker>Jill</Speaker>||:It looks like you do like them very much.
+HK416(0)<Speaker>416</Speaker>||:I simply have nowhere to go.
+吉尔()<Speaker>Jill</Speaker>||:Then you should enjoy it. +Do it while they're still by your side. Don't make a decision you'll regret because of a moment of selfishness and weakness.
+HK416(0)<Speaker>416</Speaker>||:You talk like you're very experienced with this.
+吉尔()<Speaker>Jill</Speaker>||:So am I right? You're just running away, aren't you?
+HK416(0)<Speaker>416</Speaker>||:You're just a little bartender living in a utopia... +Do you know how many mechanical monsters I've wiped out over the past decade, how many cruel missions I've completed? I've never ran from that!
+吉尔()<Speaker>Jill</Speaker>||:You're right. I don't know. So why don't you prove it to me?
+HK416(0)<Speaker>416</Speaker>||:How?
+吉尔()<Speaker>Jill</Speaker>||:Finish this drink.
+HK416(0)<Speaker>416</Speaker>||:...Are you serious?
+吉尔()<Speaker>Jill</Speaker>||:Are you afraid? Your little sister said you could only have sweet and sour drinks.
+HK416(0)<Speaker>416</Speaker>||:I-I'm just concerned about my health. The jobs I do aren't just trifling patrols.
+吉尔()<Speaker>Jill</Speaker>||:But you don't have anything else to do right now, right? Just take it as an experiment, then, how about it?
+HK416(0)<Speaker>416</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:(Why did the look in her eyes suddenly change.)
+HK416(0)<Speaker>416</Speaker>||:Bartender, don't tell me you really think I wouldn't dare to consume alcohol?
+吉尔()<Speaker>Jill</Speaker>||:What?
+HK416(0)<Speaker>416</Speaker>||:It's just that I haven't tried it. +Or rather...those memories were deleted. +My Commander and colleagues don't want me to recall them, so it's true that I don't know what will happen if I drink alcohol.
+吉尔()<Speaker>Jill</Speaker>||:Wait a minute...
+HK416(0)<Speaker>416</Speaker>||:Now that you mention it, I'm suddenly curious, bartender. +Rather than embarrass myself in front of my little sister, why not conduct an experiment here?
+吉尔()<Speaker>Jill</Speaker>||:I think you should wait for me to call my Boss...
+HK416(0)<Speaker>416</Speaker>||:It's time to take this step—
+吉尔()<Speaker>Jill</Speaker>||:(She downed it in one gulp!)
+HK416(0)<Speaker>416</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:...What's wrong, Miss 416?
+HK416(0)<Speaker>416</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:(I don't quite like this expression.) +Miss 416, you...
+HK416(0)<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2>:...
+()||<黑屏1>:...Thump! +...

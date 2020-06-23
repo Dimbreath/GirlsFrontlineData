@@ -1,0 +1,24 @@
+NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<BGM>BGM_War</BGM><BIN>99</BIN><黑点2>:Still there, AR-15?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:We've wiped out the remaining Sangvis units around us.
+AR15Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Good. How are you, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Ready for my next mission any time.
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:I need you to go wait for an airdropped package. Pick it up and protect the contents. +UMP45?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So you're using an airdrop... +I'm guessing you plan on using the stuff inside for some nasty business.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:You know me too well. I want you to take your team and move with AR-15 and the others. +Hold onto the items from the airdrop.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Roger. +9, call everyone back.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...I'm guessing you're going to give us an even more screwed-up mission.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:You lucked out this time. You and AN-94 are staying with me to find a way to delay the Military's armored units.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Wow, we're soooo lucky. It'll be a piece of cake.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Ladies, I know you bear many grudges against our enemies. +But if you complete this mission, perhaps we might be able to put an end to the dark fate that binds us all. +Therefore, I want everyone to work hard and come back alive.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Well? Why don't you say something?
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:If this is your idea of a pep talk, it sucked.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Well...I've never been good at being inspirational...
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>99</BIN>:We'll carry out your orders even without your inspiration. After all, we each have reasons of our own. +Am I right, you two from the AR Team?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN>:It doesn't matter. Just give me my assignment.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:As for reasons...
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN>:The sooner we finish our work, the sooner we can get out of here. As for whether or not we can do it... that's up to you, Ange.
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:I will carry out any order from my Commander.
+NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<黑点1><BIN>99</BIN>:Then let's get started. I'll buy you all a round when we get back.

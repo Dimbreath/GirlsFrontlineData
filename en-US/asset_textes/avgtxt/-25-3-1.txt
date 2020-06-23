@@ -1,0 +1,65 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_Danger</BGM><黑屏2>:...416 is proactively sustaining the supply line, but the enemy assault is ramping up in intensity.
+HK416(0)<Speaker>416</Speaker>||:Gather around me, check your ammo, and prepare for the next wave!
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:416, can you still hold this point? +Well, it's not like I can be of much help even if you can't.
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Then why did you even ask?!
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:Seeing your sour face brings me joy.
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Why is everyone I met at Griffin like this?!
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:Birds of a feather flock together, haha.
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Laugh all you want, we're about to die here.
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:You don't know that for sure. Didn't the Commander already call for reinforcements?
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:You believe in the Commander?
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:I can't very well believe in YOU, can I?
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Why do you always have to believe in something?
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:Was I supposed to believe in myself instead? +416, do you even know what "self" is?
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:...I don't think I even want to know.
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:Our computational algorithms are called "thinking", while the contradictions created during the process are known as "emotions". +But do we actually have sentience and a "self"?
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:What are you getting at? Pretending to be a philosopher with that grouchy face?
+AK74U(0)<Speaker>AK-74U</Speaker>||:I'm just saying...that's the reason I find it impossible to believe in myself.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:...Whirrrrrr—
+HK416(0)<Speaker>416</Speaker>||:That noise...
+AK74U(0)<Speaker>AK-74U</Speaker>||:But I believe in those that believe in me.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...BOOM! BOOM BOOM!
+HK416(3)<Speaker>416</Speaker>||:Commander? Ja! Get down everyone, close-range fire support incoming!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Close-range fire support? What's that?
+()<Speaker></Speaker>||<SE1>Explode</SE1><CGDelay>0.5</CGDelay>:...BOOM! BOOM BOOM! +Another round of violent explosions.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>The Heavy Ordnance Corps are here!</color> +<color=#00CCFF>Kept you waiting, huh?</color>
+()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_War</BGM>:...BOOM! BOOM BOOM! +Vicious salvos pummeled the enemies on the field.
+AK74U(0)<Speaker>AK-74U</Speaker>||:What kind of new toy...has the Commander come up with?
+HK416(0)<Speaker>416</Speaker>||:This doesn't look like something a PMC should have...
+AK74U(0)<Speaker>AK-74U</Speaker>||:Well, so long as we can win. +Gosh, that was close. I thought they wouldn't make it in time...
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Didn't you just say to believe in the Commander?
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:I was just trying to ease your mind. Look at you, getting all high-strung on the field.
+HK416(0)<Speaker>416</Speaker>||:I simply didn't want to waste the Commander's resources.
+()<Speaker></Speaker>||:...Incoming transmission request.
+NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Is everything alright there?</color> +<color=#00CCFF>Sorry, we just received a message from another strongpoint, Python's team is under attack. Can you head over and lend her a hand?</color>
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Are those HOCs not enough?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:<color=#00CCFF>I'm afraid not. The enemies are relentless over there, and a Ringleader seems to be present.</color>
+AK74U(0)<Speaker>AK-74U</Speaker>||<黑屏1>:Then let's go. +We won't ever get out if we don't tidy up the place.
+()<Speaker></Speaker>||<黑屏2>:...Ten minutes later, at Python team's strongpoint.
+Python(0)<Speaker>Python</Speaker>||:74U, took the scenic route, huh?
+AK74U(0)<Speaker>AK-74U</Speaker>||:We just made it out ourselves, but don't worry, the Commander's got some new toys!
+Mk12(0)<Speaker>Mk 12</Speaker>||:Who's that over there? Should I remember her?
+HK416(0)<Speaker>416</Speaker>||:416, the Commander's temporary adjutant.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Adjutant? Looks like a rookie to me...
+AK74U(0)<Speaker>AK-74U</Speaker>||:You'd better trust her, she's a veteran compared to people here.
+A91(0)<Speaker>A-91</Speaker>||:A veteran? Then why haven't I seen her before?
+HK416(0)<Speaker>416</Speaker>||:That's because while you're busy getting drunk at the base, I've been working my butt off out there.
+A91(0)<Speaker>A-91</Speaker>||:Hey, I never...
+Python(0)<Speaker>Python</Speaker>||:That's enough, sisters; let's deal with this Ringleader first before we have a chat, shall we?
+HK416(0)<Speaker>416</Speaker>||:That one in the distance?
+Nyto(1)<Speaker>Python</Speaker>||:You see her? She hasn't budged at all ever since she got there; it's almost like she's a puppet... +But she's without a doubt the one in command of this attack.
+Nyto(1)<Speaker>416</Speaker>||:No information about her at all? +(Somehow...that face...)
+Nyto(1)<Speaker>Python</Speaker>||<CGDelay>0.4</CGDelay>:We don't even know if "it" can even speak.
+HK416(0)<Speaker>416</Speaker>||:The Commander's online again, I'll make contact. +You're Python, right? Please reassemble your echelon.
+Python(0)<Speaker>Python</Speaker>||:Ha, you've got bravado, rookie. +But I like that.
+AK74U(0)<Speaker>AK-74U</Speaker>||:You've got eyes on you, 416.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Like I care.
+HK416(0)<Speaker>416</Speaker><通讯框>||<BIN>10</BIN><黑点2>:<color=#00CCFF>As you can see, Commander, the enemies are continuing their attack on the outpost.</color> +<color=#00CCFF>They have mobilized a lot more units this time, and the Ringleader is probably the biggest threat.</color> +<color=#00CCFF>We'll need your HOCs, is that alright?</color>
+()<Speaker>Commander</Speaker>||: +<c>I'll coordinate their position to support you. <c>You want another show? Just like last time? <c>You're really getting into your role as my adjutant, 416.
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:<color=#00CCFF>Very well, but keep an eye on supply consumption, our resources are very scarce.</color>
+AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Da, just like last time! Hurry up!</color>
+HK416(0)<Speaker>416</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>74U, show the Commander more respect.</color>
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:<color=#00CCFF>...You'll soon realize I am irreplaceable.</color>
+HK416(0)<Speaker>416</Speaker>||<黑点1>:<color=#00CCFF>Commander, I don't know how you got your hands on these HOCs.</color> +<color=#00CCFF>But they're going to be invaluable for the battles ahead.</color> +<color=#00CCFF>Make good use of them and annihilate the enemies in the outpost.</color>
+()||<黑点2><BIN>10</BIN>:

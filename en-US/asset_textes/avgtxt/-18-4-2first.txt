@@ -1,0 +1,22 @@
+()||<BIN>71</BIN><BGM>BGM_Danger</BGM><黑屏2>:...
+HK416(3)<Speaker>416</Speaker>||:She's too damn tough!
+UMP9(4)<Speaker>UMP9</Speaker>||:Can't anyone break through her defenses...?
+UMP45(2)<Speaker>UMP45</Speaker>||:Ange! Agent's tougher than we expected, we need backup—
+NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:Can you pin down Mastermind? Wait for me to get there—
+NPC-Ange(0)<Speaker></Speaker>||:Pssssst—
+NPC-Ange(0)<Speaker>??</Speaker>||:Ange, I must thank you for helping me complete my mission once again.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:Yegor...! But this is a secure channel!
+NPC-Ange(0);NPC-Yegor(2)<Speaker>Yegor</Speaker><通讯框>||:Your signal blockades are as crude as ever. I told you before that they would be the death of you.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;NPC-Yegor(2)||:Since when did he start listening in...?!
+NPC-Ange(0);NPC-Yegor(2)<Speaker>Yegor</Speaker>||:Since just now. I have no interest in whatever nonsense you've been talking about. +That said, I'm quite surprised that you managed to survive both times, but you're running out of body parts to replace with prosthetics. I'd suggest you give up now.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;NPC-Yegor(2)||:Do you want to know why I managed to escape each time? +Because you're always so overconfident.
+NPC-Ange(0);NPC-Yegor(2)<Speaker>Yegor</Speaker>||:Sharp-tongued to the end. Begin the attack.
+AR15Mod(5)<Speaker></Speaker>()||<震屏><SE1>Explode</SE1>:...!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:What?!
+HK416(3)<Speaker>416</Speaker>||:Armored units! They're military tanks!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:... +Yegor...!
+NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:45! What's the situation now?!
+NPC-Ange(0);UMP45(2)<Speaker>UMP45</Speaker>||:(Coughs) We can't pierce tank armor! The enemy's separated us from Mastermind! They're coming down on us hard!
+NPC-Ange(0)<Speaker>Angelia</Speaker>;UMP45(2)||:I don't care what you do! Do everything in your power to keep them from taking Mastermind! +Do you hear me?! I'll bring Griffin backup right away!
+NPC-Ange(0);UMP45(2)<Speaker>UMP45</Speaker>||:You might as well ask a sheep to go up to a starving wolf and preach about the vegan lifestyle...
+M4A1Mod(4)<Speaker>M4A1</Speaker>;UMP45(2)||<黑屏1>:Stop whining! We've got to find a way to fight back!

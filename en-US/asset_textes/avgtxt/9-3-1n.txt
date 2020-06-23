@@ -1,0 +1,75 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:...
+()<Speaker></Speaker>||<BGM>BGM_Frontline</BGM>:...Clack. +Beep...
+()<Speaker>T65</Speaker>||:Hurry, hurry, hurry... +Arghhhh, why isn't it turning on when it counts? This rubbish camera! +Isn't our equipment 100% secure?!
+()<Speaker>M3</Speaker>||:Miss T65, watch out!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...Bang.
+()<Speaker>T65</Speaker>||:I almost got hit... That was close... +Where the hell is the button to start recording?! +How am I supposed to work this piece of antique?!
+()<Speaker>T77</Speaker>||:Look, the light is on. +It's already started recording, you simply haven't taken off the lens cap.
+()<Speaker>T65</Speaker>||:Huh?? Oh!
+()<Speaker></Speaker>||<白屏1>0,2</白屏1>:...Click.
+T65(0)<Speaker>T65</Speaker>||<白屏2>0,2</白屏2><BIN>99</BIN><Night>:Pant...pant...pant...
+T65(0)<Speaker>T65</Speaker>||:T91...T91! +I'm not lying! Why won't you believe me?!
+M1928A1(0)<Speaker>Thompson</Speaker>||<SE2>Gunfight</SE2>:Keep running! +Move quickly to the extraction point!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...Bang!
+()<Speaker>Thompson</Speaker>||:Ugh...dammit... +My leg...
+()<Speaker>M14</Speaker>||:Captain⁠—
+m1(0)<Speaker>M1 Garand</Speaker>||:Miss M3, we need a hand over here! Hurry!
+M4A1(3)<Speaker>M4</Speaker>||:Coming!
+()<Speaker>T65</Speaker>||:Pant...pant, pant, pant...
+()<Speaker></Speaker>||:...
+()<Speaker>???</Speaker>||<CGDelay>0.5</CGDelay>:Stand aside. Executing the Master's orders is always the top priority. +She may not have instructed me on what to do with you, but if you get in the way, I will obliterate you... +M16A1.
+()<Speaker></Speaker>||:...
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>0,0.6</黑屏1>:Are those your last words, Sangvis scum?
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2>:...40 minutes ago.
+()||<黑屏2><BIN>99</BIN><Night><SE1>Explode</SE1><BGM>BGM_Sneak</BGM>:...A violent explosion from not far away.
+T77(0)<Speaker>T77</Speaker>||:... +The place that got blown up...
+M4A1(0)<Speaker>Actually M3</Speaker>||:Isn't that...
+T65(0)<Speaker>T65</Speaker>||<CGDelay>0.2</CGDelay>:...the safe house we were in?
+m1(0)<Speaker>M1 Garand</Speaker>||:Uh...
+M14(0)<Speaker>M14</Speaker>||:You made a beeline for us after running into S.F. out there... +We did notice soon enough...but thanks to you, the safe house was exposed...
+T65(0)<Speaker>T65</Speaker>||:The enemies came out of nowhere the moment we finished collecting the parts! +We didn't have time to think it through...
+m1(0)<Speaker>M1 Garand</Speaker>||:We were this close to making the video... +Why did the Sangvis patrols have to sniff us out now...?
+M1928A1(0)<Speaker>Thompson</Speaker>||:...I'm afraid these enemies are much trickier than mere patrols. +Even if your friends hadn't run back here, the safe house wouldn't have protected us for long.
+m1(0)<Speaker>M1 Garand</Speaker>||:Huh?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Judging from the scale of this attack, that midget has finally caught up with us.
+M14(0)<Speaker>M14</Speaker>||:Has she still not given up...? +She's such a bother...
+T65(0)<Speaker>T65</Speaker>||:Midget... You mean that lame Destroyer?
+M1928A1(0)<Speaker>Thompson</Speaker>||:She, too, is a midget, but this one is an advanced Doll that I've never seen before.
+T65(0)<Speaker>T65</Speaker>||:...Why are so many of Sangvis Ferri's advanced Dolls little girls?
+T65(0);T77(0)<Speaker>T77</Speaker>||:My guess is that Mastermind is also a runt, so she doesn't like keeping tall people around her.
+T65(0)<Speaker>T65</Speaker>||:That kinda makes sense...
+M1928A1(0)<Speaker>Thompson</Speaker>||:Jokes aside, this new midget is armed with weapons more powerful than most S.F. and is a lot more mature than you'd think. +We are no match for her.
+M4A1(0)<Speaker>Actually M3</Speaker>||:Is that...why you've been hiding in the safe house, Miss Thompson?
+M14(0)<Speaker>M14</Speaker>||:We haven't been hiding! +We were monitoring friendly signals in this area!
+M1928A1(0)<Speaker>Thompson</Speaker>||:Enough, M14. +We busted AK-47's squad out. It's only natural that would make us S.F.'s new targets.
+m1(0)<Speaker>M1 Garand</Speaker>||:Then...what do we do now?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Garand, you know full well it's impossible to complete your objective tonight. +We can only focus on giving the midget the slip.
+m1(0)<Speaker>M1 Garand</Speaker>||:...
+M4A1(0)<Speaker>Actually M3</Speaker>||:In the end...we have no choice but to give up...
+T77(0)<Speaker>T77</Speaker>||:Sigh...
+T65(0)<Speaker>T65</Speaker>||:How can you say that?! +Garand, there must be a Plan D, right?!
+m1(0)<Speaker>M1 Garand</Speaker>||:...I'm afraid not. +Miss Thompson is right. Under such conditions, it's impossible to keep filming. +All we can do for now is protect ourselves.
+T65(0)<Speaker>T65</Speaker><Shake>||:No way...
+M1928A1(0)<Speaker>Thompson</Speaker>||:That Sangvis Doll is coming for me and M14, so we can split up and make a break for it. +Then we'll regroup at the safe house at these coordinates and withdraw.
+T65(0)<Speaker>T65</Speaker>||:But won't that put you—
+M1928A1(0)<Speaker>Thompson</Speaker>||:It was our earlier action that got her involved. +This is the best way to keep you safe.
+()<Speaker></Speaker>||:...
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:To be fair, that IS the course of action that would benefit the most of you. +Unfortunately, I'm the one in charge of destroying you. +Let me be the Judge of your sins.
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>0,6</黑屏1>:What?!
+()||<黑屏2>0,2</黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1><BGM>BGM_Boss</BGM>:...Bang.
+T77(0)<Speaker>T77</Speaker>||<黑点2><BIN>10</BIN>:Are you okay?!
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We'll buy you guys time! Go!</color>
+M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Watch me!</color> +<color=#00CCFF>Take aim...fire!</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...The Sangvis Doll remains oblivious to M14's and Thompson's attacks.
+BossJustice(0)<Speaker>Judge</Speaker>||:... +I assumed this was just the usual search & destroy... Totally didn't expect I'd have to get serious and execute Mastermind's order.
+()<Speaker></Speaker>||:...She ignores Thompson and M14 and charges straight toward the others.
+M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Hold on! We're the ones shooting at you!</color>
+T77(0)<Speaker>T77</Speaker>||<震屏>:She's coming!
+T65(0)<Speaker>T65</Speaker>||:Ahhhhh! This isn't what we agreed on, Miss Thompson!! +She's heading straight for us!
+m1(0)<Speaker>M1 Garand</Speaker>||:Why?! +Isn't Miss Thompson a much bigger threat?!
+BossJustice(0)<Speaker>Judge</Speaker>||:You can't hide from me even if you disguise your signal as someone not from the AR Team! +<Size=55>M4A1!</Size>
+M4A1(3)<Speaker>Actually M3</Speaker>||<震屏>:Huhhhhhh??? +N-n-n-n-no, you're mistaken!
+T65(0)<Speaker>T65</Speaker>||:What the hell?! +How did this happen?!!
+T77(0)<Speaker>T77</Speaker>||<黑点1>:We can't possibly explain this. +Just hurry! +There's a Sangvis command relay station up ahead! We can use that to keep the other S.F. units from getting in our way!

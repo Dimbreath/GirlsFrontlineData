@@ -1,0 +1,59 @@
+()||<BIN>85</BIN><BGM>BGM_Room</BGM><黑屏2>:Click.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:...Right, got it. +Keep observing and wait for my instruction, Yegor.
+NPC-Carter(0)<Speaker></Speaker>||:Carter terminates the transmission.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Mastermind is lured out of her den. Should we act now?
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Are you senile? How many times do I have to remind you that Mastermind would never show up with her mother unit? +She's hidden the mother unit in god-knows-which air raid shelter that you have no hope of finding. +Not to mention, the show I've been looking forward to is finally starting. Please don't interrupt them.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Our forces will be on standby.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Good. +The Key on her...is about to connect with M4A1 again. +Oh, maybe it already has, and we humans just can't tell. +Heheheh...this is getting interesting.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:What reaction are you hoping to get from the Key?
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:I don't really care as long as it's not something I expect. +All I want is for it to be interesting...
+NPC-Carter(0)<Speaker>Carter</Speaker>||:You're not concerned about what transpires between M4A1 and Mastermind?
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||<黑屏1>:I have no interest in fights until a victor emerges. +Do whatever you want as long as the Plan keeps unfolding... +...And we finally have the Key.
+()||<BIN>99</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>Battlefield</SE1>:Meanwhile, the AR Team is still trapped in the outpost.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sad</BGM>:S.F. is still keeping up the bombardment! We're not going to last long!
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:They could've stormed the place if that's what they wanted, but their objective is to capture me alive...
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:What's the situation with the Commander?
+M4A1()<Speaker>M4A1</Speaker>||:The Commander just shook off more Sangvis forces and is rushing to our aid.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<SE1>Battlefield</SE1>:But we can't wait any longer! We must retreat now!
+M4A1()<Speaker>M4A1</Speaker>||:We need a plan! +Their target is me. Let me be the bait and we can retreat separately!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:I will NOT agree to operating separately ever again! +M4, didn't we agree we're gonna stick together from now on?!
+M4A1()<Speaker>M4A1</Speaker>||:But at this rate, none of us will be able to make it out! I can't put you all in danger just because of me!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:You're not the only one with a mission here, M4! Our mission is to protect you!
+M4A1()<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:But we're jeopardizing everything – the mission and all of you...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:I've already lost AR-15 and M16! +If I have to lose you too, then I'll die with you! +This is the order we all received the moment we left the factory, and I intend to obey it to my very last breath!
+SOPII(3);RO635(2)<Speaker>RO635</Speaker>||:Count me in too. +Don't just think about yourself. Our opinions matter too. +I may have only joined the team a few hours ago, but SOP-II and I are very much of one mind.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:That's right. Let's all spend this time together. I'll accept any outcome – be it victory or death!
+SOPII(3);RO635(2)||:
+M4A1()<Speaker>M4A1</Speaker>||:...
+()||:M4A1 lets out a sigh.
+M4A1()<Speaker>M4A1</Speaker>||:We're all idiots, aren't we?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Yeah, what a shame.
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Maybe we're meant to die together. That way, no one will be left behind. +Humph. We're only unreliable civilian Dolls, after all.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Wait a second...
+M4A1()<Speaker>M4A1</Speaker>||:What?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:RO, if I remember correctly, since you were created with newer technology, your neural cloud can be backed up, right?
+SOPII(3);RO635(0)<Speaker>RO635</Speaker>||:Huh? Well...kind of... +But I'm working for Griffin clandestinely, so my neural cloud records are with the Commander. It'll be quite a hassle to download everything again...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Hey! Doesn't that mean you're not gonna die anyway?!
+SOPII(3);RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:Hmm...probably not... +B-but so what?! You can't exclude me just because of that!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(4)||:Then that touching moment was a complete waste! Screw off and leave us alone to cry on each other's shoulder!
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:How could you say that?! That's so mean! Is the AR Team such an exclusive clique?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<SE1>Battlefield</SE1>:If you have a problem with that, by all means, exchange your neural cloud for one that can't be backed up!
+SOPII(3);RO635(5)||:
+M4A1()<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:Pffft...
+()||:M4A1 can't help but chuckle.
+M4A1()<Speaker>M4A1</Speaker>||:You're unbelievable. Bickering even under such circumstances.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<BGM>BGM_War</BGM>:You're finally smiling. That's the most reassuring sight.
+M4A1()<Speaker>M4A1</Speaker>||:Is...that so?
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:It kinda ruins your dignity as a team leader, but who cares! +I'd rather have you as a sister by my side right now.
+M4A1()<Speaker>M4A1</Speaker>||:I'm honored... +I'm really sorry about my behavior from before. Too many things have happened, I didn't dare open up to you. +I didn't know how to be who I really am. So many people have said so many different things about this, and I couldn't decide who to believe... +But now, none of that matters.
+M4A1()<Speaker>M4A1</Speaker>||:That's right. I'm no longer afraid of making sacrifices, because they're worth it. +No matter how many deaths I experience, no matter if it's my death or someone else's, rather than worrying about it, it's better to accept it and give it more meaning. +I believe this epiphany is sparked by my own will and my own choice.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:What's wrong, M4?
+M4A1()<Speaker>M4A1</Speaker>||:Nothing. +In the end, all I want is to be on the AR Team. Nothing more.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Heh, you're not alone there.
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Then let's do our best in the time we have left!
+RO635(2)<Speaker>RO635</Speaker>||:
+()||:M4A1, RO, and SOP-II embrace each other in laughter.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:It's decided then. +Let them come. We're not leaving each other ever again!
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1>:Sorry, Captain Yegor, but we simply can't compare to your military units. +Our victories hold meaning only if we charge together, fight together, and experience life and death together. +...XM3. +I must've let you down back then. +If I ever see you again, I hope I can tell you face to face... +That from now on, this is what I live for!
+M4A1(2)<Speaker>M4A1</Speaker><通讯框>||<BIN>10</BIN><黑点2><黑点1>:Commander! As you can see, we are being surrounded by Mastermind's forces! This is an emergency! +We are retreating in your direction and desperately in need of your aid! +Please ask your troops to make haste! Have them poke a hole in the Sangvis encirclement so that we can break through! +The AR Team will be waiting for your rescue. We will fight to the end until you get here. +I have faith in you. I know you will definitely come save us... Please, I'm counting on you!
+()||<黑点2>:

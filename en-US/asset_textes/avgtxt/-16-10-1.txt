@@ -1,0 +1,43 @@
+()|||<BIN>99</BIN><BGM>BGM_Empty</BGM><Night>:...The breakthrough is in progress.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Are you really okay with letting her handle these enemies by herself?
+AK12(0)<Speaker>AK-12</Speaker>||:Since Ange thinks it's fine, I have no problem with it. +Didn't you use to be on the same team? Shouldn't you know her better?
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:That's why I'm worried about her... +You, on the other hand...are way too blasé about this.
+AK12(0)<Speaker>AK-12</Speaker>||:A T-Doll ought to act like a T-Doll. If I had to worry about everything, then why would we need humans? +Ah, she's back.
+()||<BGM>BGM_Sneak</BGM>:...M4A1 walks over.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:All enemies exterminated. We can move on to the next objective.
+AK12(0)<Speaker>AK-12</Speaker>||:Your performance after the repairs is pretty good. +But don't push yourself too hard. It would be a shame if you were to break again just after you got fixed.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:My body feels very light now...Both my aiming speed and mobility have improved tremendously...Your skills are amazing, AK-12.
+AK12(0)<Speaker>AK-12</Speaker>||:I'm not one to get happy from praises. +I'm worried that your neural cloud hasn't fully adapted to the newly-installed components. +What are we going to do if overusing them leads to incompatibility issues, and your neural cloud breaks down? Not to mention, I heard you...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:It only needs to last until I can personally destroy my target. That won't take long.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4A1, do you know the difference between riding a horse and a camel through the desert?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:What is this, Chicken Soup for the Soul time?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Horses show signs of exhaustion as they move on, whereas camels will just keel over and strand people in the desert. +Whether or not this story is true, you know what I'm getting at, right?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +I'll inform you of any abnormalities in my neural cloud. +My turn, AR-15. Aren't you...going to tell me about it?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Tell you about what?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:About how you're still alive, of course.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Now's not the time to reminisce about the past.
+AK12(0)<Speaker>AK-12</Speaker>||:M4, if you're concerned about the Parapluie virus in AR-15, that's not necessary for the time being.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1>10</黑屏1>:Shut up, AK-12. If you say any more, I'll—
+()||<BIN>9</BIN><震屏><SE1>Explode</SE1><BGM>BGM_Empty</BGM><黑屏2>10</黑屏2><黑屏1>:...BOOM!
+()||<BIN>99</BIN><黑屏2><火花><Night><BGM>BGM_Danger</BGM>:...Nobody can hear each other speak for a few seconds after that.
+()||<震屏><SE1>Explode</SE1>:...Boom! Boom! +Dirt, trees and wreckage are all swept into the sky.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:(Coughs) +M4, are you alright?!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm fine, the cover's still intact!
+AK12(0)<Speaker>AK-12</Speaker>||:AR-15, do your surroundings explode when you get mad?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Stop pulling my leg! That was artillery fire from S.F.'s main forces! We've been spotted!
+AK12(0)<Speaker>AK-12</Speaker>||:Judging from the signals, there's a super dangerous S.F. unit approaching. +We might not be able to handle her with our present numbers.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:The enemy's vanguard is coming! Prepare to fight them off!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:AK-12, contact Ange immediately!
+AK12(0)<Speaker>AK-12</Speaker>||:Eh? Shouldn't you try throwing yourself at the enemy first or whatever?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:They've got heavy weapons. How are we supposed to defeat them?!
+AK12(0)<Speaker>AK-12</Speaker>||:Fine, fine. I've got to broadcast in clear. There's no alternative. +Ange, are you listening?
+NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||:I'm here. You should have received your mission. Gather at point β.
+AK12(0)<Speaker>AK-12</Speaker>||:While this really isn't the best timing, uh... +Well...we kinda ran into some trouble.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<SE1>Gunfight</SE1>:Just get to the point! +Ange, we're pinned down by Sangvis' main forces and we need support!
+AK12(2)<Speaker>AK-12</Speaker>||:Stop shouting into my ear! Don't you have a radio of your own?!
+()||<BIN>34</BIN>:...Pssst...pssst...
+NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<BIN>34</BIN>:Don't expose yourselves for too long! Hang on until we can get there!
+NPC-Ange(0)<Speaker>ST AR-15</Speaker>||<BIN>34</BIN>:Ange, another thing—
+()||<BIN>34</BIN>:...Psst...pssst...
+AK12(0)<Speaker>AK-12</Speaker>||:Ah, the transmission cut out. +I guess handling ECM is hard for AN94 after all... +Still, she and Ange should have our coordinates now. We just need to hunker down here and wait for them to rescue us!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1><关闭火花>:Roger! +M4, come with me to fight off the enemy! +Hold out until Ange gets here!

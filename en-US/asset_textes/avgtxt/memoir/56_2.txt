@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>22</BIN><BGM>BGM_Empty</BGM>:SOP-II and RO arrive at Persica's lab.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Hello</BGM>:Miss Persica — we're here!
+NPC-Persica(0)<Speaker>Persica</Speaker>||:Well, that was fast. I thought I'd have enough time to finish my coffee... +Eh... SOP-II, are you alone? Where's RO?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO came too! Here she is!
+()||:SOP-II holds up her Dinergate in front of Persica.
+NPC-Persica(1)<Speaker>Persica</Speaker>||:What? Is she really inside that Dinergate?
+NPC-Persica(3)<Speaker>Persica</Speaker>||:I thought Kalina was joking, I even kicked her out of my lab...
+RO635(6)<Speaker>RO635</Speaker>||:As much as I hate to admit it... +My neural cloud now resides within this contraption, Miss Persica.
+NPC-Persica(2)<Speaker>Persica</Speaker>||:While that's hardly surprising in itself... the fact that it was SOP-II who did this... +If this had happened in the past, I'm pretty sure you would have simply handed me a destroyed neural cloud with drained battery.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:What do you take me for?! There'd be no point in giving you a broken core, would there?!
+SOPIIDamage(2);NPC-Persica(2)<Speaker>Persica</Speaker>||:Not necessarily. However, what I'd like to know is... how did you do it?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:I... I'm not too sure myself. Back then, the only thing on my mind was to save RO, so I did everything I could think of. +Then... things ended up like this.
+SOPIIDamage(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:Hm... I expected an answer like that, but further investigation might prove very interesting... +What you did exceeded my expectations, SOP-II.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Heheh! I'm the kind of T-Doll that makes miracles happen when it counts!
+RO635(6)<Speaker>RO635</Speaker>||:Miss Persica... before that, could you hurry up and get me out of this Dinergate?
+RO635(6);NPC-Persica(2)<Speaker>Persica</Speaker>||:I'm sorry, RO, but I don't have any suitable Doll bodies for you right now, so you wouldn't be able to do anything even if I got you out of there. +Why don't you stay in there for a while? After all, your current condition is pretty stable...
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:W-what?! But I can't stand this body anymore! I don't care if I end up as a normal Doll, just get me out of here!
+RO635(6);NPC-Persica(0)<Speaker>Persica</Speaker>||:My... you can't just move things around like they were Legos. +You two were lucky this time. Who knows what would happen if we tried another forced transfer?
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(0)||:It doesn't matter! I don't want to spend another moment in this stupid body! +Please, Miss Persica! Anything would be better than remaining in this Dinergate!
+RO635(6);NPC-Persica(2)<Speaker>Persica</Speaker>||:Hmm...there IS a place where I could put you for a while. +But you might run into a bit of trouble there...
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:That's fine! It can't possibly be worse than my current situation!
+NPC-Persica(2)<Speaker>Persica</Speaker>||:Alright then, I'll take care of that for you. +As for you, SOP-II... I need to deal with your jigsaw puzzle of a body.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Well, I'm pretty much alright, although this arm moves by itself from time to time... Could you help RO first, Miss Persica?
+NPC-Persica(2)<Speaker>Persica</Speaker>||:I'll need to give you both a checkup before I take care of RO. Sit down here, you two. +While I'm preparing, tell me about what the two of you have been through.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Okay! It's a very long story, though...
+()||<黑屏1>:SOP-II takes the seat that Persica gestured at with RO on her lap. +Persica starts working.
+()||<黑屏2><BGM>BGM_Empty</BGM>:...Half an hour later.
+NPC-Persica(0)<Speaker>Persica</Speaker>||<BGM>BGM_Moon</BGM>:I see. Sounds like quite a thrill. +(Mutters) I do hope she'll be safe...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:Miss Persica, are you worried about someone?
+SOPIIDamage(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:Ah, it's nothing. Let's sort out you two first. +SOP-II, what do you make of the recent operation?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Here's what I think - I hope we never have to go through anything like that ever again!
+RO635(6)<Speaker>RO635</Speaker>||:Agreed...
+NPC-Persica(2)<Speaker>Persica</Speaker>||:...Let me put it another way - what have you learned? +After all that fighting... have you come to a new understanding about yourself or others?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Well, about that...
+SOPIIDamage(2)<Speaker></Speaker>||:SOP-II lowers her head.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:In the past, all that mattered to me was having fun... I only realized how hard it was to be the one in charge only after I went through all that. +M4 and RO are amazing... They can lead everyone to victory and bring everyone back from the battlefield in one piece, but I could never do that...
+RO635(6)<Speaker>RO635</Speaker>||:SOP-II...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I don't want to lose my friends anymore. I don't want to be the only one left behind either... I don't want to be the sole survivor.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I want to make myself useful to others... I want to ensure everyone's safety, so that all my friends can live on happily!
+NPC-Persica(2)<Speaker>Persica</Speaker>||:...I understand.
+NPC-Persica(2)<Speaker></Speaker>||:Persica smiles warmly.
+NPC-Persica(2)<Speaker>Persica</Speaker>||:That was a good answer. Here's a little treat for you.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm getting a treat, too? +I thought you were just going to fix me...
+NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>:Correct. I'm going to upgrade every aspect of your neural cloud and your weaponry.
+帕斯卡()<Speaker>Persica</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:You can look forward to your new-found power now, SOPMOD II.

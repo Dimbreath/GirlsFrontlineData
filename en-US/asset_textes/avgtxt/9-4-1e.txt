@@ -1,0 +1,19 @@
+()||<BIN>8</BIN><BGM>BGM_War</BGM>：......+...
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏1>：Commander, are you on the helicopter already?+I have some good news for you. We've detected a strong distress signal coming from the frontline, which we suspect is from the AR Team.+I believe that you don't wish for the AR Team to suffer any more casualties, so please dispatch personnel to rescue them as soon as possible.+Furthermore, it would be best if you can swiftly complete the rescue mission. I just received word from Mr. Kryuger confirming our participation in a large-scale operation.+Both of you were at the military banquet, so you should understand the situation better than myself.+...There isn't much time left for you and the AR Team. I wish you the best of luck.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>10</BIN><SE1>Battlefield</SE1>：I see a large group of Sangvis troops approaching our position!
+RO635(5)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：They sure react fast!+I also detect a strong signal. The pattern matches Judge!
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：She'll never guess that it's us again this time!
+RO635(0)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：Once she gets here, you can jump out to scare her with a "SURPRISE!"
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Hehe, that's a good idea!+But with just the two of us alone, it might be...
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||：Squad Negev, hailing AR Team! Are you two still alive?
+RO635(5)<Speaker>RO635</Speaker>;NEGEV(0)||<SE2>Gunfight</SE2>：Perfect timing!+AR Team hailing Squad Negev. This is RO, we're awaiting rescue at the signal position.
+RO635(5);NEGEV(0)<Speaker>Negev</Speaker>||：Roger that!+Don't run so far next time, or even better if you could haul your own asses back, alright?
+RO635(5)<Speaker>RO635</Speaker>;NEGEV(0)||<SE1>Battlefield</SE1>：I'd love to if the Sangvis are as understanding as you! Also, I thought you liked working overtime!
+RO635(5);NEGEV(0)<Speaker>Negev</Speaker>||：I don't like being involved with you guys! I really should get work somewhere further away next time!+...Anyhow, what's your current situation?
+RO635(4)<Speaker>RO635</Speaker>;NEGEV(0)||<SE2>Gunfight</SE2>：Lack of power, lack of water, lack of ammo. We're lacking everything. When are the reinforcements arriving?
+RO635(4);NEGEV(0)<Speaker>Negev</Speaker>||：We are the advance troops of the rescue party. The Commander's echelons will be arriving shortly.
+RO635(0)<Speaker>RO635</Speaker>;NEGEV(0)||：Oh right, the Sangvis advanced T-Doll, Judge, is also approaching our position. She holds some important information!+We hope to capture her alive, so please suppress her with everything you have. We'll come up with a way to deal with everything else.
+RO635(0);NEGEV(0)<Speaker>Negev</Speaker>||<SE2>Gunfight</SE2>：Tch... The Commander told me this is a rescue mission, not capturing the enemy.
+RO635(2)<Speaker>RO635</Speaker>;NEGEV(0)||：Life is unpredictable, Miss Negev! If you're gonna help us then at least go all the way!
+RO635(2);NEGEV(0)<Speaker>Negev</Speaker>||<SE1>Battlefield</SE1>：Help you? You really don't understand me, Miss RO...+However, I would indeed be delighted to participate in some destruction. We will prepare ourselves and wait for your signal.
+RO635(5)<Speaker>RO635</Speaker>||：Thank you! Then let's begin!

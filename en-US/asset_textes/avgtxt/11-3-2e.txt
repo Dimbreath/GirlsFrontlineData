@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><SE2>Gunfight</SE2><BIN>167</BIN><BGM>BGM_Boss</BGM>:...Bang bang!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Dammit, they've scattered our forces! +Mk46, is your team doing alright?!
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>We can hold out just fine, but the enemies are heading your way!</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We'll think of something! Let's split up for now! Don't let them surround you!
+Mk46(0)<Speaker>Mk46</Speaker>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>But...we can't just leave you behind!</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We're elite T-Dolls, and with two of us, they're gonna have a hard time trying to capture us. Worry about yourselves!
+Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>...Fine, if you insist!</color> +<color=#00CCFF>We'll be waiting for you at the coordinates! Stay alive and haul your butts over there, you hear me?!</color>
+()<Speaker></Speaker>||:...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It's just us then... At least they'll be safe... +RO! RO, can you hear me? The enemies are almost at the gate! Close it already! What are you waiting for?!
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:I'm looking for the access pathway to this gate!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:Weren't you brimming with confidence just now??
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:I didn't expect the base logic of the access to these floodgates to be coded so messily! One sec! +Gate 1 and Gate 4...no, that's a clash... What about Gate 5...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:I can wait, but the enemies won't! Hurry, RO! We can't fight them off for long!
+RO635(3)<Speaker>RO635</Speaker>||:Gate 2 and Gate 3? No, that doesn't work. If I go for Gate 7—
+()<Speaker>??</Speaker>||:<color=#00CCFF>The floodgates along sequence G have to be activated through pathways 7 and 14. Meanwhile, you'll have to send a false signal to trick the system into thinking it's a manual override.</color>
+RO635(5)<Speaker>RO635</Speaker>||:Who's this? Who's talking?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Is it the informant again?!
+RO635(5)<Speaker>RO635</Speaker>||:Informant? +What's your current loca—
+()<Speaker>??</Speaker>||:<color=#00CCFF>Do as I say.</color> +<color=#00CCFF>Also, don't give signals through two pathways at the same time. The system will mistake it as a command to reroute the current.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Just do as he says! We can't hold them off anymore!
+RO635(5)<Speaker>RO635</Speaker>||:Then...!
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><震屏><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...SLAM! +The gate comes crashing down with a massive clang and locks the enemies on the other side. Everything falls silent.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:He's right...
+RO635(4)<Speaker>RO635</Speaker>||:...The information broker knows his stuff... +Now, can you finally identify yourself, Mr. Informant?
+()<Speaker>??</Speaker>||<BGM>BGM_Room</BGM>:<color=#00CCFF>"Mr. Informant", eh? That name does have a certain ring to it.</color> +<color=#00CCFF>To make our conversation easier, you can call me "K".</color>
+RO635(4)<Speaker>RO635</Speaker>||:K?
+()<Speaker>K</Speaker>||:<color=#00CCFF>That's right. Just K.</color>
+RO635(4)<Speaker>RO635</Speaker>||:Then...Mr. K, can you show yourself? +If you're as omniscient as you claim to be, surely you'd know that we've been looking for you for a long time.
+()<Speaker>K</Speaker>||:<color=#00CCFF>You chose to close the gate and lock your enemies out.</color>
+RO635(4)<Speaker>RO635</Speaker>||:Huh...? This isn't really the time to talk about the gate, is it?
+()<Speaker>K</Speaker>||:<color=#00CCFF>That was a good decision. But from the perspective of information analysis, a good decision can also be a bad decision.</color> +<color=#00CCFF>The key factor is whether the decision is founded on multi-sided analysis and reasoning. </color> 
+RO635(4)<Speaker>RO635</Speaker>||:What do you mean...
+()<Speaker>K</Speaker>||:<color=#00CCFF>You've temporarily kept your enemies at bay, but don't forget that they still have access to the gate controls.</color>
+RO635(4)<Speaker>RO635</Speaker>||:!!
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay>:<color=#00CCFF>We'll have a proper chat if you survive this.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Whirrr—
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:W-what's that sound?!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Enemies?
+RO635(4)<Speaker>RO635</Speaker>||:No...probably something way worse...
+()<Speaker></Speaker>||:The crash of rapid flooding can be heard in the distance.
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Something...that can only happen in the sewers...

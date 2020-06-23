@@ -1,0 +1,51 @@
+()||<BGM>BGM_Sneak</BGM><Night><BIN>1</BIN>:Two hours after the escort mission concluded.
+FN49(0)<Speaker>FF FN49</Speaker>||:(Whimpers) It's cold in here... +FF FNC, how are you doing on your end...?
+FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>;FN49(0)||:Moi? I'm fine... +ACHOO!
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:You sure you're okay? +Do you still have any hot chocolate left? Want me to bring some over?
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:Non! Our mission is to guard the place! We mustn't budge a single step! +We have to finish the mission and prove ourselves to that prick! +And I'll be fine. I still have some chocolate since I've been rationing carefully!
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:Heheh, even FF FNC is starting to be economical with food... +Good to hear though. Keep it up. I'll be keeping an eye on you.
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:Humph, count on it! I'm NOT gonna let FAL belittle me! +What about you, though? Aren't you scared being there on your own?
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:I'm okay... It's pretty bright here, and you're keeping me company through the line... +If you can bear with rationing, then I can get used to being on my own... +Hmm...?
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:Whoa!! Who's there?!
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:What's wrong, 49?! +Hey, 49!
+FN49(0)<Speaker>FF FN49</Speaker>||:I-It's okay. One of our own...I think...
+()||:The figure makes a "hush" gesture.
+T91(0)<Speaker>T91</Speaker>||:Please keep it down. Are you from Griffin?
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:Oui, I'm T-Doll FF FN49 from Griffin. You're...
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:T91, a colleague of yours. +I've been undercover so far, that's why you have no prior intel about me. +FF FN49, are you here on a rescue mission?
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:Ah, well... I've been sent by my team leader as a bait to lure out the enemy ringleader...
+()||:Pffft...
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:Oh, forgive me. Sometimes I just can't help it. +What an amusing plan of action. What's the team?
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:Us? We're Team FF, here to investigate the case of missing T-Dolls.
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:FAL's Team, huh... She sure is a reckless one... +But I'm afraid all your efforts so far have been wasted. Alchemist only targets elite T-Dolls. +Ask your leader to change her plan. I don't mind being the bait if necessary.
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:Huh? Are you sure?
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:Haha, actually, I'm the perfect bait! Alchemist has her eyes on me, that's why I keep having to switch base. +In return, I hope your team can provide me with some protection. After all, I plan on bailing some other T-Dolls out. +We have to help each other out on the battlefield, right? So, what do you think about my proposal?
+FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>;FN49(0)||:That's perfect, 49! We can go home once we catch Alchemist!
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:That's true...but let me check with FAL first.
+FNFNC(0)<通讯框>;FN49(0)||<黑屏1>:It'll be fine! Even that cold-blooded jerk has to admit this is a bargain, right?
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:Meanwhile, in FAL's control room.
+FN57(0)<Speaker>Five-seven</Speaker>||:FAL?
+FAL(0)<Speaker>FAL</Speaker>||:Oui?
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BGM>BGM_Room</BGM>:It's been two hours and we still haven't detected any unusual enemy movements.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:It's only been two hours. Keep waiting.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:If I may, I think you're being a bit harsh on them, after all...
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:After all, they aren't officially members of Team FF? That's just a matter of time.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:Oh? You plan on recruiting them for real?
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:Expanding our business requires more manpower than what we currently have. +Besides, even though their specs can't compare to ours, their vast experience in battle will still prove useful.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:Like HER? +Do as you wish. It'll make my job easier if there are more kids for you to order around.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:Better work harder if you want to keep your position.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:Humph... +You know merely keeping my position isn't what I want. 
+()||:Click.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:Oh? A transmission from FF FN49.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:I'm guessing this doesn't mean the prey has taken the bait.
+()||:Five-seven receives the transmission and listens to FF FN49's report. +When the report is finished, Five-seven terminates the call.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:I told you, FAL. Your plans are always too presumptuous.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:I'd normally call them "bold attempts". At least this one has given us a new lead.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:Then are you agreeing to T91's proposal?
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:...
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<黑屏1>:Hey, FAL. Put that magazine down if you're actually giving this a proper think.
+FAL()<Speaker>FAL</Speaker>||<黑屏2><BIN>9</BIN>:As T91 just said, Alchemist only preys on elite T-Dolls, correct?
+FN57()<Speaker>Five-seven</Speaker>||:Oui, so T91 is the perfect choice for a bait.
+FAL()<Speaker>FAL</Speaker>||:Non, we have someone more suitable than her.
+FN57()<Speaker>Five-seven</Speaker>||:Who do you mean...?
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:Aren't you an elite T-Doll yourself, 57?

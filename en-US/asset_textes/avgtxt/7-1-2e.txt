@@ -1,0 +1,50 @@
+()||<BGM>BGM_Empty</BGM><BIN>8</BIN><Night>：M16 reached the safe house.
+M16(3)<Speaker>M16A1</Speaker>||：...+It's clearly time for the intel collection, but no one's here...+They did leave the information in the box. Let me see...
+()||：Clang...!
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>：Who's there?!+...+Something's poking out from around the corner... Bunny ears?+No, it seems to be some kind of hair accessory?
+()||<黑屏2><BIN>9</BIN>：M16A1 approaches silently...
+M16()<Speaker>M16</Speaker>||：Gotcha!
+??()<Speaker>??</Speaker>||<黑屏1>：WHOA—!!+Don't shoot! We're friends!
+AAT52(0)<Speaker>AAT-52</Speaker>||<黑屏2><BGM>BGM_Sunshine</BGM><BIN>8</BIN><Night>：(Whimpers)+That hurt! Why does everyone like yanking on my hair?!
+M16(0)<Speaker>M16A1</Speaker>;AAT52(0)||：AAT52...+What's a T-Doll like you doing in a place like this?
+M16(0);AAT52(0)<Speaker>AAT-52</Speaker>||：Huh? Can't I just be passing by? Can't a cute idol go on a tour to visit her fans?+And what do you mean, "a T-Doll like me"?! I've taken part in first-class operations too, you know!+Don't get cocky just because you're in the AR Team! We won't lose to you!
+M16(0)<Speaker>M16A1</Speaker>;AAT52(0)||：...+You're from RO's squad, aren't you?
+M16(0);AAT52(0)<Speaker>AAT-52</Speaker>||：Eh? So you knew...+That's right, we're Squad Palette, here to assist you on our former leader's orders!
+M16(3)<Speaker>M16A1</Speaker>;AAT52(0)||："Palette"? What kind of weird name is that... +And if you're here to help us, why did you hide when you saw me?
+M16(3);AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>BGM_Empty</BGM>：I...was spooked...
+M16(3)<Speaker>M16A1</Speaker>;AAT52(0)||：Spooked?
+M16(3);AAT52(0)<Speaker>AAT-52</Speaker>||：I couldn't make out your face. I saw black hair and just assumed it was her again!
+M16(3)<Speaker>M16A1</Speaker>;AAT52(0)||：Her? Who?
+M16(3);AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>BGM_Boss</BGM>：Dreamer, duh!+She's been really elusive lately. No one knows where she might pop up the next second.
+M16(3)<Speaker>M16A1</Speaker>;AAT52(0)||：...+What is that monster trying to cook up this time...
+()||<SE1>Battlefield</SE1>：...Suddenly, the sound of an engine being started comes from a distance.
+AAT52(0)<Speaker>AAT-52</Speaker>||：Duck!
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>：...?!
+()||<SE1>Explode</SE1><黑屏2><BIN>41</BIN>：...BOOM!!+A building far away is instantly blown to dust.
+M16(3)<Speaker>M16A1</Speaker>||：Hey, what the heck is that?!
+AAT52(0)<Speaker>AAT-52</Speaker>||：Another masterpiece of that half-pint witch!+The thing that's blowing up Area S05 with heavy artillery!
+M16(3)<Speaker>M16A1</Speaker>||：But this area is currently under Sangvis control, right?! What's the point in destroying their own territory?
+AAT52(0)<Speaker>AAT-52</Speaker>;M16(3)||：Who knows. Maybe she's gone barking mad!
+AAT52(0);RO635(5)<Speaker>RO635</Speaker><通讯框>||：M16! AAT! Are you guys alright?!
+M16(3)<Speaker>M16A1</Speaker>;RO635(5)||：Yeah, we're fine... That shell landed pretty far from where we are.
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：M16, keep calm and listen to me...+The shell was aimed at SOP-II's destination.
+M16(3)<Speaker>M16A1</Speaker>;RO635(4)||：...WHAT?!
+AAT52()<Speaker>AAT-52</Speaker>||：Hey, what about Sten?+Is she okay?!
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：No word yet, but there's an air-raid shelter there so don't worry too much.
+AAT52()<Speaker>AAT-52</Speaker>||：Is this round...the same as the ones before?
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：Yes, it's a smokescreen meant to confuse us. She sure is a cunning one...+Let's meet up ASAP. Area S05 isn't safe anymore.
+M16(3)<Speaker>M16A1</Speaker>;RO635(4)||：...+RO, do you know the artillery piece Dreamer is using?+I just find the firing sound...very familiar...
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：Yes, M16...+You would, wouldn't you...+Because you were among those who first witnessed the use of this weapon...
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>：...!
+()||<黑屏2><BGM>BGM_Danger</BGM><BIN>9</BIN><SE1>Battlefield</SE1>：During Episode 5, 26 minutes after the AR Team commenced pursuit of Destroyer…
+M4A1(2)<Speaker>M4A1</Speaker>||：Wait. Listen to that…
+M16(3)<Speaker>M16A1</Speaker>||：Now! Run for it!
+M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>：M16, watch out!!
+M16(3)<Speaker>M16</Speaker>||：...?!
+()||<震屏><SE1>Explode</SE1><黑屏1>：…BOOM!!
+M16(3)<Speaker>M16A1</Speaker>||<黑屏2><BIN>6</BIN>：…!!+W-What was that…just now?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：You've gotta be joking. Sangvis can actually use…a weapon of that scale?
+M4A1(2)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM><SE1>Alarm</SE1>：…+…Guys, I just received a report from Helian. We have suffered heavy losses.+HQ is ordering all troops to abort the pursuit and retreat from the area immediately.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：But AR-15…
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2><BIN>9</BIN>：...
+RO635()<Speaker>RO635</Speaker>||："Jupiter", large-scale electromagnetic tactical mortar.+Its firing range rivals that of the military's standard artillery, and it fires at such high velocity that Griffin simply has no way of defending against it.+That's Sangvis Ferri's latest weapon of mass destruction...+...And the very thing that destroyed your last hope of saving AR-15.

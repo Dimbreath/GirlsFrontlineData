@@ -1,0 +1,66 @@
+()||<BIN>79</BIN><BGM>BGM_Empty</BGM>:Before the start of the mission.
+()||<BGM>BGM_Moon</BGM>:I glance around and spot Gd DSR-50 right away in the midst of the cocktail party.+She is surrounded by a large group of guests, and it seems like she is happily chatting away.
+指挥官()<Speaker>Commander</Speaker>||:Looks like she's quite enjoying this occasion.+This isn't an easy mission, so I hope nothing goes wrong...
+()||:DSR walks up to me while I'm lost in thought.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Whatcha thinking about~?
+指挥官()<Speaker>Commander</Speaker>||:...Ah!
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:You're too focused, Commander. Did you not hear my footsteps?+It's very easy for bad people to ambush you like this, you know~
+指挥官()<Speaker>Commander</Speaker>||:Ahem, I was just a little worried.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Worried?+Then let me guess what's worrying you...+Is it because you're jealous of me getting so close to those people?
+指挥官()<Speaker>Commander</Speaker>||:Haah!? O-Of course not!
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:My, but that was a hasty response, Commander... Could it be that I hit the nail on the head?
+指挥官()<Speaker>Commander</Speaker>||:...That's enough playing around, DSR.+I want you to proceed carefully with this mission. Don't forget about our objective.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Understood, Commander.+It's just that your expression didn't seem quite suited to the festive atmosphere, so I wanted to help you loosen up.
+指挥官()<Speaker>Commander</Speaker>||:...I appreciate your goodwill, DSR.+Just that if we run into this sort of thing again, try not to pick such an...intense topic.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Order received. I'll do my best to carry it out.+Although, I still want to say that you're the only one I'm concerned about, Commander...
+指挥官()<Speaker>Commander</Speaker>||:...
+DSR50(4)<Speaker></Speaker>||:I don't know how to respond, so I remain silent. She pauses and gently laughs.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:—Your order, that is.+Our conversation is simply a cover to blend in better with the crowd. That would improve the odds of achieving our aim, am I right?
+指挥官()<Speaker>Commander</Speaker>||:Yes, just be careful.+I'll be heading off now to check on the others...
+()||<黑点1>:I quickly leave before DSR could respond.
+()||<黑点2><BIN>97</BIN><Night><BGM>BGM_Empty</BGM><SE1>Gunfight</SE1>:During the mission.
+()||<BGM>BGM_Battle</BGM>:Gd DSR-50 blocks Grizzly and Zas while EVO 3 draws off Welrod.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||:This way... Oh no.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:What a keen child you are. However...
+DSR50(4)<Speaker></Speaker>||<SE1>Gunfight</SE1>:Gd DSR-50 raises her gun and shoots the chandelier on the ceiling. The falling fixture crashes behind Zas, who was running ahead of Grizzly.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:...What you're trying to do is useless.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||:Grizzly, get out of here!
+Grizzly(2)<Speaker>Grizzly</Speaker>||:Are you crazy!?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<SE1>Gunfight</SE1>:...My, do you have so much free time to be exchanging sweet nothings?
+()||:Zas gets in front of Grizzly and exchanges fire with DSR.
+()||:...+After a brief word with Zas, Grizzly turns to run into the cloud of smoke and dust, vanishing without a trace in the blink of an eye.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||:What, not going to chase her?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<黑屏1>:You won't let me, will you?+And besides...having you here to play with me is enough.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Gunfight</SE1>:...
+()||<黑屏1>:After the battle between Gd DSR-50 and Zas M21...
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night><BGM>BGM_Sneak</BGM><黑屏2>:I didn't think I'd run into the grand prize after changing my route for safety's sake.
+UMP9(5)<Speaker>UMP9</Speaker>||:Uh oh.+I'm sorry, but would you mind pretending you never saw me?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:I'm afraid I can't do that.+Now then, hand over the jewel or become a pile of scrap...+Which of these two futures would you prefer?
+UMP9(5)<Speaker>UMP9</Speaker>||:I can't accept either option.+But given the circumstances...
+()||:UMP9 looks around, but there is nothing in the corridor that could be used as cover.
+UMP9(5)<Speaker>UMP9</Speaker>||:Fine fine, I surrender, come take the jewel.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Put the jewel on the ground and leave with your gun.+Then I'll do as you wish and pretend that I never saw you.
+UMP9(5)<Speaker>UMP9</Speaker>||:Hm? You're not coming over to get it?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Thinking too much about those little tricks is bad for your health, you know~
+()||<SE2>Gunkill</SE2>:DSR fires a shot at the ground near UMP9's feet.
+UMP9(5)<Speaker>UMP9</Speaker>||:...Uwah!
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<黑屏1>:I trust that you'll be obedient now...little miss who does not exist.
+()||<BIN>9</BIN><黑屏1>:Twenty-odd minutes later.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night><黑屏2>:I see...so EVO 3 fell for your tricks.+The jewel taken from the younger sister got taken back by the elder sister.
+UMP45(4)<Speaker>UMP45</Speaker>||:Yes, that's more or less what happened.+If I surrender now, will you pretend you never saw me?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:You sisters really are alike...+I've gotten my fill of fun today.+As a reward, I'll pretend I never met you.
+UMP45(4)<Speaker>UMP45</Speaker>||:...Oh?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Are you not happy with that?+If you think it's not enough, we can enjoy a long night tonight together if you wish.
+UMP45(4)<Speaker>UMP45</Speaker>||:No thanks.+Save that goodwill for the Commander.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<黑屏1>:What a shame. You're always so stuffy.+Hurry up and leave. I won't be responsible for what happens if I change my mind.
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:...
+()||<BIN>80</BIN><黑屏2>:After the battle, I find Gd DSR-50 in a nearby bar.+Sitting in a corner drinking by herself, she seems to be in quite a good mood.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BGM>BGM_Hello</BGM>:The whereabouts of the jewel, huh... I'm not too sure myself.+It was probably taken by the true phantom thieves. 
+指挥官()<Speaker>Commander</Speaker>||:The true phantom thieves?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:That's my guess.+Hmmm... I wonder if I could've gotten a better reward out of you if I caught them.
+指挥官()<Speaker>Commander</Speaker>||:I see...+In any case, the mission is over now, so let me handle everything else.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:Mhm, understood.+Now then, Commander...+Since the mission is over, why don't we do something more interesting together? For instance...
+指挥官()<Speaker>Commander</Speaker>||:...F-For instance?
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||:...For instance, having a drink together to make up for the anniversary.+Now why's your face red? Hehe...were you thinking of something?
+指挥官()<Speaker>Commander</Speaker>||:Ahem...a drink's not out of the question, but I've got other things I need to do.+I'll drink with you once my work is over.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<黑屏1>:It's a date, then.+Whether it's for tonight...or for another year of working for Griffin...+I'll be waiting for you, Commander.

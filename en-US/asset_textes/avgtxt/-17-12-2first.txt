@@ -1,0 +1,54 @@
+()||<BIN>7</BIN><Night><SE1>Gunfight</SE1><BGM>BGM_Danger</BGM>:...Squad 404 engages the Sangvis-controlled military units.
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>7</BIN><Night>:45, Their firepower's too much for us!
+HK416(3)<Speaker>416</Speaker>||<BIN>7</BIN><Night>:Scheiße! The difference in our specs is too great! +Are all military units monsters?!
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:The situation's worse than I predicted.
+G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:Ughh, it's no good...  +We can't beat these tin cans...
+G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:If it's no good, then we should retreat and find another way to sneak in.
+UMP9(4)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:But... +45, there are military units behind us too...
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Tsk, we're surrounded, huh? +9, contact Ange!
+HK416(0)<Speaker>416</Speaker>||<BIN>7</BIN><Night>:Humph...looks like you really are going to be the death of me. +Before those monsters blow us to bits, how about giving me a chance to vent my anger, UMP45?
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>7</BIN><Night>:I need a break! +Ahhhh! We can't hold them back at all! +We're doomed, are we really going to die here?
+G11(3)<Speaker>Gr G11</Speaker>||<BIN>7</BIN><Night>:Noooo! I've got movies I haven't finished watching yet—
+HK416(3)<Speaker>416</Speaker>||<BIN>7</BIN><Night><黑屏1>4</黑屏1>:Don't just stand there, you Dummkopf! Hurry and help 9! Hurry...
+()||<BIN>9</BIN><SE1>Alarm</SE1><黑屏2>4</黑屏2><BGM>BGM_Empty</BGM>:...Whirrrrrr—! +... + ...
+()||<BIN>9</BIN><黑屏1>0.8,4</黑屏1>:... +The military units facing them suddenly stop moving.
+G11(3)<Speaker>Gr G11</Speaker>||<BIN>7</BIN><Night><黑屏2>0.5</黑屏2>:They...they've stopped?
+HK416(2)<Speaker>416</Speaker>||<BIN>7</BIN><Night>:...What...what's going on?
+UMP9(2)<Speaker>UMP9</Speaker>||<BIN>7</BIN><Night>:45! Comms throughout the area have been cut! I can't contact Ange!
+UMP9(2);UMP45(2)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:While the reason for this is unclear, it's still a good opportunity. Let's take advantage of it and hurry inside the central database.
+HK416(0)<Speaker>416</Speaker>;UMP45(2)||<BIN>7</BIN><Night>:Hold it! +So you're saying that after we barely managed to get out of a tight spot, you want us to go deep in the heart of Sangvis territory to die?
+HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:You can also stay here. +Who knows, once they wake up, they might treat you to a nice supper.
+HK416(0)<Speaker>416</Speaker>;UMP45(2)||<BIN>7</BIN><Night>:Danke, but I'm not hungry. +As I thought, the option to "give up" doesn't exist in your neural cloud.
+UMP45(2)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night><黑点1>:Not this time, 416. +Maybe our luck this time is better than we imagined. Make use of it.
+()||<BIN>34</BIN><黑点2><BGM>BGM_Sneak</BGM>:Squad 404 reaches the Sangvis central database.
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:...Hmm. +Looks like we've really found something interesting this time.
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>34</BIN>:What did you dig up, 45?
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Stuff about OGAS, Mastermind and that princess from the AR Team. +The details are encrypted and there's no time to crack it now. Let's just take this information with us first.
+UMP9(0)<Speaker>UMP9</Speaker>||<BIN>34</BIN>:Comms seem to be recovering. +45, we'd better hurry.
+UMP9(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<BIN>34</BIN>:Trying to run after stealing the cheese, 404 rats?
+UMP45(0)<Speaker>UMP45</Speaker>;BOSS-7(0)||<BIN>34</BIN>:...Oh my. +Long time no see, Miss Gager. Are you alone?
+UMP45(0);BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>34</BIN>:I brought a few followers with me. More than yours. +Although... you actually found this place. Just what kind of a T-Doll are you, UMP45?
+UMP45(0)<Speaker>UMP45</Speaker>;BOSS-7(0)||<BIN>34</BIN>:Heheh, an insignificant defect, nothing more.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>34</BIN>:Alright, I trust you won't mind me turning you into a full-on reject, then. +Well, any last words?
+()||<BIN>34</BIN>:...The transmission ends.
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>34</BIN><SE1>Gunfight</SE1>:This area is crawling with Sangvis signals. We're surrounded!
+HK416(0)<Speaker>416</Speaker>||<BIN>34</BIN>:Out of the frying pan and into the fire... What a roller-coaster ride of an operation. +What should we do, 45? ...45?
+()||<BIN>34</BIN>:...416 turns around and sees UMP45 opening comms with Ange.
+NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<BIN>34</BIN>:How are things, UMP45?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Good news and bad news. Which do you want to hear first?
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Since you took the initiative to contact me...start with the bad news.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:We're surrounded by Gager's troops.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:And the good news?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:We're right next to Sangvis Ferri's central database.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Alright, I'll have M4A1 lead a team to back you up.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:M4A1?
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:She's under my command now. Is there a problem?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:No, it's not important.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:In that case, the two of you can discuss the exact details of the operation plan later.
+UMP45(0)<Speaker></Speaker>||<BIN>34</BIN>:...45 ends the transmission.
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:M4A1 will be leading a team to save us shortly. +We'll need to coordinate with them for the upcoming battle.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:M4A1? The M4A1 from the AR Team? +She's...coming?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:She's under our employer's command for the time being. +Also, we don't have a choice other than to wait for them. +If the plan succeeds...Gager might die here.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:You... +You're in danger yourself and you still want to wipe out the opposition?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:That's right. Even I miscalculate at times. +But if I can grab onto a lifeline...
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN><黑屏1>:Then I will definitely survive... +...And then, I'll have my revenge.

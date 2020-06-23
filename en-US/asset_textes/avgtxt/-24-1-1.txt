@@ -1,0 +1,12 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>161</BIN><黑屏2><SE2>Alarm</SE2>:...An hour before the dirty bomb exploded, at the temporary Griffin Command Post.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<BGM>BGM_Danger</BGM>:Attention, all T-Dolls! +The Military has already breached the outer defensive perimeter of the Command Post! All combatants are to follow the briefed contingency plan and withdraw immediately! +9A-91, Thompson, both of your teams need to hold your defensive positions and secure the other Dolls' retreat!
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>Where's the Commander? We need orders, otherwise we can't mount an effective counterattack!</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;9A91(0)||:The Commander is still coordinating the battle and cannot move from their current position!
+NPC-Kalin(4);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We're fighting the damn Military here. We won't last long without the Boss around!</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:Aaaaaahhhh, screw this! Let me give it a shot, then!
+NPC-Kalin(8);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>You...?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;9A91(0)||:I've learned rudimentary tactics and commanding while serving with the Commander, y'know? I'm not that experienced, but I can at least serve to bolster your operational efficiency a little!
+NPC-Kalin(8);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>That'll do, Miss Kalina.</color>
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We'll leave the rest to you then.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Let's move on forward, for Griffin, and for all of our friends!

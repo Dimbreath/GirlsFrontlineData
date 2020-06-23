@@ -1,0 +1,133 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>55</BIN><BGM>BGM_Brain</BGM><黑屏2>:...
+AN94(0)<Speaker>AN-94</Speaker>||:Hailing Ange, please respond if you copy. +I have successfully retreated according to Contingency Plan B. The location of the equipment has been uploaded to the shared database. +Should I rendezvous with you? Requesting for further directives.
+AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Copy that. The objective is completed. Withdraw from this sector on your own, AN-94.</color>
+AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:Understood. Right away.
+AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:<color=#00CCFF>After that...</color> +<color=#00CCFF>You're free to do whatever you like.</color>
+AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:...Pardon?
+AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:<color=#00CCFF>We've finished our business here, AN-94.</color> +<color=#00CCFF>Now that the mission is accomplished, you two can have a day-off.</color> +<color=#00CCFF>Think of it as a vacation and relax.</color>
+AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:But...
+AN94(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Isn't it nice to catch a break every now and then, AN-94?</color>
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||<黑屏1><BGM>BGM_Empty</BGM>:...Da.
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM>:...In a certain safe house.
+AK12(0)<Speaker>AK-12</Speaker>||:AN-94.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:I'm here.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:What are Ange's orders again?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:"Now that the mission is accomplished, you two can have a day-off."
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:So, you consider sticking to my side like glue a good way to spend your day-off?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:Have I displeased you, AK-12? +I'm sorry...
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:Not exactly. +Say, AN-94, every Doll is created for a purpose, right?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:Da, I was created for you.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:Using my point against me now... Your mind is becoming more agile, AN-94.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:I learned this from the Commander, though I believe it would be inappropriate for me to thank you for the praise.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:That's fine. I don't mind if you do.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:AK-12...have I done something wrong?
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:What makes you think so?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:You don't look very happy.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:I'm not unhappy per se, AN-94. +I simply think you should adjust your current state of mind - focus in battle, but learn to relax when you're idle.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:But I don't know what it means to relax... Does clearing my cache count?
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:You really don't know? +That's not what's written on your face.
+AN94(0)<Speaker>AN-94</Speaker><Shake>;AK12(0)||:Impossible. My control over my facial expressions have always been... +...Are you bluffing me, AK-12?
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:You've really come a long way. +Still, I believe you do know how to "relax" - you've done that before when we ran into them, isn't that right?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:... +I am at my most relaxed state when I can see that you're safe. +Even if it's a day-off, I have no choice but spend it this way.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:No choice? That's what you fool yourself into thinking. +Now you're not worried about offending me?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:Your face tells me you want me to tell the truth. +If it did offend you, I won't mention it again.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:I'm very interested in what Griffin taught you the last time you met. +...Nyet, you don't have to summarize the whole experience for me right now.
+AN94(3)<Speaker>AN-94</Speaker>;AK12(0)||:I understand.
+AN94(3);AK12(4)<Speaker>AK-12</Speaker>||:At least you haven't turned into a complete mystery. +Anyway, take this.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(4)||:...?
+AN94(0);AK12(4)<Speaker>AK-12</Speaker>||:Ange got us invitations to a cocktail party. Take it and go.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(4)||:What is our objective?
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:None whatsoever.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:Then are there any potential threats that need to be neutralized?
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:Not really. +It's just a cocktail party for people to wind down. The Griffins are going to be there as well. +Don't you look forward to seeing them again, 94?
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:...
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:Your cocktail dress is waiting for you. Resume your education in the art of relaxation.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:I believe you are more suited to attending this kind of event.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:Unlike you, I've graduated from such training. +Listen, AN-94. Don't pigeonhole yourself. +Drawing a circle and confining yourself within it will only make your neural cloud rust away. You've got to widen your horizons and experience things that you aren't familiar with.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:But...
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:That's an order.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||<黑屏1>:... +Understood. I will attend the event on time.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>85</BIN><黑屏2>:The night before the cocktail party.
+()<Speaker></Speaker>||<BGM>BGM_Wake</BGM>:AN-94, having been explicitly forbidden to follow AK-12 around, sits in the safe house.
+AN94(0)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(Where has AK-12 gone? I can't check on her real-time coordinates when we aren't on a mission. She'll get cross if she finds out.)</color> +<color=#A9A9A9>(Still, my neural cloud just can't be at peace when I have no knowledge of her whereabouts...)</color> +Must I learn to overcome this...? +<color=#A9A9A9>(I'm attending the cocktail party on my own... Without her there with me, what am I going to do?)</color>
+AN94(0)<Speaker></Speaker>||:AN-94 gets to her feet and paces around the safe house.
+AN94(0)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(Just the thought of not keeping AK-12 within sight makes me uneasy.)</color> +<color=#A9A9A9>(There are other ways to keep track of her, but she'll probably get angry if she finds out...)</color> +<color=#A9A9A9>(Ange mentioned that she's stored a few spare bodies for our use just in case...)</color> +<color=#A9A9A9>(...I'll just have to be extra careful and make sure she doesn't find out.)</color>
+AN94(0)<Speaker></Speaker>||:AN-94 bends down in a corner and flips open a floorboard plank. +As she expected, the hidden mechanism reveals a row of Doll bodies.
+AN94(3)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(This is AK-12's.)</color> +<color=#A9A9A9>(She looks so peaceful in her sleep. How unlike her.)</color>
+AN94(3)<Speaker></Speaker>||:Once she's confirmed the body's identity, AN-94 carefully carries it out of storage and puts it into a case that she's prepared.
+AN94(3)<Speaker>AN-94</Speaker>||:I'll put you back once it's over. +Please keep me company just this once.
+AN94(3)<Speaker></Speaker>||:Right then, a set of footsteps are fast approaching. AN-94 snaps the case shut and sits primly on it.
+AN94(3);AK12(0)<Speaker>AK-12</Speaker>||:I'm back.
+AN94(3)<Speaker>AN-94</Speaker>;AK12(0)||:Welcome back.
+AN94(3);AK12(3)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:That case...
+AN94(0)<Speaker>AN-94</Speaker><Shake>;AK12(3)||<SE1>Heartbeat</SE1>:...
+AN94(0);AK12(4)<Speaker>AK-12</Speaker>||:You seem all prepared. +I'll take the night watch. Get some rest before the cocktail party tomorrow.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(4)||:...Phew. You're right. +<color=#A9A9A9>(I shouldn't have packed the case so early. Thank goodness I didn't get found out.)</color>
+AN94(0);AK12(4)<Speaker>AK-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Dobroy nochi, AN-94.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:What an interesting thing to do. +Lovely. Looks like I can plan an even better "surprise"...
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BIN>80</BIN>:The following evening at the venue of the cocktail party.
+NPC-Bodyguard1(0)<Speaker>Security guard</Speaker>||:Griffin personnel, right? This way, please.
+AN94(8)<Speaker>AN-94</Speaker>||:Thank you. +<color=#A9A9A9>(Fighting in this dress will be really awkward. And these heels... I need to allocate more computational capacity to stabilize my body...)</color> +<color=#A9A9A9>(So this is the anniversary cocktail party. Looks pretty secure. Everyone seems very relaxed.)</color>
+()<Speaker>Chef</Speaker>||:Hey, Miss! Would you like to try these freshly made desserts?
+AN94(8)<Speaker>AN-94</Speaker>||:Uh...are you talking to me?
+()<Speaker>Chef</Speaker>||:Yes, you, lady in the black and burgundy dress. +This must be your first cocktail party, am I right? Then please, you must give my handiwork a taste.
+AN94(10)<Speaker>AN-94</Speaker>||:Thank you. +...The sweet and slightly sour strawberries perfectly counter the heaviness of the cream. The toppings create a wonderful texture along with the cupcake.
+AN94(10)<Speaker>Chef</Speaker>||:You're really a connoisseur! +This dessert is named "The Third Color Rivaled by None".
+AN94(10)<Speaker>AN-94</Speaker>||:"In-between the colors of Moon and Snow//You would be the third color rivaled by none"... This name is a reference to a really old poem, isn't it?
+AN94(10)<Speaker>Chef</Speaker>||:Oh? So you know the origin. +Yeah, you do remind me of the lady that suggested the name.
+AN94(10)<Speaker>AN-94</Speaker>||:You didn't name the dessert?
+AN94(10)<Speaker>Chef</Speaker>||:No, she did.
+()<Speaker></Speaker>||:The chef gestures toward two people engaging in conversation nearby.
+AN94(10)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(That's the Griffin Commander and...searching...match found...Tactical Doll Thunder.)</color> +<color=#A9A9A9>(I didn't expect anyone else to be this well-versed in ancient poetry. Will she get along with AK-12?)</color>
+()<Speaker>Chef</Speaker>||:Miss? +Come and try some of the other desserts! This one, for example, is my personal pride and joy. That lady named it "Bitter Rock'n'Roll"!
+AN94(10)<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM>:... +I'm sorry, but there's something I need to do.
+AN94(10)<Speaker>Chef</Speaker>||:Huh? Please, be my guest...
+AN94(10)<Speaker>AN-94</Speaker>||<BGM>BGM_NightOPS</BGM>:<color=#A9A9A9>(I spaced out for just a little while, where has my case with AK-12's body gone?)</color> +<color=#A9A9A9>(How could anyone take the case away without my knowledge...? Was I too relaxed? Nyet, I've got to get it back!)</color>
+()<Speaker></Speaker>||<黑屏1>:AN-94 snaps into focus and scans the entire venue for the signal emitted by the case.
+AN94(10)<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑屏2><黑点1>:<color=#A9A9A9>(...Target located. There it is!)</color>
+AN94(10)<Speaker></Speaker>||<BIN>139</BIN><黑点2><SE1>Runstep</SE1>:AN-94 jogs over to the case.
+AN94(10)<Speaker>AN-94</Speaker>||<SE1>Heartbeat</SE1>:<color=#A9A9A9>(Thank goodness it wasn't taken away...)</color> +<color=#A9A9A9>(...Hold on, it's too light. Is the body not inside?)</color> +<color=#A9A9A9>(Did someone remove it...? Nyet, could any of the humans here be after Doll bodies?)</color>+<color=#A9A9A9>(I've got to find it soon!)</color>
+AN94(10);MDR(4)<Speaker>???</Speaker>||:Hey, you! The cute one! +Your cocktail dress is stunning, and there's a lot of depth to the way the red changes in shade! Mind if I snap a pic? +I wanna get myself something like that later...
+AN94(10)<Speaker>AN-94</Speaker>;MDR(4)||:<color=#A9A9A9>(This is Griffin T-Doll...MDR.)</color> +<color=#A9A9A9>(Why now of all times? I don't have time for this.)</color> +Uh...um...I can't...
+AN94(10);MDR(4)<Speaker>MDR</Speaker>||:My, don't be shy! You're really cute and photogenic! +If it makes you feel less self-conscious, we can take a selfie together!
+AN94(10)<Speaker>AN-94</Speaker>;MDR(4)||:I'm sorry, but I really...
+AN94(10)<Speaker>Commander</Speaker>;MDR(4)||:What are you doing here, MDR?
+AN94(10);MDR(4)<Speaker>MDR</Speaker>||:Oh, Commander! You showed up at the perfect time. I'm looking into...
+AN94(10);MDR(4)<Speaker>Commander</Speaker>||:Isn't this AN-94? Do the two of you know each other?
+AN94(10)<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM>:Good evening, Commander... What on earth... +...should I do about the case...?
+AK12(10)<Speaker>AK-12</Speaker>||<BGM>BGM_Brain</BGM>:It would seem that 94's circle of friends has expanded considerably while I wasn't looking.
+AN94(10)<Speaker>AN-94</Speaker>||:AK-12?! You...!
+()<Speaker></Speaker>||:AK-12 winks at her. +What is that supposed to mean? The shell-shocked AN-94 finds it utterly incomprehensible. +She instinctively keeps her mouth shut and watches as AK-12 deftly helps her out of a tight spot by shifting everyone's attention onto herself.
+AN94(10)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(AK-12 can always make things go her way.)</color> +<color=#A9A9A9>(...At least, I now have a chance to look for the lost body... However, it's offline and can't be located. I'll just have to search for it with my eyes.)</color>
+AK12(10)<Speaker>AK-12</Speaker>;AN94(10)||:94?
+AK12(10);AN94(10)<Speaker>AN-94</Speaker>||:I'm here.
+AK12(10)<Speaker>AK-12</Speaker>;AN94(10)||:Texas Hold 'Em is only fun with multiple players. Come along.
+AK12(10)<Speaker>Commander</Speaker>;AN94(10)||:You organized such an event without telling me...? I knew it wasn't a coincidence that you and AN-94 came.
+AK12(10);AN94(10)<Speaker>AN-94</Speaker>||<黑屏1>:<color=#A9A9A9>(Crap. Now I can't start my search.)</color> +<color=#A9A9A9>(The longer I get delayed, the less likely I'll be able to find the body. What should I do?)</color> +<color=#A9A9A9>(I can't possibly refuse AK-12's request, so I suppose I don't really have a choice...)</color> +<color=#A9A9A9>(Start compiling data regarding "Texas Hold 'Em".)</color>
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Empty</BGM>:Despite her unease, the game goes on - even though it is taking even longer than she expected. +At long last, the cocktail party comes to an end. While AK-12 is bidding the Commander farewell, AN-94 seizes the opportunity to search the exterior of the venue with the empty case in tow.
+AN94(8)<Speaker>AN-94</Speaker>||<BGM>BGM_Moon</BGM>:<color=#A9A9A9>(Oh, AK-12 got in touch. I am to meet her in the parking lot in five minutes.)</color> +<color=#A9A9A9>(This is my last chance. If I still can't find it...)</color>
+()<Speaker>Commander</Speaker>||:Good evening, AN-94.
+AN94(10)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(It's the Commander.)</color> +<color=#A9A9A9>(Griffin is in charge of the security of this venue... Perhaps it'll be more efficient if I ask the Commander directly.)</color> +Dobryy vecher, Commander. +This may be an abrupt question, but...have you seen anyone leaving the venue with a Doll body?
+AN94(10)<Speaker>Commander</Speaker>||:A Doll body? +That would draw a lot of attention on a cocktail party, wouldn't it? No, I haven't.
+AN94(10)<Speaker>AN-94</Speaker>||:How can that be...? +Don't tell me it isn't here anymore...?
+AN94(10)<Speaker>Commander</Speaker>||:Are the two of you investigating something?
+AN94(10)<Speaker>AN-94</Speaker>||:Nyet. +Please forget what I said.
+AN94(10)<Speaker>Commander</Speaker>||:Alright, I know better than to try fishing information out of you. +Did you have fun?
+AN94(10)<Speaker>AN-94</Speaker>||:It's been fascinating. +I have gathered samples...regarding methods of human and Doll relaxation.
+AN94(10)<Speaker>Commander</Speaker>||:I take it you enjoyed the experience?
+AN94(10)<Speaker>AN-94</Speaker>||:Da, you are correct. +I still don't believe any of these methods can be applied to myself, but... +I do think I managed to derive a bit of "fun" from the process of competition and computation.
+AN94(10)<Speaker>Commander</Speaker>||:That sounds like something AK-12 would say.
+AN94(10)<Speaker>AN-94</Speaker>||:Really? +AK-12 said I'm becoming more and more like you.
+AN94(10)<Speaker>Commander</Speaker>||:In any case, you've certainly changed, AN-94.
+AN94(10)<Speaker>AN-94</Speaker>||:For the better, I hope?
+AN94(10)<Speaker>Commander</Speaker>||:It was meant as a compliment.
+AN94(10)<Speaker>AN-94</Speaker>||:Then...I'm glad to hear it. +Sorry, Commander, but there's something I absolutely have to find. Excuse me.
+AN94(10)<Speaker>Commander</Speaker>||:Need my help?
+AN94(10)<Speaker>AN-94</Speaker>||:...You already have. +Spasibo. Do svidaniya.
+()<Speaker>Commander</Speaker>||:See you next time... I know I will. +As long as you stop organizing strange competitions, you're always welcome to visit.
+AN94(10)<Speaker></Speaker>||:She stops in her tracks and turns back.
+AN94(10)<Speaker>AN-94</Speaker>||:I think I'll take you up on your offer... +I also look forward to our next meeting.
+()<Speaker></Speaker>||:The corners of her mouth are perfectly still, but there's a twinkle in her eyes. +...Is she smiling?
+AN94(8)<Speaker>AN-94</Speaker>||:Then I'll be taking my leave.
+()<Speaker></Speaker>||<黑屏1>:AN-94 walks off. She seems a bit unsteady on her feet. Is it because of the heels? +I wonder when I'll see her again. With great anticipation, I see her off from where I'm standing.

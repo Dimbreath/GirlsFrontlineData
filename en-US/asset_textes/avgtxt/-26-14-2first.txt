@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Boss2</BGM>:Ange! Now!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Not yet! Enemy fire is still too heavy! +416, these Ringleaders are totally different than what your information describes!
+HK416(3)<Speaker>416</Speaker>||:These must be enhanced models! They're even more powerful than the previous ones!
+AK12(3)<Speaker>AK-12</Speaker>||:I'm dying to know where they came from... What the hell are they?!
+AN94(2)<Speaker>AN-94</Speaker>||:I have never seen that insignia or those weapons before.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:We must fall back and wait for another chance!
+RO635(6)<Speaker>RO635</Speaker>||:How long will it take...? They seem to be getting reinforcements!
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Can you still go on?</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;M82A1(0)||:...I don't know, M82. If it weren't for your long-range support, we would probably die right here.
+NPC-AngeDamage(3);M82A1(0)<Speaker>M82A1</Speaker>||:<color=#00CCFF>I don't want that to happen. If you can help me pinpoint the Ringleader's precise location, I might be able to snipe her down from this angle.</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:Got it... I'll try to think of a way out of this impasse...
+()||<黑点2><BIN>10</BIN>:

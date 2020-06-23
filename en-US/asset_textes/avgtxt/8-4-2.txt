@@ -1,0 +1,67 @@
+()||<BIN>34</BIN><BGM>BGM_Empty</BGM>：Meanwhile, File No. 7 is being downloaded.+...
+RO635(2)<Speaker>RO635</Speaker>||：Done. With that, The Sangvis security system won't be able to locate the source of the download.+Now all that's left to do is wait for SOP-II to complete the download...+By the way, how long have I been linked in, M16?
+RO635(3)<Speaker>RO635</Speaker>||：...M16?
+()||：...
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>：SOP-II, where's M16?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：...?+M16 isn't around?+Uh... Looks like it...
+RO635(3)<Speaker>RO635</Speaker>||：Are you okay, SOP-II?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：I'm...downloading...the file...at full capacity...+No...RAM left...for processing thoughts...
+RO635(3)<Speaker>RO635</Speaker>||：Sorry, I didn't mean to bother you...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：RO...where is...M16?
+RO635(3)<Speaker>RO635</Speaker>||：I was working in the mainframe just now. No idea where she's headed off to.+How strange... She should be on standby within the building as per my order.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Could she...have gone out...and run into danger?
+RO635(4)<Speaker>RO635</Speaker>||：Tsk... How would I know...?
+RO635(3)<Speaker>RO635</Speaker>||<黑屏1>：The commander didn't alert me of any dangers, and Miss Persica said she needed a nap...+(Sighs) Guess I'll have to check it out myself...
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>：RO opens the door and looks outside.
+RO635(0)<Speaker>RO635</Speaker>||：...Nobody's there?+...
+RO635(4)<Speaker>RO635</Speaker>||：... (Movements!)
+()||<SE1>Select</SE1>：...!!
+M16(3)<Speaker>M16A1</Speaker>||：...
+RO635(4)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>：M16...+What are you doing out here? I almost raised my gun at you.
+M16(3)<Speaker>M16A1</Speaker>||：(Sighs) Didn't I tell you not to leave the database?
+RO635(4)<Speaker>RO635</Speaker>||：And didn't I tell you to stay here and don't go far?!
+()||<黑屏1>：...M16 walks around RO and enters the database.
+M16(3)<Speaker>M16A1</Speaker>||<BIN>34</BIN><黑屏2>：(Shrugs) I...can't possibly keep watch on you 24/7. You have to learn how to protect yourselves.
+RO635(3)<Speaker>RO635</Speaker>||：That's not the problem, M16. Seeing as I'm the team leader, you should obey my orders.
+M16(3)<Speaker>M16A1</Speaker>;RO635(3)||：Yes, you are, but I have my own priorities and considerations.+I alter my course of action depending on the situation. As team leader, RO, you must learn to be adaptable.+M4A1 would've understood my decision.
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：M16... I know I can't compare to M4A1...+But I'm not her. You can't treat me as her substitute!
+M16(2)<Speaker>M16A1</Speaker>;RO635(4)||：...I'm sorry. I didn't mean it that way.+You have your own strengths. I suppose...I'm just having trouble getting used to this...
+M16(3);RO635(0)<Speaker>RO635</Speaker>||：You have your experience, M16, and right now I'm counting on that.+And afterwards...you can take all the time you need to get used to this.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M16...you're back?
+M16(3)<Speaker>M16A1</Speaker>;RO635(0)||：Yes, SOP-II, I'm back...
+()||：M16 stops talking to RO and sits down in the corner.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Are you...fighting with RO?
+M16(3)<Speaker>M16A1</Speaker>||：It was just a normal discussion...+I'm exhausted. Let me perform some maintenance on myself...+Also, RO, conduct an active search in the Sangvis mainframe to find out about Sangvis movements.
+M16(3);RO635(4)<Speaker>RO635</Speaker>||：What? Won't that be advertising our location to S.F.?
+M16(3)<Speaker>M16A1</Speaker>;RO635(4)||：I just heard the sound of an engine coming from above...+The enemy may have already figured out our coordinates and is ready to launch an airstrike.
+M16(3);RO635(0)<Speaker>RO635</Speaker>||：My sensory system didn't register that. How did you hear it?+Besides, Destroyer is not capable of conducting airstrikes.
+M16(3)<Speaker>M16A1</Speaker>;RO635(0)||：Don't rely too much on your fancy tech. I was on the lookout just now. I heard it out in the open.+As for the capability of conducting airstrikes... Nobody says that there can only be one Ringleader in each area.+Remember Operation Arctic Warfare?
+M16(3);RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：...+I'll risk it just this once.
+ ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>：...RO enters the Sangvis mainframe.+...
+RO635()<Speaker>RO635</Speaker>||：There's no movement at all from the Sangvis command post. Doesn't that mean she's not up to anything?
+M16A1()<Speaker>M16A1</Speaker>||：...Don't you find that strange?+It means...it's very likely that she's already left the command post.
+RO635()<Speaker>RO635</Speaker>||：(Sighs) You're way too paranoid. There might be something wrong with your sensory system, too.
+M16A1()<Speaker>M16A1</Speaker>||：I definitely heard it. I'm guessing it's an enemy drone...
+RO635()<Speaker>RO635</Speaker>||：A drone? For what...?
+()||<SE1>Battlefield</SE1>：...BOOM! BOOM!
+AR Team()<Speaker>AR Team</Speaker>||：...?!
+RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>：Bombing in the distance!+Where on earth...
+M16A1()<Speaker>M16A1</Speaker>||：RO, there's no time! Widen the search!+S.F. definitely has more than one command post! The other one shouldn't be too far away since they need to coordinate with each other!
+()||：...+...Pssst...Pssssst...+...As the static noise fades away, two conversing voices emerge.
+BOSS-6(0)<Speaker>Destroyer</Speaker><通讯框>||：...Like I said, this is MY territory! Don't bomb it full of holes!+Hey, you hear me?!+Dreamerrrrrrr!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：My, my...+Do you think of this place as your little garden?+How cute of you, Destroyer.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||：Tsk. I just want to organize the place properly.
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：Then you really shouldn't tolerate the little bugs that have sneaked in, should you?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||：I really didn't notice them...+They shouldn't have been able to neutralize our jamming field so soon.
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：Don't rely too much on those high-tech things, Destroyer.+You've been fighting Griffin for quite a while, so shouldn't you have learned something by now?+If Agent hadn't noticed that something was off, you'd be chased all over the place by those pests again.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||：Huh? I haven't actually fought them that many times, okay?+And since when did they chase me all over the place...?
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：...+Ah... Sorry, my mistake.+Heheh. In any case, I'm the one who cleaned up your mess, so thank me properly.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||：Huh... What even...+Whatever. It's on Agent's orders anyway. Do what you want.+But I'm sure you know where not to hit with your shells...
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：Of course. I'll be careful as I sweep the carpet.+Go back to your nap, Destroyer. Would you like a lullaby?
+Destroyer()<Speaker>Destroyer</Speaker>||<黑屏1>：Thanks, but no thanks... I've had enough of nightmares...+Squids all over the place... Just thinking of it makes me squirm...
+()||<黑屏2><BIN>34</BIN>：...RO breaks the connection.
+M16(3)<Speaker>M16A1</Speaker>||：I was right... We're dealing with yet another tough one...
+M16(3);RO635(3)<Speaker>RO635</Speaker>||：How on earth did S.F. find us...?+I've already been...extremely careful...
+M16(3)<Speaker>M16A1</Speaker>;RO635(3)||：Doing one's best doesn't guarantee success, RO.+Being able to improvise is an essential quality of being a team leader.+Don't be too upset. Report to the Commander first. I'll help you through the rest.
+M16(3);RO635(3)<Speaker>RO635</Speaker>||：Alright...+(Sighs) In the end, I still have to rely on someone else...
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>：Of course a team leader has to rely on people. That's why you have teammates.+Get your gun and follow me. I reckon S.F.'s vanguard is gonna storm this place soon.

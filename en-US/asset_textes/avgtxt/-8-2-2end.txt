@@ -1,0 +1,49 @@
+()||<BIN>3</BIN><BGM>BGM_Boss</BGM>:...
+FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:The hunt is over, Intruder.
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker>||<BIN>3</BIN>:That's quite alright. We've gained a lot. +Too bad we haven't been able to find the real "Doll".
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)||<BIN>3</BIN>:The real "Doll"?
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker>||<BIN>3</BIN>:What the Rabbit is looking for... +If she can't find it, then even I won't be able to prevent Dolls' annihilation.
+BB_Noel(2)<Speaker>Noel</Speaker>;BOSS-4(0)||<BIN>3</BIN>:...
+FN49(0)<Speaker>FF FN49</Speaker>;BOSS-4(0)||<BIN>3</BIN>:What on earth is your objective?
+FN49(0);BOSS-4(0)<Speaker>Intruder</Speaker>||<BIN>3</BIN>:Didn't you know? This is just a game. +You're still very far from clearing this stage, so do take your time and enjoy yourselves...
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)||<BIN>3</BIN>:Humph... Your death is the only thing we want to enjoy.
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker>||<BIN>3</BIN>:Then sorry, but I haven't finished the script yet... +Please let my name stay a little longer on your bucket list.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>3</BIN>:Zut! Smoke screen!
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>3</BIN>:...! +You think you can escape using such a cheap trick?!
+FAL(0);FN57(0)||<BIN>3</BIN><SE1>RunStep</SE1><快跑>:
+()||<BIN>9</BIN><SE2>Gunfight</SE2>:Team FF focuses their firepower...
+FN49(0)<Speaker>FF FN49</Speaker>||<BIN>3</BIN><黑屏2>:Sigh... She escaped after all.
+FN49(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:Tsk! Right under my nose.
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:Looks like...we won't return empty-handed.
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:...?
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:She seemed to have dropped this while running away... (Hands over)
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN>:This...looks like... +(Chuckles)
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>3</BIN>:W-What is it?
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>3</BIN><黑屏1>:Humph... I think we're gonna meet again very soon, Intruder.
+()||<BIN>8</BIN><黑屏2><BGM>BGM_Empty</BGM>:Back at Griffin Control after the operation...
+FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:The Rabbit seems quite closely related to Sangvis Ferri.
+FN57(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:FAL has already reported the evidence. We'll hear from them in no time.
+FN57(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:...
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN><BGM>BGM_Sad</BGM>:Is something wrong, Mademoiselle Noel?
+FN57(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:Oh! Sorry. U-Umm...I was just thinking... +"The real Doll"... Could that be me?
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:...You're a Doll?
+FN57(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:How should I put it...? In a manner of speaking... I guess I am... +Of course, I'm not entirely sure... +Whether I'm the "Doll" that the Rabbit is looking for...
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:That's to say you're the cause of all the trouble we've been having?
+FN57(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:Eep! I'm sorry! It's all my fault...
+FN57(0)<Speaker>Five-seven</Speaker>;BB_Noel(2)||<BIN>8</BIN>:Exactement. It's all thanks to a weirdo like you that we're working our butts off.
+FN57(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:(Whimpers) This awful feeling...of being blamed... +Seems pretty familiar...
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:Well... You don't have to put it that way...
+FNFNC(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:Hmm?
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:Noel appeared as the lightning struck, right? +If it hadn't been for the lightning, Intruder could have done us in right then and there... +Perhaps...Noel saved us.
+FNFNC(0);BB_Noel(2)<Speaker>Noel</Speaker>||<BIN>8</BIN>:(Sobs) I-I'm so touched! +You're so nice, FF FNC! (Hugs)
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:Ack! L-Let go! You're...squeezing too hard!
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:...We'll have to deal with this problem sooner or later. +If the Rabbit is after Noel, that makes our job easier.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BIN>8</BIN><BGM>BGM_Empty</BGM>:Oh, there you are.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:The result is out. That thing really is Intruder's communication module. +It's receiving a signal from a certain location, though the precise source is still unknown... +It does resemble the Rabbit's signal that we had detected before.
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BIN>8</BIN>:Bien! That's good news.
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><BGM>BGM_Sneak</BGM>:It's too early to celebrate, 57. +According to our surveillance, the signal is currently at an abandoned Sangvis factory up north. The factory has been inspected in the past. +Other than a sparse amount of Sangvis units wandering around, it is largely deserted. +Why would a clue be sitting at that sort of place... I have a bad feeling about this.
+BB_Noel(2)<Speaker>Noel</Speaker>;FAL(0)||<BIN>8</BIN>:Should we take the initiative this time?
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:It's necessary to reinvestigate the site. Also... +Mademoiselle Noel, it's time you made yourself useful.
+BB_Noel(2)<Speaker>Noel</Speaker>;FAL(0)||<BIN>8</BIN>:Huh?
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑屏1>:If the Rabbit doesn't want to leave her hole...
+FAL()<Speaker>FAL</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Then we'll give her a "carrot".

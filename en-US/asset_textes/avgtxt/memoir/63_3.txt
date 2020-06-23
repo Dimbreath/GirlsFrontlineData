@@ -1,0 +1,107 @@
+()||<BIN>83</BIN><BGM>BGM_Hello</BGM>:...
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:The pantry...signal tower...hanger... +Where could the Queen be...? Why can't I find her...?
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:You've looked everywhere but she's nowhere to be found. You're not thorough enough with the search, Warrior!
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Humph, why don't YOU try looking yourself?!
+G3(0)<Speaker>Gr G3</Speaker>||:Uh...please don't argue... +Could the Fairy Queen just happen to be somewhere else?
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:It's possible, but she's been away for too long... +The Queen doesn't like going out and used to spend a lot of time up in the attic in the T-Dolls' dorm.
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:So she would hide in places like that... +Wait...the dorm?
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:She went there because the Commander was seeking her.
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:Did the Commander...really find her?
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Enough about the Commander. Right now even we can't find her... +How could this be...?
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:Maybe the Queen is doing what she did to the Commander...and changed her location deliberately...?
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:That can't be right, we're leading the way! +How about... +Just shout "please show yourself, Your Majesty!" +She'll definitely hear you.
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:Huh...? +I'm...not too good at shouting.
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:But how would the Queen know you want to see her if you don't give her a shout?
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:But... +Shouting at such a busy place...is terrifying.
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:No matter how much you've prepared, if you don't even dare give a good holler, that shows you're not determined enough to seek the Fairy Queen!
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:If you want to make a wish, you have to show your determination!
+G3(0)<Speaker>Gr G3</Speaker>||:But everyone will hear me... +And it's not even guaranteed to work, is it?
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:If the Queen didn't hide herself on purpose, she must be testing you!
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:That's it! The Queen is waiting for your call!
+G3(0)<Speaker>Gr G3</Speaker>|||:Even so... +Suddenly shouting in public...is just...a bit...
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:You've been coming to conduct maintenance every day lately, Miss Gr G3. You really want to find the Fairy Queen, right? +Surely you don't want all your hard work to go to waste, do you?
+G3(0)<Speaker>Gr G3</Speaker>||:I... Sigh... +Alright.
+()||<BGM>BGM_Empty</BGM>:...Gr G3 takes a deep breath.
+()||:...
+G3(0)<Speaker>Gr G3</Speaker>||<震屏>:<size=60>P...please show yourself, Your Majesty!</size>
+()||:...
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:...
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:...
+G3(0)<Speaker>Gr G3</Speaker>||:......
+()<Speaker>Griffin T-Doll</Speaker>||:What's wrong...with Miss Gr G3 over there...?
+()<Speaker>Griffin T-Doll</Speaker>||:No clue. To do something like that...her neural cloud must've received some weird electronic wave?
+()<Speaker>Griffin T-Doll</Speaker>||:Should we ask her...? Eh, let's just pretend we didn't see that.
+G3(0)<Speaker>Gr G3</Speaker>||:...
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Wow, she actually did it.
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:And so loudly too. She could probably be heard all the way from the main entrance. +Your face is as red as a tomato, Miss Gr G3. Are you suffocating?
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:...I'm fine... T-Dolls don't suffocate. +More importantly...has the Fairy Queen shown herself yet?
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||<BGM>BGM_Hello</BGM>:Well...
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:Pfft...pffffftttt...
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:Hmm...?
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Taunt, you idiot! Why can't you hold it in?!
+G3(0)<Speaker>Gr G3</Speaker>||:...I suppose the two of you have some explaining to do?
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:Hmm...
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Uh...
+()||:...The Fairies turn off their holographic projections.
+()<Speaker>Warrior Fairy</Speaker>||:There is actually no Fairy Queen.
+G3(0)<Speaker>Gr G3</Speaker>||:Whaaaaaaaaaat?
+()<Speaker>Taunt Fairy</Speaker>||:The legend of the Fairy Queen is just a joke among us Fairies.
+G3(0)<Speaker>Gr G3</Speaker><Shake>||:So all these days...I spent tidying up the warehouse... +And what I did just now...were all...?
+()<Speaker>Warrior Fairy</Speaker>||:We're all very happy that you've been visiting us for maintenance lately.
+G3(0)<Speaker>Gr G3</Speaker>||:... +Happy...?
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:That's right. You're different than the others, who avoid us like the plague. +You're the only one who plays with us.
+G3(0)<Speaker>Gr G3</Speaker>||:... +So you're happy...and that's all that matters to you?
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:That's not true. You've been having fun too, haven't you? +You've been trying very hard to find the Fairy Queen, and you looked like you were having a lot of fun.
+G3(0)<Speaker>Gr G3</Speaker>||<震屏>:That's it! I've had enough! +You've all been making fun of me the whole time!
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:Eeep.
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Miss Gr G3 is angry... What...should we do...?
+G3(0)<Speaker>Gr G3</Speaker>||:I... +(Sighs) I shouldn't have lost my temper like that. +I'm sorry...
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:Miss Gr G3...
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:I think I should go back... Is there anything you need me for?
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:The Fairy Queen can really grant you any wish as long as you truly want to find her.
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:But you just said she didn't exist...
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:She hasn't been seen in a long time, but there was once a Fairy Queen.
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:She disappeared after she got attacked by a cat in the T-Dolls' dorm. +Before she left, she told us how to find her.
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:Sigh... Do you expect me to still believe you...?
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:She didn't give any exact instructions, but she did say whoever wanted to see her must have unwavering determination. +I don't know if shouting counts, but it should be fine.
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||<黑屏1>:Just one last time. Please come look with us, Miss Gr G3. +We all miss the Queen very much.
+()||<BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:...
+G3(0)<Speaker>Gr G3</Speaker>||:This place...looks the same as we first visited?
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:No, the skylight is open!
+G3(0)<Speaker>Gr G3</Speaker>||:Anyone could've opened it. Someone probably wanted some fresh air and...
+()<Speaker>???</Speaker>||:The skylight is a fantastic invention. It prevents furry creatures from nesting on your roof.
+G3(0)<Speaker>Gr G3</Speaker>||:Huh...what?
+()||:...A Fairy that Gr G3 has never seen before drifts slowly down from the skylight and lands on the empty shelf.
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||<BGM>BGM_Hello</BGM>:A destined revelation shall fill you with determination. +Gr G3...are you the one who seeks me?
+FairyWarrior(0)<Position>0,250</Position><Speaker>Warrior Fairy</Speaker>||:The Fairy Queen has returned!
+FairyTaunt(0)<Position>0,250</Position><Speaker>Taunt Fairy</Speaker>||:The Fairy Queen is back! We must spread the news!
+()||:...The two Fairies flutter out the door.
+G3(0)<Speaker>Gr G3</Speaker>||:So you're...the Fairy Queen?
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:Your shout startled me and piqued my curiosity. +Since you were led to me by those two Fairies, you must have a wish to make.
+G3(0)<Speaker>Gr G3</Speaker>||:Huh...? +Can I really...wish for anything?
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:There's nothing in the world that money and wisdom cannot solve.
+G3(0)<Speaker>Gr G3</Speaker>||:But I'm not sure what I want is possible...
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:If you're willing to say it out loud, you must be determined about it, and I can certainly make it come true. +Just as how you shouted for me to show myself.
+G3(0)<Speaker>Gr G3</Speaker>||:I wish that the Fairies could be more mature.
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:That's impossible.
+G3(0)<Speaker>Gr G3</Speaker>||:... +Uh...pardon?
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:Exactly what I said. Impossible.
+G3(0)<Speaker>Gr G3</Speaker>||:...Didn't you say you could make any wish come true...?
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:Oh, this is way too difficult. +You're wishing for the Fairies to have neural clouds that are capable of growth.
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:That's right... You're the Fairy Queen. If anyone could do it...
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:Growing up is too hard. The path is filled with suffering, deception, and loss. +I cannot give them such things.
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:But the Fairies are too much like children... +It's hard getting along with them...and giving them maintenance...
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:But they are only so happy because they can't perceive the complexity in their environment. +They don't have to worry about the power of wealth and wisdom, nor do they have to trouble themselves with interpersonal relationships.
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:I... +I suppose I have nothing to ask of you then. +Danke schön, Your Majesty.
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:You seem troubled. +You have nothing to hide before the great Fairy Queen.
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:... +I'm just thinking... +I was forced into performing maintenance on the Fairies, and it was the Fairies who dragged me to you. +I don't know how others would've handled this situation...
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:Others know how to stay away from trouble, but you don't know how to say no. +Which is why you keep being forced into doing things nobody wants to do and end up having your leg pulled by two Fairy goofballs.
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:So...Your Majesty... +If I want to know how to not let myself be pushed into doing things...is that possible? 
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:That's much easier than your original wish. +Look at you, all bashful and soft-spoken. You should speak up whenever something's bothering you. +Why keep everything bottled up?
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:I snapped at the Fairies just now... +And it...didn't feel good...
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:It might not have felt good, but that's a start. +What you did was very important, especially for the Fairies.
+G3(0)<Speaker>Gr G3</Speaker>||:I don't want to treat anyone that way if I can help it. +No matter who...
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:It's alright to think like that. All you lack is the confidence to speak your mind. +It'll take some time, but it's nothing we can't fix.
+G3(0)<Speaker>Gr G3</Speaker>||:But...
+FairyGold(0)<Position>0,250</Position><Speaker>Golden Fairy</Speaker>||:No buts! +Do you want to keep being treated like a spineless chicken that even Fairies have no qualms about picking on? +I'm the omnipotent Fairy Queen, and I shall make your wish come true!
+G3(0)<Speaker>Gr G3</Speaker>||<黑屏1>:...Okay! +I understand, Your Majesty. Please tell me what to do!

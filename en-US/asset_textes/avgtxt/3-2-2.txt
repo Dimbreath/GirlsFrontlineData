@@ -1,0 +1,18 @@
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:Somewhere at Griffin Control...+...Click.
+AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:Do you copy, M4? This is AR-15.
+M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||:Copy! Are you all right, AR-15?
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:What about me, M4?! I was worried sick about you but you didn't even ask about me!
+M4A1(3)<Speaker>M4A1</Speaker>;SOPII(0)||:SOP-II! Are you there too?
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:We're both fine. We've come to rendezvous after receiving your signal.
+M4A1(0)<Speaker>M4A1</Speaker>;SOPII(0)||:Good. M16 is still on the way, so we are to focus on getting to you first.+AR-15, shall we make this our rendezvous point?
+M4A1(0);AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:...
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:AR-15? 
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:...Ah, sure. Over.
+M4A1(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:What? Wait, wait, wait! I haven't finished talki...
+()||<黑点2><BIN>3</BIN>:AR-15's hiding place...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Sheesh, AR-15! We finally got in touch with M4!
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||:Shut up. You can talk all you want after you meet up.+Also, now isn't the time...to keep up communication.
+AR15(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Huh?+AR-15... You mean...
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(3)||:That's right... Our call was being monitored.+We're targeted...by someone dangerous...
+AR15(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Wait! Where are you going?
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||<黑屏1>:Don't follow me, SOP-II.+You have your own mission - to meet up with M4.+While I...have something else to settle.

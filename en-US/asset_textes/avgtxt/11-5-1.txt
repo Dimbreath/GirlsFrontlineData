@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:The time is 20:50...
+()<Speaker></Speaker>||<黑屏1>:...At last, RO635 and SOP-II arrive at their target's last-known location according to the maid's neural records.
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:It's a small house located in the slums.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Why are there so many small houses instead of large buildings here?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Probably because this area, like many other parts of the city, is still awaiting reconstruction. For whatever reason, they haven't been able to start the process.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:This is going to make our job difficult. We need to be careful not to alert the neighboring residents.
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Let's inspect the surroundings and make sure there aren't any traps or potential hazards before moving in.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:...No Doll signal or human life signs detected around the target location. No sign of explosives or off-site connections either.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:...The door is ajar.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<震屏><黑屏1>:Crap! Let's go in!
+()||<BIN>85</BIN><黑屏2><Night><闪屏><duration>5</duration></闪屏>:...Slam! +SOP-II runs up to the house and kicks open the door. The place has been completely trashed. A small door leading into a room has been left slightly open. +Through that door, the room has been converted into a digital database, but all the equipment has been destroyed.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:...! +RO, there's a body!
+()||:In the corner next to the window is a male body lying face-down. Blood is dripping off the window sill onto the floor. +Once RO635 and SOP-II have confirmed that the house is secure, they begin inspecting the room and the corpse.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:...He's not breathing anymore.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:Dammit, we're just a bit too late!
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I knew it. The destruction of this safe house and the maid's neural meltdown happened at the same time.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:We did all that work for nothing. Now what?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:...Now what? We keep looking, of course. +Check the equipment. Maybe there's still some data left in them.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:... (Sighs) Sadly, all of them are completely dead. The internal circuitry has been overloaded by high heat.
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:This man activated a self-destruct protocol on the system... The maid was probably killed by the same command.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:Look on the bright side – maybe the enemy couldn't get anything either?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Perhaps, but we should investigate some more...
+M4 SOPMOD IIMod-Noarmor(0)<Grey>;RO635-NoArmor(0)<Grey>||:
+()||:...RO635 studies the man's body carefully.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:This IS the informant, right? What's the cause of death? Gunshot wounds?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Yeah. Small caliber, probably subsonic with a suppressor. +No shell casings can be found at the scene. They've probably been removed. They're thorough...
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Which means no one could've noticed what happened in here...
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:He was shot in three places – the lower leg, the arm, and finally the chest. Looks like they were trying to capture him alive.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:Tsk... Damn it all... +They beat us to it again. Now we can't find out where Ange is...
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Are you sure...?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(4)||:What, you have any other ideas? Can you make a dead person talk?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:No...I mean, is this man really our informant?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:What? Isn't this the only body here?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:We're dealing with a really cautious guy. He erased his tracks and prepared all those self-destruct procedures. Not to mention, he's an information broker... Would he let himself get killed so easily...?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:You mean this isn't him?
+()||:RO dips her finger into the puddle of blood and gives it a lick.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:Eww... RO, that's gross...!
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:This isn't blood. It's a very good imitation...but it's synthesized.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:So...he's human, but his blood is artificial? +I didn't know we have that kind of technology.
+()||:RO prods the body, then flips him over.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:(Shakes head) Who said anything about human?
+()||:She feels behind the body's ear with her hand, and his facial appearance suddenly changes.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh?? What just happened??
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:This is the corpse of a Doll. A model so human-like, I almost got fooled by how real the body texture is. +There's a reset button behind his ear. Now give his face a few pokes. This kind of Doll is designed with the ability to alter their own features freely. They can disguise themselves as someone else. 
+()||:...SOP-II scrambles over and plays around with the Doll's face.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Of course, this model is strictly prohibited, but I'm guessing our informant used it as a stand-in for himself.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:For real...? That's really scary. Who'd have thought such Dolls actually exist? +And how do you know about them...?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I've read files about this particular model, but this is the first time I've actually seen one. +This kind of Doll is insanely expensive... They were originally created for entertainment purposes, but were banned after one took part in a political crime. +I'm surprised this guy even managed to get his hands on one... +Still, if it's a Doll lying here, then...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Hmm...then the real informant is actually safe at the moment?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:He disguised the Doll as himself, pulled a switcheroo, then slipped away. But the body hasn't been removed, which means the people after him probably also realized that this was a decoy. 
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:So now what? How are we supposed to find our informant on the run?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:There are no footprints outside. No security cameras around either... Let me think...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Are there really no clues...? +The dead Doll...didn't leave behind anything?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:You saw it, SOP-II. He destroyed all the equipment in the house. This Doll has also ceased to function. His neural cloud is probably fried as well.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Is there anything on the body that would tip us off, like a PDA or something?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Let me see...hmm... Doesn't seem likely, but is he holding something in his hand?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:You're right! Gosh, his grip is tight... I'm gonna pry it open! +Wait...a light is blinking... RO, duck!!
+RO635()||<BGM>BGM_Empty</BGM><震屏>:!!!
+()||<黑屏1>:SOP-II hurls herself at RO and drags her out of the room.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:Ow ow ow ow ow... Could you be a bit more gentle next time...?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Just be glad that you escaped with your life!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:For a moment there I thought you were going to slam my head into the ground... +Was that a booby trap...? +Those sneaky bastards. We really can't afford to be careless.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Definitely. We almost got blown... Wait, it didn't explode?
+()||<BIN>85</BIN><黑屏2>:SOP-II peers into the room in bemusement.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:It really didn't explode... The light is still blinking...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Like it's telling us that something's there... I'll go and check it.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Wait! What if it's a delay-action bomb?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:But we won't find any new clues if we just keep sitting here. +Look carefully. That thing is barely the size of half a hand. Even if it blows up, there won't be enough explosives to kill us both, right?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Uh...okay...
+()||:RO and SOP-II approach the Doll's body once again and pick up the blinking device in his hand.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:This is a...small hard disk... The data seem to be protected by a really secure defense protocol. I'll see if I can decrypt it.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Hey, h-hold on!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:What now?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:It didn't blow up, but what if this is the real trap? Frying your neural cloud with an offensive firewall is a lot more efficient than blowing you to bits!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Oh...that is a real possibility... But this is our only clue. We can't just stop here, can we? +Besides, even if my neural cloud did get destroyed, I could simply transfer to a new body using my memory backup...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Absolutely not!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Huh?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:If you go down now...there's no way I can finish this mission on my own... +Not to mention...I don't want to see you...drop dead in front of me...ever again...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP-II... +It...it'll be fine! I won't be done in so easily! I'll be right back!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Hey! Why don't you ever listen to me?!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Before SOP-II can react, RO closes her eyes and plugs herself into the hard disk.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Turns out...it's only a simple defense program. Doesn't seem to be a trap as SOP-II suggested... +If it wasn't set up by the enemies, then why didn't they notice this hard disk? +Hmm...never mind. Let's just see if it contains the information that we need.
+M1903(4)<Speaker>??</Speaker><Position>0,8000</Position>;RO635-NoArmor(4)<Position>-450,0</Position>||<震屏>:GUAAARGH!
+M1903(4);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Right, I knew it... Of course you wouldn't just let me waltz in here. +Self-replicating virus. Honestly, it's kind of insulting if you think that's enough to lock me out.
+M1903(4)<Speaker>??</Speaker>;RO635-NoArmor(4)<Grey>||<震屏>:GUAAARGH!
+M1903(4);RO635-NoArmor(5)<Speaker>RO635</Speaker>||<黑屏1>:I still need to be careful and try not to trash the hard disk too much. +So...ladies and gentlemen, move aside! Here comes Griffin's cleaning specialist!
+()||<黑点2><BIN>10</BIN>:

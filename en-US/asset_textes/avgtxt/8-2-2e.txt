@@ -1,0 +1,26 @@
+()||<BGM>BGM_Empty</BGM><BIN>55</BIN>：An hour later. M16 approaches the signal source.
+M16(3)<Speaker>M16A1</Speaker>||：The signal should be coming from here.+It's a factory. Abandoned, of course.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：Head inside, M16.+Find the signal and confirm it.
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：You sure you want me to go in there alone?+I gave the factory a quick scan and the internal structure seems incredibly complex. I'm not sure how long it's gonna take to find it.
+M16(0);NPC-Persica(0)<Speaker>Persica</Speaker>||<黑屏1>：Don't forget, M16, you now have access to the Sangvis mainframe.+Scan the terrain features and see if they match with the data in your neural cloud.
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>：M16 walks toward the entrance and starts scanning and matching.
+M16(3)<Speaker>M16A1</Speaker>||：Huh? This record...+I seem to possess parts of this factory's blueprint in my neural cloud?+When was it...saved in here...?
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：So it's true...+M16, you've been here before. Your neural cloud has the authorization to download the blueprint.+Once you connect to the factory's network, it should start downloading again.
+M16(2)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：I've...been here before?+But I...don't remember it at all...
+M16(2);NPC-Persica(0)<Speaker>Persica</Speaker>||：Neural clouds can be modified. Some records in yours have been completely wiped.+You know, of course...that your neural cloud can't be duplicated?
+M16(2)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Indeed...
+M16(2);NPC-Persica(3)<Speaker>Persica</Speaker>||：Which means, all your memories are singular. No back-up.+If they're wiped...those memories will really cease to exist...
+NPC-Persica(1)<Speaker>Persica</Speaker>||<BGM>BGM_Empty</BGM>：...!
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(1)||：What. Isn't that just stating the obvious?
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||<BGM>BGM_Brain</BGM>：So that's what it is...! So...they've exploited this...! Dammit!+This operation really is a crazy gamble...+I've been pretty lucky so far judging from things.
+()||：...M16 lets out a heavy sigh.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：Persica...what the hell are you talking about?
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||<黑屏1>：M16A1, do you know...about the Butterfly Incident?
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2><BIN>16</BIN>：Hmm. The accident that Lyco died in?
+Persica()<Speaker>Persica</Speaker>||：That's right... A riot took place in a Sangvis factory within a single night. Reason unknown. A complete mystery.+Lyco also died in this accident, and Sangvis Ferri has been the enemy of mankind ever since.
+M16A1()<Speaker>M16A1</Speaker>||：So this factory...is where all this trouble started?
+Persica()<Speaker>Persica</Speaker>||<黑屏1>：By the look of things...that's the only possible thought.
+M16(3)<Speaker>M16A1</Speaker>||<黑屏2><BIN>9</BIN>：Still, that's not a particularly useful piece of information to have now. I've taken over the factory's authorization and opened the door.+I'm now moving inside the factory. It's full of bullet holes, blood stains and broken parts.+Nothing important though. Somebody must've cleaned up.
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：Which is why we need to investigate the signal.+M16, ignore these trivial things and head deeper. You're running out of time.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：Ha, I honestly don't give a damn about what happened here, or how my neural cloud has been tampered with.+But I must remind you again of the reason I accepted this order even though it meant not telling my friends and the Commander the truth. You know why...
+NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>：This is the one and only order I'm giving you. It's of the highest priority, and it's absolute.+Don't worry, M16. We're on the same page about this.

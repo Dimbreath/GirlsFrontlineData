@@ -1,0 +1,21 @@
+()||<BIN>2</BIN><BGM>BGM_Empty</BGM><Night><SE1>Battlefield</SE1>:...The battle is coming to an end.
+HunterElite(0)<Speaker>Hunter</Speaker>||:I'm...at my limit...+Ouroboros...where are the reinforcements that you had promised earlier? The outpost is about to be overtaken!
+Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Even you should be aware that their target is you, right, Hunter?+It goes without saying that leaving you there is the easiest way to protect the jammer.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||<BGM>BGM_Boss</BGM>:Ouroboros...+You... You knew this was going to happen, and you intended abandon me right from the beginning, didn't you?
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Hunter, do you know how I was created?+Pitted against thousands of AIs in thousands of chess deathmatches, I was the only one to survive.+From what I can see, your value as a pawn has been exhausted.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:War is not chess! You're neglecting too many factors, Ouroboros! You will soon regret this!
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||<黑屏1>:I take everything into consideration to reach my most desired results.+....It is unfortunate for you that this is the result.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<BIN>9</BIN><黑屏2>:2612-1192a2516-31913, initiate format command.
+()||:Restarting host. Neural cloud backup in progress. Unable to connect to network. Unable to complete neural cloud backup. Switching to current access. Format complete.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:Go to sleep, Hunter. I have no use for you anymore.
+()||<BGM>BGM_NightOPS</BGM>:Ten minutes later. Squad 404 arrives at Hunter's location and begins to investigate the situation.
+HK416(0)<Speaker>416</Speaker>||<黑屏2><BIN>2</BIN><Night>:Unable to wake up Hunter. No response at all.
+UMP9(2)<Speaker>UMP9</Speaker>||:It's all your fault, Gr G11. You should've shot her legs.
+G11(0)<Speaker>Gr G11</Speaker>||:Yeah, blame me all you want. You weren't the one that had to make the shot...
+UMP45(2)<Speaker>UMP45</Speaker>||:It's not Gr G11's fault. Someone even higher up than Hunter must've shut her down.
+UMP9(4)<Speaker>UMP9</Speaker>;UMP45(2)||:Damn it! We went through so much trouble to defeat Hunter and we ended up with nothing!
+UMP9(4);G11(2)<Speaker>Gr G11</Speaker>||:So we came for nothing. Wanna go home?
+HK416(0)<Speaker>416</Speaker>;G11(2)||<SE1>Battlefield</SE1>:Let's leave now...+Hear that? New enemy forces are closing in fast.
+HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||:Perhaps...they're not after us?
+HK416(0)<Speaker>416</Speaker>;UMP45(2)||:Huh? What do you mean?
+HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:I'll be right back. 416, take everyone to the other side of the outpost and try to avoid the enemy.+Perhaps...there is still an opportunity.

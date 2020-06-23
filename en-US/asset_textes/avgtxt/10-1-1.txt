@@ -1,0 +1,134 @@
+帕斯卡()<Speaker>Persica</Speaker>||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏2>:Are you... really going to leave now?
+M4A1()<Speaker>M4A1</Speaker>||:Hmm.
+帕斯卡()<Speaker>Persica</Speaker>||:Your performance hasn't been fully tested yet, and it's extremely dangerous outside right now...
+M4A1()<Speaker>M4A1</Speaker>||:You know I have to go. +If you must stop me, disconnect me and shut me down.
+帕斯卡()<Speaker>Persica</Speaker>||:...I get it. You won't change your mind. +My private chopper is on the roof. The Commander will give you the battle coordinates...
+M4A1()<Speaker>M4A1</Speaker>||:Thank you...Miss Persica.
+()||<黑屏1>:Tactical Doll M4A1 takes her leave.
+NPC-Persica(0)<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏2>:As expected, her neural cloud has started changing after the restriction was broken... +Though this isn't really the time to ponder that.
+NPC-Persica(0)<Speaker></Speaker>||:Persica initiates a connection.
+NPC-Persica(0)<Speaker>System Notice</Speaker>||:...Connected.
+NPC-Persica(0)<Speaker>Persica</Speaker>||:...
+NPC-Persica(0)<Speaker>Sound Only</Speaker>||:Oh my, is the sun rising in the west? Why else would Lady Persica contact me?
+NPC-Persica(0)<Speaker>Persica</Speaker>||:Don't play dumb. You left that beacon in the Sangvis database, didn't you? +Don't lie to me. I knew it was you, Angelia.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:Dear me... +Being called that sure brings me back.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:You changed your codename again?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Feel free to stick with it. I quite like the name myself, especially when you say it.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:...Cut the crap. Did you leave the beacon or did you not?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Haha, finally busted.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:Since you know the address, I'm sure you've checked it out.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:The beacon is for returning a past favor. Does you no good to ask any more questions.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:You still don't trust me?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:If you're just calling to catch up with me, then sorry, I'm very busy at the moment.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:...Let's change the subject. +I found the surveillance file from back then. +But the drone was shot down in the contamination zone. I need the team to retrieve it for me.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Can't you just send the AR Team?
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:Kryuger has transferred all the T-Dolls...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:...All of them? +Damn, I look forward to seeing Griffin's next operation...
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:Are you helping or not?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:You can surely guess what actually happened even without looking at the file.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:... +Even so...I have to see it with my own eyes... +I'm sure you understand how I feel.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Tsk... +Fine. But just to make this clear, the price is not negotiable. We're making a living here, you know.
+NPC-Persica(2)<Speaker>Persica</Speaker>;NPC-Ange(0)||:As long as I have the file, name your price. +And...one more thing. I think you should know...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:This can't be anything good, so just don't say it.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:She left. I couldn't stop her.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Ha... I knew it.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:This is my other commission. +The safety of M4 and the AR Team...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:This will prove a lot more challenging than the job you just gave me. +I'm sure you know they're already within the Military's scope of influence. This is a bit beyond me.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:I know... But you're the only one who can protect them now. +After all, you...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Don't bring that up. I've forgotten all about it... +You'd better get ready to move to a smaller place. You're gonna pay us a fortune here.
+NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||:Thanks, and I don't mind... You're the only one I can count on...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Persica...
+NPC-Persica(2)<Speaker>Persica</Speaker>;NPC-Ange(0)||:But if you fail, you won't be getting a single dime from me.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||<震屏>:You absolute bastard! +I will never keep a cat even after I retire! Bye!
+()||:Angelia terminates the transmission angrily.
+NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>:You know, Angelia... +That's what all cat owners used to say.
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:Three hours later.
+无线电()<Speaker>Radio Broadcast</Speaker>||<BGM>BGM_Sneak</BGM>:Temporary Air Traffic Control to aircraft in airspace 193x432-1, state your identification. 
+驾驶员()<Speaker>Pilot</Speaker>||:This is an IOP freighter helicopter, registration number XED900002. +We have acquired clearance to enter the airspace up ahead.
+无线电()<Speaker>Radio Broadcast</Speaker>||:Stand by, IOP helicopter. We're reviewing your flight path.
+驾驶员()<Speaker>Pilot</Speaker>||:Roger that. Holding and circling.
+M4A1()<Speaker>M4A1</Speaker>||:What is it?
+驾驶员()<Speaker>Pilot</Speaker>||:It's strange. This route didn't have so much air traffic control before.
+无线电()<Speaker>Radio Broadcast</Speaker>||:IOP helicopter, the airspace you're heading to is now a military control zone. All unauthorized aircrafts are barred entry. Please divert immediately.
+驾驶员()<Speaker>Pilot</Speaker>||:Understood. Diverting.
+M4A1()<Speaker>M4A1</Speaker>||:So we can't get there?
+驾驶员()<Speaker>Pilot</Speaker>||:The airspace is in lockdown. We have no choice but to go back.
+M4A1()<Speaker>M4A1</Speaker>||:Is the ground also in lockdown?
+驾驶员()<Speaker>Pilot</Speaker>||:I'm not sure about that, but seeing that it's a military control zone, I'd say it doesn't make a difference whether you're on the ground or in the air.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Land somewhere nearby. I'll give it a shot on the ground.
+()||<BIN>4</BIN><黑屏2>:Fifteen minutes later.
+M4A1(0)<Speaker>M4A1</Speaker>||:We've landed, but even the roads are closed. +This area used to be under Griffin jurisdiction, but I can't get in touch with the Commander... +Guess I'll just have to try my luck.
+M4A1(0)<Speaker>Human Soldier</Speaker>||:Stop right there! This is a no-entry zone!
+M4A1(2)<Speaker>M4A1</Speaker>||:I am a special ops T-Doll stationed in Area S09 under Griffin jurisdiction, here to regroup and carry out a mission. +My verification code.
+M4A1(2)<Speaker>Human Soldier</Speaker>||:A Griffin T-Doll? +It's the control zone for this joint operation up ahead. All Griffin Dolls require authorization from a registered commander to gain entry.
+M4A1(2)<Speaker>M4A1</Speaker>||:I...came on short notice and haven't had a chance to meet my commander yet.
+M4A1(2)<Speaker>Human Soldier</Speaker>||:Then contact your master first, Miss Doll. +But I'd leave it if I were you. A scrawny Doll like you won't be of much use in there, especially with a weapon like that.
+M4A1(2)<Speaker>M4A1</Speaker>||:...
+NPC-Ange(0)<Speaker>???</Speaker>||:This scrawny Doll can snap your spine in a second, so I'd watch your tongue if I were you.
+NPC-Ange(0)<Speaker>Human Soldier</Speaker>||:Who are you?
+NPC-Ange(0)<Speaker>Mature Human Female</Speaker>||:Captain of the 17th Reconnaissance Squadron. My identification. Can I go in?
+NPC-Ange(0)<Speaker>Human Soldier</Speaker>||:Yes, ma'am! Please enter, ma'am!
+NPC-Ange(0)<Speaker>Mature Human Female</Speaker>||:This Doll is my adjutant. She's coming with me.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:...??
+NPC-Ange(0);M4A1(0)||:
+人类士兵()<Speaker>Human Soldier</Speaker>||:Yes, ma'am! But she just said she is from Griffin...
+NPC-Ange(0)<Speaker>Mature Human Female</Speaker>;M4A1(0)||:I just hired her.
+NPC-Ange(0);M4A1(0)||:
+人类士兵()<Speaker>Human Soldier</Speaker>||:Right! Your authorization is in order. Please enter!
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:...
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:M4A1 follows the woman into the control zone.
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>83</BIN><BGM>BGM_Room</BGM>:Miss Angelia.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:You saw the name on the ID?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Yes, but I'm afraid I can't be your adjutant. +I must find my own Commander.
+NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:...Angelia gives her a half-smile.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Should I praise you for your honesty?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:I'm merely stating a fact.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:I know. +But do you even know where to find your commander? +Your commander is right in the forefront so all relevant intel has been made confidential by the Military. You won't find out much with your current authorization.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:This is an area under Griffin jurisdiction. I'll find a way.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:It used to be. +You're a little bird that just broke free of its cage, charging blindly ahead. +You see that cloud of smoke right there? Another support troop freshly destroyed by Sangvis Ferri. +This is a real battlefield. One or two of those Vespids and Jaegers, or even just a few Dinergates can be the end of you.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Then why have you brought me in here?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Someone is paying me to help you, even if you're trying to get yourself killed.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Miss Persica?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Clever girl.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:But she never mentioned you to me. Who exactly are you?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Well...
+NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:Angie studies M4A1 intently.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:I'm just your common mercenary working for money. Nothing special about me.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:So...that ID is forged?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:To be fair, the Military has some tight security, but I AM an expert in the field. +Don't worry. I really am here to help you in my own way... Any other questions?
+NPC-Ange(0);M4A1(0)<Speaker></Speaker>||:M4A1 ponders in silence.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Please tell me what I should do.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Hmm?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:You said Miss Persica sent you to assist me. +I'm...not entirely sure how to proceed...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:So you just barged into a military control zone alone without even a plan?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:All I want is to return to my team...to my friends...and make Mastermind pay for everything she did. +But I don't know how to do that... +Maybe something's wrong with me. This makes no sense...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:You want to be stronger, but it isn't really who you are. That's why it's a bit too difficult for you.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:I...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:There's a little outpost just ahead. Wait there.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:What?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Your commander will come for you. Trust me. I'll make sure of that.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Will you...really do that?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Yep. +I don't really want to go about it like this, but I'll make you strong again.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:Again?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:The fact that you're here proves that you've already chosen your path. +And since you've made your choice, the solution should be obvious.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:But the solution isn't presented as an order, so I can't judge whether it's the correct course of action...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:That's how T-Dolls are designed, but you're different – you're special. +Making choices entails suffering, because you have to suffer the consequences of the choices you make. +But this is the only way to become stronger, and the only way for you to choose your own destiny.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:My own destiny...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1(0)||:Didn't you go through all that training for this very day, M4A1 of the AR Team?
+M4A1(0)<Speaker></Speaker>||<黑屏1>:...Angelia gives her a wave and walks away.
+安洁莉娅()<Speaker>Angelia</Speaker>||<黑屏2><BIN>9</BIN>:You've changed since then... +Keep changing. +(Only then can you become our only hope...in stopping them from getting what they want...)
+()||<黑屏1><BGM>BGM_Empty</BGM>:...
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:Meanwhile, at the Griffin outpost in Area S11.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Commander, all our supplies have arrived safely at the base! All that's left is for the Military to give the green light! +Huh? I'm being too loud? +Sorry about that, but I just can't helped being a bit worked up over an operation of this scale! Even you yourself are nervous! How often do you get up so early in the morning? +...You're right. Who could stay calm after receiving such an order? +At last...we'll be having a final showdown with Sangvis Ferri's Mastermind. +We've been exchanging fire for so long, but now that the moment is finally here, I'm actually a bit flustered. +Not to mention, this is the first time Griffin is working with the Military in a joint operation. I wonder if it'll go smoothly... +...Huh? I talk too much? Commander! How could you say that to your adjutant?! +In any case, there's no point in thinking about it. Just follow the Military's orders and it'll be fine! +Feel free to go all out on the front, Commander! I'll give you the best support you can ever dream of!
+NPC-Kalin(0)<Speaker></Speaker>||:The control room receives a transmission request.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Here it is! Our orders from the Military!
+NPC-Kalin(0);NPC-Helian(0)<Speaker></Speaker><通讯框>||:...Click.
+NPC-Kalin(0);NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Kalin, so you're here too. Perfect.
+NPC-Kalin(3)<Speaker>Kalin</Speaker>);NPC-Helian(0)||:Oh... It's just Miss Helian...
+NPC-Kalin(3);NPC-Helian(0)<Speaker>Helian</Speaker>||:What's with that disappointment...? +Commander, your echelons have reached the combat zone, but the other commanders are still on their way, so I'm giving you an important assignment.
+NPC-Kalin(2)<Speaker>Kalin</Speaker>);NPC-Helian(0)||:Oooh! We're really going all out this time!
+NPC-Kalin(2);NPC-Helian(0)<Speaker>Helian</Speaker>||<黑点1>:Five minutes ago, Sangvis Ferri ambushed multiple Griffin outposts and disrupted our supply lines. +The outposts in question are marked on the map. I need you to eliminate the Sangvis forces there to ensure safe passage for our supplies.
+NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_War</BGM><黑点2>:The forces in the Sangvis base in this area?
+NPC-Kalin(0);NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Precisely. This operation is of critical importance. Absolutely nothing can go wrong, especially since we are deep within Sangvis territory. +So I'm leaving it to you, is that alright? +...Good, Commander. We can always count on you. Good luck.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>;NPC-Helian(0)||<黑点1>:A little warm-up before the big battle? Let's go then, Commander!
+()||<黑点2>:

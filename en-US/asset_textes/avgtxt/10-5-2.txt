@@ -1,0 +1,53 @@
+()||<BIN>98</BIN><BGM>BGM_Sneak</BGM>:While the Commander is dealing with the Sangvis attack, the AR Team reaches their destination.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:That's a very safe route the Military gave us. We didn't run into much danger at all.
+M4A1()<Speaker>M4A1</Speaker>||:The Military has pretty much obliterated every single enemy along the way.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:They're...probably a bit too thorough. +Is this really a battlefield? It's quiet as a crypt.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:And it's really foggy ahead. We can only locate enemies by physically scanning for them... +Could the Military already have cleaned up all the Sangvis forces here and moved on?
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Then they should've given us the next rendezvous point. +This doesn't feel right...
+SOPII(0);RO635(0)||:
+M4A1()<Speaker>M4A1</Speaker>||:Commander, we have arrived at the warfront designated by Captain Yegor. +However...no military unit is here for the rendezvous... +There doesn't even seem to be any crossfire. No sign of the enemy either... +...Understood. We'll keep looking.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:This is very odd... No military signals, no Sangvis signals, not even a single gunshot... +M4, can you ask the Commander to let us contact the Military directly?
+M4A1()<Speaker>M4A1</Speaker>||:Sure, the Commander already agreed. The connection is being set up...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Empty</BGM>:Something's not quite right...
+SOPII(3);RO635(0)<Speaker>RO635</Speaker>||:What is it, SOP-II?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Danger</BGM>:Nope...nope, nope, nope!! Sangvis Ferri! Duck!!
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:Sangvis Ferri?! But I'm not reading any signal!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:I can smell them! They're very close!
+SOPII(3);RO635(5)||:
+？？()<Speaker>???</Speaker>||<黑屏1>:Sniffed us out already? Can't be helped then. Fire!
+()||<黑屏2><SE1>Gunfight</SE1><BIN>9</BIN>:Bang bang!
+M4A1()<Speaker>M4A1</Speaker>||:An ambush! Get down!
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:Dammit! They're shooting at us from all directions! But why am I not picking up any of their signals?!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Judging by the gunfire, they're trying to surround us!
+RO635()<Speaker>RO635</Speaker>||:Again?
+M4A1()<Speaker>M4A1</Speaker>||:There are too many of them! We must retreat the way we came before they have us completely surrounded!
+BossJustice(0)<Speaker>Judge</Speaker><通讯框>||:No can do.
+M4A1()<Speaker>M4A1</Speaker>||:!!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:It's the midget!
+M4A1()<Speaker>M4A1</Speaker>||:A new Ringleader?!
+RO635()<Speaker>RO635</Speaker>||:We ran into her once just now! She's after you! +Keep your distance! She's incredibly strong!
+BossJustice(0)<Speaker>Judge</Speaker>||:Run all you want. Dragging this longer is only going to increase your casualties. +I'm running out of time here, so I'm not holding back this time!
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:All of you, retreat to our last outpost! +RO, the connection is up. Get in touch with Yegor and ask for reinforcement. I'll talk to the Commander!
+RO635()<Speaker>RO635</Speaker>||:M4, the Military isn't responding!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:Have we wandered into another jammed area?
+M4A1()<Speaker>M4A1</Speaker>||:Impossible. I can talk to the Commander just fine. Let's move first!
+BossJustice(0)<Speaker>Judge</Speaker>||:It's no use to run, M4A1. We don't wish to harm you. +Drop your weapon and come meet our master.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Your home is already a wreck! Who are you to make demands?!
+BossJustice(0)<Speaker>Judge</Speaker>||:How do you know we didn't let you take the area on purpose?
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:What...?
+BossJustice(0)<Speaker>Judge</Speaker>||:We aren't humans. We don't exist for a "home"... +But for you, M4A1.
+()||:
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:Stop spacing out, M4! Watch your step and keep running!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Dammit! It's almost as if they know exactly where we're running! We can't shake them off! +Where the heck are the Military units? We're not gonna last long!
+M4A1()<Speaker>M4A1</Speaker>||:Don't panic. The Commander is coming for us! Keep up the defense and make for the Commander's troops...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1><SE1>m4a1_013a</SE1><BGM>BGM_Empty</BGM>:...!
+()||<黑屏2><BIN>9</BIN>:M4A1 is overcome by a sudden bout of dizziness.
+？？()<Speaker>???</Speaker>||<黑屏1>:I want to... +Finish what AR-15 had failed to do for me... +To get the answer that you haven't been able to give me...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>16</BIN><BGM>BGM_Truth</BGM><黑屏2>:Damn! +It's...that feeling again... +No, I can't let her get any closer! +Guys, hurry up and retreat! Get as far away as you can! Hurry!
+()||:...
+BossJustice(0)<Speaker>Judge</Speaker><通讯框>||:This is pretty easy without the Military in the way. +Is this distance satisfactory, Master?
+主脑()<Speaker>Mastermind</Speaker>||:Closer. +Don't hurt M4A1. The rest...
+BossJustice(0)<Speaker>Judge</Speaker>||:...Are expendable. I know. +But I'm not charging right in just so I won't injure her by accident.
+主脑()<Speaker>Mastermind</Speaker>||:Don't provoke her any further for now. Close in slowly. Let me approach her.
+BossJustice(0)<Speaker>Judge</Speaker>||:Up to you, Master. +What about the others? Should I summon them here to help?
+主脑()<Speaker>Mastermind</Speaker>||<黑屏1>:No, having you with me is enough. +She isn't running very fast anyway. This will be over soon.

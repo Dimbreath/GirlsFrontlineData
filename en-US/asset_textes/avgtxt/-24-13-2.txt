@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Danger</BGM><BIN>159</BIN><黑屏2><SE2>Gunfight</SE2>:...The battle is in its most grueling phase.
+RO635(0)<Speaker>RO635</Speaker>||:...SOP-II! +SOP-II...!
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Ugh...
+RO635(0)<Speaker>RO635</Speaker><Shake>;SOPII(2)||<SE2>Gunfight</SE2>:Get up! You're crushing me!
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry, RO, I can't... move...
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||:Don't give up! +Muster the same spirit you had when you popped that Jaeger's head! +You were just—
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:Ahh, just shut up!
+SOPII(3)<Speaker></Speaker>||:...SOP-II forcefully sits up!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:You were whining so much and taking up so much of my neural space that I didn't even have the strength to stand up!
+RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||:You were just playing dead! You wanted to slack off the moment the Military broke off the attack!
+RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:I was using the time to rest! The Military didn't break off the attack, but...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(3)||:SOP-II, get down!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:
+()||<闪屏><duration>5</duration></闪屏>||:
+()||<震屏><SE1>Explode</SE1><火花>:...Boom!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Military tanks! How did they get here so fast?!
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||:We can't beat those things... +And... +Even the Commander's reinforcements wouldn't be able to beat them either!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:... +Is this...the end for us?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||:It's the end of the line, SOP-II. +Can't you go berserk just this one last time?
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:I can't. Even I... Even I know that I can't beat those things. +And now, for some reason, I feel like I'm afraid to die...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:(Grins) I'm sorry, SOP-II. It's because of us, isn't it?
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:(Grins back) Well, we dragged each other down. I guess we're quits, then?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||:Everyone's gathered for the last time. At least use up all your ammo.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Ammo? I've long since—
+()||<闪屏><duration>5</duration></闪屏>||:
+()||<震屏><SE1>Explode</SE1><SE2>Battlefield</SE2>:...Boom—! +...Boom—! Boom—!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:...
+SOPII(2)<Speaker></Speaker>||:...Several missiles wipe out the Military armored units in moments.
+RO635(0)<Speaker>RO635</Speaker>||:So you had some left after all.
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:That wasn't me, that was...
+SOPII(2)<Speaker></Speaker>||:...Click.
+SOPII(2)<Speaker>Commander</Speaker>||<BGM>BGM_stage9</BGM>:...<c><color=#00CCFF>Is everyone alright, SOP-II?!</color><c><color=#00CCFF>Long time no see! It's been an entire day! Did you miss me?</color><c><color=#00CCFF>These new weapons pack quite the punch, huh?</color>
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:I'm fine... Wait, that sounds like...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Miss you...? You're...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:They're amazing, but who are you? Wait a minute...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:...Commander?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<黑点1>:It's the Commander—!!!
+()||<黑点2>:...
+()||<闪屏><duration>5</duration></闪屏>||:
+()||<震屏><SE1>Explode</SE1><SE2>Battlefield</SE2>:...Boom—!!! Boom—!!! +As the Griffin T-Dolls cheer, continuous waves of missiles drown the Military's mechanical and armored units in a sea of fire.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1><火花关闭>:Looks like...we got lucky. +If I knew it would turn out like this, I would've saved my tears for this moment... +Although... it makes no difference now...

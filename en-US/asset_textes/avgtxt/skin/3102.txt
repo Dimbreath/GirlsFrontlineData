@@ -1,0 +1,78 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM><黑屏2>:At the Griffin Base, inside the operations command room.
+PKP(0)<Speaker>PKP</Speaker>||:PKP reporting for duty, Commander. +My status readings are at 100% and I am ready to move out at any time. Please inform me of the target I am to destroy.
+PKP(0)<Speaker>Commander</Speaker>||:Your diligence is truly inspiring, PKP. +However, I didn't call you here to destroy anything.
+PKP(0)<Speaker>PKP</Speaker>||:Reconnaissance, then? Granted, covert operations are somewhat challenging.
+PKP(0)<Speaker>Commander</Speaker>||:That's not it either. I would have to say that...your mission this time is to— +Shoot people in the heart!
+PKP(0)<Speaker>PKP</Speaker>||:...
+PKP(0)<Speaker>Commander</Speaker>||:<color=#A9A9A9>Crap...did that joke go too far?</color>
+PKP(0)<Speaker>PKP</Speaker>||:Commander, from what I know, we ought to be protecting humanity.
+PKP(0)<Speaker>Commander</Speaker>||:No, what I'm saying is that your new mission does not involve gun battles. It's a peaceful, ordinary mission.
+PKP(0)<Speaker>PKP</Speaker>||:Then what does it have to do with shooting humans in the heart?
+PKP(0)<Speaker>Commander</Speaker>||:Ah...that was a joke.+Here's the deal. There's a themed fashion show coming up, and they need to borrow a few Tactical Dolls as models. I'll be present to deal with any sudden developments. +The tagline is something like "Wedding dresses and firearms, wield your beauty like a weapon..." +I think this mission suits you very well.
+PKP(0)<Speaker>PKP</Speaker>||:That is truly a vulgar joke. +While such missions are simply not my style... +I'll place my faith in you since you've said as much.
+PKP(0)<Speaker>Commander</Speaker>||:Wonderful. Kalina will brief you on the mission details. I'm counting on you.
+PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:Don't worry. I will flawlessly complete even a mission like this. Without fail.
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:On the day of the mission. +After finishing my work, I sneak over to the dressing room.
+PKP()<Speaker>PKP</Speaker>||<BGM>GF_Memorial</BGM>:You certainly took your time.
+PKP()<Speaker>Commander</Speaker>||:Ah... +<color=#A9A9A9>She spotted me.</color>
+PKP()<Speaker>PKP</Speaker>||:No matter how hard you try to hide your presence, humans cannot evade a Doll's senses.
+PKP()<Speaker>Commander</Speaker>||:I even waited until you finished having your makeup applied before coming here...
+PKP()<Speaker>PKP</Speaker>||<黑屏1>:Any Doll who lacks the coordination to respond to her superior officer without moving her eyes is no elite.
+PKP()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:I look inside the room from where I'm standing at the entrance. The makeup artists are hard at work around PKP, and someone is helping her adjust her dress. +She has her back to the door, and between the strands of her swaying hair, I see the light outlining her slender frame.
+PKP()<Speaker>PKP</Speaker>||<黑屏2><黑屏1>:Commander?
+PKP()<Speaker>Commander</Speaker>||<黑屏2><BIN>97</BIN>:Forgive me, I was wool-gathering.
+PKP()<Speaker>PKP</Speaker>||:Were you thinking about the work which you just finished, or worrying needlessly?
+PKP()<Speaker>Commander</Speaker>||:...<c>How could I possibly doubt your abilities? <c>Isn't this the first time you're doing this sort of thing, PKP?
+PKP()<Speaker>Commander</Speaker>||<分支>1</分支>:How could I possibly doubt your abilities?
+PKP()<Speaker>PKP</Speaker>||<分支>1</分支>:Your behavior suggests otherwise, Commander.
+PKP()<Speaker>Commander</Speaker>||<分支>2</分支>:Isn't this the first time you're doing this sort of thing, PKP?
+PKP()<Speaker>PKP</Speaker>||<分支>2</分支>:So you came all this way because you were worried about me?
+PKP()<Speaker>Commander</Speaker>||:Your powers of observation are astounding, PKP. +...Alright, I was worried about you. After all, Suomi's on this mission too, and I was worried that there'd be friction between the two of you.
+PKP()<Speaker>PKP</Speaker>||:And here I was wondering what you were so worried about... You didn't have to come by in person for something so trivial. +Her attitude has nothing to do with me, and it certainly won't affect my performance. +Just sit back and wait for me to return with good news.
+PKP()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(So something DID happen after all.)</color>
+()<Speaker>Staff Member</Speaker>||:Ah— Excuse me, move aside, move aside!
+()<Speaker></Speaker>||<震屏>:A female staff member holding an armful of teal ribbons squeezes past me while shouting. +I hurriedly apologize and make way, but the woman has already begun draping extra decorations onto PKP. +Faced with the sudden additions, PKP simply rises as directed by the makeup artists and lets them do what they want to her.
+指挥官()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(It seems there's no need to worry about her... Looks like I was overthinking things.)</color>+<color=#A9A9A9>(I'll go check on the other Dolls, then.)</color>
+()<Speaker></Speaker>||<黑屏1>:Feeling reassured, I go to look in on the other Dolls.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>137</BIN><黑屏2>:On the day of the publicity photo shoot for the fashion show. +In a certain photo studio.
+指挥官()<Speaker>Commander</Speaker>||:That's strange, isn't this the place? +Excuse me, do you know where the studio for the fashion show photo shoot is...
+()||:Just as I ask a nearby staffer for the location of the studio, a familiar voice calls out from behind my back.
+()<Speaker>PKP</Speaker>||<BGM>BGM_Moon</BGM>:Commander? What are you doing here at a time like this?
+指挥官()<Speaker>Commander</Speaker>||:Ah, thanks, I found the person I was looking for. +...
+PKP(6)<Speaker></Speaker>||:I turn around and find a completely different PKP.
+PKP(6)<Speaker>Commander</Speaker>||:PKP... <c>I had trouble recognizing you. <c>You look beautiful in that.
+PKP(6)<Speaker>Commander</Speaker>||<分支>1</分支>:I had trouble recognizing you.
+PKP(6)<Speaker>PKP</Speaker>||<分支>1</分支>:Are you too exhausted from work?
+PKP(6)<Speaker>Commander</Speaker>||<分支>1</分支>:No, you just look very different.
+PKP(6)<Speaker>Commander</Speaker>||<分支>2</分支>:You look beautiful in that.
+PKP(6)<Speaker>PKP</Speaker>||:Spasibo. +However, this outfit is very restrictive, so I hope you won't go out of your way to buy something like this for me just because it looks good.
+PKP(6)<Speaker>Commander</Speaker>||:Ah...well, we can talk about that sort of thing some other time. +Why are you outside now, PKP? Was there a problem with the photo shoot?
+PKP(6)<Speaker>PKP</Speaker>||:Just the opposite, everything went smoothly. +The mission is over, and I was preparing to return to report to you.
+PKP(6)<Speaker>Commander</Speaker>||:...So early? I heard the photos would take longer.
+()<Speaker>Passing Staff Member</Speaker>||:This lady's amazing, she is way more professional than the other models. +It didn't take much more than one round of shooting to get the best results with her. +You should really see her stage photos, she was a total star!
+()<Speaker>Commander</Speaker>||:Really now? I'm looking forward to it.
+()<Speaker>Passing Staff Member</Speaker>||:Haha, you won't be disappointed. +If we get the chance to work together again, I hope she'll be there!
+PKP(6)<Speaker>PKP</Speaker>||:That would be up to the Commander.
+PKP(6)<Speaker>Commander</Speaker>||:Naturally, we'd love to work with you if we get the chance... I won't take up any more of your time, then. See you.
+()||:The staff member heads off, leaving only PKP and myself in the studio.
+PKP(6)<Speaker>Commander</Speaker>||:... +You're incredible, PKP!
+PKP(6)<Speaker>PKP</Speaker>||:But of course. +Unlike certain other Dolls who are nothing but paper tigers, I believe that a true elite is one who can deliver peak performance in any task they're given.
+PKP(6)<Speaker>Commander</Speaker>||:I expected nothing less of you.
+PKP(6)<Speaker>PKP</Speaker>||:Rather than plying me with perfunctory praise, you ought to go check up on Suomi, Commander.
+PKP(6)<Speaker>Commander</Speaker>||:Suomi? Is something wrong with her?
+PKP(6)<Speaker>PKP</Speaker>||:Probably. +She hasn't been doing well during the photo shoots these past few days, and things weren't progressing well on her end today.
+PKP(6)<Speaker>Commander</Speaker>||:I see. I'll head over, then.
+PKP(6)<Speaker>PKP</Speaker>||:But you have no idea where Suomi is, do you?
+PKP(6)<Speaker>Commander</Speaker>||:Ah, you overheard me asking for directions just now.
+PKP(6)<Speaker>PKP</Speaker>||:Of course. +Let me take you there, Suomi should still be in the studio.
+PKP(6)<Speaker>Commander</Speaker>||:Please do. +Ah...then, PKP, give me your hand.
+PKP(6)<Speaker>PKP</Speaker>||:Whatever for? Surely you're not a teetering child who needs to be held in the hand ?
+PKP(6)<Speaker></Speaker>||:But even as she makes that gibe, PKP switches the bouquet she's carrying to one hand and slips the other into my palm.
+PKP(6)<Speaker>Commander</Speaker>||:Those heels look like they're giving you a lot of trouble.
+PKP(6)<Speaker>PKP</Speaker>||:I didn't think you'd be concerned about that.
+PKP(6)<Speaker>Commander</Speaker>||:I didn't think you'd be concerned about a colleague that you didn't get along with either.
+PKP(6)<Speaker>PKP</Speaker>||:I'm not worried about her in particular. +I'm not carrying out this mission alone, so of course I need to keep an eye on my colleagues' condition. +I might do a perfect job, but if there was a mishap because of someone else's mistakes... I won't allow such a possibility to exist.
+PKP(6)<Speaker>Commander</Speaker>||:That definitely is your style. +If it wasn't for you, I might only have learned about this later. +Thank you for bringing it to my attention, PKP.
+PKP(6)<Speaker>PKP</Speaker>||<黑屏1>:Just doing my job.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Neither of us speak after that. We simply walk together in silence. Her hand feels warm and soft in mine, like an ordinary human hand. +To an observer, the dress she's wearing probably makes her look like she's heading to a wedding with me. +Of course, I know that isn't the case. +But I also know that even after this mission is over, she'll continue walking by my side for a long, long time...

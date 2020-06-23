@@ -1,0 +1,56 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:...
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>GF_Memorial</BGM>:At the café.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>||<震屏>:Sorry to disturb! Gr G36c told me I would find Gr G36 here...
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Good afternoon, Gr PSG-1. +Unfortunately, Gr G36 isn't here at the moment.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Is that so... I'm sorry.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:If you don't mind, I could pass on your message.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Oh, I don't want to trouble you...
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:I heard the broadcast just now. +You're starting a new assignment in 10 minutes, right? +Don't worry. I'll repeat the message to her, word for word.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:That's true... +Actually, it isn't anything important. I just want to apologize to Gr G36.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Apologize?
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:I'm sure you've heard about what happened yesterday.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:It was meant to be a routine surveillance mission but you ran into organized enemy troops. Gr G36 was severely injured while covering the retreat of her teammates... +That's what I've been told.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:What a roundabout way of putting it. +Basically, I dragged everyone down. +So I want to achieve a great victory to cheer Gr G36 up.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Cheer her up? +Has she been out of sorts even before her injury?
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Yeah. I've had a feeling since a few days ago...that there's something wrong with Gr G36. +Something seems to be bothering her. She would stare at her gun like this and space out whenever she had free time.
+PSG1(0)<Speaker></Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Gr PSG-1 demonstrates by clutching her rifle close to her chest.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:I see.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:I don't know what she's brooding over, but I'm sure she'll be happy if I can turn a battle around. +My life is a bit of a mess myself so this is the only way I can think of.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:It's okay. You're doing your best. +Allow yourself to make some mistakes. You don't have to be like Gr G36.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:But...
+PSG1(0)<Speaker></Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Gr PSG-1 looks down, dejected. Springfield pats her softly on the head.
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Of course, she doesn't have to be like that either...
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker></Speaker>||:At that moment, the broadcast is repeated.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:I have to go. As for what I just said... I'll apologize to her in person when I come back! +Thanks for listening to me, Miss Springfield!
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Sure. +Oh, and Gr PSG-1?
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:Huh?
+PSG1(0);M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:I heard you destroyed the enemy's ground units at the last moment. That's very impressive, no matter what you say.
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;M1903Cafe(0)<Position>0,100</Position>||:...Haha. +You mean...at least I did my rifle here justice, right? +I still can't forget how I screwed up, but thanks for letting me talk it out of my system, Springfield.
+M1903Cafe(0)<Position>0,100</Position><Speaker></Speaker>||<SE1>Runstep</SE1>:With that, Gr PSG-1 ducks out of the room.
+M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Right. Time to prepare an afternoon tea.
+M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Oh, good afternoon, Commander.
+M1903Cafe(0)<Position>0,100</Position><Speaker>Commander</Speaker>||:Afternoon, Springfield. +Can I get a coffee...no, actually, a tea. Can I get a tea, please?
+M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Of course. +You must be exhausted.
+M1903Cafe(0)<Position>0,100</Position><Speaker>Commander</Speaker>||:I'm alright. This is nothing compared to our busiest time. +I just saw Gr PSG-1 as she left. Does she come here for afternoon tea often?
+M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||:Not really. +She came to talk to me about Gr G36.
+M1903Cafe(0)<Position>0,100</Position><Speaker>Commander</Speaker>||:What about Gr G36?
+M1903Cafe(0)<Position>0,100</Position><Speaker>Springfield</Speaker>||<黑屏1>:Well...
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:Two minutes ago, in the corridor outside the storage room.
+G36(0)<Speaker>Gr G36</Speaker>||<BGM>BGM_Room</BGM>:What are you still doing here, XM8?
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||<震屏>:Whoa! What are YOU doing here, Gr G36? You scared the crap outta me!
+XM8(0);G36(0)<Speaker>Gr G36</Speaker>||:I am here to get the ingredients for making tea. +I just heard the broadcast asking for the logistics team to assemble. Why are you still here? Shouldn't you be making your preparations?
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||:It's fine as long as I show up before we set off. I'm not gonna be late.
+XM8(0);G36(0)<Speaker>Gr G36</Speaker>||:Your orders are absolute. Arriving on time is also part of our mission.
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||:Ha... +Then aren't you keeping me from arriving on time lecturing me here?
+XM8(0);G36(0)<Speaker>Gr G36</Speaker>||:Stop being unreasonable! +You have such potential yet you never strive to improve...
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||:Jeez, Gr G36. There's always a limit to what a T-Doll can do, okay? +Rather than forcing yourself so hard you break yourself, you should understand your own limit. +There is always someone else who can do what you can't. Just leave things to the Commander.
+XM8(0);G36(0)<Speaker>Gr G36</Speaker><Shake>||<BGM>BGM_Empty</BGM>:You...!
+XM8(0);G36(0)<Speaker></Speaker>||:Gr G36 raises her arm as if to slap XM8, but stops abruptly.
+G36C(0)<Speaker>Gr G36c</Speaker>;G36(0)||:Guten Tag, s...sis? +What's happening?
+G36C(0);G36(0)<Speaker>Gr G36</Speaker>||:... +...Nothing. +Sorry but I have to go.
+G36C(0);XM8(0)<Speaker>XM8</Speaker>||:Phew...
+G36C(0)<Speaker>Gr G36c</Speaker>;XM8(0)||:What was that all about? +Are you okay, XM8?
+G36C(0);XM8(0)<Speaker>XM8</Speaker>||:I'm fine. +Your sister though... Lately, she's been... +I suppose...she's almost at her limit?
+G36C(0)<Speaker>Gr G36c</Speaker>;XM8(0)||:Don't provoke her if you know she's not doing well.
+G36C(0);XM8(0)<Speaker>XM8</Speaker>||:Well...someone has to take the initiative... +Or do you have a better idea?
+G36C(0)<Speaker>Gr G36c</Speaker>;XM8(0)||<黑屏1>:...

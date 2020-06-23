@@ -1,0 +1,24 @@
+()||<BGM>BGM_Battle</BGM><BIN>3</BIN>:Sangvis Control.
+AR15(0)<Speaker>ST AR-15</Speaker>||:What an unsightly defeat, Hunter.
+BOSS-3(0)<Speaker>Hunter</Speaker>||:I don't understand. How...
+AR15(0)<Speaker>ST AR-15</Speaker>||:I modified your command from within your own system, causing this mayhem.
+BOSS-3(0)<Speaker>Hunter</Speaker>||:Impossible. You don't have Sangvis authorization!
+AR15(0)<Speaker>ST AR-15</Speaker>||:It's a skill I picked up without even noticing. Came in quite handy, didn't it?+Maybe I'm actually special. What do you think, Hunter?
+BOSS-3(0)<Speaker>Hunter</Speaker>||<黑屏1>:...+Don't tell me...you deliberately let yourself get caught.
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2><黑点1>:...+You said it yourself. 'A true hunter would have chosen to remain silent.'+Of course, now you will be thoroughly silenced, Sangvis.
+()||<BIN>5</BIN><黑点2><BGM>home_formation_factory</BGM>:One hour later, at the rendezvous point.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Look!! It's AR-15! She's here!
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(0)||:You two sure took your sweet time. God knows how long I'd be stuck in there if I had been counting on you.
+AR15(2);M4A1(0)<Speaker>M4A1</Speaker>||:AR-15... Glad you are okay.
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4, if this commotion hadn't happened, were you really going to trade yourself for me?
+AR15(0);M4A1(2)<Speaker>M4A1</Speaker>||:I...I do not know...
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(2)||:I don't care what you were thinking, M4A1. You're the leader. Don't make stupid decisions next time.
+AR15(0);M4A1(2)<Speaker>M4A1</Speaker>||:But I...
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(2)||:We each have our own responsibilities, M4A1, and that means sometimes we don't have a choice.+Not to mention M16 is still awaiting rescue.
+AR15(0);M4A1(0)<Speaker>M4A1</Speaker>||:Yes... I will think things through more carefully next time.
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Ooooh, AR-15 just said something really cool.
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(0)||:...Come here. Let me tell you something.
+AR15(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Wait! I haven't even said anything!
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(2)||:You won't need to. I'm gonna shut you up for good.
+AR15(2);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:M4! Commander! Help!
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:... (Sighs)+Only you left, M16.

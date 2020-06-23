@@ -1,0 +1,12 @@
+()||<BGM>BGM_Room</BGM><BIN>8</BIN>:Sangvis command post successfully invaded. Relevant data uploaded.+Waiting for analysis from HQ. A moment later...
+NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Commander, the analysis is out!
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||<黑屏1>:While HQ was compiling the data, they recovered some useful information.+The good news is, VZ-61 is still alive, but is in a really tight spot...+In any case, please take a look at this video feed first.
+()||<BIN>2</BIN><BGM>BGM_Boss</BGM><黑屏2>:Video feed starts playing.+In the ruins near the battlefield, VZ-61 is being interrogated by a Sangvis T-Doll.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Your cunning slightly exceeds my calculations, VZ-61 of Griffin.
+VZ61(1)<Speaker>Skorpion</Speaker>||:All I did...was provide the possible location...
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:All you did...was stall for time.+Poor thing. You're going through this interrogation because of your friends, but they've already left you for dead.
+VZ61(1)<Speaker>Skorpion</Speaker>||:That's not true. They're gonna get help and come back for me! She promised!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Then let me remind you again, you pathetic piece of junk.+They are the AR Team, cold and highly efficient elite T-Dolls.+You are nothing more than disposable goods to them.
+VZ61(1)<Speaker>Skorpion</Speaker>||:No... Not true!+I won't believe your lies! M4A1 is my companion!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||<黑屏1>0,3</黑屏1>:She isn't your companion, pitiful thing!+Tell me where she is, and I'll be kind and let you rot on the roadside like the piece of junk that you are...+Just as your 'companions' have done.
+Scarecrow()<Speaker>Scarecrow</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>:Your emotions are merely fabricated lies.+I'm asking you one last time... Tell me where she is.

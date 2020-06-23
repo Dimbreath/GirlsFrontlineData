@@ -1,0 +1,51 @@
+()||<BIN>7</BIN><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:...
+M16(3)<Speaker>M16A1</Speaker>||<SE2>Gunfight</SE2>:This won't do, RO! We still haven't been able to get the upper hand in the last few attacks!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:At this rate, we're gonna run out of ammo! +Where the hell is M1887? Is she really helping us...?
+RO635(5)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:Focus on what you're doing! +Another round is coming! Find cover, quick!
+()||<BGM>BGM_Empty</BGM>:...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Huh...? No explosions?
+M1887(0)<Speaker>M1887</Speaker><通讯框>||:I've cut off the power source of the cannons. +You have ten minutes before auxiliary power comes online. Break through Gager's blockade and come to the safehouse in the valley!
+M16(3)<Speaker>M16A1</Speaker>||:M1887...
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Copy that! Let's go, guys!
+()||<黑屏2><BIN>8</BIN>:Ten minutes later, everyone has made it to the safehouse.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:Phew... That was close...
+M16(3)<Speaker>M16A1</Speaker>||:Such thrills... +So, M1887, I presume?
+M1887(0)<Speaker>M1887</Speaker>||:Pleasure, AR Team.
+M16(3)<Speaker>M16A1</Speaker>||:Now, could you please explain how you're navigating the Sangvis network? +Sorry, but we're just a bit curious...
+M1887(0)<Speaker>M1887</Speaker>||:And suspicious, I understand. +You do know that 16Lab has recently gained some brand-new T-Doll manufacturing technology.
+RO635(0)<Speaker>RO635</Speaker>||:You're the prototype that Persica mentioned, right? The prototype of THAT tech.
+M1887(0)<Speaker>M1887</Speaker>||:Guess whose parts I'm using?
+RO635(0)<Speaker>RO635</Speaker>||:... +Giving them a taste of their own medicine?
+M1887(0)<Speaker>M1887</Speaker>||:Not every person is born with a purpose... +But every T-Doll is created for one.
+RO635(0)<Speaker>RO635</Speaker>||:Alright, I believe you. Tell me everything you know. +SOP II, set up the comms. +We need a new encrypted channel to send a progress report to Helian.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Roger. On it now!
+()||<BGM>BGM_Empty</BGM>:Suddenly, M1887 raises her weapon.
+M16(3)<Speaker>M16A1</Speaker>||:...! +SOP II, watch your back!
+()||<SE1>Explode</SE1>:BANG!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:... +What are you doing, M1887?! Why did you blast the comms to pieces?!
+M1887(0)<Speaker>M1887</Speaker>||:Your team is missing a T-Doll. +She's gone because of Parapluie, hasn't she?
+M16(3)<Speaker>M16A1</Speaker>||:...What has that got to do with what you did?
+M1887(0)<Speaker>M1887</Speaker>||:Parapluie modules are embedded onto Sangvis equipment beforehand. They're then implanted into your comms module through physical contact. +In other words, you'll be a Parapluie carrier the moment you activate any electronic device that contains the virus.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:But...how do you know this specific device contains Parapluie?
+RO635(3)<Speaker>RO635</Speaker>||:Devices that carry Parapluie emit a different signal. It can be detected by an interceptor pattern even without direct contact. +This is the achievement of 16Lab's research. I'm always extra careful before I hack into Sangvis systems...except this time... +I'm sorry. I've overlooked it due to my nerves...
+M16(3)<Speaker>M16A1</Speaker>||:S.F. takes advantage of this and catches us off guard. +It's fine, RO. Just be careful next time...
+计量官()<Speaker>Gager</Speaker>||<SE2>Alarm</SE2>:There will be no next time, AR Team.
+BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:I finally have you... +You may have seen through my superior's little trap, but we've never placed all our bets on that anyway. +After all...I don't like winning that way...
+M16(3)<Speaker>M16A1</Speaker>||:Humph, so you're the type to proudly bully people because you have more goons?
+BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:I merely don't like probability. Only things with no variables keep me at ease. +And it must follow, as the day the night, you'll be completely surrounded by my forces with no way to escape.
+RO635(4)<Speaker>RO635</Speaker>||:Everyone heed my order! Fortify this shelter immediately!
+RO635(5)<Speaker>RO635</Speaker>||:Prepare to defend against S.F. attack and make it through the night!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Is there hope after that?
+RO635(0)<Speaker>RO635</Speaker>||:I don't know. But surely we'll stand a better chance if we manage to last till dawn? +Besides, as M16 said on the way here, Helian must have something up her sleeve.
+M16(0)<Speaker>M16A1</Speaker>||:Ha. You're more optimistic than M4 in terms of personality.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:(Smiles wistfully) All thanks to my background.
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:After all, this is my only saving grace.
+()||:... +Three hours later, on the outdoor training ground at Griffin HQ.
+NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>4</BIN><Night><黑屏2><BGM>BGM_NightOPS</BGM>:Ah, Mr Kryuger...
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:Helian, still no news from them?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Apologies. We haven't been able to get in touch.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:The weather doesn't seem to be the problem here.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Weather conditions have improved significantly, but...night has also fallen.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:Then leave it to the experts. They'll be there soon, right?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:ETA in ten minutes...
+NPC-Helian(0)<Speaker>Helian</Speaker>||:For the experts who can handle this kind of thing.

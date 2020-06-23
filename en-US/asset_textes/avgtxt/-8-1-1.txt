@@ -1,0 +1,69 @@
+()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night>:Territory of dispute, Area S09...
+FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:FF FNC. Calling FF FNC.
+()||<BIN>2</BIN><Night>:The sound of chewing comes through the channel.
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:Mghmm...nom... (Chewing)
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:(Sighs) Talk to me after you swallow your snack.
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:Mghmm! Hmm! Mghmmghmmghmm! (Chewing) +Gulp! I'm done! What's up, FAL?
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:Don't "what's up" me... I'm asking for your report obviously. +You've reached the designated base, right? Taken a good look at the abnormal Sangvis signal yet?
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:Nothing spotted yet...other than some Sangvis patrols.
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:What about 49? She's scouting at another outpost, isn't she?
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:She did report a lot of stuff. Seriously...she would report anything that twitches. +There IS something that kinda bothers me, (mutters) though it has nothing to do with S.F...
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:Do tell.
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:The weather! The weather is rather bizarre today... +Strong winds, low air pressure… The sky isn't looking very good either.
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:Tell me what you see.
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:There...+Look at those black clouds. Don't they look like a whirlpool? +You only see those on weather forecasts, right? +They're like a bunch of angry marshmellows about to explode any second.
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:You're right. But S.F...shouldn't have any weapons that can affect the weather. +Is this something to worry about? Or am I being paranoid... +FF FNC, next time you'd better...
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:(Static)
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:Quoi? What did you say, FAL?
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:(Static)
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:Tsk. Such bad timing... +That's why I keep saying FAL babbles too much! Why didn't she just get right to the point?! +What should I do now... Maybe get in touch with 49? Sounds like a plan!
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:FF FNC calling FF FN49. +...Click. +...Click...click...click. +(Static)
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night><BGM>BGM_Empty</BGM>:FF FNC... Hey...
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:Hmm...her comms are acting up too... +Or could the problem...be with me...? +Or is it...the weather?
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night>:FF FNC...watch out...
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:Huh? 49? Come again?
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night>:...Intru...+She's back...watch out!
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:Intrude? What's intruding...?
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:...Pssst!...Psst!
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:Zut! Comms are completely down! This blasted weather!
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏1>2</黑屏1>:FF FNC looks up to the sky.
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN><BGM>BGM_Danger</BGM><黑屏2>:...!
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:What...the hell is that...?
+()||<BIN>58</BIN>:Sparks appear in the center of the black swirling clouds...
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:... +This...has to be some kind of special effect, right...?
+()||<BIN>58</BIN>:It's almost like...some "spirit" is gonna come out from there...
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:...!!
+()||<BIN>58</BIN><SE1>Explode</SE1><震屏><黑屏1>:
+()||<BIN>8</BIN><黑屏2>2,0</黑屏2>:Meanwhile, at Griffin Control in Area S09.
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:Hey! FF FNC? Hey! +Comms broke down all of a sudden. Could it be the enemy...? +57, go check the connection.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:There's no problem with our comms. +By the by, I checked before you even asked.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:Being a smartass won't get you promoted, ma chère 57.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:Ouais, ouais, ouais. You prattle too much... +Anyway, don't you think this has something to do with FF FNC's report?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:The weather? I reserve my judgment. +Our network would hardly be disrupted by something this minor, and there's been no sign of S.F. using such weapons.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:But just in case, what if it isn't S.F.? +What I'm saying is that this abnormal weather could be the doing of a third party. +Of course, this could just be total nonsense, bien sûr...
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:You can be fanciful, but...I do think you have a point.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:Oh? You agree with me? Must be my lucky day.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:One learns to give credit to intuition and luck after a while on the battlefield. That's why you're my vice-leader.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:I'll take that as a compliment. +Still, it doesn't hurt to be more straightforward every once in while...
+FAL(0);FN57(0)<Speaker></Speaker>||<BIN>8</BIN><SE1>Explode</SE1><震屏>:BOOM!
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:Whoa!
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:Ack! These massive quakes...!
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:...Are originated from the northwest! ...That's the location of our mission!
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:It spread all the way here? What on earth happened?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:The precise energy source is currently unknown... Wait, the connection is up again!
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:(Pant...pant…) Is...is anybody there?!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:FF FNC! What happened over there?!
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:Thank goodness... The call finally connected! +W...We ran into Intruder!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:...! +Was that her doing just now?
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:No idea... Then...there was lightning in the sky!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:...Quoi?
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:An insanely huge lightning! It blew everything up here like a bomb!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:Could lightning...be this destructive?
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:In any case, I wasn't hit... +But Intruder vanished after that. Who knows when she's coming back. +I also found an unconscious human female nearby.
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:...A woman?
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:Blonde...wearing some weird clothes. Doesn't seem to be from around here. +But the situation is becoming critical. S.F. units are on the move because of that commotion just now.
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:We'll move in right away to provide support. Go find 49 immediately. +Protect that woman while you're at it. +Move covertly for now. Rendezvous with us before we retreat together.
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:U-Understood!
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:Commander, looks like we have to set off.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:Oh là là! We can finally stop collecting dust in here. +But if that lightning thing really is some sort of Sangvis weapon...not good, is it?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN><黑屏1>:Report this to Helian. They might be able to get some information out of Architect. +This time, things...could be well beyond our imagination. +Allons-y, it's time for Team FF to regroup.

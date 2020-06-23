@@ -1,0 +1,57 @@
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:Griffin Control.
+MG5(2)<Speaker>MG5</Speaker>||:A mission for me, Commander?
+MG5(2)<Speaker></Speaker>||:A festively adorned MG5 arrives at my office soon after I contacted her. +She must be very excited about Christmas, so I can't help but feel apologetic as I think about the favor I'm about to ask of her.
+MG5(2)<Speaker>Commander</Speaker>||:As you know, some of the little ones get unruly whenever it's this time of the year. +So to prevent any mishap from happening on Christmas Eve, I hope you can help keep everything in order at the venue.
+MG5(2)<Speaker>MG5</Speaker>||:I see. No problem.
+MG5(2)<Speaker>Commander</Speaker>||:However, you may have to actually lay a hand on those little beasts that are plotting to capture Santa Claus...
+MG5(2)<Speaker></Speaker>||:MG5 lapses into silence for a while.
+MG5(2)<Speaker>MG5</Speaker>||:That's fine, Commander. +Some people don't learn without a thorough beating. The same goes for T-Dolls. +I'd rather give them a lesson as their companion than see them make mistakes due to instability in their Neural Clouds.
+MG5(2)<Speaker></Speaker>||:MG5's rationale gives me an inexplicable sense of somberness. I feel more apologetic than ever.
+MG5(2)<Speaker>Commander</Speaker>||:I'm so sorry, MG5...for making you carry out such a mission. +It's fine if you really don't want to...
+MG5(2)<Speaker>MG5</Speaker>||:It is necessary to knock some sense into misbehaving children, especially when they are companions. +You're also doing this for their own good, so there's no need to apologize. +Please trust me with this mission.
+MG5(2)<Speaker>Commander</Speaker>||:Alright, MG5. I'll leave everything to you. +You won't be alone in this fight. To make sure nothing goes wrong, I've also gathered help from elsewhere.
+()||<BIN>83</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:Christmas Eve. T-Dolls gather around the Christmas Tree in the square and await Santa Claus' arrival.
+()||<BGM>BGM_Room</BGM>:Rather than mingling among the crowd, MG5 is sitting on a pile of supply boxes by the wall, keeping an eye on the situation in the square. +Santa Claus enters the square in a sleigh full of presents, and the crowd instantly becomes restless. +Amidst the mob, MG5 notices several sneaky T-Dolls.
+MG5(2)<Speaker>MG5</Speaker>||:I really don't want to fire at my companions...but they leave me no choice.
+()||<SE1>Reload</SE1>:MG5 feeds an ammo belt loaded with rubber bullets into the chamber of her gun. +Several petite T-Dolls appear among the crowd cradling some champagne bottles. +T-Dolls can't get their hands on equipment like stun grenades and smoke grenades within the base, so if they want to create a commotion, they have to resort to everyday items that are within reach.
+MG5(2)<Speaker>MG5</Speaker>||:Seriously. If only they would display such computing efficiency during battles.
+()||:As they start shaking the champagne bottles and aiming them at Santa, MG5 shakes her head and mounts her machine gun.
+MG5(2)<Speaker>MG5</Speaker>||:They actually came up with such a stupid idea... Looks like that's the best their neural programs can do. +With so little consideration for others, they really do deserve a proper lesson.
+()||<BGM>BGM_Empty</BGM><震屏>:Just as the T-Dolls are about to pop open the bottles, a gunshot rings throughout the square. +One of the saboteurs drop to the ground, and a hush falls over the entire square. +After a brief moment of silence, the rest of the saboteurs come to their senses and dash toward Santa's sleigh.
+Grifon T-Doll()<Speaker>Griffin T-Dolls</Speaker>||<BGM>BGM_Battle</BGM>:Now we have nothing to lose!
+Grifon T-Doll()<Speaker>Griffin T-Dolls</Speaker>||:We can't let our comrade go down in vain!
+Grifon T-Doll()<Speaker>Griffin T-Dolls</Speaker>||:For Christmas presents! Chaaaarge!
+MG5(2)<Speaker>MG5</Speaker>||:...Have their Neural Clouds gone haywire?
+()||<SE1>Gunfight</SE1>:MG5 pulls the trigger, and a torrent of rubber bullets spray from her weapon. +Meanwhile, gunshots can also be heard from the other end of the square. The small group of T-Dolls going for the presents are completely wiped out in no time.
+FAL(2)<Speaker>FAL</Speaker><通讯框>||:What a bunch of troublemakers.
+MG5(2)<Speaker>MG5</Speaker>;FAL(2)||:So you're the help the commander mentioned, FAL.
+MG5(2);FAL(2)<Speaker>FAL</Speaker>||:There's also the African reindeer on the rooftop.
+MG5(2);FAL(2)<Speaker></Speaker>||:FAL pulls up the collar of her coat.
+FAL(2)<Speaker>FAL</Speaker>||:It's cold. I'm leaving the rest to you, MG5. +I'm not really dressed for heavy work today.
+()||<BGM>BGM_Empty</BGM>:FAL turns and leaves. +MG5 takes a look at the T-Dolls lying haphazardly on the ground. She sighs, kneels down, and slaps them awake.
+MG5(2)<Speaker>MG5</Speaker>||<BGM>GF_Memorial</BGM>:Get up. Stop lazing on the ground.
+MG5(2)<Speaker>Griffin T-Dolls</Speaker>||:Oww... That hurt!
+MG5(2)<Speaker>MG5</Speaker>||:Then learn your lesson and don't do anything so stupid again.
+MG5(2)<Speaker>Griffin T-Dolls</Speaker>||:But we really...want those Christmas presents.
+MG5(2)<Speaker>MG5</Speaker>||:Santa gives everyone a present she deserves. +Besides, isn't it better to share the joy with everyone than hoarding all the presents to yourselves?
+MG5(2)<Speaker>Griffin T-Dolls</Speaker>||:Hmm, that kinda makes sense. +Then...can we still get a present? Will Santa be mad with us?
+MG5(2)<Speaker>MG5</Speaker>||:Santa forgives children that repent. +Go apologize to Santa, then queue up for your presents.
+()||:The T-Dolls sprawling dejectedly on the ground spring right back to life and bounce cheerfully to join the queue. +Watching them as they go, MG5 lets out a relieved sigh.
+MG5(2)<Speaker>MG5</Speaker>||:It's finally over...
+MG5(2)<Speaker>Commander</Speaker>||:Nice work, MG5.
+MG5(2)<Speaker>MG5</Speaker>||:To be honest, Commander, I'm not very good with children... +G36 or Springfield would probably have done a much better job.
+MG5(2)<Speaker>Commander</Speaker>||:You did well. +I would even say that you're the perfect one to deal with this.
+MG5(2)<Speaker>MG5</Speaker>||:...What?
+MG5(2)<Speaker>Commander</Speaker>||:They managed to learn a valuable lesson today all thanks to what you've done and said. +With you by their side, surely they'll come to better understand the importance of having companions in the future.
+MG5(2)<Speaker></Speaker>||:MG5 is silent for a while, but then she smiles and nods.
+MG5(2)<Speaker>MG5</Speaker>||:I hope so. +If that's the case, I would also feel more confident in having them fight solo.
+MG5(2)<Speaker>Commander</Speaker>||:There, mission accomplished. +Go get your present too, MG5.
+MG5(2)<Speaker>MG5</Speaker>||:What about you, Commander?
+MG5(2)<Speaker>Commander</Speaker>||:I still have some final touches to make. +See you at the banquet!
+MG5(2)<Speaker>MG5</Speaker>||:Alright. +I...We're all looking forward to having dinner with you, so please don't be too late.
+MG5(2)<Speaker>Commander</Speaker>||:I'll be done very soon. +But before that, I have one more thing to ask of you, MG5.
+MG5(2)<Speaker>MG5</Speaker>||:What can I do for you?
+MG5(2)<Speaker>Commander</Speaker>||:Well... +Please save me a few chicken drumsticks from those little beasts.
+MG5(2)<Speaker>MG5</Speaker>||:Pffft...
+MG5(2)<Speaker></Speaker>||:MG5 snorts in laughter.
+MG5(2)<Speaker>MG5</Speaker>||<黑屏1>:Don't worry, Commander. I will protect your well-deserved treats with my life.

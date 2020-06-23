@@ -1,0 +1,38 @@
+()||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏1>:【System Prompt】Spoiler alert - Please only proceed with the following battle after completing Episode 7 and Operation Hypothermia or reading their combat records. +Commanders who have not completed Episode 7 are recommended to exit by pressing "skip". If you keep tapping, you will be considered to have acknowledged the recommendation. +...3+...2+...1+【System Prompt】Retrieving combat records.
+()||<BIN>44</BIN><黑屏2><黑屏1>:...The Sangvis Mastermind appeared in Area S05 and severed M4A1's Imprint in an ambush.
+()||<BIN>50</BIN><黑屏2><黑屏1>:...Griffin successfully captured enemy Ringleader unit Architect at a Sangvis base in Operation Hypothermia.
+()||<BIN>9</BIN>:【System Prompt】Combat records finished loading. Reconstructing environment... +...+......
+？？()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:M4A1... +M4A1!
+M4A1()<Speaker>M4A1</Speaker>||<睁眼><BIN>34</BIN><BGM>BGM_NightOPS</BGM>:Hmm... +What happened to me...?
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:...? +... +This is...a Sangvis control room?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>16</BIN>:... +What on earth happened...after that figure appeared? +How did I get here...?
+？？()<Speaker>???</Speaker>||<黑屏1>:M4! M4A1! +Have you come to?!
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏2><BIN>34</BIN>:...Transmission request?
+()||:M4A1 takes the call.
+P08(0)<Speaker>P08</Speaker><通讯框>||:M4A1, where are you? +We need your help!
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:Huh? What...help?
+M4A1(2);P08(0)<Speaker>P08</Speaker>||<黑屏1>:There's a control interface at your location, right? +Please open the electronic map and study the situation outside.
+M4A1(3)<Speaker>M4A1</Speaker>||<BIN>41</BIN><黑屏2><BGM>BGM_NightOPS</BGM>:...?!! +What the hell is going on out there?!
+SR3MP(0)<Speaker>SR-3MP</Speaker><通讯框>||:Humph, you want to know what the hell is going on? +We only got cornered this badly because you decided to sleep through it all! +Sheesh. I told you. The AR Team doesn't give a damn about us!
+P08(0)<Speaker>P08</Speaker><通讯框>||:Stop it, Vikhr. This isn't M4A1's fault! +We must all work as a team if we want to get out of this alive!
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:P08...could you please explain what happened? +There seems to be something wrong...with my memory...
+M4A1(2);P08(0)<Speaker>P08</Speaker>||:Miss M4A1, the situation is rather dire so I'll be brief. +S.F. is currently launching a full-scale offensive on Griffin. They have already obliterated multiple areas using Parapluie, Jupiter and various other new weaponry. +Area S06, where we're in right now, is one of the very few remaining areas still under Griffin control...
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:?! How can this be...? +What happened...while I was out...? +What about M16? And SOP-II?! Where are they?
+M4A1(2);P08(0)<Speaker>P08</Speaker>||:...I'm sorry, Miss M4A1, we'll talk about that after we survive this. +You're safe where you are and S.F. shouldn't pose any threat to you.
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:But I'm...in a Sangvis control room? +I don't know how to get out. The door is locked.
+M4A1(2);P08(0)<Speaker>P08</Speaker>||:I'm really sorry but there's nothing we can do about your situation, but we do need your help. +...Your former colleague told us to contact you through this channel. +You're the only T-Doll equipped with an advanced command module here so could you please direct us away from danger?
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:... +A request from M16...? +Understood. I'll do everything I can...
+P08(0)<Speaker>P08</Speaker>||<黑屏1>:Thank you very much, M4A1. At least now we stand a chance. +Please take a look at the map. I'll explain the current operation plan as your temporary adjutant.
+P08(0)<Speaker>P08</Speaker><通讯框>||<BIN>10</BIN>:S.F. is using new tactical tech in this assault. All vanguard Ringleaders' actions are under the direct control of an AI core. +This AI core is under heavy guard deep in the battlefield and is extremely hard for us to get to. +However, what we CAN get to is the transmission device hidden in its vicinity. +We can sever the AI core's control over the vanguard Ringleaders by destroying this device.
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:So we have to find this Sangvis transmission device? How?
+M4A1(2);P08(0)<Speaker>P08</Speaker>||:We have a specialized search party. They're currently scattered around the area looking for it. +M4A1, all you have to do is cut off the enemy's intel network and make sure they remain undetected.
+M4A1(2)<Speaker>M4A1</Speaker>;P08(0)||:Got it... Let me see...
+M4A1(0)<Speaker>M4A1</Speaker>||:(What on earth is going on? Things aren't adding up to the memory in my neural cloud...) +(Griffin under attack... Losing friends and memory... Being locked up in a place like this for whatever reason...) +(No, I don't have time for this... I have to get everyone out first!) +Just to confirm, simply taking over the Sangvis command post will do, correct?
+SR3MP(0)<Speaker>SR-3MP</Speaker><通讯框>||:Yes, but do watch out for Sangvis forces. +I hope you know your night ops. You'd better not have us run right up to their faces.
+M4A1(0)<Speaker>M4A1</Speaker>||:I'm not particularly experienced with night ops, but I have basic night op tactical knowledge. +Please leave it to me. I'll complete the mission to the best of my ability.
+()||<BIN>10</BIN>:...
+M99(0)<Speaker>M99</Speaker><通讯框>||:M99 reporting in! M99 reporting in! +Sangvis Ringleader Hunter has emerged near the command post. Would all teams please accelerate your search progress.
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:So M99 is the T-Doll in charge of the search... +P08, what's your method of searching for the Sangvis transmission device?
+P08(0)<Speaker>P08</Speaker><通讯框>||:The transmission signal is encrypted with some new tech and can only be detected in close proximity. +So all we can do for now is conduct a blanket search and hope we get lucky. +I know it's insanely dangerous, but there's no other way.
+SR3MP(0)<Speaker>SR-3MP</Speaker><通讯框>||:Humph. Which is why...you'd better make it less dangerous for us.
+

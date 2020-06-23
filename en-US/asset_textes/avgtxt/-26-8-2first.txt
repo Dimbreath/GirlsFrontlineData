@@ -1,0 +1,31 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_stage10</BGM><SE1>Gunfight</SE1><火花><黑屏2>:...The rescue party is trying to break through the encirclement.
+HK416(3)<Speaker>416</Speaker>||:Something's not right! The military has changed the way they position their troops! They must've called for reinforcements!
+AK12(2)<Speaker>AK-12</Speaker>||:Nyet...not reinforcements... +It's their main force!
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I'll admit, Ange, you're better than most of the pros I've met... </color> +<color=#00CCFF>...at dying!</color> +<color=#00CCFF>My artillery force is getting into position. We'll see how much of a beating your mongrel T-Dolls can take!</color> +<color=#00CCFF>And I wonder just how tough you really are! It's time to pay your dues, Angelia!</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:That bastard is insane! He's trying to raze this place to the ground!
+AN94(2)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:Their main force is advancing! Ange, should we fall back or—
+AN94(2);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Ange passed out! We're on our own!
+HK416(3)<Speaker>416</Speaker>;SOPIIDamage(3)||:Without Ange in command, we can't put together an effective escape plan!
+AN94(4)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:AK-12, what...should we do?
+AN94(4);AK12(2)<Speaker>AK-12</Speaker>||:Keep calm. Abort the objective to escape. +Fall back to the trench and prepare to defend it!
+RO635(6)<Speaker>RO635</Speaker>;AK12(2)||<关闭火花><黑屏1>:This isn't a fair fight... +I'm afraid...we...
+NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||<黑屏2>:Sir, Ange's troops have pulled back. Our main force has also pinned down their HOCs. Should we push forward?
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Those T-Dolls will surely put up a fight. Even if we storm the hideout, their firepower is still a threat. +I don't care how many are sacrificed for victory, but I can't be so brash when it comes to vengeance. I can't let any more subordinates die at the hands of those slipshod tin cans.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:Then what are your orders, sir?
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Out of us all, which unit has killed the most ELIDs?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:The artillery force. They left no survivors along the way to get here as fast as they could.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||<黑屏1>:Just as I thought. Let them come forward and do the honor. +We'll just have to stay out here and catch our rats. +Let the artillery force channel all their wrath and raze everything to the ground! Burn that bitch and her homemaker Dolls till not even their ashes remain!
+()||<BIN>157</BIN><火花><BGM>BGM_Empty</BGM><黑屏2>:...An hour later.
+()||<BGM>BGM_Brain</BGM>:...Yegor stands before the bombardment site and beholds the masterpiece he created with artillery fire. +...Griffin's shelter is engulfed in a sea of fire and destruction. He walks away from this scorching inferno with his subordinates.
+()<Speaker>Yegor</Speaker>||<黑屏1>:In the end, my subordinate spotted Ange's corpse in the crater. Her face was obscured by the flaming tendrils dancing around her. +My greatest regret right now is that humans don't get to live a second time. +I did not get to savor the face she made as she faced her death - the desperate blubbering of a coward or the calm determination of a hero. +Whichever it was, I have sadly missed it. +Of course, this tiny regret is inconsequential compared to the gratification of our vengeance. +Once we have confirmed all the facts, we can move on... +We need to put the comrades shuffling around the battlefield to rest, then erase anything unnecessary. +In any case, this accursed strife is finally coming to an end. +It's all just a matter of time, but only those who survived can take their time to write down the history.
+()||<BIN>9</BIN><关闭火花><黑屏1><黑屏2>:...
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Brain</BGM>:...
+Nyto(0)<Speaker>Nyto</Speaker>||:We are surprised you are still capable of such deception under these circumstances. +We have truly underestimated you, Griffin Commander. +We must administer a larger, but not fatal, dosage.
+Nyto(0)<Speaker></Speaker>||:A Nyto takes out another syringe and injects the truth serum into my veins.
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:The effect starts kicking in quickly, but I can still resist it. I still have a bit of willpower...though I don't know if I'm already running on fumes...
+Nyto(0)<Speaker>Nyto</Speaker>||:Ange did not die, at least not in this battle. We saw her kill one of us with our very own eyes. +So tell us how she survived and with whom she has had dealings.
+Nyto(0)<Speaker></Speaker>||:I will tell them everything that comes to mind. +The lies, the truth. Let them guess. +I know what they're really after. I also know the consequences of giving them what they want.
+Nyto(0)<Speaker>Nyto</Speaker>||:Humans are fragile contraptions that break down easily. +If you wish to leave this facility with your mind and body intact, value the chance you have been given and tell the truth.
+()||:That's why I need time...as well as all sorts of fantasies to counter the truth serum. +How many more times will Miss Ange die in my story? +At the very least, she has to keep dying till I can live... +...
+()||<黑屏1>:

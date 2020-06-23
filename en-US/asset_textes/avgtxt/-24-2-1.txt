@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏2>:... +22 hours before the Collapse Fluid bombs went off... +...
+？？()<Speaker>??</Speaker>||:<color=#00CCFF>...M4 SOPMOD II.</color>+<color=#00CCFF>Are you still alive?</color>
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:...
+？？()<Speaker>??</Speaker>||<BIN>99</BIN><黑屏2>:<color=#00CCFF>SOP-II, can you hear me?</color>
+()||:<color=#00CCFF>...Pzzt...Pzzzzt...</color>
+？？()<Speaker>??</Speaker>||:<color=#00CCFF>...still al[static]...then res[static]...me...</color>
+()||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ow...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:What happened...? +Why isn't...anyone moving...? +I can't detect anyone's signal...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><黑屏2>:That's it! It was those Military units from back then! +They opened fire at us...and then...
+SOPIIDamage(2)<Speaker>??</Speaker>||:<color=#00CCFF>You were all betrayed, just like they planned.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:This voice...is it a forced communication? +...! The reactivation signal's being hacked!
+SOPIIDamage(3)<Speaker>System</Speaker>||:<color=#00CCFF>【Please proceed to the indicated repair unit immediately for an overhaul. Illegal reactivation will severely degrade part life. Please accept or deny this request.】</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:I can't...move...
+SOPIIDamage(3)<Speaker>??</Speaker>||:<color=#00CCFF>Your body was too badly damaged. This was the only way you could be reactivated. Bear with it for now.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Understood...I accept the forced reactivation...
+()<Speaker>System</Speaker>||:<color=#00CCFF>【Order received. Beginning forced reactivation.】</color>
+()<Speaker></Speaker>||<黑屏1>:...SOP-II's simulated neurons are awakened, and a wave of intense sensory feedback assaults her neural cloud.
+()||<闪屏><duration>5</duration></闪屏><BIN>99</BIN>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:Aaaaahhh—!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:It...it worked... +That voice just now... Was that you, M16? You're still alive?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>In a sense, yes.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:That's wonderful! +Wait a minute!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:...Your signal IFF is red...is that a Sangvis signal?!
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>...</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:What's going on, M16?!
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:<color=#00CCFF>Don't worry about that. I'm hacking into your transmission. I can't keep this up for long.</color>+<color=#00CCFF>I've marked several coordinates on your map. Find a way to get there.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑点2>:M16 is with S.F.... +Should I...actually trust her...?
+()||<黑屏1>:<color=#fff775>Completing different objectives in this mission will lead to different story routes. Once you complete an objective, you will not be able to begin the other routes until an end is reached. You will only be allowed to pick a new choice by backtracking. Routes you have already cleared will always be available.</color>+<color=#fff775>Your choices are to go to the helipad for repairs, or to fight your way to the Sangvis command post.</color>+<color=#fff775>Your decision will affect the plot progression, so please choose wisely.</color>

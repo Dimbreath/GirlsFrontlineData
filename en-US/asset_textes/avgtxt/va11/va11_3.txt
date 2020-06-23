@@ -1,0 +1,140 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN><BGM>m_va_hopes_and_dreams</BGM>:Phew... Good evening, Boss.
+Dana(0)<Speaker>Dana</Speaker>||:Good evening, Jill. +Have you gotten used to the Griffin Dolls on the streets?
+吉尔()<Speaker>Jill</Speaker>||:Not yet, they're always up to new antics every day. +They don't look like they're on patrol, more like they're here to have fun. On the way here, I even saw a couple of them betting on who could hold a one-legged crane stance in the cold wind longer.
+Dana(0)<Speaker>Dana</Speaker>||:Haha, I've seen more interesting ones. I'm guessing this is part of their testing duties.
+吉尔()<Speaker>Jill</Speaker>||:These androids look just like ordinary girls. When our White Knight friends were on duty, they had to dress like robots from head to toe. +Something must've gone wrong in our era...
+Dana(0)<Speaker>Dana</Speaker>||:Who knows, this might have been the future some human mind dreamt up 50 years ago. +Alright, time to get to work.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:Right, right, leave it to me.
+吉尔()<Speaker>Jill</Speaker>||<BIN>9</BIN>:(What should I play?) <c>Glitch City<c>Welcome To Va-11 Hall-A<c>Reminiscence
+()||<分支>1</分支><BGM>m_va_glitch_city</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_reminiscence</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN>:Time to mix drinks and change lives. +Welcome to Valhalla.
+Dorothy(6)<Speaker>Dorothy</Speaker>||:DOROTHY HAZE HAS RETURNED TO VALHALLA—!
+Dorothy(4)<Speaker>Dorothy</Speaker>||:What kind of reaction is that...
+吉尔()<Speaker>Jill</Speaker>||:Just like before, the same reaction to the exaggerated antics of an actor in a lame comedy.
+Dorothy(4)<Speaker>Dorothy</Speaker>||:It's not the same thing! I can tell, Jill!
+吉尔()<Speaker>Jill</Speaker>||:My first customer of the day for the past few days have been Griffin Dolls. +Now that a wild Lilim has suddenly appeared, it's actually kind of refreshing.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:I get it, I get it. +This bar doesn't get too many customers, so for the past few days, your only visitors have come from word-of-mouth through Griffin. +After all, your work is the same as mine — it depends on repeat customers.
+吉尔()<Speaker>Jill</Speaker>||:I'd prefer to say...I don't think I've seen you in a very long time.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Well, about that...yeah, that actually is the case. +Jill, would you mind if I brought another customer over?
+吉尔()<Speaker>Jill</Speaker>||:You've never brought friends over.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Because YOU'RE my friend. +This one's just someone I met on the way here...another one from Griffin. +Come on in, Miss O44!
+OC44(0)<Speaker>OTs-44</Speaker>||:Ah, good evening!
+吉尔()<Speaker>Jill</Speaker>||:Hello, er...
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:OTs-44, but you can just call her O44. +I met her on the way here, and she seemed to be bothered by something. +I wanted to tell her that I'm still on my shift, but then I remembered that the city has a law that prohibits me from casually soliciting outside tourists...so I brought her here. +O44, this is Jill, the best bartender in town and my best friend!
+吉尔()<Speaker>Jill</Speaker>||:That's right, I occupy the same place as a vending machine in Dorothy's heart.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Hey! Don't talk about my vending machine that way!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:In any case, I'm very happy to meet you, Miss Jill! +But this place is sure secluded, I'm actually kind of worried that I won't be able to find my way back.
+吉尔()<Speaker>Jill</Speaker>||:Hang on...Miss O44....+So you followed a Lilim that you just met on the street into the depths of this dark, cramped pauper's district?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Hey! Don't make me sound like some sort of kidnapper!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:It's fine, I heard M870 talk about this bar, so I wasn't worried.
+吉尔()<Speaker>Jill</Speaker>||:But Dorothy might not have brought you to Valhalla. +Yes, we're all decent, law-abiding citizens here in Glitch City, but there's still an element of danger.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:I have to admit, a decent "citizen of Glitch City" is an extreme rarity, so you were very lucky to have met everybody's favorite Dorothy!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:That's right, I believe in Dorothy! +Look at her eyes, see how innocent and kind they are! I knew she would never deceive me!
+吉尔()<Speaker>Jill</Speaker>||:(Yet the single biggest thing I gained from meeting Dorothy was learning how "innocent" and "kind" can be completely unrelated terms...) +In that case, what exactly is bothering you, Miss O44?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Maybe you should order something and we can take our time discussing it over a drink.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I would like...um... +A Blue Fairy, is that alright?
+吉尔()<Speaker>Jill</Speaker>||:Of course it's fine. One moment, please.
+吉尔()<Speaker>Jill</Speaker>||:(This artificial pixie ordered a Blue Fairy. It feels weird, like Dorothy and I are secretly in league to fleece her of her drink money.) +<va11><perfect>5
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||<分支>1</分支>:Ah... So sweet! +I like it! Thank you, Miss Jill!
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Alright, let's talk, Miss O44.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Actually, it's like this... +I...I think I'm in love.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:...♪ (Whistles)
+吉尔()<Speaker>Jill</Speaker>||:That should be a good thing, right?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Mm... +It's just that I'm in love with... +A telephone pole.
+吉尔()<Speaker>Jill</Speaker>||:...+ Griffin Dolls really do have different views on love compared to human beings. +But that's fine, a certain Lilim's best friend is a vending machine, after all.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Jill!
+吉尔()<Speaker>Jill</Speaker>||:I'll apologize to him on my way back from work.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:No no, what I want to say is... +The truth is, I know that my love for that telephone pole isn't sincere... +I feel that this city...has a strange effect on Dolls.
+吉尔()<Speaker>Jill</Speaker>||:I met someone like that yesterday too. Looks like this city's special characteristics don't quite seem to agree with you girls.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:I once heard a Doll say that nanomachines and too many electrical currents would affect the functions of a Griffin Doll's modules.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Maybe that's the reason for it. While it doesn't affect me too badly, it still...
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Made you fall in love with a telephone pole? +How exactly does this feeling manifest? Do you want to kiss it?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:It's kind of embarrassing... +I just...keep thinking about it...all the time. I can't stop those thoughts... +I want to touch it, climb onto it, let its electrical currents flow through me, scorch me, and then—
+Dorothy(5)<Speaker>Dorothy</Speaker>||:Uuuuwaaaaahhhh— Stop! Stop right there! I-I-I-I need to cool off! +Jill, hurry and give me a glass of the usual!
+吉尔()<Speaker>Jill</Speaker>||:Ah? O-Ohhh...
+吉尔()<Speaker>Jill</Speaker>||:(Alright, let's make a glass of Dorothy's "usual", a Piano Woman...)+<va11><perfect>18
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Catch, Piano Girl!
+Dorothy(5)<Speaker>Dorothy</Speaker>||<分支>1</分支>:Hah! Thanks, Jill! You always know me best!
+OC44(0)<Speaker>OTs-44</Speaker>||:I'm sorry, I ended up saying a bunch of weird things...
+吉尔()<Speaker>Jill</Speaker>||:Don't worry, compared to the Lilim beside you, what you said was as light as a dragonfly.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Don't be so down, O44. In Glitch City, an android falling in love with a telephone post wouldn't even make it onto The Augmented Eye.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Dorothy, Jill...do you know what really makes me sad? +These...fluctuating emotions aren't sustained or stable, and they can change at any time. +The telephone pole wasn't the first thing that I fell in love with. +Before that, I fell in love with a set of wireless earphones, and a satellite that was still in service, and a movie trailer...
+吉尔()<Speaker>Jill</Speaker>||:A...trailer?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Yes, a movie trailer. +It was for an ordinary action movie. When my mind was filled with thoughts of that satellite, the screen suddenly dazzled my eyes...or rather, my visual module. +After that, all I could do was spend the entire day in my dorm, playing it over and over again in my neural cloud. I wanted to enter the trailer, I wanted to become part of it, even if I were just a line of text! +And then...I felt that I couldn't just stay inside with those thoughts in my head, so I left the dorm, then I accidentally bumped into a telephone pole...
+吉尔()<Speaker>Jill</Speaker>||:I...I don't know what to say. Maybe you should see a doctor? Dolls should have Doll doctors, right?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Yes, but I can't describe my symptoms, and I'd like to at least figure out what's happening to me... +I feel like I've been kidnapped by the entire world, with traps everywhere forcing me to love them...
+吉尔()<Speaker>Jill</Speaker>||:If Alma were around, I think I could relate to how you're feeling, and from a technical angle she might even be able to help give you a checkup.
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:But Alma's not in today, so let the Great Detective Dorothy unravel this mystery! +O44, have you realized it yet? The critical clue which links all your serial love escapades!?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(6)||:Eh? Is there...a clue?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Hehe... +Everything you fell in love with was an electrical device, and it's all because you were subjected to an intense shock!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Now that I think about it...that does seem to be the case. +I fell down while I was listening to music, and when I looked up and saw the satellite I had water poured on me from upstairs...
+吉尔()<Speaker>Jill</Speaker>||:About that...please allow me to formally greet you— Welcome to Glitch City, Miss O44.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:It's all my fault, I might have been...too thirsty for love. I've always been curious about that human emotion... +It can't be precisely computed, so I didn't know how I could obtain it...
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:That's the problem! You were subjected to an intense shock, which forced a...strange electronic reaction between your neural cloud and a certain electrical current-generating item in your surroundings. +At that moment, your neural cloud's love-related processes suddenly went berserk and it chose the owner of that current as its target, leading to the confused state you're in! +That must be it! I can even prove it!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:H-How will you prove it?
+吉尔()<Speaker>Jill</Speaker>||:Let me guess, I'm sure Dorothy's plan definitely doesn't involve taking a Tactical Doll who is holding onto a rifle loaded with live rounds and bashing her head against the counter, right?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Of course not! Jill, it's up to you now!
+吉尔()<Speaker>Jill</Speaker>||:Me?
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:Bring out the most intense drink you have!
+吉尔()<Speaker>Jill</Speaker>||:Oh, I understand. +But there's too many electrical devices around, are you sure it won't cause any accidents?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Look at us, Jill. +What's the closest electrical appliance to Miss O44?
+吉尔()<Speaker>Jill</Speaker>||:Let me guess... +Oh god...it's you, the DFC-72 class Lilim Dorothy!
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:Let's have some fun with this! +If my conclusion is correct, O44 will immediately fall in love with me after we get a stiff drink into her!
+吉尔()<Speaker>Jill</Speaker>||:Are you sure you don't have evil intentions, Dorothy?
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:I'm performing scientific research! Who knows, I might make it into a scientific journal because of this. It'll be good for both our jobs, right?
+吉尔()<Speaker>Jill</Speaker>||:Then you'll need to get Miss O44's approval, at least.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I'm curious about this! +I'm not discriminating against telephone poles or satellites, but I think that loving a Lilim for the time being will ultimately be more...convenient.
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:At the very least, I'll return your affection, honey!
+吉尔()<Speaker>Jill</Speaker>||:Alright, alright, to be honest, I'm actually kind of curious about this, or maybe I'm just bored. +Are you ready? Let's enter Dorothy's World together!
+吉尔()<Speaker>Jill</Speaker>||:(I'll give Miss O44 a good, strong Fringe Weaver, and if anything happens I'll shift all the blame to Dorothy.) +<va11><perfect>10<good>13,14,17
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here, it's a Fringe Weaver. Try it, Miss O44. I hope you like the taste of sugar and industrial alcohol...
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||<分支>1</分支><BGM>BGM_Empty</BGM>:I like sugar, at least...
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM>:Go slow, I'm not sure if you can handle this drink. A lot of people can't take it.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||<BGM>m_va_every_day_is_night</BGM>:No no, you need to down it in one gulp to get the desired impact!
+吉尔()<Speaker>Jill</Speaker>||:If anything happens to the bar because of you, Dorothy... +The Boss is going to scrap you, then beat the crap out of you, and then she's going to put your mind into the control panel for her room and then beat you up again!
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:That would be the fault of your drink, so better pray nothing goes wrong, Jill. +Don't worry, O44, this bar is BTC-certified. Now hurry!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I understand... +... +Glug...!
+吉尔()<Speaker>Jill</Speaker>||:(She really finished it all in one gulp!)
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Hehe, do you believe the wisdom of Dorothy now? +How do you feel now, O44? Look at me, do you feel a new love coming on?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:...
+吉尔()<Speaker>Jill</Speaker>||:Something's not right, Dorothy.
+OC44(0);Dorothy(3)<Speaker>Dorothy</Speaker><Shake>||:No...no way. +Miss O44? Miss O44!?
+吉尔()<Speaker>Jill</Speaker>||:I think she crashed.
+OC44(0);Dorothy(2)<Speaker>Dorothy</Speaker>||<震屏>:Uwah! We broke a Griffin Doll! We'll make the news! And then we'll go to jail! +But before I go to jail, the Boss will scrap me, then beat the crap out of me, then stuff my mind into her room's control panel, then scrap me again, and then beat me up again!
+吉尔()<Speaker>Jill</Speaker>||:How many times can you be scrapped... +Wait, she's moving!
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(2)||:Nngghhh...
+OC44(0);Dorothy(2)<Speaker>Dorothy</Speaker>||:Thank goodness! O44, are you alright!?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(2)||:I'm...fine...
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:How...do you feel now?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I...I... +I think I'm in love with something new...
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:Bravo! You see, Jill, I was right! +Now hurry up and tell us, are you in love with me?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(6)||:I...love... + ..."Dorothy".
+OC44(0);Dorothy(6)<Speaker>Dorothy</Speaker>||:Haha, see, Jill—
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(6)||:No, not Miss Dorothy...
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:What? Didn't you just say "Dorothy"?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I love... +The name "Dorothy".
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Hahhhhh!?
+吉尔()<Speaker>Jill</Speaker>||:Wow, looks like truth really is stranger than fiction.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Whenever I hear the word "Dorothy", my entire body gets hot, and I feel...I feel...
+吉尔()<Speaker>Jill</Speaker>||:"Dorothy"?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Hm...doesn't seem like there's a reaction.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Looks like it's only when I say it, then?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:It's true...right now I want to hear you say that name very much!
+OC44(0);Dorothy(4)<Speaker>Dorothy</Speaker>||:Oh lord, this sounds utterly ridiculous. She's in love with my name from my mouth, an electronic vocalization! +...If I'd known this earlier, I would have gone with a spicier word!
+吉尔()<Speaker>Jill</Speaker>||:Congratulations, Dorothy, your research has opened up a brand new field, maybe you should switch back to using the name "Becky" tonight.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:Well, I can take responsibility for tonight, at least— Come, Miss O44, where's your dorm? I'll send you back. +I should look for your Commander and explain the situation to him face to face, lest you think I'm trying to dodge the blame for this.
+吉尔()<Speaker>Jill</Speaker>||:(Frankly, I wonder if she's trying to do overtime...) +Miss O44, regarding tonight's farce...we're both terribly sorry.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:I should be sorry...Miss Jill... +As a Doll, I shouldn't have tried to fantasize about human love... In the end I just messed up everything around me...
+吉尔()<Speaker>Jill</Speaker>||:It's fine, Miss O44. +Fundamentally...human love is a hundred times wilder, more confusing, and harder to control than what you experienced tonight.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:But...I don't even know if it's true "love"...
+吉尔()<Speaker>Jill</Speaker>||:When you stepped into this bar, did you love every single telephone pole in the world?
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:No, I only loved the one at the corner of Saber Station...
+吉尔()<Speaker>Jill</Speaker>||:Then that's love, Miss O44.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Is that so... +That feeling...it was very nice.
+OC44(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:That's too long for a quote, Jill. I'll need to print it all on Alma's sweater to get it all down. +Let's go, Miss O44. I'll say my name as many times as you want along the way.
+OC44(0)<Speaker>OTs-44</Speaker>;Dorothy(0)||:Goodnight, Miss Jill, and thank you.
+吉尔()<Speaker>Jill</Speaker>||<黑点1>:Goodnight, you two.
+吉尔()<Speaker>Jill</Speaker>||<BGM>BGM_Empty</BGM><黑点2><黑屏1>:Whew... + ... +Dammit, I'm actually jealous of an android...

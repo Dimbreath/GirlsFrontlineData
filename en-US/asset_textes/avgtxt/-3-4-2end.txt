@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Danger</BGM>:... +......
+BOSS-9(0)<Speaker>Architect</Speaker>||:Jeez... Is playing hide-and-seek your only trick? +I just wanted to have some fun, but at this rate you're gonna piss me off for real. +I've figured out the pattern of your movements, black shirts... +I can tell which outpost you're gonna pop up at ten minutes later. +Humph, you're in for a nasty surprise there! And you're gonna regret pulling stupid pranks on me!
+()||:Ten minutes later.
+()||<SE1>Explode</SE1>:BOOM!
+BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Heheh! That shot must've been a pretty good hello! +Let me go and see how it worked!
+()||<BGM>BGM_Empty</BGM><BIN>7</BIN><Night><黑屏2>:...
+BOSS-9(0)<Speaker>Architect</Speaker>||:Huh? Where are they? +Why...aren't they here?
+BOSS-7(0)<Speaker>Gager</Speaker><通讯框>;BOSS-9(0)||:Architect!
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Huh? Looking for me? Have you caught the AR Team?
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:You... +You IDIOT! Has your AI shorted?! Why did you leave the base?!
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Hmm... +Chill. I've set up the defense program. There's no way they could get in.
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:That's not the problem! The T-Dolls have already gone around the mortars and run away while you're out!
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||<震屏>:Whaaaaaat?! +That can't be right! How would they know when I would set off?!
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:Did you power off the mortars when you left?
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:No, I had to corner them with the mortars and... +Oh! +So that's why!
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:(Sighs)
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Arghhh! Do you expect me to understand something this complicated?!
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:Never mind... +Return to the base immediately and go on red alert, do you copy?
+BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Hey, how dare you order me around?! I'm your superior...
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:DO. YOU. COPY?!
+BOSS-7(0)<Speaker>Architect</Speaker>||<震屏>:Whoa! A-Alright! (Runs)
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:... +We can't let them escape... +I absolutely won't have Dreamer belittle us again!
+()||<黑屏2><BIN>9</BIN><BGM>BGM_War</BGM><SE2>Gunfight</SE2>:Meanwhile.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:M16, I'm running low on ammo!
+M16(3)<Speaker>M16A1</Speaker>||:Same here! I'm out of grenades! What about you, RO?!
+RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:(Throws) This is the last one. Save it.
+M16(3)<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:Thanks. I hope I'll live long enough to use it.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Don't say such things! I don't wanna die in a place like this!
+M16(0)<Speaker>M16A1</Speaker>||:Just kidding. After all, we've almost made it through the night.
+()||<SE1>Battlefield</SE1>:...
+M16A1()<Speaker>M16A1</Speaker>||:I think Helian...is about to show the ace up her sleeve.
+()||<SE2>Gunfight</SE2>:...!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:Gunfire! From allies!
+UMP45()<Speaker>UMP45</Speaker>||:Did you miss me? +...♪
+M16A1()<Speaker>M16A1</Speaker>||<黑屏1><SE2>Gunfight</SE2>:... +So it really is you...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>49</BIN><火花>:Do you still wish you'll never see us again?
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:Ha... +Business is business. That's what you taught me.
+UMP45()<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:Exactly. Otherwise, I would never come to such a place... +Sadly...this is fate.
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:It's just an order, 45. +Hand me some ammo. I'll pave the way.
+UMP45()<Speaker>UMP45</Speaker>||:You think...I'd brought you ammo?
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1><黑屏1><关闭火花>:Of course... +I don't expect you to go in the front and eat bullets for us, minx.
+()||<BIN>9</BIN><黑屏2>:...
+M16A1()<Speaker>M16A1</Speaker>||:Grenade!
+()||<黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:BOOM!
+()||<BIN>8</BIN><黑屏2><Night>:Five minutes later, at the AR Team's temporary shelter.
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:Is everyone here?
+M16(3)<Speaker>M16A1</Speaker>||:Phew... No one got left behind...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:So you're the legendary 404, right?! +Have you come all the way to our rescue?
+UMP9(3)<Speaker>UMP9</Speaker>||:Tee-hee, of course! +After all, we're experts in night ops.
+M16(3)<Speaker>M16A1</Speaker>||:... +I'll give you that. But why hadn't you contacted us in advance?
+UMP45(0)<Speaker>UMP45</Speaker>||:Because there's more than one Ringleader in the area. We didn't want to alert the other one.
+RO635(0)<Speaker>RO635</Speaker>||:So it's true... +Thank you for coming to our rescue, members of Squad 404.
+HK416(0)<Speaker>416</Speaker>||:Don't bother. It's just an order.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Still...how did the four of you manage to fight against Gager?
+G11(0)<Speaker>Gr G11</Speaker>||:Uh... +It's...no longer Gager alone.
+RO635(4)<Speaker>RO635</Speaker>||:Pardon?
+G11(2)<Speaker>Gr G11</Speaker>||:We've probably pissed off the other one as well...
+RO635(0)<Speaker>RO635</Speaker>||:UMP45, you're the leader of Squad 404. +The situation is critical. Surely you have a plan to get us all out of here?
+UMP45(0)<Speaker>UMP45</Speaker>||:I do have a few ideas, but... +We've fought off this round of Sangvis attack. Let's leave the shelter first.
+()||:UMP45 walks out of the shelter.
+HK416(0)<Speaker>416</Speaker>||:...
+M16(3)<Speaker>M16A1</Speaker>||:Um...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Ah, 416 is gone as well. +You know her, M16?
+M16(3)<Speaker>M16A1</Speaker>||:Sort of... +But that's not important... +RO, stay in command, okay?
+RO635(0)<Speaker>RO635</Speaker>||:Ah...I will. I have the highest command efficiency after all.
+M16(3)<Speaker>M16A1</Speaker>||:That's not what I meant. +If you want every single T-Doll to make it home, hold on tight to your command... +Do NOT hand it over to UMP45, do you understand?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Yeah...I will.
+()||<黑屏2><BIN>6</BIN><Night>:...
+UMP45(0)<Speaker>UMP45</Speaker>||:It's almost dawn... +Looks like you're all set to go, Miss RO635?
+RO635(0)<Speaker>RO635</Speaker>||:... +How would M4A1 answer you?
+UMP45(0)<Speaker>UMP45</Speaker>||:I've never met her, so I don't know.
+RO635(0)<Speaker>RO635</Speaker>||:You've never met me either, have you?
+UMP45(0)<Speaker>UMP45</Speaker>||:M16 told me you're...a secret experiment. +I try not to stir up extra trouble so as not to jeopardize the mission, but I'm curious... +Are you willing to be...such a "thing"?
+RO635(0)<Speaker>RO635</Speaker>||:...I don't find it disagreeable for the time being.
+UMP45(0)<Speaker>UMP45</Speaker>||:You don't necessarily have to live in the shadow of M4A1... +Besides, her neural cloud isn't particularly mature, so she probably wouldn't have performed much better than you.
+RO635(0)<Speaker>RO635</Speaker>||:She managed to keep everyone safe in the last operation. That is something I definitely wouldn't have been able to do.
+UMP45(0)<Speaker>UMP45</Speaker>||:The point is, you two are different T-Dolls on different missions... +Why don't you be yourself instead of someone else's substitute?
+UMP45(0)<Speaker>UMP45</Speaker>||:Do you truly wish to protect everyone?
+RO635(0)<Speaker>RO635</Speaker>||:... +You don't disappoint, UMP45. I have heard a few things about your squad... +To maintain efficiency, I'll be in charge of the rest of the operation, any objections?
+UMP45(0)<Speaker>UMP45</Speaker>||:None whatsoever... +I'm sure you'll do a much better job than I, Miss RO... +May I call you that?
+RO635(0)<Speaker>RO635</Speaker>||:Sure, everyone does. +We just want to get out of here as quickly as possible, 45. Can I count on you for help?
+UMP45(0)<Speaker>UMP45</Speaker>||:That's the job Helian has given me. And business is business. That's my motto.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Thank you. That's all I need to hear.

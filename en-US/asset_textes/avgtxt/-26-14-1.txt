@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Boss</BGM>:...The night is over and the sky starts turning a pinkish white. Everyone is making their final preparations for the decisive battle.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:New enemies?! Why didn't you mention anything?!
+HK416(0)<Speaker>416</Speaker>||:Our mission so far didn't have use for such information! +Have you got any clue, Ange?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:No...but I might be able to make a guess going by their characteristics. What do they look like?
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:You'll see for yourself soon.
+AN94(2)<Speaker>AN-94</Speaker>||:Making all those bombs just now has weakened our HOCs' firepower significantly. +If they use up all the remaining artillery shells now, our next move...
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Use them all. Save nothing. This is our last move. +Commander, how are you doing?
+()<Speaker>Commander</Speaker>||:... <c>Crap, but thank goodness you're on your way, SOP-II and RO. <c>I'm alright. At least I'm glad to see you've brought Ange back safe, 416. <c>Are you sure you want to come get us, DEFY?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Heheh, of course we are! You're our Commander!
+RO635(6)<Speaker>RO635</Speaker>||<分支>1</分支>:Even though I'm stuck in this form...I'll still do my best for you!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Commander, you've helped us out so many times. This time, let us save you!
+RO635(6)<Speaker>RO635</Speaker>||<分支>1</分支>:Please hang in there, Commander!
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:Of course I have. This is me we're talking about, Commander. You should have complete faith in me. +That also applies to this mission to rescue you.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<分支>2</分支>:Commander, I honestly didn't expect such persistence from you. Are you doing this just because it's your job? Or do you sincerely like it in Griffin? +Whatever the case, I WILL repay you. Of course, rescuing you this time won't be enough, but it's a start.
+AK12(0)<Speaker>AK-12</Speaker>||<分支>3</分支>:Can't be helped. Ange's orders. +Just kidding. You've helped us and Ange out so many times. We should do something to return the favor.
+AN94(0)<Speaker>AN-94</Speaker>||<分支>3</分支>:Besides, this operation requires a triumphant conclusion. +It is our honor to see everything through to the end.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Right, girls. While not everyone is here, almost all the subordinates I've ever had are with me now. +I've looked through 416's report. These enemies are powerful and enigmatic, but they have only one objective - to capture the commander. +We will NOT let them get what they want. The commander's team will do their best to slow them down, while we'll break through their encirclement and extract the commander from the safe house...
+AK12(2)<Speaker>AK-12</Speaker>||:Have you seen these stats, Ange? This is gonna be a very tough fight.
+HK416(0)<Speaker>416</Speaker>||:The black Doll alone almost turned the entire Griffin base upside down, and this white one could only be even more advanced!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1>:I know. My experience tells me our chances aren't good at all. +But they never are, are they? In any case, the commander needs us now. +We MUST succeed and achieve this one last victory for the commander! Let's go!
+NytoWhite(0)<Speaker>White Doll</Speaker><通讯框>||<BIN>10</BIN><黑点2>:<color=#00CCFF>Good morning, Griffin Commander.</color> +<color=#00CCFF>Do not resist or we will destroy all your subordinates.</color>
+()<Speaker>Commander</Speaker>||:... <c>You won't, monster! <c>Oh really? I'm terrified. <c>You're calling just to say that?
+NytoWhite(0)<Speaker>White Doll</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>If we fail, we die. Since we cannot die, we will succeed.</color>
+NytoWhite(0)<Speaker>White Doll</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>I perceive no fear in your voice. Are you deceiving me?</color>
+NytoWhite(0)<Speaker>White Doll</Speaker><通讯框>||<分支>3</分支>:<color=#00CCFF>Yes, we wish to observe your reactions and compare them to the data we have in your profile.</color>
+NytoWhite(0)<Speaker>White Doll</Speaker>||:<color=#00CCFF>Subject did not react in despair. Supposition inaccurate.</color> +<color=#00CCFF>Further observation to be conducted after the subject is captured.</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:We won't let you, puppet! We're going to break through your blockade and rescue the commander!
+NytoWhite(0)<Speaker>White Doll</Speaker><通讯框>||:<color=#00CCFF>All your efforts are futile.</color> +<color=#00CCFF>Since you will not lay down your arms, I will prove that to you soon.</color> +<color=#00CCFF>Now, Nytos, let the hunt begin!</color>

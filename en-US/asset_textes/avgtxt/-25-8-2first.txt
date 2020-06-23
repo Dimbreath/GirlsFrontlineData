@@ -1,0 +1,16 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Sneak</BGM><BIN>159</BIN><黑屏2>:...Battle concluded.
+Mk12(0)<Speaker>Mk 12</Speaker>||:What a boring fight.
+Mk12(0);AK74U(0)<Speaker>AK-74U</Speaker>||:That's probably because we have plenty of manpower to spare.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:It was just a probing attack, they won't call it a quit at that.
+HK416(0);A91(0)<Speaker>A-91</Speaker>||:They're learning everything they can about us, then they'll kill us all in one go. +I'm guessing the final attack won't be far off.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;A91(0)||:The enemy's gonna launch their final offensive soon; we should head back! Let's go, let's go!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker><Shake>||:Whoa! Slow down, SOP-II!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;RO635(6)||<黑屏1>:SOP-II! Be careful with RO; she's about to fall off!
+AK74U(0)<Speaker>AK-74U</Speaker>||<黑屏2>:Have you given what I said some proper thought, 416?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:Haven't got the time. Maybe later...
+HK416(0)<Speaker></Speaker>||<SE1>Alarm</SE1><BGM>BGM_Empty</BGM>:...Whirrrr—! +...An ear-splitting klaxon goes off on everyone's comms.
+HK416(0);NPC-Kalin(4)<Speaker>Kalin</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>Attention, everyone! The unknown enemies are launching a massive attack on the base!</color> +<color=#00CCFF>All hands, follow the Commander's instructions and go to your battle stations!</color>
+HK416(3)<Speaker>416</Speaker>;NPC-Kalin(4)||:So soon?! Those Dolls dressed in black— +Still...is this their final offensive... +After that, I'll have to be on my way...
+HK416(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:What are you doing, 416? Hurry!
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Or do I actually have a choice...?

@@ -1,0 +1,76 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>187</BIN><黑屏2><BGM>m_va_digital_drive</BGM>:...The chase continues, with Dana and Architect's cars neck to neck. The White Knights are behind them.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>Dana! Ahead of you! It's a cliff!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Hehe, you just won't let me go, will you?</color>
+Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Of course, you're my final prey — Can you hold on tighter, shorty?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||<震屏>:<color=#00CCFF>What what what what what are you going to do!?</color>
+Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Exactly what you have in mind! That's right, you guessed it!</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>I told you there's a cliff up ahead! Are you insane!?</color>
+Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>You're a Doll, so what if you get broken in the fall?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>I'm worried about YOU! Who's going to get me out of here after this!?</color>
+Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Don't worry, I know what I'm doing! Hang on!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Still not going to brake, human? I'll bet three backup bodies that my reflexes are faster than yours, and I can afford that bet too!</color>
+Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>I agree, you'll definitely beat me in a game of chicken...</color> +<color=#00CCFF>But I don't intend to brake.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<黑屏1><震屏>:<color=#00CCFF>What—!?</color>
+()<Speaker>Dana</Speaker>||<BIN>9</BIN><黑屏2>:Darling— +Are you ready to go to hell with me?
+()<Speaker>Super-Shorty</Speaker>||:AAAAAAAHHHHHHHH!
+()<Speaker></Speaker>||:...Bang! +Dana's car crashes into Architect's, and both vehicles plunge off the cliff together.
+()<Speaker></Speaker>||:...+...
+()<Speaker>Super-Shorty</Speaker>||:Cough cough… Cough... +Dammit... Dana! Dana, where are you!?
+()<Speaker>???</Speaker>||:<color=#00CCFF>Beep- beep-</color> +<color=#00CCFF>Sorry, but the user you have called is not in network range.</color>
+()<Speaker>Super-Shorty</Speaker>||<黑屏1>:...! +Architect! Cough cough...
+()<Speaker></Speaker>||<BIN>187</BIN><黑屏2>:...Architect dusts herself off and adjusts her hair.
+BOSS-9(0)<Speaker>Architect</Speaker>||:That was pretty fun, kiddo. But a single native and a shorty like you aren't enough to catch me. +Now get out of my way, I've got a job to do.
+()<Speaker></Speaker>||:...Super-Shorty struggles to her feet and raises her weapon.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:First off, don't call me short again. +Second, I won't let you leave this place.
+SuperShorty(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Oh? Have I snatched you before?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:I don't remember, but I only remember that I hate you...
+SuperShorty(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Isn't that ridiculous? I could understand if you hated Executioner, as she's always owed people money. +But me? I'm a good girl who's done no harm to man or beast. I've never hurt anyone before! +Now, get out of my way or I'm really going to get mad.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||<SE1>Select</SE1>:...Dream on.
+BOSS-9(0)<Speaker>Architect</Speaker>||:...+(Sigh) I don't like opening fire at this range, but that doesn't mean I won't. +You asked for this, kiddo—
+()<Speaker></Speaker>||<震屏>:...Bang! +... Thud! +...Architect wobbles, then collapses.
+Dana(0)<Speaker>Dana</Speaker>||:Whew... you alright, shorty? +I knew carrying a baguette on me would end up coming in handy someday.
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:You...took down a Doll with a loaf of bread?
+Dana(0)<Speaker>Dana</Speaker>;SuperShorty(0)||:French, with sesame seeds added. +Come on, shorty. You did well, but don't take a risk like that in future.
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I don't know why, I don't understand why I hate S.F....
+Dana(0)<Speaker>Dana</Speaker>||:Haha, who knows, you might really have been a White Knight in the past, hm?
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:We don't have midgets like her among the White Knights.
+Dana(0)<Speaker>Dana</Speaker>||<BGM>m_va_troubling_news</BGM>:You're late again, Jericho. Did your cars get all clogged up with sand?
+Dana(0);Jericho(0)<Speaker>Jericho</Speaker>||:It's because we took a saner route.+I'm getting used to seeing you in all kinds of godforsaken places, Dana.
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:Well, I'm not used to seeing the White Knights show up, especially when they've got the same target as me.
+Dana(0);Jericho(0)<Speaker>Jericho</Speaker>||:We usually classify actions like yours as..."obstruction of police business".
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:Really? I'd call it "friendship".
+Jericho(0)<Speaker>Jericho</Speaker>||:Only humans would believe in that sort of nonsense. What I want is something more concrete.
+()<Speaker></Speaker>||:...Jericho kicks the unconscious Architect.
+Jericho(0)<Speaker>Jericho</Speaker>||:The target's head is intact. Take her back to the vehicle and scan her memory module. +We've finally seized the last S.F..
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:My car's a write-off. Would you mind fronting me a few Repair Fairies as payment? Thanks would be nice too, by the way.
+Jericho(0)<Speaker>Jericho</Speaker>||:First off, this isn't your vehicle. Secondly, you showing up messed up my plans, and let's not talk about how I'm going to arrest you if your strike to her head ended up damaging her memories. +Dana, aren't you aware that the martial law specifies to not engage and hurt another party?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||:So what did Architect do?
+SuperShorty(0);Jericho(0)<Speaker>Jericho</Speaker>||:Isn't being who she is enough to get arrested? And who is this midget anyway?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||<震屏>:Don't call me a midget!
+Jericho(0)<Speaker>Jericho</Speaker>||:The natives have been forbidden from personally employing Dolls since a hundred years ago, Dana. Have you done the relevant paperwork?
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:I picked her up just now. She can't remember who she is, and I couldn't just leave her there for S.F..
+Jericho(0)<Speaker>Jericho</Speaker>||:That's good, so you won't mind parting with her for a bit, then?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What?
+Dana(0)<Speaker>Dana</Speaker>||:Oi, she didn't absorb too much sunlight.
+Jericho(0)<Speaker>Jericho</Speaker>||:Dana, we're the cream of the White Knights' Unit 765, the Blitzkrieg Corps. We don't care about Dolls taking in too much sunlight. +What I'm concerned about is the fact that any Doll from the outside who made contact with S.F. might be infected with the "Parapluie" virus.+Moreover, we have no idea of her origins. I need to have my people take her to our Griffin City base for a checkup.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:The "Parapluie" virus?
+()<Speaker>Dana</Speaker>||<BIN>35</BIN><黑屏2>:It's an electronic virus carried by S.F.. Once it infects a Griffin Doll, the supreme leader of Sangvis Ferri — the Mastermind "Elisa" — will be able to freely control them, as though they were a S.F. unit.
+()<Speaker>Jericho</Speaker>||<黑屏1>:Our unit's ultimate mission is to capture Elisa and put an end to the days of Sangvis Ferri menacing Griffin City once and for all. +The S.F. we captured before didn't hold any intelligence about Elisa, but now, the last S.F. has fallen into our hands. I'm sure the information we need is in her head. +If we're lucky, we'll be able to capture Elisa today and end their reign of terror, but we need to perform the standard checks just in case.
+Dana(0)<Speaker>Dana</Speaker>||<BIN>187</BIN><黑屏2>:I wish you good luck in advance, Jericho. Also, can I accompany her back to the base?
+Dana(0);Jericho(0)<Speaker>Jericho</Speaker>||:Have you really only known each other for an hour? You sound more like her big sister.
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:This is just how we natives are. Don't need to build affection or whatnot. We do what we feel like. And besides, she's as cute as my imouto!
+Dana(0);Jericho(0)<Speaker>Jericho</Speaker>||:I understand. It's just like how I still don't find myself liking you despite having known you for so long.
+Dana(0)<Speaker>Dana</Speaker>;Jericho(0)||:You really are a stick in the mud as always, Jericho. +But I quite like you, mainly when you're fighting to get me paid.
+Jericho(0)<Speaker>Jericho</Speaker>||:(Sigh) As I've said before, you're interfering with police business... +In any case, it's up to the Prime Minister in how we deal with her. Let me give her a call.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...
+SuperShorty(0);Dana(0)<Speaker>Dana</Speaker>||:Relax, shorty. It's just a routine physical check. +You'll only have to take off your coat at most. It's very likely you'll be able to keep your skirt on.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:I'm not scared! +It's just...so much is happening at once, I'm not too sure what's going on...
+Dana(0)<Speaker>Dana</Speaker>||:You'll be fine. Griffin City might be a mess, but at least it won't eat you like the sand.
+Jericho(0)<Speaker>Jericho</Speaker>;Dana(0)||:Alright, congratulations, Dana.
+Jericho(0);Dana(0)<Speaker>Dana</Speaker>||:You've secured a gigantic payout for me?
+Jericho(0)<Speaker>Jericho</Speaker>;Dana(0)||:You and the kid can take my car back, and once the checkup's over you can take her home. That's the payment I managed to negotiate for you.
+Jericho(0);Dana(0)<Speaker>Dana</Speaker>||:I wouldn't be surprised if that was the Lilim Prime Minister's idea of a generous reward.
+Jericho(0)<Speaker>Jericho</Speaker>||:Be content with it. The Prime Minister's been incredibly busy recently, and you're getting a ride from the world's elite White Knight unit. Hey, someone, get over here and clean up the scene.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Will we be going to Griffin City now?
+Dana(0)<Speaker>Dana</Speaker>||<黑屏1>:That's right, even though you still don't remember anything... +Although, that would definitely be a good thing in Griffin City.

@@ -1,0 +1,76 @@
+()||<BIN>8</BIN><BGM>BGM_Room</BGM>:At the Griffin command room.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Are you there, Commander?
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Yes, come in.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Greetings, Commander. Here is the report of the previous battle.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Alright...+Hmm, the battle went well this time as well.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:...I did not participate in the battle. I'm just here to give you the report.+Now then, I will excuse myself, Commander.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Ah... One second.
+HK416(0)<Speaker></Speaker>||<BIN>8</BIN><SE1>ClothingUp</SE1>:I pull out a letter from the drawer.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Take this.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Griffin's logo... A new mission?
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:This is an invitation to the company's anniversary banquet. +Strictly speaking...you can say its an optional mission, but you don't have to think of it as a mission.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:...Understood.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:You're often out on missions and barely spend any time at the base...+As an employee of the company, why not take the chance to enjoy yourself? +By the way, do remember to wear an evening dress.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Understood. +If that is all then I'll be excusing myself, Commander.
+()||<BIN>8</BIN>:416 calmly picks up the invitation letter and leaves.
+Commander()<Speaker>Commander</Speaker>||<BIN>8</BIN>:She didn't look very interested...
+Commander()<Speaker>Commander</Speaker>||<BIN>8</BIN><黑屏1><BGM>BGM_Empty</BGM>:What does she do in her spare time? I do hope she comes to the banquet.
+()||<BIN>9</BIN><黑屏2>:Several days later.
+()||<BIN>8</BIN>:In the Griffin base.
+M1891(0)<Speaker>M1891</Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM>:Ah, Commander! +I was looking for you!
+M1891(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:What is it, Mosin-Nagant?
+M1891(0)<Speaker>M1891</Speaker>||<BIN>8</BIN>:Springfield asked me earlier to round up some people to help with preparations for the anniversary party.+I looked at the schedule and 416 seems to be free, so I wanted to ask her to help.
+M1891(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:That's fine. +You can just ask 416 directly.
+M1891(0)<Speaker>M1891</Speaker>||<BIN>8</BIN>:Well... The problem is I've been looking for her for two days, and like usual, I haven't seen her around anywhere. +Do you know where she is, Commander?
+M1891(0)<Speaker>Commander</Speaker>||:Is that so? She's been punctual in submitting her logistics reports for the past few days, though. +As for what she could be doing in her free time...the schedule doesn't cover that.
+M1891(0)<Speaker>M1891</Speaker>||<BIN>8</BIN>:That's true...+If you see her, Commander, could you ask her to come and find me?
+M1891(0)<Speaker>Commander</Speaker>||:Sure.
+M1891(0)<Speaker>M1891</Speaker>||<BIN>8</BIN>:Thank you, Commander. I'll continue to look for her, then.
+()||<BIN>8</BIN>:Mosin-Nagant leaves.
+指挥官()<Speaker>Commander</Speaker>||<BIN>8</BIN>:Is 416 busy with something...?
+指挥官()<Speaker>Commander</Speaker>||<BIN>8</BIN><黑屏1>:I'll ask when I see her.
+()||<BIN>9</BIN><黑屏2>:The next day.
+()||<BIN>8</BIN>:At the Griffin command room.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Commander, here is the report from last night's logistics mission.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Alright. Thanks for the hard work.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:I shall be going, then.
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Wait, 416.
+()||<BIN>8</BIN>:416 is already at the doorway as I'm calling out to her.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:Is there anything else, Commander?
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Well...
+HK416(0)<Speaker></Speaker>||<BIN>8</BIN>:I tell 416 about Mosin-Nagant's request.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:...I see. I'll look for her so we can discuss it. +Will there be anything else, Commander?
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:No, nothing. +Though, you seem to be quite busy lately... +The scheduling isn't too much for you, is it?
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:...I like to make full use of my spare time.+Do I need to report what I do for leisure as well, Commander?
+HK416(0)<Speaker>Commander</Speaker>||<BIN>8</BIN>:Ah, there's no need...+I'm just asking out of curiosity.
+HK416(0)<Speaker>416</Speaker>||<BIN>8</BIN>:I will take my leave, then.
+()||<BIN>8</BIN><黑点1>:416 leaves the room.
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:In the corridor.
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN>:...How bothersome.
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN>:A party on top of the banquet... +Will this be... +...my one and only chance to stand tall and proud beside the...?
+()||<BIN>9</BIN><黑屏1>:...
+()||<BIN>139</BIN><黑屏2>:Day of the anniversary.
+()||<BIN>139</BIN><BGM>GF_Memorial</BGM>:A young lady, dressed in a gorgeous dress, captures everyone's gaze as she walks into the banquet hall.
+()||<BIN>139</BIN>:416 seems to be oblivious to the fact that she is the center of attention. Looking straight ahead, she walks to a table at one of the corners and sits down.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:Looks like putting effort into my preparations was effective. I suppose I can consider this mission a success. 
+HK416(4)<Speaker></Speaker>||<BIN>139</BIN>:416 quietly observes the people moving to-and-fro in the hall. +The ball then began after the banquet. Although several people tried to approach 416, they quickly left after meeting her gaze.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:...Humans are strange.
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:What do you think of the banquet, 416?
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:Acceptable. The food is good.
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:Ah... That's good...
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:Commander, is there something you'd like to ask?
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:Nothing in particular...+I originally thought that you didn't like events like this and I didn't expect you to come.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:It doesn't matter if I like it or not. +The reason I came...is because you wanted me to come. +So, what do you think of my performance on this mission?
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:If I have to evaluate this like a mission, then I would say...you're doing very well so far.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:”So far”?
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:Of course. the ball hasn't ended yet, after all.+Aren't you going to dance?+You can't say you've completed the mission if you don't dance at least once.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:I'm not too interested. Besides, no one has asked me for a dance yet.
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:Is that so...+(Probably because you're so intimidating...)
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:Even though I am wearing a beautiful dress, deep down, I am still a dangerous T-Doll. +I suppose humans would not be willing to dance with such a person.
+HK416(4)<Speaker>Commander</Speaker>||<BIN>139</BIN>:I don't think so, 416...+At least, I don't think you're dangerous.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:You don't? +Then, to repay your trust in me... I shall devote myself to fully completing this mission.
+HK416(4)<Speaker></Speaker>||<BIN>139</BIN>:416 rises and stands in front of me. +The soft glow from the hall spills onto her shoulders, enveloping her in a faint halo of light.+...As if she is a star in the night sky emitting a brilliant, yet cold, radiance.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN>:Commander...
+HK416(4)<Speaker></Speaker>||<BIN>139</BIN>:She extends her hand towards me.
+HK416(4)<Speaker>416</Speaker>||<BIN>139</BIN><黑屏1>:Will you dance with me?
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:For the first time...+...and perhaps the last...+Will you accept just this once?

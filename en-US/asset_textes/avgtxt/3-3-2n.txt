@@ -1,0 +1,23 @@
+ ()||<BGM>BGM_Sneak</BGM><BIN>4</BIN><Night>:Entering the warehouse in which Nagant has taken refuge.
+PM(0)<Speaker>Makarov</Speaker>||:We've entered the warehouse. Now searching for our target.
+AK47(0)<Speaker>AK-47</Speaker>||:Found her. Over here!
+M1895(1)<Speaker>M1895</Speaker>||:Ugh...+AK...47?
+AK47(0)<Speaker>AK-47</Speaker>;M1895(1)||:Oh? So you've still got your brains with you. How many fingers?
+AK47(0);M1895(1)<Speaker>M1895</Speaker>||:That was so fast no one could've counted! You're confusing me!
+AK47(0)<Speaker>AK-47</Speaker>;M1895(1)||:Makarov, I got the devochka!+But her eyes and brains seem to be damaged. What should we do?!
+AK47(0);M1895(1)<Speaker>M1895</Speaker>||<黑屏1>:What the heck?! I'm just groggy from sleep! I'm totally fine!
+ ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><SE2>Alarm</SE2>:...!!
+SKS(0)<Speaker>SKS</Speaker>||<BGM>BGM_Battle</BGM>:That noise...
+AK47(0)<Speaker>AK-47</Speaker>||:Oh? Sangvis sniffed us out so soon?
+PM(0)<Speaker>Makarov</Speaker>||<黑屏1>:They're probably just probing around. They don't know our exact location yet.
+ ()||<BIN>4</BIN><Night><黑屏2>:...The sound of heavy mechanical units approaching.
+M1895(1)<Speaker>M1895</Speaker>||:Dammit! Enemy units have already reached this warehouse. We won't make it out!
+AK47(0)<Speaker>AK-47</Speaker>;M1895(1)||:SKS and I will draw their fire. Take the devochka and run, Makarov!
+AK47(0);PM(0)<Speaker>Makarov</Speaker>||:Acting all heroic at a time like this?
+AK47(0)<Speaker>AK-47</Speaker>;PM(0)||:I have no interest in being a hero, but I can't just stand here and do nothing.
+SKS(0)<Speaker>SKS</Speaker>;PM(0)||:If you wanna repay this debt, make us look cool in Griffin's battle records.
+SKS(0);PM(0)<Speaker>Makarov</Speaker>||:...
+PM(0)<Speaker>Makarov</Speaker>||<黑屏1>:Unlike those star-spangled T-Dolls, I don't like making big flashy moves.+But I'm not good at lying.+If you want to look good in the records, go back alive and write them yourselves.
+ ()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>Explode</SE1>:...!!
+SKS()<Speaker>SKS</Speaker>||:W...What's that explosion...
+Makarov()<Speaker>Makarov</Speaker>||:...Our last stroke of luck. Don't waste it.

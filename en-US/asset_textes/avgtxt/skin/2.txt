@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM><黑屏2>:Griffin Control.
+Vector(0)<Speaker>Vector</Speaker>||:A surveillance mission? Mission confirmed. If that is all, I'll be off making the preparation.
+Vector(0)<Speaker>Commander</Speaker>||:Ah, wait!
+Vector(0)<Speaker>Vector</Speaker>||:What, so that's not all.
+Vector(0)<Speaker>Commander</Speaker>||:Uh, it's Halloween the day after tomorrow!
+Vector(0)<Speaker>Vector</Speaker>||:So?
+Vector(0)<Speaker>Commander</Speaker>||:So why don't you have some fun before you go? +How about this? I'm giving you a mission to dress up and give these kids a good scare!
+Vector(0)<Speaker>Vector</Speaker>||:Dressing up? Is that another sick hobby that you've cultivated recently?
+Vector(0)<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Honestly, how do you picture me in your head...)</color> +This is Halloween! The sacred All Hallow's Eve for paying tribute to the fall season! The Halloween that only comes once every year! I don't want to let it go to waste. +Everyone is looking forward to the event too!
+Vector(0)<Speaker>Vector</Speaker>||:Whatever. If it's a mission, I'll complete it.
+Vector(0)<Speaker>Commander</Speaker>||:I did call it a mission...but you really should learn to relax every once in a while, Vector. +By the way, you can discuss your costume with Springfield. As for how to scare people in the haunted house, talk to Makarov. She's the one in charge of that part.
+Vector(0)<Speaker>Vector</Speaker>||:It's fine. As long as it's a mission, I won't slack off no matter how child's play it is. +This so-called Halloween is coming soon. Time is short, so I'm getting started right away.
+()<Speaker></Speaker>||:Vector leaves the control center after saying all that with a perfect poker face.
+Commander()<Speaker>Commander</Speaker>||<黑屏1>:<color=#A9A9A9>(She's gonna be alright, I hope...)</color>+<color=#A9A9A9>(But a fun and lighthearted occasion like Halloween should be a perfect opportunity for her to make some nice memory with the rest of the gang, right?)</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:The next evening, before the Halloween event begins.
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2>:The haunted house.
+PM(2)<Speaker>Makarov</Speaker>||:So, are you going to scare people in that?
+Vector(2)<Speaker>Vector</Speaker>;PM(2)||:Problem?
+Vector(2);PM(2)<Speaker>Makarov</Speaker>||:Is it not too...cute?
+Vector(2);PM(2)<Grey>||:
+()||:Makarov is studying Vector in her new costume by the entrance of the haunted house. She seems a bit chagrined.
+Vector(2);PM(2)<Speaker>Makarov</Speaker>||:Cat ears, cat paws, cat tail...why two cat tails? +Did Miss Springfield give you the wrong instructions?
+Vector(2)<Speaker>Vector</Speaker>;PM(2)||:I don't know, but this is still "Cat Girl". +I should've just told her "whatever". That answer would have been perfectly adequate for completing this ridiculous mission.
+PM(2)<Speaker>Makarov</Speaker>||<黑屏1>:...Nevermind. I don't expect you to scare anyone. +In any case, I'm putting you in charge of the first checkpoint. That will make it less challenging and keep our patrons from backing out right from the start.
+()<Speaker></Speaker>||<黑屏2>:After confirming other details with Makarov, Vector heads toward the first checkpoint, where she awaits patrons who are braving the haunted house.
+Vector(2)<Speaker>Vector</Speaker>||:Well, sorry for not being expected to scare anyone. After all, I'm a detestable T-Doll. +But then again...if I want to scare people, I just have to give them an unexpected yell from behind, right? +Though according to the research I did yesterday, moving expressionlessly from ahead also works... +Let me see. Something like this...
+PP90(0)<Speaker>???</Speaker><通讯框>||<震屏>:<color=#00CCFF>Vivi! Vivi!</color>+<color=#00CCFF>Vivi, do you copy?!</color>
+()<Speaker></Speaker>||:A transmission comes through just as Vector is about to practice ways of scaring people...alone.
+Vector(2)<Speaker>Vector</Speaker>||:...I told you to stop calling me that.
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Huh? Did you?</color>+<color=#00CCFF>C'mon! Vivi is such a cute nickname!</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:...Whatever. What is it?
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Okay okay we're setting off in a few days are you prepared oh my days what should I do I'm so excited this is the first time I'm gonna be an adjutant-</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:Hold up. You've already asked me the same question 192 times during the last two days - 193 now.
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Whaaat? Have I really mentioned it that often?</color>+<color=#00CCFF>But I'm just so happy! Aren't you happy, Vivi? We're gonna be friends!</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:No. +And I doubt that you'll be happy working with a disagreeable T-Doll like me.
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>What are you talking about? Stop putting yourself down!</color>+<color=#00CCFF>Say, where are you? Let's go to the haunted house together!</color>
+Vector(2)<Speaker>Vector</Speaker>||:There are only T-Dolls who can't scare anyone in the haunted house. Nothing to see...
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>10</duration></闪屏><黑屏1>0,2</黑屏1>:Click.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>0,2</黑屏2>:While Vector and PP-90 are corresponding, the dimly lit room turns pitch black.
+Vector(2)<Speaker>Vector</Speaker>||:Power outage... A trip?
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Vivi, did something happen on your side?!</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:Doesn't matter. It has nothing to do with you.
+PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>How could it not matter? Vivi, I'm-</color>
+()<Speaker></Speaker>||:Vector terminates the call before PP-90 finishes her sentence.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:Is something wrong with the cables in this base? It feels like this kind of thing happens way too often... +But since I'm on a mission, it doesn't feel right to leave my post without permission. +Whatever. Guess I'll just wait here.
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:Clack.
+Vector(2)<Speaker>Vector</Speaker>||:<color=#A9A9A9>(What...was that?)</color>
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:Clack.
+()<Speaker></Speaker>||:In the dark, a rhythmic noise keeps coming from a short distance just outside the room. +Vector puts her back against the wall and grips her weapon vigilantly.
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:Clack.
+Vector(2)<Speaker>Vector</Speaker>||<SE1>Select</SE1>:<color=#A9A9A9>(Here it comes!)</color>
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:Clack.
+()<Speaker></Speaker>||:A figure enters the room and stands still. Vector dashes out.
+WA2000(5)<Speaker>???</Speaker><Shake>||:<size=65>AAAAAAAAAHHHHHHHHHHH!!!!!!!! GHOST!!!!!!!!!!</size>
+Vector(2)<Speaker>Vector</Speaker>||<黑屏1>0,2</黑屏1>:...
+()<Speaker></Speaker>||<BIN>46</BIN><Night><BGM>BGM_Hello</BGM><黑屏2>0,2</黑屏2>:Vector stares at the T-Doll standing right in front of her. She has her eyes shut tight and a flashlight gripped hard in her hands, pointed upwards at her chin.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Ahem... I-It's you, Vector.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Sorry, it's me. +Did I actually scare you?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker><Shake>||<Night>:Nonsense! I-I wasn't scared at all!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:You're right. How could I scare anyone in this ludicrous outfit? +Speaking of which, why have you come clacking on your heels, Miss WA2000?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Ahem. Maintenance. I'm just here to fix the circuit!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Is that so. Then please.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:...
+Vector(2)<Grey>;WA2000(4)<Grey>||<Night>:
+()||<Night>:The two of them stand there in silence. Motionless. The only source of light in the room is the flashlight in WA2000's quivering hands.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Is there a problem?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Uh, well... Oh right! +I-In case of any unexpected circumstances, I'm recruiting you! +Let's go! Come find the malfunctioning panel with me!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Why do I have to come?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:I told you, it's in case of unexpected circumstances! +You see how dark it is outside. What if our enemies infiltrate us...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:But I'm in the middle of a mission. I can't just leave my post...
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Jeez, recovering the power supply as soon as possible is also a mission!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Miss WA...are you afraid of going alone?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker><Shake>||<Night>:I-I'm not! It really is just in case! +Just come with me, okay?
+Vector(2)<Speaker>Vector</Speaker>||<Night>:... +Fine. I'm not scaring anybody anyway. +Getting electricity back on does seem to be more important...
+()<Speaker></Speaker>||<Night><黑点1>:Vector helplessly agrees in the face of WA2000's pleading eyes. They leave the first checkpoint and make their way around in the haunted house.
+()<Speaker></Speaker>||<Night><黑点2>:... +The two of them end up wandering around for ten minutes.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:Say...Miss WA, why don't we go straight to the electrical room?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Huh? Uh...um...right! +I...I'm looking for the safest route.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:As I remember, you're an elite T-Doll, right? It's not good to be on tenterhooks all the time.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:This is a haunted house! Who knows what's gonna pop out all of a sudden...
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night><震屏>:And I am NOT on tenterhooks!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Your personality is a hindrance to your nature as a weapon.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:We ARE weapons, but haven't you got a preset personality of your own, Miss Vector? And it's...quite unique too.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night><BGM>BGM_Empty</BGM>:It's a mistake for T-Dolls to have emotions to begin with... +That's why I hate myself so much.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Vector...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Hmm?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:It's not a mistake. At least that's what I think. +Even though we're weapons...these emotions make me feel...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Alive?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Yes, exactly.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:Don't be stupid. You're not human. Why would you need to feel alive?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Th-This has nothing to do with whether I'm human! +I just want to be more...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:I think we've reached the electrical room.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:...
+()<Speaker></Speaker>||<Night>:Vector and WA2000 have made it to their destination. +WA2000 enters the room and inspects the circuits.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:There it is... +Thanks, Vector, for coming with me.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:Don't thank me. I'm only doing this to get the power back on quickly. I'm not trying to help you.
+()<Speaker></Speaker>||<Night><黑点1>:With that, Vector turns and leaves.
+Vector(2)<Speaker>Vector</Speaker>||<Night><黑点2><BGM>GF_Memorial</BGM>:... +To hell with T-Doll emotions... There shouldn't even be such things...
+Vector(2)<Speaker>Commander</Speaker>||<Night>:Hmm? There shouldn't be what things?
+Vector(2)<Speaker>Vector</Speaker>||<Night>:(Frowns) Commander? +N...Nothing. You're here.
+Vector(2)<Speaker>Commander</Speaker>||<Night>:Walk with me?
+()<Speaker></Speaker>||<Night>:Vector is about to say something, but changes her mind. In the end she just nods.
+()<Speaker>Commander</Speaker>||<Night>:What do you think about this event, Vector?
+Vector(2)<Speaker>Vector</Speaker>||<Night>:No surprises, except for the power outage.
+Vector(2)<Speaker></Speaker>||<BIN>46</BIN><关闭蒙版><闪屏><duration>10</duration></闪屏>:The power comes back on in the haunted house just then. +Vector's embarrassment is clearly visible under the lights.
+()<Speaker>Commander</Speaker>||:Ta-daaa! See, isn't it full of surprises? +And doesn't it feel nice to have fun with the other T-Dolls every now and then?
+Vector(2)<Speaker>Vector</Speaker>||:Don't you think it's all in vain?
+Vector(2)<Speaker>Commander</Speaker>||:What do you mean?
+Vector(2)<Speaker>Vector</Speaker>||:...This is who I am. This is who I was designed to be. +You think you can make me be like them with just an event or two?
+Vector(2)<Speaker>Commander</Speaker>||:I'm not trying to make you be like anyone. +You are you, and there's no problem with that. +I just hope...that you can more or less have some friends here at Griffin.
+Vector(2)<Speaker></Speaker>||:Vector lapses into silence.
+Vector(2)<Speaker>Vector</Speaker>||:Commander, do you believe it is a mistake for T-Dolls to have emotions?
+Vector(2)<Speaker>Commander</Speaker>||:Certainly not.
+Vector(2)<Speaker>Vector</Speaker>||:But why? We're only T-Dolls, nothing but weapons. +What is the purpose...in installing a burdensome emotion module on weapons? +And if I was designed to be like this, then why do you...
+Vector(2)<Speaker>Commander</Speaker>||:Vector... Even though I don't fully understand it myself... +I still think there will be a day when we finally have the answers to these questions.
+Vector(2)<Speaker>Vector</Speaker>||:Answers...?
+Vector(2)<Speaker>Commander</Speaker>||:Why are you the way you are? Why am I the way I am? +To be honest, I don't know either. But why does it matter? +Whether you possess emotions or not, whether you're equipped with a burdensome module or not... No matter what, you are YOU. Vivi is Vivi, and that's all there is to it.
+Vector(2)<Speaker>Vector</Speaker>||:(Silence)...
+Vector(2)<Speaker>Commander</Speaker>||:I'm not doing this because you're a T-Doll with a terrible personality that I want to fix, or because I'm trying to integrate you into a collective. +I'm only doing this because I want you to be happy.
+Vector(2)<Speaker>Vector</Speaker>||:<color=#A9A9A9>(Offhandedly dropping comments like "you're a T-Doll with a terrible personality"... YOU are the terrible one, Commander...)</color>+<color=#A9A9A9>(And you said you wanted me to be happy...?)</color>
+Vector(2)<Speaker>Vector</Speaker><Shake>||:...Huh? Hold on! Why are you taking out your camera?!
+Vector(2)<Speaker>Commander</Speaker>||:For commemoration! +Can't I at least make a keepsake for such a fun event before I go?
+Vector(2)<Speaker>Vector</Speaker>||:How is this fun... You're such a simpleton of a commander... +Fine. What kind of picture do you want?
+Vector(2)<Speaker>Commander</Speaker>||:I want a picture of you being scary! +You're dressing up as a cat girl, right?! Then give me a scary pose like a fierce kitty!
+Vector(2)<Speaker>Vector</Speaker>||<黑屏1>:I haven't practiced at all, so don't expect anything... +Well...I guess...something like this?
+Vector(2)<Speaker></Speaker>||<闪屏><duration>10</duration></闪屏>:
+Vector(2)<Speaker></Speaker>||<黑屏1>0,2</黑屏1>:...
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:I can never quite tell what kind of T-Doll this girl is. +She shuts me down whenever I try to make conversation. She banters with her companions. That...is all I know about her. +But then again...a T-Doll who raises her hands like this to "scare people" could only be a simple good kid. +That's the wistful yet amusing conclusion I have come to as the moment is captured by the shutter.

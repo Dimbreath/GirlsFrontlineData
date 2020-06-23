@@ -1,0 +1,29 @@
+()||<BIN>55</BIN><BGM>BGM_Frontline</BGM>:...Meanwhile.
+NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Miss 45, please listen to this Griffin area-wide broadcast! This is what I'm talking about!
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11! +The tide of battle has turned in Area S09, and the area is in complete disarray!+We are currently organizing a mass withdrawal of all personnel within the area, and our withdrawal route passes through Area S11! +All commanders on standby, report immediately to your command posts!+All Area S11 Griffin personnel are to immediately prepare for combat. Destroy all pursuing Sangvis units and protect as many of our own as you can!+Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11!
+()||:...
+UMP45(0)<Speaker>UMP45</Speaker>||:They're actually broadcasting in plaintext... And it's rare to hear Helian shouting so loudly. Looks like something big's happened to Griffin. +While I'd like to know what's going on... What does this have to do with us?
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Just now, we detected a powerful energy signal. It was when you were attacked by Parapluie.+Also, that signal was strong enough to cover the entire area, which means...
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:...Which means, that the Parapluie attack was not targeted at me alone....
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Yes, I think you can guess what happened.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:...
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:Alright, I've changed my mind. We need to build a defensive line so the routed Griffin units can regroup. +Deele, can you get into Griffin comms?
+UMP45(0);NPC-Deele(0)<Speaker>Deele</Speaker><通讯框>||:No problem! That's my specialty! +I can even give you the coordinates of the retreating Dolls, you can consider that a freebie!
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Thank you, but we're not working for free. Zeele, you still there?
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Yes, I'm listening.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:Let that person liaise with Griffin. We're gonna ransom every Doll we rescue back to Griffin and we're gonna collect every penny.
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:Understood. I'll contact them right away. Don't worry, you'll definitely be satisfied with the outcome.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:...Indeed, you've never disappointed me during negotiations. +Bring it on, then. Besides, we're out of danger, so we might as well have some fun while the command module is still in our hands.
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:Alright, I'll mark the routes that the retreating Griffin Dolls are taking. Make sure you stop the Sangvis advance. +After the regroup, we'll forcibly change their command authorizations so they will listen to you, so show them what you've got!
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:I'm just worried about how I'm going to compensate 9 and the others for their vacations. +9, are you listening?
+UMP45(0);UMP9(0)<Speaker>UMP9</Speaker>||:Yep! I'm all set! Just give the word, 45!
+UMP45(0);G11(0)<Speaker>Gr G11</Speaker>||:I'm gonna look for high ground. 416, wake me up when there's someone to shoot.
+UMP45(0);HK416(0)<Speaker>416</Speaker>||:(Sighs) 45, may I ask if you're insane?
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Well, we need to do some good from time to time. Doing a few favors for others makes for an easier death.
+UMP45(0);HK416(0)<Speaker>416</Speaker>||:What the hell are you thinking? Did Parapluie scramble your neural cloud?
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:You can quit if you don't want to do it. It's not like you haven't sat things out before.
+UMP45(0);HK416(0)<Speaker>416</Speaker>||:... +Tsk. At least we're not doing it for free. And I'd like to find out...where my limits lie.
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||<黑屏1>:Very good. Everyone, prepare to set out. +There are Griffin damsels calling for help, and we'll be the heroes coming to their rescue.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:I recognize the scent in the air. The air smelled exactly like this back then...+The same old mess. They want to do it again... +Well, be my guest! Just as well. This time, I'll definitely uncover the truth...
+NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:Miss 45, we've successfully made contact with the scattered Griffin Dolls. Now we need to form a defensive line to facilitate their retreat.+Let's move on to an explanation of the operations proposal. I hope you don't mind if I use a visceral score to evaluate the results of this operation. The higher the score, the more we can collect from Griffin. +Maintaining the defensive line gives you more points, so please defend yourselves against the enemy. +Since the Dolls are all retreating in different directions, the gathering point will change position after a fixed amount of time, so please pay attention to changes on your map.+According to our predictions, Sangvis Ringleaders from other areas might take part in the assault as well. It is entirely your call whether to engage them or not. +Griffin has asked us to hold out for 15 rounds, so please try to score as high as possible during that time. Good luck!
+()||<BIN>10</BIN><黑点1>:

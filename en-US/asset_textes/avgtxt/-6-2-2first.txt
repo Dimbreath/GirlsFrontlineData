@@ -1,0 +1,19 @@
+()||<BIN>2</BIN><BGM>BGM_Battle</BGM><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:...Squad 404 engages Hunter at the Area S06 outpost.
+HunterElite(0)<Speaker>Hunter</Speaker>||:So you 404 rats have finally shown up!+Don't think I'm unprepared for your underhanded methods! Let me see you vermin run for your lives and die as I cut you down one by one!
+()||<SE1>Battlefield</SE1>:...At Squad 404's position.
+HK416(3)<Speaker>416</Speaker>||:Gr G11, did you even hit your shots?
+G11(2)<Speaker>Gr G11</Speaker>;HK416(3)||<SE2>Gunfight</SE2>:I hit Hunter four times...but I think our intel is off, because she's still alive!
+G11(2);HK416(2)<Speaker>416</Speaker>||:This "Elite" modification is incredible... What else do they have up their sleeves?
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||<SE1>Battlefield</SE1>:Enemies coming in from the right. We'll be surrounded soon!
+UMP9(4);UMP45(2)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:Abandon objective. Cover our retreat with suppressive fire.
+HK416(3)<Speaker>416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1>:Suppressive fire, Gr G11!
+G11(2)<Speaker>Gr G11</Speaker>;UMP45(2)||<SE2>Gunfight</SE2>:D-doing it!
+UMP9(4)<Speaker>UMP9</Speaker>;UMP45(2)||:Deploying smoke grenade!
+UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1><黑屏1><SE2>Gunfight</SE2>:Everyone! Run now!
+HunterElite(0)<Speaker>Hunter</Speaker>||<SE1>Battlefield</SE1><黑屏2><BGM>BGM_Empty</BGM>:Tch...
+Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Why aren't you after them, Hunter?
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:That silver-haired brat destroyed my Exo equipment. I can't chase after them unless it's repaired first.
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||<BGM>BGM_Boss</BGM>:So you're giving up just like that? I thought you'd be more persistent in chasing after your prey.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:They'll be back for the location of the jammer.+I can delay their guerrilla tactics as long as your reinforcements arrive on time.
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:...Very well. Stay there and guard the outpost before the reinforcements arrive.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||<黑屏1>:I will...+A true hunter knows how to stay silent.

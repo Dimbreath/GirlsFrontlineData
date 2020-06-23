@@ -1,0 +1,122 @@
+()||<BIN>1</BIN><Night><SE1>Gunfight</SE1><BGM>BGM_Boss</BGM><SE2>AVG_Rain2</SE2>:...
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:I sacrificed some pawns on my way here and made a guess about what your inferior neural clouds were planning to do.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>1</BIN><Night>:She's tracked us down already...?
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:You're logging onto our communication device and overriding it... so that you can bypass the interference from Parapluie. +Aren't I right?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>1</BIN><Night>:Indeed.
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Then what are you waiting for? The communications outpost is right ahead. +Plug yourselves in, save your Commander and your friends!
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>1</BIN><Night>:(Whispers) AUG... Let her come closer...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>1</BIN><Night>:Your reminder is appreciated, but we are not so foolish to do so.
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Interesting. You never fail to entertain me, AUG.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>1</BIN><Night>:You're too kind.
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Enough with the small talk. +Now then... should I start, or would you rather go first?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>1</BIN><Night>:You hardly have to consult us about this, but thank you for being so considerate.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>1</BIN><Night>:SSG, G17, NOW!
+SSG69(0)<Speaker>SSG 69</Speaker><通讯框>||<BIN>1</BIN><Night>:Ha! You know, Baldy, there are two kinds of people I hate.
+SSG69(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Oh...? The mortar... +I see. You've prepared a special surprise for me...
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Drab people who are always dressed in black, and weirdos. +You happen to be both! Target, locked on!
+Glock17(0)<Speaker>G17</Speaker><通讯框>||<黑屏1>4</黑屏1><BIN>1</BIN><Night>:Skill: Bombardment! Target: Baldy! Fire!
+()||<BIN>9</BIN><Night><SE1>Explode</SE1><黑屏2>5<黑屏2>:...BOOM!
+()||<BIN>9</BIN><Night><黑屏1>:...The shell lands square on Dreamer.
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏2><BIN>1</BIN><Night>:Phew... That gave me a scare... +Sheesh... You completely trashed my dummy. Now how am I supposed to enjoy watching you struggle till the end?
+()||<BIN>1</BIN><Night>:...Dreamer's dummy crashes onto the ground, crumpled into a heap.
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:One of you will have to die today, AUG... and my dear IWS2000. +No matter whom you choose...
+()||<BIN>1</BIN><Night><SE1>MachineGunBurst</SE1><BGM>BGM_Empty</BGM>:...Bang.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>1</BIN><Night>:How rude to interrupt someone's last words at their funeral.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>1</BIN><Night>:Finally... some peace and quiet.
+Glock17(0)<Speaker>G17</Speaker><通讯框>||<BIN>1</BIN><Night>:Fräulein IWS! We're not sure if we got her, but Sangvis forces are amassing again out here. +SSG and I won't be able to regroup with you any time soon!
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>1</BIN><Night><黑屏1>:Understood, danke schön... I'm giving you only one order – live. +That is... my final order.
+()||<BIN>54</BIN><黑屏2>:...
+()||<BIN>54</BIN><BGM>BGM_Sad</BGM>:...IWS and AUG stand before the communication console.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:What a bargain, don't you think?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:What a funny question. A T-Doll hooking up to this console, overwriting the communications protocol, connecting to the Commander's channel... +... and not being turned into a Sangvis unit via the Parapluie virus. What are the odds?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:There's about... +...a 93% chance of failure?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:If you care to hear my opinion, I'd say it'd be better to simply post a warning on the dissing forum.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:We'd become a laughing stock if the only thing we do at a Sangvis communications outpost is posting on social media.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:You adamantly refuse to harm an ally, yet shove dirty work onto me to clean up. +These double standards of yours are hard to comprehend.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Most T-Dolls wake up in a repair bay even after suffering total annihilation. +I don't know about others...but I think...I can get used to that.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:You're giving up so selfishly?
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:For the sake of this mission... and for everyone's sake... I am not letting go of what I believe in. +Not to mention... you're here with me.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:If so, please take the time to consider my feelings when I am left with no choice but to open fire upon you.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Anyone infected by Parapluie is an enemy... +Even so, I won't remember any of this after waking up, and you'll keep it that way, right?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:Wrong. I'll remind you again and again just so I can enjoy the sorrow and confusion on your face. +"It was all because of my indecisiveness," the newly awakened IWS would say.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Ja...I can imagine what I would say after hearing about what will have happened...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:Then please remember what you're supposed to. +I'm tired of having to remember stupid things for you.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Can't be helped, I'm afraid... I'll have to trouble you one last time. +If you're the team leader, I'm sure you'll do a much better job than me.
+()||<BIN>54</BIN>:...IWS closes her eyes and connects to the communication console.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Ugh...
+()||<BIN>54</BIN>:... +......
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:...Why is it not working? +Is the console... broken?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BGM>BGM_Empty</BGM><BIN>54</BIN>:It isn't. You're just using the wrong port. That's a deactivated server you've plugged into.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Huh...?!
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:That's very much your style.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Huh...? So it's not running? Then why didn't you...
+()||<BIN>54</BIN>:...Bzzt...
+()||<BIN>54</BIN><BGM>BGM_Truth</BGM>:...
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:AUG...?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:...Go on.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Where...is the actual port?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||:Where it should be, of course. Can't you even tell?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Your left hand...
+()||<BIN>54</BIN>:...AUG lifts her left hand, exposing what she has been covering. +...The port is already in use.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:AUG... Why...?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:Pick your questions wisely. I'm already getting interference here.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Why...must you defy me to the very end...? +I could've...finally done something for everyone!
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:To be honest, I'm tired of this. I've already heard most of what you just said once.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:But I don't—
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:Of course you don't remember... +You forgot all about it when you woke up in your repair bay.
+AUG(0)<Speaker></Speaker><Position>0,-100</Position>||<BIN>54</BIN>:...AUG fishes out a device.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:That's... +...a combat record storage bank...?
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:SSG retrieved it from your remains. I promised I would get it back... +So that you won't end up poisoning the Commander, bumbling oaf that you are.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:You still remember...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:You were actually quite endearing when you asked me to escape with the intel last time. +You knew that once you get out of the repair bay, you wouldn't be able to let go of your failure no matter what others say...
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Well, I was right...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:"If I start spouting stupid things, just show this to me," said the old IWS. +I was planning to pick a better time...
+()||<BIN>54</BIN>:...Click.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:Commander... This is an emergency transmission from Squad IWS... +The T-Dolls returning...from the Sangvis outpost...are carrying a kind of colorless and odorless poison...
+()||<BIN>54</BIN>:...Bzzt...bzzt...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:... +Time is running short, Commander...
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:AUG, stop it!
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:The Commander has acknowledged that... IWS... +As a result, I will be the only casualty.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Why did you have to go so far...? +If only... I hadn't objected to your suggestion of shooting down the helicopter...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:You made that choice. Aren't you going to stand by it? +Would you have obeyed me if I were the leader?
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:That's different... Compared to me, you're stronger, more dependable, more... complete... +It's pretty strange that I outrank you to begin with...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:You seem enamored with Dreamer's words. Is there something wrong with your head?
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Nein... it has nothing to do with Dreamer... I honestly believe that. +This thought pervades me... whenever you're by my side... every time I look at you...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:How unfortunate... +But leadership doesn't really suit me.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:But if you were the leader... things wouldn't have turned out this way...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:I would've destroyed an entire Griffin squad. There would be no Parapluie, no Dreamer...
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Still... neither of us is actually responsible for any of that...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position>||<BIN>54</BIN>:Oh my, I can't believe you actually said that. Thank goodness I'm going to forget it straight away. +Do remember what you just said. Don't go back to the way you were.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:After losing your memory... you'll probably mock me first thing when you wake up.
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:Don't let the first thing this heartless T-Doll sees when she opens her eyes be a bawling T-Doll. That would be extremely awkward. +Though I might have a sweet dream...who knows?
+()||<BIN>54</BIN>:...Bzzt...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:What has yet to come will always come in time... IWS2000. +Was it not you who said to always be prepared for it?
+()||<BIN>54</BIN>:...Bzzt... Bzzt...
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:...What's your current status? +Answer me, AUG!
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:"It's raining on the plain..." +Tonight, the rain falls as well... +When raindrops splash upon a face, they turn into tears.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:It'll be fine... Everything will be fine soon, AUG...
+()||<BIN>54</BIN>:...Bzzt...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:Signal re-authentication in process... +Are you... my enemy?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:It shouldn't have turned out this way... +AUG, I promised I wouldn't...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN>:...I don't believe you.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Please, I beg you...
+AUG(0)<Speaker>AUG</Speaker><Position>0,-100</Position>||<BIN>54</BIN><SE1>Select</SE1>:We are out of options, it seems. This was your first mistake.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN><黑屏1>:And it won't... be our last. 
+()||<SE2>MachineGunBurst</SE2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>2,1</黑屏2><黑屏1>:...
+Glock17(0)<Speaker>G17</Speaker>||<BGM>BGM_Hello</BGM><BIN>82</BIN><黑屏2>:Advantage of bullpup rifles... allowing the shooter to shift their center of gravity further back, resulting in higher accuracy and lower recoil. +A revolutionary design of a new era... No arguments... Fire!
+SSG69(0)<Speaker>SSG 69</Speaker>;Glock17(0)||<BIN>82</BIN>:Why are you still doing this...
+SSG69(0);Glock17(0)<Speaker>G17</Speaker>||<BIN>82</BIN>:Didn't Fräulein AUG ask us to flood the forum with comments whenever we have time?
+SSG69(0)<Speaker>SSG 69</Speaker>;Glock17(0)||<BIN>82</BIN>:That was to bury all the posts trash talking our leader for botching a mission. +We don't have to do it this time.
+SSG69(0);Glock17(0)<Speaker>G17</Speaker>||<BIN>82</BIN>:There are still a lot of really mean posts on the forum though. They're saying it's an internal conspiracy that poison was found on some T-Dolls.
+SSG69(0)<Speaker>SSG 69</Speaker>;Glock17(0)||<BIN>82</BIN>:Just leave them be... Even our leader doesn't give a damn.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>82</BIN>:Ah, here comes another T-Doll looking for her.
+Welrod(0)<Speaker>Welrod</Speaker>||<BIN>82</BIN>:Excuse me, would you two by any chance know where I could find Miss IWS?
+Welrod(0);SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>82</BIN>:Sorry... None of us know where she's gone off to...
+Welrod(0)<Speaker>Welrod</Speaker>||<BIN>82</BIN>:Is that so...? I was hoping to learn what exactly happened during our last mission from her.
+()||<BIN>82</BIN>:...Welrod wanders off.
+Glock17(0)<Speaker>G17</Speaker>||<黑屏1><BIN>82</BIN>:Not long ago, she would probably have enjoyed this. +But now that she came back a hero, she's nowhere to be seen...
+()||<BIN>9</BIN><黑屏2>:...
+()||<BIN>9</BIN>:Let me guess... +When you wake up, you'll certainly ask what I'm doing here. +You'll say that if I have so much free time to waste here, I should've been studying our combat records instead.
+()||<BIN>9</BIN>:... +But I can't study them even if I try... +Because I just can't focus... I don't even feel like reading people's comments... +Then you'll say..."How could someone who can't even focus on her tasks be a team leader?"
+()||<BIN>9</BIN>:... +It's hardly my fault...that it's too quiet.
+系统语音()<Speaker>System Prompt</Speaker>||<BIN>9</BIN><黑屏1>:Neural Cloud backup download has been completed. Repair sequence has concluded. We wish you the best of health.
