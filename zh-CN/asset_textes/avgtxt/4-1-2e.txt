@@ -1,0 +1,21 @@
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:……作战结束，在营地中集合。
+M4A1(0)<Speaker>M4A1</Speaker>||:指挥官，格琳小姐。这是我们在那处坐标发现的东西。
+NPC-Kalin(0)<Speaker>格琳</Speaker>;M4A1(0)||:这是……录音文件？
+NPC-Kalin(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:是的，我现在马上播放出来。
+()||<黑屏2><BIN>9</BIN><黑屏1>:音频播放开始……+"They..."+"...are..."+"...in your..."+"...house."+……播放结束。
+NPC-Kalin(2)<Speaker>格琳</Speaker>||<BIN>4</BIN><黑屏2>:“他们……在你的房子……里？”
+NPC-Kalin(4)<Speaker>格琳</Speaker>||:什么意思呢？谁在我的房间里？
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:意义不明的一句话，是什么暗号吗？
+M4A1(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||<黑屏1>:嗯……简单看一下，感觉是被加密了。+稍等一下，我先去看看……
+NPC-Kalin(1)<Speaker>格琳</Speaker><BIN>8</BIN>||<BGM>BGM_Room</BGM><黑屏2>:搞定啦！好像得到了一个新的坐标呢！
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(1)||:格琳小姐……原来这么了不起吗。
+M4A1(0);NPC-Kalin(3)<Speaker>格琳</Speaker>||:什么啊，说得我好像笨蛋一样！+再说这种老式加密法，你们当然不懂了！+不过……单单是一个坐标，和一句“你房子里”，完全看不出什么来呢。
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(3)||:……“心智云图”。+所谓的“心智云图”，就是我们人形的记忆载体。+虽然作为本体的主机人形，可以通过扩编，制造大量傀儡人形来保护自己。
+M4A1(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:可就算这样，在极端情况下，主机人形仍然有被歼灭的危险呢。
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:对，一旦人形的本体被破坏，人形的记忆会全部丧失，并重置到出厂阶段。+所以在网络和后勤条件允许的情况下，战术人形会在出击前备份自己的心智云图。+用我们的说法，就是把记忆上传到服务器中吧。
+M4A1(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:备份云图会花很长的时间呢，不过为了保留作战经验，这是十分值得的。
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:在潜入和渗透行动中，为了保持隐蔽，人形无法向基地的服务器上传数据。+这个时候，人形会把记忆备份到日志影像中，方便日后回收，或者为他人提供情报。
+M4A1(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||:……没错，所以M4怀疑，这是某人心智云图的备份？
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:只是猜测而已，还需要更多的情报才行。
+M4A1(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:不管怎样，感觉是遇到什么有趣的事件呢。指挥官，您也是这样想的吗？
+M4A1(0);NPC-Kalin(1)<Speaker>格琳</Speaker>||<黑屏1>:没错，那我们赶快向下个坐标前进吧！出什么来呢。

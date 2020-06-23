@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:23点40分，贝莱格莱德某巷道角落的下水道内部。
+RO635(0)<Speaker>RO635</Speaker><Shake>||:那、那是什么声音！
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:是敌人吗？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:不……传感器上没有扫描到信号，但是物理反射面突然增大了……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:反射？增大？你能用我听得懂的方式告诉我情况吗！
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:嘘……这个方向，不像是敌人增援的声音……+等等……B2、G5和K9的防水闸门控制的访问权限突然升级了？！
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO，脚下！水！有水进来了！
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:水流！？+截流口的防水闸门被打开了！它们想淹死我们！
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:淹死？对我们？
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:你忘了吗！我们现在的素体只有最基础的防水功能，水要是渗进来肯定会短路的！
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:呃……那我们还来得及吗？
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:再快也不可能赶得上水位上涨的速度……+看到了！有节点平台在前面！SOP2，能跳上去吗！
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:没问题！嘿咻——！
+()||<黑点2><BIN>164</BIN>:SOP2和RO一起跳上了平台。
+RO635()||:在这边的话应该还能撑一会……+稍等，我在重新尝试夺取闸门的权限……+……该死，访问被拒绝了！+我就知道，刚才那么简单就能覆写权限果然不正常，这就是骗我们进来的陷阱！
+M4 SOPMOD II()||:不能和刚才一样把权限夺过来吗？
+RO635()||:刚才那么轻松是对方故意的，现在防火墙升级了……+而且另外的防水闸的控制权限也在更新的进程中，如果不阻止的话——+SOP2，扶住我！可能这得花点时间，我需要进二级平层再强行突破一次——一会别让我掉到水里去了！
+M4 SOPMOD II()||:没问题！我会牢牢地把你抱住的！
+RO635()||:那就谢了，指挥官，您还在吗？
+指挥官()||:<color=#00CCFF>原来的木马诱饵被防火墙识别，我在帮你找新的入侵线路。</color>
+RO635()||:感谢您，指挥官。+果然就如您所说这是对方下的套……但是我们也不能放弃这个重要的线索。
+RO635()||<黑点1>:我会想办法从二级平层夺回闸门的控制权，但对方也可能直接切断外部连接。+考虑到对方应该也是远程控制，理论上它们不会这么做……现在我们也只能希望他们不要这么做了……+为了更快突破对方防御，希望您能把其他人形的运算能力调用给我！我们开始吧！
+<Speaker>M4 SOPMOD II</Speaker>()||<BIN>165</BIN><黑点2>:好！开始！+诶……这次你不用闭眼么……？
+<Speaker>RO635</Speaker>()||:它们……
+<Speaker>M4 SOPMOD II</Speaker>()||:它们？
+<Speaker>RO635</Speaker>()||:它们把远程连接的接口给切断了……！压根就不想再继续控制闸门了么？！
+<Speaker>M4 SOPMOD II</Speaker>()||:什么！！+那我们不是真的要完蛋了嘛！
+<Speaker>RO635</Speaker>()||:不……不要紧张……还是有办法的……
+<Speaker>M4 SOPMOD II</Speaker>()||:真的有办法么！水都快漫到我的大腿了啊！
+<Speaker>RO635</Speaker>()||:没，没关系的SOP2，别别别太紧张，你可能只是太矮了！
+<Speaker>M4 SOPMOD II</Speaker>()||<黑屏1>:什么！你怎么能这么说我！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||<黑屏2><BIN>167</BIN>:<color=#00CCFF>RO你还在么？</color>
+RO635(0)<Speaker>RO635</Speaker>||:还在！你们没事吧！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>我们倒是没事，不过从我们这边的角度看，有两个截流口正在放水，我猜是不是敌人想淹死你们呢？</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:是啊！不然呢！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>好好，我知道了。</color>+<color=#00CCFF>另外的梯队已经赶来了，指挥官也找到了敌人指挥部的位置，我们准备进行一次突击一口气清理掉它们。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:那麻烦你们快一些！不然我只能骑在RO头上躲水了！
+()||<黑点2><BIN>10</BIN>:

@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Boss2</BGM>:安洁！现在可以了吗！
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:不行！敌人的火力还是太强了！+416，那些头目和刚才你给的情报根本不一样啊！
+HK416(3)<Speaker>HK416</Speaker>||:这是更加强化的型号！比之前的还要强！
+AK12(3)<Speaker>AK12</Speaker>||:我真的很好奇它们的来历啊……究竟是什么东西！
+AN94(2)<Speaker>AN94</Speaker>||:从没见过的标志，还有武器。
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:我们必须撤退了，等待下一次机会！
+RO635(6)<Speaker>RO635</Speaker>||:还要多少次……敌人好像还在增援的样子！
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>你们几个，还撑得住吗？</color>
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>;M82A1(0)||:……我不知道，M82，如果不是你的远程援护，我们甚至会死在这里。
+NPC-AngeDamage(3);M82A1(0)<Speaker>M82A1</Speaker>||:<color=#00CCFF>我不希望你们死在这里，如果你们能为我定位到它们头目的确切位置，也许我可以从这个角度狙杀她。</color>
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||<黑屏1>:我知道……我会尽可能想到什么办法打破这个僵局……
+()||<黑点2><BIN>10</BIN>:

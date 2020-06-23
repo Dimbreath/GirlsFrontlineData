@@ -1,0 +1,40 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><黑屏2><BGM>BGM_Brain</BGM>:……SOP2穿过了战场。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:嘿！稻草人！
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||:你的同伴呢？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:她们留在后面，这里只有你和我两个人。
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||:你没有带武器吗？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:……<c>没有。<c>（说谎）我带了。
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||<分支>1</分支>:你说谎！
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||<分支>2</分支>:你在开玩笑吗？
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>: 我真的没带，不然这个距离我可以干掉你十次，有三次是徒手！
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支> :连你都这么想，对吗？我为什么要破掉我自己的规矩？
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||:你真的疯了，SOP2。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:我发疯的时候，你还没见过呢。
+BOSS-1(0);SOPII(0)||:
+()||:……稻草人没有回答，只是向身后招了下手。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:……？
+BOSS-1(0);SOPII(0)||:
+()||:……一只铁血的兵蚁拖着一个盒子跑到了SOP2的面前。
+BOSS-1(0)<Speaker>稻草人</Speaker>;SOPII(0)||:这是你要的备用电源。
+BOSS-1(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:你不问我拿它做什么？
+SOPII(0)<Speaker></Speaker>||:……稻草人转身离开了。
+BOSS-1(0)<Speaker>稻草人</Speaker>||:不关心，我现在不需要这东西。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:所以，这就结束了？
+BOSS-1(0)<Speaker>稻草人</Speaker>||:我们已经在撤退了，快点，滚出这里。
+()||:……SOP2打开盒子确认了一下，确实是铁血的备用电源。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:（大声喊）你知道我不愿意做这种事吧？比起你，我倒更想和你的脑袋交流！
+BOSS-1(0)<Speaker>稻草人</Speaker>||:我只是在客观上赞同这次交涉，不会再有下一次了。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:那你逃得掉吗，稻草人？你知道军方会优先追击你们吗？
+BOSS-1(0)<Speaker>稻草人</Speaker>||:你为什么会关心这种事。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:对我们来说，你会是个不错的诱饵，如果你死掉了，我们也会很伤心的。+所以趁现在还有机会，我想说谢谢你的备用电源，你不知道它对我有多重要！+当然，这个“谢谢”你最好别当真哦。
+BOSS-1(0)<Speaker>稻草人</Speaker>||:等你们死掉的时候，我也会忘记这句话的。
+()||:……稻草人消失在据点设施后。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker><通讯框>||:<color=#00CCFF>SOP2！军方开始行动了，你的东西拿到了吗！</color>
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:拿到了，我正在返回的路上！+你们坚守住！我回去后就开始撤退！
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:<color=#00CCFF>军方包围上来了，我们的撤退路线只能往铁血辖区撤离。</color>+<color=#00CCFF>SOP2，尽快找到安全的路线，避开铁血的防御据点！</color>
+Cx4Storm(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:我知道了！+我会在路上制定好计划！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><黑屏2>:快点……快点！SOP2！+都走到这一步了，绝对不能让大家倒在这里！+查一查现在地图，结合一下M4A1和指挥官留下的方案，究竟哪个是为了现在准备的呢！
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:等等……铁血辖区的话，这样会不会变得更有趣呢？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:M16……你说的话，我好像理解了……
+()||<黑屏1>:…………

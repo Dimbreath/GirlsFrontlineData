@@ -1,0 +1,18 @@
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:指挥部的角落……+……滴。
+AR15(2)<Speaker>AR15</Speaker><通讯框>||:听到了吗，M4，这里是AR-15.
+M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||:我在！AR-15，你没事吗？
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:不问问我嘛，M4！我还那么担心你来着！
+M4A1(3)<Speaker>M4A1</Speaker>;SOPII(0)||:SOP-II！你也在吗？
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:我们都没事，接到了你的信号我们就会合啦。
+M4A1(0)<Speaker>M4A1</Speaker>;SOPII(0)||:好，M16还在路上，当下重点就是接应你们。+AR-15，会合地点定在这里可以吗？
+M4A1(0);AR15(2)<Speaker>AR15</Speaker><通讯框>||:……
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:AR-15？
+M4A1(2);AR15(0)<Speaker>AR15</Speaker>||:……啊，就这样吧，完毕。
+M4A1(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:诶等等等等！我还没说够……
+()||<黑点2><BIN>3</BIN>:AR-15的躲藏点……
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:真是的AR-15！好不容易才和M4联系上的！
+AR15(0)<Speaker>AR15</Speaker>;SOPII(2)||:吵死了，等见面了你再说个够。+而且现在……也不是保持通讯的时候。
+AR15(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:诶？+AR-15……你是说……
+AR15(0)<Speaker>AR15</Speaker>;SOPII(3)||:没错……我们被监听了。+有一个危险的家伙……咬上了我们……
+AR15(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:等等！AR-15，你要去哪儿？
+AR15(0)<Speaker>AR15</Speaker>;SOPII(2)||<黑屏1>:别跟过来，SOP-II。+你有自己的任务……和M4会合。+而我……也有笔账要算。

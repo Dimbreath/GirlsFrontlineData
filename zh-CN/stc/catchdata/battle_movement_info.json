@@ -1,0 +1,1594 @@
+{
+    "battle_movement_info": [
+        {
+            "id": "100",
+            "target": "2",
+            "offset": "2,0,0",
+            "distance": "2",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "101",
+            "target": "2",
+            "offset": "-1.7,0,0",
+            "distance": "0",
+            "duration": "12",
+            "cd": "12",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "102",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "94",
+            "cd": "94",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "103",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "9",
+            "cd": "9",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "104",
+            "target": "2",
+            "offset": "-1.3,0,0",
+            "distance": "0",
+            "duration": "9",
+            "cd": "9",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "105",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "104",
+            "cd": "104",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "106",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "9",
+            "cd": "9",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "201",
+            "target": "1",
+            "offset": "0,4.4,0;0,-4,0;0,0.2,0",
+            "distance": "0",
+            "duration": "13",
+            "cd": "13",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "202",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "115",
+            "cd": "115",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "203",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "10",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "204",
+            "target": "1",
+            "offset": "-2,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "10",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "205",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "100",
+            "cd": "100",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "206",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "8",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "207",
+            "target": "3",
+            "offset": "-4.7,0.7,0;-4.7,-3.9,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "8",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "208",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "209",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "17",
+            "cd": "17",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "210",
+            "target": "3",
+            "offset": "0.6,-6.8,0;0.6,1.4,0;0.6,-2.6,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "211",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "26",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "212",
+            "target": "1",
+            "offset": "-1.9,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "213",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "7",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "214",
+            "target": "1",
+            "offset": "-1.9,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "215",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "14",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "216",
+            "target": "1",
+            "offset": "-1.9,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "217",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "13",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "218",
+            "target": "1",
+            "offset": "5.4,0,0;5.1,0,0;5.1,0,0",
+            "distance": "0",
+            "duration": "6",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "219",
+            "target": "3",
+            "offset": "-1,0,0;-1,0,0;-1,0,0",
+            "distance": "0",
+            "duration": "7",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "220",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "140",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "221",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "13",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "222",
+            "target": "3",
+            "offset": "-3.4,0,0;-3.4,0,0;-3.4,0,0",
+            "distance": "0",
+            "duration": "7",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "223",
+            "target": "3",
+            "offset": "-3.4,-4.2,0;-3.4,-4.2,0;-3.4,-4.2,0",
+            "distance": "0",
+            "duration": "7",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "224",
+            "target": "3",
+            "offset": "-1,-4.2,0;-1,-4.2,0;-1,-4.2,0",
+            "distance": "0",
+            "duration": "7",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "225",
+            "target": "1",
+            "offset": "-4,0,0;-4,0,0;-4,0,0",
+            "distance": "0",
+            "duration": "4",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "226",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "47",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "227",
+            "target": "3",
+            "offset": "0.6,-6.8,0;0.6,1.4,0;0.6,-2.6,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "228",
+            "target": "1",
+            "offset": "3,0,0",
+            "distance": "0",
+            "duration": "9",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "229",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "72",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "230",
+            "target": "3",
+            "offset": "0.6,-2.6,0",
+            "distance": "0",
+            "duration": "9",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "231",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "232",
+            "target": "1",
+            "offset": "1,0,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "233",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "12",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "234",
+            "target": "3",
+            "offset": "-3.5,-1.6,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "8",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "235",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "236",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "17",
+            "cd": "17",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "301",
+            "target": "2",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "90",
+            "cd": "2",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "302",
+            "target": "2",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "303",
+            "target": "1",
+            "offset": "2,0,0",
+            "distance": "2",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "304",
+            "target": "1",
+            "offset": "2,0,0",
+            "distance": "2",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "305",
+            "target": "1",
+            "offset": "0,4.2,0",
+            "distance": "0",
+            "duration": "80",
+            "cd": "80",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "306",
+            "target": "1",
+            "offset": "0,-4.2,0",
+            "distance": "0",
+            "duration": "80",
+            "cd": "80",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "307",
+            "target": "1",
+            "offset": "-7.3,0",
+            "distance": "0",
+            "duration": "45",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "308",
+            "target": "1",
+            "offset": "-2.4,0,0",
+            "distance": "0",
+            "duration": "45",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "309",
+            "target": "1",
+            "offset": "-2.4,0,0",
+            "distance": "0",
+            "duration": "45",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "310",
+            "target": "1",
+            "offset": "-2.4,0,0",
+            "distance": "0",
+            "duration": "45",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "311",
+            "target": "1",
+            "offset": "16,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "312",
+            "target": "1",
+            "offset": "16,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "401",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "25",
+            "cd": "25",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "402",
+            "target": "2",
+            "offset": "2.8,0,0",
+            "distance": "0",
+            "duration": "21",
+            "cd": "21",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "403",
+            "target": "2",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "404",
+            "target": "1",
+            "offset": "-0.6,0,0",
+            "distance": "0",
+            "duration": "6",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "405",
+            "target": "1",
+            "offset": "-0.6,0,0",
+            "distance": "0",
+            "duration": "6",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "406",
+            "target": "1",
+            "offset": "-0.6,0,0",
+            "distance": "0",
+            "duration": "5",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "407",
+            "target": "1",
+            "offset": "-5.5,0,0",
+            "distance": "0",
+            "duration": "12",
+            "cd": "12",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "408",
+            "target": "1",
+            "offset": "4.5,0,0",
+            "distance": "0",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "409",
+            "target": "2",
+            "offset": "2.4,0,0",
+            "distance": "0",
+            "duration": "1",
+            "cd": "18",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "410",
+            "target": "3",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "18",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "411",
+            "target": "3",
+            "offset": "6.5,1,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "18",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "412",
+            "target": "1",
+            "offset": "-2.5,0,0",
+            "distance": "0",
+            "duration": "40",
+            "cd": "40",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "413",
+            "target": "1",
+            "offset": "-2.7,0,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "414",
+            "target": "1",
+            "offset": "16,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "415",
+            "target": "3",
+            "offset": "-5.46,-1.8,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "10",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "416",
+            "target": "3",
+            "offset": "-4.46,-6,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "10",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "417",
+            "target": "3",
+            "offset": "-4.26,2.4,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "10",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "418",
+            "target": "3",
+            "offset": "-2.06,-1.8,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "10",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "419",
+            "target": "3",
+            "offset": "-1.06,-1.8,0.01",
+            "distance": "0",
+            "duration": "40",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "420",
+            "target": "3",
+            "offset": "-1.06,-6,0.01",
+            "distance": "0",
+            "duration": "40",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "421",
+            "target": "3",
+            "offset": "-1.06,2.4,0.01",
+            "distance": "0",
+            "duration": "40",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "422",
+            "target": "3",
+            "offset": "1.34,-1.8,0.01",
+            "distance": "0",
+            "duration": "40",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "423",
+            "target": "3",
+            "offset": "-2.06,-6,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "424",
+            "target": "3",
+            "offset": "-1.86,2.4,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "425",
+            "target": "3",
+            "offset": "0.34,-1.8,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "426",
+            "target": "3",
+            "offset": "-5.46,-6,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "427",
+            "target": "3",
+            "offset": "0.34,-6,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "428",
+            "target": "3",
+            "offset": "-5.36,2.4,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "429",
+            "target": "3",
+            "offset": "0.34,2.4,0.01",
+            "distance": "0",
+            "duration": "8",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "430",
+            "target": "1",
+            "offset": "-2,3,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "431",
+            "target": "1",
+            "offset": "-2,-3,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "432",
+            "target": "1",
+            "offset": "20,0,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "433",
+            "target": "1",
+            "offset": "-0.4,0,0",
+            "distance": "0",
+            "duration": "1",
+            "cd": "1",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "434",
+            "target": "1",
+            "offset": "1,0,0",
+            "distance": "0",
+            "duration": "5",
+            "cd": "5",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "435",
+            "target": "1",
+            "offset": "5,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "436",
+            "target": "2",
+            "offset": "7,0,0",
+            "distance": "0",
+            "duration": "26",
+            "cd": "26",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "437",
+            "target": "1",
+            "offset": "-5,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "438",
+            "target": "2",
+            "offset": "2.8,0,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "439",
+            "target": "3",
+            "offset": "3,-2,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "2",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "701",
+            "target": "1",
+            "offset": "-30,0,0",
+            "distance": "0",
+            "duration": "1",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "702",
+            "target": "1",
+            "offset": "0,4.2,0",
+            "distance": "0",
+            "duration": "6",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "703",
+            "target": "1",
+            "offset": "0,-4.2,0",
+            "distance": "0",
+            "duration": "6",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "704",
+            "target": "1",
+            "offset": "-7,0,0",
+            "distance": "0",
+            "duration": "11",
+            "cd": "11",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "705",
+            "target": "1",
+            "offset": "7,0,0",
+            "distance": "0",
+            "duration": "17",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "706",
+            "target": "1",
+            "offset": "2,1,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "707",
+            "target": "1",
+            "offset": "-2,-1,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "708",
+            "target": "1",
+            "offset": "-3,0,0",
+            "distance": "0",
+            "duration": "90",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "709",
+            "target": "1",
+            "offset": "2,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "710",
+            "target": "1",
+            "offset": "0.4,4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "711",
+            "target": "1",
+            "offset": "-0.4,-4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "712",
+            "target": "1",
+            "offset": "0.8,4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "713",
+            "target": "1",
+            "offset": "-0.8,-4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "714",
+            "target": "1",
+            "offset": "0,4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "715",
+            "target": "1",
+            "offset": "0,-4.2,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "716",
+            "target": "1",
+            "offset": "-0.2,0,0",
+            "distance": "0",
+            "duration": "25",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "717",
+            "target": "1",
+            "offset": "0.4,0,0",
+            "distance": "0",
+            "duration": "25",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "718",
+            "target": "1",
+            "offset": "12,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "719",
+            "target": "1",
+            "offset": "3,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "720",
+            "target": "1",
+            "offset": "-0.05,0,0",
+            "distance": "0",
+            "duration": "25",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "721",
+            "target": "1",
+            "offset": "0.1,0,0",
+            "distance": "0",
+            "duration": "25",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "722",
+            "target": "1",
+            "offset": "0.1,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "723",
+            "target": "1",
+            "offset": "-0.1,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "724",
+            "target": "1",
+            "offset": "0.2,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "725",
+            "target": "1",
+            "offset": "-0.2,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "726",
+            "target": "1",
+            "offset": "0.5,0,0",
+            "distance": "0",
+            "duration": "90",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "727",
+            "target": "1",
+            "offset": "-0.5,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "728",
+            "target": "1",
+            "offset": "20,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "729",
+            "target": "1",
+            "offset": "5,0,0",
+            "distance": "0",
+            "duration": "60",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "730",
+            "target": "1",
+            "offset": "1,0,0",
+            "distance": "0",
+            "duration": "10",
+            "cd": "10",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "731",
+            "target": "1",
+            "offset": "-7,0,0",
+            "distance": "0",
+            "duration": "11",
+            "cd": "11",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "732",
+            "target": "1",
+            "offset": "6,0,0",
+            "distance": "0",
+            "duration": "17",
+            "cd": "17",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "733",
+            "target": "1",
+            "offset": "0.5,0,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "734",
+            "target": "1",
+            "offset": "-0.5,0,0",
+            "distance": "0",
+            "duration": "8",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "735",
+            "target": "2",
+            "offset": "-0.5,0,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "15",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "736",
+            "target": "0",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "11",
+            "cd": "11",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "737",
+            "target": "1",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "17",
+            "cd": "17",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "738",
+            "target": "2",
+            "offset": "0.5,0,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "15",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "739",
+            "target": "3",
+            "offset": "2,0,0",
+            "distance": "0",
+            "duration": "90",
+            "cd": "3",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "740",
+            "target": "2",
+            "offset": "6,0,0",
+            "distance": "0",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "741",
+            "target": "1",
+            "offset": "-2,0,0",
+            "distance": "0",
+            "duration": "45",
+            "cd": "45",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "742",
+            "target": "2",
+            "offset": "6.5,0,0",
+            "distance": "0",
+            "duration": "26",
+            "cd": "26",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "743",
+            "target": "3",
+            "offset": "6.235,-0.65,0",
+            "distance": "0",
+            "duration": "26",
+            "cd": "26",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "744",
+            "target": "3",
+            "offset": "6.235,-4.85,0",
+            "distance": "0",
+            "duration": "26",
+            "cd": "26",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "745",
+            "target": "3",
+            "offset": "6.235,3.55,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "746",
+            "target": "3",
+            "offset": "6.235,-2.75,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "747",
+            "target": "3",
+            "offset": "6.235,-6.95,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "748",
+            "target": "3",
+            "offset": "6.235,1.45,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "749",
+            "target": "3",
+            "offset": "29.235,-0.65,0",
+            "distance": "0",
+            "duration": "20",
+            "cd": "20",
+            "is_character": "1",
+            "easing_type": "5"
+        },
+        {
+            "id": "750",
+            "target": "1",
+            "offset": "-5,0,0",
+            "distance": "0",
+            "duration": "40",
+            "cd": "40",
+            "is_character": "1",
+            "easing_type": "11"
+        },
+        {
+            "id": "751",
+            "target": "2",
+            "offset": "-2,0,0",
+            "distance": "0",
+            "duration": "12",
+            "cd": "12",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "752",
+            "target": "2",
+            "offset": "-2,0,0",
+            "distance": "0",
+            "duration": "36",
+            "cd": "36",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "753",
+            "target": "7",
+            "offset": "0,0,0",
+            "distance": "0",
+            "duration": "15",
+            "cd": "15",
+            "is_character": "0",
+            "easing_type": "0"
+        },
+        {
+            "id": "762",
+            "target": "1",
+            "offset": "0,3,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "763",
+            "target": "1",
+            "offset": "0,-3,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "764",
+            "target": "1",
+            "offset": "0,-3,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "765",
+            "target": "1",
+            "offset": "0,3,0",
+            "distance": "0",
+            "duration": "2",
+            "cd": "60",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "801",
+            "target": "1",
+            "offset": "-8,0,0",
+            "distance": "8",
+            "duration": "30",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "802",
+            "target": "1",
+            "offset": "8,0,0",
+            "distance": "8",
+            "duration": "30",
+            "cd": "0",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "803",
+            "target": "1",
+            "offset": "2,0,0",
+            "distance": "2",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "804",
+            "target": "1",
+            "offset": "2,0,0",
+            "distance": "2",
+            "duration": "18",
+            "cd": "15",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "805",
+            "target": "1",
+            "offset": "1,0,0",
+            "distance": "1",
+            "duration": "15",
+            "cd": "15",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "999011",
+            "target": "1",
+            "offset": "3,0,0",
+            "distance": "0",
+            "duration": "90",
+            "cd": "90",
+            "is_character": "1",
+            "easing_type": "1"
+        },
+        {
+            "id": "999012",
+            "target": "1",
+            "offset": "3,0,0",
+            "distance": "0",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "0"
+        },
+        {
+            "id": "999013",
+            "target": "1",
+            "offset": "3,0,0",
+            "distance": "0",
+            "duration": "30",
+            "cd": "30",
+            "is_character": "1",
+            "easing_type": "0"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:一轮防御结束，先喘口气。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:可恶！真是没完没了！就不能联系帕斯卡吗！
+M16(3)<Speaker>M16A1</Speaker>||:铁血已经发现了我们，为了不暴露16LAB的信息，预设的通讯模块已经自动切断了通讯。
+M4A1(2)<Speaker>M4A1</Speaker>;M16(3)||:但是传输还差一半，还能坚持吗？
+M4A1(2);AR15(2)<Speaker>AR15</Speaker>||:不行，我们人手太少，再来这么一轮，我们就没办法了。
+M16(3)<Speaker>M16A1</Speaker>;AR15(2)||:……办法还是有的，各位。+格里芬的支援部队就在附近，她们处于待机状态太久，显然已经被抛弃了。+M4，变更我们的权限信号，让她们优先援助我们。
+M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:明白了，AR-15，SOPII。+拜托了，你们去指引那些小队抵抗敌人，M16留在这里保护我。
+M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:明白啦，你们要坚持到我们回来！
+()||<BIN>9</BIN><黑屏2>:……半小时之后。
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:……传输完毕！
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><黑屏2>:呼——+看来那些支援梯队是起到作用了。
+M4A1(0)<Speaker>M4A1</Speaker>||:嗯，叫上AR-15她们，我们马上离开这里。
+代理人()<Speaker>代理人</Speaker>||<BGM>BGM_Empty</BGM>:不会让你们离开的……
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>:代理人的信号，正在高速接近！
+代理人()<Speaker>代理人</Speaker>||<BIN>9</BIN><黑屏2>:……只配拿着废弃的铁块、只能用来清扫厨余、只有与蛆虫交战过的——垃圾人形！
+()||<黑屏1><SE1>Explode</SE1>:——！！
+()||<BIN>15</BIN><黑屏2>:……
+M4A1()<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:……咳……咳咳！+M16……咳……你在哪儿……
+代理人()<Speaker>代理人</Speaker>||:你没时间关心别人了，M4A1。
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2>:呃——！
+代理人()<Speaker>代理人</Speaker>||<黑屏1>:……因为……我把你的死亡，送到了。

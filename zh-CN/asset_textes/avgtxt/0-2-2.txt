@@ -1,0 +1,17 @@
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:呼叫帕斯卡，行动顺利，AR小组已抵达3号安全屋。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||:呜喔！莱柯的东西，能查到吗？
+NPC-Persica(0);M4A1(0)<Speaker>M4A1</Speaker>||:已经用探针启动了接口，但是这个操作系统太陈旧……+验证结构无法破解，需要密码才能尽快启动。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>;M4A1(0)||:唔……“90WISHROCK”，再加个“X”，全大写，试试这个。
+NPC-Persica(0);M4A1(0)<Speaker>M4A1</Speaker>||:……验证成功，正在浏览数据库。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>;M4A1(0)||:好！里面的东西，都拷贝到记忆体，带回来。
+NPC-Persica(2);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:了解，开始拷贝数据，暂时关闭通讯。
+AR15(0)<Speaker>AR15</Speaker>||<黑屏2>:……于是，我们在铁血地盘用铁血的数据库，找一些铁血都不知道的情报？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:哈哈♪不觉得很有趣吗？+感觉就像在寻宝一样！
+？？()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:是啊，多谢你们，宝藏终于得手了。
+BOSS-8(0)<Speaker>代理人</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:铁血工造，“代理人”，恭候你们的到来。
+M16(3)<Speaker>M16A1</Speaker>;BOSS-8(0)||:……代理人？！+铁血的高层人形……怎么会出现在这里！ 
+M16(3);BOSS-8(0)<Speaker>代理人</Speaker>||:这个安全屋里，有“主人”想要的东西。+可惜因为是旧时代的系统，我们也无法破解。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-8(0)||:所以……我们正好帮了大忙，是吗？
+BOSS-8(0)<Speaker>代理人</Speaker><通讯框>||:主人说你们会出现，她说过你们一定会来到这里。+只要抓到你们、肢解你们、抽出你们的记忆体，主脑就会得到“答案”。
+AR15(2)<Speaker>AR15</Speaker>||:侦测到大量铁血信号，这家伙……它要来真的了！
+M4A1(3)<Speaker>M4A1</Speaker>||:拷贝还在进行中，只能坚持到它完成了。+各位，准备防御作战！

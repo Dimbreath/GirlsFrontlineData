@@ -1,0 +1,27 @@
+()||<BIN>159</BIN><BGM>BGM_NightOPS</BGM><黑屏2>:……
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:稻草……人？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:嘿嘿，不是说不会再见面了吗？
+SOPIIDamage(0);BOSS-1(0)<Speaker>稻草人</Speaker><通讯框>||:<color=#00CCFF>……</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:……现在才后悔之前的交易吗？可惜晚了哦！
+SOPIIDamage(0);BOSS-1(0)<Speaker>稻草人</Speaker>||:<color=#00CCFF>根据计算，你们现在估计快到铁血的精英据点了，对吗？</color>+<color=#00CCFF>你们应当害怕才对。</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:哈，那也总比转身撞上军方要好吧。
+SOPIIDamage(0);BOSS-1(0)<Speaker>稻草人</Speaker>||:<color=#00CCFF>你们会死得非常凄惨。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:……+所以呢，你是来祝贺我们的？
+SOPIIDamage(3);BOSS-1(0)<Speaker>稻草人</Speaker>||:<color=#00CCFF>……打开你们的电子地图。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||<黑屏1>:……什么？
+()||<BIN>10</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
+BOSS-1(0)<Speaker>稻草人</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>如果你们朝着这样的路线走，我可以告诉你们铁血精英单位的警戒范围。</color>+<color=#00CCFF>不想和我们发生多余的冲突，就计算好了再行动。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:你……你说什么？+喂喂，你不是说没有下一次了吗？
+SOPIIDamage(2);BOSS-1(0)<Speaker>稻草人</Speaker>||:<color=#00CCFF>你的听觉模块没修好吗？问你的同伴，我不会说第二遍的。</color>+<color=#00CCFF>还有，这次的性质不同。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:你知道我不是为了讨好你才做的，对吧？
+SOPIIDamage(2);BOSS-1(0)<Speaker>稻草人</Speaker>||:<color=#00CCFF>我也是。</color>
+()||:……稻草人关闭了通讯。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:等等——+那家伙，这是要搞什么啊……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||:这条路线最后通向的，确实是我们曾经的指挥部。+就算指挥官离开了，应该还有什么人形或者物资放在那里，到达后我们可以稍作修整。+所以……我们可以信任它吗？+相信那个……几小时前想要杀掉我们的铁血头目？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:不可以，但是……我们可能没有其它选择了。
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||:SOP2，至少我们信任你。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:嗯……+<color=#A9A9A9>（做选择好麻烦啊……）</color>+<color=#A9A9A9>（M4A1每次行动都要承受这么大压力吗……）</color>
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||:SOP2？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑点1>:啊啊啊啊不管了！+无论是陷阱还是别的什么，敢欺骗我的话，就绝对不会放过它们！+那就走吧，前往那个据点，大家确认武器模式，靠近一点提高警惕。+小心对方精英单位的警戒范围！没我的命令不要开火！
+()||<黑点2><黑点1>:<color=#fff775>长按铁血梯队，会显示部队的警戒范围。</color>+<color=#fff775>合理计算警戒范围，可以避免与部分铁血部队战斗。</color>
+()||<黑点2><BIN>10</BIN>:

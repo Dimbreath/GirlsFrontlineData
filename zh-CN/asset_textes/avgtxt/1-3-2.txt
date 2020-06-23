@@ -1,0 +1,18 @@
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:……成功关闭了铁血哨站，运输路线已确认安全。
+NPC-Helian(0)<Speaker>赫丽安</Speaker><通讯框>||:做得好，指挥官，这样受伤的人形很快就会抵达了吧。+之所以格外重视这批伤员，是因为她们可能目击到了一些情报+而这些情报如果属实，我们接下来可能要和铁血的正面部队交战。+……是的，“我们”，也包括你的梯队，指挥官。
+ ()||:……滴。+赫丽安身后传来了通讯提示。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>||<黑屏1>:哦？看来这批伤员已经运回来了。+那么指挥官，先失陪了。
+ ()||<BIN>22</BIN><BGM>BGM_Room</BGM><黑屏2>:格里芬总部，受损人形已经抵达工厂。
+MAC10(1)<Speaker>MAC10</Speaker>||:哼，这就到家了吗……+一路上连点乐子都没有，无聊死了。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:省省吧，英格拉姆。+如果不是有人形向总部发出救援，你们的麻烦可就大了。
+NPC-Helian(0);MAC10(1)<Speaker>MAC10</Speaker>||:呿，明明是个拼命的好机会呢。+毕竟我啊，越是这样的状态，就越想享受战斗啊。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:至少这次不行，英格拉姆。+你是难得还能说出话来的幸存者，有些事情我要向你确认。
+NPC-Helian(0);MAC10(1)<Speaker>MAC10</Speaker>||:好吧，你是老板，你说了算喽。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:STG-44和PPsh-43当时遇到了什么，你有印象吗？
+NPC-Helian(0);MAC10(1)<Speaker>MAC10</Speaker>||:我只知道是代理人来了，急着追什么东西的样子。+多亏它的目标不是我们，我们才捡了条命回来。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:嗯……+如今的失踪者只剩下VZ61，你和她很熟吧，知道她的下落吗？
+NPC-Helian(0);MAC10(1)<Speaker>MAC10</Speaker>||:（耸肩）很遗憾，我当时不在前线呢。+不过……如果她还活着，应该会想方设法留下线索吧。+那家伙……关键时刻脑子快得很呢。
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:……我知道了。+没有你的事情了，现在去修复吧。
+NPC-Helian(0);MAC10(1)<Speaker>MAC10</Speaker>||:……赫丽安小姐。+蝎子也好，其他人形也好……这次的仇，我们会报回来吗？
+NPC-Helian(0)<Speaker>赫丽安</Speaker>;MAC10(1)||:……+快去修复吧，英格拉姆。+很快……你就有一大堆乐子了。
+MAC10(1)<Speaker>MAC10</Speaker>||<黑屏1>:（笑）……明白。+这个，就是我最想听到的。

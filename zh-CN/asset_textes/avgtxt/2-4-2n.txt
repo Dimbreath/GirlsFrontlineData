@@ -1,0 +1,26 @@
+ ()||<BGM>BGM_War</BGM><BIN>4</BIN><Night><SE1>Battlefield</SE1>:……M9所在的临时据点，对铁血作战开始。
+M9(0)<Speaker>M9</Speaker>||<SE2>Gunfight</SE2>:侦测到铁血头目傀儡！M21，准备！
+M21(0)<Speaker>M21</Speaker><通讯框>||:来，笑一个，铁血的渣滓！
+M1911(0)<Speaker>M1911</Speaker><通讯框>||<SE2>Gunfight</SE2>:铁血机甲还没反应过来，英格拉姆，趁现在！
+MAC10(1)<Speaker>MAC10</Speaker><通讯框>||<SE1>Battlefield</SE1>:哈哈哈哈哈！爆炸吧，统统给我爆炸吧，你们这群混蛋！
+M1928A1(0)<Speaker>M1928A1</Speaker><通讯框>||:是时候了，SuperSASS，立即攻入指挥室！+军方也在前往指挥室，不要把机会落在他们手里！
+SuperSASS(0)<Speaker>SuperSASS</Speaker><通讯框>||<SE1>Battlefield</SE1>:收到啦，正在路上！
+MAC10(1)<Speaker>MAC10</Speaker><通讯框>||<黑屏1><SE2>Gunfight</SE2>:哈哈！跑啊，SuperSASS，跑啊！
+ ()||<黑屏2><SE1>Battlefield</SE1>:……铁血梯队开始败退。
+M21(0)<Speaker>M21</Speaker><通讯框>||<SE2>Gunfight</SE2>:一定要赶在军方前面哦，不然就只能灭他们的口啦。
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M21(0)||<SE1>Battlefield</SE1>:别开那种玩笑啊，M21，对方如果是人类该怎么办。
+M1911(0);MAC10(1)<Speaker>MAC10</Speaker><通讯框>||:哼哼，人类制造枪械不就是为了对付自己嘛。
+M9(0)<Speaker>M9</Speaker><通讯框>;MAC10(1)||<SE2>Gunfight</SE2>:别听她的，SuperSASS。+我们是可爱的民用人形，遇到人类时卖个萌就行啦！
+M9(0);SuperSASS(0)<Speaker>SuperSASS</Speaker><通讯框>||:（苦笑）抱歉，我可没受过那种训练啊。
+M21(0)<Speaker>M21</Speaker><通讯框>;SuperSASS(0)||:唉，现在的新雇员还真是轻松，我那时候讲笑话都是要考级的。
+M21(0);MAC10(1)<Speaker>MAC10</Speaker><通讯框>||<SE1>Battlefield</SE1>:哈，那你一定是搞脱口秀被刷下去了，然后才来的格里芬吧？
+M1911(0)<Speaker>M1911</Speaker><通讯框>;MAC10(1)||:不能随便询问同伴的出身哦，英格拉姆。+我们现在都是格里芬的成员，这才是最重要的。
+M1911(0);SuperSASS(0)<通讯框><Speaker>SuperSASS</Speaker>||<黑屏1>:SuperSASS已占领指挥室，重复一遍，SuperSASS已占领指挥室！
+M21(0)<Speaker>M21</Speaker><通讯框>||<黑屏2><BGM>BGM_Sunshine</BGM><BIN>4</BIN>:天亮了，我们也胜利啦。
+M1928A1(0)<Speaker>M1928A1</Speaker><通讯框>||:1911，向赫丽安多要点分红，这次可累坏我了。
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:等等吧，我还要给指挥官献上胜利之吻呢。
+M21(0)<Speaker>M21</Speaker><通讯框>||:这回的作战，果然还是1911赢了吧？
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:没有那样的作战吧？+说起来M9呢？好像已经下线了？+M9？M9在吗？
+MAC10(1)<Speaker>MAC10</Speaker><通讯框>||:你迟了呢，1911，M9已经往指挥室赶了。
+M1928A1(0)<Speaker>M1928A1</Speaker><通讯框>||<黑屏1>:哈哈，善良的农夫啊，你真不该救她呢。
+M1911()<Speaker>M1911</Speaker>||<黑屏2><BIN>9</BIN>:…………+格里芬的成员……还需要好好培养啊……

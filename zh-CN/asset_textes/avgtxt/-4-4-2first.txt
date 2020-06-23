@@ -1,0 +1,27 @@
+()||<BIN>7</BIN><BGM>BGM_NightOPS</BGM><SE2>Gunfight</SE2>:…………
+BOSS-7(0)<Speaker>计量官</Speaker>||<SE1>Battlefield</SE1>:喂！建筑师，你在看哪里！+格里芬的人形跑得到处都是，你的炮击呢！
+BOSS-9(0)<Speaker>建筑师</Speaker><通讯框>;BOSS-7(0)||:啊啊啊啊我这边也超麻烦啊！穿黑衣服的又拆掉我的电源啦！+我的部队没法看守全部电源，炮台只能发挥一半效率，快来帮我啊！
+BOSS-9(0);BOSS-7(0)<Speaker>计量官</Speaker>||<SE2>Gunfight</SE2>:我回去的话，重要的据点就会被格里芬全打掉。+我再分你一点部队，看好备用电源。
+BOSS-9(0)<Speaker>建筑师</Speaker>;BOSS-7(0)||<SE1>Battlefield</SE1>:啊啊啊啊！真的不能让我亲自出马吗！
+BOSS-9(0);BOSS-7(0)<Speaker>计量官</Speaker>||<SE2>Gunfight</SE2>:你太笨了，出去一定会被包围的。+留在基地里，把路过的人形全拆掉就好了！+外面的事情，就交给我吧……
+BOSS-9(0)<Speaker>建筑师</Speaker>||<SE1>Battlefield</SE1>:计量官……+你、你可别出事啊！+活着回来最要紧！听到没——
+()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:……砰！+…………通讯中断。
+BOSS-7(0)<Speaker>计量官</Speaker>||<黑屏1>:建筑师？+呼叫建筑师！你听到了吗！+连通讯都切断了……难道是404下的手……
+计量官()<Speaker>计量官</Speaker>||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:原本打算手下留情的我，果然还是太软弱了……+不够洒脱的行动，是无法超越梦想家的……+必须要再狠一点！再疯狂一点！
+计量官()<Speaker>计量官</Speaker>||<SE2>Alarm</SE2><黑屏1>:所有部队听令，调整行动目标！放弃之前的抓捕方案！+现在起，所有非AR小组的成员，一旦发现，将猎杀放在优先级！
+()||<黑屏2><BIN>6</BIN>:………………同一时间。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:RO，看来404的行动奏效啦！
+M16(3)<Speaker>M16A1</Speaker>||:接下来就是我们这边了吧？+趁现在入侵基地，打开通道吧。
+RO635(0)<Speaker>RO635</Speaker>||:…………
+M1887(0)<通讯框><Speaker>M1887</Speaker>;RO635(0)||:呼叫RO，计量官的攻势变得更激烈了。+我们现在可以撤离了吗？
+M1887(0);RO635(0)<Speaker>RO635</Speaker>||:还不是时候，M1887……+还差得远……
+M1887(0)<Speaker>M1887</Speaker>;RO635(0)||:可是继续下去的话，我们可能坚持不下去了。
+M1887(0);RO635(0)<Speaker>RO635</Speaker>||:如果你们坚持下去，才会有危险。
+M1887(0)<Speaker>M1887</Speaker>;RO635(0)||:什么？
+RO635(4)<Speaker>RO635</Speaker>||:各位，我要稍稍改变一下行动计划。+请你继续与两名人形头目周旋。
+M16(3)<Speaker>M16A1</Speaker>||:RO，我们要去哪儿？
+RO635(0)<Speaker>RO635</Speaker>||:一个通讯据点，M16，靠你联系赫丽安了。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:可是……赫丽安的梯队规模太大，很难马上到达这里啊！
+RO635(0)<Speaker>RO635</Speaker>||:如果……+如果让我们的指挥官先行一步呢？
+M16(3)<Speaker>M16A1</Speaker>||:…………+这样的天气，还有沿路的铁血防线，对先行的梯队都很危险……
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:关键不是这个，M16，SOP2……+如果是M4的话，她一定会相信她的指挥官，对吗？

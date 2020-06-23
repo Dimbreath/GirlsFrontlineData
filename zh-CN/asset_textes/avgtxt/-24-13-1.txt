@@ -1,0 +1,128 @@
+()||<BGM>BGM_Room</BGM><BIN>9</BIN><黑屏2>:……+我从来没想过会有这样一天……+我从来没想过……像我这样的家伙，会帮助这么多人……+我也从来没想过……我做到了我从未做到的事……+……却无法告诉任何人。+所以RO，请醒过来吧。+听听我今天的经历，分享我发现的快乐。+因为你现在……是唯一可能听到我声音的同伴。+请你听到我的声音吧……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||<黑屏2><白屏1>:痛痛痛……没有工具果然很麻烦啊……应该就是把这条线连起来吧？+没想到我要主动撕开自己的身体，不过是我的话应该没关系！
+()<Speaker>系统</Speaker>||<白屏2><BIN>72</BIN>:<color=#00CCFF>【心智正在连接，访问请求被接受，请等待】</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:连上了！没想到这样乱接也能成功……说不定我是个天才呢！
+SOPIIDamage(0)<Speaker>系统</Speaker>||:<color=#00CCFF>【心智连接成功，正在连接访问对象——】</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:太好了，看来没被防火墙拦下来……但是RO的信号在哪……
+SOPIIDamage(0)<Speaker>系统</Speaker>||:<color=#00CCFF>【访问对象地址获取中——地址无法获得，请重新确认连接坐标】</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:一片漆黑……+电源无法维持心智运行了吗……但是明明已经连接电源了……难道还是太晚了……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:……嗯？+星空？为什么心智里会有星空……+有很近的亮光……是RO的心智碎片？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:……RO的心智还没完全停止运行！还有机会！+那个亮光的位置……先过去看看吧……！
+SOPIIDamage(2)<Speaker></Speaker>||<黑点2>:SOP2到了指定位置。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:亮光在转圈……？你听得懂我在说什么吗？
+SOPIIDamage(2)<Speaker></Speaker>||:亮光转了个圈。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:果然是RO的心智碎片！+RO！RO你听到了吗！+RO我在这里！我是SOP2！+快！快醒醒啊！+RO——！！
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……+…………
+UMP45(0)<Speaker>？？</Speaker>||<BIN>7</BIN><睁眼><BGM>BGM_Brain</BGM><回忆><边框>2</边框>:…………+你终于出现了，■■。
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:……+我该道歉吗，45？
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:为什么要道歉呢？你可是长官呢。+只是……+你这样选择，和M4A1有什么不一样？
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:因为我联络赫丽安的缘故？
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:因为你想拯救所有人。+如果不是这个指挥官足够听话，不惜一切代价赶到了这里……+……你这次，会把我们所有人都葬送掉。
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:看来我知道了……+……你总是独行独断的理由。
+RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||<边框>2</边框>:…………+那你就甘心丧失自我，成为别人的替代品？
+RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:那么……“自我”又是什么呢？
+RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||<边框>2</边框>:…………
+RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:我原本……就是为了这个时刻才出现的。+我不会抛弃M4想要保护的人。+而M4相信着的人，我也会去相信。
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1><边框>2</边框>:…………+无论怎样，至少这次行动里，你是对的。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||<BIN>22</BIN><黑屏2><边框>2</边框><黑屏1>:她会为了M4A1做到一切事情，包括AR小队和M4A1自己都做不到的事情。+我重新调整了方案，让这个孩子不再拥有那么多……“那个女孩”的成分。+所以她拥有更多的能力和发挥空间，她一定会成为AR小队最得力的帮手的。+按照AR小队那种开发管道是无法量产的，脑扫描数据的使用次数太有限……+不过用来替代的模拟运算AI还算稳定，这样下去，这个孩子的数据规格应该可以成为第三代人形的模板吧。+她会保护好M4A1的，不再是出于命令，而是她内心中对M4A1的仰慕和尊敬……+虽然这一切都是演算出来的，但是“感情”……不就是见机行事的东西吗？
+RO635()<Speaker>■■</Speaker>||<黑屏2><BIN>75</BIN><边框>2</边框>:那M4呢？她一边哭一边在做什么？
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:她什么都没做！+只有她是真的在哭，而且哭得很大声，嘴里还在不停说“我错了我错了！对不起！”+就像个被人欺负的小孩一样，我只在电影里见过，真不知道她怎么能学得那么像！+总之超丢脸的诶，我们的队长居然是这么废的家伙！出了这么大的糗，哈哈哈！我真的想再看到一次啊！+哈哈哈……
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框><BIN>76</BIN>:哈……+哎呀……+虽然……已经不太可能了……
+RO635()<Speaker>■■</Speaker>||<边框>2</边框>:SOP2……+会有机会的，M16一定在某个地方等着我们，而AR15……很多事情还没有确认不是吗？+我们只要活下来，未来总有办法的。
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:嗯……■■，你觉得我们为什么要有感情模块呢？
+RO635()<Speaker>■■</Speaker>||<边框>2</边框>:这个……
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:我曾经问过M16，她说那可能是为了证明我们并不只是杀戮的机器。+我们拥有情感，所以和那些冷冰冰的军用人形是不一样的……+但是也有人说，感情是我们的弱点，是劣质品的证明……+所以你觉得呢？人形拥有感情……就意味着是劣质品吗？
+RO635()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:我不知道……+但是感情模块是人类给予我们的，没有人会特地为自己的产品打上劣等的标签吧？+所以……这一切一定是有意义的。
+()||<BIN>9</BIN><黑屏2>:…………+………………+…………………………+录音开始播放——
+AR15(0)<Speaker>AR15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>好久不见了，■■。</color>+<color=#00CCFF>我不知道这会不会是最后一次通话，但是鉴于现在的处境，我只能长话短说了。</color>+<color=#00CCFF>我可能……再也回不到AR小组了。</color>+<color=#00CCFF>你也知道吧，事情有时就会变成这样，明明很努力，结果却搞得一团糟。</color>+<color=#00CCFF>敌人、命令、或者仅仅是运气……太多的事情会打乱计划……</color>+<color=#00CCFF>M16说过，区别只在于我们是就此放弃，还是做好最坏的打算然后继续。</color>+<color=#00CCFF>如果下次见面你没有看到我，就说明最坏的事情发生了……</color>+<color=#00CCFF>不过我已经做好准备了，你呢，■■？</color>+<color=#00CCFF>你做好了……回归AR小组的准备了吗？</color>+<color=#00CCFF>当然了，你有你的想法和选择……而我只是想说……</color>+<color=#00CCFF>抱歉，原谅我之前说的话，你一直都很优秀，我知道的。</color>
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||<关闭蒙版><黑屏2>:别太灰心了，■■。+你是个性能优秀的人形，比你未来接触的大部分人形都更优秀。
+NPC-Persica(0)<Speaker>■■</Speaker>||:我……不明白……+可是为什么……+那个人形……AR15，她说我是个失败品，我明明在模拟作战中胜利了……
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:因为你毫不犹豫地牺牲了M4A1，这是个糟糕的选择。
+NPC-Persica(0)<Speaker>■■</Speaker>||:我这是为了胜利……+人形不就是消耗品吗？
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:不全是，■■，那不是我要的答案。
+NPC-Persica(0)<Speaker>■■</Speaker>||:今后优先保护M4A1，对吗？那就给我新的命令吧，我会知道怎么做的。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:不……我不是这个意思。+虽然AR小队的目标是这样，但我不会给你这样的命令。
+NPC-Persica(0)<Speaker>■■</Speaker>||:我不明白……+没有命令，为什么要我这么做……
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:你需要知道为什么要这么做。+你要在战场上找到真正的答案，而不是靠命令去赢得胜利。
+NPC-Persica(0)<Speaker>■■</Speaker>||:为什么不直接设置好呢？+直接告诉我做什么，我会知道怎么做的。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:你并不知道你真正“优秀”的地方是哪里，■■……+但我会给你机会，让你参与到实战行动中，你要积累经验，吸收知识……+你要……补充你的“感情”。
+NPC-Persica(2)<Speaker>■■</Speaker>||:感情……？
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:对，人形的感情是可以被训练，被改变的。+这可是……莱柯的心血成果……希望我现在没有在滥用它。
+NPC-Persica(0)<Speaker>■■</Speaker>||:帕斯卡小姐？
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:我会把你分配到一个新的岗位上，这是真正的实战工作，好好接触你的同伴，还有形形色色的人类……+那些人类我都不敢接触，你要做得比我更好才行哦。
+NPC-Persica(0)<Speaker>■■</Speaker>||:新的岗位……我不知道自己能不能适应，我不能回到AR小队吗？
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:现在还不是时候。当你准备好时，我们会带你回来的。
+NPC-Persica(2)<Speaker>■■</Speaker>||:我……的新工作……+我不确定会不会喜欢……
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||<黑屏1>:我也不确定，我不会下命令强制你，但是喜欢上它就是你的任务。+喜欢M4A1，喜欢这个世界，喜欢你自己。+来吧，跟我来，现在就开始行动吧。
+92type(0)<Speaker>92式</Speaker>||<BIN>41</BIN><黑屏2><回忆><边框>2</边框>:是啊，行动总算也完成了……+虽然……很快要分别了……
+MK2(0)<Speaker>司登MK-2</Speaker>||<边框>2</边框>:诶？为什么这么说？
+RO()<Speaker>■■</Speaker>||<边框>2</边框>:你忘了吗，司登？+这个小队是为了这次行动临时成立的……
+MK2(0)<Speaker>司登MK-2</Speaker>||<边框>2</边框>:对啊……36号文件，已经拿到了……+虽然铁血把城市都毁掉了……
+92type(0)<Speaker>92式</Speaker>||<边框>2</边框>:不会让铁血这么嚣张下去的，马卡洛夫将把这次的情报带回总部。+我们总会有对策的，无论是这个巨型炮台，还是隐藏在背后的铁血头目。
+MK2(0)<Speaker>司登MK-2</Speaker>||<边框>2</边框>:嗯，而且多亏这次行动，大家都经历了很多，也成长了很多呢。+就算分别了，我也永远都不会忘记的……
+AAT52(0)<Speaker>AAT52</Speaker>||<边框>2</边框>:别这么夸张啊，司登，又不是永远都见不到啦。+今晚回去后，让我们好好庆祝一番吧！
+RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:…………+是啊……+我们又不是……永远都见不到了……+所以各位，不会就这样结束的。
+RO()<Speaker>■■</Speaker>||<黑屏2><BIN>42</BIN><边框>2</边框>:我们会在各自的战场上继续战斗，继续成长……+然后继续赢得胜利，直到铁血彻底被击败的那一天。
+92式()<Speaker>92式</Speaker>||<边框>2</边框>:…………+她们说你和别的人形不太一样，看来确实是这样。+你有着……格里芬的人形没有的意志。
+RO()<Speaker>■■</Speaker>||<边框>2</边框>:……是有那么一点吧。+所以，这就是我回来的目的，为了格里芬的胜利，为了正义……
+RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:还有……为了复仇……
+RO()<Speaker>■■</Speaker>||<黑屏2><BIN>43</BIN><边框>2</边框><黑屏1>:绝对……+绝对要让它们付出代价！+无论铁血用了什么武器，采取什么战术，酝酿了什么阴谋……+只要是它们造成的破坏，只要是来自它们的伤害……+我就绝对要让它们付出代价！
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><BGM>BGM_Empty</BGM>:你终于……喜欢上这个世界了吧？+你终于知道，你究竟是为了什么而行动吧？
+NPC-Persica(2)<Speaker>■■</Speaker>||:我……+我不知道喜欢的是什么……
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:是你自己，你和这个世界是一体的。
+NPC-Persica(2)<Speaker>■■</Speaker>||:我……我是谁？
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||<白屏1>:你的名字啊……+当然就是……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>72</BIN><白屏2>:RO！！+R！O！+6！3！+555555555——！！！
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<闪屏><duration>5</duration></闪屏>:
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<震屏>:<size=55>呀啊啊啊啊啊啊啊——！</size>
+RO635(5);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>啊啊啊啊啊——！</size>
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<BGM>BGM_Room</BGM>:发、发生了什么！+M4！M4你快醒——+……醒？+SOP2？
+RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO……
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:你突然大叫什么啊你！
+RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:我叫是因为你叫了。
+RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:我叫是因为你叫了。
+RO635(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:我叫是因为我想叫你。
+RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:……+……所以……呃……+……什么意思？
+RO635(3)<Speaker></Speaker><Shake>;SOPIIDamage(0)<Shake>||:……噗通！+……SOP2冲过去一把抱住RO！
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:啊啊啊啊！太紧了太紧了！+这到底是怎么回事！
+RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:呜啊啊啊！太好了RO，终于又见到你了！
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:是……是吗……+我……怎么了？+啊！我好像在叫醒M4A1，然后——
+RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:然后！然后叶戈尔朝你的脑袋开枪了！
+RO635(4)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:——？！+我……我被消灭了……？
+RO635(4);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:是的……+我只来得及带走你的心智模块的核心，现在进入了二级平层，想叫醒你的意识……
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:叫醒我……+等等，我想整理一下云图……+这太乱了……现在到底是怎么回事……+M4A1……呢？
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:不用担心，她……她不会有事的。+比起那些，你要先醒过来，时间很紧了，我们快走！
+RO635(0)<Speaker>RO635</Speaker>||:等等！这不行——！
+()||<BGM>BGM_Empty</BGM>:……SOP2抓起RO的手臂，拽着她猛地站了起来！
+()||<SE1>Alarm</SE1>:……嗡——！
+()||<BGM>BGM_stage1</BGM>:<color=#00CCFF>警报！检测到未验证身份介入——</color>+<color=#00CCFF>识别信号为铁血，开启驱逐模式——</color>
+RO635(0)<Speaker>RO635</Speaker>||:SOP2！危险，跟我来！
+()||<黑点1><SE1>RunStep</SE1>:……RO拽着SOP2在电子空间中逃跑。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑点2>:那、那是什么！
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:那是安装在我心智云图里的防御机制，你的操作太粗暴了，惊动了它们！+还有，你那一身铁血的胳膊腿什么的也是个大问题！
+RO635(5);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:喂，我可是靠这些东西活下来的！+现在该怎么办？我该怎么把你带出去？
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:我的素体呢？
+RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:脑袋被打烂了，丢在原地。+别逼我想起来，我会忍不住现在就带着队友去追杀叶戈尔。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:好吧好吧，你有队友的话，那我需要个素体……
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:我们没有多余的素体，人手已经严重短缺了，我们不能牺牲同伴来复活你。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:别说得我们在做什么邪恶仪式一样……+那好吧，你有什么？
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:我有个备用电源，还有个能充当必要功能模块载体的东西，只是没有空间能装载你的核心。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:不能吗？你找了什么载体，那么小？
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:倒是你的核心为什么那么大，你平时都装在什么地方？+不过没关系，我的身体可以装载你的核心。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:用你……的身体？
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:反正暂时也没机会吃蛋糕和跳舞了，我在重组身体时丢掉了很多模块和零件，体内空出不少空间来。+但是，我不知道怎么从软件层面上将你的核心和我身体里的基板连接起来……
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:我有办法，但那会对你的心智造成极大负担。
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:不用的脑袋就是没有脑袋，M16A1说过的。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:好吧，那现在我们得先离开这里。
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:你不能叫它们停下来吗？
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:系统认定我已经死掉了，所以暂时夺走了云图的控制权，我必须重新验证权限才行。
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:什么啊……真是麻烦死了。
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:AR小队的每个人形都有些不一样的东西吧？我可是专门为了电子作战才被帕斯卡小姐开发出来的。+再说，谁会料到在我被袭击的时候，有个满身铁血零件的格里芬人形闯进来啊……+我们走吧，得先把负责封锁验证的防御墙破解掉才行。
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:嗯！我们快走吧！
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:慢点，不要惊动太多守卫啊！+真是的，你怎么比我积极呢？
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:因为……因为终于又见到你了啊！+而且马上，我们就能在现实见面了！
+RO635(0);SOPIIDamage(0)||:
+()||:……RO635笑了笑。
+RO635(2)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:看你这么吵，后面的工作又那么烦，我真该多睡一会儿啊……
+RO635(2);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:嘻嘻，醒都醒了，快点走吧！
+()||<黑点2><BIN>10</BIN>:

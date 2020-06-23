@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Boss</BGM>:……夜晚结束，天空开始泛白，大家正在进行决战的最后准备。
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:新的敌人！为什么不早点说！
+HK416(0)<Speaker>HK416</Speaker>||:刚才的行动中没有需要它们情报的场合！+你有线索吗，安洁？
+NPC-AngeDamage(0)<Speaker>安洁莉娅</Speaker>||:没有……但是我可能会根据它们的特征来判断，它们长什么样子？
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:眼见为实，你马上就会看到了。
+AN94(2)<Speaker>AN94</Speaker>||:刚才的炸弹，大大削弱了我们的重火力小队的火力。+一旦这次用尽，后面的撤退行动……
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:全用掉，一发也不剩，这是最后的撤离行动了。+指挥官，你现在还好吗？
+()<Speaker>指挥官</Speaker>||:……<c>糟透了，不过幸亏你们来了，SOP2、RO。<c>还不错，HK416，至少我看到你把安洁带回来了。<c>你们确定要来救我们吗，忤逆？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:嘿嘿，我们当然会来，您可是我们的指挥官啊！
+RO635(6)<Speaker>RO635</Speaker>||<分支>1</分支>:虽然用的是这副身体……但是为了您，我也会努力帮上忙的！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:指挥官，您帮助了我们那么多次，终于轮到我们来救你啦！
+RO635(6)<Speaker>RO635</Speaker>||<分支>1</分支>:请坚持下去，指挥官！
+HK416(0)<Speaker>HK416</Speaker>||<分支>2</分支>:当然，毕竟是我，指挥官，你应当深信不疑才对。+包括接下来，我要营救你的行动。
+NPC-AngeDamage(0)<Speaker>安洁莉娅</Speaker>||<分支>2</分支>:指挥官，我真的想不到你能坚持这么久，你究竟是为了工作？还是真的喜欢格里芬这个地方？+不管怎样，我会报答你的，当然这次小小的行动还不够，但是这是个开始。
+AK12(0)<Speaker>AK12</Speaker>||<分支>3</分支>:没办法，这可是安洁的命令。+开玩笑啦，您在战场上帮助了我们这么多，救了我们和安洁很多次，这点回报也是应该的。
+AN94(0)<Speaker>AN94</Speaker>||<分支>3</分支>:另外，这场战役，需要一个完美的收尾。+能够亲手结束这一切，是我们的荣幸。
+NPC-AngeDamage(0)<Speaker>安洁莉娅</Speaker>||:好了，各位，虽然不太完整，但我昔日的部下多少都凑在一起了。+我看到了416的情报，这些敌人很强大，而且充满谜团，而它们只有一个目的，就是抓走指挥官。+我们不会让它们得逞的，指挥官的梯队会努力拖住它们，我们要趁机冲进它们的包围网，把指挥官从安全屋里带出来……
+AK12(2)<Speaker>AK12</Speaker>||:你看到那些数据了吧，安洁？这场战斗会非常困难。
+HK416(0)<Speaker>HK416</Speaker>||:之前一个黑色人形头目，就把格里芬整个基地搞得一团乱，而白色的人形只可能是更高级别的敌人！
+NPC-AngeDamage(0)<Speaker>安洁莉娅</Speaker>||<黑屏1>:我知道，我丰富的作战经验告诉我，我们不太可能成功。+不过我们哪次不是这样呢？至少现在，指挥官需要我们。+我们必须成功，必须赢得最后的胜利，为了指挥官！出发！
+NytoWhite(0)<Speaker>白色人偶</Speaker><通讯框>||<BIN>10</BIN><黑点2>:<color=#00CCFF>格里芬的指挥官，上午好。</color>+<color=#00CCFF>放弃抵抗吧，否则你的部下，马上就要被我们全部消灭了。</color>
+()<Speaker>指挥官</Speaker>||:……<c>你做不到的，怪物！<c>是吗，那我好害怕啊。<c>你的通讯就是为了说这个？
+NytoWhite(0)<Speaker>白色人偶</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>如果我们做不到，就会死。我们是不会死的，所以我们一定会做到。</color>
+NytoWhite(0)<Speaker>白色人偶</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>你的语气没有一点恐惧，你是在欺骗我吗？</color>
+NytoWhite(0)<Speaker>白色人偶</Speaker><通讯框>||<分支>3</分支>:<color=#00CCFF>是的，我们想观察你的反应，然后将你与资料库里的人格数据匹配。</color>
+NytoWhite(0)<Speaker>白色人偶</Speaker>||:<color=#00CCFF>结果，没有露出绝望的表情，试探失败。</color>+<color=#00CCFF>只能等到任务达成后，再进一步观察。</color>
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:你不会成功的，你这个人偶！我们会突破你的防线，将指挥官营救出来！
+NytoWhite(0)<Speaker>白色人偶</Speaker><通讯框>||:<color=#00CCFF>你们任何准备都是徒劳的。</color>+<color=#00CCFF>你拒绝放弃抵抗，那我很快就会证明这一点。</color>+<color=#00CCFF>现在，涅托们，猎杀开始了！</color>
