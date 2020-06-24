@@ -200,6 +200,7 @@ patch2050={
 "2050/DeploymentSangvisSkillPanelController",
 "2050/DeploymentPlanModeController",
 "2050/DeploymentFloatingTeamInfo",
+"2050/DeploymentBuildingController",	
 "2050/BattleBossSkillBackgroundController",
 "2050/SangvisGashaponDrawBoxController",
 "2050/ReinforcementController_PlayCharacterVoice",

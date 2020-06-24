@@ -28,6 +28,11 @@ local mySangvisMallUI = function(self)
         self.PriceTagList[0].priceTagText.color = CS.UnityEngine.Color.red;
 	end
 end
+local InitUIElements = function(self)
+	self:InitUIElements();
+	self.textTitleDescription.text = CS.Data.GetLang(1652);
+end
 util.hotfix_ex(CS.QuickPurchaseBox,'SangvisMallUI',mySangvisMallUI)
 util.hotfix_ex(CS.QuickPurchaseBox,'GemBuyItemView',GemBuyItemView)
 util.hotfix_ex(CS.QuickPurchaseBox,'OneClickBuyItemSwitchView',OneClickBuyItemSwitchView)
+util.hotfix_ex(CS.QuickPurchaseBox,'InitUIElements',InitUIElements)
