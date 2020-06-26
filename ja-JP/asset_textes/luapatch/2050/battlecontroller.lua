@@ -19,6 +19,18 @@ local BeforeBattle = function(self)
 	end
 end
 local RequestBattleFinish = function(self,forceLose)
+	if self.currentSpotAction ~= nil then
+		for i = 0, self.currentSpotAction.battleSquadTeam.Count-1 do 
+			local squadTeam = self.currentSpotAction.battleSquadTeam[i];
+			if squadTeam.sangvisTeam ~= nil then
+				squadTeam.allFreeBuffAmmoMre = true;
+				squadTeam.sangvisTeam.ammo = squadTeam.sangvisTeam.ammo-CS.DeploymentController.sangvisCommonSupportAmmo;
+				squadTeam.sangvisTeam.ammo = CS.Mathf.Max(0,squadTeam.sangvisTeam.ammo);
+				squadTeam.sangvisTeam.mre = squadTeam.sangvisTeam.mre-CS.DeploymentController.sangvisCommonSupportMre;
+				squadTeam.sangvisTeam.mre = CS.Mathf.Max(0,squadTeam.sangvisTeam.mre);
+			end
+		end
+	end
 	if self.currentSpotAction ~= nil and self.currentSpotAction.sangvisTeamId ~= 0 then
 		self.currentSpotAction.friendlyTeamId = 0
 	end
