@@ -127,6 +127,54 @@
             "score_rewards": "88888:950",
             "ranking_onlist_number": "50000",
             "every_table_num": "20000"
+        },
+        {
+            "id": "101",
+            "name": "战区活动积分每日",
+            "type": "101",
+            "sub_type": "0",
+            "refresh": "test",
+            "title": "rank-10000101",
+            "top_rewards": "1:54101,2:54102,3:54103,4:54104,5:54105,6:54106,7:54107,8:54108,9:54109,10:54110,100:54111",
+            "percentage_rewards": "5:54112,10:54113,15:54114,20:54115,30:54116,40:54117,50:54118,100:54119",
+            "out_rewards": "",
+            "visable_rank": "100",
+            "visable_count": "300",
+            "score_rewards": "",
+            "ranking_onlist_number": "160000",
+            "every_table_num": "40000"
+        },
+        {
+            "id": "102",
+            "name": "要塞每日",
+            "type": "102",
+            "sub_type": "0",
+            "refresh": "test",
+            "title": "rank-10000102",
+            "top_rewards": "",
+            "percentage_rewards": "",
+            "out_rewards": "",
+            "visable_rank": "100",
+            "visable_count": "300",
+            "score_rewards": "",
+            "ranking_onlist_number": "120",
+            "every_table_num": "120"
+        },
+        {
+            "id": "112",
+            "name": "指定要塞积分",
+            "type": "112",
+            "sub_type": "0",
+            "refresh": "test",
+            "title": "rank-10000112",
+            "top_rewards": "1:44201,2:44202,3:44203,4:44204,5:44205,6:44206,7:44207,8:44208,9:44209,10:44210,100:44211",
+            "percentage_rewards": "5:44212,10:44213,15:44214,20:44215,30:44216,40:44217,50:44218,100:44219",
+            "out_rewards": "",
+            "visable_rank": "100",
+            "visable_count": "300",
+            "score_rewards": "",
+            "ranking_onlist_number": "160000",
+            "every_table_num": "40000"
         }
     ]
 }

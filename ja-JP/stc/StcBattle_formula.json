@@ -837,7 +837,7 @@
     },
     {
         "id": 1217,
-        "formula": "tbuffidtier(3158)+tbuffidtier(3160)"
+        "formula": "tbuffidtier(3158)+tbuffidtier(3157)"
     },
     {
         "id": 1218,
@@ -1678,6 +1678,70 @@
     {
         "id": 1489,
         "formula": "tbuffidtier(4092)+tbuffidtier(4093)+tbuffidtier(4094)+tbuffidtier(4117)<1"
+    },
+    {
+        "id": 1490,
+        "formula": "(@sangvisstrategy=1)&(@characterstatus=1)?1:0"
+    },
+    {
+        "id": 1491,
+        "formula": "@sangvisstrategy=1?0:1"
+    },
+    {
+        "id": 1492,
+        "formula": "@characterstatus=1?1:0"
+    },
+    {
+        "id": 1493,
+        "formula": "@battlepoint=1?1:0"
+    },
+    {
+        "id": 1494,
+        "formula": "@life*0.05"
+    },
+    {
+        "id": 1495,
+        "formula": "@buff4127+100"
+    },
+    {
+        "id": 1496,
+        "formula": "#buff4130>0?4131:0"
+    },
+    {
+        "id": 1497,
+        "formula": "@Critical*100"
+    },
+    {
+        "id": 1498,
+        "formula": "#rate>119?4134:0"
+    },
+    {
+        "id": 1499,
+        "formula": "#rate/100*(100+tbuffidtier(4140))-120>0?(#rate>120?128:#rate/120*(100+tbuffidtier(4140))):100"
+    },
+    {
+        "id": 1500,
+        "formula": "#rate/100*(100+tbuffidtier(4140))-120>0?(#rate>120?72:200-#rate/120*(100+tbuffidtier(4140))):100"
+    },
+    {
+        "id": 1501,
+        "formula": "#rate*(100+tbuffidtier(4140))/100>119?sbuffidtier(4143)*10:0"
+    },
+    {
+        "id": 1502,
+        "formula": "(sbuffidtier(1201)>0)|(sbuffidtier(1202)>0)|(sbuffidtier(1203)>0)|(sbuffidtier(1204)>0)|(sbuffidtier(1205)>0)|(sbuffidtier(1206)>0)|(sbuffidtier(1208)>0)|(sbuffidtier(1223)>0)?1:0"
+    },
+    {
+        "id": 1503,
+        "formula": "sbuffidtier(4143)*10"
+    },
+    {
+        "id": 1504,
+        "formula": "@battlepoint=1?1:0"
+    },
+    {
+        "id": 1505,
+        "formula": "@battlepoint=1?0:1"
     },
     {
         "id": 3001,
@@ -2929,31 +2993,31 @@
     },
     {
         "id": 3320,
-        "formula": "90-((sbuffidtier(3604)-1)*2.5)"
+        "formula": "95-((sbuffidtier(3604)-1)*2.5)"
     },
     {
         "id": 3321,
-        "formula": "80-((sbuffidtier(3604)-1)*5)"
+        "formula": "85-((sbuffidtier(3604)-1)*2.5)"
     },
     {
         "id": 3322,
-        "formula": "@MaxLife*0.04"
+        "formula": "@MaxLife*0.09"
     },
     {
         "id": 3323,
-        "formula": "@MaxLife*0.05"
+        "formula": "@MaxLife*0.105"
     },
     {
         "id": 3324,
-        "formula": "@MaxLife*0.06"
+        "formula": "@MaxLife*0.12"
     },
     {
         "id": 3325,
-        "formula": "@MaxLife*0.07"
+        "formula": "@MaxLife*0.135"
     },
     {
         "id": 3326,
-        "formula": "@MaxLife*0.08"
+        "formula": "@MaxLife*0.15"
     },
     {
         "id": 3327,
@@ -2981,23 +3045,215 @@
     },
     {
         "id": 3333,
-        "formula": "40+sbuffidtier(3611)*4"
+        "formula": "40+sbuffidtier(3611)*0.4"
     },
     {
         "id": 3340,
-        "formula": "sbuffidtier(3600)%9=0?3601:0"
+        "formula": "$1+6"
     },
     {
         "id": 3341,
-        "formula": "sbuffidtier(3600)%9=0?3602:0"
+        "formula": "$1+8"
     },
     {
         "id": 3342,
-        "formula": "85-3*sbuffidtier(3604)"
+        "formula": "$1+10"
     },
     {
         "id": 3343,
-        "formula": "85-3*sbuffidtier(3604)"
+        "formula": "$1+12"
+    },
+    {
+        "id": 3344,
+        "formula": "$1+14"
+    },
+    {
+        "id": 3345,
+        "formula": "@sangvisstrategy=1?1:0"
+    },
+    {
+        "id": 3346,
+        "formula": "@sangvisstrategy=1?0:1"
+    },
+    {
+        "id": 3347,
+        "formula": "sbuffidtier(3712)*15"
+    },
+    {
+        "id": 3348,
+        "formula": "35+sbuffidtier(3713)*5"
+    },
+    {
+        "id": 3349,
+        "formula": "@Ap*0.01*(9+sbuffidtier(3714))"
+    },
+    {
+        "id": 3350,
+        "formula": "15+sbuffidtier(3716)*15"
+    },
+    {
+        "id": 3351,
+        "formula": "$1+tbufftypetier(601)"
+    },
+    {
+        "id": 3352,
+        "formula": "@characterstatus=1?1:0"
+    },
+    {
+        "id": 3353,
+        "formula": "5+sbuffidtier(3622)"
+    },
+    {
+        "id": 3354,
+        "formula": "50"
+    },
+    {
+        "id": 3355,
+        "formula": "tbuffidtier(372301)*(sbuffidtier(372102))"
+    },
+    {
+        "id": 3356,
+        "formula": "($1+(sbuffidtier(3722)*0.0001)*#MaxLife)>($1*2)?($1*2):($1+(sbuffidtier(3722)*0.0001)*#MaxLife)"
+    },
+    {
+        "id": 3357,
+        "formula": "(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(206)>0)?999:0"
+    },
+    {
+        "id": 3358,
+        "formula": "125+sbuffidtier(3300)*21"
+    },
+    {
+        "id": 3359,
+        "formula": "140+sbuffidtier(3300)*24"
+    },
+    {
+        "id": 3360,
+        "formula": "155+sbuffidtier(3300)*27"
+    },
+    {
+        "id": 3361,
+        "formula": "170+sbuffidtier(3300)*30"
+    },
+    {
+        "id": 3362,
+        "formula": "185+sbuffidtier(3300)*33"
+    },
+    {
+        "id": 3363,
+        "formula": "200+sbuffidtier(3300)*36"
+    },
+    {
+        "id": 3364,
+        "formula": "215+sbuffidtier(3300)*39"
+    },
+    {
+        "id": 3365,
+        "formula": "230+sbuffidtier(3300)*42"
+    },
+    {
+        "id": 3366,
+        "formula": "245+sbuffidtier(3300)*45"
+    },
+    {
+        "id": 3367,
+        "formula": "260+sbuffidtier(3300)*48"
+    },
+    {
+        "id": 3368,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.06)"
+    },
+    {
+        "id": 3369,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.07)"
+    },
+    {
+        "id": 3370,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.08)"
+    },
+    {
+        "id": 3371,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.09)"
+    },
+    {
+        "id": 3372,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.10)"
+    },
+    {
+        "id": 3373,
+        "formula": "75+sbuffidtier(3721)*15"
+    },
+    {
+        "id": 3374,
+        "formula": "(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(206)+tbufftypetier(220)+tbufftypetier(221)>0)?$1*(1+sbuffidtier(3623)*0.01):$1"
+    },
+    {
+        "id": 3375,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.09)"
+    },
+    {
+        "id": 3376,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.10)"
+    },
+    {
+        "id": 3377,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.11)"
+    },
+    {
+        "id": 3378,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.12)"
+    },
+    {
+        "id": 3379,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.13)"
+    },
+    {
+        "id": 3380,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.14)"
+    },
+    {
+        "id": 3381,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.15)"
+    },
+    {
+        "id": 3382,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.16)"
+    },
+    {
+        "id": 3383,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.17)"
+    },
+    {
+        "id": 3384,
+        "formula": "(50+sbuffidtier(372801))*(1+tbuffidtier(362101)*0.18)"
+    },
+    {
+        "id": 3385,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.11)"
+    },
+    {
+        "id": 3386,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.12)"
+    },
+    {
+        "id": 3387,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.13)"
+    },
+    {
+        "id": 3388,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.14)"
+    },
+    {
+        "id": 3389,
+        "formula": "(50+sbuffidtier(3728))*(1+tbuffidtier(362101)*0.15)"
+    },
+    {
+        "id": 3390,
+        "formula": "sbuffidtier(3732)>0?3620:0"
+    },
+    {
+        "id": 3391,
+        "formula": "@characterstatus=-1?0:1"
     },
     {
         "id": 6000,
@@ -3012,7 +3268,35 @@
         "formula": "$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))"
     },
     {
+        "id": 6003,
+        "formula": "$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))+tbufftypetier(601)"
+    },
+    {
+        "id": 6004,
+        "formula": "$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))/#formation+tbufftypetier(601)"
+    },
+    {
         "id": 13280,
         "formula": "100-tbuffidtier(3560)*75"
+    },
+    {
+        "id": 13310,
+        "formula": "sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0"
+    },
+    {
+        "id": 13311,
+        "formula": "sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0"
+    },
+    {
+        "id": 13312,
+        "formula": "85-3*sbuffidtier(3604)"
+    },
+    {
+        "id": 13313,
+        "formula": "85-3*sbuffidtier(3604)"
+    },
+    {
+        "id": 334901,
+        "formula": "100+5*sbuffidtier(3716)"
     }
 ]

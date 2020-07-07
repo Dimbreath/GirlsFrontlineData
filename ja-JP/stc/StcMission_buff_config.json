@@ -9,7 +9,7 @@
         "duration_time": "3",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "3",
+        "is_resource_buff": 3,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -22,7 +22,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 2,
@@ -34,7 +37,7 @@
         "duration_time": "3",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 100502,
@@ -47,7 +50,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 3,
@@ -59,7 +65,7 @@
         "duration_time": "3",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 100502,
@@ -72,7 +78,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 5,
@@ -84,7 +93,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900106,
@@ -97,7 +106,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 6,
@@ -105,11 +117,11 @@
         "description": "mission_buff_config-20000006",
         "code": "buff",
         "type": 1,
-        "duration_type": "2",
+        "duration_type": "1",
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900113,
@@ -122,7 +134,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 8,
@@ -134,7 +149,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900116,
@@ -147,7 +162,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 13,
@@ -159,7 +177,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "*0",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -172,7 +190,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 14,
@@ -184,7 +205,7 @@
         "duration_time": "1",
         "limit_buff": "*0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -197,7 +218,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 15,
@@ -209,7 +233,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "*0",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -222,7 +246,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1004,
@@ -234,7 +261,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900154,
@@ -247,7 +274,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1301,
@@ -259,7 +289,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.05",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -272,7 +302,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1302,
@@ -284,7 +317,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.08",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -297,7 +330,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1303,
@@ -309,7 +345,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -322,7 +358,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1304,
@@ -334,7 +373,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.12",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -347,7 +386,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1305,
@@ -359,7 +401,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.14",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -372,7 +414,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1306,
@@ -384,7 +429,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.16",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -397,7 +442,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1307,
@@ -409,7 +457,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.18",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -422,7 +470,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1308,
@@ -434,7 +485,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.2",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -447,7 +498,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1309,
@@ -459,7 +513,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.22",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -472,7 +526,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1310,
@@ -484,7 +541,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1.25",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -497,7 +554,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1501,
@@ -509,7 +569,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -522,7 +582,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1502,
@@ -534,7 +597,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -547,7 +610,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1503,
@@ -559,7 +625,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -572,7 +638,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1504,
@@ -584,7 +653,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -597,7 +666,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1505,
@@ -609,7 +681,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -622,7 +694,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1506,
@@ -634,7 +709,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -647,7 +722,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1507,
@@ -659,7 +737,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -672,7 +750,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1508,
@@ -684,7 +765,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -697,7 +778,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1509,
@@ -709,7 +793,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -722,7 +806,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1510,
@@ -734,7 +821,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "2",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -747,7 +834,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1700,
@@ -759,7 +849,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900167,
@@ -772,7 +862,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1701,
@@ -784,7 +877,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900173,
@@ -797,7 +890,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1702,
@@ -809,7 +905,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900174,
@@ -822,7 +918,66 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
+    },
+    {
+        "id": 1801,
+        "name": "mission_buff_config-10001801",
+        "description": "mission_buff_config-20001801",
+        "code": "buff",
+        "type": 1,
+        "duration_type": "4",
+        "duration_time": "1",
+        "limit_buff": "0",
+        "exp_buff": "1",
+        "is_resource_buff": 0,
+        "vision_buff": "0",
+        "cannot_move": "",
+        "battle_skill_config_id": 115501,
+        "property_type": "0",
+        "property_data_pool": "0",
+        "special_spot_config_id": 0,
+        "conditions_type": "0",
+        "conditions_time": "0",
+        "birth_effect": 0,
+        "effect_process_star": 0,
+        "effect_process_end": 0,
+        "effect_process_duration": 0,
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
+    },
+    {
+        "id": 1811,
+        "name": "mission_buff_config-10001811",
+        "description": "mission_buff_config-20001811",
+        "code": "debuff",
+        "type": 2,
+        "duration_type": "4",
+        "duration_time": "1",
+        "limit_buff": "0",
+        "exp_buff": "1",
+        "is_resource_buff": 0,
+        "vision_buff": "0",
+        "cannot_move": "",
+        "battle_skill_config_id": 115502,
+        "property_type": "0",
+        "property_data_pool": "0",
+        "special_spot_config_id": 0,
+        "conditions_type": "0",
+        "conditions_time": "0",
+        "birth_effect": 0,
+        "effect_process_star": 0,
+        "effect_process_end": 0,
+        "effect_process_duration": 0,
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 10086,
@@ -834,7 +989,7 @@
         "duration_time": "2",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900112,
@@ -847,7 +1002,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 50000,
@@ -859,7 +1017,7 @@
         "duration_time": "1000",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -872,7 +1030,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": "2,2"
     },
     {
         "id": 50001,
@@ -884,7 +1045,7 @@
         "duration_time": "1,1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -897,7 +1058,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 1,
+        "extra_ammo_mre": ""
     },
     {
         "id": 50002,
@@ -909,7 +1073,7 @@
         "duration_time": "1000",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -922,7 +1086,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "1,1",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 50003,
@@ -934,7 +1101,7 @@
         "duration_time": "1000",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "1",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -947,19 +1114,22 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 50004,
         "name": "mission_buff_config-10050004",
         "description": "mission_buff_config-20050004",
-        "code": "NightHitbuff",
+        "code": "nighthitBuff",
         "type": 1,
         "duration_type": "1",
         "duration_time": "1000",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900114,
@@ -972,7 +1142,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000000,
@@ -984,7 +1157,7 @@
         "duration_time": "99",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -997,7 +1170,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": "CarryBoomerIcon#EC4702"
+        "manual_ui_code": "CarryBoomerIcon#EC4702",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000001,
@@ -1009,7 +1185,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "1",
         "battle_skill_config_id": 900112,
@@ -1022,7 +1198,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000002,
@@ -1034,7 +1213,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900106,
@@ -1047,7 +1226,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000003,
@@ -1059,7 +1241,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "1",
         "battle_skill_config_id": 0,
@@ -1072,7 +1254,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000004,
@@ -1084,7 +1269,7 @@
         "duration_time": "99",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "1",
         "battle_skill_config_id": 0,
@@ -1097,7 +1282,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000005,
@@ -1109,7 +1297,7 @@
         "duration_time": "99",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1122,7 +1310,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000006,
@@ -1134,7 +1325,7 @@
         "duration_time": "99",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1147,7 +1338,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": "CarryEMPIcon#1E90FF"
+        "manual_ui_code": "CarryEMPIcon#1E90FF",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000007,
@@ -1159,7 +1353,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1172,7 +1366,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000008,
@@ -1184,7 +1381,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1197,7 +1394,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000009,
@@ -1209,7 +1409,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900491,
@@ -1222,7 +1422,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000010,
@@ -1234,7 +1437,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 900491,
@@ -1247,7 +1450,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 1000011,
@@ -1259,7 +1465,7 @@
         "duration_time": "99",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1272,7 +1478,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100001,
@@ -1284,7 +1493,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1297,7 +1506,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100002,
@@ -1309,7 +1521,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1322,7 +1534,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100003,
@@ -1334,7 +1549,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1347,7 +1562,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100004,
@@ -1359,7 +1577,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1372,7 +1590,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100005,
@@ -1384,7 +1605,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1397,7 +1618,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100006,
@@ -1409,7 +1633,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1422,7 +1646,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100007,
@@ -1434,7 +1661,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1447,7 +1674,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100008,
@@ -1459,7 +1689,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1472,7 +1702,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100009,
@@ -1484,7 +1717,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1497,7 +1730,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100010,
@@ -1509,7 +1745,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1522,7 +1758,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100011,
@@ -1534,7 +1773,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1547,7 +1786,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100012,
@@ -1559,7 +1801,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1572,7 +1814,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100013,
@@ -1584,7 +1829,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1597,7 +1842,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100014,
@@ -1609,7 +1857,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1622,7 +1870,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100015,
@@ -1634,7 +1885,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1647,7 +1898,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100016,
@@ -1659,7 +1913,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1672,7 +1926,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100017,
@@ -1684,7 +1941,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1697,7 +1954,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100018,
@@ -1709,7 +1969,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1722,7 +1982,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100019,
@@ -1734,7 +1997,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1747,7 +2010,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100020,
@@ -1759,7 +2025,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1772,7 +2038,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100021,
@@ -1784,7 +2053,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1797,7 +2066,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100022,
@@ -1809,7 +2081,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1822,7 +2094,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100023,
@@ -1834,7 +2109,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1847,7 +2122,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100024,
@@ -1859,7 +2137,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1872,7 +2150,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100025,
@@ -1884,7 +2165,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1897,7 +2178,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100026,
@@ -1909,7 +2193,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1922,7 +2206,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100027,
@@ -1934,7 +2221,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1947,7 +2234,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100028,
@@ -1959,7 +2249,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1972,7 +2262,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100029,
@@ -1984,7 +2277,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -1997,7 +2290,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100030,
@@ -2009,7 +2305,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2022,7 +2318,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100031,
@@ -2034,7 +2333,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2047,7 +2346,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100032,
@@ -2059,7 +2361,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2072,7 +2374,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100033,
@@ -2084,7 +2389,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2097,7 +2402,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100034,
@@ -2109,7 +2417,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2122,7 +2430,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100035,
@@ -2134,7 +2445,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2147,7 +2458,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100036,
@@ -2159,7 +2473,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2172,7 +2486,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100037,
@@ -2184,7 +2501,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2197,7 +2514,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100038,
@@ -2209,7 +2529,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2222,7 +2542,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100039,
@@ -2234,7 +2557,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2247,7 +2570,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100040,
@@ -2259,7 +2585,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2272,7 +2598,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100041,
@@ -2284,7 +2613,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2297,7 +2626,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100042,
@@ -2309,7 +2641,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2322,7 +2654,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100043,
@@ -2334,7 +2669,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2347,7 +2682,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100044,
@@ -2359,7 +2697,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2372,7 +2710,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100045,
@@ -2384,7 +2725,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2397,7 +2738,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100046,
@@ -2409,7 +2753,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2422,7 +2766,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100047,
@@ -2434,7 +2781,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2447,7 +2794,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100048,
@@ -2459,7 +2809,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2472,7 +2822,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100049,
@@ -2484,7 +2837,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2497,7 +2850,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100050,
@@ -2509,7 +2865,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2522,7 +2878,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100051,
@@ -2534,7 +2893,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2547,7 +2906,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100052,
@@ -2559,7 +2921,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2572,7 +2934,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100053,
@@ -2584,7 +2949,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2597,7 +2962,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100054,
@@ -2609,7 +2977,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2622,7 +2990,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100055,
@@ -2634,7 +3005,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2647,7 +3018,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100056,
@@ -2659,7 +3033,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2672,7 +3046,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100057,
@@ -2684,7 +3061,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2697,7 +3074,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100058,
@@ -2709,7 +3089,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2722,7 +3102,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100059,
@@ -2734,7 +3117,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2747,7 +3130,10 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     },
     {
         "id": 9100060,
@@ -2759,7 +3145,7 @@
         "duration_time": "1",
         "limit_buff": "0",
         "exp_buff": "1",
-        "is_resource_buff": "0",
+        "is_resource_buff": 0,
         "vision_buff": "0",
         "cannot_move": "",
         "battle_skill_config_id": 0,
@@ -2772,6 +3158,9 @@
         "effect_process_star": 0,
         "effect_process_end": 0,
         "effect_process_duration": 0,
-        "manual_ui_code": ""
+        "manual_ui_code": "",
+        "ammo_mre_reduce": "",
+        "free_ap_move": 0,
+        "extra_ammo_mre": ""
     }
 ]

@@ -42,7 +42,7 @@ local isPreviewingAnimation = false
 local isEndingAnimation = false
 local waitpreviewCountdown = 4
 local waitpreviewCountdownTimer = 0
-local waitpreviewAnimationCountdown = 2
+local waitpreviewAnimationCountdown = 0.5
 local waitpreviewAnimationCountdownTimer = 0
 local waitEndingAnimationCountdown = 2
 local waitEndingAnimationCountdownTimer = 0
@@ -78,76 +78,76 @@ function InitGunAssemblyData()
 	GunAssemblyData[TableStruct.ID] = TableStruct	
 end
 function InitGunPartsData()	
-	local TableStruct = {ID = 1001, buff_id = 381402, group_id = 2, weight = 1, limit = 0, isLimitUnder = false, code = "P90_Mag" ,waitTime = 1.683}	
+	local TableStruct = {ID = 1001, buff_id = 381402, group_id = 2, weight = 4, limit = 5, isLimitUnder = false, code = "P90_Mag" ,waitTime = 1.683}	
 	GunPartsData[1] = TableStruct
 	
-	TableStruct = {ID = 1002, buff_id = 381403, group_id = 2, weight = 1, limit = 0, isLimitUnder = false, code = "P90_Body",waitTime = 1.1}	
+	TableStruct = {ID = 1002, buff_id = 381403, group_id = 2, weight = 3, limit = 4, isLimitUnder = true, code = "P90_Body",waitTime = 1.1}	
 	GunPartsData[2] = TableStruct
 	
-	TableStruct = {ID = 1003, buff_id = 381404, group_id = 2, weight = 1, limit = 0, isLimitUnder = false, code = "P90_Bolt",waitTime = 0.9}	
+	TableStruct = {ID = 1003, buff_id = 381404, group_id = 2, weight = 2, limit = 3, isLimitUnder = true, code = "P90_Bolt",waitTime = 0.9}	
 	GunPartsData[3] = TableStruct
 	
-	TableStruct = {ID = 1004, buff_id = 381405, group_id = 2, weight = 1, limit = 0, isLimitUnder = false, code = "P90_Receiver",waitTime = 0.5}	
+	TableStruct = {ID = 1004, buff_id = 381405, group_id = 2, weight = 1, limit = 1, isLimitUnder = true, code = "P90_Receiver",waitTime = 0.5}	
 	GunPartsData[4] = TableStruct
 	
-	TableStruct = {ID = 1005, buff_id = 381406, group_id = 3, weight = 1, limit = 0, isLimitUnder = false, code = "M249_Stock",waitTime = 1}	
+	TableStruct = {ID = 1005, buff_id = 381406, group_id = 3, weight = 4, limit = 2, isLimitUnder = false, code = "M249_Stock",waitTime = 1}	
 	GunPartsData[5] = TableStruct
 	
-	TableStruct = {ID = 1006, buff_id = 381407, group_id = 3, weight = 1, limit = 0, isLimitUnder = false, code = "M249_Trigger",waitTime = 1}	
+	TableStruct = {ID = 1006, buff_id = 381407, group_id = 3, weight = 2, limit = 4, isLimitUnder = true, code = "M249_Trigger",waitTime = 1}	
 	GunPartsData[6] = TableStruct
 	
-	TableStruct = {ID = 1007, buff_id = 381408, group_id = 3, weight = 1, limit = 0, isLimitUnder = false, code = "M249_Mag",waitTime = 0.9}	
+	TableStruct = {ID = 1007, buff_id = 381408, group_id = 3, weight = 5, limit = 8, isLimitUnder = false, code = "M249_Mag",waitTime = 0.9}	
 	GunPartsData[7] = TableStruct
 	
-	TableStruct = {ID = 1008, buff_id = 381409, group_id = 3, weight = 1, limit = 0, isLimitUnder = false, code = "M249_Body",waitTime = 0.5}	
+	TableStruct = {ID = 1008, buff_id = 381409, group_id = 3, weight = 1, limit = 1, isLimitUnder = true, code = "M249_Body",waitTime = 0.5}	
 	GunPartsData[8] = TableStruct
 	
-	TableStruct = {ID = 1009, buff_id = 381410, group_id = 3, weight = 1, limit = 0, isLimitUnder = false, code = "M249_Barrel",waitTime = 1.733}	
+	TableStruct = {ID = 1009, buff_id = 381410, group_id = 3, weight = 2, limit = 4, isLimitUnder = true, code = "M249_Barrel",waitTime = 1.733}	
 	GunPartsData[9] = TableStruct
 	
-	TableStruct = {ID = 1010, buff_id = 381411, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Bolt",waitTime = 0.9}	
+	TableStruct = {ID = 1010, buff_id = 381411, group_id = 4, weight = 2, limit = 5, isLimitUnder = true, code = "AUG_Bolt",waitTime = 0.9}	
 	GunPartsData[10] = TableStruct
 
-	TableStruct = {ID = 1011, buff_id = 381412, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Receiver",waitTime = 0.5}	
+	TableStruct = {ID = 1011, buff_id = 381412, group_id = 4, weight = 1, limit = 5, isLimitUnder = true, code = "AUG_Receiver",waitTime = 0.5}	
 	GunPartsData[11] = TableStruct
 	
-	TableStruct = {ID = 1012, buff_id = 381413, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Body",waitTime = 1.4}	
+	TableStruct = {ID = 1012, buff_id = 381413, group_id = 4, weight = 4, limit = 4, isLimitUnder = true, code = "AUG_Body",waitTime = 1.4}	
 	GunPartsData[12] = TableStruct
 	
-	TableStruct = {ID = 1013, buff_id = 381414, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Mag",waitTime = 0.95}	
+	TableStruct = {ID = 1013, buff_id = 381414, group_id = 4, weight = 7, limit = 3, isLimitUnder = false, code = "AUG_Mag",waitTime = 0.95}	
 	GunPartsData[13] = TableStruct
 	
-	TableStruct = {ID = 1014, buff_id = 381415, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Barrel",waitTime = 1}	
+	TableStruct = {ID = 1014, buff_id = 381415, group_id = 4, weight = 5, limit = 8, isLimitUnder = true, code = "AUG_Barrel",waitTime = 1}	
 	GunPartsData[14] = TableStruct
 	
-	TableStruct = {ID = 1015, buff_id = 381416, group_id = 4, weight = 1, limit = 0, isLimitUnder = false, code = "AUG_Bipod",waitTime = 0.7}	
+	TableStruct = {ID = 1015, buff_id = 381416, group_id = 4, weight = 6, limit = 4, isLimitUnder = false, code = "AUG_Bipod",waitTime = 0.7}	
 	GunPartsData[15] = TableStruct
 	
-	TableStruct = {ID = 1016, buff_id = 381417, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Upper",waitTime = 1}	
+	TableStruct = {ID = 1016, buff_id = 381417, group_id = 5, weight = 4, limit = 6, isLimitUnder = true, code = "SVD_Upper",waitTime = 1}	
 	GunPartsData[16] = TableStruct
 	
-	TableStruct = {ID = 1017, buff_id = 381418, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Scope",waitTime = 0.75}	
+	TableStruct = {ID = 1017, buff_id = 381418, group_id = 5, weight = 5, limit = 15, isLimitUnder = true, code = "SVD_Scope",waitTime = 0.75}	
 	GunPartsData[17] = TableStruct
 	
-	TableStruct = {ID = 1018, buff_id = 381419, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_HG",waitTime = 1}	
+	TableStruct = {ID = 1018, buff_id = 381419, group_id = 5, weight = 2, limit = 6, isLimitUnder = true, code = "SVD_HG",waitTime = 1}	
 	GunPartsData[18] = TableStruct
 	
-	TableStruct = {ID = 1019, buff_id = 381420, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Trigger",waitTime = 1.167}	
+	TableStruct = {ID = 1019, buff_id = 381420, group_id = 5, weight = 2, limit = 6, isLimitUnder = true, code = "SVD_Trigger",waitTime = 1.167}	
 	GunPartsData[19] = TableStruct
 	
-	TableStruct = {ID = 1020, buff_id = 381421, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Mag",waitTime = 1}	
+	TableStruct = {ID = 1020, buff_id = 381421, group_id = 5, weight = 5, limit = 15, isLimitUnder = true, code = "SVD_Mag",waitTime = 1}	
 	GunPartsData[20] = TableStruct
 	
-	TableStruct = {ID = 1021, buff_id = 381422, group_id = 5, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Lower",waitTime = 0.5}	
+	TableStruct = {ID = 1021, buff_id = 381422, group_id = 5, weight = 1, limit = 3, isLimitUnder = true, code = "SVD_Lower",waitTime = 0.5}	
 	GunPartsData[21] = TableStruct
 	
-	TableStruct = {ID = 1022, buff_id = 381423, group_id = 1, weight = 1, limit = 0, isLimitUnder = false, code = "M1897_Receiver",waitTime = 0.5}	
+	TableStruct = {ID = 1022, buff_id = 381423, group_id = 1, weight = 1, limit = 2, isLimitUnder = true, code = "M1897_Receiver",waitTime = 0.5}	
 	GunPartsData[22] = TableStruct
 	
-	TableStruct = {ID = 1023, buff_id = 381424, group_id = 1, weight = 1, limit = 0, isLimitUnder = false, code = "M1897_Stock",waitTime = 1.2}	
+	TableStruct = {ID = 1023, buff_id = 381424, group_id = 1, weight = 2, limit = 0, isLimitUnder = false, code = "M1897_Stock",waitTime = 1.2}	
 	GunPartsData[23] = TableStruct
 	
-	TableStruct = {ID = 1024, buff_id = 381425, group_id = 1, weight = 1, limit = 0, isLimitUnder = false, code = "M1897_Barrel",waitTime = 1}	
+	TableStruct = {ID = 1024, buff_id = 381425, group_id = 1, weight = 2, limit = 0, isLimitUnder = false, code = "M1897_Barrel",waitTime = 1}	
 	GunPartsData[24] = TableStruct
 	
 	
@@ -249,7 +249,7 @@ Update = function()
 				if countdownTimer > countdown then
 					EndAssembly()
 				end
-				if reverseDirector then
+				if reverseDirector and not tempDirector == nil then
 					local time = tempDirector.time - CS.UnityEngine.Time.deltaTime
 					if time < 0 then 
 						time = 0
@@ -308,11 +308,11 @@ end
 function OnClickAssemblyEnd()
 	--弹出提示
 	if GunAssemblyCount == 0 then
-		CS.CommonController.ConfirmBox("放弃拼装",function()
+		CS.CommonController.ConfirmBox(GetName(10162),function()
 			EndAssembly()
 		end,nil,CS.ConfirmType.Normal,0,true)
 	else
-		CS.CommonController.ConfirmBox("提前结束",function()
+		CS.CommonController.ConfirmBox(GetName(10162),function()
 				EndAssembly()
 			end)
 	end
@@ -381,15 +381,45 @@ function OnClickGunParts(id)
 	if id == lastGunPartsID then
 		ReturnLastGunParts()
 	else
-		if (data.isLimitUnder and data.limit >= gunWeight) or (not data.isLimitUnder and data.limit <= gunWeight) then
+		if (CheckLimit(data)) then
 			AddGunParts(id)
 		else
 			--弹出提示
 			print(data.limit .." "..gunWeight)
-			CS.CommonController.LightMessageTips("顺序不正确不能拼装")
+			CS.CommonController.LightMessageTips(GetName(10161))
 		end
 	end
 	
+end
+function CheckLimit(data)
+	if data.ID == 1010 then
+		if gunWeight == 0 then
+			return false
+		end
+	end
+	if data.ID == 1017 then
+		if gunWeight <= 5 then
+			return false
+		end
+	end
+	if data.ID == 1018 or data.ID == 1019 then
+		if gunWeight <= 1 then
+			return false
+		end
+	end
+	if data.isLimitUnder then
+		if gunWeight < data.limit then
+			return true
+		else
+			return false
+		end		
+	else
+		if gunWeight > data.limit then
+			return true
+		else
+			return false
+		end	
+	end
 end
 function AddGunParts(id)
 	local data = GetGunPartsDataById(id)
@@ -559,6 +589,7 @@ function CheckAssemblyGunComplete()
 		btnUndo.gameObject:SetActive(false)
 		btnBack.gameObject:SetActive(false)
 		PlaySFX("success")
+		PlaySFX("CountdownCancel")
 		isCountingTime = false
 		DoTweenPlay(mainTween2,MainGO)
 		isEndingAnimation = true

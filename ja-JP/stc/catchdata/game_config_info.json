@@ -61,6 +61,24 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "anti_indulgence_heart_beat_rate",
+            "parameter_type": "int",
+            "parameter_value": "300",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "anti_indulgence_heart_beat_reset_time",
+            "parameter_type": "int",
+            "parameter_value": "420",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "anti_indulgence_legal_holidays",
+            "parameter_type": "string",
+            "parameter_value": "0101,0124,0125,0126,0127,0128,0129,0130,0131,0201,0202,0404,0405,0406,0501,0502,0503,0504,0505,0625,0626,0627,1001,1002,1003,1004,1005,1006,1007,1008",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "armor_basic",
             "parameter_type": "string",
             "parameter_value": "2,0.161,100",
@@ -357,7 +375,7 @@
         {
             "parameter_name": "dorm_material_coefficients",
             "parameter_type": "string",
-            "parameter_value": "80,10,0.1,60000,0.2,1.7,0.08,4.58,0.05,0",
+            "parameter_value": "80,10,0.1,60000,0.2,1.7,0.08,4.58,0.05,0,235001,7.4,0.05",
             "client_require": "1"
         },
         {
@@ -532,6 +550,12 @@
             "parameter_name": "exclude_skins",
             "parameter_type": "string",
             "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "explore_daynight_time",
+            "parameter_type": "string",
+            "parameter_value": "6,18",
             "client_require": "1"
         },
         {
@@ -781,6 +805,18 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "fix_cost_sangvis",
+            "parameter_type": "int",
+            "parameter_value": "10",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "fix_cost_sangvis2",
+            "parameter_type": "string",
+            "parameter_value": "10,0.7,20",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "fix_cost_squad1",
             "parameter_type": "string",
             "parameter_value": "20;1200",
@@ -802,6 +838,18 @@
             "parameter_name": "fix_time_normal",
             "parameter_type": "string",
             "parameter_value": "20,40",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "fix_time_sangvis",
+            "parameter_type": "string",
+            "parameter_value": "10800,0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "fix_time_sangvis2",
+            "parameter_type": "string",
+            "parameter_value": "30000,0.7,36000,0,30",
             "client_require": "1"
         },
         {
@@ -1051,6 +1099,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "item_recover_info_603",
+            "parameter_type": "string",
+            "parameter_value": "603:6:2:1",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "jp_reset_first_pay_time",
             "parameter_type": "int",
             "parameter_value": "-1",
@@ -1099,6 +1153,18 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "mapcamera_enemyhub_viewsize",
+            "parameter_type": "float",
+            "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "mapcamera_hub_scale_range",
+            "parameter_type": "string",
+            "parameter_value": "5,20",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "max_attack_rate",
             "parameter_type": "int",
             "parameter_value": "120",
@@ -1120,6 +1186,18 @@
             "parameter_name": "max_research_slot",
             "parameter_type": "int",
             "parameter_value": "4",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "max_sangvis",
+            "parameter_type": "int",
+            "parameter_value": "300",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "max_sangvis_exp",
+            "parameter_type": "int",
+            "parameter_value": "3255500",
             "client_require": "1"
         },
         {
@@ -1492,6 +1570,288 @@
             "parameter_name": "same_furniture_limit",
             "parameter_type": "string",
             "parameter_value": "299:3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_accelerate_chip_dev",
+            "parameter_type": "int",
+            "parameter_value": "333",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_advance_skill_effect",
+            "parameter_type": "string",
+            "parameter_value": "15,2",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_ap",
+            "parameter_type": "string",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_assist_attack_cost",
+            "parameter_type": "string",
+            "parameter_value": "2,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_assist_exp_M",
+            "parameter_type": "int",
+            "parameter_value": "10",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_assist_grade",
+            "parameter_type": "string",
+            "parameter_value": "1,0.8",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_attack_cost",
+            "parameter_type": "string",
+            "parameter_value": "2,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_attack_effect",
+            "parameter_type": "string",
+            "parameter_value": "5,0.01,23,8,50,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_base_lv",
+            "parameter_type": "int",
+            "parameter_value": "40",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_battle_exp_damping",
+            "parameter_type": "string",
+            "parameter_value": "10,5",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_battle_exp_M",
+            "parameter_type": "int",
+            "parameter_value": "100",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_chip_type",
+            "parameter_type": "string",
+            "parameter_value": "1,2,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_ap_add",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_formation_effect",
+            "parameter_type": "int",
+            "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_skill1 ",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_skill2",
+            "parameter_type": "string",
+            "parameter_value": "1,2,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_skill3",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_boss_memberlocation_switch_skill_advance",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_buildingatk_exp_M",
+            "parameter_type": "string",
+            "parameter_value": "10,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_commander_location_type",
+            "parameter_type": "string",
+            "parameter_value": "1,2,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_cost_mp",
+            "parameter_type": "int",
+            "parameter_value": "2",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_cost_res",
+            "parameter_type": "string",
+            "parameter_value": "10,10,1,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_deffence_effect",
+            "parameter_type": "string",
+            "parameter_value": "1,35,2.6,200,1.6,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_display_emoji",
+            "parameter_type": "string",
+            "parameter_value": "Emoji_1711,Emoji_1603,Emoji_1727,Emoji_1705,Emoji_1715,Emoji_1764,Emoji_1750,Emoji__1601,Emoji_1765;Emoji__0502,Emoji__1203,Emoji__1304,Emoji_0403,Emoji_1740,Emoji_1720,Emoji_1752,Emoji_1744;Emoji_1738,Emoji_1737,Emoji_1735,Emoji_1746,Emoji_1723,Emoji_1707,Emoji_1708,Emoji_1709,Emoji__1503;Emoji_9002,Emoji_0201,Emoji__1506,Emoji__1504,Emoji__0511,Emoji_1702,Emoji_1733;Emoji_1715,Emoji_1713,Emoji__1302,Emoji_1720,Emoji__1602,Emoji_1752,Emoji__0502;Emoji_9001,Emoji_1710,Emoji_0201,Emoji_1721,Emoji_0203,Emoji_0405;Emoji_9001,Emoji_1710,Emoji_0202,Emoji_1751",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_display_teams",
+            "parameter_type": "string",
+            "parameter_value": "9701,9702,9703;9101,9102,9201,9202,9301,9302,9401,9402,9501,9502,9601,9602;9001;3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_effect_coef",
+            "parameter_type": "string",
+            "parameter_value": "1,1,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_first_content",
+            "parameter_type": "string",
+            "parameter_value": "1001:1,2003:1,3001:1,3005:1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_forces",
+            "parameter_type": "string",
+            "parameter_value": "0:Others,1:Sangvis,2:KCCO,3:Paradeus",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_battle_defeat_awardradio",
+            "parameter_type": "int",
+            "parameter_value": "-10",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_battle_lesstime_awardradio_1",
+            "parameter_type": "int",
+            "parameter_value": "10",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_battle_lesstime_awardradio_2",
+            "parameter_type": "int",
+            "parameter_value": "20",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_battle_moretime_awardradio",
+            "parameter_type": "int",
+            "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_extra_ratio",
+            "parameter_type": "int",
+            "parameter_value": "300",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_hiringteam_extra_time",
+            "parameter_type": "string",
+            "parameter_value": "1:1,4,0|2:2,5,0|3:3,6,0",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_lv_max",
+            "parameter_type": "int",
+            "parameter_value": "100",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_mall_limit",
+            "parameter_type": "int",
+            "parameter_value": "10",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_max_teamlot",
+            "parameter_type": "string",
+            "parameter_value": "9",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_mission_attack_cost",
+            "parameter_type": "string",
+            "parameter_value": "2,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_mission_standby_cost",
+            "parameter_type": "string",
+            "parameter_value": "0,1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_rate_limit",
+            "parameter_type": "int",
+            "parameter_value": "150",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_shape_val",
+            "parameter_type": "string",
+            "parameter_value": "1:100,2:102,3:105,4:108,5:110,0:100",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_skill1_effect",
+            "parameter_type": "string",
+            "parameter_value": "35,5",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_skill2_effect",
+            "parameter_type": "string",
+            "parameter_value": "15,2",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_strategy_unlocklv",
+            "parameter_type": "string",
+            "parameter_value": "3,4",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_talent_skill_effect",
+            "parameter_type": "string",
+            "parameter_value": "15,2",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_teammember_location_type",
+            "parameter_type": "string",
+            "parameter_value": "2,3",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "sangvis_team_cost",
+            "parameter_type": "int",
+            "parameter_value": "36",
             "client_require": "1"
         },
         {
