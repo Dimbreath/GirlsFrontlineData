@@ -107,22 +107,22 @@ enemy_character_type-20011006,Jaeger
 enemy_character_type-10011006,Heavy Strike//c Accurate
 enemy_character_type-30011006,
 enemy_character_type-20011007,Guard
-enemy_character_type-10011007,Heavy//c Force shield
+enemy_character_type-10011007,Heavy//c HP shield
 enemy_character_type-30011007,
 enemy_character_type-20011008,Dragoon
 enemy_character_type-10011008,Heavy Strike//c High speed//c Agile
 enemy_character_type-30011008,
 enemy_character_type-20011011,Aegis
-enemy_character_type-10011011,Armor//c Force shield
+enemy_character_type-10011011,Armor//c HP shield
 enemy_character_type-30011011,
 enemy_character_type-20011012,Striker
 enemy_character_type-10011012,Full Auto
 enemy_character_type-30011012,
 enemy_character_type-20011014,Nemeum
-enemy_character_type-10011014,Armor//c Force shield
+enemy_character_type-10011014,Armor//c HP shield
 enemy_character_type-30011014,
 enemy_character_type-20011015,Aegis
-enemy_character_type-10011015,Armor//c Force shield
+enemy_character_type-10011015,Armor//c HP shield
 enemy_character_type-30011015,
 enemy_character_type-20011016,"Nemeum" Type
 enemy_character_type-10011016,Armor//c Heavy Strike
@@ -143,11 +143,17 @@ enemy_character_type-20011026,Cerynitis
 enemy_character_type-10011026,Armor//c Continuous shots
 enemy_character_type-30011026,
 enemy_character_type-20011028,"Aegis" Type
-enemy_character_type-10011028,Armor//c Force shield
+enemy_character_type-10011028,Armor//c HP shield
 enemy_character_type-30011028,
 enemy_character_type-20011029,Nightmare
 enemy_character_type-10011029,???//c ???
 enemy_character_type-30011029,
+enemy_character_type-20011030,Brute
+enemy_character_type-10011030,High speed//c Armor piercing
+enemy_character_type-30011030,
+enemy_character_type-20011031,Nemeum
+enemy_character_type-10011031,Armor//c Heavy Strike
+enemy_character_type-30011031,
 enemy_character_type-20020000,Summer 2017 Event Rabbit Hole Icon
 enemy_character_type-10020000,Avatar
 enemy_character_type-30020000,
@@ -218,7 +224,7 @@ enemy_character_type-20010042,Uhlan
 enemy_character_type-10010042,Missile//c Crushing//c Force shield
 enemy_character_type-30010042,
 enemy_character_type-20010043,Strelet
-enemy_character_type-10010043,Normal
+enemy_character_type-10010043,Normal//c Force shield
 enemy_character_type-30010043,
 enemy_character_type-20010044,Alcoholic Dragoon
 enemy_character_type-10010044,Alcoholic//c High speed//c Mechanized
@@ -839,25 +845,25 @@ enemy_character_type-20900165,M4A1
 enemy_character_type-10900165,M4A1//c Mentally recovered
 enemy_character_type-30900165,
 enemy_character_type-20900166,BOSS Zombie
-enemy_character_type-10900166,Infected//c Giant
+enemy_character_type-10900166,Boss Zombie//c Infected//c Giant
 enemy_character_type-30900166,
 enemy_character_type-20900167,BOSS Zombie
-enemy_character_type-10900167,Infected//c Giant
+enemy_character_type-10900167,Boss Zombie//c Infected//c Giant
 enemy_character_type-30900167,
-enemy_character_type-20900168,Nimogen
-enemy_character_type-10900168,Anna//c Tide//c Laser
+enemy_character_type-20900168,Failed Isomer
+enemy_character_type-10900168,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900168,
-enemy_character_type-20900169,Nimogen
-enemy_character_type-10900169,Anna//c Tide//c Laser
+enemy_character_type-20900169,Failed Isomer
+enemy_character_type-10900169,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900169,
-enemy_character_type-20900170,Nimogen
-enemy_character_type-10900170,Anna//c Tide//c Laser
+enemy_character_type-20900170,Failed Isomer
+enemy_character_type-10900170,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900170,
 enemy_character_type-20900171,Nimogen
-enemy_character_type-10900171,Anna//c Tide//c Laser
+enemy_character_type-10900171,Nimogen
 enemy_character_type-30900171,
 enemy_character_type-20900172,Nimogen
-enemy_character_type-10900172,Anna//c Tide//c Laser
+enemy_character_type-10900172,Nimogen
 enemy_character_type-30900172,
 enemy_character_type-20900173,Argonauts - Carina
 enemy_character_type-10900173,Infantry Support Gun
@@ -878,10 +884,10 @@ enemy_character_type-20900178,Argonauts - Puppis
 enemy_character_type-10900178,Anti-Aircraft Gun
 enemy_character_type-30900178,
 enemy_character_type-20900179,BOSS Zombie
-enemy_character_type-10900179,
+enemy_character_type-10900179,Boss Zombie//c Infected//c Giant
 enemy_character_type-30900179,
-enemy_character_type-20900180,
-enemy_character_type-10900180,
+enemy_character_type-20900180,Failed Isomer
+enemy_character_type-10900180,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900180,
 enemy_character_type-20900181,Argonauts - Carina
 enemy_character_type-10900181,Infantry Support Gun
@@ -919,14 +925,14 @@ enemy_character_type-30900191,
 enemy_character_type-20900192,Argonauts - Puppis
 enemy_character_type-10900192,Anti-Aircraft Gun
 enemy_character_type-30900192,
-enemy_character_type-20900193,
-enemy_character_type-10900193,
+enemy_character_type-20900193,Nimogen
+enemy_character_type-10900193,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900193,
-enemy_character_type-20900194,
-enemy_character_type-10900194,
+enemy_character_type-20900194,Nimogen
+enemy_character_type-10900194,Failed Isomer//cNeural Cloud Connection//cNeural Cloud Fusion
 enemy_character_type-30900194,
 enemy_character_type-20900195,BOSS Zombie
-enemy_character_type-10900195,
+enemy_character_type-10900195,Boss Zombie//c Infected//c Giant
 enemy_character_type-30900195,
 enemy_character_type-20900196,Gager
 enemy_character_type-10900196,Gager

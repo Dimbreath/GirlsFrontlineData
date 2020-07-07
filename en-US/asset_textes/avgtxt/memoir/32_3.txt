@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>55</BIN><SE2>Gunfight</SE2>:...
-()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:Marking new targets. Enemy unit bearing 15° poses the highest threat. +Multiple enemy reinforcements incoming 200 meters ahead. Recommend using Plan B to counter.
+()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:Marking new targets. Enemy unit 15° left poses the highest threat. +Multiple enemy reinforcements incoming 200 meters ahead. Recommend using Plan B to counter.
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||<震屏>:<size=50>Take this!!</size>
 ()<Speaker></Speaker>||<SE1>Explode</SE1>:...
 AR(0)<Speaker>Galil</Speaker>||<BGM>BGM_Hello</BGM>:The way you fight... +Seriously...you said "I" was becoming more like Negev...?
@@ -20,7 +20,7 @@ BOSS-11(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Wait... The military did
 BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZIMod(0)||:The security level of this place was pretty high to begin with. It's gonna cost a bunch to break in. +Maybe that's why they've withdrawn for the time being to wait for some professional equipment first.
 BOSS-11(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:The military hasn't been in there yet...which means the intel is still inside after all this time... +Is there any way we can get in?
 BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZIMod(0)||:As the original user of this safe house, you are authorized to simply unlock the thickest blast resistant door. +With your current armaments, you can clear all obstacles along the way within an extremely short period of time.
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Ha, then let's do it! +【Administrator】, I'm handing over my authorization. Just tell me where to drill.
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Ha, then let's do it! +【Administrator】, I'm handing over my authorization. Just tell me where to breach.
 ()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:Understood.
 AR(0)<Speaker>Galil</Speaker>||:...
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:What's wrong, Galil? +You look odd. Are you jealous?
@@ -44,7 +44,7 @@ AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Pffft... In the end, only Tav
 AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)||:As if...everyone would come back tomorrow.
 AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:... +Yeah... +I...
 AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)||:Stop spacing out, Uzi. +It's okay to be nostalgic, but don't forget what you came to do.
-AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I know. Don't rush me. +This scene will be lost forever once I blow up the database... +I just want to take it all in.
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I know, don't rush me. +This scene will be lost forever once I blow up the database... +I just want to take it all in.
 AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)||:If you don't want to make more mistakes, you'd better—
 ()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||<BGM>BGM_Empty</BGM>:Too late.
 ()<Speaker></Speaker>||<SE1>Explode</SE1><CGDelay>0.4</CGDelay><震屏>:BOOM...
@@ -98,10 +98,10 @@ MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I finally understand... +Why this p
 ()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:You wish for the power to surpass those who fault and despise you, including Negev. +Don't you wish to prove yourself? Then why do you oppose me?
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:No... +The truth is...I simply don't want to watch my friends leave me behind because I can't keep up...
 AR(0)<Speaker>Galil</Speaker>||:...
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I don't want to leave them... +I want to fight with Negev, Tavor, and Galil, like we always have... +That's why...I can't stay on the prep team...nor can I stay here.
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I don't want to leave them... +I want to fight alongside Negev, Tavor, and Galil, like we always have... +That's why...I can't stay on the prep team...nor can I stay here.
 ()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:You are merely imprisoning yourself in the past. +This is what holds you back from surpassing everyone else and reaching the top!
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:I don't want to climb so high. +I have my place. The power you offer me...isn't what I want!
-()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:Struggling will not change your state of paralysis. +military reinforcements will arrive shortly, and all you can do is watch them acquire their target and die!
+()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:Struggling will not change your state of paralysis. +Military reinforcements will arrive shortly, and all you can do is watch them acquire their target, and then you'll die!
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Really? +Hey...【Administrator】... +You said I could raze anything with just a snap of my fingers... +Now is the time to deliver on your promise.
 ()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||:What?
 MicroUZIMod(0)<Speaker>Micro Uzi</Speaker>||:Hey, Galil. Can you still run? +I know you said you wanted to see what I'm capable of after the upgrade, but I don't really want you to watch this.
