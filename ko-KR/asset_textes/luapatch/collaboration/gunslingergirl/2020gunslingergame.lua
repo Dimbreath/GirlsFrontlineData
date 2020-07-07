@@ -142,11 +142,11 @@ Start = function()
 	--self:GetComponent('Canvas').worldCamera = CS.UnityEngine.Camera.main
 	--注册人物
     if character == nil then
-        character = CS.BattleLuaUtility.GetCharacterByCode('WA2000')
+        character = CS.BattleLuaUtility.GetCharacterByCode('Rico')
     end
 	--注册人物技能
     mCurSkill[1] = character.gun:GetSkillByGroupId(406601)
-	mCurSkill[2] = character.gun:GetSkillByGroupId(406601)
+	mCurSkill[2] = character.gun:GetSkillByGroupId(406611)
     -- 人物扶正
     --character.listMember[0].transform.localEulerAngles = CS.UnityEngine.Vector3(0, 0, 0)
 
