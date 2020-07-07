@@ -1,52 +1,51 @@
-()||<BIN>82</BIN><BGM>BGM_Sunshine</BGM>:格里芬人形宿舍内。
-M1895(0)<Speaker>纳甘左轮</Speaker>||<黑点1>:呼……保养完毕！今天我的状态也相当不错呢~+去咖啡厅休息一下好啦。
-()||<BIN>80</BIN><黑点2>:格里芬咖啡厅内。
-M1895(0)<Speaker>纳甘左轮</Speaker>||:在那里的人是……莫辛纳甘？
-M1891(0)<Speaker>莫辛纳甘</Speaker>||:纳甘左轮，下午好啊~
-M1895(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:你怎么会在这里啊？+按照计划表，这时候你不是应该在训练吗？
-M1895(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:你不知道吗？昨天基地里有新人来了。+指挥官重新调整了训练计划，我的时间改在晚上啦。
-M1895(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:哦？有新兵啊？+莫辛纳甘，你知道来的是哪几个孩子吗？
-M1895(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:应该是和你一样的手枪人形。+来了三个……不对，好像是两个来着？
-M1895(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:……真是的，名字不知道就算了，你怎么连人数都搞不清呀？
-M1895(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:又不是我们小队的……所以我也没太在意。+反正以后总有机会一起出任务的，到那时自然就熟悉啦！
-M1895(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:莫辛纳甘，身为老前辈，我们应该多关心关心新兵！+向新人传授经验，也是老兵应该尽到的责任。
-M1895(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:是啊是啊……不过现在是休息时间。+纳甘左轮，要一起喝一杯吗？
-M1895(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:不啦，我要去看看我们的新兵。+她们初来乍到，一定很需要帮助。
-M1895(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||<黑点1>:你还是那么爱操心呢……那我也就只好给你加油咯~
-()||<BIN>73</BIN><黑点2>:格里芬训练场内。
-M1895(0)<Speaker>纳甘左轮</Speaker>||:那边的两个人形看上去是生面孔……+你们好！
-P99(0)<Speaker>P99</Speaker>||:请问你是……？
-M1895(0)<Speaker>纳甘左轮</Speaker>||:我是纳甘左轮，基地里的老兵。+你们是新来的吗？
-P99(0)<Speaker>P99</Speaker>||:原来是前辈啊。+你好，我是P99。+昨天刚刚来到这个基地，请多指教。
-P38(0)<Speaker>P38</Speaker>||:我是和她一起来的P38~+今后我会成为这个基地的偶像，还请前辈多支持哦！
-M1895(0)<Speaker>纳甘左轮</Speaker>||:偶、偶像？+那是什么？
-M1895(0);P38(0)<Speaker>P38</Speaker>||:咦，你不知道偶像是什么吗？+就是有很多粉丝的明星啦~
-M1895(0)<Speaker>纳甘左轮</Speaker>;P38(0)||:……新人呐，战场可不是来表演节目的地方啊。
-M1895(0);P99(0)<Speaker>P99</Speaker>||:请不用在意她。+前辈，你来找我们是有什么事吗？
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:咳，也没什么特别重要的事。+只是觉得身为老兵，有义务给新兵们一些忠告而已。
-M1895(0);P99(0)<Speaker>P99</Speaker>||:忠告吗……+那么，您想要给我们哪些建议呢？
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:我们是战术人形嘛，就先说说战斗方面的事吧~+接下来是我纳甘左轮的五条战术心得——
-M1895(0)<Speaker>纳甘左轮</Speaker>||:第一，长官命令要无条件服从！+第二，任何时候都要站得端正！+第三，开火时机必须全员统一！+第四，面对敌人时要堂堂正正！+第五，打仗的时候要穿得拉风！
-P99(0)<Speaker>P99</Speaker>||<BGM>BGM_Empty</BGM>:……
-P38(0)<Speaker>P38</Speaker>||:……
-M1895(0)<Speaker>纳甘左轮</Speaker>||<BGM>BGM_Sneak</BGM>:你们怎么都不说话……+一下子灌输给你们这么多经验，是不是太难消化了？
-M1895(0);P99(0)<Speaker>P99</Speaker>||:……是感觉有些消化不良。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:……什么？
-M1895(0);P99(0)<Speaker>P99</Speaker>||:前辈，身为新人我们也很乐于学习前人的经验……+但是恕我直言，您刚才给出的意见，的确是已经过时了，根本无法适应现在的战场。
-M1895(0);P38(0)<Speaker>P38</Speaker>||:何止无法适应啊……+抱着这种老古董的教条当宝贝，如果不是战术人形，你早死在战场上了吧？
-M1895(0)<Speaker>纳甘左轮</Speaker>;P38(0)||:你你你……你们居然这么说！+看来不展示点真本事，现在的新兵都要造反了！
-M1895(0);P38(0)<Speaker>P38</Speaker>||:那就比一比呗！+落伍的老家伙是没法成为新时代的偶像的！
-M1895(0)<Speaker>纳甘左轮</Speaker>||:好啊，等会挨打了别去哭着找指挥官！
-P99(0)<Speaker>P99</Speaker>||<黑点1>:……真没办法。+前辈和P38都冷静点。+比赛的话，也请记得要点到为止。
-()||<黑点2><BGM>BGM_Empty</BGM>:……两小时后。+纳甘左轮和P38的模拟战结束。
-P38(0)<Speaker>P38</Speaker>||<BGM>BGM_Sad</BGM>:什么老兵，也不过如此嘛。
-M1895(1)<Speaker>纳甘左轮</Speaker>;P38(0)||:可恶……居然偷袭我的补给点，还打我背后！+有本事的话，堂堂正正地正面对决啊！
-M1895(1);P38(0)<Speaker>P38</Speaker>||:这年头早就不流行排队枪毙了，老人家。+只有能带来胜利的人，才能成为真正的偶像！
-M1895(1)<Speaker>纳甘左轮</Speaker>;P38(0)||:才不是那样……+我的经验不会出错的，一定是有其他原因……
-M1895(1);P99(0)<Speaker>P99</Speaker>||:只是一场模拟战也说明不了太多事情。+不过前辈，您也偶尔尝试下新的战法吧，也许会有所收获。
-M1895(1)<Speaker>纳甘左轮</Speaker>||:……
-P38(0)<Speaker>P38</Speaker>||:和老顽固说这种事没用啦，P99。+折腾这么久我也累了……一起去吃饭吧！
-P99(0)<Speaker>P99</Speaker>||:……也好。+失礼了，前辈，我们先告辞了。
-()||:P99和P38离开了训练场。
-M1895(1)<Speaker>纳甘左轮</Speaker>||:为什么我会输呢……+对了，一定是因为现在的新人都比我高大！+她们个子高火力也强，而我还是和以前又矮又小……+只要能够长高长大，那就一定没问题了！
-M1895(0)<Speaker>纳甘左轮</Speaker>||<SE1>ClothingUp</SE1><黑屏1>:好了，老兵！现在要振作起来！+不能再被新人看扁了……+从今天开始，向着长高并变强的目标努力吧！
+M1895(0)<Speaker>M1895</Speaker>||<黑点1>:Whew... Alright, done with maintenance! I'm in pretty good shape today~ +Let's go relax in the cafe for a bit.
+()||<BIN>80</BIN><黑点2>:In the Griffin Cafe.
+M1895(0)<Speaker>M1895</Speaker>||:Is that...Mosin-Nagant over there?
+M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Good afternoon, M1895~
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:What are you doing here? +Shouldn't you be in training, according to the schedule?
+M1895(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Don't you know? There were new arrivals on base yesterday. +The Commander rearranged the training schedule, so my timeslot's been pushed back to night-time.
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:Oh? We have new recruits? +Do you know who and how many of them there are, Mosin-Nagant?
+M1895(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:They should be Handgun Dolls like you. +I think there were three...no, two of them?
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:...Honestly, it's one thing not to know their names, but you don't even know how many there are?
+M1895(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Well, it's not like they're in our team...so I didn't really pay too much attention... +Besides, we'll go on missions together eventually, we'll get to know each other then!
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:Mosin-Nagant, as their seniors, we ought to take better care of our rookies! +Part of a veteran's responsibilities is passing on their experience.
+M1895(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Yes, yes...but it's break time now. +Want a drink, M1895?
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:Nah, I'm going to look at our new recruits. +I'm sure they'll need a lot of help, this being their first time here and all.
+M1895(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||<黑点1>:Every bit the worrywart as always... In that case, I guess I'll just have to cheer you on~
+()||<BIN>73</BIN><黑点2>:Inside the Griffin training ground.
+M1895(0)<Speaker>M1895</Speaker>||:Those two Dolls over there look like new faces... +Hello!
+P99(0)<Speaker>P99</Speaker>||:Excuse me, you are...?
+M1895(0)<Speaker>M1895</Speaker>||:I'm M1895, one of the base's veterans. +Are you girls new?
+P99(0)<Speaker>P99</Speaker>||:Ah, so you're our senior. +Hello, I'm P99. +I just arrived at this base yesterday, so I'll be in your care.
+P38(0)<Speaker>P38</Speaker>||:I'm P38, who came with her~ +I'll be this base's future idol, so please root for me!
+M1895(0)<Speaker>M1895</Speaker>||:An-an idol? +What's that?
+M1895(0);P38(0)<Speaker>P38</Speaker>||:Huh? You don't know what an idol is? +It's a big, bright shining star with lots of fans~
+M1895(0)<Speaker>M1895</Speaker>;P38(0)||:...Rookie, the battlefield isn't a place for you to hold concerts.
+M1895(0);P99(0)<Speaker>P99</Speaker>||:Please don't mind her. +Was there a reason why you've come looking for us, senior?
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:Ahem, it wasn't anything important. +I simply felt that I ought to give you rookies some advice, being a veteran and all.
+M1895(0);P99(0)<Speaker>P99</Speaker>||:Advice, hm... +So, what suggestions do you have for us, then?
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:Since we're Tactical Dolls, let's talk tactics. +These are the five tactical principles of M1895!
+M1895(0)<Speaker>M1895</Speaker>||:Number 1 - Obey your superiors' orders without question! +Number 2 - Carry yourself properly at all times! +Number 3 - When opening fire, do so as one! +Number 4 - Face the enemy head on! +Number 5 - Make sure you look cool in battle!
+P99(0)<Speaker>P99</Speaker>||<BGM>BGM_Empty</BGM>:...
+P38(0)<Speaker>P38</Speaker>||:...
+M1895(0)<Speaker>M1895</Speaker>||<BGM>BGM_Sneak</BGM>:Why did you guys go quiet all of a sudden... +Don't tell me all that experience was too much to digest in one sitting?
+M1895(0);P99(0)<Speaker>P99</Speaker>||:...It doesn't seem very digestible at all.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:...What?
+M1895(0);P99(0)<Speaker>P99</Speaker>||:Senior, as rookies, we're always eager to learn from the experiences of those who came before us... +But if I may speak plainly, the suggestions you just gave us are outdated and not applicable to modern battlefields.
+M1895(0);P38(0)<Speaker>P38</Speaker>||:This goes beyond being non-applicable... +The way you cling to such antique doctrines, you would have died on the battlefield long ago if you weren't a Tactical Doll, isn't that right?
+M1895(0)<Speaker>M1895</Speaker>;P38(0)||:You you you... how dare you! +Looks like the newbies are going to get uppity if I don't show my stuff!
+M1895(0);P38(0)<Speaker>P38</Speaker>||:You're on! +Someone obsolete like you will never become the idol of the new age!
+M1895(0)<Speaker>M1895</Speaker>||:Alright, but don't go crying to the Commander when I beat you!
+P99(0)<Speaker>P99</Speaker>||<黑点1>:...What am I going to do with you. +Senior, P38, calm down. +If you're going to compete with each other, you should remember not to go too far.
+()||<黑点2><BGM>BGM_Empty</BGM>:...Two hours later. +M1895 and P38's simulated battle is over.
+P38(0)<Speaker>P38</Speaker>||<BGM>BGM_Sad</BGM>:So much for being a veteran. Is that all you have?
+M1895(1)<Speaker>M1895</Speaker>;P38(0)||:Dammit...you actually attacked my resupply points and got me from behind! +If you've got the guts, come face me in a showdown!
+M1895(1);P38(0)<Speaker>P38</Speaker>||:Firing in ranks is out of style nowadays, grandma. +Only a winner can become a true idol!
+M1895(1)<Speaker>M1895</Speaker>;P38(0)||:That's not true... +There's no way my experience could be wrong, there must be some other reason...
+M1895(1);P99(0)<Speaker>P99</Speaker>||:A single simulated battle doesn't explain much. +Still, you should try new ways of fighting, senior. You might gain from it.
+M1895(1)<Speaker>M1895</Speaker>||:...
+P38(0)<Speaker>P38</Speaker>||:There's no point telling a stubborn old hag all that, P99. +I'm tired from grappling with her for so long... Let's get something to eat!
+P99(0)<Speaker>P99</Speaker>||:...Just as well. +Excuse us, senior. We'll be taking our leave.
+()||:P99 and P38 leave the training facility.
+M1895(1)<Speaker>M1895</Speaker>||:Why did I lose... +Yeah, it must be because the rookies now are all taller than me! +They're taller and have superior firepower, while I'm still short and petite like before... +Everything will be alright once I grow taller!
+M1895(0)<Speaker>M1895</Speaker>||<SE1>ClothingUp</SE1><黑屏1>:Alright, old girl! Get a grip! +I mustn't let the rookies look down on me! +From today onward, my goal will be to do my best to grow taller and get stronger!

@@ -1,19 +1,19 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BGM>BGM_Danger</BGM><BIN>167</BIN>:……地下通道中。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:AK12你在外面么！+铁血带着“梭鱼”节点跑了！你的位置可以阻截到它们么！
-AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>它们从大门冲了出来！我找到了几辆机车，坐标已经发给你们了！现在出发也许还赶得上！</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:收到！我们正在过来！
-()||<黑屏1>0,5</黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:……与此同时。
-()||<BGM>BGM_Room</BGM><BIN>2</BIN><黑屏2>:在三角洲的撤离点，格里芬的一行人护送乌尔利赫主席登上离开的直升机。
-NPC-Ambassador(0)<Speaker>乌尔利赫主席</Speaker>||:感谢你们的帮助。+希望你和你的同伴们也能度过难关。
-RO635(2)<Speaker>RO635</Speaker>||:您的祝福我们收下了……
-()||:……嗡。+正在RO635想要道别的时候，随身携带的通讯器发出蜂鸣。
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>RO，主席怎么样了？</color>
-RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:主席已经登上飞机了，我们现在开始归队，指挥官你们的情况如何？
-RO635(0);NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:<color=#00CCFF>我们已经把平民送到城外了。</color>+<color=#00CCFF>帕拉蒂斯的单位不知为何突然不进行攻击了，我们很顺利就从教堂脱身了。</color>
-RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:是么……实在太好了，那现在你们的位置在哪？我们这就过来。
-RO635(0);NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:<color=#00CCFF>那个……指挥官又收到了K的新命令，我们得赶回城内建立防线。</color>
-RO635(4)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:又是那个K么？我们现在已经没有理由服从他的命令了吧？
-RO635(4);NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:<color=#00CCFF>安洁她们在城内需要支援……而且……M16和铁血也在城里出现……</color>+<color=#00CCFF>所以指挥官立即就下令动身了。</color>
-RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:M16……明白了，我们这就想办法回来，把集结的坐标发送给我吧。
-RO635(0);NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||<黑屏1>:<color=#00CCFF>好的，已经在做了。</color>
+()||<黑屏2><BGM>BGM_Danger</BGM><BIN>167</BIN>:...In the underground passage.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:AK-12, are you out there?! +Sangvis Ferri grabbed the Pike Node and ran for it! Can you intercept them from your current location?!
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>They just crashed through the front doors! I found some motorbikes - I just sent you the coordinates! If we go after them now, we might still able able to catch up!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Copy that! We're on our way!
+()||<黑屏1>0,5</黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:...Meanwhile.
+()||<BGM>BGM_Room</BGM><BIN>2</BIN><黑屏2>:At the extraction point on the river delta, the Griffin team is escorting Chairwoman Ulrich onto the helicopter that will transport her to safety.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Thank you very much for your help. +I hope you and your friends will overcome these trying times.
+RO635(2)<Speaker>RO635</Speaker>||:We gladly accept your well wishes...
+()||:...Buzz. +Just as RO635 is about to bid Chairwoman Ulrich farewell, her communications device starts buzzing.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>RO, how is it going with the Chairwoman?</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:She has already boarded the helicopter and we're about to withdraw. What's the situation on your end?
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>We've led the civilians out of the city.</color> +<color=#00CCFF>For some reason, the Paradeus forces suddenly stopped attacking so we escaped from the cathedral easily enough.</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:Is that so...? That's great. Where are you now? We'll join you straight away.
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Um... The Commander received new directives from K. We've got to hurry back to Belgrade and fortify the city.</color>
+RO635(4)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:K again? We have no reason to obey him anymore, don't you think?
+RO635(4);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Ange's team needs help in there... Also...M16 and Sangvis Ferri are in Belgrade...</color> +<color=#00CCFF>So the Commander gave the order to mobilize.</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:M16... I understand. We'll head back to the city. Please send me the location of our rallying point.
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<黑屏1>:<color=#00CCFF>Sure, on it.</color>

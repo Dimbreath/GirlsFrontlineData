@@ -1,40 +1,39 @@
-()||<BIN>82</BIN><BGM>BGM_Moon</BGM>:格里芬人形宿舍内。
-M1895(0)<Speaker>纳甘左轮</Speaker>||:今天任务的搭档是之前的两个新人啊……+真是的，到底是谁搞的呢……
-M1895(0)<Speaker></Speaker>||:……+纳甘左轮默默地思考了一会儿，摘下了头上的帽子。
-M1895(0)<Speaker>纳甘左轮</Speaker>||<黑点1>:经过这段时间的锻炼，应该长高了不少。+已经不需要这个帽子了……+今天就让她们看看我真正的实力吧！
-()||<BIN>1</BIN><黑点2><BGM>BGM_Sneak</BGM>:……任务进行中。
-P99(0)<Speaker>P99</Speaker>||:发现铁血通讯站。+拿下它，我们第一阶段的任务就完成了。
-M1895(0)<Speaker>纳甘左轮</Speaker>||:好的，那么主攻就交给我好了。+这个距离发动冲锋刚好，现在开始作战吧！
-P99(0)<Speaker>P99</Speaker>||:……
-P38(0)<Speaker>P38</Speaker>||:……
-M1895(0)<Speaker>纳甘左轮</Speaker>||:你们怎么了？
-M1895(0);P38(0)<Speaker>P38</Speaker>||:你想要送死没关系，别拉着我们啊。
-M1895(0);P99(0)<Speaker>P99</Speaker>||:我们的武器都是手枪，贸然正面进攻是没有太多胜算的。+即使能够拿下据点战损也会很大……所以正面进攻这种战法并不适合我们。
-M1895(0);P38(0)<Speaker>P38</Speaker>||:这可是常识啊，你难道不知道吗，老前辈？
-M1895(0)<Speaker>纳甘左轮</Speaker>;P38(0)||:呃……
-M1895(0);P99(0)<Speaker>P99</Speaker>||<黑点1>:好了，这次行动由我来指挥。+请大家按照我的指示进行作战。
-()||<黑点2>:……十分钟后。
-P38(0)<Speaker>P38</Speaker>||:外围的敌人已经消灭了。+通讯站里的敌人应该还没有注意到我们。
-M1895(0)<Speaker>纳甘左轮</Speaker>||:（行动很顺利啊……）+（看来她们现在的战法，比我的更适合现在的战场……）
-P99(0)<Speaker>P99</Speaker>||:很好，就这样进行下去。+……准备好闪光弹，接下来我们要突入了。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:哦哦！要攻进去了吗？
-M1895(0);P99(0)<Speaker>P99</Speaker>||:这应该是你擅长的环节，前辈。+请以最快速度消灭通讯站里的敌人。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||<黑点1>:交给我吧！+（这个展现实力的机会，我可不能再错过了！）
-()||<BGM>BGM_Empty</BGM><SE1>Gunfight</SE1><BIN>9</BIN>:……
-()||<黑点2>:……战斗结束。
-P99(0)<Speaker>P99</Speaker>||<BGM>BGM_Victory</BGM><BIN>1</BIN>:这次任务完成得不错，感谢大家的配合。
-P38(0)<Speaker>P38</Speaker>||:嘿嘿，身为基地的偶像，取得这点成果是应该的！
-M1895(0)<Speaker>纳甘左轮</Speaker>||:……
-M1895(0);P99(0)<Speaker>P99</Speaker>||:前辈，你怎么了？+现在应该是享受胜利的时刻。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:这次行动的确让我对你们刮目相看了。+你们现在的新战法，的确是相当好用……
-M1895(0);P99(0)<Speaker>P99</Speaker>||:谢谢。能得到前辈的认可，我也很高兴。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:那……回去之后能和我多说一些吗？+老人家偶尔也得学点新知识了呢。
-M1895(0);P38(0)<Speaker>P38</Speaker>||:哦呀？老古董也开窍啦？
-M1895(0);P99(0)<Speaker>P99</Speaker>||:……前辈，请你不要在意她。+我很乐意能和你分享知识。
-M1895(0)<Speaker>纳甘左轮</Speaker>;P99(0)||:放心啦，我可不会和小孩子计较。+那么一言为定，回去之后找个时间好好交流！
-M1895(0);P38(0)<Speaker>P38</Speaker>||:喂！你说谁是小孩子！
-M1895(0)<Speaker>纳甘左轮</Speaker>;P38(0)||:当然是自称偶像的那个啦。
-P38(0)<Speaker>P38</Speaker>||:居然说我是小孩子！+等等，你给我站住！你这个矮小的老古董！
-M1895(0)<Speaker>纳甘左轮</Speaker>||:……居、居然说我矮！+这我可不能当没听见了！
-()||:望着两个人打打闹闹远去的背影，P99叹了口气。
-P99(0)<Speaker>P99</Speaker>||<黑屏1>:关系变好了是好事……+不过，似乎有些过头了啊。
+M1895(0)<Speaker>M1895</Speaker>||:My partners for today's mission are those two newcomers... +Honestly, who arranged this anyway...
+M1895(0)<Speaker></Speaker>||:... +M1895 thinks quietly for a while, and then removes her hat.
+M1895(0)<Speaker>M1895</Speaker>||<黑点1>:After all that training, I should have grown by quite a bit. +I don't need this hat any more... +I'll show them my true strength today!
+()||<BIN>1</BIN><黑点2><BGM>BGM_Sneak</BGM>:...During the mission.
+P99(0)<Speaker>P99</Speaker>||:We've spotted the S.F. comms post. +Once we take it, our objectives for the first phase will be complete.
+M1895(0)<Speaker>M1895</Speaker>||:Alright then, I'll lead the attack. +This is a good range for a charge; let's get started!
+P99(0)<Speaker>P99</Speaker>||:...
+P38(0)<Speaker>P38</Speaker>||:...
+M1895(0)<Speaker>M1895</Speaker>||:What's with you?
+M1895(0);P38(0)<Speaker>P38</Speaker>||:I don't mind if you want to commit suicide, but please do it by yourself.
+M1895(0);P99(0)<Speaker>P99</Speaker>||:We're all armed with handguns. We don't stand much of a chance if we charge in recklessly. +We'll take massive damage even if we manage to take the post...so a frontal attack is not suitable for us.
+M1895(0);P38(0)<Speaker>P38</Speaker>||:That's common sense. Didn't you know that, oh senior?
+M1895(0)<Speaker>M1895</Speaker>;P38(0)||:(Groans)
+M1895(0);P99(0)<Speaker>P99</Speaker>||<黑点1>:Right, that's enough. I'll take charge of this operation. +Everyone, please act as I direct.
+()||<黑点2>:...Ten minutes later.
+P38(0)<Speaker>P38</Speaker>||:All enemies on the perimeter have been wiped out. +The enemies inside the comms post shouldn't have noticed us.
+M1895(0)<Speaker>M1895</Speaker>||:(The operation's gone very smoothly...) +(Looks like their way of fighting is better suited to modern warfare.)
+P99(0)<Speaker>P99</Speaker>||:Very good, let's keep up this pace. +...Prep your flashbangs, we're going for a dynamic entry.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:Ohhh! An assault, then?
+M1895(0);P99(0)<Speaker>P99</Speaker>||:This should be your forte, senior. +Please eliminate all the enemies within the comms post as quickly as possible.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||<黑点1>:Leave it to me! +(I won't miss this chance to show my strength!)
+()||<BGM>BGM_Empty</BGM><SE1>Gunfight</SE1><BIN>9</BIN>:...
+()||<黑点2>:...After the battle.
+P99(0)<Speaker>P99</Speaker>||<BGM>BGM_Victory</BGM><BIN>1</BIN>:This mission went well. Thank you for your cooperation, everyone.
+P38(0)<Speaker>P38</Speaker>||:Hehe, the base's idol ought to be able to achieve this much!
+M1895(0)<Speaker>M1895</Speaker>||:...
+M1895(0);P99(0)<Speaker>P99</Speaker>||:What's wrong, senior? +It's time to savor our victory.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:This operation has made me look at you in a new light. +Your new ways of doing things are very practical indeed...
+M1895(0);P99(0)<Speaker>P99</Speaker>||:Thank you. Gaining your approval pleases me as well, senior.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:So...would you mind telling me more about them after we go back? +Even an old dog should still be able to learn new tricks from time to time.
+M1895(0);P38(0)<Speaker>P38</Speaker>||:Oho? The antique's managed to see reason at last?
+M1895(0);P99(0)<Speaker>P99</Speaker>||:...Please don't mind her, senior. +I would be glad to share what I know with you.
+M1895(0)<Speaker>M1895</Speaker>;P99(0)||:Relax, I won't split hairs with a kid. +It's a deal then. Let's pick a good time to chat when we get back!
+M1895(0);P38(0)<Speaker>P38</Speaker>||:Hey! Who're you calling a kid?!
+M1895(0)<Speaker>M1895</Speaker>;P38(0)||:Obviously it's the one who calls herself an idol.
+P38(0)<Speaker>P38</Speaker>||:How dare you call me a kid! +Wait a minute, get back here, you midget antique!
+M1895(0)<Speaker>M1895</Speaker>||:...You-you called me a midget?! +I can't just pretend I didn't hear that!
+()||:P99 looks at the feuding pair as they vanish into the distance, and sighs.
+P99(0)<Speaker>P99</Speaker>||<黑屏1>:While it's good that they're getting along now... +It looks like they're overdoing things a little.

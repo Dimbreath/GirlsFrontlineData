@@ -1,67 +1,67 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<BIN>167</BIN><黑屏2>:
-()||<BGM>BGM_Sneak</BGM>:……贝莱格莱德地下。
-()||<SE2>Gunfight</SE2>:哒哒哒！啪哒哒哒哒……！
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:又是枪声……
-()||:感觉到前方又有战斗发生的M4试着静下心，仔细地聆听了一会。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:……并没有AR15跟AN94的枪声。+这样的话就不用太急，小心绕开就好。
-()<Speaker>清澈的声音</Speaker>||<黑屏2><BIN>177</BIN>:你变得稳重了。
-()<Speaker>M4A1</Speaker>||:这一趟是去救人，总不能把自己也跟着搭了进去。+现在独自行动的我，不再有犯下失误的余地。
-()<Speaker>清澈的声音</Speaker>||:也许你并不是在孤军奋战。
-()<Speaker>M4A1</Speaker>||:我只希望你能少扯后腿就行。
-()<Speaker>清澈的声音</Speaker>||:铁血是你能够轻易对付的敌人，你对它们非常熟悉。+但是白色势力就是相对而言相当陌生的对手吧？
-()<Speaker>M4A1</Speaker>||:也不是完全没有概念……之前我从安洁那边有得到云图记录。+我知道它们长什么样子，以及怎么跟它们战斗。
-()<Speaker>清澈的声音</Speaker>||:如果说，有更轻松的方法，能够对白色势力不战而胜呢？
-()<Speaker>M4A1</Speaker>||:那倒是十分欢迎，我没有多余弹药可供浪费在无谓的对手身上。+……难不成还真有这么方便的功能吗。
-()<Speaker>清澈的声音</Speaker>||:当然，不是对所有的白色势力单位都起作用，但是那些涅托……+她们的构造很特别，与我们有点类似。
-()<Speaker>M4A1</Speaker>||:涅托……就是那些白色部队的指挥者吗。
-()<Speaker>清澈的声音</Speaker>||:是的。那些别的单位不过是通过人为的操纵而行动，虽然你本身的功率比较低，但这个距离要夺取它们控制权易如反掌。+但是那几个涅托不一样，我感觉不到她们的心智，作为复制体来说，她们似乎几乎没有在思考回路上使用任何机械的辅助。
-()<Speaker>M4A1</Speaker>||:你是说……它们其实是，人类？
-()<Speaker>清澈的声音</Speaker>||:模仿人类制造的生物而已。但是不知为何，我感觉我可以和她们进行连接，其实她们没有心智。
-()<Speaker>M4A1</Speaker>||:既然这样的话，我只要找到涅托，你就能够黑掉她们劫持白色势力的指挥系统。
-()<Speaker>清澈的声音</Speaker>||:她们头上戴着某种阻断装置，如同头箍一般，似乎可以阻断一切讯号的侵入。
-()<Speaker>清澈的声音</Speaker>||:是她们的脑有什么特殊的构造么？+不管如何，我需要你帮助我，将涅托头部的阻断器摧毁。
-()<Speaker>M4A1</Speaker>||:这根本是多此一举。+如果我可以打中涅托头上的阻断器，那我为什么不干脆打爆她的头算了？
-()<Speaker>清澈的声音</Speaker>||:就算杀死一个，很快就会有下一个接替她的指挥权限，我对她们很好奇。+如果能和她们进行连接，一定可以获取更多的情报。
-()<Speaker>清澈的声音</Speaker>||<黑屏1>:而且，有个活涅托则能为我们在潮水般的敌人之间，开启一道便利的后门。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>167</BIN><黑屏2>:……也许值得一试，如果有机会的话。嗯？
-()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:哒哒哒！哒哒哒哒哒哒……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:又是交战声，而且十分激烈。等一下，这个枪声是……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:AR15？还有AN94也在……！
-()||<SE2>Runstep</SE2>:查觉到要会合的队友就在附近，M4迅速迈出步伐跑向声音传来的方向。
-()||<SE1>Select</SE1>:通过下一个转角之际，M4就看到了两支瞄准了自己的枪口。
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:别开枪，是我！
-AR15Mod(5)<Speaker>AR15</Speaker>||:……M4？
-AN94(0)<Speaker>AN94</Speaker><Shake>||:不是敌人吗……那就好。
-()||:AN94放下枪后，背靠墙壁的身子逐渐垮了下来，AR15连忙腾出肩膀扶住了AN94。
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:怎么回事，你受伤了吗？
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:她右膝关节后部中弹，需要点时间修理。
-M4A1Mod(0);AN94(5)<Speaker>AN94</Speaker>||:最后居然没能躲过那个铁血头目的胡乱开火，真是失态。
-M4A1Mod(0);AN94(5)<Speaker>AN94</Speaker>||:AK12呢，她没有跟你一起过来吗？
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AN94(5)||:她留在歌剧院方向引开铁血，好让我先赶过来找到你们。
-M4A1Mod(0);AN94(3)<Speaker>AN94</Speaker>||:原来如此，很恰当的战略。+如果是AK12的话肯定没有问题。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:不过这里到底发生了什么事？我来的一路上看到遍地都是被打倒的铁血和白色部队。
-AR15Mod(4)<Speaker>AR15</Speaker>||:我尽可能长话短说，虽然这有点难度……
-AR15Mod(4)<Speaker>AR15</Speaker>||<黑屏1>:……总之对我接下来讲的，尽量保持冷静。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏2>:……M16也在这里？
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:千真万确。而且，她似乎是这一次铁血的前线总指挥。
-M4A1Mod(0);AN94(4)<Speaker>AN94</Speaker>||:她的实力非常强悍，手下众多铁血头目实力也并非我们几个能轻易抗衡的。+再加上还有那两个涅托，还有简直象是能够自我繁殖一般庞大数量的白色家伙。+我评估现在能做到的，恐怕只能先暂时后撤等待支援。
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AN94(4)||:不。真那么作的话，就太迟了。
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:我知道你对她有特别的恩怨，M4，但是我们战力有限，光是能够平安逃出来就已经……
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:其实我有方法对付白色家伙。确切来说，是对付涅托的。+只要能够把环绕涅托头部周围的阻断器……
-M4A1Mod(0);AR15Mod(2)<Speaker>AR15</Speaker>||:……涅托是可以被黑入的吗？！
-M4A1Mod(0);AR15Mod(2)<Speaker>AR15</Speaker>||:虽然是很有用的情报，不过我们当时是同时遭遇到了两个涅托的追杀。+如果只解决一个的话，另一个也会立刻接手继续指挥的。
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:<color=#A9A9A9>那就同时动手，把两个涅托的阻断器一起破坏。</color>
-()||:M4A1低头沉思了半晌小声低喃了几句，随即抬起头来。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:那就同时动手，把两个涅托的阻断器一起破坏。+不要留给她们任何丝毫反应时间。
-AN94(0)<Speaker>AN94</Speaker>||:太冒险了，铁血现在已经跟白色家伙们为了梭鱼全面开战，厮杀成一团。+要在那样的混战中找出两个涅托又同时开枪实在……
-AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:不，我们做得到。
-()||<BGM>BGM_Battle</BGM>:AR15拍了拍M4和AN94的肩膀。
-AR15Mod(0)<Speaker>AR15</Speaker>||:现在的我们，都与当时有所不同了。+我相信只要M4下令，我就一定跟的上。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:……嗯。
-AR15Mod(0)<Speaker>AR15</Speaker>||:AN94你就先待在这里把自己修理检查一下，并且把这里的信息发给安洁，还有AK12。+你是我们最重要的保险，拜托了。
-AN94(4)<Speaker>AN94</Speaker>||:好吧，既然你们心意已决。+不过还有件事，就算能让白色势力瓦解，剩下的铁血你有什么打算？
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:到时候……我会亲自跟M16好好谈谈。+如果没有办法的话，就亲手了结这一切。
-()||:M4的眼神中彷彿闪烁着明亮的火炬。+那究竟是渴望真相的能量，抑或是复仇的决心……？
-()||:不论如何，AN94都知道，她不该继续对这个问题深究下去，因为那已经无法改变什么。
+()||<BGM>BGM_Sneak</BGM>:...Under the city of Belgrade.
+()||<SE2>Gunfight</SE2>:Bang bang bang! Ba-bang bang bang bang bang...!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:More gunfire...
+()||:Detecting another battle ahead, M4 slows down and listens for a while.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:...I can't hear AR-15's or AN-94's gunshots. +In that case, there's no need for me to intervene. I can simply go around it.
+()<Speaker>Clear Voice</Speaker>||<黑屏2><BIN>177</BIN>:You've grown more prudent.
+()<Speaker>M4A1</Speaker>||:This is a rescue mission. I can't very well get myself killed as well. +Now that I'm on a solo mission, there's no room for mistakes.
+()<Speaker>Clear Voice</Speaker>||:Perhaps you aren't actually on your own.
+()<Speaker>M4A1</Speaker>||:I just hope you won't slow me down.
+()<Speaker>Clear Voice</Speaker>||:Sangvis Ferri aren't tough enemies to you since you're very familiar with them. +But the same can't be said about the White Faction, right?
+()<Speaker>M4A1</Speaker>||:I do have a general idea about them... I've received data from Ange. +I know their physical traits and how to fight them.
+()<Speaker>Clear Voice</Speaker>||:But what if I tell you there's an easier way...where you can beat them without even having to fight?
+()<Speaker>M4A1</Speaker>||:I'd welcome that. I don't have the ammo to spare on unnecessary foes. +...Is there actually such a convenient option?
+()<Speaker>Clear Voice</Speaker>||:Of course. It isn't effective against all white units, but those Nytos... +Their construction is special... Not unlike ours, actually.
+()<Speaker>M4A1</Speaker>||:Nytos... You mean the commanders of the white forces?
+()<Speaker>Clear Voice</Speaker>||:That's right. The other units' operation is based on manual input; your capacity may be relatively low, but seizing control over them from such a close distance should be a piece of cake for you. +But the Nytos are different. I can't sense their neural clouds. Those clones' neural pathways don't seem to be augmented with any kind of machinery at all.
+()<Speaker>M4A1</Speaker>||:You're saying...they're actually human?
+()<Speaker>Clear Voice</Speaker>||:More like creatures made in the image of humans. For some reason, I have a feeling that I can establish a connection with them despite the lack of a neural cloud.
+()<Speaker>M4A1</Speaker>||:In that case, I just have to catch a Nyto and you can hack her to seize command over the White Faction.
+()<Speaker>Clear Voice</Speaker>||:It would seem that the blocking device they're wearing on the head - the one that looks like a hairband - can block out all invasive signals.
+()<Speaker>Clear Voice</Speaker>||:Is there something special about the construction of their brain? +In any case, I need you to help me by destroying that blocking device.
+()<Speaker>M4A1</Speaker>||:That's stupid. +If I can fire at a Nyto's blocking device, why don't I simply blast her head open?
+()<Speaker>Clear Voice</Speaker>||:Even if you kill one, another will soon take over her command authorizations. I'm curious about them. +If I can set up a connection, I'm sure I'll be able to learn more.
+()<Speaker>Clear Voice</Speaker>||<黑屏1>:Besides, getting our hands on a live Nyto would save us the effort of fighting through endless waves of enemies.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>167</BIN><黑屏2>:...It could be worth a try if we've got a chance. Hmm?
+()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:Bang bang bang! Bang bang bang bang...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Another battle...and a ferocious one. Wait, that gun sounds like...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:AR-15? AN-94 is here as well...!
+()||<SE2>Runstep</SE2>:Realizing that her teammates are very close by, M4 breaks into a run in the direction of the gunshots.
+()||<SE1>Select</SE1>:The moment she makes a turn around the corner, she finds two muzzles pointing straight at her.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:Don't shoot, it's me!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:...M4?
+AN94(0)<Speaker>AN-94</Speaker><Shake>||:Not an enemy... Good.
+()||:AN-94 lowers her gun and leans against the wall. As she starts slumping onto the ground, AR-15 dashes to her side and supports her with a shoulder.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:What's the matter? Are you hurt?
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:She got shot behind the right knee. We need some time to treat it.
+M4A1Mod(0);AN94(5)<Speaker>AN-94</Speaker>||:I can't believe I let her last aimless shots get me... It's a disgrace...
+M4A1Mod(0);AN94(5)<Speaker>AN-94</Speaker>||:Where is AK-12? Is she not with you?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AN94(5)||:She stayed behind upstairs to draw the S.F. away so that I can get to you first.
+M4A1Mod(0);AN94(3)<Speaker>AN-94</Speaker>||:I see. It's a sound strategy. +She'll be fine on her own.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:But what on earth happened here? I came across heaps of dead S.F. and white units along the way.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:I'll try to keep it short, though that might be a bit difficult.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1>:...Anyway, please try to keep calm about what I'm about to say.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏2>:...M16 is here as well?
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Indeed. In fact, she seems to be the one in command in the frontlines.
+M4A1Mod(0);AN94(4)<Speaker>AN-94</Speaker>||:She's become incredibly formidable. We alone are also no match for the various Sangvis ringleaders under her command. +Not to mention the two Nytos and the horde of white stuff that almost seem as if they can self-replicate. +I believe all we can do for now is to retreat and wait for more support.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AN94(4)||:No, it'll be too late by then.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I know you have things to sort out with her, M4, but there's only so much we can do. Just escaping alive would be...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:I actually have a way to deal with the white forces. More specifically, the Nytos. +If we can take out the blocking device around a Nyto's head...
+M4A1Mod(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:...They can be hacked?!
+M4A1Mod(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Well, that is a very useful piece of information, but we're being pursued by two Nytos. +Even if we get one, the other will take over command right away.
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:<color=#A9A9A9>Then we get them both at the same time. We destroy both Nytos' blocking devices.</color>
+()||:M4A1 lowers her head to think. After a few seconds of muttering, she looks up again.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Then we get them both at the same time. We destroy both Nytos' blocking devices. +Don't give them any time to react.
+AN94(0)<Speaker>AN-94</Speaker>||:That's too risky. Sangvis Ferri and the White Faction are now in an all-out war fighting over the Pike Node - it's total chaos. +Firing at both Nytos under such circumstances is...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM>:No, we can do it.
+()||<BGM>BGM_Battle</BGM>:AR-15 claps M4 and AN-94 on the shoulder.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We're different than what we used to be. +I know that as long as M4 gives the order, I'll keep up.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Right.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:AN-94, just stay here and do some simple repairs on yourself. Also, fill Ange and AK-12 in on what's going on here. +You're our last fail-safe. We're counting on you.
+AN94(4)<Speaker>AN-94</Speaker>||:Alright, I can see that you've made up your mind. +But here's another question - even if you manage to take down the White Faction, what are you planning to do about the remaining Sangvis forces?
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:I'll...have a proper word with M16. +If it can't be helped, then I'll settle everything by my own hand.
+()||:A bright fire seems to be flickering in M4's eyes. +Is that the desire for the truth...or the thirst for vengeance?
+()||:Whichever it is, AN-94 knows that she shouldn't ask any further questions...because it won't change anything.
 ()||<黑屏1>:

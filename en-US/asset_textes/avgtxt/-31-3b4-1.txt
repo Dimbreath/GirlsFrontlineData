@@ -1,44 +1,44 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<BIN>167</BIN><黑屏2>:
-()||<BGM>BGM_Danger</BGM><SE2>Gunfight</SE2>:……贝莱格莱德地下。
-()||:即使每一发击出的枪弹都准确击中了某个白色敌人，将它们打成两截或更多块碎片。+但是，阻挡在铁血去路前的敌军数量丝毫没有减少的迹象。
-Beak_M16(0)<Speaker>喙</Speaker>||:垃圾不管来再多也都只是垃圾而已，白色废物！
-()||<SE2>Gunfight</SE2>:尽管逞强地吼叫着，但是身边的铁血单位也在白色敌人的枪林弹雨下一个接着一个倒下。+很快的，喙就被四面八方射来的弹幕所压制。
-Beak_M16(0)<Speaker>喙</Speaker>||:想要依赖数量压倒我吗？+不过这样正好，我朝任何一个方向开火都不会浪费子弹了，自投罗网的家伙们！
-Beak_M16(0)<Speaker>喙</Speaker>||:准备受……嗯？！
-()||<SE2>Gunfight</SE2>:忽然间，猛烈扫射撕开了白色敌人的战列，精准无比的射击却又以狂风暴雨般的声势敲打在每一个白色单位的要害上。
-AN94(0)<Speaker>AN94</Speaker>||:敌人已净空，我去警戒前方。
-AR15Mod(0)<Speaker>AR15</Speaker>||:好，这里交给我。
-Beak_M16(0)<Speaker>喙</Speaker>||:是你们……！+真看不出来，原来格里芬走狗也懂知恩图报的道理啊。
-AR15Mod(0)<Speaker>AR15</Speaker>;Beak_M16(0)||:这跟刚才你掩护我们没关系，只是为了确保前进的道路畅通无阻。
-AR15Mod(0);Beak_M16(0)<Speaker>喙</Speaker>||:哼，还真敢说呢。不过你们走这真的没问题吗？+居然挑这种敌人多到满坑满谷都是的通路。
-AR15Mod(0)<Speaker>AR15</Speaker>;Beak_M16(0)||:白色家伙越多，不就代表这里是他们看重的东西所在而加强了兵力吗？+敌人激烈抵抗反倒是证明了没走错路。
-AR15Mod(0);Beak_M16(0)<Speaker>喙</Speaker>||:听起来还挺有道理……+不过，你们是什么时候绕来我背后的？道路应该在前方才对。
-AR15Mod(0);Beak_M16(0)<Speaker>喙</Speaker>||:而且我一直以为我还跟在你们两个的屁股后面才对啊？
-AR15Mod(5)<Speaker>AR15</Speaker>;Beak_M16(0)||<BGM>BGM_Empty</BGM>:关于这点，其实是因为……看样子，有人要提前下车囉。
-Beak_M16(0)<Speaker>喙</Speaker><Shake>||:？？！！
-()||<BGM>BGM_Sneak</BGM>:感觉到象是被人用钝器重击了后脑杓一般……+眼前的景色被跳动的黑白雪花覆盖，刺耳的杂音覆盖住了一切。
-()||:双眼失去焦点的喙，摇摇晃晃地从她的座车上栽倒下来。
-()||:在模糊而充满噪声的视野中，隐隐约约能看到AN94与AR15来到通道边，推开了墙壁……
-AR15Mod(0)<Speaker>AR15</Speaker>||:干的好，AN94。+祝你好运，铁血，你会需要它的。
-Beak_M16(0)<Speaker>喙</Speaker>||:……你们这些人类的走狗！去死！给我去死吧！
-()||<SE2>MachineGunBurst</SE2>:即使是在视野一片模糊的严重干扰中，喙仍然勉强抬起了手臂，往忤逆小队逃走的暗门胡乱开枪，直至用尽最后一发弹药。
-()||:不知道过了多久之后，喙猛地睁开双眼弹起身子，左顾右盼着。
-()||:除了自己的机车和堆积如山的白色部队残骸以外，现场已经全无两名人形俘虏的身影。
-Beak_M16(0)<Speaker>喙</Speaker>||:+刚刚那是……过载侵入攻击？+可恶，那些卑鄙的人类走狗应该是消失在这里……
-()||:摸索到AR15与AN94进入的墙壁，虽然可以找到墙壁上的暗门，但是门锁已经被设定为单向封闭，再也不能开启了。
-()||:她愤怒地一拳砸碎了隐藏的电子门锁面板。
-Beak_M16(0)<Speaker>喙</Speaker>||:呃啊啊啊啊……卑鄙！太卑鄙了！原来已经打算好要趁机逃跑了吗，这些垃圾人形！
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:怎么回事？
-M16A1BOSS(0);Beak_M16(0)<Speaker>喙</Speaker>||:都怪你，来的太慢了！
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:会吗？我们已经通过了地下道，距离目的地就剩最后几步路了。+通往梭鱼节点的大门就在前方……接下来已经不需要带路人，只管排除路上一切阻碍就行了。
-M16A1BOSS(0);Beak_M16(0)<Speaker>喙</Speaker>||:哼，说的可真好听。+要是那俩家伙没有逃走的话，你还会如同之前计划好的，在梭鱼节点确保后处决她们吗？
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:我们来这里是执行任务，不是为了追杀几个人形老鼠。+要是把这一切报告给代理人与主脑，你觉得是你错比较多还是我错比较多。
-M16A1BOSS(0);Beak_M16(0)<Speaker>喙</Speaker>||:真是狡猾……不论如何，你总找得到为自己开脱的借口。
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:你最好也自己加把劲，不然来监督人的却反过来被监督就有点尴尬了。+这种小失误也不算什么大事，毕竟，我们的目标可不只是一两个人形的死活。
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||<BGM>BGM_Empty</BGM>:我还有个任务要交给你去办，别搞砸了。
-Beak_M16(0)<Speaker>喙</Speaker>||<BGM>BGM_Battle</BGM>:别搞砸？哼哼，我还以为是你说给自己听的呢。
-()||:喙跨上了她的重型机车，往相反的回头方向驶离了地下通道。
-()||:而M16的视线则望向了地下道的终点，在那座古老城堡下被厚重大门深藏的秘密储藏室。
-()||:历经地下通路一番激战后幸存的铁血也集结起来，跟随着M16的脚步，前往最后目的地。
+()||<BGM>BGM_Danger</BGM><SE2>Gunfight</SE2>:...Under the city of Belgrade.
+()||:Even though every shot fired finds its target and tears a white unit to pieces... +The number of enemies blocking their way shows no sign of decreasing.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Trash is trash, no matter how many there is!
+()||<SE2>Gunfight</SE2>:But despite her bravado, Sangvis units keep dropping like flies all around her under the hail of enemy fire. +Soon enough, Beak finds herself heavily suppressed.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Trying to overwhelm me with sheer numbers? +Perfect. Now I don't even have to worry about wasting ammo! You're just begging to be killed!
+Beak_M16(0)<Speaker>Beak</Speaker>||:Get ready to...hmm?!
+()||<SE2>Gunfight</SE2>:Suddenly, a ferocious swathe of bullets tears right through the white enemy's formation. Shot after shot accurately targets the deadly weaknesses on each and every white unit, taking all enemies down like a violent torrent.
+AN94(0)<Speaker>AN-94</Speaker>||:All clear. I'll go on and scout ahead.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Right, leave this place to me.
+Beak_M16(0)<Speaker>Beak</Speaker>||:It's you...! +I'm surprised to see that even Griffin dogs know how to repay a debt.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;Beak_M16(0)||:This has nothing to do with the aid you provided earlier. We're merely clearing the path so that we may proceed smoothly.
+AR15Mod(0);Beak_M16(0)<Speaker>Beak</Speaker>||:Humph, funny you'd say that. Are you sure we're going the right way? +Why do you have to pick a path that's packed with enemies?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;Beak_M16(0)||:More white enemies means more forces stationed around to guard something important, don't you think? +The fiercer their resistance, the more certain we can be that we're going in the right direction.
+AR15Mod(0);Beak_M16(0)<Speaker>Beak</Speaker>||:That does make sense... +But when did you move behind me? The path is up ahead.
+AR15Mod(0);Beak_M16(0)<Speaker>Beak</Speaker>||:Besides, haven't I been following your butts the whole time?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;Beak_M16(0)||<BGM>BGM_Empty</BGM>:Well, actually... It would seem someone wants to get off early.
+Beak_M16(0)<Speaker>Beak</Speaker><Shake>||:??!!
+()||<BGM>BGM_Sneak</BGM>:A blow on the back of the head with a blunt instrument... +Vision dissolving into black-and-white static... A distracting noise in the ear drowning out everything else.
+()||:With a blank look in her eyes, Beak slumps unsteadily off her motorbike.
+()||:Through the blurry visual snow, she can just make out AN-94 and AR-15 moving to the side of the passage and giving the wall a push...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Well done, AN-94. +Good luck, Sangvis. You'll need it.
+Beak_M16(0)<Speaker>Beak</Speaker>||:...Freaking lackeys of mankind! Go to hell!
+()||<SE2>MachineGunBurst</SE2>:Even though her visioin is severely impaired, Beak still raises her arm with great difficulty and fires randomly at the trapdoor that Task Force DEFY escapes through until she runs out of ammunition.
+()||:After an uncertain amount of time, Beak's eyes snap open. She jumps back on her feet and looks around.
+()||:Other than her own motorbike and the pile of remains of the white forces, there is no sign of the two hostage Dolls.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Did they...hack me and overload my neural cloud?! +Dammit, they must've disappeared through here...
+()||:Feeling along the wall the AR-15 and AN-94 climbed through, she finds the trapdoor. However, the lock has already been set to only allow one-way access. It can no longer be opened from this side.
+()||:She smashes the electronic control interface of the door with a furious punch.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Arghhhh... Bastards! You bastards! You planned this, you rubbish Dolls!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:What's going on?
+M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:It's all your fault! You should've come sooner!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:Oh yeah? We're already at the end of the underground passage. Our destination is just a few steps ahead. +The doors leading to the Pike Node is right in front of us... We don't need the guides anymore. We simply have to kill anything that tries to stop us from getting there.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:Humph, and don't you sound pleased? +If they hadn't escaped, would you follow the plan and execute them once we secure the Pike Node?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:We're here to complete a mission, not to chase after a couple of rats. +If we give Agent and Mastermind a complete account of what happened, who do you think will look more incompetent, you or me?
+M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:You're a sneaky one... You always manage to find excuses for yourself.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:You'd better try harder. It'd be awkward if my supervisor ends up being the one who needs supervision. +That little slip-up of yours was no big deal. After all, our objective concerns something far more important than the fate of two Dolls.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||<BGM>BGM_Empty</BGM>:I have another job for you. Don't screw it up.
+Beak_M16(0)<Speaker>Beak</Speaker>||<BGM>BGM_Battle</BGM>:Screw up? Humph, save that for yourself.
+()||:Beak mounts her motorbike again and drives out of the underground passage in a separate direction.
+()||:Meanwhile, M16 studies the end of the passage - the secret chamber locked behind a set of heavy doors underneath the ancient fortress.
+()||:All the Sangvis units that survived the tumultuous journey through the subterraneon labyrinth gather behind M16 and follow her as they head toward their final destination.
 ()||<黑屏1>:

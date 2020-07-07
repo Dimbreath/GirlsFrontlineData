@@ -1,53 +1,53 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<BIN>96</BIN><Night><黑屏2>:
-()||<BGM>BGM_Room</BGM>:推开门扉后，昏暗而空无一人的剧场舞台出现在AK12和M4眼前。
-()||:满地的碎片、遍布的枪孔，以及空气中刺鼻的烧焦味，说明这里不久前，曾有过一场大战。
-AK12(0)<Speaker>AK12</Speaker>||:看起来没有人在。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:不过这里就是她们最后一次通讯的地点，到底是去了哪里……
-()||<BGM>BGM_Empty</BGM><白屏闪光>:唰！
-M4A1Mod(3)<Speaker>M4A1</Speaker><Shake>||:是……铁血！那时候的……
-BOSS-2(0)<Speaker>刽子手</Speaker>||<BGM>BGM_Boss</BGM>:好久不见了，又呆又愣的小姑娘。可想念我吗？
-()||:举着长刀的刽子手从背后挥刀砍来，却被M4以武器箱挡住。
-()||<SE2>MachineGunBurst</SE2>:未等到M4回话，一阵迅速而正确的点放就逼迫刽子手跳开闪避。
-AK12(2)<Speaker>AK12</Speaker>||<SE2>MachineGunBurst</SE2>:退后，M4！这家伙就交给……唔！
-()||<白屏闪光>:哒哒哒！
-BOSS-3(0)<Speaker>猎手</Speaker>||:是没有见过的格里芬人形呢，真是有趣的猎物。+不过刽子手已经跟我说过想要拿下M4A1的首级作为纪念品……
-BOSS-3(0)<Speaker>猎手</Speaker>||:……所以不能让你插手。
-()||:剧场内涌出了大量铁血部队，配合着两名铁血头目发动猛烈攻势。
-()||:M4A1与AK12被分割开来，孤立在歌剧院的观众席两侧各自为战。
-BOSS-2(0)<Speaker>刽子手</Speaker>||:哈哈哈哈哈，你比当时变得更强了呢。不过我也是！+能够遇上这种战斗，真是久违的快感吶！
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>虽然早就预料到了，不过这种数量比预料中更多……</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>如果不尽快打倒铁血头目的话会浪费更多时间……</color>
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:这座剧院中有一处隐藏通道，通往所有人都想抵达的终点线。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:你知道位置吗？
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:舞台后方地板下是中空的。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:但是现在贸然进入的话，万一碰上更多铁血跟白色家伙……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:而且AK12她……
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:铁血就请你设法绕开，白色家伙不管有多少，我都有办法对付。
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:如果想要帮助你的队友，你就得信任我，以及信任你的伙伴。
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:那么……AK12！
-AK12(2)<Speaker>AK12</Speaker>||:……！
-()||<SE2>Gunfight</SE2>:两人目光交错瞬间，刽子手与猎手的攻击就使得两人又别开头，继续逃窜。
-BOSS-3(0)<Speaker>猎手</Speaker>||:才不会让你们有集结起来的机会。
-BOSS-2(0)<Speaker>刽子手</Speaker>||:为什么要逃呢？跟我堂堂正正一决胜负，M4A1！
-()||:被逼到观众席边缘的M4A1停下脚步转过身来，刽子手露出了真心的喜悦笑容。
-BOSS-2(0)<Speaker>刽子手</Speaker>||:就是这样，让我们战斗到其中之一倒下为止吧！
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:动手！
-BOSS-2(0)<Speaker>刽子手</Speaker>||:欸？
-()||<BGM>bossbattle_loop</BGM><SE1>Explode</SE1>:巨大的爆炸声响起。
-()||:铁血部队被炸的七零八落、碎片就像不合时节的瑞雪散落下来。+歌剧院半面墙壁开了一片大洞，飞沙走石宛如海啸般被灌进了舞台上。
-BOSS-2(0)<Speaker>刽子手</Speaker>||:咳咳咳……！是……是炸弹？什么时候……
-BOSS-3(0)<Speaker>猎手</Speaker>||:小心，刽子手！
-()||:被爆炸冲击吹飞到舞台上的刽子手，最后见到的景象是M4举起武器箱瞄准了自己。
-()||<SE1>Explode</SE1>:伴随着轰然巨响，刽子手与歌剧院舞台一同化为了灰烬。
-AK12(0)<Speaker>AK12</Speaker>||:比想象中麻烦呢……
-AK12(0)<Speaker>AK12</Speaker>||:还好我们早就预料到可能会遭遇伏击，所以先在外头埋设了一些作为保险用途的炸弹。
-()||<SE1>Runstep</SE1>:从被炸翻的歌剧院舞台下，M4看到了密道入口冲了上去。
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:这里就交给你了！
-AK12(0)<Speaker>AK12</Speaker>||:去吧，M4！
-AK12(0)<Speaker>AK12</Speaker>||:不管你想作什么，放手去干！
-BOSS-3(0)<Speaker>猎手</Speaker>||:别以为会放你们得逞！
-()||<SE2>MachineGunBurst</SE2>:带领着残存的铁血人形，伤痕累累的猎手举枪瞄准了M4的背后，却被AK12一击打掉了武器。
-BOSS-3(0)<Speaker>猎手</Speaker>||:呜！+你们这些格里芬混蛋……！
-AK12(2)<Speaker>AK12</Speaker>||:铁血工造SP721型人形＂猎手＂是吧？+其实……我并不是格里芬人形。+而你也会很快跟你的同伴一样，为自己的无知付出应得代价。
+()||<BGM>BGM_Room</BGM>:Pushing open the door reveals a dark and empty theater stage.
+()||:The debris all over the ground, the bullet holes scattered across the room, and the pungent smell of burnt flesh all indicate that a ferocious battle took place here not long ago.
+AK12(0)<Speaker>AK-12</Speaker>||:Looks like we're alone.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:But this is where they last communicated with us. Where have they gone...?
+()||<BGM>BGM_Empty</BGM><白屏闪光>:Whoosh!
+M4A1Mod(3)<Speaker>M4A1</Speaker><Shake>||:It's...Sangvis Ferri! You're from back then...
+BOSS-2(0)<Speaker>Executioner</Speaker>||<BGM>BGM_Boss</BGM>:It's been a long time, ditzy young lady. Have you missed me?
+()||:Executioner dashes at them from behind with her long blade, but M4 blocks her attack with her weapon case.
+()||<SE2>MachineGunBurst</SE2>:Before M4 can reply, a swift and accurate burst of bullets forces Executioner to take evasive maneuvers.
+AK12(2)<Speaker>AK-12</Speaker>||<SE2>MachineGunBurst</SE2>:Stay back, M4! Leave this to...whoa!
+()||<白屏闪光>:Clash!
+BOSS-3(0)<Speaker>Hunter</Speaker>||:An unfamiliar Griffin Doll. What interesting prey. +However, Executioner said she wanted to take M4A1's head as a souvenir...
+BOSS-3(0)<Speaker>Hunter</Speaker>||:...So you mustn't get in the way.
+()||:A large amount of Sangvis units come swarming into the theater and start launching a fierce attack under the coordination of the two Sangvis ringleaders.
+()||:M4A1 and AK-12, now separated from each other, have to fight alone on opposite ends of the auditorium.
+BOSS-2(0)<Speaker>Executioner</Speaker>||:Hahahahaha, you've grown a lot stronger, but so have I! +It's been a while since I last fought such an exhilirating battle!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>I expected this, but their numbers are far greater than I imagined...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>If we don't take out the ringleaders soon, we're going to waste a lot of time here...</color>
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:There's a hidden passage in this theater that leads where everyone is trying to get to.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Do you know where it is?
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:One of the floorboards in the backstage area is hollow.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:But if I go in blindly, I could run into even more S.F. and white units...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:And AK-12 is...
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:You'll have to go around the Sangvis units. As for the white ones, I can handle them no matter how many of them there are.
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:If you want to help your partner, you'll have to trust me. You should also have some faith in your friend.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Then...AK-12!
+AK12(2)<Speaker>AK-12</Speaker>||:...!
+()||<SE2>Gunfight</SE2>:The moment their eyes meet, Executioner's and Hunter's attacks force them apart and send them running again.
+BOSS-3(0)<Speaker>Hunter</Speaker>||:As if we'd let you join forces.
+BOSS-2(0)<Speaker>Executioner</Speaker>||:Why are you running? Fight me fair and square, M4A1!
+()||:Backed to the edge of the auditorium, M4A1 stops and turns around. Executioner flashes her a genuine smile.
+BOSS-2(0)<Speaker>Executioner</Speaker>||:That's it! Let's fight until one of us drops dead!
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:Do it!
+BOSS-2(0)<Speaker>Executioner</Speaker>||:Huh?
+()||<BGM>bossbattle_loop</BGM><SE1>Explode</SE1>:A massive explosion goes off.
+()||:The Sangvis forces are blown up into pieces, their debris falling all around like unseasonal snow. +The explosion has blasted a large hole on half of the theater wall, dust and rubble come crashing down onto the stage like a landslide.
+BOSS-2(0)<Speaker>Executioner</Speaker>||:Cough cough...! That...was a bomb? When...
+BOSS-3(0)<Speaker>Hunter</Speaker>||:Watch out, Executioner!
+()||:The explosion has thrown Executioner onto the stage. The last image she sees is M4 lifting her weapon case and aiming at her.
+()||<SE1>Explode</SE1>:With a deafening boom, Executioner is reduced to ashes along with the stage.
+AK12(0)<Speaker>AK-12</Speaker>||:That was trickier than I expected...
+AK12(0)<Speaker>AK-12</Speaker>||:Good thing we anticipated the possibility of walking into an ambush and rigged a bomb outside beforehand.
+()||<SE1>Runstep</SE1>:Beneath the decimated stage, M4 finds the entrance to the secret passage and runs up to it.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:I'm leaving things here to you!
+AK12(0)<Speaker>AK-12</Speaker>||:Go, M4!
+AK12(0)<Speaker>AK-12</Speaker>||:No matter what you want to do, do it!
+BOSS-3(0)<Speaker>Hunter</Speaker>||:You think we'll let you have your way?!
+()||<SE2>MachineGunBurst</SE2>:A heavily-wounded Hunter aims her gun at M4's back, but AK-12 shoots her weapon out of her hands.
+BOSS-3(0)<Speaker>Hunter</Speaker>||:Ugh! +You Griffin bastards...!
+AK12(2)<Speaker>AK-12</Speaker>||:Sangvis Manufacture Model SP721, "Hunter", isn't it? +Actually...I'm not with Griffin. +And just like your friend, you will soon pay the price for your ignorance.
 ()||<黑屏1>:

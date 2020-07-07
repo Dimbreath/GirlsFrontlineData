@@ -154,6 +154,7 @@ patch2041={
 "2041/Package_GetMailRewardBuilders",
 "2041/DialoguePicHolder",
 "2041/OPSPanelController",
+"2041/SpecialOPSMessageBox",
 "2041/OPSRuler",
 "2041/ImageBufferBlurRefraction",
 "2041/DeploymentCampaignExplain",

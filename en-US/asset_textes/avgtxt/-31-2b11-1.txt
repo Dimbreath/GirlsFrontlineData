@@ -1,20 +1,20 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<SE1>RunStep</SE1><黑屏2>:两个人在隧道里向前奔跑着。
-AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Wake</BGM>:现在状态怎么样？
-AN94(5)<Speaker>AN94</Speaker>;AR15Mod(0)||:有轻微的受损，但暂时没有问题。+为什么要回来？
-AN94(5);AR15Mod(2)<Speaker>AR15</Speaker>||:什么？
-AN94(5)<Speaker>AN94</Speaker>;AR15Mod(2)||:刚才你自己走应该是最优方案吧。+冒着生命危险折返，还把所有爆炸物都用完了，这是为什么？
-AN94(5);AR15Mod(0)<Speaker>AR15</Speaker>||:不为什么，我只是觉得应该这么做。
-AN94(5)<Speaker>AN94</Speaker>;AR15Mod(0)||:你应该知道这不足以成为理由的，AR15。+你是唯一的，而我是可以备份的，在优先度上应该是优先保全你才对。
-AN94(5);AR15Mod(2)<Speaker>AR15</Speaker>||:这种问题为什么问我？+我以为你比我清楚。
-AN94(5)<Speaker>AN94</Speaker>;AR15Mod(2)||:我不明白。+怎么都想不明白，所以只好问你。+你是前辈，经验又比我丰富……
-AN94(5);AR15Mod(2)<Speaker>AR15</Speaker>||:所以都说了不要那样叫我了……
-AN94(5);AR15Mod(2)<Speaker></Speaker>||:AR15像是听到了什么令人头疼的语句那样，轻轻揉了揉额角。
-AN94(5);AR15Mod(2)<Speaker>AR15</Speaker>||:价值是由需求决定的，安洁的命令你和AK12执行比较多，适应她的需求。+那么，从安洁的需求来说，应该是你更有价值一些。+就算是你也要承认这一点才对吧？+不，应该说以逻辑驱动的更应该承认这点。
-AN94(4)<Speaker>AN94</Speaker>;AR15Mod(2)||:是因为这种理由吗……+可是……
-AN94(4);AR15Mod(2)<Speaker>AR15</Speaker>||:如果你被歼灭在那里，先不说安洁有没有同等质量的素体，光是等待备份就需要很长时间。+现在任务迫在眉睫，我们没有这个宽裕来等待你重新载入适应新素体了。
-AN94(4)<Speaker>AN94</Speaker>;AR15Mod(2)||:但是，没有我的话也可以完成这个任务。
-AN94(4);AR15Mod(2)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:谦虚也要有个限度，AN94。+不要否定你自己的价值。
-AN94(4)<Speaker>AN94</Speaker><Shake>;AR15Mod(2)||<BGM>BGM_Sneak</BGM>:抱歉。但是……AR15，你和M4A1，不……你们整个AR小队才是安洁用起来最顺手的人形。+无论我看起来再怎么好用，也只是一个辅助工具而已。+无论怎么想，你都应该优先保全自己，而我也会优先保护你。
-AN94(4);AR15Mod(2)<Speaker>AR15</Speaker>||:……你什么意思？
-AN94(0)<Speaker>AN94</Speaker>;AR15Mod(2)||<黑屏1>:不，没什么。+出口就是前面了吧？+我们快点离开这里比较好。
+()<Speaker></Speaker>||<SE1>RunStep</SE1><黑屏2>:The two Dolls sprint through the tunnel.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Wake</BGM>:What's your current status?
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Some minor damage; won't be a problem for the moment. +Why did you come back?
+AN94(5);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:What?
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(2)||:Leaving on your own would've been the best solution. +Yet you doubled back, risking your own life and using up all our explosives - why?
+AN94(5);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I don't know why, I just thought that was the right thing to do.
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:You should know that's not good enough of a reason, AR-15. +You are one-of-a-kind, while I can create backups of myself. Your survival takes priority.
+AN94(5);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Why ask me such questions? +You should know better than me.
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(2)||:I don't understand. +I just can't figure out your rationale, which is why I have to ask. +As a senior, you are more experienced than me...
+AN94(5);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:I told you to stop calling me that...
+AN94(5);AR15Mod(2)<Speaker></Speaker>||:AR-15 rubs her temples as if the word gives her a headache.
+AN94(5);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Something's value is determined by its demand. You and AK-12 have carried out more orders from Ange than me, so you meet her demand. +Therefore, from the perspective of meeting Ange's demand, you're more valuable than me. +Even you have to admit that, right? +No, you should admit it especially because you're so driven by logic.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(2)||:Is that your reason...? +But...
+AN94(4);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:If you got destroyed back there, putting aside the question about whether Ange has a spare body of the same quality ready for you, it'd take a long time just to download your backup. +The situation is so urgent we simply don't have the luxury of waiting for you to reinstall yourself and get used to a new body.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(2)||:However, this mission can be accomplished even without me.
+AN94(4);AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM>:There's a limit to how modest one can be, AN-94. +Don't deny your worth.
+AN94(4)<Speaker>AN-94</Speaker><Shake>;AR15Mod(2)||<BGM>BGM_Sneak</BGM>:Sorry. But...AR-15, you and M4A1— no...the entire AR Team are the most tailored to Ange's use. +No matter how capable I look, I'm still just a supplementary tool. +All kinds of reasoning suggest that you should prioritize your own safety and I, too, will always choose to save you over myself.
+AN94(4);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:...What do you mean?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||<黑屏1>:Nothing. +The exit is just ahead, correct? +Then we had better leave this place quickly.

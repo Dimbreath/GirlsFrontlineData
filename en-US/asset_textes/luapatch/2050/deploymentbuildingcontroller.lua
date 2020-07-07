@@ -11,6 +11,13 @@ local DeploymentBuildingController_CloseWinTarget = function(self,winType)
 		self:CloseWinTarget(winType);
 	end
 end
-
+local DeploymentBuildingController_CheckUseBattleSkill = function(self)
+	if self.effectSpotAction == nil and self.spot.spotAction ~= nil then
+		self.effectSpotAction = self.spot.spotAction:GetRangeSpotInfo(self.buildAction.CurrentRange.y, self.buildAction.CurrentRange.x);
+		--print(self.effectSpotAction.Count..self.spot.spotAction.spotInfo.id);
+	end
+	self:CheckUseBattleSkill();
+end
 util.hotfix_ex(CS.DeploymentBuildingController,'ShowWinTarget',DeploymentBuildingController_ShowWinTarget)
 util.hotfix_ex(CS.DeploymentBuildingController,'CloseWinTarget',DeploymentBuildingController_CloseWinTarget)
+util.hotfix_ex(CS.DeploymentBuildingController,'CheckUseBattleSkill',DeploymentBuildingController_CheckUseBattleSkill)

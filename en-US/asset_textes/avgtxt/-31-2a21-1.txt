@@ -1,22 +1,22 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:……隔离墙后。
-()<Speaker></Speaker>||:安洁接通了通讯器。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>我记得，我有跟你说过不要再说多余的话了吧。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:……+隔离墙被炸了另一个缺口，我们正在控制事态。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>任务是让你去侦查“梭鱼”节点，不是让你做损害控制。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:如果情况继续恶化，接下来什么侦查都做不了。+没有支援，至少告诉我一些其他情报吧？另一处，现在情况怎么样？
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>你是指格里芬么。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:是。+那位指挥官现在的任务是什么？
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>他负责保护国联派来的主席。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:啧……你还真是敢对那个人那么放心。+我也曾跟你说过吧，我不希望拉那位指挥官下水。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>真是巧合，我们难得有这种意见上的统一。</color>+<color=#00CCFF>但现在那个人的存在是必须的。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:这样把任务交给“一个外人”，你真的放心？
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>你这是想袒护他么。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:……我并没有这么说。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>即使那位指挥官是外人，但现在和我们合作，起码能保住格里芬最后的火种。</color>+<color=#00CCFF>——所以，你还要试图继续阻止吗？</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:格里芬如何和我并没有什么关系。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>是么，我还以为你在那待过所以很有感情。</color>+<color=#00CCFF>话说回来，之前的行动里，我们损失了所有特工。</color>+<color=#00CCFF>现在格里芬的指挥官是我们能够依赖的唯一的现成的战斗力了。</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>;NPC-Jason(0)||:……+不过如果是那个人，我倒是很相信任务能够顺利完成……
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>如你所说，撤离行动目前一切顺利。</color>+<color=#00CCFF>好了，这些就是你所需要的情报，那么现在，可以继续执行任务了吗？</color>
-NPC-AngeStreet(0)<Speaker>安洁</Speaker>||:……啧。
-()<Speaker></Speaker>||<黑屏1>:——通讯结束。
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:...Behind the quarantine wall.
+()<Speaker></Speaker>||:Ange activates her comms.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I remember telling you not to say anything unncessary again.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:... +There's been another breach on the quarantine wall. We're currently trying to keep things under control.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Your mission is to gather intelligence on the Pike Node, not damage control.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:If the situation gets any worse, we won't be able to do any recon work. +Even if we aren't getting any support, at least give me something to work with? How are things on the other end?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>You mean with Griffin?</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Yes. +What is the Commander's mission?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The Commander is in charge of the Union Chairwoman's personal safety.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Tsk...you've got guts to have so much faith on them. +I also remember telling you not to drag that Commander into this mess.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>What a coincidence. It's quite rare that we share the same opinion.</color> +<color=#00CCFF>However, the Commander's involvement is essential.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Are you so ready to entrust the mission to an "outsider"?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Are you trying to protect the Commander?</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:...I didn't say that.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Even if the Commander is an outsider, at least Griffin can keep their last spark alight by working with us.</color> +<color=#00CCFF>...So, do you still want to put a stop to this?</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Griffin's state has nothing to do with me.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Really? I thought you were quite attached because of the time you spent there.</color> +<color=#00CCFF>By the way, we lost all our agents in the last operation.</color> +<color=#00CCFF>The Griffin Commander is now the only force we can rely on in battle.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:... +I believe the Commander is fully capable of completing the mission...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>It's as you just said. The retreat has been going smoothly.</color> +<color=#00CCFF>Right, if that's all the information you need, can you get on with your mission now?</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:...Tsk.
+()<Speaker></Speaker>||<黑屏1>:—Transmission terminated.

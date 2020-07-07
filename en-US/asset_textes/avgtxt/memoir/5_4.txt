@@ -1,20 +1,19 @@
-()||<BIN>83</BIN><BGM>BGM_Moon</BGM>:格里芬基地内。
-M1891(0)<Speaker>莫辛纳甘</Speaker>||<黑点1>:之前那次任务之后，我就一直没好好和纳甘左轮说上话。+偶尔见到她也是一副沉默的样子……有点担心啊，还是找她聊聊吧。
-()||<BIN>82</BIN><黑点2>:格里芬人形宿舍内。
-M1891(0)<Speaker>莫辛纳甘</Speaker>||:纳甘左轮，你在这里啊。让我一顿好找……+咦，桌子上的这些零件是？
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:下午好啊，莫辛纳甘。+这些是我刚才从格琳娜那里领回来的，想对自己的装备做一些改进。
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:你的衣服也换了？
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:嗯，前两天刚到货的！+也是请格琳娜准备的。
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:你怎么突然想起来做这些事了？
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:和P99还有P38交流之后，她们也给了我一些建议。+为了不落后于年轻人，我也得动点脑筋了。
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:本来是为了开解你来的，现在看来没必要了呢。
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:学点新东西的感觉还不错，感觉自己也变得更厉害了。+只不过……要是能再长高点就好啦。
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:不能再长高了吗？
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:是啊……我也问过格琳娜了，她说现阶段没什么办法……
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:就算个子不高，现在你依旧是我强大又可爱的妹妹呀。
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||<震屏>:……别这时候突然摆出姐姐的架子啊！
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:好的好的，看到你这么有干劲，我就放心了。+我相信，指挥官看到你的新形象之后也会大吃一惊的。
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||:是吗？那我等会儿就去找指挥官！
-M1895Mod(0);M1891(0)<Speaker>莫辛纳甘</Speaker>||:在那之前……+为了庆祝你崭新的模样，要喝一杯吗？
-M1895Mod(0)<Speaker>纳甘左轮</Speaker>;M1891(0)||<黑屏1>:好啊，我现在正好心情不错。
-纳甘左轮()<Speaker>纳甘左轮</Speaker>||<BIN>9</BIN><黑屏1>:我决定了……+在接下来的日子里，我要让指挥官知道一件事——+崭新的我，比那些新式人形更加可靠！
+M1891(0)<Speaker>Mosin-Nagant</Speaker>||<黑点1>:I haven't been able to have a proper conversation with M1895 ever since that mission. +She's always quiet on the few occasions I see her... I'm a little worried. I think I'll go have a chat with her.
+()||<BIN>82</BIN><黑点2>:In the Griffin dorms.
+M1891(0)<Speaker>Mosin-Nagant</Speaker>||:So there you are, M1895. I was looking high and low for you... +Hm? What are those parts on the table?
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:Good afternoon, Mosin-Nagant. +I just got these from Kalina. I'm thinking of modifying my gear.
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:You changed your clothes too?
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:Yup, they just arrived a couple of days ago! +I asked Kalina to help me get them too.
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Why did you end up doing these things all of a sudden?
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:I spoke with P99 and P38, and they gave me some suggestions. +I need to rack my brains so I don't fall behind the young ones.
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:I originally came here to help straighten you out. Looks like it wasn't necessary.
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:Learning new things isn't bad. I feel like I've become stronger too. +It's just...I'd like it if I could get a little taller.
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:You can't grow any taller?
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:Yeah... I asked Kalina, and she said that she couldn't do anything about it at this stage...
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:You'll always be my strong and cute little sister even if you're not tall.
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||<震屏>:...Don't start acting like a big sister out of nowhere!
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Fine, fine. I'm relieved to see you so fired up. +I'm sure the Commander will also be surprised by your new look.
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||:Really? Then I'll go find the Commander after this!
+M1895Mod(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Before that... +How about a drink to celebrate?
+M1895Mod(0)<Speaker>M1895</Speaker>;M1891(0)||<黑屏1>:Sure, I'm in a pretty good mood now.
+纳甘左轮()<Speaker>M1895</Speaker>||<BIN>9</BIN><黑屏1>:I've decided... +In the days to come, I'll show the Commander something— +That the new me is more reliable than those new-model Dolls!

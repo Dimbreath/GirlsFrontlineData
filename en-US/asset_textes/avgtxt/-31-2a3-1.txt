@@ -1,67 +1,67 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Truth</BGM>:……大教堂内。
-()<Speaker></Speaker>||:指挥官与众人形撤离到大教堂，非常难得的，在这种战火中，这座教堂甚至仍能保留住自己大部分本来的样子。+如果能有人帮这座建筑洗掉那些令人作呕的灼烧痕迹以及ELID炸碎时喷溅的液体的话，也许还能看到一些曾经代表着神圣与希望的壁画。
-RO635(3)<Speaker>RO635</Speaker>||:真是讽刺啊……
-()<Speaker></Speaker>||:RO635和SOP2稍稍驻足在一具天使的雕像前——虽说已经断了半边翅膀，头颅也消失在废墟中。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO？你说了什么吗？
-RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:没什么……只是看到教堂，有些感慨而已。+明明神已经为人类定好了何为规则，何为正义，可是你看，作为神的栖息地，这里现在看起来更像是坟地。
-RO635(2)<Speaker></Speaker>;M4 SOPMOD IIMod(0)||:RO635小心地跨过一具尸体。
-RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:明明已经知晓了正义为何，争斗却从来没有停止过……
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:可是指挥官也曾经说过，那句话是怎么说的来着……+神……喜欢大家……？
-RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:你是说“神爱世人，甚至将他的独生子赐给他们”吗？
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:对对，就是这个！+你看，不如说是人类过分仰仗着神的爱，行使这些放纵的权力，才会变成这样吗？+战争，永远都不会结束……
-RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:我想，这也许不是神所制定的规则吧……
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:如果真如书上所说，人类无论做什么，都有可能被神所宽恕。
-RO635(2);M4 SOPMOD IIMod(0)<Speaker></Speaker>||:SOP2有些愤恨地踢了一脚地上的雕像残体。
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那些人类……只是这样踢了雕像，也会被原谅。+杀了人，也会被原谅……+就算是这样破坏了整座城市也会被原谅……
-RO635(2)<Speaker></Speaker>;M4 SOPMOD IIMod(0)||:RO635按住SOP2的肩，揉了一下她的头发。
-RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<黑屏1>:（轻声）我想，至少还有我们的指挥官不会原谅那些怪物……我们也会追随指挥官，将这个世界上的罪恶一点一点削除掉。
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2>:同一时间……教堂另一侧。
-TEC9(0)<Speaker>TEC9</Speaker>||<震屏>:呜啊啊……！+为什么这座教堂里也会有人类啊！
-TEC9(0);NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:人家本来就是过来避难的，你不要这么大声啦！会吓到平民的。
-TEC9(0)<Speaker>TEC9</Speaker>||:（小声嘟囔）明明先被吓到的是我欸……
-()<Speaker></Speaker>||:TEC9有些发怵地在掩体后面装弹，向敌人射击。+虽然没多久之后，她就停了下来。
-TEC9(0)<Speaker>TEC9</Speaker>||:（转身）喂……我说你们，牙齿打颤就打颤，可不可以不要这么大声吗……+我很害怕耶……
-()<Speaker></Speaker>||:角落里，一些瑟瑟发抖的孩童蜷缩着，盯着在他们前方不远处的TEC9。
-TEC9(0)<Speaker>TEC9</Speaker>||:<color=#A9A9A9>（我干嘛要跟人类搭话啊……）</color>+<color=#A9A9A9>（不过再这样射击那些感染者们我真的要吐出来了。）</color>
-孩童()<Speaker>孩童</Speaker>||:……大姐姐，在杀人吗？
-()<Speaker></Speaker>||:突如其来的问题让TEC9有些措手不及。
-TEC9(0)<Speaker>TEC9</Speaker>||:<color=#A9A9A9>（格琳呢？格琳去哪儿了？）</color>+<color=#A9A9A9>（X95还没回来吗……）</color>
-TEC9(0)<Speaker>TEC9</Speaker>||:咳……不是哦。+大姐姐只是在……打怪兽而已。
-TEC9(0)<Speaker>孩童</Speaker>||:原来是怪兽啊……+那些怪兽……把我们的妈妈杀掉了……呜……
-()<Speaker></Speaker>||:TEC9不知道该说什么好。
-孩童()<Speaker>孩童</Speaker>||:我们以后会替妈妈报仇的！
-TEC9(0)<Speaker>TEC9</Speaker>||:<color=#A9A9A9>（人类……不该这么早就思考这种问题吧……唉。）</color>
-TEC9(0)<Speaker>TEC9</Speaker>||:先想着活下去吧。
-TEC9(0)<Speaker>孩童</Speaker>||:哎？
-TEC9(0)<Speaker>TEC9</Speaker>||:……先让自己活下来，看到这些怪兽就能跑多远跑多远……+其他的事情，就交给大姐姐们吧。
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:没想到你也是能和人类好好交流的呢。+那为什么跟指挥官就不能好好说话呢，你这孩子也真是麻烦——
-()<Speaker></Speaker>||:格琳娜突然出现在TEC9的身后。
-TEC9(0)<Speaker>TEC9</Speaker>||<震屏><黑屏1>:哎哎哎？格琳你怎么突然冒出来了！+咳不要离我太近啊你吓到我了……
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:……五分钟后。
-RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:指挥官！现在不是闲聊的时候了！+外面那群ELID……啧，攻势越来越猛了！
-()<Speaker></Speaker>||:现在确实不是闲聊的时候。+虽然刚刚还保证过格里芬的人形还不至于落后到一个教堂都守不住的地步，但是现在看来确实有些吃力。+此时驻扎的各小队人形看起来都显露出疲态了。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:从进入大教堂开始大家都没有停止过开火……+呜……现在就看是我们的弹药先用完还是对方先被我们杀光了。+虽说我也可以把它们从中间撕成两半，但外面那些炮弹实在是没有长眼睛啊……
-RO635(3)<Speaker>RO635</Speaker>||:别胡闹，SOP2，跟着指挥官的部署。+支援……只要撑到支援到来的时候就成功了。
-NPC-KalinReporter(0)<Speaker>格林娜</Speaker>||:<color=#A9A9A9>（刚刚通讯接通的时候RO似乎不在场……）</color>+<color=#A9A9A9>（无线电应该也快修好了……如果再不赶紧和K联系上的话……）</color>
-()<Speaker></Speaker>||:RO635这样安抚着SOP2，但她自己似乎也快要到极限了。+像是察觉到了大教堂内人形攻势的落差，外围敌人发动了一波更为猛烈的轰炸。
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:啊这破机器，就不能争气一次吗！再不好好运作我们都要交代在这里啦！
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:格林娜狠狠地一脚踢在通讯设备上，无线电发出了一连串杂音，然后——
-()<Speaker></Speaker>||:滴——！
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>终于接通了么，我还以为你们已经全部完蛋了。</color>
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:指……指挥官！和K联系上了！
-()<Speaker>指挥官</Speaker>||:说好的撤离点呢？这里可没有任何人和设备可以帮助我们撤离，再不派支援来我怕是不止VIP，连我自己都保不住了。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>这个玩笑并不好笑。</color>
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>;NPC-Jason(0)||:（插嘴）谁跟你开玩笑了？+照现在这种火力对比，敌人突破我们的防线只不过是时间问题！
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>直升机在城市上空无法降落。</color>+<color=#00CCFF>撤离点换到了城市外的三角洲区域，我会将详细坐标发送给你。你现在带着VIP移动到那个坐标，半个小时后撤离飞机会降落。</color>
-NPC-Jason(0)<Speaker>指挥官</Speaker>||:那是不可能的。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>什么？</color>
-NPC-Jason(0)<Speaker>指挥官</Speaker>||:我已经答应过那位乌尔利赫主席，要保护在教堂内避难的平民的安全。就算我想带她走，我觉得她也不会这么轻易地同意吧。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>我并不关心那个什么主席怎么想，如果有必要就把她打晕了带走。</color>+<color=#00CCFF>我们的时间很宝贵，带着大使照原计划撤退，不要再浪费火力停留在同一个据点——</color>
-()<Speaker>指挥官</Speaker>||:——那么我就再说一遍，那是不可能的。+你现在还在安全的地方对吧，那说明你肯定还给自己留着底牌。+如果想要VIP撤离，就想办法让我们带着那些平民一起撤离。+支援，立刻，马上。+我不是在跟你讨价还价。
-NPC-KalinReporter(0)<Speaker>格琳娜</Speaker>||:（小声）喂，指挥官，跟他这么强硬的话……
-()<Speaker></Speaker>||:教堂外围的炮火仍在继续，就连通讯的信号仿佛也和地震的余波一样，充满着随时会断掉的不确定性。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>………</color>+<color=#00CCFF>5分钟后会有车队来接你们。</color>
-NPC-Jason(0)<Speaker>指挥官</Speaker>||:这才像话。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>我会制定好行动方案。让你的人形和那些平民都马上做好准备。</color>+<color=#00CCFF>另外，关于你刚才的态度，之后我会好好和你算算账。</color>
-指挥官()<Speaker>指挥官</Speaker>||<黑屏1>:……哼，只要能活到那个时候，随时奉陪。
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Truth</BGM>:...In the cathedral.
+()<Speaker></Speaker>||:The Commander and the Dolls retreat into the cathedral, which has miraculously managed to remain largely intact. +If someone could repair the nasty burns and clear away the revolting splatters of ELIDs that got blown apart, one could even see the murals that was once a symbol of holiness and hope.
+RO635(3)<Speaker>RO635</Speaker>||:How ironic...
+()<Speaker></Speaker>||:RO635 and SOP-II stop briefly before the statue of an angel... with one wing snapped off and its head buried in the rubble.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, did you say something?
+RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Nothing much... Just feeling a bit melancholic at the sight of the cathedral. +God has set down the rules for humans and told them what is just, but look - this place, which is supposed to be God's domain, is now more like a graveyard than anything.
+RO635(2)<Speaker></Speaker>;M4 SOPMOD IIMod(0)||:RO635 carefully strides over a body.
+RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Humans clearly know what is righteous, yet conflicts have never ceased...
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But the Commander once said...what's that verse again... +For God...loved people...?
+RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:You mean, "For God so loved the world, that he gave his only begotten Son"?
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, that's the one! +See, isn't it fair to say that things only turned out this way because people have been taking advantage of God's love and abusing their power? +There is no end to war...
+RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:I'd say people aren't actually playing by God's rules...
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But if what that book says is true, then God will always forgive humans no matter what they do.
+RO635(2);M4 SOPMOD IIMod(0)<Speaker></Speaker>||:SOP-II kicks a broken statue on the floor angrily.
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:These people...will be forgiven for smashing statues. +They'll be forgiven for killing... +They'll even be forgiven for destroying an entire city...
+RO635(2)<Speaker></Speaker>;M4 SOPMOD IIMod(0)||:RO635 gives SOP-II a squeeze on the shoulder and ruffles her hair.
+RO635(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<黑屏1>:(Softly) At least our Commander won't ever forgive those monsters... We will follow the Commander and eradicate the sins commited in the world bit by bit.
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2>:Meanwhile... on the other end of the cathedral.
+TEC9(0)<Speaker>TEC-9</Speaker>||<震屏>:Aaack! +Why are there humans inside the cathedral?!
+TEC9(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:They're here to seek refuge. Don't shout, you'll scare them.
+TEC9(0)<Speaker>TEC-9</Speaker>||:(Mutters) They scared me first, okay...
+()<Speaker></Speaker>||:Feeling a bit uneasy, TEC-9 reloads her weapon from behind cover and fires at the enemy. +But she has to stop soon enough.
+TEC9(0)<Speaker>TEC-9</Speaker>||:(Turns around) Hey...you can let your teeth chatter all you want, but do you mind not making it so loud...? +It's freaking me out...
+()<Speaker></Speaker>||:Cowering in the corner, a few shuddering children stare fearfully at TEC-9, who's standing not too far away from them.
+TEC9(0)<Speaker>TEC-9</Speaker>||:<color=#A9A9A9>(Why am I even talking to humans...?)</color> +<color=#A9A9A9>(But if I have to keep shooting those ELIDs, I'm really gonna puke.)</color>
+孩童()<Speaker>Child</Speaker>||:...Are you killing people?
+()<Speaker></Speaker>||:The abrupt question catches TEC-9 off-guard, leaving her a bit flustered.
+TEC9(0)<Speaker>TEC-9</Speaker>||:<color=#A9A9A9>(Kalina? Where's Kalina?)</color> +<color=#A9A9A9>(Is X95 still away...?)</color>
+TEC9(0)<Speaker>TEC-9</Speaker>||:Ahem...nope. +I'm just...slaying monsters.
+TEC9(0)<Speaker>Child</Speaker>||:Oh, monsters... +Those monsters...killed our mommy... (Sobs)
+()<Speaker></Speaker>||:TEC-9 doesn't know what to say.
+孩童()<Speaker>Child</Speaker>||:We will avenge Mommy!
+TEC9(0)<Speaker>TEC-9</Speaker>||:<color=#A9A9A9>(Isn't it...way too early for these humans to think about such things...? Sigh.)</color>
+TEC9(0)<Speaker>TEC-9</Speaker>||:Focus on staying alive first.
+TEC9(0)<Speaker>Child</Speaker>||:Huh?
+TEC9(0)<Speaker>TEC-9</Speaker>||:...Try to survive for now. Run as far as you can when you see these monsters... +Leave the rest to us.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:It's surprising to see you communicating with humans properly. +So why can't you talk to the Commander like this? You're such a pain in the butt—
+()<Speaker></Speaker>||:Kalina appears behind TEC-9 without warning.
+TEC9(0)<Speaker>TEC-9</Speaker>||<震屏><黑屏1>:Huhhhh?! Where the hell did you come from, Kalin?! +(Chokes) Don't come too close you're scaring me...
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Five minutes later.
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:Commander, no more time for chit-chat! +The horde of ELIDs outside... Tsk, the attacks are getting stronger! 
+()<Speaker></Speaker>||:This really isn't the time for chit-chat. +Though I just promised that Griffin Dolls are capable enough to hold the cathedral, judging by the current situation, it's actually going to be pretty tough. +All the Dolls in their respective teams are starting to show signs of fatigue.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:They've been exchanging fire the whole time we were inside the cathedral... +Ugh...now it's down to whichever happens first - either we run out of ammo or they kill every last one of us. +I could tear them in two, but the artillery fire outside could also easily blow me to kingdom come...
+RO635(3)<Speaker>RO635</Speaker>||:Stop messing about, SOP-II. Follow the Commander's instructions. +We'll just...have to last till reinforcements get here.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#A9A9A9>(RO probably wasn't there during the last transmission...)</color> +<color=#A9A9A9>(The radio should be fixed soon... If we don't get in touch with K soon...)</color>
+()<Speaker></Speaker>||:RO635 tries to reassure SOP-II, but she herself is on the verge of a nervous breakdown. +Perceiving what appears to be a weakening in the Dolls' firepower from within the cathedral, the enemy outside lauches an even fiercer round of attacks.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Argh, this goddamned piece of crap! Can't you just do your job for once?! If you don't start working, we're all gonna kick the bucket here!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Kalina gives the comms equipment a vicious kick. The radio emits a burst of static white noise, then...
+()<Speaker></Speaker>||:Click!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Finally. I thought you were already dead meat.</color>
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:C...Commander, we've established comms with K!
+()<Speaker>Commander</Speaker>||:Where's this extraction point that you promised? We have nobody and nothing to aid in our withdrawal here. If you don't send in some reinforcements soon, you can kiss ⁠— not just the VIP, but also me ⁠— goodbye.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I don't find that joke very funny.</color>
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:(Interrupts) You think that was a joke? +With this difference in firepower, it's only a matter of time for the enemy to breach our defense line!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The helicopter can't land in the city.</color> +<color=#00CCFF>The extraction point has been changed to a location in the delta region outside Belgrade. I'll send you the exact coordinates. Head toward those coordinates with the VIP now. An aircraft will be there to evacuate you in half an hour.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:That's impossible.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>What?</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:I promised Chairwoman Ulrich that I would ensure the safety of the civilians seeking refuge in the cathedral. Even if I want to take her away, I don't think she'd make this easy for us.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I don't care about the Chairwoman's wishes. Knock her out and carry her if you have to.</color> +<color=#00CCFF>Our time is precious. Stick to the plan and evacuate with the Chairwoman. Don't waste firepower without making any progress—</color>
+()<Speaker>Commander</Speaker>||:—Let me repeat myself. That is out of the question. +You're currently in a safe location, which means you've saved yourself some cards up your sleeve. +If you want to evacuate the VIP, then think of a way to get these civilians out as well. +Reinforcements. Now. This instant. +I'm not negotiating.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:(Whispers) Hey, Commander. Being so blunt with him...
+()<Speaker></Speaker>||:The bombardment goes on and on outside the cathedral. Even the comms signal is fluctuating, threatening to disconnect at any moment.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>A convoy will come and pick you up in five minutes.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:Now you're talking.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I will put together an operation plan. Ready your Dolls and those civilians.</color> +<color=#00CCFF>Also, you're going to pay for that attitude just now.</color>
+指挥官()<Speaker>Commander</Speaker>||<黑屏1>:...Humph, if I come out of this alive, gladly.
