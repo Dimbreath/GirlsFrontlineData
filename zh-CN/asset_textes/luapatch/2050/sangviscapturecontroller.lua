@@ -86,7 +86,20 @@ local myShowFreeTrialDesc = function(self)
             CS.CommonMessageBoxController.Instance:Show(desc);
     end
 end
+local myRefreshLeftDogItemUI = function(self)
+	self:RefreshLeftDogItemUI();
+	print("--");
+	for i = 0, self.sangvisDogItemList.Count - 1, 1 do
+		local s = self.sangvisDogItemList[i];
+		s.gameObject:SetActive(false);
+	end
+	for i = 0, self.currentCaptureGasha.exceptBossCount - 1, 1 do
+		local nn = i;
+		self.sangvisDogItemList[nn].gameObject:SetActive(true);
+	end
+end
 util.hotfix_ex(CS.SangvisCaptureController,'ResetGashaData',myResetGashaData)
 util.hotfix_ex(CS.SangvisCaptureController,'CaptureSangvisVip',myCaptureSangvisVip)
 util.hotfix_ex(CS.SangvisCaptureController,'RequestSangvisGashaDraw',myRequestSangvisGashaDraw)
 util.hotfix_ex(CS.SangvisCaptureController,'ShowFreeTrialDesc',myShowFreeTrialDesc)
+util.hotfix_ex(CS.SangvisCaptureController,'RefreshLeftDogItemUI',myRefreshLeftDogItemUI)

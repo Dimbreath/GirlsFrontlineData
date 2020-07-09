@@ -42,7 +42,7 @@ local isPreviewingAnimation = false
 local isEndingAnimation = false
 local waitpreviewCountdown = 4
 local waitpreviewCountdownTimer = 0
-local waitpreviewAnimationCountdown = 2
+local waitpreviewAnimationCountdown = 0.5
 local waitpreviewAnimationCountdownTimer = 0
 local waitEndingAnimationCountdown = 2
 local waitEndingAnimationCountdownTimer = 0
@@ -55,52 +55,115 @@ local mainTween2 = nil
 local successMat
 local successMatValue = 1
 local successMatChange = false
+local msgbox = false
 --Awake：初始化数据
 Awake = function()
 	
 	InitGunAssemblyData()	
 	InitGunPartsData()
-	TestMissionBuffPart()
+	CheckMissionBuffPart()
 	
 	math.randomseed(tostring(os.time()):reverse():sub(1, 7))
 end
 function InitGunAssemblyData()	
-	local TableStruct = {ID = 1, Name = "SVD", GirlName = "ASSEMBLATO DA HENRIETTA",member = "1001,1002,1003,1004,1005,1006", time = 6000,code = "GunAssembly_SVD", previewID = 4}	
+	local TableStruct = {ID = 1, Name = "M1897", GirlName = "ASSEMBLATO DA TRIELA",member = "1022,1023,1024", time = 60,code = "GunAssembly_M1897"}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
-	
+	local TableStruct = {ID = 2, Name = "P90", GirlName = "ASSEMBLATO DA HENRIETTA",member = "1001,1002,1003,1004", time = 60,code = "GunAssembly_P90"}	
+	GunAssemblyData[TableStruct.ID] = TableStruct	
+	local TableStruct = {ID = 3, Name = "M249", GirlName = "ASSEMBLATO DA CLAES",member = "1005,1006,1007,1008,1009", time = 60,code = "GunAssembly_M249"}	
+	GunAssemblyData[TableStruct.ID] = TableStruct	
+	local TableStruct = {ID = 4, Name = "AUG", GirlName = "ASSEMBLATO DA ANGELICA",member = "1010,1011,1012,1013,1014,1015", time = 60,code = "GunAssembly_AUG"}	
+	GunAssemblyData[TableStruct.ID] = TableStruct	
+	local TableStruct = {ID = 5, Name = "SVD", GirlName = "ASSEMBLATO DA RICO",member = "1016,1017,1018,1019,1020,1021", time = 60,code = "GunAssembly_SVD"}	
+	GunAssemblyData[TableStruct.ID] = TableStruct	
 end
 function InitGunPartsData()	
-	local TableStruct = {ID = 1001, buff_id = 987001, group_id = 1, weight = 4, limit = 3, isLimitUnder = false, code = "SVD_Upper" ,waitTime = 1}	
+	local TableStruct = {ID = 1001, buff_id = 381402, group_id = 2, weight = 4, limit = 5, isLimitUnder = false, code = "P90_Mag" ,waitTime = 1.683, isFirst = false, notfirst = false}	
 	GunPartsData[1] = TableStruct
 	
-	TableStruct = {ID = 1002, buff_id = 987002, group_id = 1, weight = 5, limit = 7, isLimitUnder = false, code = "SVD_Scope",waitTime = 0.75}	
+	TableStruct = {ID = 1002, buff_id = 381403, group_id = 2, weight = 3, limit = 4, isLimitUnder = true, code = "P90_Body",waitTime = 1.1, isFirst = false, notfirst = true}	
 	GunPartsData[2] = TableStruct
 	
-	TableStruct = {ID = 1003, buff_id = 987003, group_id = 1, weight = 1, limit = 1, isLimitUnder = false, code = "SVD_HG",waitTime = 1}	
+	TableStruct = {ID = 1003, buff_id = 381404, group_id = 2, weight = 2, limit = 3, isLimitUnder = true, code = "P90_Bolt",waitTime = 0.9, isFirst = false, notfirst = true}	
 	GunPartsData[3] = TableStruct
 	
-	TableStruct = {ID = 1004, buff_id = 987004, group_id = 1, weight = 2, limit = 1, isLimitUnder = false, code = "SVD_Trigger",waitTime = 1.167}	
+	TableStruct = {ID = 1004, buff_id = 381405, group_id = 2, weight = 1, limit = 1, isLimitUnder = true, code = "P90_Receiver",waitTime = 0.5, isFirst = true, notfirst = false}	
 	GunPartsData[4] = TableStruct
 	
-	TableStruct = {ID = 1005, buff_id = 987005, group_id = 1, weight = 1, limit = 3, isLimitUnder = false, code = "SVD_Mag",waitTime = 1}	
+	TableStruct = {ID = 1005, buff_id = 381406, group_id = 3, weight = 4, limit = 8, isLimitUnder = true, code = "M249_Stock",waitTime = 1, isFirst = false, notfirst = true}	
 	GunPartsData[5] = TableStruct
 	
-	TableStruct = {ID = 1006, buff_id = 987006, group_id = 1, weight = 1, limit = 0, isLimitUnder = false, code = "SVD_Lower",waitTime = 0.5}	
+	TableStruct = {ID = 1006, buff_id = 381407, group_id = 3, weight = 2, limit = 4, isLimitUnder = true, code = "M249_Trigger",waitTime = 1, isFirst = false, notfirst = true}	
 	GunPartsData[6] = TableStruct
+	
+	TableStruct = {ID = 1007, buff_id = 381408, group_id = 3, weight = 5, limit = 8, isLimitUnder = false, code = "M249_Mag",waitTime = 0.9, isFirst = false, notfirst = false}	
+	GunPartsData[7] = TableStruct
+	
+	TableStruct = {ID = 1008, buff_id = 381409, group_id = 3, weight = 1, limit = 1, isLimitUnder = true, code = "M249_Body",waitTime = 0.5, isFirst = true, notfirst = false}	
+	GunPartsData[8] = TableStruct
+	
+	TableStruct = {ID = 1009, buff_id = 381410, group_id = 3, weight = 2, limit = 8, isLimitUnder = true, code = "M249_Barrel",waitTime = 1.733, isFirst = false, notfirst = true}	
+	GunPartsData[9] = TableStruct
+	
+	TableStruct = {ID = 1010, buff_id = 381411, group_id = 4, weight = 3, limit = 3, isLimitUnder = true, code = "AUG_Bolt",waitTime = 0.9, isFirst = false, notfirst = true}	
+	GunPartsData[10] = TableStruct
+	
+	TableStruct = {ID = 1011, buff_id = 381412, group_id = 4, weight = 1, limit = 1, isLimitUnder = true, code = "AUG_Receiver",waitTime = 0.5, isFirst = true, notfirst = false}	
+	GunPartsData[11] = TableStruct
+	
+	TableStruct = {ID = 1012, buff_id = 381413, group_id = 4, weight = 2, limit = 0, isLimitUnder = false, code = "AUG_Body",waitTime = 1.4, isFirst = false, notfirst = false}	
+	GunPartsData[12] = TableStruct
+	
+	TableStruct = {ID = 1013, buff_id = 381414, group_id = 4, weight = 7, limit = 16, isLimitUnder = false, code = "AUG_Mag",waitTime = 0.95, isFirst = false, notfirst = false}	
+	GunPartsData[13] = TableStruct
+	
+	TableStruct = {ID = 1014, buff_id = 381415, group_id = 4, weight = 5, limit = 3, isLimitUnder = false, code = "AUG_Barrel",waitTime = 1, isFirst = false, notfirst = false}	
+	GunPartsData[14] = TableStruct
+	
+	TableStruct = {ID = 1015, buff_id = 381416, group_id = 4, weight = 6, limit = 9, isLimitUnder = false, code = "AUG_Bipod",waitTime = 0.7, isFirst = false, notfirst = false}	
+	GunPartsData[15] = TableStruct
+	
+	TableStruct = {ID = 1016, buff_id = 381417, group_id = 5, weight = 4, limit = 6, isLimitUnder = true, code = "SVD_Upper",waitTime = 1, isFirst = false, notfirst = true}	
+	GunPartsData[16] = TableStruct
+	
+	TableStruct = {ID = 1017, buff_id = 381418, group_id = 5, weight = 5, limit = 0, isLimitUnder = false, code = "SVD_Scope",waitTime = 0.75, isFirst = false, notfirst = false}
+	GunPartsData[17] = TableStruct
+	
+	TableStruct = {ID = 1018, buff_id = 381419, group_id = 5, weight = 2, limit = 0, isLimitUnder = false, code = "SVD_HG",waitTime = 1, isFirst = false, notfirst = false}	
+	GunPartsData[18] = TableStruct
+	
+	TableStruct = {ID = 1019, buff_id = 381420, group_id = 5, weight = 2, limit = 4, isLimitUnder = true, code = "SVD_Trigger",waitTime = 1.167, isFirst = false, notfirst = true}	
+	GunPartsData[19] = TableStruct
+	
+	TableStruct = {ID = 1020, buff_id = 381421, group_id = 5, weight = 5, limit = 8, isLimitUnder = false, code = "SVD_Mag",waitTime = 1, isFirst = false, notfirst = false}	
+	GunPartsData[20] = TableStruct
+	
+	TableStruct = {ID = 1021, buff_id = 381422, group_id = 5, weight = 1, limit = 1, isLimitUnder = true, code = "SVD_Lower",waitTime = 0.5, isFirst = true, notfirst = false}	
+	GunPartsData[21] = TableStruct
+	
+	TableStruct = {ID = 1022, buff_id = 381423, group_id = 1, weight = 1, limit = 1, isLimitUnder = true, code = "M1897_Receiver",waitTime = 0.5, isFirst = true, notfirst = false}	
+	GunPartsData[22] = TableStruct
+	
+	TableStruct = {ID = 1023, buff_id = 381424, group_id = 1, weight = 2, limit = 0, isLimitUnder = false, code = "M1897_Stock",waitTime = 1.2, isFirst = false, notfirst = false}	
+	GunPartsData[23] = TableStruct
+	
+	TableStruct = {ID = 1024, buff_id = 381425, group_id = 1, weight = 2, limit = 0, isLimitUnder = false, code = "M1897_Barrel",waitTime = 1, isFirst = false, notfirst = false}	
+	GunPartsData[24] = TableStruct
+	
+	
 end
 function TestMissionBuffPart()
 	local cnt = 1
-	for j=1,#GunPartsData do
+	for j=1,4 do
 		CurrentGunPartsID[cnt] = GunPartsData[j].ID
 		cnt = cnt + 1		
 	end
 end
 function CheckMissionBuffPart()
 	local cnt = 1
-	local listBuffAction = CS.GF.Battle.BattleController.Instance.currentSpotAction.listFriendBuffAction
+	local listBuffAction = CS.GF.Battle.BattleController.Instance.currentSpotAction.listEnemyBuffAction
 	for i=0,listBuffAction.Count -1 do
 		local missionBuffId = listBuffAction[i].missionBuffCfgId
-		print(missionBuffId)
 		for j=1,#GunPartsData do
 			if missionBuffId == GunPartsData[j].buff_id then
 				CurrentGunPartsID[cnt] = GunPartsData[j].ID
@@ -112,7 +175,7 @@ end
 --Start: 加载组件
 Start = function()
 	print("GunAssemblyStart")
-
+	
 	btnBack = BtnBack:GetComponent(typeof(CS.ExButton))
 	btnUndo = BtnUndo:GetComponent(typeof(CS.ExButton))
 	btnReset = BtnReset:GetComponent(typeof(CS.ExButton))
@@ -135,7 +198,7 @@ Start = function()
 			EndAssembly()
 		end)
 	
-
+	
 	local mainTweens = MainGO:GetComponents(typeof(CS.TweenPlay))
 	mainTween1 = mainTweens[0]
 	mainTween2 = mainTweens[1]
@@ -145,10 +208,12 @@ Start = function()
 	--初始化零件显示
 	self.transform:SetParent(CS.BattleUIController.Instance.transform:Find('UI'),false)
 	CS.BattleFrameManager.StopTime(true,99999)
-
-
+	btnReset.gameObject:SetActive(false)
+	btnUndo.gameObject:SetActive(false)
+	btnBack.gameObject:SetActive(false)
+	
 	inited = true
-
+	
 end
 --Update: 计算倒计时
 Update = function()
@@ -178,20 +243,23 @@ Update = function()
 						EndEndingAnimation()
 					end
 				end
-
 				
 				if countdownTimer > countdown then
 					EndAssembly()
 				end
-				if reverseDirector then
-					local time = tempDirector.time - CS.UnityEngine.Time.deltaTime
-					if time < 0 then 
-						time = 0
-					end
-					tempDirector.time = time
-					tempDirector:DeferredEvaluate()
-					if tempDirector.time <= 0 then
-						reverseDirector = false
+				if tempDirector == nil then
+					
+				else
+					if reverseDirector then
+						local time = tempDirector.time - CS.UnityEngine.Time.deltaTime
+						if time < 0 then 
+							time = 0
+						end
+						tempDirector.time = time
+						tempDirector:DeferredEvaluate()
+						if tempDirector.time <= 0 then
+							reverseDirector = false
+						end
 					end
 				end
 				if waitAnimation then
@@ -205,29 +273,33 @@ Update = function()
 						end
 					end
 				end
-				if 	successMatChange then
-					successMat:SetFloat("_Guodu", successMatValue)
-					successMatValue = successMatValue - 0.5 * CS.UnityEngine.Time.deltaTime
-					if successMatValue <= 0 then
-						successMat:SetFloat("_Guodu", 0)
-						successMatChange = false
-					end
-				end
+				--if 	successMatChange then
+				--	successMat:SetFloat("_Guodu", successMatValue)
+				--	successMatValue = successMatValue - 0.5 * CS.UnityEngine.Time.deltaTime
+				--	if successMatValue <= 0 then
+				--		successMat:SetFloat("_Guodu", 0)
+				--		successMatChange = false
+				--	end
+				--end
 			end
 			
 		end
 		
 	end
 end
- 
-function EndPreviewAnimation()
 
+function EndPreviewAnimation()
+	
 	DoTweenFade(ImgPreview:GetComponent(typeof(CS.ExImage)))
 	ShowGunParts()
 	ResetAssembly()
 	TimeGO:SetActive(true)
 	isCountingTime = true
 	PlaySFX("Countdown")
+	btnReset.gameObject:SetActive(true)
+	btnUndo.gameObject:SetActive(true)
+	btnBack.gameObject:SetActive(true)
+	AddFirstGunParts()
 end
 function EndPreview()
 	DoTweenPlay(mainTween1,MainGO)
@@ -239,11 +311,11 @@ end
 function OnClickAssemblyEnd()
 	--弹出提示
 	if GunAssemblyCount == 0 then
-		CS.CommonController.ConfirmBox("放弃拼装",function()
-			EndAssembly()
-		end,nil,CS.ConfirmType.Normal,0,true)
+		CS.CommonController.ConfirmBox(GetName(10162),function()
+				EndAssembly()
+			end,nil,CS.ConfirmType.Normal,0,true)
 	else
-		CS.CommonController.ConfirmBox("提前结束",function()
+		CS.CommonController.ConfirmBox(GetName(10162),function()
 				EndAssembly()
 			end)
 	end
@@ -312,15 +384,37 @@ function OnClickGunParts(id)
 	if id == lastGunPartsID then
 		ReturnLastGunParts()
 	else
-		if (data.isLimitUnder and data.limit >= gunWeight) or (not data.isLimitUnder and data.limit <= gunWeight) then
+		if (CheckLimit(data)) then
 			AddGunParts(id)
 		else
 			--弹出提示
-			print(data.limit .." "..gunWeight)
-			CS.CommonController.LightMessageTips("顺序不正确不能拼装")
+			CS.CommonController.LightMessageTips(GetName(10161))
 		end
 	end
 	
+end
+function CheckLimit(data)
+	if data.notfirst then
+		if gunWeight == 0 then
+			return false
+		end
+	end
+	if data.isfirst then
+		return true
+	end
+	if data.isLimitUnder then
+		if gunWeight < data.limit then
+			return true
+		else
+			return false
+		end		
+	else
+		if gunWeight > data.limit then
+			return true
+		else
+			return false
+		end	
+	end
 end
 function AddGunParts(id)
 	local data = GetGunPartsDataById(id)
@@ -337,7 +431,7 @@ function AddGunParts(id)
 		if not CurrentAssemblyID == data.group_id then
 			return
 		end
-
+		
 	end
 	for i=1,#AssemblyGunPartsIDList do
 		if AssemblyGunPartsIDList[i] == id then
@@ -354,6 +448,10 @@ function AddGunParts(id)
 		end
 	end
 	local AssemblyGunPartsObject =  CurGunPartsAssemblyFull.transform:Find(data.code).gameObject
+	local tweens = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
+	for i=0,tweens.Length-1 do
+		tweens[i]:SetIsPlayBackwards(false)
+	end
 	if AssemblyGunPartsObject.activeSelf then
 		AssemblyGunPartsObject:SetActive(false)
 		AssemblyGunPartsObject:SetActive(true)
@@ -361,6 +459,10 @@ function AddGunParts(id)
 		AssemblyGunPartsObject:SetActive(true)
 	end
 	local AssemblyGunPartsObjectShadow =  CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(data.code).gameObject
+	tweens = AssemblyGunPartsObjectShadow:GetComponents(typeof(CS.TweenPlay))
+	for i=0,tweens.Length-1 do
+		tweens[i]:SetIsPlayBackwards(false)
+	end
 	if AssemblyGunPartsObjectShadow.activeSelf then
 		AssemblyGunPartsObjectShadow:SetActive(false)
 		AssemblyGunPartsObjectShadow:SetActive(true)
@@ -371,14 +473,15 @@ function AddGunParts(id)
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
 	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
 	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable ~= nil then
+	if playable == nil then
+	else
 		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
 		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime	
 		reverseDirector = false
 		director:Play()
 	end
 	waitAnimation = true
-	waitAnimationCountdown = data.waitTime + 0.2
+	waitAnimationCountdown = data.waitTime + 0.1
 	--local tweenplays = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
 	--for i=0,tweenplays.Length-1 do
 	--	DoTweenPlay(tweenplays[i],AssemblyGunPartsObject,false)
@@ -416,7 +519,7 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
 		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
 		CS.DG.Tweening.TweenSettingsExtensions.SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
-	
+		
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
 		CS.DG.Tweening.TweenExtensions.Play(tweener)
 	end
@@ -459,7 +562,6 @@ function CheckAssemblyGunComplete()
 	local assemblyMemberArray = Split(data.member,',')
 	for i=1, #assemblyMemberArray do
 		local id = tonumber(assemblyMemberArray[i])
-		print (id)
 		local flag = false
 		for i=1,#AssemblyGunPartsIDList do
 			if AssemblyGunPartsIDList[i] == id then
@@ -482,6 +584,7 @@ function CheckAssemblyGunComplete()
 		btnUndo.gameObject:SetActive(false)
 		btnBack.gameObject:SetActive(false)
 		PlaySFX("success")
+		PlaySFX("CountdownCancel")
 		isCountingTime = false
 		DoTweenPlay(mainTween2,MainGO)
 		isEndingAnimation = true
@@ -502,9 +605,9 @@ function CheckAssemblyGunComplete()
 			ImgSuccess = ImgSuccessP90
 		end	
 		ImgSuccess:SetActive(true)
-		successMat = ImgSuccess:GetComponent(typeof(CS.ExImage)).material
-		successMatChange = true
-
+		--successMat = ImgSuccess:GetComponent(typeof(CS.ExImage)).material
+		--successMatChange = true
+		
 	end
 end
 function ReturnLastGunParts()	
@@ -518,7 +621,7 @@ function ReturnLastGunParts()
 		return
 	end
 	gunWeight = gunWeight - GetGunPartsDataById(lastGunPartsID).weight
-
+	
 	local AssemblyGunPartsObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
 	--local eximages = AssemblyGunPartsObject:GetComponentsInChildren(typeof(CS.ExImage))
 	--for i=0,eximages.Length-1 do
@@ -532,15 +635,40 @@ function ReturnLastGunParts()
 	local data = GetGunPartsDataById(lastGunPartsID)
 	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
 	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable ~= nil then
+	if playable == nil then
+		local tweens = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
+		for i=0,tweens.Length-1 do
+			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
+				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
+				(AssemblyGunPartsObject.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
+				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
+				CS.DG.Tweening.TweenExtensions.Play(tweener)
+			else		
+				tweens[i]:SetIsPlayBackwards(true):DoTween()
+			end
+		end
+		local AssemblyGunPartsObjectShadow = CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(AssemblyGunPartsObject.name)
+		tweens = AssemblyGunPartsObjectShadow:GetComponents(typeof(CS.TweenPlay))
+		for i=0,tweens.Length-1 do
+			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
+				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
+				(AssemblyGunPartsObjectShadow.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
+				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
+				CS.DG.Tweening.TweenExtensions.Play(tweener)
+			else	
+				tweens[i]:SetIsPlayBackwards(true):DoTween()
+			end
+		end
+	else
 		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
 		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.Manual
 		director.time = director.playableAsset.duration
 		reverseDirector = true
 		tempDirector = director
+		
 	end
 	table.remove(CurrentGunPartsAssemblyObject)
-
+	
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
 	waitAnimation = true
 	waitAnimationCountdown = data.waitTime + 0.2
@@ -600,11 +728,12 @@ function CalcGunAssemblyCount()
 			local Tweens = ImgPreview:GetComponents(typeof(CS.TweenPlay))
 			DoTweenPlay(Tweens[0],ImgPreview)
 			DoTweenPlay(Tweens[1],ImgPreview)
-
+			
 			break
 		end
 	end
-	if GunAssemblyAbleCount == 0 then
+	if GunAssemblyAbleCount == 0 and not msgbox then
+		msgbox = true
 		CS.CommonController.MessageBox("零件不够",function()
 				EndAssembly()
 			end)
@@ -625,6 +754,15 @@ function ShowGunParts()
 		GunPartShowStep(subpart,0)
 	end
 end
+function AddFirstGunParts()
+	for i=1,#CurrentGunPartsID do
+		local data = GetGunPartsDataById(CurrentGunPartsID[i])		
+		if data.isFirst then
+			OnClickGunParts(CurrentGunPartsID[i])
+			return
+		end
+	end
+end
 function GunPartShowStep(gunpart,step)
 	if step == 0 then
 		gunpart.transform:Find("Tex_Step").gameObject:SetActive(false)
@@ -634,9 +772,9 @@ function GunPartShowStep(gunpart,step)
 		gunpart.transform:Find("Tex_Step").gameObject:SetActive(true)
 		gunpart.transform:Find("Img_StepBG").gameObject:SetActive(true)
 		gunpart.transform:Find("UI_Text").gameObject:SetActive(true)
-		gunpart.transform:Find("Tex_Step").gameObject:GetComponent(typeof(CS.ExText)).text = tostring(step)
+		gunpart.transform:Find("Tex_Step").gameObject:GetComponent(typeof(CS.ExText)).text = GetShownNum(step)
 	end
-
+	
 end
 
 
@@ -669,7 +807,7 @@ function GenColor(r,g,b,a)
 end
 
 function PlaySFX(FXname)
-
+	
 	if FXname == "Countdown" then
 		CS.CommonAudioController.PlayUI("UI_GunslingerGirl_Countdown_loop")
 	end
@@ -702,6 +840,38 @@ function PlaySFX(FXname)
 	end
 	if FXname == "flair" then
 		CS.CommonAudioController.PlayUI("UI_va_mixdone")
+	end
+end
+function GetShownNum(num)
+	if num == 1 then
+		return "Uno"
+	end
+	if num == 2 then
+		return "Due"
+	end
+	if num == 3 then
+		return "Tre"
+	end
+	if num == 4 then
+		return "Quattro"
+	end
+	if num == 5 then
+		return "Cinque"
+	end
+	if num == 6 then
+		return "Sei"
+	end
+	if num == 7 then
+		return "Sette"
+	end
+	if num == 8 then
+		return "Otto"
+	end
+	if num == 9 then
+		return "Nove"
+	end
+	if num == 10 then
+		return "Dieci"
 	end
 end
 function PlayBottleEffect(num)
