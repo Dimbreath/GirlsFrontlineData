@@ -368,6 +368,7 @@ function EndAssembly()
 	CS.BattleFrameManager.ResumeTime()
 	if GunAssemblyCount == 0 then
 		PlaySFX("fail")
+		PlaySFX("CountdownCancel")
 		CS.GF.Battle.BattleController.Instance:TriggerBattleFinishEvent(true)
 	else
 		for i=0,CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1 do
