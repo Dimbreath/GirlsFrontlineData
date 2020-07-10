@@ -30,6 +30,12 @@ local OPSPanelController_RefreshUI = function(self)
 	end
 end
 
+local OPSPanelController_ShowUnclockMessageBox = function(self,panelMission,iteminfo)
+	self:ShowUnclockMessageBox(panelMission,iteminfo);
+	self.UnclockMessageBox.transform:Find("SecretInfoFrame").gameObject:SetActive(false);
+end
+
 util.hotfix_ex(CS.OPSPanelController,'LoadUI',OPSPanelController_LoadUI)
 --util.hotfix_ex(CS.OPSPanelController,'RefreshItemNum',OPSPanelController_RefreshItemNum)
 util.hotfix_ex(CS.OPSPanelController,'RefreshUI',OPSPanelController_RefreshUI)
+util.hotfix_ex(CS.OPSPanelController,'ShowUnclockMessageBox',OPSPanelController_ShowUnclockMessageBox)

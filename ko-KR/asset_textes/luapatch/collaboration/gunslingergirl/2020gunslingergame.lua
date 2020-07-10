@@ -9,8 +9,8 @@ local character = nil
 local mCurSkill ={}
 local maxX = 5
 local minX = -1
-local maxY = 4
-local minY = -6
+local maxY = 2
+local minY = -3.6
 local txCD = nil
 --X分量的系数
 local speedXPara = 0.02
@@ -24,6 +24,8 @@ local cfgMoveFoward = nil
 local cfgMoveBack = nil
 local isMoving = false
 local thisFrameJoyStick = false
+local timecount = 0
+local textTime
 
 SkillActive = function(active,showCD)
     
@@ -99,6 +101,8 @@ JoyStickMove = function(input)
         maxY
     )
 	--print("原始速度:"..character.realtimeSpeed .." ".."最终速度:"..character.gun.speed * XPara * input.value)
+
+		
     local offset = CS.UnityEngine.Vector3(character.transform.localPosition.x, 0, y)
 	if y == character.transform.localPosition.y then
 		if isMoving then
@@ -129,6 +133,7 @@ end
 --Awake：初始化数据
 Awake = function()
     -- 关闭自动释放技能
+	textTime = TextTime:GetComponent(typeof(CS.ExText))
 end
 
 --Start: 加载组件
@@ -164,7 +169,7 @@ Start = function()
 	
     --txCD = goCD:GetComponent('Text');
 	InitSkill1(SkillLabel1,mCurSkill[1],1)
-	InitSkill1(SkillLabel2,mCurSkill[2],2)
+	--InitSkill1(SkillLabel2,mCurSkill[2],2)
 	
 end
 Update = function()
@@ -175,10 +180,17 @@ Update = function()
 		end
 	end
 	thisFrameJoyStick = false
+	timecount = timecount + CS.UnityEngine.Time.deltaTime
+	textTime.text= GetTimeFormat(timecount)
+	
 end
 --depose
 OnDestroy =function()
 	character = nil
 	mCurSkill ={}
 end
-
+GetTimeFormat = function(value)
+	local value2 = math.floor((value - math.floor(value)) * 10)
+	local t = string.format("<size=90>%02d</size>:%01d",math.floor(value),value2)
+	return t
+end

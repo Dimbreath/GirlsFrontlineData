@@ -8,11 +8,6 @@ local SpecialOPSMessageBox_InitUI = function(self)
 	end)
 end
 
-local SpecialOPSMessageBox__ShowUnclockMission = function(self,num,handler)
-	self:ShowUnclockMission(num,handler);
-	self.transform:Find("SecretInfoFrame").gameObject:SetActive(false);
-end
-
 local SpecialOPSMessageBox_ShowDetailPanel = function(self)
 	self:ShowDetailPanel();
 	local itemRealNum = CS.OPSPanelController.Instance.item_use[CS.OPSPanelController.showItemId[0]].itemRealNum;
@@ -29,5 +24,5 @@ local SpecialOPSMessageBox_ShowDetailPanel = function(self)
 	self.transform:Find("InfoFrame/ExplainNode/Tex_CurrPointMessage"):GetComponent(typeof(CS.ExText)).text = CS.System.String.Format(CS.Data.GetLang(60042),all,hasget);
 end
 util.hotfix_ex(CS.SpecialOPSMessageBox,'InitUIElements',SpecialOPSMessageBox_InitUI)
-util.hotfix_ex(CS.SpecialOPSMessageBox,'ShowUnclockMission',SpecialOPSMessageBox__ShowUnclockMission)
+--util.hotfix_ex(CS.SpecialOPSMessageBox,'ShowUnclockMission',SpecialOPSMessageBox__ShowUnclockMission)
 util.hotfix_ex(CS.SpecialOPSMessageBox,'ShowDetailPanel',SpecialOPSMessageBox_ShowDetailPanel)
