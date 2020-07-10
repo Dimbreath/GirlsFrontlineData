@@ -61,6 +61,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "anniversary_guns_avg_switch",
+            "parameter_type": "int",
+            "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "anti_indulgence_heart_beat_rate",
             "parameter_type": "int",
             "parameter_value": "300",
@@ -117,19 +123,19 @@
         {
             "parameter_name": "attack_effect_mg",
             "parameter_type": "string",
-            "parameter_value": "7,1.5,4,200,23,8,2",
+            "parameter_value": "7,1.5,4,200,23,8,3",
             "client_require": "1"
         },
         {
             "parameter_name": "attack_effect_normal",
             "parameter_type": "string",
-            "parameter_value": "5,1.5,23,8,50,2",
+            "parameter_value": "5,1.5,23,8,50,3",
             "client_require": "1"
         },
         {
             "parameter_name": "attack_effect_sg",
             "parameter_type": "string",
-            "parameter_value": "6,1.5,23,8,50,2,3,1.5,0.5",
+            "parameter_value": "6,1.5,23,8,50,3,3,1.5,0.5",
             "client_require": "1"
         },
         {
