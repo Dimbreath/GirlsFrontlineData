@@ -44903,28 +44903,28 @@ battle_skill_config-390073305,공속 감소치:50%
 battle_skill_config-490073305,
 battle_skill_config-190073401,소이류탄
 battle_skill_config-590073401,
-battle_skill_config-290073401,탄띠 교체 후 첫 공격 시 추가로 피격 범위에 불을 질러//c 0.5초마다 0.06배 피해를 주고//c 범위 안의 적이 받는 피해량을 6% 증폭시킨다. 지속시간 2.5초.
-battle_skill_config-390073401,화염 피해량:6%//c피해량 증폭:6%
+battle_skill_config-290073401,탄띠 교체 후 첫 공격은 0.6배 피해를 주고//c 공격 범위에 불을 질러 0.5초마다 0.06배 피해를 주며//c 범위 내 적이 받는 피해를 6% 증폭시킨다//c 지속시간 2.5초.
+battle_skill_config-390073401,피해 배율:60%//c화염 피해:6%//c피해량 증폭:6%
 battle_skill_config-490073401,
 battle_skill_config-190073402,소이류탄
 battle_skill_config-590073402,
-battle_skill_config-290073402,탄띠 교체 후 첫 공격 시 추가로 피격 범위에 불을 질러//c 0.5초마다 0.09배 피해를 주고//c 범위 안의 적이 받는 피해량을 7% 증폭시킨다. 지속시간 2.5초.
-battle_skill_config-390073402,화염 피해량:9%//c피해량 증폭:7%
+battle_skill_config-290073402,탄띠 교체 후 첫 공격은 0.65배 피해를 주고//c 공격 범위에 불을 질러 0.5초마다 0.09배 피해를 주며//c 범위 내 적이 받는 피해를 7% 증폭시킨다//c 지속시간 2.5초.
+battle_skill_config-390073402,피해 배율:65%//c화염 피해:9%//c피해량 증폭:7%
 battle_skill_config-490073402,
 battle_skill_config-190073403,소이류탄
 battle_skill_config-590073403,
-battle_skill_config-290073403,탄띠 교체 후 첫 공격 시 추가로 피격 범위에 불을 질러//c 0.5초마다 0.11배 피해를 주고//c 범위 안의 적이 받는 피해량을 8% 증폭시킨다. 지속시간 2.5초.
-battle_skill_config-390073403,화염 피해량:11%//c피해량 증폭:8%
+battle_skill_config-290073403,탄띠 교체 후 첫 공격은 0.7배 피해를 주고//c 공격 범위에 불을 질러 0.5초마다 0.11배 피해를 주며//c 범위 내 적이 받는 피해를 8% 증폭시킨다//c 지속시간 2.5초.
+battle_skill_config-390073403,피해 배율:70%//c화염 피해:11%//c피해량 증폭:8%
 battle_skill_config-490073403,
 battle_skill_config-190073404,소이류탄
 battle_skill_config-590073404,
-battle_skill_config-290073404,탄띠 교체 후 첫 공격 시 추가로 피격 범위에 불을 질러//c 0.5초마다 0.13배 피해를 주고//c 범위 안의 적이 받는 피해량을 9% 증폭시킨다. 지속시간 2.5초.
-battle_skill_config-390073404,화염 피해량:13%//c피해량 증폭:9%
+battle_skill_config-290073404,탄띠 교체 후 첫 공격은 0.75배 피해를 주고//c 공격 범위에 불을 질러 0.5초마다 0.13배 피해를 주며//c 범위 내 적이 받는 피해를 9% 증폭시킨다//c 지속시간 2.5초.
+battle_skill_config-390073404,피해 배율:75%//c화염 피해:13%//c피해량 증폭:9%
 battle_skill_config-490073404,
 battle_skill_config-190073405,소이류탄
 battle_skill_config-590073405,
-battle_skill_config-290073405,탄띠 교체 후 첫 공격 시 추가로 피격 범위에 불을 질러//c 0.5초마다 0.15배 피해를 주고//c 범위 안의 적이 받는 피해량을 10% 증폭시킨다. 지속시간 2.5초.
-battle_skill_config-390073405,화염 피해량:15%//c피해량 증폭:10%
+battle_skill_config-290073405,탄띠 교체 후 첫 공격은 0.8배 피해를 주고//c 공격 범위에 불을 질러 0.5초마다 0.15배 피해를 주며//c 범위 내 적이 받는 피해를 10% 증폭시킨다//c 지속시간 2.5초.
+battle_skill_config-390073405,피해 배율:80%//c화염 피해:15%//c피해량 증폭:10%
 battle_skill_config-490073405,
 battle_skill_config-190073501,409破坏者cutin
 battle_skill_config-590073501,
@@ -45281,6 +45281,31 @@ battle_skill_config-590077305,
 battle_skill_config-290077305,수비 방침에서 발동 시 자신의 회피를 200% 상승시키고//c 기타 방침에서 발동 시 자신의 화력을 100% 상승시킨다//c 지속시간 5초.
 battle_skill_config-390077305,쿨타임:8초//c회피 상승치:200%//c화력 상승치:100%//c지속시간:5초
 battle_skill_config-490077305,
+battle_skill_config-191077401,위협감지
+battle_skill_config-591077401,
+battle_skill_config-291077401,12초마다 또는 편제 손실 시 발동한다. 수비 방침일 경우 1.2초간 왜곡방벽을 생성하며//c 그외 방침일 경우 화력을 40% 상승시킨다//c 지속시간 2초.
+battle_skill_config-391077401,발동 간격:12초//c역장 지속:1.2초//c화력 상승치:40%//c지속시간:2초
+battle_skill_config-491077401,
+battle_skill_config-191077402,위협감지
+battle_skill_config-591077402,
+battle_skill_config-291077402,11초마다 또는 편제 손실 시 발동한다. 수비 방침일 경우 1.4초간 왜곡방벽을 생성하며//c 그외 방침일 경우 화력을 50% 상승시킨다//c 지속시간 2.3초.
+battle_skill_config-391077402,발동 간격:11초//c역장 지속:1.4초//c화력 상승치:50%//c지속시간:2.3초
+battle_skill_config-491077402,
+battle_skill_config-191077403,위협감지
+battle_skill_config-591077403,
+battle_skill_config-291077403,10초마다 또는 편제 손실 시 발동한다. 수비 방침일 경우 1.6초간 왜곡방벽을 생성하며//c 그외 방침일 경우 화력을 60% 상승시킨다//c 지속시간 2.5초.
+battle_skill_config-391077403,발동 간격:10초//c역장 지속:1.6초//c화력 상승치:60%//c지속시간:2.5초
+battle_skill_config-491077403,
+battle_skill_config-191077404,위협감지
+battle_skill_config-591077404,
+battle_skill_config-291077404,9초마다 또는 편제 손실 시 발동한다. 수비 방침일 경우 1.8초간 왜곡방벽을 생성하며//c 그외 방침일 경우 화력을 70% 상승시킨다//c 지속시간 2.8초.
+battle_skill_config-391077404,발동 간격:9초//c역장 지속:1.8초//c화력 상승치:70%//c지속시간:2.8초
+battle_skill_config-491077404,
+battle_skill_config-191077405,위협감지
+battle_skill_config-591077405,
+battle_skill_config-291077405,8초마다 또는 편제 손실 시 발동한다. 수비 방침일 경우 2초간 왜곡방벽을 생성하며//c 그외 방침일 경우 화력을 80% 상승시킨다//c 지속시간 3초.
+battle_skill_config-391077405,발동 간격:8초//c역장 지속:2초//c화력 상승치:80%//c지속시간:3초
+battle_skill_config-491077405,
 battle_skill_config-190077401,위협 감지
 battle_skill_config-590077401,
 battle_skill_config-290077401,12초마다 또는 편제를 손실할 때 발동한다. 수비 방침일 경우 1.2초간 왜곡방벽을 생성하며//c 기타 방침일 경우 화력을 40% 상승시킨다//c 지속시간 2초.

@@ -3805,7 +3805,7 @@
     },
     {
         "id": 3531,
-        "formula": "(sbuffidtier(3781)=1)?1:0"
+        "formula": "(sbuffidtier(3781)>0)?1:0"
     },
     {
         "id": 3532,
@@ -3821,11 +3821,11 @@
     },
     {
         "id": 3535,
-        "formula": "100+sbuffidtier(3794)"
+        "formula": "100+sbuffidtier(3794)*3"
     },
     {
         "id": 3536,
-        "formula": "105+((sbuffidtier(3805)-1)*5)"
+        "formula": "105+((sbuffidtier(3805)-1)*5)+sbufftypetier(602)"
     },
     {
         "id": 3537,
@@ -3854,6 +3854,38 @@
     {
         "id": 3543,
         "formula": "@MaxLife*0.04"
+    },
+    {
+        "id": 3544,
+        "formula": "100+sbuffidtier(3794)*4"
+    },
+    {
+        "id": 3545,
+        "formula": "100+sbuffidtier(3794)*5"
+    },
+    {
+        "id": 3547,
+        "formula": "130+sbuffidtier(3796)"
+    },
+    {
+        "id": 3548,
+        "formula": "(sbuffidtier(377602)+sbuffidtier(377702))>0?1:0"
+    },
+    {
+        "id": 3549,
+        "formula": "100+(sbuffidtier(3791)*sbuffidtier(3796))"
+    },
+    {
+        "id": 3551,
+        "formula": "$1*(1+(0.01*sbufftypetier(602)))"
+    },
+    {
+        "id": 3552,
+        "formula": "sbuffidtier(382201)*10"
+    },
+    {
+        "id": 3553,
+        "formula": "@pow*0.5"
     },
     {
         "id": 3620,
@@ -3922,5 +3954,101 @@
     {
         "id": 334901,
         "formula": "100+5*sbuffidtier(3716)"
+    },
+    {
+        "id": 354601,
+        "formula": "sbuffidtier(3784)*30"
+    },
+    {
+        "id": 354602,
+        "formula": "sbuffidtier(3784)*32"
+    },
+    {
+        "id": 354603,
+        "formula": "sbuffidtier(3784)*34"
+    },
+    {
+        "id": 354604,
+        "formula": "sbuffidtier(3784)*37"
+    },
+    {
+        "id": 354605,
+        "formula": "sbuffidtier(3784)*39"
+    },
+    {
+        "id": 354606,
+        "formula": "sbuffidtier(3784)*41"
+    },
+    {
+        "id": 354607,
+        "formula": "sbuffidtier(3784)*43"
+    },
+    {
+        "id": 354608,
+        "formula": "sbuffidtier(3784)*46"
+    },
+    {
+        "id": 354609,
+        "formula": "sbuffidtier(3784)*48"
+    },
+    {
+        "id": 354610,
+        "formula": "sbuffidtier(3784)*50"
+    },
+    {
+        "id": 355001,
+        "formula": "sbuffidtier(3776)=0"
+    },
+    {
+        "id": 355002,
+        "formula": "sbuffidtier(3776)=1"
+    },
+    {
+        "id": 355003,
+        "formula": "sbuffidtier(3776)=2"
+    },
+    {
+        "id": 355004,
+        "formula": "sbuffidtier(3776)=3"
+    },
+    {
+        "id": 355005,
+        "formula": "sbuffidtier(3777)=0"
+    },
+    {
+        "id": 355006,
+        "formula": "sbuffidtier(3777)=1"
+    },
+    {
+        "id": 355007,
+        "formula": "sbuffidtier(3777)=2"
+    },
+    {
+        "id": 355008,
+        "formula": "sbuffidtier(3777)=3"
+    },
+    {
+        "id": 355009,
+        "formula": "(sbuffidtier(377603)+sbuffidtier(377604)+sbuffidtier(377605))>0?1:0"
+    },
+    {
+        "id": 355010,
+        "formula": "(sbuffidtier(377703)+sbuffidtier(377704)+sbuffidtier(377705))>0?1:0"
+    },
+    {
+        "id": 355011,
+        "formula": "(sbuffidtier(377603)-sbuffidtier(377604)+sbuffidtier(377605))>0?1:0"
+    },
+    {
+        "id": 355012,
+        "formula": "(sbuffidtier(377603)-sbuffidtier(377604))=0?1:0"
+    },
+    {
+        "id": 355013,
+        "formula": "(sbuffidtier(377703)-sbuffidtier(377704)+sbuffidtier(377705))>0?1:0"
+    },
+    {
+        "id": 355014,
+        "formula": "(sbuffidtier(377703)-sbuffidtier(377704))=0?1:0"
     }
 ]
