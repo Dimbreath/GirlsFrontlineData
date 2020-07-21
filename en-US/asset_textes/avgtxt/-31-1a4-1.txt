@@ -39,7 +39,7 @@ X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Yes, I'm sending over the corridor
 X95(0)<Speaker>Commander</Speaker>||:Received. Continue gathering information.
 X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Yes, Commander.</color>
 ()<Speaker>Commander</Speaker>||:Other than the corridors being under control, the deployment of security details throughout the building makes no sense. There are too few personnel inside, and most of them are concentrated at the entrances for vetting. In addition, I can't see our Statesec agents.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Could this lack of manpower be because their original staff were given other duties, so maybe they'll come back in a while? +And sealing off the exits can also be interpreted as them wanting to avoid outsiders getting in... Aren't you being too nervous, Commander?
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Could the lack of manpower here be due to the original staff being assigned other duties? Maybe they'll come back later? +And sealing off the exits can also be interpreted as them wanting to avoid outsiders getting in... Aren't you being too nervous, Commander?
 NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:I don't know.  +But at the very least, I can't think of a logical motive behind these security arrangements.
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Then...should I report this to K?
 NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:...There's no way he would have overlooked these details. +We can't tell what he's thinking, but we have to assume the worst to give ourselves some leeway. +X95, your original area of responsibility will now be handled by people from Lewis' team. Reposition downstairs and prepare yourself to curb any situations that break out inside.
@@ -82,7 +82,7 @@ RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Thank yo
 RO635(0)<Speaker>RO635</Speaker>||:Phew...hopefully things will end with that.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Aw...was that the last enemy...? +But why...I didn't even get to enjoy myself...
 ()<Speaker></Speaker>||<黑屏2><BIN>84</BIN>:...In the distance.
-NPC-Nimogen(0)<Speaker>???</Speaker>||:Heeheehee... Didn't get to enjoy yourself, you say? +Don't be in such a rush, my pretty, you haven't even set foot into the banquet yet~ +Although, speaking of which, didn't I say before that such crude methods were useless? +Honestly, they didn't listen at all. They're stupid and stupid people deserve to die in a stupid way. +Heeheehee, the idiots outside are already dead, but how about the ones inside? +I look forward to it~
+NPC-Nimogen(0)<Speaker>???</Speaker>||:Heeheehee... Didn't get to enjoy yourself, you say? +Don't be in such a rush, my pretty, you haven't even set foot into the banquet yet~ +Although, speaking of which, didn't I say before that such crude methods were useless? +Honestly, they didn't listen at all. They're stupid, and stupid. People deserve to die in a stupid way. +Heeheehee, the idiots outside are already dead, but how about the ones inside? +I look forward to it~
 ()<Speaker></Speaker>||<黑屏1>:...
 NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||<BIN>97</BIN><黑屏2>:"Our old wounds show our past mistakes. We should not be grateful for the hardships we have experienced, but neither can we deny them."
 ()<Speaker></Speaker>||:...The reporters' shutters do not stop for a moment, and countless television cameras stream the press conference live from the summit.
