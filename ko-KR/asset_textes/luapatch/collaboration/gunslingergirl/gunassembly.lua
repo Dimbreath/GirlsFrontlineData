@@ -50,8 +50,11 @@ local waitEndingAnimationCountdown = 2
 local waitEndingAnimationCountdownTimer = 0
 local waitTimeUpAnimationCountdown = 2
 local waitTimeUpAnimationCountdownTimer = 0
+local waitStampCountdown = 2
+local waitStampCountdownTimer = 0
 local isCountingTime = false
 local isWaitTimeUp = false
+local isWaitStamp = false
 local ImgPreview
 
 local mainTween1 = nil
@@ -260,6 +263,7 @@ Update = function()
 				if countdownTimer > countdown then
 					isCountingTime = false
 					countdownTimer = countdown
+					PlaySFX("CountdownCancel")
 					EndAssembly()
 				end
 				if tempDirector == nil then
@@ -294,6 +298,13 @@ Update = function()
 						isWaitTimeUp = false
 						TimeupGO:SetActive(false)
 						ShowResult()
+					end
+				end
+				if isWaitStamp then
+					waitStampCountdownTimer = waitStampCountdownTimer + CS.UnityEngine.Time.deltaTime
+					if waitStampCountdownTimer > waitStampCountdown then
+						isWaitStamp = false
+						PlaySFX("captured")
 					end
 				end
 				--if 	successMatChange then
@@ -494,8 +505,9 @@ function AddGunParts(id)
 		CurGunPartsAssemblyFull = CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("WorldCollide/GunslingerGirl/"..AssemblyData.code))
 		CurGunPartsAssemblyFull.transform:SetParent(GunPartHolder.transform,false)
 		CurGunPartsAssemblyFull:SetLayerRecursively(18)
+		PlaySFX("pickup")
 	end
-	PlaySFX("pickup")		
+	
 	for i=1,#AssemblyGunPartsIDList do
 		if AssemblyGunPartsIDList[i] == id then
 			return
@@ -918,7 +930,7 @@ function ShowResult()
 			end
 		end
 	end
-	
+	isWaitStamp = true
 end
 function ResultEndGame()
 	CS.BattleFrameManager.ResumeTime()
@@ -979,8 +991,8 @@ function PlaySFX(FXname)
 	if FXname == "CountdownCancel" then
 		CS.CommonAudioController.PlayUI("UI_GunslingerGirl_Countdown_stop")
 	end
-	if FXname == "pour" then
-		CS.CommonAudioController.PlayUI("UI_va_addingredient")
+	if FXname == "captured" then
+		CS.CommonAudioController.PlayUI("UI_GunslingerGirl_captured")
 	end
 	if FXname == "reset" then
 		CS.CommonAudioController.PlayUI("UI_va_buttonclick")
