@@ -342,46 +342,36 @@
         },
         {
             "id": "35",
-            "type": "upgrade",
-            "count": "1",
-            "prize_id": "10086",
-            "title": "技能升级",
-            "content": "累计升级人形/妖精技能1次",
+            "type": "consume_coin1",
+            "count": "1000",
+            "prize_id": "10091",
+            "title": "训练资料",
+            "content": "消耗初级训练资料*1000",
             "function_control_id": "0",
-            "carnival_type_id": "12"
+            "carnival_type_id": "4"
         },
         {
             "id": "36",
-            "type": "upgrade",
-            "count": "3",
-            "prize_id": "10088",
-            "title": "技能升级",
-            "content": "累计升级人形/妖精技能3次",
+            "type": "consume_coin2",
+            "count": "500",
+            "prize_id": "10094",
+            "title": "训练资料",
+            "content": "消耗中级训练资料*500",
             "function_control_id": "0",
-            "carnival_type_id": "12"
+            "carnival_type_id": "5"
         },
         {
             "id": "37",
-            "type": "upgrade",
-            "count": "5",
-            "prize_id": "10094",
-            "title": "技能升级",
-            "content": "累计升级人形/妖精技能5次",
+            "type": "consume_coin3",
+            "count": "300",
+            "prize_id": "10097",
+            "title": "训练资料",
+            "content": "消耗高级训练资料*300",
             "function_control_id": "0",
-            "carnival_type_id": "12"
+            "carnival_type_id": "6"
         },
         {
             "id": "38",
-            "type": "upgrade",
-            "count": "10",
-            "prize_id": "10097",
-            "title": "技能升级",
-            "content": "累计升级人形/妖精技能10次",
-            "function_control_id": "0",
-            "carnival_type_id": "12"
-        },
-        {
-            "id": "39",
             "type": "s_win",
             "count": "10",
             "prize_id": "10088",
@@ -391,7 +381,7 @@
             "carnival_type_id": "25"
         },
         {
-            "id": "40",
+            "id": "39",
             "type": "s_win",
             "count": "30",
             "prize_id": "10091",
@@ -401,7 +391,7 @@
             "carnival_type_id": "25"
         },
         {
-            "id": "41",
+            "id": "40",
             "type": "s_win",
             "count": "50",
             "prize_id": "10094",
@@ -411,7 +401,7 @@
             "carnival_type_id": "25"
         },
         {
-            "id": "42",
+            "id": "41",
             "type": "s_win",
             "count": "100",
             "prize_id": "10097",
@@ -421,7 +411,7 @@
             "carnival_type_id": "25"
         },
         {
-            "id": "43",
+            "id": "42",
             "type": "operation_duration",
             "count": "200",
             "prize_id": "10088",
@@ -431,7 +421,7 @@
             "carnival_type_id": "14"
         },
         {
-            "id": "44",
+            "id": "43",
             "type": "operation_duration",
             "count": "500",
             "prize_id": "10094",
@@ -441,7 +431,7 @@
             "carnival_type_id": "14"
         },
         {
-            "id": "45",
+            "id": "44",
             "type": "operation_duration",
             "count": "800",
             "prize_id": "10097",
@@ -451,7 +441,7 @@
             "carnival_type_id": "14"
         },
         {
-            "id": "46",
+            "id": "45",
             "type": "operation_big_success",
             "count": "3",
             "prize_id": "10086",
@@ -461,7 +451,7 @@
             "carnival_type_id": "67"
         },
         {
-            "id": "47",
+            "id": "46",
             "type": "operation_big_success",
             "count": "5",
             "prize_id": "10088",
@@ -471,7 +461,7 @@
             "carnival_type_id": "67"
         },
         {
-            "id": "48",
+            "id": "47",
             "type": "operation_big_success",
             "count": "10",
             "prize_id": "10091",
@@ -481,7 +471,7 @@
             "carnival_type_id": "67"
         },
         {
-            "id": "49",
+            "id": "48",
             "type": "fix_gun",
             "count": "10",
             "prize_id": "10086",
@@ -491,7 +481,7 @@
             "carnival_type_id": "17"
         },
         {
-            "id": "50",
+            "id": "49",
             "type": "fix_gun",
             "count": "20",
             "prize_id": "10088",
@@ -501,7 +491,7 @@
             "carnival_type_id": "17"
         },
         {
-            "id": "51",
+            "id": "50",
             "type": "fix_gun",
             "count": "30",
             "prize_id": "10091",
@@ -511,7 +501,7 @@
             "carnival_type_id": "17"
         },
         {
-            "id": "52",
+            "id": "51",
             "type": "consume_bp",
             "count": "10",
             "prize_id": "10086",
@@ -521,7 +511,7 @@
             "carnival_type_id": "18"
         },
         {
-            "id": "53",
+            "id": "52",
             "type": "consume_bp",
             "count": "30",
             "prize_id": "10091",
@@ -531,7 +521,7 @@
             "carnival_type_id": "18"
         },
         {
-            "id": "54",
+            "id": "53",
             "type": "consume_bp",
             "count": "50",
             "prize_id": "10094",
@@ -541,37 +531,37 @@
             "carnival_type_id": "18"
         },
         {
-            "id": "55",
-            "type": "consume_capsule",
-            "count": "10",
+            "id": "54",
+            "type": "consume_ammo",
+            "count": "10000",
             "prize_id": "10088",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*10",
+            "title": "弹药消耗",
+            "content": "累计消耗弹药*10000",
             "function_control_id": "0",
-            "carnival_type_id": "47"
+            "carnival_type_id": "21"
+        },
+        {
+            "id": "55",
+            "type": "consume_ammo",
+            "count": "20000",
+            "prize_id": "10091",
+            "title": "弹药消耗",
+            "content": "累计消耗弹药*20000",
+            "function_control_id": "0",
+            "carnival_type_id": "21"
         },
         {
             "id": "56",
-            "type": "consume_capsule",
-            "count": "30",
-            "prize_id": "10091",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*30",
+            "type": "consume_ammo",
+            "count": "30000",
+            "prize_id": "10094",
+            "title": "弹药消耗",
+            "content": "累计消耗弹药*30000",
             "function_control_id": "0",
-            "carnival_type_id": "47"
+            "carnival_type_id": "21"
         },
         {
             "id": "57",
-            "type": "consume_capsule",
-            "count": "50",
-            "prize_id": "10094",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*50",
-            "function_control_id": "0",
-            "carnival_type_id": "47"
-        },
-        {
-            "id": "58",
             "type": "consume_voucher",
             "count": "50",
             "prize_id": "10088",
@@ -581,7 +571,7 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "59",
+            "id": "58",
             "type": "consume_voucher",
             "count": "100",
             "prize_id": "10091",
@@ -591,7 +581,7 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "60",
+            "id": "59",
             "type": "consume_voucher",
             "count": "300",
             "prize_id": "10094",
@@ -601,7 +591,7 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "61",
+            "id": "60",
             "type": "upvote",
             "count": "10",
             "prize_id": "10088",
@@ -611,7 +601,7 @@
             "carnival_type_id": "20"
         },
         {
-            "id": "62",
+            "id": "61",
             "type": "upvote",
             "count": "30",
             "prize_id": "10091",
@@ -621,7 +611,7 @@
             "carnival_type_id": "20"
         },
         {
-            "id": "63",
+            "id": "62",
             "type": "upvote",
             "count": "50",
             "prize_id": "10094",
@@ -631,7 +621,7 @@
             "carnival_type_id": "20"
         },
         {
-            "id": "64",
+            "id": "63",
             "type": "open_gift",
             "count": "10",
             "prize_id": "10086",
@@ -641,7 +631,7 @@
             "carnival_type_id": "45"
         },
         {
-            "id": "65",
+            "id": "64",
             "type": "open_gift",
             "count": "20",
             "prize_id": "10088",
@@ -651,7 +641,7 @@
             "carnival_type_id": "45"
         },
         {
-            "id": "66",
+            "id": "65",
             "type": "open_gift",
             "count": "50",
             "prize_id": "10091",
@@ -661,7 +651,7 @@
             "carnival_type_id": "45"
         },
         {
-            "id": "67",
+            "id": "66",
             "type": "open_gift",
             "count": "100",
             "prize_id": "10094",
