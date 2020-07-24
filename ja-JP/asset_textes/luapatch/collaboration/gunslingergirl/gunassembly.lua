@@ -5,6 +5,8 @@ xlua.private_accessible(CS.TweenPlay)
 xlua.private_accessible(CS.GF.Battle.BattleController)
 xlua.private_accessible(CS.BattleFieldTeamHolder)
 xlua.private_accessible(CS.DG.Tweening.TweenSettingsExtensions)
+xlua.private_accessible(CS.UnityEngine.Playables.PlayableDirector)
+xlua.private_accessible(CS.UnityEngine.Playables.PlayableAsset)
 local GunPartsData = {}
 local GunAssemblyData = {}
 
@@ -48,7 +50,13 @@ local waitpreviewAnimationCountdown = 0.5
 local waitpreviewAnimationCountdownTimer = 0
 local waitEndingAnimationCountdown = 2
 local waitEndingAnimationCountdownTimer = 0
+local waitTimeUpAnimationCountdown = 2
+local waitTimeUpAnimationCountdownTimer = 0
+local waitStampCountdown = 2
+local waitStampCountdownTimer = 0
 local isCountingTime = false
+local isWaitTimeUp = false
+local isWaitStamp = false
 local ImgPreview
 
 local mainTween1 = nil
@@ -58,6 +66,20 @@ local successMat
 local successMatValue = 1
 local successMatChange = false
 local msgbox = false
+
+local score = 0
+
+local TweenEase = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetEase")
+local TweenDelay = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetDelay")
+local TweenLoop = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetLoops")
+local PlayTween = xlua.get_generic_method(CS.DG.Tweening.TweenExtensions,"Play")
+local SetEase = TweenEase(CS.DG.Tweening.Tweener)
+local SetDelay = TweenDelay(CS.DG.Tweening.Tweener)
+local SetLoops = TweenLoop(CS.DG.Tweening.Tweener)
+local PlayTweener = PlayTween(CS.DG.Tweening.Tweener)
+--CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+--CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
+--CS.DG.Tweening.TweenSettingsExtensions.SetLoops
 --Awake：初始化数据
 Awake = function()
 	
@@ -68,15 +90,15 @@ Awake = function()
 	math.randomseed(tostring(os.time()):reverse():sub(1, 7))
 end
 function InitGunAssemblyData()	
-	local TableStruct = {ID = 1, Name = "M1897", GirlName = "ASSEMBLATO DA TRIELA",member = "1022,1023,1024", time = 60,code = "GunAssembly_M1897"}	
+	local TableStruct = {ID = 1, Name = "M1897", GirlName = "ASSEMBLATO DA TRIELA",member = "1022,1023,1024", time = 60,code = "GunAssembly_M1897", score = 100}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
-	local TableStruct = {ID = 2, Name = "P90", GirlName = "ASSEMBLATO DA HENRIETTA",member = "1001,1002,1003,1004", time = 60,code = "GunAssembly_P90"}	
+	local TableStruct = {ID = 2, Name = "P90", GirlName = "ASSEMBLATO DA HENRIETTA",member = "1001,1002,1003,1004", time = 60,code = "GunAssembly_P90", score = 500}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
-	local TableStruct = {ID = 3, Name = "M249", GirlName = "ASSEMBLATO DA CLAES",member = "1005,1006,1007,1008,1009", time = 60,code = "GunAssembly_M249"}	
+	local TableStruct = {ID = 3, Name = "M249", GirlName = "ASSEMBLATO DA CLAES",member = "1005,1006,1007,1008,1009", time = 60,code = "GunAssembly_M249", score = 1000}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
-	local TableStruct = {ID = 4, Name = "AUG", GirlName = "ASSEMBLATO DA ANGELICA",member = "1010,1011,1012,1013,1014,1015", time = 60,code = "GunAssembly_AUG"}	
+	local TableStruct = {ID = 4, Name = "AUG", GirlName = "ASSEMBLATO DA ANGELICA",member = "1010,1011,1012,1013,1014,1015", time = 60,code = "GunAssembly_AUG", score = 1500}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
-	local TableStruct = {ID = 5, Name = "SVD", GirlName = "ASSEMBLATO DA RICO",member = "1016,1017,1018,1019,1020,1021", time = 60,code = "GunAssembly_SVD"}	
+	local TableStruct = {ID = 5, Name = "SVD", GirlName = "ASSEMBLATO DA RICO",member = "1016,1017,1018,1019,1020,1021", time = 60,code = "GunAssembly_SVD", score = 1500}	
 	GunAssemblyData[TableStruct.ID] = TableStruct	
 end
 function InitGunPartsData()	
@@ -125,7 +147,7 @@ function InitGunPartsData()
 	TableStruct = {ID = 1015, buff_id = 381416, group_id = 4, weight = 6, limit = 9, isLimitUnder = false, code = "AUG_Bipod",waitTime = 0.7, isFirst = false, notfirst = false}	
 	GunPartsData[15] = TableStruct
 	
-	TableStruct = {ID = 1016, buff_id = 381417, group_id = 5, weight = 4, limit = 6, isLimitUnder = true, code = "SVD_Upper",waitTime = 1, isFirst = false, notfirst = true}	
+	TableStruct = {ID = 1016, buff_id = 381417, group_id = 5, weight = 8, limit = 6, isLimitUnder = true, code = "SVD_Upper",waitTime = 1, isFirst = false, notfirst = true}	
 	GunPartsData[16] = TableStruct
 	
 	TableStruct = {ID = 1017, buff_id = 381418, group_id = 5, weight = 5, limit = 0, isLimitUnder = false, code = "SVD_Scope",waitTime = 0.75, isFirst = false, notfirst = false}
@@ -137,7 +159,7 @@ function InitGunPartsData()
 	TableStruct = {ID = 1019, buff_id = 381420, group_id = 5, weight = 2, limit = 4, isLimitUnder = true, code = "SVD_Trigger",waitTime = 1.167, isFirst = false, notfirst = true}	
 	GunPartsData[19] = TableStruct
 	
-	TableStruct = {ID = 1020, buff_id = 381421, group_id = 5, weight = 5, limit = 8, isLimitUnder = false, code = "SVD_Mag",waitTime = 1, isFirst = false, notfirst = false}	
+	TableStruct = {ID = 1020, buff_id = 381421, group_id = 5, weight = 5, limit = 10, isLimitUnder = false, code = "SVD_Mag",waitTime = 1, isFirst = false, notfirst = false}	
 	GunPartsData[20] = TableStruct
 	
 	TableStruct = {ID = 1021, buff_id = 381422, group_id = 5, weight = 1, limit = 1, isLimitUnder = true, code = "SVD_Lower",waitTime = 0.5, isFirst = true, notfirst = false}	
@@ -182,6 +204,7 @@ Start = function()
 	btnUndo = BtnUndo:GetComponent(typeof(CS.ExButton))
 	btnReset = BtnReset:GetComponent(typeof(CS.ExButton))
 	btnContinue = BtnContinue:GetComponent(typeof(CS.ExButton))
+	local btnEndgame = BtnEndgame:GetComponent(typeof(CS.ExButton))
 	--添加监听事件
 	btnBack.onClick:AddListener(
 		function()
@@ -199,12 +222,16 @@ Start = function()
 		function()
 			ContinueAssembly()
 		end)
-	
+	btnEndgame.onClick:AddListener(
+		function()
+			ResultEndGame()
+		end)
 	
 	local mainTweens = MainGO:GetComponents(typeof(CS.TweenPlay))
 	mainTween1 = mainTweens[0]
 	mainTween2 = mainTweens[1]
 	TimeGO:SetActive(false)
+	ScoreGO:SetActive(false)
 	--根据已经收集的零件判断玩家现在可以拼哪把枪 并初始化倒计时
 	CalcGunAssemblyCount()
 	CheckAbleAssembly()
@@ -214,7 +241,7 @@ Start = function()
 	btnReset.gameObject:SetActive(false)
 	btnUndo.gameObject:SetActive(false)
 	btnBack.gameObject:SetActive(false)
-	
+	CS.CommonAudioController.PlayBGM("GF_xGS2_22")
 	inited = true
 	
 end
@@ -248,6 +275,9 @@ Update = function()
 				end
 				
 				if countdownTimer > countdown then
+					isCountingTime = false
+					countdownTimer = countdown
+					PlaySFX("CountdownCancel")
 					EndAssembly()
 				end
 				if tempDirector == nil then
@@ -276,6 +306,21 @@ Update = function()
 						end
 					end
 				end
+				if isWaitTimeUp then
+					waitTimeUpAnimationCountdownTimer = waitTimeUpAnimationCountdownTimer + CS.UnityEngine.Time.deltaTime
+					if waitTimeUpAnimationCountdownTimer > waitTimeUpAnimationCountdown then
+						isWaitTimeUp = false
+						TimeupGO:SetActive(false)
+						ShowResult()
+					end
+				end
+				if isWaitStamp then
+					waitStampCountdownTimer = waitStampCountdownTimer + CS.UnityEngine.Time.deltaTime
+					if waitStampCountdownTimer > waitStampCountdown then
+						isWaitStamp = false
+						PlaySFX("captured")
+					end
+				end
 				--if 	successMatChange then
 				--	successMat:SetFloat("_Guodu", successMatValue)
 				--	successMatValue = successMatValue - 0.5 * CS.UnityEngine.Time.deltaTime
@@ -297,11 +342,13 @@ function EndPreviewAnimation()
 	ShowGunParts()
 	ResetAssembly()
 	TimeGO:SetActive(true)
+	ScoreGO:SetActive(true)
 	isCountingTime = true
 	PlaySFX("Countdown")
 	btnReset.gameObject:SetActive(true)
 	btnUndo.gameObject:SetActive(true)
 	btnBack.gameObject:SetActive(true)
+	ImgPreview:SetActive(false)
 	AddFirstGunParts()
 end
 function EndPreview()
@@ -318,7 +365,7 @@ function OnClickAssemblyEnd()
 				EndAssembly()
 			end,nil,CS.ConfirmType.Normal,0,true)
 	else
-		CS.CommonController.ConfirmBox(GetName(10162),function()
+		CS.CommonController.ConfirmBox(GetName(10165),function()
 				EndAssembly()
 			end)
 	end
@@ -365,18 +412,23 @@ function ContinueAssembly()
 end
 --结束拼枪：倒计时结束 或玩家点击后退按钮 或玩家拼完了所有可以拼的枪
 function EndAssembly()
-	CS.BattleFrameManager.ResumeTime()
+	
 	if GunAssemblyCount == 0 then
+		CS.BattleFrameManager.ResumeTime()
 		PlaySFX("fail")
 		PlaySFX("CountdownCancel")
 		CS.GF.Battle.BattleController.Instance:TriggerBattleFinishEvent(true)
 	else
-		for i=0,CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1 do
-			local DamageInfo = CS.GF.Battle.BattleDamageInfo()
-			CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter[i]:UpdateLife(DamageInfo, -999999)
+		if countdownTimer >= countdown then
+			TimeupGO:SetActive(true)
+			isWaitTimeUp = true
+			PlaySFX("fail")
+		else
+			ShowResult()
 		end
+		
 	end
-	CS.UnityEngine.Object.Destroy(self.gameObject)
+	
 end
 --初始化/重置数据 注意不重新计算倒计时 也不重置已经拼好的...
 function ResetAssembly()
@@ -392,6 +444,8 @@ function ResetAssembly()
 		CS.UnityEngine.Object.Destroy(CurGunPartsAssemblyFull.gameObject)
 		CurGunPartsAssemblyFull = nil
 	end
+	waitAnimation = false
+	waitAnimationCountdownTimer = 0
 end
 --便捷函数，循环摧毁物体
 function DestroyChildren(transform)
@@ -418,6 +472,7 @@ function GetGunAssemblyDataById(id)
 end
 function OnClickGunParts(id)
 	if waitAnimation then
+		CS.CommonController.LightMessageTips(GetName(10164))
 		return
 	end
 	local data = GetGunPartsDataById(id)
@@ -462,18 +517,23 @@ end
 function AddGunParts(id)
 	local data = GetGunPartsDataById(id)
 	local AssemblyData = GetGunAssemblyDataById(CurrentAssemblyID)
+	local firstflag = false
 	if CurGunPartsAssemblyFull == nil then
 		CurGunPartsAssemblyFull = CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("WorldCollide/GunslingerGirl/"..AssemblyData.code))
 		CurGunPartsAssemblyFull.transform:SetParent(GunPartHolder.transform,false)
 		CurGunPartsAssemblyFull:SetLayerRecursively(18)
+		PlaySFX("pickup")
+		firstflag = true
 	end
-	PlaySFX("pickup")		
+	
 	for i=1,#AssemblyGunPartsIDList do
 		if AssemblyGunPartsIDList[i] == id then
 			return
 		end
 	end
-	PlaySFX("metal")
+	if firstflag == false then
+		PlaySFX("metal")
+	end
 	AssemblyGunPartsIDList[#AssemblyGunPartsIDList + 1] = id
 	lastGunPartsID =AssemblyGunPartsIDList[#AssemblyGunPartsIDList]
 	local cnt = 0
@@ -512,14 +572,28 @@ function AddGunParts(id)
 	end
 	CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject+1] = AssemblyGunPartsObject
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
-	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
+	local director = CurGunPartsAssemblyFull.gameObject:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
+	
 	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
 	if playable == nil then
+	
 	else
-		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime	
+		if director ~= nil then
+			--print('director: '..tostring(director));
+			--print(director.time);
+			--print(CS.UnityEngine.Playables.DirectorUpdateMode.GameTime);
+			director:Play(playable);
+			--print(director['timeUpdateMode']);
+			--director['timeUpdateMode'] = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime;
+			--print(director['timeUpdateMode']);
+			--director['playableAsset'] = nil;
+			--print(director['playableAsset']);
+		end
+		--local playableObject = CS.UnityEngine.Object.Instantiate(playable)
+		--director.playableAsset = CS.UnityEngine.Object.Instantiate(playable)
+		--director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime	
 		reverseDirector = false
-		director:Play()
+		--director:Play(playableObject)
 	end
 	waitAnimation = true
 	waitAnimationCountdown = data.waitTime + 0.1
@@ -530,7 +604,7 @@ function AddGunParts(id)
 end
 function DoTweenFade(image)
 	local tweener = CS.DG.Tweening.ShortcutExtensions46.DOFade(image,0,0.3)
-	CS.DG.Tweening.TweenExtensions.Play(tweener)
+	PlayTweener(tweener)
 end
 function DoTweenPlay(tweenplay,gameobject,isreverse)
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Alpha then
@@ -543,11 +617,11 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions46.DOFade
 		(gameobject:GetComponent(typeof(CS.UnityEngine.CanvasGroup)),value,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
+		SetEase(tweener,(tweenplay.easeType))
+		SetDelay(tweener,tweenplay.delay)
+		SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.PositionYLocal then
 		local value = tweenplay.toOne
@@ -556,13 +630,12 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DOLocalMoveY
 		(gameobject.transform,value,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
+		SetEase(tweener,(tweenplay.easeType))
+		SetDelay(tweener,tweenplay.delay)
+		SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
 		
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.PositionLocal then
 		local value = tweenplay.toThree
@@ -571,9 +644,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions46.DOAnchorPos3D
 		(gameobject:GetComponent(typeof(CS.UnityEngine.RectTransform)),tweenplay.toThree,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
 		local value = tweenplay.toThree
@@ -582,9 +655,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
 		(gameobject.transform,tweenplay.toThree,tweenplay.duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Scale then
 		local value = tweenplay.toThree
@@ -593,9 +666,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DOScale
 		(gameobject.transform,tweenplay.toThree,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 end
 function CheckAssemblyGunComplete()
@@ -622,13 +695,15 @@ function CheckAssemblyGunComplete()
 	GunAssemblyCount = GunAssemblyCount +1
 	btnReset.gameObject:SetActive(false)
 	btnUndo.gameObject:SetActive(false)
+	GetScore(data.score)
 	if GunAssemblyCount >= GunAssemblyAbleCount then
 		btnBack.gameObject:SetActive(false)
 	else
 		btnBack.gameObject:SetActive(true)
 	end
-	PlaySFX("success")
+
 	PlaySFX("CountdownCancel")
+	PlaySFX("success")
 	isCountingTime = false
 	DoTweenPlay(mainTween2,MainGO)
 	isEndingAnimation = true
@@ -684,7 +759,7 @@ function ReturnLastGunParts()
 	--	DoTweenFade(eximages[i])
 	--end
 	local data = GetGunPartsDataById(lastGunPartsID)
-	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
+	local director = CurGunPartsAssemblyFull.gameObject:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))	
 	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
 	if playable == nil then
 		local tweens = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
@@ -692,37 +767,64 @@ function ReturnLastGunParts()
 			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
 				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
 				(AssemblyGunPartsObject.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
-				CS.DG.Tweening.TweenExtensions.Play(tweener)
+				SetEase(tweener,(tweens[i].easeType))
+				PlayTweener(tweener)
 			else		
 				tweens[i]:SetIsPlayBackwards(true):DoTween()
 			end
 		end
 		local AssemblyGunPartsObjectShadow = CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(AssemblyGunPartsObject.name)
-		tweens = AssemblyGunPartsObjectShadow:GetComponents(typeof(CS.TweenPlay))
-		for i=0,tweens.Length-1 do
-			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
-				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
-				(AssemblyGunPartsObjectShadow.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
-				CS.DG.Tweening.TweenExtensions.Play(tweener)
-			else	
-				tweens[i]:SetIsPlayBackwards(true):DoTween()
+		local tweensShadow = AssemblyGunPartsObjectShadow.gameObject:GetComponents(typeof(CS.TweenPlay))
+		if tweensShadow ~= nil then
+			print(tweensShadow.Length)
+			for j=0,tweensShadow.Length-1 do
+				if tweensShadow[j] ~= nil then					
+					if tweensShadow[j].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
+						local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
+						(AssemblyGunPartsObjectShadow.transform,tweensShadow[j].toThree,tweensShadow[j].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
+						SetEase(tweener,(tweensShadow[j].easeType))
+						PlayTweener(tweener)
+					else	
+						tweensShadow[j]:SetIsPlayBackwards(true):DoTween()
+					end
+				else
+					print("Tween is nil")
+				end
 			end
+		else
+			print("Tween not found")
 		end
+		
 	else
-		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.Manual
-		director.time = director.playableAsset.duration
-		reverseDirector = true
-		tempDirector = director
+		AssemblyGunPartsObject:SetActive(false)
+		local AssemblyGunPartsObjectShadow = CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(AssemblyGunPartsObject.name)
+		AssemblyGunPartsObjectShadow.gameObject:SetActive(false)
+		--if director ~= nil then
+			--print('director: '..tostring(director));
+			--print(director.time);
+			--print(CS.UnityEngine.Playables.DirectorUpdateMode.GameTime);
+			--director:Play(playable);
+			--print(director['timeUpdateMode']);
+			--director['timeUpdateMode'] = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime;
+			--print(director['timeUpdateMode']);
+			--director['playableAsset'] = nil;
+			--print(director['playableAsset']);
+		--end
+		--local playableObject = CS.UnityEngine.Object.Instantiate(playable)
+		--director.playableAsset = CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable"))
+		--director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.Manual
+		--director:Play(playableObject)
+		--director:Stop()
+		--director.time = director.playableAsset.duration
+		--reverseDirector = true
+		--tempDirector = director
 		
 	end
 	table.remove(CurrentGunPartsAssemblyObject)
 	
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
 	waitAnimation = true
-	waitAnimationCountdown = data.waitTime + 0.2
+	waitAnimationCountdown = 0.5
 	table.remove(AssemblyGunPartsIDList)
 	if #AssemblyGunPartsIDList > 0 then
 		lastGunPartsID =AssemblyGunPartsIDList[#AssemblyGunPartsIDList]
@@ -757,9 +859,9 @@ function ShowGunAssembly(GunAssemblyData)
 	local arrmat = CS.UnityEngine.Material(CS.UnityEngine.Shader.Find("Unlit/UGUITexComplex"))
 	ImgPreview:GetComponent(typeof(CS.ExImage)).material = arrmat
 	ImgPreview:SetActive(true)
-	local Tweens = ImgPreview:GetComponents(typeof(CS.TweenPlay))
-	DoTweenPlay(Tweens[0],ImgPreview)
-	DoTweenPlay(Tweens[1],ImgPreview)
+	--local Tweens = ImgPreview:GetComponents(typeof(CS.TweenPlay))
+	--Tweens[0]:DoTween()
+	--Tweens[1]:DoTween()
 	isPreviewing = true
 end
 function CalcGunAssemblyCount()
@@ -844,7 +946,63 @@ function GunPartShowStep(gunpart,step)
 	
 end
 
+function GetScore(scorenum)
+	score = score + scorenum
+	local tweenNum = TextScore:GetComponent(typeof(CS.TweenNumber))
+	tweenNum.NumberTo = score
+	CS.DG.Tweening.ShortcutExtensions.DOKill(tweenNum)
+	tweenNum:Play()
+end
 
+function ShowResult()
+	isCountingTime = false
+	PlaySFX("CountdownCancel")
+	PlaySFX("success")
+	if Result.activeSelf then
+		return
+	end
+	Frame:SetActive(false)
+	Result:SetActive(true)
+	TextResultName:GetComponent(typeof(CS.ExText)).text = CS.GameData.userInfo.name
+	TextResultID:GetComponent(typeof(CS.ExText)).text = CS.GameData.userInfo.userId
+	
+	local tweenNum = TextResultTime:GetComponent(typeof(CS.TweenNumber))
+	tweenNum.NumberToString = string.format("%.2f",(countdownTimer))
+	CS.DG.Tweening.ShortcutExtensions.DOKill(tweenNum)
+	tweenNum:Play()
+	
+	local tweenNum2 = TextResultScore:GetComponent(typeof(CS.TweenNumber))
+	tweenNum2.NumberToString = score
+	CS.DG.Tweening.ShortcutExtensions.DOKill(tweenNum2)
+	tweenNum2:Play()
+	if score >= 4600 then
+		ImgResultMedal:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/medal_gold")
+		ImgResultMedal:GetComponent(typeof(CS.ExImage)).color = CS.UnityEngine.Color(1,1,1,1)
+		ImgResultMedal:SetActive(true)
+		ImgResultSeal:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/seal_expert")
+		ImgResultRating:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/rating_expert")
+	else if score >= 1600 then
+			ImgResultMedal:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/medal_silver")
+			ImgResultMedal:GetComponent(typeof(CS.ExImage)).color = CS.UnityEngine.Color(1,1,1,1)
+			ImgResultMedal:SetActive(true)
+			ImgResultSeal:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/seal_advanced")
+			ImgResultRating:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/rating_advanced")
+		else if score > 0 then
+				ImgResultSeal:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/seal_basic")
+				ImgResultRating:GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("WorldCollide/GunslingerGirl/Icon/rating_basic")
+			end
+		end
+	end
+	isWaitStamp = true
+end
+function ResultEndGame()
+	CS.BattleFrameManager.ResumeTime()
+	for i=0,CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1 do
+		local DamageInfo = CS.GF.Battle.BattleDamageInfo()
+		CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter[i]:UpdateLife(DamageInfo, -999999)
+	end
+	CS.UnityEngine.Object.Destroy(self.gameObject)
+end
 function Split(szFullString, szSeparator)
 	if(szFullString == nil) then
 		return nil
@@ -896,8 +1054,8 @@ function PlaySFX(FXname)
 	if FXname == "CountdownCancel" then
 		CS.CommonAudioController.PlayUI("UI_GunslingerGirl_Countdown_stop")
 	end
-	if FXname == "pour" then
-		CS.CommonAudioController.PlayUI("UI_va_addingredient")
+	if FXname == "captured" then
+		CS.CommonAudioController.PlayUI("UI_GunslingerGirl_captured")
 	end
 	if FXname == "reset" then
 		CS.CommonAudioController.PlayUI("UI_va_buttonclick")
