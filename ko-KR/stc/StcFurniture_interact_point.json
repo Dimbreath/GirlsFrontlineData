@@ -744,6 +744,30 @@
         "need_action": ""
     },
     {
+        "id": 82067,
+        "gun_action": "gunslinger_book",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action",
+        "direction": 0,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "sit",
+        "need_action": ""
+    },
+    {
+        "id": 82068,
+        "gun_action": "gunslinger_violin",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action",
+        "direction": 1,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
         "id": 82069,
         "gun_action": "volleyball_wait",
         "is_cover": 4294967295,
@@ -1146,6 +1170,30 @@
         "sorting": 9,
         "furiniture_action_interact": "",
         "direction": 4294967295,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 88604,
+        "gun_action": "3306_swim",
+        "is_cover": 4294967295,
+        "sorting": 0,
+        "furiniture_action_interact": ",,,,,,active",
+        "direction": 1,
+        "bone_name": "point",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 88609,
+        "gun_action": "fishman_dog",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "",
+        "direction": 1,
         "bone_name": "",
         "initial_angle": 0,
         "end_action": "wait",
