@@ -26,6 +26,7 @@ local isMoving = false
 local thisFrameJoyStick = false
 local timecount = 0
 local textTime
+local CountTime = true
 
 SkillActive = function(active,showCD)
 	
@@ -180,8 +181,17 @@ Update = function()
 		end
 	end
 	thisFrameJoyStick = false
-	timecount = timecount + CS.UnityEngine.Time.deltaTime
-	textTime.text= GetTimeFormat(timecount)
+	if CountTime then
+		timecount = timecount + CS.UnityEngine.Time.deltaTime
+		textTime.text= GetTimeFormat(timecount)
+		local currentTier
+		local dutarion
+		currentTier,dutarion = character.conditionListSelf:GetTierByID(4231)
+		if currentTier ~= 0 then
+			CountTime = false
+		end
+	end
+
 	
 end
 --depose
