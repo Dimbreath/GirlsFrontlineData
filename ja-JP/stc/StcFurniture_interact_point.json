@@ -492,6 +492,42 @@
         "need_action": ""
     },
     {
+        "id": 44,
+        "gun_action": "wait",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": ",action",
+        "direction": 0,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 45,
+        "gun_action": "sit",
+        "is_cover": 0,
+        "sorting": 10,
+        "furiniture_action_interact": ",action",
+        "direction": 1,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "sit",
+        "need_action": ""
+    },
+    {
+        "id": 46,
+        "gun_action": "sit",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "",
+        "direction": 1,
+        "bone_name": "honeyF",
+        "initial_angle": 0,
+        "end_action": "sit",
+        "need_action": ""
+    },
+    {
         "id": 104,
         "gun_action": "bird_sit",
         "is_cover": 4294967295,
@@ -703,6 +739,18 @@
         "furiniture_action_interact": "",
         "direction": 1,
         "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 82069,
+        "gun_action": "volleyball_wait",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action",
+        "direction": 1,
+        "bone_name": "point",
         "initial_angle": 0,
         "end_action": "wait",
         "need_action": ""
@@ -1437,6 +1485,42 @@
         "bone_name": "",
         "initial_angle": 0,
         "end_action": "sit",
+        "need_action": ""
+    },
+    {
+        "id": 872181,
+        "gun_action": "aa12_wait",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action1,action1",
+        "direction": 4294967295,
+        "bone_name": "point",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 872182,
+        "gun_action": "other_wait",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action2,action2",
+        "direction": 4294967295,
+        "bone_name": "point",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": ""
+    },
+    {
+        "id": 872191,
+        "gun_action": "sangvis_die",
+        "is_cover": 4294967295,
+        "sorting": 10,
+        "furiniture_action_interact": "action",
+        "direction": 1,
+        "bone_name": "point",
+        "initial_angle": 0,
+        "end_action": "wait",
         "need_action": ""
     },
     {
