@@ -35,8 +35,6 @@ local btnContinue = nil
 
 local inited = false
 local waitAnimation = false
-local tempDirector
-local reverseDirector = false
 local waitAnimationCountdown = 0
 local waitAnimationCountdownTimer = 0
 local isPreviewing = true
@@ -66,6 +64,18 @@ local successMatChange = false
 local msgbox = false
 
 local score = 0
+
+local TweenEase = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetEase")
+local TweenDelay = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetDelay")
+local TweenLoop = xlua.get_generic_method(CS.DG.Tweening.TweenSettingsExtensions,"SetLoops")
+local PlayTween = xlua.get_generic_method(CS.DG.Tweening.TweenExtensions,"Play")
+local SetEase = TweenEase(CS.DG.Tweening.Tweener)
+local SetDelay = TweenDelay(CS.DG.Tweening.Tweener)
+local SetLoops = TweenLoop(CS.DG.Tweening.Tweener)
+local PlayTweener = PlayTween(CS.DG.Tweening.Tweener)
+--CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+--CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
+--CS.DG.Tweening.TweenSettingsExtensions.SetLoops
 --Awake：初始化数据
 Awake = function()
 	
@@ -266,21 +276,7 @@ Update = function()
 					PlaySFX("CountdownCancel")
 					EndAssembly()
 				end
-				if tempDirector == nil then
-					
-				else
-					if reverseDirector then
-						local time = tempDirector.time - CS.UnityEngine.Time.deltaTime
-						if time < 0 then 
-							time = 0
-						end
-						tempDirector.time = time
-						tempDirector:DeferredEvaluate()
-						if tempDirector.time <= 0 then
-							reverseDirector = false
-						end
-					end
-				end
+				
 				if waitAnimation then
 					waitAnimationCountdownTimer = waitAnimationCountdownTimer + CS.UnityEngine.Time.deltaTime
 					if waitAnimationCountdownTimer > waitAnimationCountdown then
@@ -334,6 +330,7 @@ function EndPreviewAnimation()
 	btnReset.gameObject:SetActive(true)
 	btnUndo.gameObject:SetActive(true)
 	btnBack.gameObject:SetActive(true)
+	ImgPreview:SetActive(false)
 	AddFirstGunParts()
 end
 function EndPreview()
@@ -557,15 +554,6 @@ function AddGunParts(id)
 	end
 	CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject+1] = AssemblyGunPartsObject
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
-	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
-	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable == nil then
-	else
-		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime	
-		reverseDirector = false
-		director:Play()
-	end
 	waitAnimation = true
 	waitAnimationCountdown = data.waitTime + 0.1
 	--local tweenplays = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
@@ -575,7 +563,7 @@ function AddGunParts(id)
 end
 function DoTweenFade(image)
 	local tweener = CS.DG.Tweening.ShortcutExtensions46.DOFade(image,0,0.3)
-	CS.DG.Tweening.TweenExtensions.Play(tweener)
+	PlayTweener(tweener)
 end
 function DoTweenPlay(tweenplay,gameobject,isreverse)
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Alpha then
@@ -588,11 +576,11 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions46.DOFade
 		(gameobject:GetComponent(typeof(CS.UnityEngine.CanvasGroup)),value,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
+		SetEase(tweener,(tweenplay.easeType))
+		SetDelay(tweener,tweenplay.delay)
+		SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.PositionYLocal then
 		local value = tweenplay.toOne
@@ -601,13 +589,12 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DOLocalMoveY
 		(gameobject.transform,value,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetDelay(tweener,tweenplay.delay)
-		CS.DG.Tweening.TweenSettingsExtensions.SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
+		SetEase(tweener,(tweenplay.easeType))
+		SetDelay(tweener,tweenplay.delay)
+		SetLoops(tweener,tweenplay.loopTime,tweenplay.loopType)
 		
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.PositionLocal then
 		local value = tweenplay.toThree
@@ -616,9 +603,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions46.DOAnchorPos3D
 		(gameobject:GetComponent(typeof(CS.UnityEngine.RectTransform)),tweenplay.toThree,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
 		local value = tweenplay.toThree
@@ -627,9 +614,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
 		(gameobject.transform,tweenplay.toThree,tweenplay.duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 	if tweenplay.currentTweenMode == CS.TweenPlay.TweenMode.Scale then
 		local value = tweenplay.toThree
@@ -638,9 +625,9 @@ function DoTweenPlay(tweenplay,gameobject,isreverse)
 		end
 		local tweener = CS.DG.Tweening.ShortcutExtensions.DOScale
 		(gameobject.transform,tweenplay.toThree,tweenplay.duration)
-		CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweenplay.easeType))
+		SetEase(tweener,(tweenplay.easeType))
 		--CS.DG.Tweening.TweenSettingsExtensions.SetUpdate(tweener,true)
-		CS.DG.Tweening.TweenExtensions.Play(tweener)
+		PlayTweener(tweener)
 	end
 end
 function CheckAssemblyGunComplete()
@@ -673,7 +660,7 @@ function CheckAssemblyGunComplete()
 	else
 		btnBack.gameObject:SetActive(true)
 	end
-
+	
 	PlaySFX("CountdownCancel")
 	PlaySFX("success")
 	isCountingTime = false
@@ -731,38 +718,51 @@ function ReturnLastGunParts()
 	--	DoTweenFade(eximages[i])
 	--end
 	local data = GetGunPartsDataById(lastGunPartsID)
-	local director = CurGunPartsAssemblyFull:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
-	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable == nil then
+	local tweenUndo = true
+	local UndoGO = CurGunPartsAssemblyFull.transform:Find("Undo_"..AssemblyGunPartsObject.name)
+	if UndoGO == nil then
+		tweenUndo = true
+	else
+		tweenUndo = false
+	end
+	if tweenUndo then
 		local tweens = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
 		for i=0,tweens.Length-1 do
 			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
 				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
 				(AssemblyGunPartsObject.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
-				CS.DG.Tweening.TweenExtensions.Play(tweener)
+				SetEase(tweener,(tweens[i].easeType))
+				PlayTweener(tweener)
 			else		
 				tweens[i]:SetIsPlayBackwards(true):DoTween()
 			end
 		end
 		local AssemblyGunPartsObjectShadow = CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(AssemblyGunPartsObject.name)
-		tweens = AssemblyGunPartsObjectShadow:GetComponents(typeof(CS.TweenPlay))
-		for i=0,tweens.Length-1 do
-			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
-				local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
-				(AssemblyGunPartsObjectShadow.transform,tweens[i].toThree,tweens[i].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
-				CS.DG.Tweening.TweenSettingsExtensions.SetEase(tweener,(tweens[i].easeType))
-				CS.DG.Tweening.TweenExtensions.Play(tweener)
-			else	
-				tweens[i]:SetIsPlayBackwards(true):DoTween()
+		local tweensShadow = AssemblyGunPartsObjectShadow.gameObject:GetComponents(typeof(CS.TweenPlay))
+		if tweensShadow ~= nil then
+			print(tweensShadow.Length)
+			for j=0,tweensShadow.Length-1 do
+				if tweensShadow[j] ~= nil then					
+					if tweensShadow[j].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
+						local tweener = CS.DG.Tweening.ShortcutExtensions.DORotate
+						(AssemblyGunPartsObjectShadow.transform,tweensShadow[j].toThree,tweensShadow[j].duration,CS.DG.Tweening.RotateMode.WorldAxisAdd)
+						SetEase(tweener,(tweensShadow[j].easeType))
+						PlayTweener(tweener)
+					else	
+						tweensShadow[j]:SetIsPlayBackwards(true):DoTween()
+					end
+				else
+					print("Tween is nil")
+				end
 			end
+		else
+			print("Tween not found")
 		end
+		
 	else
-		director.playableAsset = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-		director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.Manual
-		director.time = director.playableAsset.duration
-		reverseDirector = true
-		tempDirector = director
+		UndoGO.gameObject:SetActive(false)
+		UndoGO.gameObject:SetActive(true)
+		--AssemblyGunPartsObject:SetActive(false)
 		
 	end
 	table.remove(CurrentGunPartsAssemblyObject)
@@ -774,7 +774,9 @@ function ReturnLastGunParts()
 	if #AssemblyGunPartsIDList > 0 then
 		lastGunPartsID =AssemblyGunPartsIDList[#AssemblyGunPartsIDList]
 	end
-end
+	
+end	
+
 function CheckAbleAssembly()
 	
 	CurrentAssemblyCount = CurrentAssemblyCount + 1
@@ -804,9 +806,9 @@ function ShowGunAssembly(GunAssemblyData)
 	local arrmat = CS.UnityEngine.Material(CS.UnityEngine.Shader.Find("Unlit/UGUITexComplex"))
 	ImgPreview:GetComponent(typeof(CS.ExImage)).material = arrmat
 	ImgPreview:SetActive(true)
-	local Tweens = ImgPreview:GetComponents(typeof(CS.TweenPlay))
-	DoTweenPlay(Tweens[0],ImgPreview)
-	DoTweenPlay(Tweens[1],ImgPreview)
+	--local Tweens = ImgPreview:GetComponents(typeof(CS.TweenPlay))
+	--Tweens[0]:DoTween()
+	--Tweens[1]:DoTween()
 	isPreviewing = true
 end
 function CalcGunAssemblyCount()
@@ -1044,28 +1046,8 @@ function GetShownNum(num)
 		return "Dieci"
 	end
 end
-function PlayBottleEffect(num)
-	BottleEff:SetActive(false)
-	BottleEff:GetComponent("ExImage").color = AlcoholColorProgress[num]
-	BottleEff:SetActive(true)
-end
-function PlayResultAnim(isSuccess)
-	if isSuccess then
-		Tex_Result:GetComponent("ExText").text = GetName(230135)
-	else
-		Tex_Result:GetComponent("ExText").text = GetName(230136)
-	end
-	Tex_Result:SetActive(false)
-	Tex_Result:GetComponent("ExText").color = AlcoholColorProgress[10]
-	Tex_Result:SetActive(true)
-end
+
 function GetName(NameID)
 	return CS.Data.GetLang((NameID))
 end
-function GetIcon(iconCode)
-	for i=0,ListSpriteWinePic.Count-1 do
-		if ListSpriteWinePic[i].name == iconCode then
-			return ListSpriteWinePic[i]
-		end
-	end
-end
+
