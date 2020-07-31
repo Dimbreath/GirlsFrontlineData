@@ -518,6 +518,18 @@
         },
         {
             "task_id": "44",
+            "type": "",
+            "task_name": "squad_data_by_analyse",
+            "size": "1",
+            "ticket_num": "1",
+            "title": "中枢数据",
+            "content": "通过情报解析获得中枢数据*1",
+            "is_mutex": "6",
+            "function_control_id": "0",
+            "task_type_id": "88"
+        },
+        {
+            "task_id": "45",
             "type": "difficulty",
             "task_name": "finish_squad_daily_task",
             "size": "1",
@@ -529,7 +541,7 @@
             "task_type_id": "114"
         },
         {
-            "task_id": "45",
+            "task_id": "46",
             "type": "recharge",
             "task_name": "auto_mission",
             "size": "3",
@@ -541,7 +553,7 @@
             "task_type_id": "41"
         },
         {
-            "task_id": "46",
+            "task_id": "47",
             "type": "recharge",
             "task_name": "get_lollipop",
             "size": "1",
@@ -553,7 +565,7 @@
             "task_type_id": "42"
         },
         {
-            "task_id": "47",
+            "task_id": "48",
             "type": "recharge",
             "task_name": "get_icecream",
             "size": "1",
@@ -565,7 +577,7 @@
             "task_type_id": "43"
         },
         {
-            "task_id": "48",
+            "task_id": "49",
             "type": "recharge",
             "task_name": "friend_greeting",
             "size": "1",
@@ -577,7 +589,7 @@
             "task_type_id": "44"
         },
         {
-            "task_id": "49",
+            "task_id": "50",
             "type": "recharge",
             "task_name": "gun_level_up_count",
             "size": "1",
@@ -589,7 +601,7 @@
             "task_type_id": "53"
         },
         {
-            "task_id": "50",
+            "task_id": "51",
             "type": "recharge",
             "task_name": "upvote",
             "size": "20",
@@ -601,7 +613,7 @@
             "task_type_id": "45"
         },
         {
-            "task_id": "51",
+            "task_id": "52",
             "type": "recharge",
             "task_name": "random_visit",
             "size": "10",
@@ -613,7 +625,7 @@
             "task_type_id": "70"
         },
         {
-            "task_id": "52",
+            "task_id": "53",
             "type": "recharge",
             "task_name": "get_friend_points",
             "size": "100",
@@ -625,7 +637,7 @@
             "task_type_id": "66"
         },
         {
-            "task_id": "53",
+            "task_id": "54",
             "type": "recharge",
             "task_name": "open_gift",
             "size": "10",
@@ -637,7 +649,7 @@
             "task_type_id": "47"
         },
         {
-            "task_id": "54",
+            "task_id": "55",
             "type": "recharge",
             "task_name": "consume_fight_report",
             "size": "10",
@@ -649,7 +661,7 @@
             "task_type_id": "68"
         },
         {
-            "task_id": "55",
+            "task_id": "56",
             "type": "recharge",
             "task_name": "consume_build_coin",
             "size": "100",

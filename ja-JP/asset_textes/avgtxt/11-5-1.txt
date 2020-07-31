@@ -1,89 +1,89 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:20點50分……
-()<Speaker></Speaker>||<黑屏1>:……最終，RO635和SOP2根據從女僕心智中獲得的線索，來到了目標的位置——
-()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:一個位於貧民區的小屋。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:為什麼這裡會有這麼多小屋，而不是大樓呢？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:大概是待改造的區域，這座城市有很多地方在重建，因為各種有的沒的原因遲遲沒動工。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:這下找起來可麻煩了，得小心別驚動周圍居民。
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:先檢查下環境，確認沒有陷阱和危險情況再行動。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:……目標房間周圍沒有任何人形的訊號，也偵測不到人類的生命跡象，沒有爆炸物和遠程連接的反應。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……門是半開的。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<震屏><黑屏1>:糟了！快進去！
-()||<BIN>85</BIN><黑屏2><Night><闪屏><duration>5</duration></闪屏>:……砰！+SOP2來到目標小屋，一腳踢開了門。屋子裡一片狼藉，一個小門微微開著。+這個小小的房間被改裝成了訊息設備庫，但是設備已經被破壞殆盡。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:……！+RO，有屍體！
-()||:靠窗的牆角有一具男性的屍體，面朝下癱倒著，血從窗台流淌到地上。+RO635和SOP2確認環境安全之後，開始檢查房間和這具遺體。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……沒有呼吸了。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:可惡！還是晚了一步嗎！
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:果然我剛才的預感是正確的，這個安全屋被破壞和女僕心智融毀應該是同一個時刻。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:結果我們白忙一場了，這下怎麼辦？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……怎麼辦？當然是繼續追查。+檢查一下屋裡的設備，也許有什麼情報。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:……（嘆氣）很遺憾，設備都是壞的，看來是通過高溫過載燒毀了內部電路。
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:這個人自己啟動了銷毀程序……那個女僕應該也是被同樣的指令執行融毀了。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:從好的方向來想，也許敵人也沒有獲得什麼情報？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:也許吧，但我們該多調查一下……
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:20時50分……
+()<Speaker></Speaker>||<黑屏1>:……RO635とSOP IIはメイドのメンタルから得た手掛かりを頼って、目標地点に辿り着いた――
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:そこはスラム街にある一軒の小屋だった。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:なんでここ、小屋ばっかりでビルがないの？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:恐らく改築待ちのエリアね。この街は再開発が行われているけど、様々な事情でなかなか進んでいないのよ。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:これだと探すの大変になりそうだね、周りの人たちにも気を使わないといけないし。
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:まずは現場を見て回って、罠や危険なものがないことを確認したら次の行動に移りましょう。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:……目標の小屋の周辺に人形の信号反応はないし、人間のバイタルサインも検出してないよ。他に爆発物や遠距離接続の反応もない。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……ドアが半開きね。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<震屏><黑屏1>:まずい！早く中へ！
+()||<BIN>85</BIN><黑屏2><Night><闪屏><duration>5</duration></闪屏>:……バン！+二人は一気に小屋のドアを蹴り開け、中へ入った。しかし小屋の中はすでに一面散らかっていて、裏のドアがほんの少しだけ開いていた。+どうやらこの小屋には元々通信設備が置いてあったようだが、それもすでに潰されていた。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:……！+RO、死体が！
+()||:窓際の角に一人の男性の死体が倒れており、顔は地面を向いたまま、血が部屋の中で広がっていた。+RO635とSOP IIは周囲の安全を確認した後、この部屋と遺体の確認を始めた。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……息がない。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:クソ！一歩遅かったか！
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:やはりさっきの予感は正しかったようね。恐らくこのセーフハウスは、メイドのメンタルと同じ時刻に破壊されていたのよ。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:結局無駄足になっちゃったね、どうする？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:……どうするって、もちろん追い続けるわよ。+この部屋の設備をチェックして、何か手掛かりがあるかもしれないわ。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:……残念だけど、設備は全部壊れてるよ。オーバーロードで内部の回線が焼き切れてるみたい。
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:この人、自分で自壊プログラムを起動してる……ってことはあのメイドも同じように……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:ポジティブに考えて、敵も多分何も得ていないんじゃないの？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:かもね、でももう少し調べた方がいい……
 M4 SOPMOD IIMod-Noarmor(0)<Grey>;RO635-NoArmor(0)<Grey>||:
-()||:……RO635小心又仔細地觀察著男子遺體。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:這就是線人吧，死因呢？是槍擊嗎？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:嗯，口徑不大，應該用了亞音手槍彈，配合消音。+現場沒有彈殼，應該被帶走了，真是仔細的傢伙……
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:所以周圍根本不會有人注意到房間裡發生的事……
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:三處著彈。一發在小腿，一發在手臂，最後一發打在胸口。看樣子它們本來是想活捉的。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:嘖……可惡啊……+這次它們又搶在我們前面，我們現在沒法知道安潔在哪兒了……
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:真的是這樣嗎……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(4)||:什麼？你還有別的辦法嗎？讓死人說話？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:不……我是說眼前的這個人，真的是我們的線人嗎？
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:什麼？這裡不是只有一具屍體嗎？
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:那個人如此謹慎，又會消除自己的行蹤，又是設置了各種自毀，本身還是個情報販子……會這麼輕易就被幹掉嗎……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:你是說，這個不是他？
-()||:RO用手指劃過血液，舔了一下。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:誒……RO你好噁心……
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:這不是血液，雖然模仿得非常像……但構成是人造的。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:你是說……這個雖然是人類但是用了人造的血液？+現在科技已經那麼先進了嗎？
-()||:RO碰了碰這具遺體，然後把他翻了過來。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:（搖搖頭）誰說他是人類了。
-()||:RO將手伸到了遺體的耳後，突然間遺體的面容改變了。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:誒？？發生了什麼？？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:這是個人形的遺體，高度人類擬真的型號，肉質太真實了我剛才都被騙了。+他的耳後有重置按鈕，然後你捏下他的臉，這種人形被設計成可以自由變形五官，這樣可以偽裝成別的身份出現。
-()||:……SOP2一下子爬過來，擺弄了幾下人形的臉。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:當然這種型號也是高度違禁品，我想可能是線人用來給自己當替身用的。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:真的啊……好可怕，沒想到還會有這種型號的人形存在。+你連這個都知道……？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:我有見過關於這種人形的檔案，親眼見到倒還是第一次。+這種型號的人形非常昂貴……原本是高級娛樂用，但後來因為被使用在一次政治犯罪中，最後被禁止生產了。+還真虧這個線人能找到這種型號……+不過，倒在這裡的是一個人形，這麼想的話……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:唔……真正的線人現在是安全的？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:線人用人形偽裝成自己，然後自己金蟬脫殼了。不過這具遺體沒有被帶走，說明攻進來的人應該也發現這只是個替身了。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:那現在呢？我們該怎麼找到那個逃走的線人？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:外面沒有腳印，這附近也沒有攝像頭……讓我想想看……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:真的完全沒有線索嗎……+那個死去的人形……什麼都沒留下？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:你也看到了，SOP2，他把所有的設備都熔毀了，這具人形已經停止運作了，不用說心智也一定被徹底融毀了。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:這個遺體身上會不會有什麼線索，比如手機、終端，或者別的什麼？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:我看看……嗯……好像並沒有留下什麼，不過他手裡好像捏著什麼？
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:真的耶，捏得好緊……看我掰開！+等等……開始閃光了……RO趴下！！
+()||:……RO635はもう一度男の遺体を細かくチェックした。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:この人が情報屋でしょ？死因は？銃撃？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:ええ、傷跡はそんなに大きくない、多分使ったのは亜音速銃弾。+現場に薬莢は落ちてないから、多分全部持ち去られている。細かいやつだな……
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:だから周りもこの部屋のことに全然気づいてない……
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:弾痕は三か所。ふくらはぎに一つ、腕に一つ、胸部に一つ。どうやら元もは生け捕りしたかったようね。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:ちっ……クソ……+先にやられてしまった、これじゃアンジェさんに居場所が分からない……
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:本当にそうなのか……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(4)||:じゃあ何？死人を喋らせる方法でもあるの？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:いや……ただ目の前のこの人は、本当にあの情報屋なのか？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:なによそれ、ここあるのはこの死体だけじゃん？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:あの情報屋は様々な自壊プログラムを仕掛けて自分の行方を消すような慎重な人だからね……こうも簡単やられるとは思えないけど……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:え？じゃあこれがあの情報屋じゃないって言いたいの？
+()||:ROは地面に付いた血を指でなぞって、舌で舐めてみた。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:RO……それ気持ち悪いよ……
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:これは血液じゃないわ。非常に似ているけど……人工で作られたものね。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(4)||:それって……これは人間だけど人工で作られた血を使ってるの？+今の科学ってそんなにすごいんだ？
+()||:しかし、ROはその遺体をひっくり返って、頭を横に振った。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:誰もこいつが人間だと言ってないでしょ。
+()||:ROは遺体の耳の後ろに手を伸ばした瞬間、遺体の顔が急に変わった。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:えええ？？どういうこと？？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:この遺体は人形、限りなく人間に似せて造られたタイプのやつ。肉質があまりにも本物っぽくてわたしでさえさっきまで騙されてたわ。+耳の後ろにリセットボタンがあって、そして顔を捻ってみれば自由に外見を変えれるようになっている。これで他の人に成り代われるってことね。
+()||:……SOP IIも遺体に近づいて、その顔を弄ってみた。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:当然、こういうのもまったくの違法品、多分情報屋はこれを身代わりとして使っているのよ。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:本当だ……こんな人形がいるなんて、なんか怖い。+ROはこんなのも知ってるんだ……？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:資料で読んでことあるけど、直接見るのも初めてね。+こういう人形は非常に高価で、元々は金持ちの娯楽に使われてたんだけど……とある政治犯罪に使われたことで、生産禁止になったはず。+あの情報屋のよくこんな人形を手に入れたものね……+ただ、ここあるのは人形ってことは……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:うーん……本当の情報屋はまだ生きてるってこと？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:情報屋はこの人形を身代わりにして、どこかへ逃げたはず。しかしこの遺体がここに残されたってことは、攻めてきた敵もこれがただの身代わりだと気づいてるはず。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:じゃあどうする？どうやって逃げた情報屋を探すの？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:外に足跡はないし、付近に監視カメラもない……そうね……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:本当にもう手掛かりはないの……？+あの人形の遺体に……もう何もないの？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:見ての通り、情報屋ここの設備を全部処分した。この人形も動作が止まってるし、メンタルもきっと破壊されてるはず。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:じゃあ他に残してるものはない？携帯電話とか、端末とか、或いは別の何か？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:それも……うーん……やはり何もないみたい。でも手の中に何かを……握っている……？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:本当だ、しかもこんなに力を入れたまま……開けてみるね！+あれ……なんか光った……RO伏せて！
 RO635()||<BGM>BGM_Empty</BGM><震屏>:！！！
-()||<黑屏1>:SOP2猛地把RO撲倒在地上，一個猛衝把她拖出了房間。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:啊痛痛痛痛……下次能麻煩手腳稍微輕一些麼……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:你的小命能保住就不錯了！
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:剛才一瞬間我感覺我的頭都要被按到地板裡去了……+話說，那個東西，是詭雷麼……+竟然還設了陷阱，果然不能大意。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:肯定是，差一點就被炸……什麼，沒有爆炸？
-()||<BIN>85</BIN><黑屏2>:SOP2一臉疑惑地偷偷朝房裡裡望瞭望。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:還真的沒有爆炸……還在閃光……
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:仿佛是在提醒我們有東西存在一般……我去看看。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:等等！萬一是延時起爆的裝置呢？
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:但是乾坐著這也不會有新的線索啊。+而且你仔細看看，那個東西才半個手掌的大小，就算真的爆炸，裝藥量也不足以把我們倆都幹掉吧？
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:嗚……好吧……
-()||:RO和SOP2重新走近了人形的遺體，從他手裡拿起了閃光的裝置。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:這是一個……小型的儲存器……看起來有很嚴密的防禦程序在保護數據，我看看能不能破解進去。
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:誒，等，等等！
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:又怎麼了？
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:雖然沒爆炸，但萬一其實陷阱是這個呢？等你進去之後用攻性防壁燒掉你的心智，那比爆炸有效率多了啊！
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:啊……的確有這個可能性……但是這是唯一的線索，總不能在這一步就退縮了吧？+而且就算真的心智融毀了，大不了用備份重新再換一個素體嘛……
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:那樣不行！
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:誒？
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:要是RO現在倒下了……這個任務光靠我一個肯定沒法成功的……+而且……我也不想你再一次……倒在我的面前了……
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP2……+沒…沒關係的啦，以我的能力不會那麼輕易被幹掉的，那我去去就來！
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:嗚哇！你怎麼就那麼不聽勸呢！
+()||<黑屏1>:SOP IIはROを地面に押し倒して、そのまま勢いで部屋から転び出た。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:いたたたた……今度からもう少し丁寧にやってくれる……？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:命があるだけマシだよ！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:さっきは頭が地面に差し込まれそうな感じだったけどね……+というかあれは何？ブービートラップ？+罠まで仕掛けていたなんて、やはり油断はできないね。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:それはもう、あと少しで爆発に……え？爆発してない？
+()||<BIN>85</BIN><黑屏2>:SOP IIは訳の分からない表情で部屋の中を覗いてみた。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:爆発……しないし、まだ光ってる……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:まるでこっちに気づいて欲しいみたい……見てくるわ。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:待って！万が一遅延式の起爆装置だったら……！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:だからってこのまま待ってても何も手掛かりはないぞ。+それによく見て、あのサイズじゃ本当に爆弾でも、わたしたちをどうにかできるようなものでもない。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:うん……分かった……
+()||:ROとSOP IIはもう一度遺体に近づいて、手の中から光っている装置を取り上げた。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:これは……小型のメモリーみたい……何かのセキュリティプログラムが仕掛けられてるようだけど、試しに解いてみるね。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:え？ま、待って！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:今度は何？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:爆弾じゃなくても、万が一これが本当の罠だったら？ROが入ったら攻性防壁でメンタルを焼けば、爆弾よりもずっと効果的だよ？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:まぁ……その可能性もあるけど……でもさっきも言ったみたいに、このまま待ってても何も手掛かりはないぞ。ここまで来てさすがに縮こまるわけにはいかない。+それに万が一本当にメンタルが焼かれても、またあとで新しい素体に変えればいいし……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:それはダメ！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:え？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:今ROがいなくなったら私……一人で任務を完成することができないよ……+それと……もう二度と……ROが目の前で倒れて欲しくない……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP II……+だ、大丈夫、わたしがそう簡単にやられるわけないでしょ！行ってくるね！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:うわぁ！なんでいうこと聞かないの！
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:……
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:趁SOP2還來不及反應，RO閉上眼睛，連接到儲存器中。
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Sneak</BGM>:這個空間……只有簡單的被動防禦程序，看來不是SOP2所說的電子陷阱……+如果不是敵人設置的，那為什麼它們沒注意到有這麼一個儲存器呢？+唔……算了不管了，得趕緊看看有沒有需要的線索。
-M1903(4)<Speaker>？？</Speaker><Position>0,8000</Position>;RO635-NoArmor(4)<Position>-450,0</Position>||<震屏>:呃啊啊啊啊——！
-M1903(4);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:好吧，我能想到……怎麼可能會這麼大大方方放我進去呢。+自動增殖性病毒，就用這種病毒就想鎖死我的訊號權限，未免也太看不起人了吧。
-M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(4)<Grey>||<震屏>:啊啊啊啊啊——！！
-M1903(4);RO635-NoArmor(5)<Speaker>RO635</Speaker>||<黑屏1>:不過首先，我得小心不能鬧得太過火把儲存器給燒了。+所以說……各位，請讓一下路，格里芬的垃圾清理專家來了！
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:SOP IIの気が抜けた瞬間、ROは目を閉じてメモリーに接続した。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Sneak</BGM>:この空間……簡単な防衛プログラムしかついていない、どうやらSOP IIの言った罠とかではなさそう……+敵が仕掛けたものじゃないとすれば、なんでこのメモリーに気づかなかったんだろう？+うーん……まぁいい、今は手掛かりを探すことを優先しよう。
+M1903(4)<Speaker>？？</Speaker><Position>0,8000</Position>;RO635-NoArmor(4)<Position>-450,0</Position>||<震屏>:グゥアアアアアア――！
+M1903(4);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:はいはい、予想通りのやつら……そう簡単入らせるわけないもんね。+自動増殖型のウイルスか、こんなものでわたしの信号権限をロックしようだなんて、舐められたものね。
+M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(4)<Grey>||<震屏>:グゥアアアアアア――！！
+M1903(4);RO635-NoArmor(5)<Speaker>RO635</Speaker>||<黑屏1>:しかし、暴れすぎてメモリーを壊したりしたらまずいし。+なので……みんなさん少し退いてもらおうか、ここから先はグリフィンのゴミ掃除屋の出番よ！
 ()||<黑点2><BIN>10</BIN>:
