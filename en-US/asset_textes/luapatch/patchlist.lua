@@ -287,7 +287,10 @@ patch2050={
 "2050/SquadGetPerformance",	
 "2050/GunData",	
 "2050/ShareContentController",
-"2050/AVGTrigger",
+}
+patch2060=
+{
+	"2060/SettingController",
 }
 --[[
 -- va11
