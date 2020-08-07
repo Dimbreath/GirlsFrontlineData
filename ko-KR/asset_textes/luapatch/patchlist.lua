@@ -287,10 +287,25 @@ patch2050={
 "2050/SquadGetPerformance",	
 "2050/GunData",	
 "2050/ShareContentController",
+"2050/AVGTrigger",
+"2050/HomeOperationButton",
 }
 patch2060=
 {
-	"2060/SettingController",
+"2060/FormationSettingController",
+"2060/DeploymentUIController",
+"2060/DeploymentBuildSkillItem",
+"2060/OPSPanelController",
+"2060/OPSPanelMission2",	
+"2060/ShareSDK",
+"2060/ShareContentController",
+"2060/HomeOperationButton",
+"2060/TargetTrainGameData",	
+"2060/UISimulatorFormation",	
+"2060/SangvisGunStateController",
+"2060/SangvisWeddingPlay",
+"2060/HomeController",
+"2060/MallGoodController",
 }
 --[[
 -- va11
