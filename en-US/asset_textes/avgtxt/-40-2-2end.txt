@@ -1,60 +1,60 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Hello</BGM>:森林内，R93和P38的寻宝仍在继续……
-R93(2)<Speaker>R93</Speaker>||:为什么寻宝的第一步是要找回跑丢的同伴啊？+这么崎岖的路，P38是怎么跑那么快的？
-()<Speaker></Speaker>||:当然，走在森林当中，除了海风吹动树冠的声音和鸟鸣以外，没有任何人能回答R93的疑问。
-R93(2)<Speaker>R93</Speaker>||:现在这个点，也不知道指挥官发现我们不在了没有。+哈——早知道就不逗她了，这么平白无故地浪费时间……+诶？
-()<Speaker></Speaker>||:边走边抱怨的R93渐渐地又听到了熟悉的尖叫，她清楚地看到P38狂奔了回来，表情比刚才还要夸张。
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>R、R93——！</Size>
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:<Size=60>声音太大了！</Size>+哈……刚刚就是逗你一下，不至于吓成这个样子吧？
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:不、不是这个，那边，那边！
-()<Speaker></Speaker>||:P38跑过来马上躲到R93身后，并指着她来的方向。
-R93(2)<Speaker>R93</Speaker>||:那边怎么了？难道你发现宝藏了！？
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:不不不，不是的！
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:不是……那是什么？+你不会想说你发现幽灵了吧？
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:是海怪！那边、那边有海怪！
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:海怪？听起来也不比幽灵吓人嘛。
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:我没讲鬼故事！+是真的海怪！真的！我刚刚还踩到它了，黏糊糊的超恶心！
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:怎么会有这种事……+等等，要是真的连海怪都能发现，兴许是好兆头？+我们去看看吧！
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:哎！？我们不回去吗？
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:去看看说不定能发现什么。+不是经常有那种传说嘛，守护宝藏的怪物什么的。
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:还得跟它战斗？不了吧！？
-R93(2)<Speaker>R93</Speaker>||:先去看看，就看看。+但我觉得这次真的要走好运了！
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Hello</BGM>:In the forest, R93 and P38's treasure hunt is still in progress...
+R93(2)<Speaker>R93</Speaker>||:Why would the first step of a treasure hunt be looking for a lost companion? +And how did P38 run off so fast on such uneven terrain?
+()<Speaker></Speaker>||:Of course, walking in the forest, there is no answer to R93's questions other than birdsong and the sound of rustling trees.
+R93(2)<Speaker>R93</Speaker>||:I wonder if the Commander has noticed our absence yet. +(Sighs) I really shouldn't have teased her. Such a waste of time... +Huh?
+()<Speaker></Speaker>||:As R93 walks on while muttering to herself, she gradually starts hearing a familiar scream. Then she sees P38 running back, looking even more terrified.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>R-R93!</Size>
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:<Size=60>You're so loud!</Size> +Jeez... I just teased you a little bit, you didn't have to be this scared.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Th-that's not it! Over there!
+()<Speaker></Speaker>||:P38 hides behind R93 and points in the direction she came from.
+R93(2)<Speaker>R93</Speaker>||:What's over there? Did you find the treasure?!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:N-n-n-no!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:No...? Then what is it? +Don't tell me you found a ghost?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:It's a sea monster! Th-there's a sea monster over there!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:A sea monster? That doesn't sound any scarier than a ghost.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:This isn't a horror story! +There is an actual sea monster! For real! I just stepped on it! It was really slimy and gross!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:As if that could happen... +Hold on, if you really came across a sea monster, it might be a good omen? +Let's go check it out!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:What?! Shouldn't we go back to the others?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:It might lead us to something. +Isn't it how all legends go? Monsters guard treasures, or something like that.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:So we have to fight it? No thanks!
+R93(2)<Speaker>R93</Speaker>||:Let's go and have a look. Just a look. +But I have a feeling we're in luck!
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>162</BIN><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:
-()<Speaker></Speaker>||:带着不情不愿的P38，R93径直朝前走，没过多久便到了森林的尽头。+这里一样是片海滩，但散布着许多礁石，R93看到一只通体红色的海蟹从自己脚跟前爬开，钻进了一团海草里，然后……+海草团抽搐了一下。
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:就是那个！就是那个！
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:你说那团海草？
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:那绝对不是海草！+要不我们先发制人把它干掉吧！
-R93(2)<Speaker>R93</Speaker>||:起码先确认一下是什么东西吧。
-()<Speaker></Speaker>||:R93稍稍走近一点来观察这只“海怪”。+直接从块头上来看，海怪的个头倒是真的比自己还要大，而且海草也不是覆盖全身。+要从整个外形上来看，反而更像是个人类。
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:会、会不会是ELID呢？
-()<Speaker></Speaker>||:R93和P38对视了一眼，然后捡起沙滩上一块石头丢过去……不像刚才那样有反应。+然而再走近些的时候，“海怪”突然挣扎起来，并伸出两只手紧紧抓住了R93和P38的脚踝。
-海怪？()<Speaker>海怪？</Speaker>||:呃啊啊啊啊——！
-P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:哇——！
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||:呀——！
-()<Speaker></Speaker>||:被突然袭击吓到的R93和P38根本来不及使用武器，只好用了最适合当下的应对措施——
-()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:格里芬CQC……
-()<Speaker></Speaker>||:在失去武器且极端危险情况下才会使用的格斗技，此刻一点都没落下。+万幸的是，这只海怪并没有看上去那么强大，在R93和P38的反击下，它被轻松打倒了。
-R93(2)<Speaker>R93</Speaker>||:哈……哈……
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:它、它怎么样了？
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:还没打到要害上。
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93，那个……我刚才感觉怪怪的。
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:什么？
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:你不觉得它刚才的声音很耳熟吗？
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:P38的提醒让R93呆滞了一下。+大概是在自己的心智中比对到了吻合的音频记录，她的瞳孔开始抖动，脸上浮起了不自然的笑容。+像是帮忙证实她的猜测一样，P38捡起一根树枝，将海怪身上的海草挑了起来。+盖在下面的果然是她们最熟悉的那个人类……
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||<BGM>BGM_Wake</BGM>:指、指挥官！？
-()<Speaker></Speaker>||:扔掉树枝的P38立刻撑起指挥官的上身，然后抱进臂弯里。
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:为什么为什么……+怎么会这样？
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:P38……
-P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>是谁把您打成这个样子的！</Size>
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:<Size=80>是你啊！！！</Size>
-()<Speaker></Speaker>||:经过一番急救，看到指挥官的脸色稍有缓和之后，R93与P38总算放下心来。
-R93(2)<Speaker>R93</Speaker>||<BGM>BGM_Hello</BGM>:还好刚才只是想着脱身，没怎么下重手，再加上海草做缓冲，就没什么严重的伤。
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:可是，为什么指挥官会躺在这种地方？+该、该不会是那边有什么危险了吧？
-R93(2)<Speaker>R93</Speaker>||:这得先等指挥官醒过来才知道了……嗯？
-()<Speaker></Speaker>||:R93的注意力被刚刚扔在一旁的海草里的东西吸引了。+那是个被藻类和藤壶覆盖的文件袋，尽管看上去做过防水处理，但也许年深日久的缘故，R93仍然从里面倒出了一些海水。+和一张地图。
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:咦，这是！？
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:……+真的，看来是真的，转运宝藏确有其事！+幸运天平开始向我们倾斜了！
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93，你的眼睛都开始发光了哦……
-()<Speaker></Speaker>||:P38看了看R93面前被铺开的地图。+因为遭到浸泡的缘故，纸面已经模糊不清，但依然可以看出岛屿的轮廓。+以及岛屿中央唯一被标注的，依然清晰的红色五角星。
+()<Speaker></Speaker>||:With a very reluctant P38 in tow, R93 marches straight ahead. They soon arrive at the edge of the forest. +In front of them is a beach with a lot of reefs around. R93 watches as a red crab crawls past her heel and into a giant wad of seagrass. Then...the wad of seagrass twitches.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:That's it! That's the monster!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:You mean this wad of seagrass?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:That is most definitely not seagrass! +We should strike first and kill it!
+R93(2)<Speaker>R93</Speaker>||:At least let me see what it is.
+()<Speaker></Speaker>||:R93 draws a little closer to observe this "sea monster". +Looking at its size, this monster is actually bigger than R93 herself. It's not entirely covered in seagrass either. +The figure actually looks a little human.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:C-could it be an ELID?
+()<Speaker></Speaker>||:R93 and P38 exchange a glance, then they each pick up a rock and throw it at the figure... It doesn't react. +But as they inch a little closer, the "sea monster" suddenly extends two arms and grabs the Dolls by their ankles.
+海怪？()<Speaker>Sea Monster?</Speaker>||:GUAAAAAGH!
+P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:Whoa!
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||:Aaaaah!
+()<Speaker></Speaker>||:The sudden attack gives R93 and P38 no time to draw their weapons, so they resort to the most suitable countermeasure—
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:Griffin CQC...
+()<Speaker></Speaker>||:A combat technique for extremely dangerous situations where weapons are inaccessible. While it's only relied upon in emergencies, the techniques have not deteriorated in these dolls at all. +Quite fortunately, the sea monster isn't as formidable as it looks. R93 and P38's counterattack has it easily beaten.
+R93(2)<Speaker>R93</Speaker>||:(Pants)
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:I-is it dead?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:We didn't hit it in any fatal spots.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93, um... It felt kinda strange.
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:What?
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Don't you think its voice just now sounded familiar?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:P38's observation puts R93 in a brief daze. +R93 compares the sea monster's voice with audio files stored in her neural cloud. Upon finding a match, her pupils start quivering and her lips twists into a stiff grin. +As if to prove her suspicion, P38 picks up a twig to lift up the seagrass... +...and reveals an unmistakably familiar human...
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||<BGM>BGM_Wake</BGM>:C-Commander?!
+()<Speaker></Speaker>||:P38 tosses away the twig immediately and props the Commander up in her arms.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:How...how... +How did this happen?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:P38...
+P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>Who beat you up this badly?!</Size>
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:<Size=80>It was you!!!</Size>
+()<Speaker></Speaker>||:After some emergency first-aid, the Commander seems to have recovered a little, much to R93 and P38's relief.
+R93(2)<Speaker>R93</Speaker>||<BGM>BGM_Hello</BGM>:Thank goodness we were busy with trying to get away and didn't actually go all out. The seagrass also provided some buffer so the injuries aren't too bad.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:But why was the Commander lying in such a place? +Th-there couldn't be any more dangers around, right?
+R93(2)<Speaker>R93</Speaker>||:Guess we'll have to find out when the Commander comes to...hmm?
+()<Speaker></Speaker>||:R93's attention is drawn to something that got washed up next to the heap of seagrass. +It's an envelop covered in moss and barnacles. It seems to have been waterproofed, but due to the long years it spent underwater, R93 still pours out a considerable amount of sea water of the envelop. +Plus a map.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Huh, is this...?!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:... +It's real! The luck-changing treasure does exist! +The scale of fortune is tipping in our favor!
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93, your eyes are practically glowing...
+()<Speaker></Speaker>||:P38 studies the map that R93 just unfolded. +Having been soaked in water for so long, the surface of the paper is rather blurry, but one can still make out the shape of the island... +...and the clear red star marking a spot in the center of the island.
 ()||<黑屏1>:

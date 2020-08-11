@@ -1,62 +1,47 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>162</BIN><BGM>event_summer_Title</BGM>：……+海滩边上，索米悄悄地翻开了乱石。+藏在石头下面的几只小小的螃蟹被惊吓到，纷纷举起钳子对准了她。
-KP31(6)<Speaker>索米</Speaker>||:……+请问指挥官来过吗？
-WA2000(6)<Speaker>WA2000</Speaker>||:麻烦别把时间浪费在这种地方！+真是的，指挥官到底藏到哪里去了，都不知道别人那么担心吗？
-NTW20(6)<Speaker>NTW20</Speaker>||:没关系，就算藏得再深也逃不过我敏锐的视觉的。
-MP7(2)<Speaker>MP7</Speaker>||:再次提醒，饲养员是溺·水，不是捉迷藏！+所以别的怎么样都好，溺水这严重的事，不应该表现得更紧张一点吗？
-WA2000(6)<Speaker>WA2000</Speaker>||:这种话等你把手里的棒棒糖丢掉了再说吧！+唔，说到底还是因为长时间找不到指挥官，大家也没什么办法了吗……
-()||<SE1>AVG_rifle_finalshot_3h</SE1>：正在大家一筹莫展之际，森林深处突然传来了激烈的交火声。
-WA2000(6)<Speaker>WA2000</Speaker>||:这个声音！？
-FN57(6)<Speaker>Five-seveN</Speaker><通讯框>||:<color=#00CCFF>喂？喂？谢尔久科夫在吗？</color>+<color=#00CCFF>或者什么人都可以，听到的话请回答，这边发现了不得了的东西。</color>
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:57？刚才那声音是你们负责搜索的区域吧？
-FN57(6)<Speaker>Five-seveN</Speaker><通讯框>;WA2000(6)||:<color=#00CCFF>没错哟，现在已经接敌了，对面看起来很像刚才打扰我们休假的家伙呢。</color>+<color=#00CCFF>你说指挥官会不会就是被它们给抓走了？</color>
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:不、不排除这个可能……
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:<color=#A9A9A9>和溺水相比，也许这样反而是更好的结果</color>
-FN57(6)<Speaker>Five-seveN</Speaker><通讯框>;WA2000(6)||:你该不会是在想，和溺水相比，也许这样反而是更好的结果？
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:如果你擅自连接我的心智，我绝对饶不了你！
-FN57(6)<Speaker>Five-seveN</Speaker><通讯框>;WA2000(6)||:哪有哪有，我现在正要去把指挥官救出来呢。+毕竟现在的指挥官可能比任何时候都需要我嘛，不要羡慕哦~
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:……
-WA2000(6)<Speaker>WA2000</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:赶紧把你们的坐标共享给所有人形，我们也要去！
-()||<黑屏2><BIN>1</BIN><BGM>BGM_stage1</BGM><SE2>Gunfight</SE2>：……+WA2000毫不客气地挂断了通讯。+此刻的森林里已是枪林弹雨，Five-seveN却满不在乎地品味起自己戏耍成功的喜悦。
-FN57(6)<Speaker>Five-seveN</Speaker>||:嘻嘻嘻，她羡慕了~
-Type88(4)<Speaker>88式</Speaker>||:那个，为了保险起见，还是给大家共享一下坐标吧？
-SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:这种时候不是应该直接冲过去，然后帅气地解决掉它们吗？
-FN57(6)<Speaker>Five-seveN</Speaker>||:好的好的，我赞同SPAS-12的意见。
-Type88(4)<Speaker>88式</Speaker>||:哎？那、那好吧，也许你们是对的……
-()||：Five-seveN冲88式抿嘴一笑，然后指了指自己心智的位置。
-FN57(6)<Speaker>Five-seveN</Speaker>||:你们也都收到了吧，R93发来的求救信号和坐标，毫无疑问是指挥官遇到危险了。+我们现在要做的就是赶紧突破这里，去前面那个好像工厂的地方确保指挥官的安全。
-()||：确定好首要目标后，她们以倒三角的阵型开始向兵工厂推进。+来到兵工厂大门外，刚好碰到许多自律兵器从里面蜂拥而出。
-Type88(4)<Speaker>88式</Speaker>||:哇哇哇！是、是陷阱吗！？
-SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:是不是都没有关系，看我的吧！
-FN57(6)<Speaker>Five-seveN</Speaker>||:先别急，你们听到什么声音没？
-()||：三个人形不再说话，虽然现场依然混乱，但她们确实听到了兵工厂内部有一种大型机械运转的声音，而且越来越近。+其中似乎还夹杂着一些慌乱的叫喊声。
-Type88(4)<Speaker>88式</Speaker>||:看、看那边！
-()||：所有人形抬头看向声音的源头，那里是厂房外部连接着楼梯的一道安全门。+而很快那扇门就被踹开，从里面冲出了三个手忙脚乱的身影。
-SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:是R93和P38，还有指挥官！
-FN57(6)<Speaker>Five-seveN</Speaker>||:哦哦，看来指挥官很安全！+喂——！
-()||：Five-seveN向指挥官招手，但对面似乎也在拼命向自己挥手。
-FN57(6)<Speaker>Five-seveN</Speaker>||:才多大一会功夫没见面，指挥官怎么兴奋成那样？
-Type88(4)<Speaker>88式</Speaker>||:不对，好像有什么东西在后面……
-()||<SE1>Explode</SE1>：88式话音未落，随着一声巨响，那道安全门连带着整面墙璧便被什么东西从里面向外撞出了一个半球体。+紧接着，那面墙璧被彻底撞开，飞溅的尘土和混凝土块当中出现了一台巨大的机械兵器。
-WA2000(6)<Speaker>WA2000</Speaker>||:哈……哈……终于赶到了……+那、那是什么！？
-FN57(6)<Speaker>Five-seveN</Speaker>||:来接你远走高飞的哟~
-WA2000(6)<Speaker>WA2000</Speaker>||:你真是够了！指挥官在哪里？
-Type88(4)<Speaker>88式</Speaker>||:还在那个里面，不过……
-()||：似乎是扫描到了敌对目标一样，那台机械兵器以极大的动力起跳，并落在了人形们的面前。
-FN57(6)<Speaker>Five-seveN</Speaker>||:不过得先打败它才能救回指挥官了。
-()||<黑点2><BIN>10</BIN>：此时，所有人形都已经赶到，并向这些老旧的自律兵器展开了最后的攻击。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+()||<黑屏2><BIN>162</BIN><BGM>event_summer_Title</BGM>:... +On the beach, Suomi gently turns over a rock. +A few tiny crabs hiding beneath the rock are startled and wave their pincers menacingly at her.
+KP31(6)<Speaker>Suomi</Speaker>||:... +Excuse me, has the Commander been here?
+WA2000(6)<Speaker>WA2000</Speaker>||:Stop wasting time! +Sheesh, where the hell has the Commander gone? Why is that idiot always making us worry?
+NTW20(6)<Speaker>NTW-20</Speaker>||:It's okay, no amount of hiding can evade my keen vision.
+MP7(2)<Speaker>Gr MP7</Speaker>||:May I remind you that the Caretaker was DROWNING, not playing hide-and-seek! +That's pretty serious, so shouldn't you be a bit more anxious?
+WA2000(6)<Speaker>WA2000</Speaker>||:Says you while you're casually sucking on your lollipop! +Hmm, but we've been looking for the Commander for a while now. Is there no other way...?
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:Just as everyone is at a loss, the sound of a ferocious gunfight comes from deep within the forest.
+WA2000(6)<Speaker>WA2000</Speaker>||:What's that?!
+FN57(6)<Speaker>Five-seven</Speaker><通讯框>||:<color=#00CCFF>Hello? Hello? Is Serdyukov there?</color> +<color=#00CCFF>Or anybody? Please respond if you copy. We found something incredible over here.</color>
+FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:Five-seven? That noise is coming from the area you're searching, right?
+FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:<color=#00CCFF>That's right, we've engaged the enemies. They look just like the ones who just disturbed our nice vacation.</color> +<color=#00CCFF>Could they have captured the Commander?</color>
+FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:That...that's a possibility...
+FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:<color=#A9A9A9>Compared to drowning, this might actually not be so bad?</color>
+FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:I bet you're thinking it isn't so bad compared to drowning.
+FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:If you read my neural cloud without my permission, I'm never going to forgive you!
+FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:I didn't, I'm just about to set off to rescue the Commander. +After all, the Commander needs me now more than ever. Don't be jealous~
+FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:...
+WA2000(6)<Speaker>WA2000</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Share your coordinates with everyone. We're coming too!
+()||<黑屏2><BIN>1</BIN><BGM>BGM_stage1</BGM><SE2>Gunfight</SE2>:... +WA2000 terminates the transmission angrily. +The forest is raging with gunfire, yet Five-seven is nonchalantly reveling in her success in razzing WA2000.
+FN57(6)<Speaker>Five-seven</Speaker>||:Heheheh, she IS jealous~
+Type88(4)<Speaker>QJY-88</Speaker>||:Um, just to be safe, maybe we should still share our coordinates?
+SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:Shouldn't we charge over there and wipe them out valiantly?
+FN57(6)<Speaker>Five-seven</Speaker>||:Right, I agree with SPAS-12.
+Type88(4)<Speaker>QJY-88</Speaker>||:Huh? O-okay then, you're probably right...
+()||:Five-seven smirks at QJY-88 and points at her own neural cloud.
+FN57(6)<Speaker>Five-seven</Speaker>||:You all got that right? R93 sent a distress call and her current location. There's no mistake – the Commander is in danger. +Right now, our job is to cut through the enemies and secure the Commander in what looks like a factory.
+()||:Upon confirming their main objective, the group starts advancing towards the factory in an inverted triangle formation. +As they arrive at the main entrance, a swarm of autonomous units come pouring out of the door.
+Type88(4)<Speaker>QJY-88</Speaker>||:Whoa! Is-is this a trap?!
+SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:That doesn't matter! Watch me!
+FN57(6)<Speaker>Five-seven</Speaker>||:Slow down. Can you hear that?
+()||:The trio fall silent. The scene is still in chaos, but they can just make out the sound of some very large machinery coming from within the factory, and it's getting closer. +A few panicky shouts can also be heard from time to time.
+Type88(4)<Speaker>QJY-88</Speaker>||:L-look over there!
+()||:The Dolls turn towards the source of the noise. It's a safety exit connected to an external flight of stairs. +The door is soon kicked open and three flustered figures come crashing out.
+SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:It's R93, P38, and the Commander!
+FN57(6)<Speaker>Five-seven</Speaker>||:Oooh, it seems the Commander is safe! +Heyyyy!
+()||:Five-seven waves at the Commander, who also seems to be waving desperately at her.
+FN57(6)<Speaker>Five-seven</Speaker>||:It hasn't been that long since we last saw each other, so why is the Commander so excited?
+Type88(4)<Speaker>QJY-88</Speaker>||:No, I think there's something behind them…
+()||<SE1>Explode</SE1>:Before QJY-88 could finish, something punches right through the safety exit with a loud boom, leaving a large, semi-circular hole on the wall. +Then the entire wall is knocked down, and amidst the flying dust and chunks of concrete is a massive mech unit.
+WA2000(6)<Speaker>WA2000</Speaker>||:(Pants) I...finally got here... +W-what the hell is that?!
+FN57(6)<Speaker>Five-seven</Speaker>||:It's here to take you somewhere far away~
+WA2000(6)<Speaker>WA2000</Speaker>||:Enough already! Where's the Commander?
+Type88(4)<Speaker>QJY-88</Speaker>||:Still in there, but...
+()||:Detecting enemy units, the mech leaps up with tremendous force and lands right before the Dolls.
+FN57(6)<Speaker>Five-seven</Speaker>||:But we'll have to take care of this before we can get to the Commander.
+()||<黑点2><BIN>10</BIN>:Now that all the Dolls have arrived, it's time to launch a general offensive against these old autonomous units.
