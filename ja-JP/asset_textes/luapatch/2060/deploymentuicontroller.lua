@@ -16,22 +16,4 @@ local CheckLayer = function(self)
 		self:CheckLayer();
 	end
 end
-
-local RefreshUI = function(self)
-	self:RefreshUI();
-	if CS.GameData.missionAction ~= nil and CS.GameData.currentSelectedMissionInfo.specialType == CS.MapSpecialType.Normal then
-		local count = 0;
-		for i=0,CS.GameData.listSpotAction.Count-1 do
-			local spotAction = CS.GameData.listSpotAction[i];
-			if not spotAction.spot.Ignore then
-				if spotAction.spot.currentTeam ~= nil and spotAction.spot.currentTeam:CurrentTeamBelong() ~= CS.TeamBelong.friendly then
-					count = count + 1;
-				end
-			end			
-		end
-		self.textRestEnemyCount.text = count;
-	end
-end
-
 util.hotfix_ex(CS.DeploymentUIController,'CheckLayer',CheckLayer)
-util.hotfix_ex(CS.DeploymentUIController,'RefreshUI',RefreshUI)
