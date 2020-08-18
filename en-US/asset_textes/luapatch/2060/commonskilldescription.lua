@@ -8,10 +8,11 @@ local Init = function(self,...)
 			local forceskill = (skill.info.is_manual ~= 0)
 			local gunforce = self.gun.forceManualSkill
 			if (forceskill and not gunforce) or (not forceskill and gunforce) then
-				self:UpdateForceManualUI(true)
-			else 
-				self:UpdateForceManualUI(false)
+				gunforce = true
+			else
+				gunforce = false
 			end
+			self:UpdateForceManualUI(gunforce)
 		end
 	end
 end

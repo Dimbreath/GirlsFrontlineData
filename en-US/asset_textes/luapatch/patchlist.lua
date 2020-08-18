@@ -301,7 +301,9 @@ patch2060=
 "2060/DeploymentSpotController",
 "2060/DeploymentPathController",
 "2060/OPSPanelController",
-"2060/OPSPanelMission2",	
+"2060/OPSPanelMissionHolder",
+"2060/OPSPanelMission2",
+"2060/OPSPanelLine",	
 "2060/ShareSDK",
 "2060/ShareContentController",
 "2060/HomeOperationButton",
@@ -311,12 +313,15 @@ patch2060=
 "2060/SangvisWeddingPlay",
 "2060/HomeController",
 "2060/FetterStoryItemDetail",
+"2060/HomeAdjutantController",
+"2060/AdjutantGunListController",
 "2060/SangvisFormaionController",
 "2060/GunData",
 "2060/SangvisSkillDescription",
 "2060/CommonSkillDescription",
 "2060/CombatSettlementGuideController",
 "2060/OrganizationStaffItem",
+"2060/SangvisGunData",
 }
 --[[
 -- va11
