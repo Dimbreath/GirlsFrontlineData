@@ -1,91 +1,91 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:我讨厌自己。
-()<Speaker></Speaker>||<黑屏1>:并不只是因为自己驻足在原地。+而是我明知她们会遭遇危险，却仍然想着让她们前进。
-()<Speaker></Speaker>||<黑屏2><BIN>224</BIN>:……隔离墙。
-K2(0)<Speaker>K2</Speaker>||<BGM>m_avg_casual</BGM>:我们这次的任务很简单，守住入口就可以了。
-AEK999(0)<Speaker>AEK999</Speaker>||:队长，打过来的可是军方啊，怎么也不可能是简单难度吧。
-TMP(0)<Speaker>TMP</Speaker>||:（点头。）
-K2(0)<Speaker>K2</Speaker>||:哈哈……我想稍许激励一下大家……
-AEK999(0)<Speaker>AEK999</Speaker>||:那不如换一种方式，在这里搭个舞台唱唱歌之类的。
-M950A(0)<Speaker>M950A</Speaker>||:你们啊，别调侃队长了，要对自己多点信心——
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Pause</BGM>:砰！
-M950A(0)<Speaker>M950A</Speaker>||:呃！军方怎么先打过来了！这该怎么办队长？！
-M950A(0);Thunder50(0)<Speaker>雷电</Speaker>||:不，是我开的枪。
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:……雷电，为什么你要开枪啊？！
-M950A(0);Thunder50(0)<Speaker>雷电</Speaker>||:表达感情。+因为AEK说想换一种方式。
-M950A(0)<Speaker>M950A</Speaker>||:……
-AEK999(0)<Speaker>AEK999</Speaker>||<BGM>BGM_UnPause</BGM>:哼哼，这不刺激多了，一下就来劲了。
-M950A(0)<Speaker>M950A</Speaker>||:真、真的吗？
-K2(0)<Speaker>K2</Speaker>||:我好像也进入状态了，应该能尝试攻略hard难度了吧。
-TMP(0)<Speaker>TMP</Speaker>||:（反复摇头。）+不，不不不。
-M950A(0)<Speaker></Speaker>||:M950A长叹了一口气。
-M950A(0)<Speaker>M950A</Speaker>||:什么时候了，你们还在耍宝。+要是菲尔跟克莉尔小姐在就好了，可惜她们被调到其他组了……
-K2(0)<Speaker>K2</Speaker>||:虽然很遗憾，但毕竟是指挥部的决定，人到齐了我们就出发吧。
-M950A(0)<Speaker>M950A</Speaker>||:那么……喊个口号？
-AEK999(0)<Speaker>AEK999</Speaker>||:坏孩子们，狂欢再开了哦！
-Thunder50(0)<Speaker>雷电</Speaker>||:啊……哈……！
-TMP(0)<Speaker>TMP</Speaker>||:喔——！
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:【ATK】小队五人相互碰拳后，赶往了战场……
-TMP(0)<Speaker>TMP</Speaker>||<BIN>99</BIN><黑屏2><BGM>10065</BGM>:军方的战斗力太夸张了。
-AEK999(0)<Speaker>AEK999</Speaker>||:没错，对面的火力像篡改了数据一样。
-K2(0)<Speaker>K2</Speaker>||:哈、哈……
-Thunder50(0)<Speaker>雷电</Speaker>||:队长已经完全进入“笔记”模式了。
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:那是“note模式”吧。
-M950A(0);Thunder50(0)<Speaker>雷电</Speaker>||:950，别动——！
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:啊？
-Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>Explode</SE1>:雷电拉着M950A向左侧移动，随后一轮列车炮的炮击将ATK小队的阵型完全打散了。
-NPC-Soldier(0)<Speaker>突击队长</Speaker>||<黑点2>:步兵和人形跟上，把她们逐个击破！
-NPC-Soldier(0);NPC-Yegor(3)<Speaker>突击队员</Speaker>||<黑点1>:是！
-M950A(0)<Speaker>M950A</Speaker>||<黑点2>:我们和队长她们走散了，这下麻烦了。
-M950A(0);Thunder50(0)<Speaker>雷电</Speaker>||:950，通讯也被干扰了。
-M950A(0)<Speaker>M950A</Speaker>||:……+开始尽可能与军方迂回！
-()<Speaker></Speaker>||:空中充斥着炮火的轨迹，军方投入的军用人形越来越多，慢慢地把雷电与M950A包围了起来。
-NPC-Soldier(0)<Speaker>突击队员</Speaker>||:开火！
-()<Speaker></Speaker>||:军官打出一个手势，离她们最近的五台军用人形立刻摆好架势……
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:随后毫无停顿地开始了射击——
-M950A(0)<Speaker>M950A</Speaker>||:……啧。
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:但是在下一瞬间，附近的军用人形的信号全部受到了干扰。
-M950A(0)<Speaker></Speaker>||:M950A没有放过这一瞬，带着雷电突破了包围网。
-M950A(0);K2(0)<Speaker>K2</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>来这里！</color>
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker><通讯框>||:<color=#00CCFF>快点，我们撑不了多久！</color>
-M950A(0)<Speaker>M950A</Speaker>||:明白！
-Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>Select</SE1>:雷电利用这段空隙重新上弹。
-M950A(0)<Speaker>M950A</Speaker>||<黑点2>:TMP呢？
-AEK999(0)<Speaker>AEK999</Speaker>||:躺在那儿呢。
-()<Speaker>TMP</Speaker>||:电子入侵……负担……太大了……
-K2(0)<Speaker>K2</Speaker>||:大家再坚持一下，指挥官的列车已经到达隔离墙大门了。
-M950A(0)<Speaker>M950A</Speaker>||:我们弹药的储备还够吗？
-AEK999(0)<Speaker>AEK999</Speaker>||:这点倒不用担心，应该够用到我们下次演出了，毕竟撑不了几分钟我们就要全灭了。
-M950A(0)<Speaker>M950A</Speaker>||:总之，我们先重整阵型，尽可能为指挥官争取时间！
-M950A(0)<Speaker>M950A</Speaker>||:雷电，你怎么流泪了……？
-Thunder50(0)<Speaker></Speaker>||:雷电指了指远处。
-M950A(0)<Speaker></Speaker>;Thunder50(0)||<黑屏1>:M950A顺着雷电手指的方向看去。
-()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2>:什……
-()<Speaker></Speaker>||<黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:轰——
-()<Speaker></Speaker>||<黑屏2><BIN>226</BIN>:随着海防炮的命中，格里芬的列车从中段向外开始爆裂。
-()<Speaker>M950A</Speaker>||:指、指挥官……！
-()<Speaker>AEK999</Speaker>||:我没有看错吧？那是——
-()<Speaker>TMP</Speaker>||:是我们的列车。
-()<Speaker>雷电</Speaker>||<黑屏1>:能和指挥部联系上吗？
-()<Speaker>K2</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:不……联系不上……
-()<Speaker>M950A</Speaker>||<黑屏2><BIN>99</BIN>:啊……
-()<Speaker></Speaker>||:M950A瘫坐在地上。
-Thunder50(0)<Speaker>雷电</Speaker>||:……
-Thunder50(0)<Speaker></Speaker>||:雷电低下了头，前发在眼睛上落下深深的影子。
-TMP(0)<Speaker>TMP</Speaker>||:呜……呜……
-AEK999(0)<Speaker>AEK999</Speaker>||:搞什么啊，原来已经结束了吗……
-()<Speaker></Speaker>||:啪啪。+K2用力拍了拍自己的脸颊。
-K2(0)<Speaker>K2</Speaker>||:指挥官不是那么容易会被打倒的人！
-()<Speaker>M950A</Speaker>||:可、可是……
-NPC-Soldier(0)<Speaker>突击队长</Speaker>||:找到她们了！开火！
-()<Speaker></Speaker>||:军方的两辆“提丰”瞄准了【ATK】所在的区域。
-K2(0)<Speaker>K2</Speaker>||<BGM>BGM_War</BGM>:大家振作起来！+AEK和TMP，你们跟我一起留下挡住军方。+950、雷电负责营救指挥官。
-Thunder50(0)<Speaker>雷电</Speaker>||:……+……我知道了，走吧，950。
-M950A(0)<Speaker>M950A</Speaker>||:队长，这么重要的任务只靠我们真的可以吗……？
-AEK999(0)<Speaker>AEK999</Speaker>||:真是的，怎么这时候你倒泄气了。+打起精神——
-()<Speaker>K2&AEK999&TMP</Speaker>||:出发吧，格里芬最残酷的风纪委员！
-Thunder50(0)<Speaker>Thunder50</Speaker>;M950A(0)<Speaker>M950A&雷电</Speaker>||:……！
-Thunder50(0);TMP(0)<Speaker>TMP</Speaker>||:（举手）申请回去后我能一个月不打扫宿舍。
-Thunder50(0)<Speaker>雷电</Speaker>;TMP(0)||:不行。
-Thunder50(0)()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:砰！雷电朝着天空开了一枪。
-M950A(0)<Speaker>M950A</Speaker>||<黑屏1>:大家……+谢谢，我们出发了！
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:I hate myself.
+()<Speaker></Speaker>||<黑屏1>:Not just because I'm always rooted to the spot, too flustered to make any decision... +But it's because even despite knowing what dangers lay ahead, I allow them to proceed unhindered.
+()<Speaker></Speaker>||<黑屏2><BIN>224</BIN>:...At the quarantine wall.
+K2(0)<Speaker>K2</Speaker>||<BGM>m_avg_casual</BGM>:Our mission is pretty simple. Just defend the entrance.
+AEK999(0)<Speaker>AEK-999</Speaker>||:It's the Military we're defending it from. That's hardly "simple".
+TMP(0)<Speaker>TMP</Speaker>||:(Nods)
+K2(0)<Speaker>K2</Speaker>||:Haha...I was just trying to boost morale...
+AEK999(0)<Speaker>AEK-999</Speaker>||:You might as well change your tune... like set up a stage right here and throw a concert.
+M950A(0)<Speaker>M950A</Speaker>||:Stop teasing her. Just have more confidence in yourselves—
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Pause</BGM>:Bang!
+M950A(0)<Speaker>M950A</Speaker>||:Ack, the Military is here already?! What do we do, Leader?!
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:No, that was me.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:...Thunder, why did you open fire?!
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:To convey my feelings. +AEK said to change my tune.
+M950A(0)<Speaker>M950A</Speaker>||:...
+AEK999(0)<Speaker>AEK-999</Speaker>||<BGM>BGM_UnPause</BGM>:Humph, that did the trick. Now I'm motivated.
+M950A(0)<Speaker>M950A</Speaker>||:R-Really?
+K2(0)<Speaker>K2</Speaker>||:I think I'm getting in the zone too. I'm ready to play this on hard mode.
+TMP(0)<Speaker>TMP</Speaker>||:(Shakes head vehemently.) +No, no friggin way.
+M950A(0)<Speaker></Speaker>||:M950A lets out a long sigh.
+M950A(0)<Speaker>M950A</Speaker>||:Is this really the time to show off? +If only Miss El Clear and Miss El Fail were here. Sadly, they've been assigned to another team...
+K2(0)<Speaker>K2</Speaker>||:It is unfortunate, but it's Central Command's decision. Now that we're all here, let's go.
+M950A(0)<Speaker>M950A</Speaker>||:Then...where's our battlecry?
+AEK999(0)<Speaker>AEK-999</Speaker>||:The party's startin', you darn rascals!
+Thunder50(0)<Speaker>Thunder</Speaker>||:Aah... Ha...!
+TMP(0)<Speaker>TMP</Speaker>||:Oorah—!
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:The five members of Squad 【ATK】share a group fist bump and make for the battlefield...
+TMP(0)<Speaker>TMP</Speaker>||<BIN>99</BIN><黑屏2><BGM>10065</BGM>:The Military really is something else.
+AEK999(0)<Speaker>AEK-999</Speaker>||:You're right. Their firepower is off the charts.
+K2(0)<Speaker>K2</Speaker>||:Hah, hah....
+Thunder50(0)<Speaker>Thunder</Speaker>||:Our leader's fully engaged her "mark mode".
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:Shouldn't that be "note mode"?
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:950, don't move!
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:Huh?
+Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>Explode</SE1>:Thunder yanks M950A to the left. The next second, Squad ATK's formation is completely broken by a barrage from a railway cannon.
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||<黑点2>:Infantry and mech units, follow me! Get them all!
+NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Member</Speaker>||<黑点1>:Yes, sir!
+M950A(0)<Speaker>M950A</Speaker>||<黑点2>:We're separated from the others. This is bad.
+M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:950, comms are being jammed too.
+M950A(0)<Speaker>M950A</Speaker>||:... +We have to evade the Military! Start leading them around in circles!
+()<Speaker></Speaker>||:Artillery fire fills the air. More and more Military units enter the fray and gradually have Thunder and M950A surrounded.
+NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||:Fire!
+()<Speaker></Speaker>||:At the gesture of a Military officer, the five mech units closest to them shift into battle stance...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:And hails them with a rain of gunfire—
+M950A(0)<Speaker>M950A</Speaker>||:...Tsk.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:But the next moment, all signals of the Military units are disabled.
+M950A(0)<Speaker></Speaker>||:M950A seizes the chance and breaks through the encirclement with Thunder in tow.
+M950A(0);K2(0)<Speaker>K2</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Over here!</color>
+M950A(0);AEK999(0)<Speaker>AEK-999</Speaker><通讯框>||:<color=#00CCFF>Make it quick, we can't keep this up for long!</color>
+M950A(0)<Speaker>M950A</Speaker>||:Got it!
+Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>Select</SE1>:Thunder uses this opportunity to reload.
+M950A(0)<Speaker>M950A</Speaker>||<黑点2>:Where's TMP?
+AEK999(0)<Speaker>AEK-999</Speaker>||:Sprawled over there.
+()<Speaker>TMP</Speaker>||:Electronic invasion... The stress...is getting out of hand...
+K2(0)<Speaker>K2</Speaker>||:Just hang on for a bit. The Commander's train is already stationed at the entrance of the wall.
+M950A(0)<Speaker>M950A</Speaker>||:Do we have enough ammo?
+AEK999(0)<Speaker>AEK-999</Speaker>||:Don't worry about that. We'll have enough to last us till the next show. After all, we're gonna get wiped out in just a few minutes.
+M950A(0)<Speaker>M950A</Speaker>||:In any case, let's get back into formation and buy the Commander some time!
+M950A(0)<Speaker>M950A</Speaker>||:Thunder, why are you crying...?
+Thunder50(0)<Speaker></Speaker>||:Thunder points into the distance.
+M950A(0)<Speaker></Speaker>;Thunder50(0)||<黑屏1>:M950A directs her gaze to what Thunder is pointing at.
+()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2>:What...
+()<Speaker></Speaker>||<黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:BOOM—
+()<Speaker></Speaker>||<黑屏2><BIN>226</BIN>:A projectile from the Coastal Defense Artillery hits its mark and Griffin's train is blown apart.
+()<Speaker>M950A</Speaker>||:C-Commander...!
+()<Speaker>AEK-999</Speaker>||:I'm not mistaken, am I? That's—
+()<Speaker>TMP</Speaker>||:Our train.
+()<Speaker>Thunder</Speaker>||<黑屏1>:Any luck getting in touch with the Command Center?
+()<Speaker>K2</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:No... I can't get through...
+()<Speaker>M950A</Speaker>||<黑屏2><BIN>99</BIN>:Oh...
+()<Speaker></Speaker>||:M950A slumps onto the ground.
+Thunder50(0)<Speaker>Thunder</Speaker>||:...
+Thunder50(0)<Speaker></Speaker>||:Thunder lowers her head. Her bangs cast a dark shadow over her eyes.
+TMP(0)<Speaker>TMP</Speaker>||:(Sobs)
+AEK999(0)<Speaker>AEK-999</Speaker>||:What the hell...so it's all over...
+()<Speaker></Speaker>||:Clap, clap. +K2 slaps herself on the cheeks.
+K2(0)<Speaker>K2</Speaker>||:The Commander won't be defeated so easily!
+()<Speaker>M950A</Speaker>||:B-But...
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||:We found them! Fire at will!
+()<Speaker></Speaker>||:Two Military Typhons aim at Squad ATK's location.
+K2(0)<Speaker>K2</Speaker>||<BGM>BGM_War</BGM>:Pull yourselves together! +AEK and TMP, stay with me and keep the Military busy here. +950 and Thunder, go and rescue the Commander.
+Thunder50(0)<Speaker>Thunder</Speaker>||:... +...Got it. Let's go, 950.
+M950A(0)<Speaker>M950A</Speaker>||:Leader, are you sure we can handle such an important task on our own...?
+AEK999(0)<Speaker>AEK-999</Speaker>||:Sheesh, where's your usual fire? +Perk up and—
+()<Speaker>K2&AEK999&TMP</Speaker>||:Go, Griffin's Most Ruthless Prefect!
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(0)<Speaker>M950A&雷电</Speaker>||:...!
+Thunder50(0);TMP(0)<Speaker>TMP</Speaker>||:(Raises hand) Please allow me to not tidy the dorm for a month when we get back.
+Thunder50(0)<Speaker>Thunder</Speaker>;TMP(0)||:No.
+Thunder50(0)()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:Bang! Thunder fires at the sky.
+M950A(0)<Speaker>M950A</Speaker>||<黑屏1>:You guys... +Thank you. Let's get to work!

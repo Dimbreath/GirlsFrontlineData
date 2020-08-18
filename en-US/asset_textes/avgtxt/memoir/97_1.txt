@@ -1,37 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:眼前的世界越大，面临的选择也就越多。
-()<Speaker></Speaker>||:有的人总能够在重要事件中会做出选择……前进或是向后退……+有的人无论遇到什么事，都只会驻足在原地，无法做出任何决定。+我讨厌做不了决定的人。
-()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2><BGM>BGM_Room</BGM>:砰砰砰——
-()<Speaker>M950A</Speaker>||<BIN>99</BIN><黑屏2>:……
-Thunder50(0)<Speaker>雷电</Speaker>||<黑屏1>:950，醒一醒！+950——！
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:我讨厌……自己。
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><SE1>Explode</SE1>:轰！
-Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>RunStep</SE1>:新一轮的炮击降下，雷电立即背起M950A逃向后方的另一处安全屋。
-NPC-Soldier(0)<Speaker>突击队员</Speaker>||<黑点2>:报告，发现格里芬人形正在向后撤离。
-NPC-Soldier(0);NPC-Yegor(3)<Speaker>突击队长</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><黑屏1>:<color=#00CCFF>所有人跟上，别让她们跑了！</color>
-()<Speaker></Speaker>||<BIN>70</BIN><黑屏2>:一处废弃的安全屋……
-()<Speaker>M950A</Speaker>||:……啊。
-Thunder50(0)<Speaker>雷电</Speaker>||:950，你醒了？
-()<Speaker></Speaker>||:听见雷电在叫自己，M950A想站起身，但是——
-()<Speaker>M950A</Speaker>||:为什么站不起来……我这是……？
-()<Speaker>M950A</Speaker>||<震屏><BGM>BGM_Empty</BGM>:呜哇——！
-()<Speaker></Speaker>||:她发现自己失去了膝盖以下的部分。
-()<Speaker>M950A</Speaker>||<BGM>m_avg_casual</BGM>:怎、怎么回事！我该不会已经死了吧？要是死了的话光修理费就要花掉我好不容易存的钱了，我还想在下一期直播买个新麦克风这这这……
-Thunder50(0)<Speaker>雷电</Speaker>||:别激动，你还没有死，只是双腿被炸掉了而已。
-()<Speaker>M950A</Speaker>||:双腿被炸掉也不是小事吧再说我们还在任务中这下光维修费就不得了……
-Thunder50(0)<Speaker>雷电</Speaker>||:冷静一点，先去讨伐剩下的魔神。
-()<Speaker>M950A</Speaker>||:什么讨伐魔神啊，我的双腿可不是被它们夺走的啊！再说打仗时候能开这种玩笑吗？ 
-Thunder50(0)<Speaker>雷电</Speaker>||:你看过？
-()<Speaker>M950A</Speaker>||:我也经常网上冲浪的好不好！
-Thunder50(0)<Speaker>雷电</Speaker>||:“网上冲浪”……噗。
-()<Speaker>M950A</Speaker>||:喂！我以后真的不会再说了！+……等等，我好像冷静下来了。
-()<Speaker>M950A</Speaker>||<BGM>BGM_Empty</BGM>:谢谢你，雷电。
-Thunder50(0)<Speaker>雷电</Speaker>||:冷静下来就好。
-Thunder50(0)<Speaker></Speaker>||:雷电蹲坐在M950A身边。
-Thunder50(0)<Speaker>M950A</Speaker>||<BGM>BGM_Room</BGM>:雷电，和我说说现在的情况。
-Thunder50(0)<Speaker></Speaker>||:雷电叹了一口气。
-Thunder50(0)<Speaker>雷电</Speaker>||:直截了当的说，我们都要死在这了。
-Thunder50(0)<Speaker>M950A</Speaker>||:……还不能这么断定，我想再思考一下对策。
-Thunder50(0)<Speaker>雷电</Speaker>||:这里也藏不久，很快就会被他们发现的。
-Thunder50(0)<Speaker>M950A</Speaker>||:我明白……如果被他们追上了，不光是我们……连指挥官也……+不行，不是说丧气话的时候。+雷电，能把之前的战斗资料都传给我吗？我再试试推演几个方案来甩掉他们。
-Thunder50(0)<Speaker>雷电</Speaker>||<黑屏1>:嗯。
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:As the world before you grows larger, the choices you face grow numerically.
+()<Speaker></Speaker>||:There are some people who can always make choices in dire, crucial moments... to advance, or to retreat... +Then, there are some who only stay rooted to the spot, fraught with indecisiveness. +I hate people like that.
+()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2><BGM>BGM_Room</BGM>:Bang bang bang!
+()<Speaker>M950A</Speaker>||<BIN>99</BIN><黑屏2>:...
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:950, wake up! +950!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:I hate... myself.
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><SE1>Explode</SE1>:BOOM!
+Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>RunStep</SE1>:As a new wave of artillery fire comes raining down upon them, Thunder hauls M950A over her back and runs for a safe house at the back.
+NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||<黑点2>:Report, retreating Griffin Dolls sighted.
+NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Leader</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><黑屏1>:<color=#00CCFF>Keep up with them, don't let them slip away!</color>
+()<Speaker></Speaker>||<BIN>70</BIN><黑屏2>:In the abandoned safe house...
+()<Speaker>M950A</Speaker>||:...Ugh...
+Thunder50(0)<Speaker>Thunder</Speaker>||:950, are you awake?
+()<Speaker></Speaker>||:Hearing Thunder, M950A tries to get to her feet, but...
+()<Speaker>M950A</Speaker>||:Why can't I stand...? What is wrong with...?
+()<Speaker>M950A</Speaker>||<震屏><BGM>BGM_Empty</BGM>:Whoa!
+()<Speaker></Speaker>||:She realizes that she's missing everything below her knees.
+()<Speaker>M950A</Speaker>||<BGM>m_avg_casual</BGM>:W-What's going on? Don't tell me I'm dead? If I died, all my hard-earned money is going to go to the repair cost! And the new microphone that I wanted to buy for the next stream...
+Thunder50(0)<Speaker>Thunder</Speaker>||:Relax, you're not dead. Your legs just got blown off.
+()<Speaker>M950A</Speaker>||:That's pretty bad already, we're in the middle of a mission. At this rate, the repair cost is going to be insane...
+Thunder50(0)<Speaker>Thunder</Speaker>||:Calm down. We've still got demons to slay.
+()<Speaker>M950A</Speaker>||:What demons, huh? They didn't just spirit my legs away! Is this really the time to make stupid anime references?
+Thunder50(0)<Speaker>Thunder</Speaker>||:You've watched it?
+()<Speaker>M950A</Speaker>||:I surf the net regularly, okay?!
+Thunder50(0)<Speaker>Thunder</Speaker>||:"Surf the net"...pfft.
+()<Speaker>M950A</Speaker>||:Hey! I'm never gonna say something like that ever again! +...Hold on, I think I've calmed down now.
+()<Speaker>M950A</Speaker>||<BGM>BGM_Empty</BGM>:Thanks, Thunder.
+Thunder50(0)<Speaker>Thunder</Speaker>||:I'm glad to hear it.
+Thunder50(0)<Speaker></Speaker>||:Thunder sits down beside M950A.
+Thunder50(0)<Speaker>M950A</Speaker>||<BGM>BGM_Room</BGM>:Thunder, fill me in on the current situation.
+Thunder50(0)<Speaker></Speaker>||:Thunder sighs.
+Thunder50(0)<Speaker>Thunder</Speaker>||:Putting it simply, we're going to die here.
+Thunder50(0)<Speaker>M950A</Speaker>||:...Don't be so sure yet. Let me think of a solution.
+Thunder50(0)<Speaker>Thunder</Speaker>||:We can't stay here for long. They'll find us soon enough.
+Thunder50(0)<Speaker>M950A</Speaker>||:I understand... If they catch up with us, it won't just be us at stake... even the Commander would... +No, this isn't the time to be discouraged. +Thunder, can you send me your combat records? I'm going to try to simulate different ways to lose our pursuers.
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:Okay.

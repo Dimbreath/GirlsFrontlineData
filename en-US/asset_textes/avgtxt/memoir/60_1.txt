@@ -1,46 +1,46 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||:森林里有三只熊。+它们住在同一个屋檐下，过着与世无争的快乐生活。+直到有一天……
-()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:……格里芬指挥室。
-()<Speaker>指挥官</Speaker>||<BGM>BGM_Sunshine</BGM>:老实说，我很吃惊。
-ASVAL(0)<Speaker>AS Val</Speaker>||:是好的方面还是坏的方面呢？
-ASVAL(0)<Speaker>指挥官</Speaker>||:超过了“好”可以评价的范围，单纯地就是“吃惊”吧。+铁血据点的位置，巡逻队的时间与数量，驻守兵力的规模……都能标示得如此精确……+最主要的是，根据心智云图的记录来看，你们几个在这次行动中一枪也没有开。
-ASVAL(0);AK74U(0)<Speaker>AK74U</Speaker>||:这样不是挺好吗？我们帮BOSS省下了子弹钱呢。
-ASVAL(0);9A91(0)<Speaker>9A91</Speaker>||:主要还是走位巧妙，避开了各种危险，多亏了巨浪。
-ASVAL(0)<Speaker>AS Val</Speaker>;9A91(0)||:因为指挥官给我们的任务是“侦查敌人，平安归来”……所以我照着做了。
-ASVAL(0)<Speaker>指挥官</Speaker>||:这可不是想做就能做到的简单事，你到底是怎么办到的？
-ASVAL(0)<Speaker>AS Val</Speaker>||:大概是……多亏了有小熊在吧。
-ASVAL(0)<Speaker>指挥官</Speaker>||:这样吗……我觉得你可以更有自信一点，明明拥有这么出色的实力。+明天就要发动作战，老实说在如此仓促的时间条件限制下，我对临时拼凑的侦查队本来是没有抱持太大期望的。+但是你们不但没有惊动铁血，还带回了这些情报……+你们的行动，对接下来减少格里芬跟军方的损失会起到很大帮助。
-AK74U(0)<Speaker>AK74U</Speaker>||:所以除了夸奖，还有什么实质性的奖励吗？+加薪？还是BOSS请客吃饭？或者两个都有？
-AK74U(0)<Speaker>指挥官</Speaker>||:哈哈……虽然没办法马上兑现，但是忙完以后请你们大吃一餐还是没问题的。+先把这次作战完成再说吧，顺利的话，也许可以一口气将与铁血的战斗划上句号。
-9A91(0)<Speaker>9A91</Speaker>||:开始啦，指挥官又在画大饼了。
-9A91(0)<Speaker>指挥官</Speaker>||:可不只是画大饼哦，这次是真正的决战。+你们可以先回去养精蓄锐，这场作战需要格里芬的所有人形参与其中，你们也不例外。
-AK74U(0)<Speaker>AK74U</Speaker>||:刚才指挥官说的话我已经录音了。+不管铁血最后怎么样，BOSS请的这顿饭绝对是不能错过的……对吧，巨浪？+没听到吗？Val？+这可是你的功劳哦，你来决定上哪里吃吧。挑家贵点的，没吃过的！
-ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:与其说是我的功劳……
-ASVAL(0);AK74U(0)<Speaker>AK74U</Speaker>||:就算你不想吃顿好的，至少也该算上小熊那一份吧。
-ASVAL(0)<Speaker>AS Val</Speaker>||<黑屏1>:小熊吗……+但是我……
-()||<BIN>9</BIN>:……
-()||<黑屏2><BGM>BGM_Empty</BGM><黑屏1>:在那之后，我们经历了比想象中要严酷太多的战争。+然而我并没有想过，从战场上成功归还的那一刻，也不过只是下一场灾难的开始……
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2>:旋翼拍击空气、涡轮发动机运转的噪音不绝于耳。
-()||<BGM>BGM_Sneak</BGM>:在这之中，夹杂着几乎被盖住的微弱呢喃。
-ASVAL(0)<Speaker>AS Val</Speaker>||:我真的有帮上忙吗……？
-AK74U(0)<Speaker>AK74U</Speaker>||:怎么了，突然开始嘀嘀咕咕的。+平常的巨浪可不会这么多话吧！
-9A91(0)<Speaker>9A91</Speaker>||:又在担心些无谓的事情了吧，毕竟巨浪是我们三个之中唯一一个从头到尾固守机场没直接参战的。+我认为，不必冒险是件好事。+之前我被包围的时候，甚至绝望到想在日记里留下遗书了呢……你没有留下这种体验是很幸运的。
-ASVAL(0)<Speaker>AS Val</Speaker>||:……我只是想起了指挥官先前所说的话，还有当时大家气势十足的场面。+再看看现在……只能狼狈不堪的撤离……+那个时候如果我能多得到一些情报……是不是就不会有那么多人受伤了？
-AK74U(0)<Speaker>AK74U</Speaker>;ASVAL(0)||:别说这种丧气话，巨浪。+我们只是人形，并不是什么英雄史诗的主角。凭一己之力挽回大局这种事，不是你我力所能及的。+如果真有这种狠角色……就不需要组队同行了，对吧？
-AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:但是……
-AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:说的没错。+专门出鬼点子的AK74U、擅长嗅出危险气味的AS Val，再加上我这个被指挥官仰仗的秘密兵器。+这种攻守走三位一体的完美组合，翻遍格里芬上下也是绝无仅有了。
-AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:真的被指挥官仰仗的话，就不会被派去防守补给线上的偏远碉堡然后被包围了吧？+认清现实啦，我们三个都是坐板凳的备用梯队。能派上用场的时候，战况早就火烧屁股了。
-AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:实不相瞒，要不是指挥官为了救出我这样的秘密兵器，你这种讲话带刺的家伙是搭不上最后一班直升机的。
-AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:啊啊，又来了又来了，三句话不离指挥官。
-AK74U(0)<Speaker>AK74U</Speaker>||:这下9A91心中哪儿还有我的位置呢？格里芬敢死队如果变成常备编制的话该有多好啊。
-()||:一开始，因为插不进AK74U跟9A91间的斗嘴，AS Val只能焦急地注视着她们。+但过了不久，她也意识到她们吵架的真正理由。
-ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>是想要把话题带离令我更加消沉的方向吗？</color>
-ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>……谢谢你们。</color>
-ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>让我除了小熊以外，还有着可以依靠的朋友……</color>
+()||:There were three bears in the forest. +They lived under the same roof, enjoying a peaceful, happy life. +Until one day...
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:...In the Griffin Command Room.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Sunshine</BGM>:Frankly speaking, I'm quite surprised.
+ASVAL(0)<Speaker>AS Val</Speaker>||:Is it the good kind of surprised, or the bad kind?
+ASVAL(0)<Speaker>Commander</Speaker>||:It's gone beyond the realm of "good" or "bad", and now I'm just surprised, period.+You managed to get the S.F. base's location, the number of patrols and their schedule, the size of its defensive garrison...all in such detail... +And most importantly, according to your neural cloud records, you didn't fire a single shot during this operation.
+ASVAL(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Isn't that a good thing? We helped save money on ammo, boss.
+ASVAL(0);9A91(0)<Speaker>9A-91</Speaker>||:The important thing is that our route was well-planned and we managed to avoid many dangers. It's all thanks to AS Val.
+ASVAL(0)<Speaker>AS Val</Speaker>;9A91(0)||:That's because the mission you gave us was to "scout the enemy and return safely"...so that's what I did, Commander.
+ASVAL(0)<Speaker>Commander</Speaker>||:This isn't something simple that you could have done just because you wanted to. What was your secret?
+ASVAL(0)<Speaker>AS Val</Speaker>||:I guess...it's because I had Misha around.
+ASVAL(0)<Speaker>Commander</Speaker>||:Is that so...well, I think you ought to believe in yourself a little more, since you're clearly so skilled.+We're beginning the operation tomorrow. Frankly speaking, given the time constraints, I wasn't expecting much of a recon team that I put together at the last minute.+But not only did you not alert S.F., you brought back all this information too...+Your actions will go a long way toward reducing any upcoming Griffin losses.
+AK74U(0)<Speaker>AK-74U</Speaker>||:So, do we get any concrete reward besides praise?+Like say, a raise? A meal at your expense? Or how about both?
+AK74U(0)<Speaker>Commander</Speaker>||:Haha...well, I can't pay up right now, but I should be able to treat you all to a good meal after this.+Let's finish this op first. If it goes well, we might be able to put an end to our battles with S.F.
+9A91(0)<Speaker>9A-91</Speaker>||:Here it comes, it's the Commander's wishful thinking again.
+9A91(0)<Speaker>Commander</Speaker>||:It isn't wishful thinking. This really is a decisive battle.+You guys can go get some R&R. We'll need every Doll in Griffin for this operation, and that includes you.
+AK74U(0)<Speaker>AK-74U</Speaker>||:I've already recorded what you said just now, Commander. +I'm not going to forget the meal you promised no matter what happens to S.F., boss...isn't that right, AS Val?+Did you hear that? Val?+This is all thanks to your hard work, so you get to pick where to eat. Choose somewhere expensive that you haven't been to before!
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:It wasn't so much my hard work as...
+ASVAL(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Even if you don't want a good meal, you should at least give Misha a share of it.
+ASVAL(0)<Speaker>AS Val</Speaker>||<黑屏1>:Misha, huh...+But I...
+()||<BIN>9</BIN>:...
+()||<黑屏2><BGM>BGM_Empty</BGM><黑屏1>:After that, we fought in a battle that was far tougher than we imagined. +However, I never thought the moment of our triumphant return would be the beginning of the next disaster...
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2>:Rotor blades churn the air, and the noise of the turboprop is deafening.
+()||<BGM>BGM_Sneak</BGM>:It nearly drowns out a voice mumbling quietly to itself.
+ASVAL(0)<Speaker>AS Val</Speaker>||:Did I really help out?
+AK74U(0)<Speaker>AK-74U</Speaker>||:What's the matter, why are you muttering all of a sudden?+You aren't this talkative normally!
+9A91(0)<Speaker>9A-91</Speaker>||:She's probably worrying about needless things again. After all, AS Val's the only one of us who didn't take part in direct combat, since she was guarding the helipad throughout the mission.+If you ask me, not having to take risks is a good thing.+When I was surrounded back then, I was so filled with despair I even left a will in my diary... You're lucky you didn't have to go through that sort of thing.
+ASVAL(0)<Speaker>AS Val</Speaker>||:...I was just thinking about what the Commander said earlier, and how pumped up we all were back then.+But look at us now... All we can do is retreat pathetically...+If I had obtained more intel back then...wouldn't that mean fewer people would have gotten hurt?
+AK74U(0)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Don't be so hard on yourself, AS Val.+We're just Dolls, not characters in some heroic epic. Neither you nor I could have salvaged the situation by ourselves.+And if there really was someone as badass as that...well, they wouldn't need a team now, would they?
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:But...
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:You're right.+AK-74U excels at coming up with devilish little schemes, AS Val excels in sniffing out danger, and then there's me, the one who the Commander relies on as a secret weapon.+There's nobody in Griffin who can match our perfect trifecta of attack, defense and mobility.
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:If the Commander really relied on you that much, you wouldn't have gotten surrounded after you were sent to defend a supply line at a distant bunker, right? +Face it, the three of us are just benchwarmers. We're a backup team. The situation's got to be pretty desperate if they deploy us into battle.
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:Let's not lie to each other here, someone with a barbed tongue like yours would never have gotten on the last chopper if it wasn't because the Commander wanted to save a secret weapon like me.
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:Ahh, there she goes again, every other word she says is "Commander". 
+AK74U(0)<Speaker>AK-74U</Speaker>||:Do you still have room in your heart for me, 9A-91? If only the Griffin Expendables were a proper team.
+()||:At first, AS Val watches AK-74U and 9A-91 anxiously, afraid of cutting into their argument.+But before long, she realizes the real reason why they're bickering.
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>Were they trying to steer the conversation away from a direction that would make me more depressed?</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>...Spasibo.</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>Thank you for being my most reliable friends besides Misha...</color>
 ()||:
-()||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM><黑屏1>:……轰！
-()||<BIN>9</BIN><BGM>BGM_Danger</BGM>:剧烈的冲击传遍了整架直升机，机舱内的人形被甩得贴在墙上甚至天花板上。+人形的尖叫声、呼啸的风声、疯狂鸣叫的电子警告音响声汇集成恐怖的合奏。
-AK74U(0)<Speaker>AK74U</Speaker><Shake>||:怎、怎么回事？
-9A91(0)<Speaker>9A91</Speaker>||:我们正在下坠！抓紧扶手！别放开！
-ASVAL(0)<Speaker>AS Val</Speaker><Shake>||<黑屏1>:……！！
-()||<黑屏1>:如果世界马上就要毁灭，最后一刻会想要抓在手边的东西是什么呢？+最后剩下几秒钟的混乱里，AS Val没有其他选择。
+()||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM><黑屏1>:...BOOM!
+()||<BIN>9</BIN><BGM>BGM_Danger</BGM>:A tremendous impact rocks the chopper, and the Dolls inside the cabin are thrown all over the walls and even the ceiling.+The screams of the Dolls, the rushing of the wind, and the screeching of the electronic alarm combine into a terrifying symphony.
+AK74U(0)<Speaker>AK-74U</Speaker><Shake>||:What, what the hell just happened?
+9A91(0)<Speaker>9A-91</Speaker>||:We're falling! Hold on to something! Don't let go!
+ASVAL(0)<Speaker>AS Val</Speaker><Shake>||<黑屏1>:...!!!
+()||<黑屏1>:If the world was about to be destroyed, what would be the one thing you would want to have on hand in your final moments? +In these last few seconds of chaos, AS Val has no other choice.
