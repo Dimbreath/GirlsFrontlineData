@@ -33,5 +33,11 @@ local RefreshUI = function(self)
 	end
 end
 
+local SwitchAbovePanel = function(self,show)
+	self:SwitchAbovePanel(show);
+	self.goAbove.transform:SetAsLastSibling();
+end
+
 util.hotfix_ex(CS.DeploymentUIController,'CheckLayer',CheckLayer)
 util.hotfix_ex(CS.DeploymentUIController,'RefreshUI',RefreshUI)
+util.hotfix_ex(CS.DeploymentUIController,'SwitchAbovePanel',SwitchAbovePanel)

@@ -12,4 +12,10 @@ local RequestMissionCombinationHandle = function(self,data)
 		end
 	end
 end
+
+local ShowShade = function(self,play)
+	self:ShowShade(play);
+	CS.DeploymentController.TriggerRefreshUIEvent();
+end
 util.hotfix_ex(CS.DeploymentBackgroundController,'RequestMissionCombinationHandle',RequestMissionCombinationHandle)
+util.hotfix_ex(CS.DeploymentBackgroundController,'ShowShade',ShowShade)

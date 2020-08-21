@@ -36,6 +36,13 @@ local CheckPathLine = function(self,play)
 	end
 end
 
+local Init = function(self)
+	self:Init();
+	if self.spotAction ~= nil then
+		self.spotAction.enemyTeamId = 0;		
+	end
+end
 util.hotfix_ex(CS.DeploymentSpotController,'ShowCommonEffect',ShowCommonEffect)
 util.hotfix_ex(CS.DeploymentSpotController,'UpdateColor',UpdateColor)
 util.hotfix_ex(CS.DeploymentSpotController,'CheckPathLine',CheckPathLine)
+util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)

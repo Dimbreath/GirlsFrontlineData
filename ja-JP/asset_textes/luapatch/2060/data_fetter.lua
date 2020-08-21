@@ -1,5 +1,7 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.Data)
+xlua.private_accessible(CS.FetterStoryTaskList)
+xlua.private_accessible(CS.FetterStoryMilestone)
 
 function FetterGetGunOrgId(id)
 	if id > 20000 then
@@ -20,6 +22,7 @@ end
 local FetterActorIsCollect_New = function(actorType, id)
 	if actorType == CS.FetterActorType.gun then
 		--CS.NDebug.LogError("FetterActorIsCollect_New:gun")
+
 		if CS.GameData.userInfo.dctGunCollect:ContainsKey(FetterGetGunOrgId(id)) or CS.GameData.userInfo.dctGunCollect:ContainsKey(FetterGetGunModId(id)) then
 			return true
 		else
@@ -88,20 +91,23 @@ local IsSoulBound_New = function(actorType, id)
 	end
 end
 
--- local UpdateBadge_New = function(self)
--- 	if self.type == CS.Badge.BadgeType.ExistIllusOrgMapAward then
--- 	 	if self.transform.gameObject.activeInHierarchy then
--- 			CS.NDebug.LogError("UpdateBadge_New")
--- 			local isActive = CS.GameFunctionSwitch.GetGameFunctionOpen(CS.GameFunctionSwitch.GameFunction.org_map) and CS.OrganizationMapController.GetOrganizationCanRewardDeps().Count > 0
--- 			self.GoBadge:SetActive(isActive)
--- 			self.isActive = isActive
--- 		end
--- 	else
--- 		self:UpdateBadge()
--- 	end
--- end
+local OnTaskBtnClicke_New = function(self)
+	CS.FetterStoryTaskList.Open("UGUIPrefabs/Fetter/FetterTaskList")
+	CS.FetterStoryTaskList.Instance.bountyLayout:SetActive(false)	
+	CS.FetterStoryTaskList.Instance.btnReceiveAll.gameObject:SetActive(false)		
+	CS.FetterStoryTaskList.Instance:Invoke("InitData", 0.05)
+end
+
+local OnBtnDoneClick_New = function(self)
+	CS.FetterStoryTaskList.Open("UGUIPrefabs/Fetter/FetterTaskList")
+	CS.FetterStoryTaskList.Instance:InitBountys()
+	CS.FetterStoryTaskList.Instance:OnlyShowReward();
+end
+
 
 util.hotfix_ex(CS.Data,'FetterActorIsCollect',FetterActorIsCollect_New)
 util.hotfix_ex(CS.Data,'GetFetterActorLevel',GetFetterActorLevel_New)
 util.hotfix_ex(CS.Data,'GetFetterActorFavor',GetFetterActorFavor_New)
 util.hotfix_ex(CS.Data,'IsSoulBound',IsSoulBound_New)
+util.hotfix_ex(CS.FetterStoryMilestone,'OnTaskBtnClicke',OnTaskBtnClicke_New)
+util.hotfix_ex(CS.FetterStoryMilestone,'OnBtnDoneClick',OnBtnDoneClick_New)

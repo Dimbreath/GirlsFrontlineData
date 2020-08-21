@@ -8,5 +8,21 @@ local GetItem_New = function(item)
 	end
 end
 
+local skillBelong_New = function(self)
+	if self.belong == CS.Belong.neutral then
+		return 3;
+	elseif self.belong == CS.Belong.friendly then
+		return 1;
+	elseif self.belong == CS.Belong.enemy then
+		return 2;
+	elseif self.belong == CS.Belong.hide then
+		return 99;
+	elseif self.belong == CS.Belong.ingore then
+		return 100;
+	else
+		return 0;
+	end
+end
 
 util.hotfix_ex(CS.GameData,'GetItem',GetItem_New)
+util.hotfix_ex(CS.SpotAction,'get_skillBelong',skillBelong_New)
