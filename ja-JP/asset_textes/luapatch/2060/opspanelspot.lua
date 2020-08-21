@@ -15,7 +15,7 @@ local Show = function(self,play,delay)
 		end
 		CS.OPSPanelController.Instance:RefreshUI();
 		if CS.OPSPanelController.Instance.background3d ~= nil then
-			local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-700*CS.OPSPanelController.difficulty);
+			local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 			CS.OPSPanelController.Instance.background3d.transform:DOLocalMove(pos,0.5);
 		end
 		delay = delay + 0.5;

@@ -6,22 +6,25 @@ local Hide = function(self)
 end
 
 local ShowEnemyFormation = function(self,currentSpot)
-	if currentSpot.currentTeam == nil then
-		return;
-	end
-	self.gameObject:SetActive(true);
-	local moniSpotAction = CS.SpotAction();
-	moniSpotAction.spotInfo = currentSpot.spotInfo;
-	if currentSpot.currentTeam.allyTeam ~= nil then
-		moniSpotAction.enemyTeamId = currentSpot.currentTeam.allyTeam.EnemyTeamId;
-	elseif currentSpot.currentTeam.enemyTeam ~= nil then
-		moniSpotAction.enemyTeamId = currentSpot.currentTeam.enemyTeam.enemyteamId;
-	end
-	CS.GF.Battle.BattleController.InitDeploymentMoniShow(self.showRamImage, moniSpotAction);	
-end
-
-local ShowEnemyFormation = function(self,moniSpotAction)
-	self:ShowEnemyFormation(moniSpotAction);	
+	if currentSpot.transform ~= nil then		
+		if currentSpot.currentTeam == nil then
+			return;
+		end
+		self.gameObject:SetActive(true);
+		local moniSpotAction = CS.SpotAction();
+		moniSpotAction.spotInfo = currentSpot.spotInfo;
+		if currentSpot.currentTeam.allyTeam ~= nil then
+			moniSpotAction.enemyTeamId = currentSpot.currentTeam.allyTeam.EnemyTeamId;
+		end
+		if currentSpot.currentTeam.enemyTeam ~= nil then
+			moniSpotAction.enemyTeamId = currentSpot.currentTeam.enemyTeam.enemyteamId;
+		end
+		print("enemyteamId"..tostring(moniSpotAction.enemyTeamId));
+		CS.GF.Battle.BattleController.InitDeploymentMoniShow(self.showRamImage, moniSpotAction);
+	else
+		self.gameObject:SetActive(true);
+		CS.GF.Battle.BattleController.InitDeploymentMoniShow(self.showRamImage, currentSpot);
+	end		
 end
 
 util.hotfix_ex(CS.DeploymentEnemyFormation,'Hide',Hide)

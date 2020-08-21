@@ -74,4 +74,23 @@ local InitOld = function(self)
 	end
 end
 
+local ShowTarget = function(self,select)
+	self:ShowTarget(select);
+	if select then
+		if not CS.System.String.IsNullOrEmpty(CS.GameData.currentSelectedMissionInfo.win_type) or not CS.System.String.IsNullOrEmpty(CS.GameData.currentSelectedMissionInfo.win_step) then
+			self.goMissionIntroduceNew.gameObject:SetActive(true);
+			if CS.GameData.currentSelectedMissionInfo.missionType == CS.MissionType.normal or CS.GameData.currentSelectedMissionInfo.missionType == CS.MissionType.Emergency then
+				self.goMissionIntroduce.gameObject:SetActive(false);
+			else	
+				self.goMissionIntroduce.gameObject:SetActive(true);
+				self.targetNewParent.gameObject:SetActive(false);
+				self.ConditionNewParent.gameObject:SetActive(true);
+			end
+		else
+			self.goMissionIntroduceNew.gameObject:SetActive(false);
+			self.goMissionIntroduce.gameObject:SetActive(true);	
+		end
+	end
+end
 util.hotfix_ex(CS.DeploymentCampaignExplain,'InitOld',InitOld)
+util.hotfix_ex(CS.DeploymentCampaignExplain,'ShowTarget',ShowTarget)

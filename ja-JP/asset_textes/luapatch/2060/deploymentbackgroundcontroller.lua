@@ -17,5 +17,11 @@ local ShowShade = function(self,play)
 	self:ShowShade(play);
 	CS.DeploymentController.TriggerRefreshUIEvent();
 end
+
+local Init = function(self)
+	self:Init();
+	self.transform:Find("Active"):GetComponent(typeof(CS.UnityEngine.Canvas)).sortingOrder = 100;
+end
 util.hotfix_ex(CS.DeploymentBackgroundController,'RequestMissionCombinationHandle',RequestMissionCombinationHandle)
 util.hotfix_ex(CS.DeploymentBackgroundController,'ShowShade',ShowShade)
+util.hotfix_ex(CS.DeploymentBackgroundController,'Init',Init)

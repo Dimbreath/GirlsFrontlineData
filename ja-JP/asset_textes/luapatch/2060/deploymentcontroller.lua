@@ -96,9 +96,19 @@ local GoBattle = function(self)
 	CS.DeploymentController.TriggerSwitchAbovePanelEvent(true);
 end
 
+local RequestWithDraw = function(self)
+	if self.currentSelectedTeam ~= nil then
+		for i=0,self.currentSelectedTeam.allListBuffAction.Count-1 do
+			self.currentSelectedTeam.allListBuffAction[i]:Clear();
+		end
+	end
+	self:RequestWithDraw();
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
 util.hotfix_ex(CS.DeploymentController,'AnalysisDaySpot',AnalysisDaySpot)
 util.hotfix_ex(CS.DeploymentController,'PlayMoveRecord',PlayMoveRecord)
 util.hotfix_ex(CS.DeploymentController,'GoBattle',GoBattle)
+util.hotfix_ex(CS.DeploymentController,'RequestWithDraw',RequestWithDraw)

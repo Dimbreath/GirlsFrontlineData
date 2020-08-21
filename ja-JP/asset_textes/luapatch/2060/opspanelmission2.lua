@@ -66,7 +66,8 @@ local RefreshUI = function(self)
 			self.transform:Find("Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = tostring(num);
 		end
 		if self.order > 16 and self.order < 20 then
-			local num = (self.order-16)*0.1;
+			local num = (self.order-16);
+			self.transform:Find("Tex_CptNum/Img_Chapter"):GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("AtlasClips2060/abyss");
 			self.transform:Find("Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = tostring(num);
 		end
 	end

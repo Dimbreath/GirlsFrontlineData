@@ -38,6 +38,21 @@ local SwitchAbovePanel = function(self,show)
 	self.goAbove.transform:SetAsLastSibling();
 end
 
+local NoShowMiddleLine = function(self)
+	for i=0,self.currentline.Count-1 do
+		self.currentline[i]:CloseLine();
+		self.useline:Enqueue(self.currentline[i]);
+	end
+	for i=0,self.spots.Count-1 do
+		if self.spots[i].buildAction ~= nil and not self.spots[i].buildAction.buildControl:IsNull() then
+			self.spots[i].buildingAction.buildController:EndTweenKle();
+		end
+	end
+	self.currentline:Clear();
+	self.spots:Clear();
+end
+
 util.hotfix_ex(CS.DeploymentUIController,'CheckLayer',CheckLayer)
 util.hotfix_ex(CS.DeploymentUIController,'RefreshUI',RefreshUI)
 util.hotfix_ex(CS.DeploymentUIController,'SwitchAbovePanel',SwitchAbovePanel)
+util.hotfix_ex(CS.DeploymentUIController,'NoShowMiddleLine',NoShowMiddleLine)

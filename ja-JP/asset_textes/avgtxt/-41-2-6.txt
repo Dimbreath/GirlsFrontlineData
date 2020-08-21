@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>1</BIN><黑屏2><BGM>BGM_Danger</BGM><SE1>Explode</SE1>:轰！
-()||:炮火轰鸣，原本就只剩下空壳的基地眨眼间便被火舌吞没。
+()||:炮火轰鸣，原本就只剩下空壳的基地眨眼间便被烈焰吞没。
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:听得到吗！RO！
 RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>你……赶…离……地……！</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你说什么？+我听不清楚！
@@ -78,7 +78,8 @@ BOSS-9(0)<Speaker>建筑师</Speaker>||:……
 ()<Speaker>建筑师</Speaker>||:真是的……那我不是非得迎战不可了吗？
 ()<Speaker>计量官</Speaker>||:给我……老实一点！
 ()<Speaker>建筑师</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:虽然很遗憾，但是——我拒绝！+枪炮！火焰！来跳舞吧！+来吧！我的骑士小姐！
-BOSS-9(0)<Speaker>建筑师</Speaker>||<BGM>GF_EV9_Story</BGM><黑屏2><BIN>71</BIN>:……居然输了呢。+你变得真厉害呀，骑士小姐。
+()||<黑屏2><BIN>71</BIN>:……
+BOSS-9(0)<Speaker>建筑师</Speaker>||<BGM>GF_EV9_Story</BGM>:……我居然输了呢。+你变得真厉害呀，骑士小姐。
 BOSS-7(0)<Speaker>计量官</Speaker>||:……你这家伙。
 BOSS-9(0)<Speaker>建筑师</Speaker>||:有消气一点吗？
 BOSS-7(0)<Speaker>计量官</Speaker>||:你故意的？

@@ -292,6 +292,14 @@ patch2050={
 }
 patch2060=
 {
+"2060/LocalizationIssues/MissionSelectionDroneTrainSettingController",
+"2060/LocalizationIssues/TargetTrainMultiSettingController",
+"2060/LocalizationIssues/TargetTrainRecordController",
+"2060/LocalizationIssues/TargetTrainSingleSettingController",
+"2060/LocalizationIssues/TargetTrainRecordItem",
+"2060/LocalizationIssues/TargetTrainSettlement",
+"2060/LocalizationIssues/MissionSelectionMissionDetailController",
+"2060/LocalizationIssues/TargetTrainSettlementItem",
 "2060/FormationSettingController",
 "2060/FriendChangeIntroController",
 "2060/SpecialMissionInfoController",
@@ -305,7 +313,12 @@ patch2060=
 "2060/DeploymentEnemyFormation",
 "2060/DeploymentCampaignExplain",
 "2060/DeploymentTeamInfoController",
-"2060/DeploymentTeamController",		
+"2060/DeploymentTeamController",
+"2060/DeploymentAllyTeamController",
+"2060/DeploymentEnemyTeamController",
+"2060/DeploymentRandomEventController",
+"2060/MissionSkillData",
+"2060/ParticleScaler",		
 "2060/MissionData",
 "2060/OPSPanelController",
 "2060/OPSPanelMissionHolder",
@@ -327,6 +340,7 @@ patch2060=
 "2060/Data_Fetter",
 "2060/SangvisFormaionController",
 "2060/GunData",
+"2060/AllyTeamData",	
 "2060/SangvisSkillDescription",
 "2060/CommonSkillDescription",
 "2060/CommonCombatSettlementController",
@@ -350,6 +364,7 @@ patch2060=
 "2060/GunSorter",
 "2060/FormationEchelonEquipmentPresetController",
 "2060/BattleCharacterController",
+"2060/BattleSangvisResultController",
 "2060/EquipmentPresetController",
 "2060/RankingListUIController",
 "2060/TargetTrainSettlement",
@@ -360,6 +375,7 @@ patch2060=
 "2060/CommonEquipmentListFloatingPanel",
 "2060/ImageBufferBlurRefraction",	
 "2060/SangvisSimulatorFormation",
+"2060/SangvisGashaResultItemController",
 }
 --[[
 -- va11

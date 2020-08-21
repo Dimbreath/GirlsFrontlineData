@@ -73,7 +73,7 @@ local HideAllLabel = function(self)
 	end
 
 	if self.background3d ~= nil then
-		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-700*CS.OPSPanelController.difficulty);
+		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform:DOLocalMove(pos,0.5);
 	end
 end
@@ -94,7 +94,7 @@ end
 local InitBackground = function(self)
 	self:InitBackground();
 	if self.background3d ~= nil then
-		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-700*CS.OPSPanelController.difficulty);
+		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform.localPosition = pos;
 	end
 end
