@@ -5,8 +5,6 @@ xlua.private_accessible(CS.TweenPlay)
 xlua.private_accessible(CS.GF.Battle.BattleController)
 xlua.private_accessible(CS.BattleFieldTeamHolder)
 xlua.private_accessible(CS.DG.Tweening.TweenSettingsExtensions)
-xlua.private_accessible(CS.UnityEngine.Playables.PlayableDirector)
-xlua.private_accessible(CS.UnityEngine.Playables.PlayableAsset)
 local GunPartsData = {}
 local GunAssemblyData = {}
 
@@ -37,8 +35,6 @@ local btnContinue = nil
 
 local inited = false
 local waitAnimation = false
-local tempDirector
-local reverseDirector = false
 local waitAnimationCountdown = 0
 local waitAnimationCountdownTimer = 0
 local isPreviewing = true
@@ -280,21 +276,7 @@ Update = function()
 					PlaySFX("CountdownCancel")
 					EndAssembly()
 				end
-				if tempDirector == nil then
-					
-				else
-					if reverseDirector then
-						local time = tempDirector.time - CS.UnityEngine.Time.deltaTime
-						if time < 0 then 
-							time = 0
-						end
-						tempDirector.time = time
-						tempDirector:DeferredEvaluate()
-						if tempDirector.time <= 0 then
-							reverseDirector = false
-						end
-					end
-				end
+				
 				if waitAnimation then
 					waitAnimationCountdownTimer = waitAnimationCountdownTimer + CS.UnityEngine.Time.deltaTime
 					if waitAnimationCountdownTimer > waitAnimationCountdown then
@@ -572,29 +554,6 @@ function AddGunParts(id)
 	end
 	CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject+1] = AssemblyGunPartsObject
 	LastGunPartsAssemblyObject = CurrentGunPartsAssemblyObject[#CurrentGunPartsAssemblyObject]
-	local director = CurGunPartsAssemblyFull.gameObject:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))
-	
-	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable == nil then
-	
-	else
-		if director ~= nil then
-			--print('director: '..tostring(director));
-			--print(director.time);
-			--print(CS.UnityEngine.Playables.DirectorUpdateMode.GameTime);
-			director:Play(playable);
-			--print(director['timeUpdateMode']);
-			--director['timeUpdateMode'] = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime;
-			--print(director['timeUpdateMode']);
-			--director['playableAsset'] = nil;
-			--print(director['playableAsset']);
-		end
-		--local playableObject = CS.UnityEngine.Object.Instantiate(playable)
-		--director.playableAsset = CS.UnityEngine.Object.Instantiate(playable)
-		--director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime	
-		reverseDirector = false
-		--director:Play(playableObject)
-	end
 	waitAnimation = true
 	waitAnimationCountdown = data.waitTime + 0.1
 	--local tweenplays = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
@@ -701,7 +660,7 @@ function CheckAssemblyGunComplete()
 	else
 		btnBack.gameObject:SetActive(true)
 	end
-
+	
 	PlaySFX("CountdownCancel")
 	PlaySFX("success")
 	isCountingTime = false
@@ -759,9 +718,14 @@ function ReturnLastGunParts()
 	--	DoTweenFade(eximages[i])
 	--end
 	local data = GetGunPartsDataById(lastGunPartsID)
-	local director = CurGunPartsAssemblyFull.gameObject:GetComponent(typeof(CS.UnityEngine.Playables.PlayableDirector))	
-	local playable = CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable")
-	if playable == nil then
+	local tweenUndo = true
+	local UndoGO = CurGunPartsAssemblyFull.transform:Find("Undo_"..AssemblyGunPartsObject.name)
+	if UndoGO == nil then
+		tweenUndo = true
+	else
+		tweenUndo = false
+	end
+	if tweenUndo then
 		local tweens = AssemblyGunPartsObject:GetComponents(typeof(CS.TweenPlay))
 		for i=0,tweens.Length-1 do
 			if tweens[i].currentTweenMode == CS.TweenPlay.TweenMode.Rotation then
@@ -796,28 +760,9 @@ function ReturnLastGunParts()
 		end
 		
 	else
-		AssemblyGunPartsObject:SetActive(false)
-		local AssemblyGunPartsObjectShadow = CurGunPartsAssemblyFull.transform:Find("Shadow"):Find(AssemblyGunPartsObject.name)
-		AssemblyGunPartsObjectShadow.gameObject:SetActive(false)
-		--if director ~= nil then
-			--print('director: '..tostring(director));
-			--print(director.time);
-			--print(CS.UnityEngine.Playables.DirectorUpdateMode.GameTime);
-			--director:Play(playable);
-			--print(director['timeUpdateMode']);
-			--director['timeUpdateMode'] = CS.UnityEngine.Playables.DirectorUpdateMode.GameTime;
-			--print(director['timeUpdateMode']);
-			--director['playableAsset'] = nil;
-			--print(director['playableAsset']);
-		--end
-		--local playableObject = CS.UnityEngine.Object.Instantiate(playable)
-		--director.playableAsset = CS.UnityEngine.Object.Instantiate(CS.ResManager.GetObjectByPath("Animation/GunslingerGirl/"..data.code,".playable"))
-		--director.timeUpdateMode = CS.UnityEngine.Playables.DirectorUpdateMode.Manual
-		--director:Play(playableObject)
-		--director:Stop()
-		--director.time = director.playableAsset.duration
-		--reverseDirector = true
-		--tempDirector = director
+		UndoGO.gameObject:SetActive(false)
+		UndoGO.gameObject:SetActive(true)
+		--AssemblyGunPartsObject:SetActive(false)
 		
 	end
 	table.remove(CurrentGunPartsAssemblyObject)
@@ -829,7 +774,9 @@ function ReturnLastGunParts()
 	if #AssemblyGunPartsIDList > 0 then
 		lastGunPartsID =AssemblyGunPartsIDList[#AssemblyGunPartsIDList]
 	end
-end
+	
+end	
+
 function CheckAbleAssembly()
 	
 	CurrentAssemblyCount = CurrentAssemblyCount + 1
@@ -1099,28 +1046,8 @@ function GetShownNum(num)
 		return "Dieci"
 	end
 end
-function PlayBottleEffect(num)
-	BottleEff:SetActive(false)
-	BottleEff:GetComponent("ExImage").color = AlcoholColorProgress[num]
-	BottleEff:SetActive(true)
-end
-function PlayResultAnim(isSuccess)
-	if isSuccess then
-		Tex_Result:GetComponent("ExText").text = GetName(230135)
-	else
-		Tex_Result:GetComponent("ExText").text = GetName(230136)
-	end
-	Tex_Result:SetActive(false)
-	Tex_Result:GetComponent("ExText").color = AlcoholColorProgress[10]
-	Tex_Result:SetActive(true)
-end
+
 function GetName(NameID)
 	return CS.Data.GetLang((NameID))
 end
-function GetIcon(iconCode)
-	for i=0,ListSpriteWinePic.Count-1 do
-		if ListSpriteWinePic[i].name == iconCode then
-			return ListSpriteWinePic[i]
-		end
-	end
-end
+

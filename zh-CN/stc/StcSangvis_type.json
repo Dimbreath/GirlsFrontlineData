@@ -19,7 +19,7 @@
         "default_advance_lv": 3,
         "exchange_num": "512:100",
         "repair_cost": 1,
-        "trans_num": "-1.0",
+        "trans_num": "-1,-1",
         "skills_max_lv": "10,10,5,5"
     },
     {
@@ -42,7 +42,7 @@
         "default_advance_lv": 2,
         "exchange_num": "512:10",
         "repair_cost": 1,
-        "trans_num": "606:50",
+        "trans_num": "606:50,606:50",
         "skills_max_lv": "0,0,5,5"
     },
     {
@@ -65,7 +65,7 @@
         "default_advance_lv": 1,
         "exchange_num": "513:100",
         "repair_cost": 1,
-        "trans_num": "606:50",
+        "trans_num": "606:50,606:50",
         "skills_max_lv": "0,0,0,5"
     }
 ]

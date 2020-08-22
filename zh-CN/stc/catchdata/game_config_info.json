@@ -9,7 +9,7 @@
         {
             "parameter_name": "achievement_type_sort",
             "parameter_type": "string",
-            "parameter_value": "1:35023,2:35024,3:1420,4:35025,5:35026,6:35027,7:35028,8:35029,9:1421,10:35030,11:35031,12:35032,13:35049,14:35050,15:35080,100:35041",
+            "parameter_value": "1:35023,2:35024,3:1420,4:35025,5:35026,6:35027,7:35028,8:35029,9:1421,10:35030,11:35031,12:35032,13:35049,14:35050,15:35080,16:35107,100:35041",
             "client_require": "1"
         },
         {
@@ -21,7 +21,7 @@
         {
             "parameter_name": "activity_rank_end_showtime",
             "parameter_type": "int",
-            "parameter_value": "1593705599",
+            "parameter_value": "1602727200",
             "client_require": "1"
         },
         {
@@ -33,7 +33,7 @@
         {
             "parameter_name": "activity_rank_mission_id",
             "parameter_type": "int",
-            "parameter_value": "10508",
+            "parameter_value": "10520",
             "client_require": "1"
         },
         {
@@ -136,6 +136,12 @@
             "parameter_name": "attack_effect_sg",
             "parameter_type": "string",
             "parameter_value": "6,1.5,23,8,50,3,3,1.5,0.5",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "auto_formation_sangvis_effect_M",
+            "parameter_type": "string",
+            "parameter_value": "2300,61,1661,253,126,7,4,2,2",
             "client_require": "1"
         },
         {
@@ -469,6 +475,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "equipgroup_isshow",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "equip_attr",
             "parameter_type": "string",
             "parameter_value": "pow,hit,dodge,speed,rate,critical_harm_rate,critical_percent,armor_piercing,armor,shield,damage_amplify,damage_reduction,night_view_percent,bullet_number_up",
@@ -526,6 +538,18 @@
             "parameter_name": "equip_type_count",
             "parameter_type": "string",
             "parameter_value": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "equip_type_produce_cost_item",
+            "parameter_type": "int",
+            "parameter_value": "517",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "equip_type_produce_limit",
+            "parameter_type": "int",
+            "parameter_value": "20",
             "client_require": "1"
         },
         {
@@ -922,6 +946,12 @@
             "parameter_name": "furniture_coin_toplimit",
             "parameter_type": "int",
             "parameter_value": "300000",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "gasha_rates_provision",
+            "parameter_type": "string",
+            "parameter_value": "1:170002,2:170003,3:170004,4:170005",
             "client_require": "1"
         },
         {
@@ -1783,6 +1813,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "sangvis_is_nonboss_adjutant",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "sangvis_lv_max",
             "parameter_type": "int",
             "parameter_value": "100",
@@ -2265,7 +2301,7 @@
         {
             "parameter_name": "squad_type_classify",
             "parameter_type": "string",
-            "parameter_value": "1:1,2,3|2:4,5|3:",
+            "parameter_value": "1:1,2,3|2:4,5|3:102",
             "client_require": "1"
         },
         {
@@ -2305,6 +2341,18 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "targettrain_battle_timelimit",
+            "parameter_type": "int",
+            "parameter_value": "300",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "targettrain_logmail_num",
+            "parameter_type": "int",
+            "parameter_value": "20",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "theater_adaptive_coef",
             "parameter_type": "string",
             "parameter_value": "500,3",
@@ -2326,6 +2374,12 @@
             "parameter_name": "theater_defeated_coef",
             "parameter_type": "int",
             "parameter_value": "60",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "theater_sangvis_switch",
+            "parameter_type": "int",
+            "parameter_value": "0",
             "client_require": "1"
         },
         {
