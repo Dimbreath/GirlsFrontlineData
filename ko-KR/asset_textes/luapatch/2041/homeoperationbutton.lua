@@ -28,7 +28,7 @@ local OnClick = function(self)
 			local stamp = CS.GameData.GetCurrentTimeStamp()
 			local theaterEventInfoList = CS.GameData.listTheaterEventInfo
 			for i=0,theaterEventInfoList.Count-1 do
-				local theaterEventInfo = theaterEventInfoList[i]
+				local theaterEventInfo = theaterEventInfoList:GetDataByIndex(i)
 				if theaterEventInfo.start_time <= stamp and stamp <= theaterEventInfo.close_time then
 					CS.CommonController.MessageBox(CS.Data.GetLang(210162))
 				end
@@ -41,7 +41,7 @@ local CheckTheaterEvent = function(self)
 		local stamp = CS.GameData.GetCurrentTimeStamp()
 		local theaterEventInfoList = CS.GameData.listTheaterEventInfo
 		for i=0,theaterEventInfoList.Count-1 do
-			local theaterEventInfo = theaterEventInfoList[i]
+			local theaterEventInfo = theaterEventInfoList:GetDataByIndex(i)
 			if theaterEventInfo.start_time <= stamp and stamp <= theaterEventInfo.close_time and theaterEventInfo:isOpenTime(stamp) then
 				return true
 			end

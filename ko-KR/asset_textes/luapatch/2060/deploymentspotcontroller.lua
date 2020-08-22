@@ -1,0 +1,68 @@
+local util = require 'xlua.util'
+xlua.private_accessible(CS.DeploymentSpotController)
+
+local ShowCommonEffect = function(self)
+	if self.effect == nil then
+		self:ShowCommonEffect();
+	end
+	if self.effect ~= nil then
+		for i=0,self.effect.transform.childCount-1 do
+			self.effect.transform:GetChild(i).gameObject:SetActive(true);
+		end
+	end
+end
+
+local UpdateColor = function(self,targetBelong,play)
+	self:UpdateColor(targetBelong,play);
+	if self.buildControl ~= nil then
+		if self:HasFriendlyTeam() then
+			self.buildControl.gameObject:SetActive(true);
+		else
+			self.buildControl.gameObject:SetActive(not self.CannotSee);
+		end
+	end
+	if self.effect ~= nil then
+		if self:HasFriendlyTeam() then
+			self.effect.gameObject:SetActive(true);
+		else
+			self.effect.gameObject:SetActive(not self.CannotSee);
+		end	
+	end
+	--self:CheckBuild();
+end
+
+local CheckPathLine = function(self,play)
+	if not self.packageIgnore then
+		self:CheckPathLine(play);
+	end
+end
+
+local Init = function(self)
+	self:Init();
+	if self.spotAction ~= nil then
+		self.spotAction.enemyTeamId = 0;		
+	end
+end
+
+local CheckBuild = function(self)
+	self:CheckBuild();
+	if self.buildControl ~= nil then
+		self.buildControl:Init();
+	end
+end
+
+local currentmaplistRoute = function(self)
+	self.maproute:Clear();
+	for i=0, self.maplistRoute.Count-1 do
+		if not self.maplistRoute[i].BelongIgnore or not self.maplistRoute[i].packageIgnore then
+			self.maproute:Add(self.maplistRoute[i]);
+		end
+	end
+	return self.maproute;
+end
+util.hotfix_ex(CS.DeploymentSpotController,'ShowCommonEffect',ShowCommonEffect)
+util.hotfix_ex(CS.DeploymentSpotController,'UpdateColor',UpdateColor)
+util.hotfix_ex(CS.DeploymentSpotController,'CheckPathLine',CheckPathLine)
+util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)
+util.hotfix_ex(CS.DeploymentSpotController,'CheckBuild',CheckBuild)
+util.hotfix_ex(CS.DeploymentSpotController,'get_currentmaplistRoute',currentmaplistRoute)

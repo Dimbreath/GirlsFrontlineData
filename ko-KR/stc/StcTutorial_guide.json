@@ -16,7 +16,7 @@
         "title": "tutorial_guide-10000101",
         "title_code": "",
         "sub_title": "tutorial_guide-20000101",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 202,
         "rank": 5
     },
     {
@@ -26,7 +26,7 @@
         "title": "tutorial_guide-10000102",
         "title_code": "",
         "sub_title": "tutorial_guide-20000102",
-        "tutorial_manual_id": 1,
+        "tutorial_manual_id": 203,
         "rank": 5
     },
     {
@@ -36,7 +36,7 @@
         "title": "tutorial_guide-10000103",
         "title_code": "",
         "sub_title": "tutorial_guide-20000103",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 204,
         "rank": 5
     },
     {
@@ -46,7 +46,7 @@
         "title": "tutorial_guide-10000104",
         "title_code": "",
         "sub_title": "tutorial_guide-20000104",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 206,
         "rank": 4
     },
     {
@@ -56,8 +56,8 @@
         "title": "tutorial_guide-10000105",
         "title_code": "",
         "sub_title": "tutorial_guide-20000105",
-        "tutorial_manual_id": 0,
-        "rank": 4
+        "tutorial_manual_id": 208,
+        "rank": 3
     },
     {
         "id": 106,
@@ -66,13 +66,13 @@
         "title": "tutorial_guide-10000106",
         "title_code": "",
         "sub_title": "tutorial_guide-20000106",
-        "tutorial_manual_id": 0,
-        "rank": 4
+        "tutorial_manual_id": 1001,
+        "rank": 3
     },
     {
         "id": 200,
         "type": 1,
-        "child_ids": "201,202,203",
+        "child_ids": "201,202",
         "title": "tutorial_guide-10000200",
         "title_code": "guide_basic",
         "sub_title": "tutorial_guide-20000200",
@@ -86,8 +86,8 @@
         "title": "tutorial_guide-10000201",
         "title_code": "",
         "sub_title": "tutorial_guide-20000201",
-        "tutorial_manual_id": 0,
-        "rank": 4
+        "tutorial_manual_id": 303,
+        "rank": 5
     },
     {
         "id": 202,
@@ -96,18 +96,8 @@
         "title": "tutorial_guide-10000202",
         "title_code": "",
         "sub_title": "tutorial_guide-20000202",
-        "tutorial_manual_id": 0,
-        "rank": 5
-    },
-    {
-        "id": 203,
-        "type": 2,
-        "child_ids": "",
-        "title": "tutorial_guide-10000203",
-        "title_code": "",
-        "sub_title": "tutorial_guide-20000203",
-        "tutorial_manual_id": 0,
-        "rank": 5
+        "tutorial_manual_id": 304,
+        "rank": 4
     },
     {
         "id": 300,
@@ -126,7 +116,7 @@
         "title": "tutorial_guide-10000301",
         "title_code": "",
         "sub_title": "tutorial_guide-20000301",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 402,
         "rank": 5
     },
     {
@@ -136,7 +126,7 @@
         "title": "tutorial_guide-10000302",
         "title_code": "",
         "sub_title": "tutorial_guide-20000302",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 709,
         "rank": 4
     },
     {
@@ -156,7 +146,7 @@
         "title": "tutorial_guide-10000401",
         "title_code": "",
         "sub_title": "tutorial_guide-20000401",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 212,
         "rank": 5
     },
     {
@@ -166,7 +156,7 @@
         "title": "tutorial_guide-10000402",
         "title_code": "",
         "sub_title": "tutorial_guide-20000402",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 501,
         "rank": 5
     },
     {
@@ -176,13 +166,13 @@
         "title": "tutorial_guide-10000403",
         "title_code": "",
         "sub_title": "tutorial_guide-20000403",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 503,
         "rank": 4
     },
     {
         "id": 500,
         "type": 1,
-        "child_ids": "501,502",
+        "child_ids": "501,502,503,504",
         "title": "tutorial_guide-10000500",
         "title_code": "guide_skin",
         "sub_title": "tutorial_guide-20000500",
@@ -196,8 +186,8 @@
         "title": "tutorial_guide-10000501",
         "title_code": "",
         "sub_title": "tutorial_guide-20000501",
-        "tutorial_manual_id": 0,
-        "rank": 5
+        "tutorial_manual_id": 1103,
+        "rank": 4
     },
     {
         "id": 502,
@@ -206,8 +196,28 @@
         "title": "tutorial_guide-10000502",
         "title_code": "",
         "sub_title": "tutorial_guide-20000502",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 1102,
+        "rank": 5
+    },
+    {
+        "id": 503,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_guide-10000503",
+        "title_code": "",
+        "sub_title": "tutorial_guide-20000503",
+        "tutorial_manual_id": 1104,
         "rank": 4
+    },
+    {
+        "id": 504,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_guide-10000504",
+        "title_code": "",
+        "sub_title": "tutorial_guide-20000504",
+        "tutorial_manual_id": 1601,
+        "rank": 3
     },
     {
         "id": 600,
@@ -226,13 +236,13 @@
         "title": "tutorial_guide-10000601",
         "title_code": "",
         "sub_title": "tutorial_guide-20000601",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 1501,
         "rank": 5
     },
     {
         "id": 700,
         "type": 1,
-        "child_ids": "701,702",
+        "child_ids": "701,702,703",
         "title": "tutorial_guide-10000700",
         "title_code": "guide_casual",
         "sub_title": "tutorial_guide-20000700",
@@ -246,7 +256,7 @@
         "title": "tutorial_guide-10000701",
         "title_code": "",
         "sub_title": "tutorial_guide-20000701",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 604,
         "rank": 5
     },
     {
@@ -256,7 +266,17 @@
         "title": "tutorial_guide-10000702",
         "title_code": "",
         "sub_title": "tutorial_guide-20000702",
-        "tutorial_manual_id": 0,
+        "tutorial_manual_id": 603,
+        "rank": 4
+    },
+    {
+        "id": 703,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_guide-10000703",
+        "title_code": "",
+        "sub_title": "tutorial_guide-20000703",
+        "tutorial_manual_id": 1701,
         "rank": 5
     }
 ]
