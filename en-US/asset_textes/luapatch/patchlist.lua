@@ -384,6 +384,7 @@ patch2060=
 "2060/SangvisGashaResultItemController",
 "2060/CommonConnectionLogController",
 "2060/SangvisNormalCaptureController",
+"2060/Request",
 }
 --[[
 -- va11

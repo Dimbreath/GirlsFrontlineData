@@ -30,7 +30,7 @@ end
 
 local InitDeployment = function(self)
 	self:InitDeployment();
-	self.enabled = true;
+	self.enabled = false;
 end
 util.hotfix_ex(CS.DeploymentPlanModeController,'OnClickSpotFast',OnClickSpotFast)
 util.hotfix_ex(CS.DeploymentPlanModeController,'getNodeLengthInfo',getNodeLengthInfo)

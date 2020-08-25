@@ -106,6 +106,21 @@ local RequestWithDraw = function(self)
 	self:RequestWithDraw();
 end
 
+local TriggerFriendTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerFriendTurnEvent();
+end
+
+local TriggerFriendAllyTeamTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerFriendAllyTeamTurnEvent();
+end
+
+local TriggerStartEnemyTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerStartEnemyTurnEvent();
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -113,3 +128,6 @@ util.hotfix_ex(CS.DeploymentController,'AnalysisDaySpot',AnalysisDaySpot)
 util.hotfix_ex(CS.DeploymentController,'PlayMoveRecord',PlayMoveRecord)
 util.hotfix_ex(CS.DeploymentController,'GoBattle',GoBattle)
 util.hotfix_ex(CS.DeploymentController,'RequestWithDraw',RequestWithDraw)
+util.hotfix_ex(CS.DeploymentController,'TriggerFriendTurnEvent',TriggerFriendTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerStartEnemyTurnEvent',TriggerStartEnemyTurnEvent)
