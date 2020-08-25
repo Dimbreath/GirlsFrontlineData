@@ -20,6 +20,14 @@ end
 local MissionInfo_useWinStep = function(self)
 	return  self.currentMissionCombination ~= nil and self.currentMissionCombination.useWinStep and not CS.System.String.IsNullOrEmpty(self.currentMissionCombination.win_step);
 end
+local get_squadLimitTeam = function(self)
+	if self.currentMissionCombination ~= nil and self.currentMissionCombination.uselimitSquad then
+		return self.currentMissionCombination.limitSquad
+	else
+		return self.limit_squad
+	end
+end
 
 util.hotfix_ex(CS.BuildingAction,'get_CanUseActiveMissionSkill',MissionAction_CanUseActiveMissionSkill)
 util.hotfix_ex(CS.MissionInfo,'get_useWinStep',MissionInfo_useWinStep)
+util.hotfix_ex(CS.MissionInfo,'get_squadLimitTeam',get_squadLimitTeam)

@@ -28,6 +28,7 @@ local UpdateColor = function(self,targetBelong,play)
 			self.effect.gameObject:SetActive(not self.CannotSee);
 		end	
 	end
+	--self:CheckBuild();
 end
 
 local CheckPathLine = function(self,play)
@@ -42,7 +43,26 @@ local Init = function(self)
 		self.spotAction.enemyTeamId = 0;		
 	end
 end
+
+local CheckBuild = function(self)
+	self:CheckBuild();
+	if self.buildControl ~= nil then
+		self.buildControl:Init();
+	end
+end
+
+local currentmaplistRoute = function(self)
+	self.maproute:Clear();
+	for i=0, self.maplistRoute.Count-1 do
+		if not self.maplistRoute[i].BelongIgnore or not self.maplistRoute[i].packageIgnore then
+			self.maproute:Add(self.maplistRoute[i]);
+		end
+	end
+	return self.maproute;
+end
 util.hotfix_ex(CS.DeploymentSpotController,'ShowCommonEffect',ShowCommonEffect)
 util.hotfix_ex(CS.DeploymentSpotController,'UpdateColor',UpdateColor)
 util.hotfix_ex(CS.DeploymentSpotController,'CheckPathLine',CheckPathLine)
 util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)
+util.hotfix_ex(CS.DeploymentSpotController,'CheckBuild',CheckBuild)
+util.hotfix_ex(CS.DeploymentSpotController,'get_currentmaplistRoute',currentmaplistRoute)

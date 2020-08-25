@@ -12,4 +12,9 @@ local SetSangvisLeader = function(self,gun)
 	end
 	return ans
 end
+local _SimulatorChangeGunTeam = function(self,selectedGun)
+	self:SimulatorChangeGunTeam(selectedGun);
+	self:UpdateTotalPoint();
+end
 util.hotfix_ex(CS.UISimulatorFormation,'SetSangvisLeader',SetSangvisLeader)
+util.hotfix_ex(CS.UISimulatorFormation,'SimulatorChangeGunTeam',_SimulatorChangeGunTeam)

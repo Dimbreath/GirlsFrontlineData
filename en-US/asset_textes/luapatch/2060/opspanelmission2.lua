@@ -28,7 +28,7 @@ local RefreshUI = function(self)
 		return;
 	end
 	--print(self.order);
-	if self.order == 0 or self.order == 6 then
+	if self.order == 0 or self.order == 6 or (self.order>19 and self.order<24)then
 		for i=0,self.transform.childCount-1 do
 			self.transform:GetChild(i).gameObject:SetActive(false);
 		end
@@ -40,7 +40,8 @@ local RefreshUI = function(self)
 			self.transform:GetChild(i).gameObject:SetActive(false);
 		end
 		self.transform:Find("1").gameObject:SetActive(true);
-		self.transform:Find("1/Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = self.holder.order;
+		local num = self.holder.order-6+0.1;
+		self.transform:Find("1/Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = tostring(num);
 		self.transform:Find("1/Tex_LevelName"):GetComponent(typeof(CS.ExText)).text = self.currentMission.missionInfo.name;
 		self.transform:Find("1/UnlocksProgress").gameObject:SetActive(self.currentMission.clocked);
 		self.transform:Find("1/BattleNode").gameObject:SetActive(CS.GameData.missionAction ~= nil and CS.GameData.missionAction == self.currentMission);
@@ -59,6 +60,15 @@ local RefreshUI = function(self)
 		if self.currentMission ~= nil and not CS.System.String.IsNullOrEmpty(self.currentMission.missionInfo.drop_key_info) then
 			self.clockCheck.gameObject:SetActive(true);
 			self:CheckDropMissionkeyInfo(self.clockText);
+		end
+		if self.order > 11 and self.order < 17 then
+			local num = self.order-11;
+			self.transform:Find("Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = tostring(num);
+		end
+		if self.order > 16 and self.order < 20 then
+			local num = (self.order-16);
+			self.transform:Find("Tex_CptNum/Img_Chapter"):GetComponent(typeof(CS.ExImage)).sprite = CS.CommonController.LoadPngCreateSprite("AtlasClips2060/abyss");
+			self.transform:Find("Tex_CptNum"):GetComponent(typeof(CS.ExText)).text = tostring(num);
 		end
 	end
 end
