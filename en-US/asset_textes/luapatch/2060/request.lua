@@ -22,7 +22,6 @@ local _ResolutionSuccessHandleData = function(self,www)
 					CS.GameData.dictItem[effect].amount=CS.GameData.dictItem[effect].amount+1;
 				end
 			end
-			effect=nil;
 		end
 	end
 	self:SuccessHandleData(www);

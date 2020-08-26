@@ -52,7 +52,18 @@ local NoShowMiddleLine = function(self)
 	self.spots:Clear();
 end
 
+local OnClickButton = function(self,Button)
+	local cache = CS.ConfigData.endTurnConfirmation;
+	if CS.GameData.currentSelectedMissionInfo.useDemoMission then
+		CS.ConfigData.endTurnConfirmation = false;
+	end
+	self:OnClickButton(Button);
+	if CS.GameData.currentSelectedMissionInfo.useDemoMission then
+		CS.ConfigData.endTurnConfirmation = cache;
+	end	
+end
 util.hotfix_ex(CS.DeploymentUIController,'CheckLayer',CheckLayer)
 util.hotfix_ex(CS.DeploymentUIController,'RefreshUI',RefreshUI)
 util.hotfix_ex(CS.DeploymentUIController,'SwitchAbovePanel',SwitchAbovePanel)
 util.hotfix_ex(CS.DeploymentUIController,'NoShowMiddleLine',NoShowMiddleLine)
+util.hotfix_ex(CS.DeploymentUIController,'OnClickButton',OnClickButton)

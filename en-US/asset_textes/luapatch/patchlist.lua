@@ -385,6 +385,8 @@ patch2060=
 "2060/CommonConnectionLogController",
 "2060/SangvisNormalCaptureController",
 "2060/Request",
+"2060/RetireController",
+"2060/CombineController",
 }
 --[[
 -- va11
