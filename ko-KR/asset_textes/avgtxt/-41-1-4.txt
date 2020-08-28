@@ -1,106 +1,106 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>84</BIN><黑屏2><BGM>BGM_Room</BGM>:德国，不莱梅市政府。
-()<Speaker></Speaker>||:黑色的轿车缓缓停泊在了专用的停车位上，秘书打扮的人率先从车上下来，急匆匆地想要替后座的客人打开车门。+但在她行动之前，车上的人已经自己从车内走了出来。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>||:……
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:您之前和这位乌尔里赫主席打过交道吗？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK12(0)<Position>0,85</Position>||:没有，这是第一次见面。+但我听说过她在贝莱格莱德的那些事。+包括和指挥官一同经历的那些。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:您觉得她值得信任吗？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK12(0)<Position>0,85</Position>||:我不会妄下判断，但我们目前能够在这里自由行动，完全是仰仗她为我们亮起的绿灯。+实际如何，要见过才知道。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:原来如此~
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>;AK12(0)<Position>0,85</Position>||:安洁小姐！请这边走！
-NPC-Morridow(0);AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:真是殷勤呢，秘书小姐，这样的工作一定很辛苦吧？
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>||:您说笑了……我很喜欢自己的工作。+能够为乌尔里赫女士奉献一份微不足道的力量，就是我一直以来的理想。+我深信乌尔里赫女士所坚持的观念是能够为全人类谋求生存的正确道路。+而我只是跟在这样的她身后做些小事，拾人牙慧罢了。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>||:听起来你很尊敬自己的雇主。
-NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>默莉朵</Speaker>||:我的雇主是这个国家，乌尔里赫女士只是我的上司。+但我为此感到很幸运，她是个值得让人这样尊敬的人。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:真让人意外。+和安洁相处的时间太久，我都要忘记这世界上还是有这样单纯的好人了。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK12(0)<Position>0,85</Position>||:待会你最好控制一下自己的表达方式。+我不想刚来第一天就被人扫地出门。
+()<Speaker></Speaker>||<BIN>84</BIN><黑屏2><BGM>BGM_Room</BGM>:독일, 브레멘 시청.
+()<Speaker></Speaker>||:검은 리무진은 전용 주차장에 멈춰 섰고, 비서 차림의 여성이 먼저 차에서 내려 손님들에게 문을 열어 주려 했다.+하지만 그 손님들은 이미 차에서 내린 뒤였다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:......
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:그 울릭이란 사람이랑 얘기해본 적 있어?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,85</Position>||:아니, 이번이 처음 만나는 거야.+하지만 베오그라드에서의 일은 들었지.+그 지휘관과 함께 겪었다는 일들도.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:믿을 만하다 생각해?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,85</Position>||:정말 믿어도 될지는 직접 보고 판단해야지.+하지만 우리가 지금 이렇게 브레멘의 길바닥을 걷는 것도 다 그 사람이 허가한 덕분이긴 해.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:그렇구나~
+NPC-Morridow(0)<Speaker>몰리도</Speaker>;AK12(0)<Position>0,85</Position>||:안젤리아 씨! 이쪽이에요!
+NPC-Morridow(0);AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:이런 직장에서 여간 힘든 게 아닐 텐데, 비서님은 정말 열심이시네요.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>||:괘, 괜찮아요, 전 제 일이 정말 좋거든요.+주석님께 작게나마 제 힘을 보탤 수 있는걸요.+그분이 추구하시는 이념은 세상 모든 사람들의 생존을 도모하는 올바른 길이라고, 저는 믿어요.+뭐... 지금으로선 이렇게, 그분 대신 허드렛일하면서 어깨너머로 배우는 중일 뿐이지만요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:고용주에 대한 존경심이 상당하군요.
+NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:그렇긴 하지만, 그분은 제 상사시죠. 제 고용주는 이 나라랍니다.+그래도 그토록 훌륭하신 분 밑에서 일하는 게 얼마나 행운인지 몰라요.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:와우.+안젤리아랑 너무 오래 지내서 나도 비관적이 됐나? 이렇게나 순수한 사람은 진작에 멸종한 줄 알았더니만.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,85</Position>||:지금은 됐지만 너 이따 말조심해라.+첫날부터 쫓겨나긴 싫으니까.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>97</BIN><黑屏2>:……
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:咚咚。
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>||:乌尔里赫女士，是我。+安洁小姐来了。
-乌尔利赫()<Speaker>乌尔利赫</Speaker>||:请进。
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:………………
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:……安洁莉娅小姐，幸会。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:您好，叫我安洁就行了。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:这位就是AK12了吧。+我听说过您的名字，在战术人形当中，您也算得上独树一帜的精英了。
-AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Ambassador(0)||:哈哈哈哈，您真会说老实话。+不过现在的话，您还是叫我露契娅比较好哦？
-AK12(4)<Position>0,85</Position>;NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:露契娅？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:这会是她在德国行动时的名字。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:原来如此，“狼群”也来了。
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>;NPC-Ambassador(0)||:对、对不起，乌尔利赫女士……+我已经说过您只约见了安洁小姐的……
-NPC-Morridow(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:没关系，安洁小姐现在的立场非同寻常，谨慎一些也是人之常情。+更何况是对我这个初次见面的人呢。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:感谢你为我的工作提供的支持和理解。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:我们只是各取所需而已，安洁小姐。+而且，您要执行的任务，对我们而言也是不小的帮助。+我们乐于看到您希望制造的结果。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:那么，您想跟我说什么？+老实说，我刚才是混在难民堆里通过正当安检渠道进来的。+现在可不是适合在这种地方谈话的状态。+我倒是无所谓，把您的办公室弄脏了我可负不起责任。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:请原谅，我能理解您刚刚进城就被强行带到这里来的不满。+按理来说，我应该要亲自去迎接您才对。+但我现在的身份恐怕并不适合做那样的事。+我想您也清楚，即使是现在，也有很多双眼睛在盯着这间办公室。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:……因为那座潜艇基地中发生的事。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:您是宝贵的当事人，我想您的上级让您过来也有很多信息和我们分享吧？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:很可惜，我现在已经没有上级了。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:所以来的才是您而不是其他人。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:您应该知道我不是来白送情报的。+我也有我想要的东西，对等交换才能换来长久的合作。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:没关系，我也没想过今天您会告诉我们什么事。+只是作为礼节，像您这样的人我必须要亲自和您聊一聊才行。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:就算我们什么都不谈，单单只在这里坐上几分钟，您的目的也就达到了吧。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:毕竟此时您在所有人的关注之下。+请您谅解，就把这当成是一位政治家惯用的手段吧。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:我之所以会来和您对话，是因为在那位指挥官的口中，您的评价还算不错。+如果真是这样，那想必对威廉所犯下的罪恶不会姑息容忍吧。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:那是自然的。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:那就行了，我希望您能用行动来证明。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:我会为您提供我能提供的帮助。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:当我的目的完成后，我可以和您交换情报。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:那真是太好了。+不过就算您不这么做，我还是会选择帮助您。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:为什么？
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:在这个世界上还抱有善意的人实在太少了。+不管您表现得如何冷淡，内在的那种精神是无法隐藏的。+您还有那位救过我的指挥官，在我眼中就是那种对他人抱有善意的少数者。+我深信只有像这样的人越多，这个世界才会变得越好。+我们要做的并不仅仅是抓住一两个坏人，而是用新的规则改变这个滋生邪恶的世界。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:“更新世界的锋芒”……吗？+不过我要提醒的是，虽然改变这个世界需要力量，但不可控的力量终究会毁灭自己。+希望在我的祖国发生过的事情不会在贵方的土地上重演。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:我会谨记您的忠告的。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:我能理解当初为什么派您被派去贝莱格莱德了。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:感谢您的认同。+默莉朵，送安洁小姐到休息的地方去吧。
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>;NPC-Ambassador(0)||:啊……是！我明白了！
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:啊……对了，还有一件事。
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:咚咚
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:请进。
-？？？()<Speaker>？？？</Speaker>||:……是。
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:一位高大的男性推门而入。
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:您找我有什么事吗？主席。
-NPC-Hopps(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:安洁莉娅，您在不莱梅行动的期间，这位霍普斯先生会全程负责保护您的安全。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:我不会逃跑的。
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:只是为了您的安全着想而已。
-AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:哈哈哈哈，德国人真是幽默呢！
-NPC-Hopps(0)<Speaker>霍普斯</Speaker>||:……我是负责政府相关人员安全保卫工作的霍普斯。
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:霍普斯是GSG9的退伍士官，在我这里已经工作了大半年。+他经历过真正的战斗，为人很可靠，你可以信任他。+当然，他的战斗力不能和你的人形护卫们相比。+不过在城市中，大部分情况还是由人类来应对会更好一些。
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:除此之外，一些事务上的联系，你也可以任意差遣默莉朵。+毕竟你初来乍到，在我们的城市里行动也会有诸多不便。
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>;NPC-Ambassador(0)||:请多指教！
-NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:她对本地的事情都很熟悉，能够提供全方位的帮助。
-AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Ambassador(0)||:听起来这些人真的可以派上用场喔，安洁。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:我知道了。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:那么，希望您在不莱梅度过一段快乐而有所收获的时光。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Ambassador(0)||:我会的。+而且要是这边惹出什么乱子来，还请贵方多多包涵。
-NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>乌尔利赫</Speaker>||:……我会谨记在心的。
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2>:......
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>||:주석님, 몰리도입니다.+안젤리아 씨를 모셔왔습니다.
+울릭()<Speaker>울릭</Speaker>||:들어오세요.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:............
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:안젤리아 씨, 만나서 반갑습니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:...저야말로.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:이쪽 분이 AK-12시겠죠?+이름은 익히 들었습니다, 전술인형 중에서도 군계일학의 엘리트란 명성이 자자하더군요.
+AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Ambassador(0)||:하하하, 인형한테도 칭찬이 아낌없으시네요.+그래도 이 자리선 "루치아"라 불러 주시겠어요?
+AK12(4)<Position>0,85</Position>;NPC-Ambassador(0)<Speaker>울릭</Speaker>||:루치아요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:이번 임무에서의 코드네임입니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:아하, 늑대 무리와 함께이시군요.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>;NPC-Ambassador(0)||:죄, 죄송합니다 주석님...+안젤리아 씨만 모셔오라고 하셨는데...
+NPC-Morridow(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:괜찮습니다. 안젤리아 씨는 특별한 입장이시니, 신중을 기하는 것도 당연합니다.+특히나, 저처럼 처음 보는 사람을 대할 땐 말이죠.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:제 업무에 대한 양해와 지원에 대단히 감사드립니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:같은 목적이니 서로 협력하는 것이 좋다고 판단했을 뿐입니다.+당신이 수행할 임무는 우리에게도 큰 도움이 되니까요.+당신이 바라는 결과를, 저희도 기대하고 있습니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:그래서, 저 같은 요원 나부랭이에게 무슨 말씀이 하고 싶어 부르셨습니까?+방금 전까지 전 난민 무리에 섞여서 입경 심사를 받았습니다.+지금 이런 곳에서 대화를 나눌 만한 상태가 아니죠.+저야 상관없지만, 사무실이 더러워져도 책임 못 집니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:정말 죄송합니다, 입경하자마자 억지로 여기까지 오게 만들어 불만이신 건 알지만, 너그러이 이해해 주세요.+예의상 제가 직접 당신을 마중 나갔어야 하지만...+제 현 신분으로선 그러기가 매우 까다로워서요.+당신도 아시겠죠? 지금 이 순간에도, 수많은 시선이 이 사무실을 감시하고 있다는 걸.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:팔디스키에서의 일 때문이겠죠.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:당신은 중요한 증인입니다. 당신의 상사께서도, 저희와의 정보 공유를 위해 일부러 당신을 파견했으리라 봅니다만.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:유감스럽게도, 전 지금 상급자가 없는 몸인지라.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그렇기에 다름 아닌 당신이 오신 겁니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:그럼 제가 정보를 거저 드리러 온 게 아니란 것도 아시겠군요.+저도 원하는 게 있습니다. 협력 관계를 유지하려면, 상응하는 가치를 지닌 걸 주고받아야죠.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:물론입니다, 당장 정보를 제공하실 거란 근시안적인 생각은 하지 않았어요.+그저 예의상, 당신 같은 분과 직접 만나 대화를 나누고 싶었을 뿐입니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:이렇게 몇 분 마주보고 있는 것만으로도 당신의 목적은 달성됐겠지만 말입니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:당신은 항상 모두에게 주목받고 있으니까요.+정치란 다 그런 거잖아요, 부디 양해해 주길 바라요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:제가 주석님의 요청을 받아들인 이유는, 그리폰의 지휘관이 당신을 괜찮게 평가했기 때문입니다.+그 평가가 틀리지 않았다면, 윌리엄의 행각을 절대 용납하지 않으시겠죠?
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그야 물론입니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:그럼 충분합니다. 나머진 말이 아니라 행동으로 증명해 주길 바라죠.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:도와드릴 수 있는 최대한으로 지원을 약속드립니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:저도, 목적을 달성하고 나면 정보 공유를 약속드리죠.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:감사합니다.+사실, 그러지 않겠다 하시더라도 전 당신을 도와드릴 생각입니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:...어째서죠?
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:지금 같은 시대에 선의를 품은 사람은 너무나도 적어요.+당신은 냉정한 모습으로 감추려 하지만, 내면의 열정은 숨길 수 없습니다.+당신, 그리고 베오그라드에서 저를 구해 주신 그리폰의 지휘관님. 두 분처럼 타인에게 선의를 베풀려 하는 사람은 드뭅니다.+그러한 사람들이 더 많아져야 세상도 더 좋아질 거라고, 저는 믿습니다.+우리는 악인 한두 명을 처단하는 것으로 멈춰서는 안 됩니다. 새로운 규율로 이 악의를 만들어내는 세상을 바꿔야 합니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:"세상을 새로 쓸 칼날"로 말입니까?+그럼 저도 충고 하나 해드리죠. 세상을 바꾸려면 당연히 힘이 필요하지만, 통제할 수 없는 힘은 자멸을 초래합니다.+제 조국에서 일어났던 일이 귀하의 땅에서 되풀이되지 않기를 바랍니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:귀담아듣도록 하겠습니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:흠, 왜 당신이 베오그라드까지 갔는지 납득이 가는군요.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:인정해 주신다니 고마워요.+몰리도 씨, 안젤리아 씨를 거처로 모셔다드리세요.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>;NPC-Ambassador(0)||:네!
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:참, 한 가지 더. 깜빡할 뻔했군요.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:들어오세요.
+？？？()<Speaker>？？？</Speaker>||:실례하겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:건장한 체격의 거한이 문을 열고 들어왔다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:부르셨습니까, 주석님.
+NPC-Hopps(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:안젤리아 씨, 브레멘에서 행동하시는 동안 여기 홉스 씨가 당신을 경호해드릴 겁니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:도망칠 생각 없습니다만.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그저 당신의 안전을 지켜드리려 하는 겁니다.
+AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:아하하하! 독일인의 개그 센스는 독특하다더니 정말이네!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:...경호실 소속, 홉스라고 합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:홉스 씨는 GSG9에서 사관으로 전역하셨습니다. 여기서는 반년 정도 일하셨죠.+실전 경험도 있는 유능한 분이시니, 믿으셔도 됩니다.+물론 당신의 인형들과는 비교할 수 없겠지만...+시내에서 불시에 상황이 발생할 경우, 인간이 대처하는 편이 좋거든요.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그리고 사무 연락이나 지원 요청은 언제든지 몰리도 씨께 부탁하세요.+이제 막 오신 참이니, 브레멘에서 많이 불편한 점이 분명 있겠죠.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>;NPC-Ambassador(0)||:잘 부탁드립니다!
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:현지 사정에도 능통하니, 모든 방면에서 도움을 드릴 수 있을 겁니다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Ambassador(0)||:실력은 확실한가 보네. 그치, 안젤리아?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:알겠습니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그럼, 브레멘에서 즐겁고 보람 있는 시간 보내시길.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Ambassador(0)||:그러도록 하죠.+이쪽에서 소란을 피우게 되더라도 부디 선처해 주시기 바랍니다.
+NPC-AngeStreet(0);NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...노력하겠습니다.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>84</BIN><黑屏2>:……
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>||:安洁小姐，我送您回安全屋去吧。+霍普斯先生也要一起吗？
-NPC-Hopps(0)<Speaker>霍普斯</Speaker>||:……我接到的任务是在安洁女士在不莱梅外出期间的护卫工作。+但同时也要求我不要妨碍到安洁女士的日常生活。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;NPC-Hopps(0)||:真是“体贴”……所以呢？
-NPC-AngeStreet(0);NPC-Hopps(0)<Speaker>霍普斯</Speaker>||:请容许我随同。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>||:露契娅，上车。
+()<Speaker></Speaker>||<BIN>84</BIN><黑屏2>:......
+NPC-Morridow(0)<Speaker>몰리도</Speaker>||:안젤리아 씨, 은신처로 모셔다드릴게요.+홉스 씨도 같이 가실 건가요?
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:제 임무는 브레멘에서의 체류 기간 안젤리아 씨를 경호하는 겁니다.+다만, 일상생활에 지장을 끼치지 않도록 당부받았습니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:친절도 하셔라. 그래서요?
+NPC-AngeStreet(0);NPC-Hopps(0)<Speaker>홉스</Speaker>||:동행 허가를 요청합니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:피곤한 타입이구만. 루치아, 타.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:……
-()<Speaker></Speaker>||:几分钟后，乌尔利赫提供的临时据点内。
-NPC-Morridow(0)<Speaker>默莉朵</Speaker>||:虽然稍微有点杂乱，但是保证是个安全的地方。+我和霍普斯会在外面守候，如果有事请随时呼唤我们。
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:说完，默莉朵关上了会议室的门。
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:安洁。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AN94(11)<Position>0,-70</Position>||:嗯……+K呢？
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:K先生在把我们送到之后就先离开了。+看起来还有重要的工作的样子。
-NPC-AngeStreet(0);AK15(0)<Speaker>AK15</Speaker>||:……讨论的结果呢？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK15(0)||:没什么结果。+这才只是第一天而已，我们的日子还长着呢。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:如果真的能这么顺利就好了。+可惜，从刚才的话听起来，有些事情就算是那位主席大人也没法控制呢。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK12(0)<Position>0,85</Position>||:乌尔利赫又不是德国总理，她能够真心实意提供些帮助就不错了。+我所了解到的情报，光在这座城市里，和她抱有不同意见的人就不在少数。+不管哪里的政府都没有看起来的那么团结。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:不论在哪里，人类都是一样的呢。
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK12(0)<Position>0,85</Position>||:如果无意义的斗争能够减少哪怕一成，这个世界都会变成天堂的。+好了，不管如何，那些事与我们无关，别忘了我们千里迢迢到德国来的目的。
-NPC-AngeStreet(0);AK15(0)<Speaker>AK15</Speaker>||:接下来怎么做，安洁？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AK15(0)||:这里的环境基本摸清了，现在要考虑的只有行动。+威廉……虽然哈维尔提供的情报指向了不莱梅，不过范围依然非常巨大。+这个人相当狡猾，无论在哪里都只留下了行动的结果，计划则完全被隐藏起来了。
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:您已经想好怎么做了，对吗？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;RPK16(7)<Position>0,-70</Position>||:我们手里握着的线索严重不足，但总比没有好得多。+至少现在我们知道这里是重要的地方，威廉的狐狸尾巴就藏在这里。
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:是呢……得揪出狐狸尾巴才行。
-NPC-AngeStreet(0);AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:由你来说这句话真是有喜剧效果。
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:要开始搜索吗？
-NPC-AngeStreet(0)<Speaker>安洁莉娅</Speaker>;AN94(11)<Position>0,-70</Position>||:不用着急，在这个节点，想要行动的人可不止我们。+现在，只要安静地等待时机就够了。
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:......
+()<Speaker></Speaker>||:몇 분 후, 울릭이 제공한 임시 거처.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>||:좀 난잡하긴 해도, 안전만큼은 확실하게 보장해요.+저와 홉스 씨는 밖에서 대기할 테니 무슨 일 있으시면 바로 불러 주세요!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:몰리도는 회의실 문을 닫았다.
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:왔구나, 안젤리아.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:그래... 음?+K는 어디 갔어?
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:우리를 여기로 데려다준 후 먼저 떠났다.+아직 업무가 더 남은 듯했다.
+NPC-AngeStreet(0);AK15(0)<Speaker>AK15</Speaker>||:주석과의 만남은 어땠습니까?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK15(0)||:딱히 이렇다 할 것도 없었지.+이제 겨우 첫날인걸, 시간은 아직 많아.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:일이 그렇게 생각대로 잘 풀리면 좋겠는데 말이지.+유감이지만, 대화를 들어보니 그 주석님도 전부 다 통제할 수 있는 건 아닌 모양이더라.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,85</Position>||:연맹의 주석이지, 독일의 총리는 아니니까. 진심으로 도와주려 한다는 것만으로 감지덕지야.+내가 미리 파악한 바로는, 브레멘 내만 따져도 그녀와 의견을 달리하는 사람이 적지 않더군.+시 정부도 마냥 한마음 한뜻일 순 없단 뜻이지.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker><Position>0,85</Position>||:어딜 가도 인간은 똑같다니까.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,85</Position>||:그래서 의미 없는 분쟁이 1할만 줄어들어도 세상은 천국이 된다는 거야.+...우리와는 상관없는 일이지만. 독일까지 먼 길을 온 목적을 잊지 말자고.
+NPC-AngeStreet(0);AK15(0)<Speaker>AK15</Speaker>||:이제부터 어떡하겠습니까, 안젤리아?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK15(0)||:주변 환경은 대강 파악했으니, 어떻게 움직일지부터 생각하자고.+윌리엄... 하벨 씨한테서 받은 정보는 브레멘을 가리켰지만, 그래도 여전히 범위가 너무 넓어.+그 작자는 아주 교활해, 어딜 가도 놈들이 행동한 결과만 남기고 그들의 목적은 철저히 숨기고 있지.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그럼, 어떻게 할지는 이미 정해졌네요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:없는 것보단 낫지만, 지금 우리에겐 단서가 너무 부족해.+적어도 여기가 중요하단 걸 알았으니, 여기저기 들쑤시다 보면 분명 윌리엄의 꼬리를 밟을 수 있을 거야.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그렇죠, 여우는 꼬리부터 찾아내야죠.
+NPC-AngeStreet(0);AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>||:풉, 그 말을 네가 하니 웃기다 야.
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:그럼 바로 수색을 시작할까?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:아니, 현재 상황에서 움직이려는 건 우리만이 아니야.+조급해할 거 없어. 지금은 조용히, 때를 기다리기만 하면 돼.
 ()||<黑屏1>:

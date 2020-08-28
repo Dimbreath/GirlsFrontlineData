@@ -1,11 +1,7 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.DeploymentController)
 local RequestStartMissionHandle = function(self,www)
-	local cache = CS.ConfigData.endTurnConfirmation;
-	CS.ConfigData.endTurnConfirmation = false;
 	self:RequestStartMissionHandle(www);
-	CS.ConfigData.endTurnConfirmation = cache;
-	cache = nil;
 	for i=0,CS.DeploymentBackgroundController.Instance.listSpot.Count-1 do
 		CS.DeploymentBackgroundController.Instance.listSpot[i]:CheckBuild();
 	end
@@ -94,6 +90,7 @@ end
 local GoBattle = function(self)
 	self:GoBattle();
 	CS.DeploymentController.TriggerSwitchAbovePanelEvent(true);
+	CS.DeploymentPlanModeController.Instance.enabled = false;
 end
 
 local RequestWithDraw = function(self)
@@ -105,6 +102,21 @@ local RequestWithDraw = function(self)
 	self:RequestWithDraw();
 end
 
+local TriggerFriendTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerFriendTurnEvent();
+end
+
+local TriggerFriendAllyTeamTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerFriendAllyTeamTurnEvent();
+end
+
+local TriggerStartEnemyTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;
+	CS.DeploymentController.TriggerStartEnemyTurnEvent();
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -112,3 +124,6 @@ util.hotfix_ex(CS.DeploymentController,'AnalysisDaySpot',AnalysisDaySpot)
 util.hotfix_ex(CS.DeploymentController,'PlayMoveRecord',PlayMoveRecord)
 util.hotfix_ex(CS.DeploymentController,'GoBattle',GoBattle)
 util.hotfix_ex(CS.DeploymentController,'RequestWithDraw',RequestWithDraw)
+util.hotfix_ex(CS.DeploymentController,'TriggerFriendTurnEvent',TriggerFriendTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerStartEnemyTurnEvent',TriggerStartEnemyTurnEvent)

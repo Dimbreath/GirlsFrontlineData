@@ -20,23 +20,33 @@ local CheckSpineSpot = function(self)
 	if not canFind then
 		return;
 	end
-	self:MoveMissionHolder();
+	--self:MoveMissionHolder();
 	local missionholder = nil;
 	if CS.GameData.missionAction ~= nil then
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
 			if holder.currentMission ~= nil and holder.currentMission == CS.GameData.missionAction.mission then
+				print("1"..tostring(holder.order));
 				missionholder = holder;
 				break;
 			end
 		end
 	end
-	if missionholder == nil then
+	if missionholder == nil and CS.GameData.currentSelectedMissionInfo ~= nil then
+		--print("2"..tostring(CS.GameData.currentSelectedMissionInfo.id));
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
-			if holder.currentMission ~= nil and holder.currentMission.winCount == 0 then
+			if holder.currentMission ~= nil and holder.currentMission.missionInfo.id == CS.GameData.currentSelectedMissionInfo.id then
+				--print("2"..tostring(holder.order));
 				missionholder = holder;
 				break;
+			end
+			for j=0,holder.spots3D.Count-1 do
+				local spot = holder.spots3D[j];
+				if spot.missionId == CS.GameData.currentSelectedMissionInfo.id then
+					--print("2"..tostring(holder.order));
+					missionholder = holder;		
+				end
 			end
 		end	
 	end
@@ -44,6 +54,7 @@ local CheckSpineSpot = function(self)
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
 			if holder.gameObject.activeSelf then
+				--print("3"..tostring(holder.order));
 				missionholder = holder;
 				break;
 			end

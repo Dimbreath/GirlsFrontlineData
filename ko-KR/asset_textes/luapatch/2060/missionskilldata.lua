@@ -2,6 +2,9 @@ local util = require 'xlua.util'
 xlua.private_accessible(CS.SpecialSpotAction)
 
 local ShowEffect = function(target,effectInfo,autoDestroy,effectObj,lastdelayTime,playsound)
+	if effectObj ~= nil and not effectObj:isNull() then
+		return;
+	end
 	local priority = effectInfo.priority;
 	local spot = target:GetComponent(typeof(CS.DeploymentSpotController));
 	if spot ~= nil then
