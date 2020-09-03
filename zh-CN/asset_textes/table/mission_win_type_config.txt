@@ -292,6 +292,20 @@ mission_win_type_config-11051711,【布玩偶】于G11处对安娜进行心智�
 mission_win_type_config-11051712,【布谷钟】击杀暴君
 mission_win_type_config-11051713,【防空井】歼灭普通感染者
 mission_win_type_config-11052000,初始探索//n<color=#FFFF00>·建议初次进入挑战关时移动到指定点查阅相关提示</color>//n<color=#FFFF00>·占领指定目标点即可获得胜利</color>
+mission_win_type_config-11051800,【食蛇行动 II】到达控制台，解锁防御门（占领控制台所在点）//n<color=#FFFF00>·Step 1 | 呼出电子界面进行破解（结束回合时结算）</color>
+mission_win_type_config-11051801,【食蛇行动 II】通过变更雷达点附近线路联通集结点（结束回合时结算）//n<color=#FFFF00>·Step 2 | 占领集结点</color>
+mission_win_type_config-11051802,【食蛇行动 II】移动到基地内部（结束回合时结算）//n<color=#FFFF00>·Final Step | 占领敌指挥部</color>
+mission_win_type_config-11051803,【食蛇行动 III】探索基地内部//n<color=#FFFF00>·Step 1 | 占领指定路径点</color>
+mission_win_type_config-11051804,【食蛇行动 III】继续前进//n<color=#FFFF00>·Final Step | 占领敌方指挥部</color>
+mission_win_type_config-11051805,【食蛇行动 IV】占领指挥部//n<color=#FFFF00>·通过控制台呼出电子界面破解防御门</color>
+mission_win_type_config-11051806,【食蛇行动 V】【断惑无间 I】【三角攻势·始】查看模拟记录1//n<color=#FFFF00>·Step 1 | 占领指定路径点</color>
+mission_win_type_config-11051807,【食蛇行动 V】【断惑无间 I】【三角攻势·始】查看模拟记录2//n<color=#FFFF00>·Step 2 | 占领指定路径点</color>
+mission_win_type_config-11051808,【食蛇行动 V】【断惑无间 I】【三角攻势·始】查看模拟记录3//n<color=#FFFF00>·Step 3 | 占领指定路径点</color>
+mission_win_type_config-11051809,【食蛇行动 V】【断惑无间 I】【三角攻势·始】结束查看//n<color=#FFFF00>·Final Step | 占领指挥部</color>
+mission_win_type_config-11051810,【蜘蛛巢】救援VHS
+mission_win_type_config-11051811,【纸牌塔】追击衔尾蛇
+mission_win_type_config-11051812,【斗兽棋】搜集更多关于衔尾蛇的资料//n<color=#FFFF00>·意外发现的小房间或许会有线索</color>//n<color=#FFFF00>·携带资料的梯队在指挥部待机即可交付任务（需待机2回合）</color>
+mission_win_type_config-11051813,【煽动者】安全撤离//n<color=#FFFF00>·按先前进入基地的路线原路返回即可</color>
 mission_win_type_config-74101011,【离席之时 I】全歼敌军
 mission_win_type_config-74101021,【离席之时 II】到达指定点
 mission_win_type_config-74102011,【枯草热 III】全歼敌军
@@ -305,19 +319,20 @@ mission_win_type_config-74102071,【枯草热 V】坚持到防御门打开
 mission_win_type_config-74102081,【枯草热 VI】到达指定点
 mission_win_type_config-74102091,【霜狼会】b.到达指定点
 mission_win_type_config-74102101,【灯华潜】救援建筑师
-mission_win_type_config-74104011,
-mission_win_type_config-74104021,找到控制台并操作
-mission_win_type_config-74104031,
-mission_win_type_config-74104041,
-mission_win_type_config-74104042,
-mission_win_type_config-74104051,入侵五个铁血单位
-mission_win_type_config-74104061,
-mission_win_type_config-74104071,
-mission_win_type_config-74104081,
-mission_win_type_config-74104091,
-mission_win_type_config-74104101,
+mission_win_type_config-74104011,【食蛇行动 I】占领指定点
+mission_win_type_config-74104021,【食蛇行动 II】找到控制台并操作
+mission_win_type_config-74104031,【食蛇行动 III】占领指定点
+mission_win_type_config-74104041,【食蛇行动 IV】击杀指定敌人
+mission_win_type_config-74104042,【食蛇行动 IV】救援VHS
+mission_win_type_config-74104051,【蜘蛛巢】入侵五个铁血单位
+mission_win_type_config-74104061,【纸牌塔】全歼敌军
+mission_win_type_config-74104071,【斗兽棋】占领指定点
+mission_win_type_config-74104081,【煽动者】击败指定敌人
+mission_win_type_config-74104091,【斗兽棋】击败指定敌人
+mission_win_type_config-74104101,【煽动者】到达指定点
 mission_win_type_config-74101031,
 mission_win_type_config-74102111,
+mission_win_type_config-74103111,
 mission_win_type_config-11051210,【幽灵姐妹II】靠近接触地图边缘的铁血兵蚁
 mission_win_type_config-11051220,【幽灵姐妹III】坚守至第5回合
 mission_win_type_config-11051230,【幽灵姐妹IV】占领全部机场
@@ -329,3 +344,7 @@ mission_win_type_config-11051280,【布玩偶】占领目标路径点
 mission_win_type_config-11051290,【防空井】b.探索制药厂
 mission_win_type_config-11051291,【防空井】b.继续探索制药厂
 mission_win_type_config-11051200,【吹笛人】b.全歼所有敌人
+mission_win_type_config-11051410,【断惑无间II】尽量避开游荡的难民，抵达撤离点
+mission_win_type_config-11051420,【断惑无间III】尽量避开游荡的难民，抵达撤离点
+mission_win_type_config-11051430,【断惑无间IV】尽量避开游荡的难民，抵达撤离点
+mission_win_type_config-11051431,【断惑无间IV】全歼所有敌人

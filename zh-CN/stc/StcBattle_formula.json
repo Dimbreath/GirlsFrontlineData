@@ -4556,8 +4556,112 @@
         "formula": "(tbuffidtier(3885)-sbuffidtier(3300))=1?0:(9999*tbuffidtier(3885)*sbuffidtier(3876))"
     },
     {
+        "id": 3662,
+        "formula": "sbuffidtier(83)>0?1:0"
+    },
+    {
+        "id": 3664,
+        "formula": "80+sbuffidtier(3891)*16"
+    },
+    {
+        "id": 3665,
+        "formula": "90+sbuffidtier(3891)*16"
+    },
+    {
+        "id": 3666,
+        "formula": "100+sbuffidtier(3891)*16"
+    },
+    {
+        "id": 3667,
+        "formula": "110+sbuffidtier(3891)*18"
+    },
+    {
+        "id": 3668,
+        "formula": "120+sbuffidtier(3891)*20"
+    },
+    {
+        "id": 3669,
+        "formula": "130+sbuffidtier(3891)*22"
+    },
+    {
         "id": 3670,
-        "formula": "$1>0?0:0"
+        "formula": "140+sbuffidtier(3891)*24"
+    },
+    {
+        "id": 3671,
+        "formula": "150+sbuffidtier(3891)*26"
+    },
+    {
+        "id": 3672,
+        "formula": "160+sbuffidtier(3891)*28"
+    },
+    {
+        "id": 3673,
+        "formula": "170+sbuffidtier(3891)*30"
+    },
+    {
+        "id": 3674,
+        "formula": "sbuffidtier(3896)*15"
+    },
+    {
+        "id": 3675,
+        "formula": "sbuffidtier(389601)"
+    },
+    {
+        "id": 3676,
+        "formula": "tbuffidtier(3893)+tbuffidtier(3895)=2?1:0"
+    },
+    {
+        "id": 3677,
+        "formula": "sbuffidtier(3893)>0?(tbuffidtier(3896)*2-2)*30:1"
+    },
+    {
+        "id": 3678,
+        "formula": "sbuffidtier(3893)=1?tbuffidtier(389601):0"
+    },
+    {
+        "id": 3679,
+        "formula": "(sbuffidtier(3896)-1)*30"
+    },
+    {
+        "id": 3680,
+        "formula": "100+((sbuffidtier(3901)*10/3)*sbuffidtier(390101))"
+    },
+    {
+        "id": 3681,
+        "formula": "$1*(1+tbuffidtier(3893)*0.01*sbuffidtier(3896))+(tbufftypetier(601)*(1-#def/#maxdef))"
+    },
+    {
+        "id": 3682,
+        "formula": "sbuffidtier(389401)<200/(sbuffidtier(3901))?1:0"
+    },
+    {
+        "id": 3683,
+        "formula": "@MaxLife*(sbuffidtier(3901)+2)*0.005"
+    },
+    {
+        "id": 3684,
+        "formula": "1"
+    },
+    {
+        "id": 3685,
+        "formula": "((@Maxlife-@Life)/@Maxlife)*24"
+    },
+    {
+        "id": 3686,
+        "formula": "((@Maxlife-@Life)/@Maxlife)*30"
+    },
+    {
+        "id": 3687,
+        "formula": "((@Maxlife-@Life)/@Maxlife)*36"
+    },
+    {
+        "id": 3688,
+        "formula": "((@Maxlife-@Life)/@Maxlife)*42"
+    },
+    {
+        "id": 3689,
+        "formula": "((@Maxlife-@Life)/@Maxlife)*48"
     },
     {
         "id": 6000,
@@ -4826,5 +4930,13 @@
     {
         "id": 357410,
         "formula": "#hit>@hit*0.8?@hit*0.8:#hit"
+    },
+    {
+        "id": 368101,
+        "formula": "$1*(1+tbuffidtier(3893)*0.01*sbuffidtier(3896))"
+    },
+    {
+        "id": 368301,
+        "formula": "sbuffidtier(3901)*15"
     }
 ]

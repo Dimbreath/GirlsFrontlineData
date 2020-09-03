@@ -7,4 +7,12 @@ local CheckUseBattleSkill = function(self)
 	end
 end
 
+local CheckDefender = function(self,playcameramove,time)
+	if not self.gameObject.activeInHierarchy then
+		self.lastactiveid = self.buildAction.activeOrder;
+	end
+	self:CheckDefender(playcameramove,time);
+end
+
 util.hotfix_ex(CS.DeploymentBuildingController,'CheckUseBattleSkill',CheckUseBattleSkill)
+util.hotfix_ex(CS.DeploymentBuildingController,'CheckDefender',CheckDefender)

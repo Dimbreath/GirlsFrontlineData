@@ -7,4 +7,13 @@ local CheckCurrentSpotTrans = function(self,target)
 	self:Transfer(target);
 end
 
+local Complete = function(self)
+	self:Complete();
+	if self.targetSpot == nil then
+		if CS.DeploymentController.Instance:HasTeamCanTrans() then
+			CS.DeploymentController.Instance:CheckTeamTrans();
+		end
+	end
+end
 util.hotfix_ex(CS.DeploymentSquadTeamController,'CheckCurrentSpotTrans',CheckCurrentSpotTrans)
+util.hotfix_ex(CS.DeploymentSquadTeamController,'Complete',Complete)

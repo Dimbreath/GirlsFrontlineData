@@ -312,6 +312,7 @@ patch2060=
 "2060/DeploymentPathController",
 "2060/DeploymentPlanModeController",
 "2060/DeploymentEnemyFormation",
+"2060/DeploymentEnemyInfo",
 "2060/DeploymentCampaignExplain",
 "2060/DeploymentTeamInfoController",
 "2060/DeploymentTeamController",
@@ -321,6 +322,7 @@ patch2060=
 "2060/DeploymentAllyTeamController",
 "2060/DeploymentEnemyTeamController",
 "2060/DeploymentRandomEventController",
+"2060/DeploymentMapDragController",
 "2060/MissionSkillData",
 "2060/ParticleScaler",		
 "2060/MissionData",
@@ -378,9 +380,16 @@ patch2060=
 "2060/NavigationItemStationController",
 "2060/FactoryController",
 "2060/CommonEquipmentListFloatingPanel",
-"2060/ImageBufferBlurRefraction",	
+"2060/ImageBufferBlurRefraction",
 "2060/SangvisSimulatorFormation",
 "2060/SangvisGashaResultItemController",
+"2060/CommonConnectionLogController",
+"2060/SangvisNormalCaptureController",
+"2060/Request",
+"2060/RetireController",
+"2060/CombineController",
+"2060/WeddingPlay",
+"2060/AVGCreditsController",
 }
 --[[
 -- va11

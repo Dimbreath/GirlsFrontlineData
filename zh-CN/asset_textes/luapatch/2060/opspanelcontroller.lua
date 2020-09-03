@@ -20,23 +20,33 @@ local CheckSpineSpot = function(self)
 	if not canFind then
 		return;
 	end
-	self:MoveMissionHolder();
+	--self:MoveMissionHolder();
 	local missionholder = nil;
 	if CS.GameData.missionAction ~= nil then
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
 			if holder.currentMission ~= nil and holder.currentMission == CS.GameData.missionAction.mission then
+				print("1"..tostring(holder.order));
 				missionholder = holder;
 				break;
 			end
 		end
 	end
-	if missionholder == nil then
+	if missionholder == nil and CS.GameData.currentSelectedMissionInfo ~= nil then
+		--print("2"..tostring(CS.GameData.currentSelectedMissionInfo.id));
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
-			if holder.currentMission ~= nil and holder.currentMission.winCount == 0 then
+			if holder.currentMission ~= nil and holder.currentMission.missionInfo.id == CS.GameData.currentSelectedMissionInfo.id then
+				--print("2"..tostring(holder.order));
 				missionholder = holder;
 				break;
+			end
+			for j=0,holder.spots3D.Count-1 do
+				local spot = holder.spots3D[j];
+				if spot.missionId == CS.GameData.currentSelectedMissionInfo.id then
+					--print("2"..tostring(holder.order));
+					missionholder = holder;		
+				end
 			end
 		end	
 	end
@@ -44,6 +54,7 @@ local CheckSpineSpot = function(self)
 		for i=0, CS.OPSPanelBackGround.Instance.spotMissionHolders.Count-1 do
 			local holder = CS.OPSPanelBackGround.Instance.spotMissionHolders[i];
 			if holder.gameObject.activeSelf then
+				--print("3"..tostring(holder.order));
 				missionholder = holder;
 				break;
 			end
@@ -72,7 +83,7 @@ local HideAllLabel = function(self)
 		holder:HideSpots();
 	end
 
-	if self.background3d ~= nil then
+	if self.background3d ~= nil and not self.background3d:isNull() then
 		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform:DOLocalMove(pos,0.5);
 	end
@@ -93,7 +104,7 @@ end
 
 local InitBackground = function(self)
 	self:InitBackground();
-	if self.background3d ~= nil then
+	if self.background3d ~= nil and not self.background3d:isNull() then
 		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform.localPosition = pos;
 	end
@@ -132,7 +143,27 @@ local RefreshItemNum = function(self)
 	if CS.OPSPanelController.showItemId.Count>0 then
 		self:RefreshItemNum();
 	end
+	if self.campaionId == -31 then
+		if self.itemuiObj ~= nil and not self.itemuiObj:isNull() then
+			self.itemuiObj:SetActive(false);
+		end
+	end
 end
+
+local Load = function(self,campaion)
+	self:Load(campaion);
+	if self.currentPanelConfig ~= nil then
+		if campaion == -31 then
+			self.currentPanelConfig.ItemId = "8001";
+		end
+	end
+end
+
+local CancelMission = function(self)
+	self:CancelMission();
+	self.MissionInfoController.gameObject:SetActive(false);
+end
+
 util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)
 util.hotfix_ex(CS.OPSPanelController,'MoveSpine',MoveSpine)
 util.hotfix_ex(CS.OPSPanelController,'InitBackground',InitBackground)
@@ -141,3 +172,5 @@ util.hotfix_ex(CS.OPSPanelController,'HideAllLabel',HideAllLabel)
 util.hotfix_ex(CS.OPSPanelController,'ShowAllLabel',ShowAllLabel)
 util.hotfix_ex(CS.OPSPanelController,'CheckAnim',CheckAnim)
 util.hotfix_ex(CS.OPSPanelController,'RefreshItemNum',RefreshItemNum)
+util.hotfix_ex(CS.OPSPanelController,'Load',Load)
+util.hotfix_ex(CS.OPSPanelController,'CancelMission',CancelMission)

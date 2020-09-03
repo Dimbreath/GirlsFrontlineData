@@ -10,7 +10,20 @@ end
 local TransferComplete = function(self)
 	self:TransferComplete();
 	CS.DeploymentController.TriggerRefreshUIEvent();
+	if self.squadTeam ~= nil then
+		if self.currentSpot.currentTeam ~= nil and self.currentSpot.currentTeamTemp ~= nil then
+			self.currentSpot.currentTeamTemp = self.currentSpot.currentTeam;
+			self.currentSpot.currentTeam = self;
+		end
+	end
 end
 
+local TransferBefore = function(self)
+	self:TransferBefore();
+	if self.last.buildControl ~= nil then
+		self.last.buildControl:RefreshController();
+	end
+end
 util.hotfix_ex(CS.DeploymentTeamController,'Transfer',Transfer)
+util.hotfix_ex(CS.DeploymentTeamController,'TransferBefore',TransferBefore)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferComplete',TransferComplete)
