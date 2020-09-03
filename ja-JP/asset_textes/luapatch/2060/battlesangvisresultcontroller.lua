@@ -8,5 +8,9 @@ local Init = function(self,jsonData,spotAction)
 		self.sangvisTema = friend.sangvisTeam;
 	end
 	self:Init(jsonData,spotAction);	
+	if self.battleController ~= nil then
+		self.textEnemyDie.text = tostring(CS.System.String.Format(CS.Data.GetLang(10147),self.battleController.statistics.enemyDieNumber));
+		self.textFriendlyDie.text = tostring(CS.System.String.Format(CS.Data.GetLang(10148),self.battleController.statistics.friendlyDieNumber));
+	end
 end
 util.hotfix_ex(CS.BattleSangvisResultController,'Init',Init)
