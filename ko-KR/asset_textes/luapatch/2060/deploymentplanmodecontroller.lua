@@ -29,6 +29,7 @@ local _CancelPlan = function(self)
 	self:_CancelPlan();
 	CS.ConfigData.endTurnConfirmation = cache;
 	print("_CancelPlan"..tostring(CS.ConfigData.endTurnConfirmation));
+	CS.DeploymentUIController.Instance:SwitchAbovePanel(false);
 end
 
 local InitDeployment = function(self)

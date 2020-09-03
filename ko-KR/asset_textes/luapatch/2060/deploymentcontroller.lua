@@ -117,6 +117,19 @@ local TriggerStartEnemyTurnEvent = function()
 	CS.DeploymentController.TriggerStartEnemyTurnEvent();
 end
 
+local FinishMissionEvent = function()
+	CS.DeploymentController.TriggerFinishMissionEvent();
+end
+
+local CheckBattle = function(self)
+	if CS.GameData.missionResult ~= nil then
+		CS.GameData.missionAction.queuePerformanceHandler:Clear();
+		self:AddAndPlayPerformance(FinishMissionEvent);
+		self:AddAndPlayPerformance(nil);
+		return;
+	end
+	self:CheckBattle();
+end
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -127,3 +140,4 @@ util.hotfix_ex(CS.DeploymentController,'RequestWithDraw',RequestWithDraw)
 util.hotfix_ex(CS.DeploymentController,'TriggerFriendTurnEvent',TriggerFriendTurnEvent)
 util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartEnemyTurnEvent',TriggerStartEnemyTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'CheckBattle',CheckBattle)

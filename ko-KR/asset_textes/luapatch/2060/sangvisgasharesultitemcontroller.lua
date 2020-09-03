@@ -16,7 +16,7 @@ local myNormalInit = function(self,sangvisGun,pge)
 end
 local mySetResolution = function(self,num,isFull)
 	local obj = self:resolutionImgIndex(0):GetComponent(typeof(CS.UnityEngine.CanvasGroup));
-	if(obj ~= nil and obj:isNull()) then
+	if(obj == nil or obj:isNull()) then
 		self:resolutionImgIndex(0).gameObject:AddComponent(typeof(CS.UnityEngine.CanvasGroup));
 	end
 	self:SetResolution(num,isFull)
@@ -26,8 +26,9 @@ local myInitWithSingleBossData = function(self, bosA)
 	
 	if (self.certainObj ~= nil) then
 		local obj = self.certainObj:GetComponent(typeof(CS.UnityEngine.Canvas)) ;
-		if(obj ~= nil and obj:isNull()) then
+		if(obj == nil or obj:isNull()) then
 			local canvas = self.certainObj:AddComponent(typeof(CS.UnityEngine.Canvas));
+			self.certainObj:AddComponent(typeof(CS.UnityEngine.UI.GraphicRaycaster));
 			canvas.overrideSorting = true;
 			canvas.sortingOrder = 11;
 		end

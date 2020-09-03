@@ -312,6 +312,7 @@ patch2060=
 "2060/DeploymentPathController",
 "2060/DeploymentPlanModeController",
 "2060/DeploymentEnemyFormation",
+"2060/DeploymentEnemyInfo",
 "2060/DeploymentCampaignExplain",
 "2060/DeploymentTeamInfoController",
 "2060/DeploymentTeamController",
