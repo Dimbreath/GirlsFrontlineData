@@ -20,7 +20,7 @@ function FetterGetGunModId(id)
 end
 
 local FetterActorIsCollect_New = function(actorType, id)
-	if actorType == CS.FetterActorType.gun then
+	if actorType == CS.FetterActorType.gun and CS.GameData.listGunInfo:ContainsKey(FetterGetGunModId(id)) then
 		--CS.NDebug.LogError("FetterActorIsCollect_New:gun")
 
 		if CS.GameData.userInfo.dctGunCollect:ContainsKey(FetterGetGunOrgId(id)) or CS.GameData.userInfo.dctGunCollect:ContainsKey(FetterGetGunModId(id)) then
@@ -34,15 +34,18 @@ local FetterActorIsCollect_New = function(actorType, id)
 end
 
 local GetFetterActorLevel_New = function(actorType, id)
-	if actorType == CS.FetterActorType.gun then
+	if actorType == CS.FetterActorType.gun and CS.GameData.listGunInfo:ContainsKey(FetterGetGunModId(id)) and FetterActorIsCollect_New(actorType,id) then
 		--CS.NDebug.LogError("GetFetterActorLevel_New:gun")
 
 		local maxLevel = 0
 		for i = 0, CS.GameData.listGun.Count - 1 do
             if CS.GameData.listGun[i].info.id == FetterGetGunOrgId(id) or CS.GameData.listGun[i].info.id == FetterGetGunModId(id) then
             	local level = CS.GameData.listGun[i].level
-                	if level > maxLevel then
+                if level > maxLevel then
             		maxLevel = level
+					if maxLevel >= 120 then
+						break;
+					end
             	end
             end
         end
@@ -54,7 +57,7 @@ local GetFetterActorLevel_New = function(actorType, id)
 end
 
 local GetFetterActorFavor_New = function(actorType, id)
-	if actorType == CS.FetterActorType.gun then
+	if actorType == CS.FetterActorType.gun and CS.GameData.listGunInfo:ContainsKey(FetterGetGunModId(id)) and FetterActorIsCollect_New(actorType,id) then
 		--CS.NDebug.LogError("GetFetterActorFavor_New:gun")
 
 		local maxFavor = 0
@@ -63,6 +66,9 @@ local GetFetterActorFavor_New = function(actorType, id)
             	local favor = CS.GameData.listGun[i].uiFavor
             	if favor > maxFavor then
             		maxFavor = favor
+					if maxFavor >= 2000000 then
+						break;
+					end
             	end
             end
         end
@@ -74,7 +80,7 @@ local GetFetterActorFavor_New = function(actorType, id)
 end
 
 local IsSoulBound_New = function(actorType, id)
-	if actorType == CS.FetterActorType.gun then
+	if actorType == CS.FetterActorType.gun and CS.GameData.listGunInfo:ContainsKey(FetterGetGunModId(id)) and FetterActorIsCollect_New(actorType,id) then
 		--CS.NDebug.LogError("IsSoulBound_New:gun")
 
 		for i = 0, CS.GameData.listGun.Count - 1 do

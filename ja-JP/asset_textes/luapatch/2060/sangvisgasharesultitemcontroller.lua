@@ -15,29 +15,37 @@ local myNormalInit = function(self,sangvisGun,pge)
 	end
 end
 local mySetResolution = function(self,num,isFull)
-	if(self:resolutionImgIndex(0):GetComponent(typeof(CS.UnityEngine.CanvasGroup)):isNull()) then
+	local obj = self:resolutionImgIndex(0):GetComponent(typeof(CS.UnityEngine.CanvasGroup));
+	if(obj == nil or obj:isNull()) then
 		self:resolutionImgIndex(0).gameObject:AddComponent(typeof(CS.UnityEngine.CanvasGroup));
 	end
 	self:SetResolution(num,isFull)
 end
 local myInitWithSingleBossData = function(self, bosA)
 	self:InitWithSingleBossData(bosA);
-	if (self.certainObj ~= nil and self.certainObj:GetComponent(typeof(CS.UnityEngine.Canvas)):isNull()) then
-		local canvas = self.certainObj:AddComponent(typeof(CS.UnityEngine.Canvas));
-		canvas.overrideSorting = true;
-        canvas.sortingOrder = 11;
+	
+	if (self.certainObj ~= nil) then
+		local obj = self.certainObj:GetComponent(typeof(CS.UnityEngine.Canvas)) ;
+		if(obj == nil or obj:isNull()) then
+			local canvas = self.certainObj:AddComponent(typeof(CS.UnityEngine.Canvas));
+			self.certainObj:AddComponent(typeof(CS.UnityEngine.UI.GraphicRaycaster));
+			canvas.overrideSorting = true;
+			canvas.sortingOrder = 11;
+		end
 	end
 end
 local myStart = function(self)
     self:Start()
-	if(self.canvas:GetComponent(typeof(CS.UnityEngine.Canvas)):isNull() == false) then
-		self.canvas:GetComponent(typeof(CS.UnityEngine.Canvas)).sortingOrder = 13;
+	local obj = self.canvas:GetComponent(typeof(CS.UnityEngine.Canvas));
+	if(obj ~= nil and obj:isNull() == false) then
+		obj.sortingOrder = 13;
 	end
 end
 local myDrawStart = function(self)
     self:Start()
-	if(self:GetComponent(typeof(CS.UnityEngine.Canvas)):isNull() == false) then
-		self:GetComponent(typeof(CS.UnityEngine.Canvas)).sortingOrder = 12;
+	local obj = self:GetComponent(typeof(CS.UnityEngine.Canvas));
+	if(obj~= nil and obj:isNull() == false) then
+		obj.sortingOrder = 12;
 	else
 		local canvas = self.gameObject:AddComponent(typeof(CS.UnityEngine.Canvas));
 		self.gameObject:AddComponent(typeof(CS.UnityEngine.UI.GraphicRaycaster));
@@ -48,8 +56,9 @@ end
 local myInitUIElements = function(self)
     self:InitUIElements()
 	self.gameObject.layer = 5
-	if(self:GetComponent(typeof(CS.UnityEngine.Canvas)):isNull() == false) then
-		self:GetComponent(typeof(CS.UnityEngine.Canvas)).sortingOrder = 12;
+	local obj = self:GetComponent(typeof(CS.UnityEngine.Canvas))
+	if(obj ~= nil and obj:isNull() == false) then
+		obj.sortingOrder = 12;
 	else
 		local canvas = self.gameObject:AddComponent(typeof(CS.UnityEngine.Canvas));
 		self.gameObject:AddComponent(typeof(CS.UnityEngine.UI.GraphicRaycaster));

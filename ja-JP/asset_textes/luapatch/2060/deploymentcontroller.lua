@@ -107,9 +107,16 @@ local TriggerFriendTurnEvent = function()
 	CS.DeploymentController.TriggerFriendTurnEvent();
 end
 
+local startFriendAllyTeamTurn = function()
+	print("RequestFriendAllyTeamTurn");
+	CS.DeploymentController.Instance:RequestFriendAllyTeamTurn();
+	--CS.DeploymentController.TriggerFriendAllyTeamTurnEvent();
+end
+
 local TriggerFriendAllyTeamTurnEvent = function()
-	CS.DeploymentPlanModeController.Instance.enabled = true;
-	CS.DeploymentController.TriggerFriendAllyTeamTurnEvent();
+	CS.DeploymentPlanModeController.Instance.enabled = true;	
+	CS.DeploymentController.AddAction(startFriendAllyTeamTurn,0.2);
+	--xlua.hotfix(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',nil)
 end
 
 local TriggerStartEnemyTurnEvent = function()
@@ -117,6 +124,76 @@ local TriggerStartEnemyTurnEvent = function()
 	CS.DeploymentController.TriggerStartEnemyTurnEvent();
 end
 
+local FinishMissionEvent = function()
+	CS.DeploymentController.TriggerFinishMissionEvent();
+end
+
+local CheckBattle = function(self)
+	if CS.GameData.missionResult ~= nil then
+		CS.GameData.missionAction.queuePerformanceHandler:Clear();
+		self:AddAndPlayPerformance(FinishMissionEvent);
+		self:AddAndPlayPerformance(nil);
+		return;
+	end
+	self:CheckBattle();
+end
+
+local PlayChangAllyTeam = function(self)
+	if CS.GameData.missionAction.currentTurnBelong == CS.MissionAction.TurnBelong.SelfTurn then
+		local layer = CS.DeploymentBackgroundController.currentlayer;
+		for i = 0,CS.DeploymentBackgroundController.layers.Count-1 do
+			if CS.DeploymentBackgroundController.layers[i] ~= layer then
+				CS.DeploymentBackgroundController.currentlayer = CS.DeploymentBackgroundController.layers[i];
+				CS.DeploymentController.Instance:PlayChangAllyTeam();
+			end
+		end
+		CS.DeploymentBackgroundController.currentlayer = layer;
+	end
+	self:PlayChangAllyTeam();			
+end
+
+local PlaySpotSurroundCapture = function(self)
+	if CS.GameData.missionAction.currentTurnBelong == CS.MissionAction.TurnBelong.SelfTurn then
+		for i=0,CS.DeploymentBackgroundController.layers.Count-1 do
+			if CS.DeploymentBackgroundController.currentlayer ~= CS.DeploymentBackgroundController.layers[i] then
+				self.cannotPlayLayer:Add(CS.DeploymentBackgroundController.layers[i]);
+			end
+		end
+		local layer = CS.DeploymentBackgroundController.currentlayer;
+		for i = 0,CS.DeploymentBackgroundController.layers.Count-1 do
+			CS.DeploymentBackgroundController.currentlayer = CS.DeploymentBackgroundController.layers[i];
+			self:PlaySpotSurroundCapture();
+		end
+		CS.DeploymentBackgroundController.currentlayer = layer;
+		self.cannotPlayLayer:Clear();
+	else		
+		self:PlaySpotSurroundCapture();	
+	end
+end
+
+local FinishBattle = function(self)
+	self:FinishBattle();
+	if self.showSpotAction.spot.currentTeamTemp ~= nil and self.showSpotAction.spot.currentTeamTemp == self.showSpotAction.spot.currentTeam then
+		self.showSpotAction.spot.currentTeamTemp = nil;
+	end
+end
+
+local TriggerStartMissionEvent = function()
+	if CS.DeploymentPlanModeController.Instance.status == CS.DeploymentPlanModeController.PlanStatus.playLastRecord then
+		local hasfriendTeam = false;
+		for i=0,CS.DeploymentBackgroundController.Instance.listSpot.Count-1 do
+			local spot = CS.DeploymentBackgroundController.Instance.listSpot[i];
+			if spot:HasFriendlyTeam() then
+				hasfriendTeam = true;
+			end
+		end
+		if not hasfriendTeam then
+			CS.DeploymentPlanModeController.Instance:_CancelPlan();
+			return;
+		end
+	end
+	CS.DeploymentController.TriggerStartMissionEvent();
+end
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -127,3 +204,8 @@ util.hotfix_ex(CS.DeploymentController,'RequestWithDraw',RequestWithDraw)
 util.hotfix_ex(CS.DeploymentController,'TriggerFriendTurnEvent',TriggerFriendTurnEvent)
 util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartEnemyTurnEvent',TriggerStartEnemyTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'CheckBattle',CheckBattle)
+util.hotfix_ex(CS.DeploymentController,'PlayChangAllyTeam',PlayChangAllyTeam)
+util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroundCapture)
+util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
+util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)

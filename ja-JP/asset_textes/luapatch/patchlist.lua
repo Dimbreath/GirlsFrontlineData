@@ -312,6 +312,7 @@ patch2060=
 "2060/DeploymentPathController",
 "2060/DeploymentPlanModeController",
 "2060/DeploymentEnemyFormation",
+"2060/DeploymentEnemyInfo",
 "2060/DeploymentCampaignExplain",
 "2060/DeploymentTeamInfoController",
 "2060/DeploymentTeamController",
@@ -387,6 +388,8 @@ patch2060=
 "2060/Request",
 "2060/RetireController",
 "2060/CombineController",
+"2060/WeddingPlay",
+"2060/AVGCreditsController",
 }
 --[[
 -- va11

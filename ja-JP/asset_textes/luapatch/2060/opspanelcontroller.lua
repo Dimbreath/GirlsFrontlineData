@@ -83,7 +83,7 @@ local HideAllLabel = function(self)
 		holder:HideSpots();
 	end
 
-	if self.background3d ~= nil then
+	if self.background3d ~= nil and not self.background3d:isNull() then
 		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform:DOLocalMove(pos,0.5);
 	end
@@ -104,7 +104,7 @@ end
 
 local InitBackground = function(self)
 	self:InitBackground();
-	if self.background3d ~= nil then
+	if self.background3d ~= nil and not self.background3d:isNull() then
 		local pos = CS.OPSPanelBackGround.Instance.modelPos+CS.UnityEngine.Vector3(0,0,-550*CS.OPSPanelController.difficulty);
 		self.background3d.transform.localPosition = pos;
 	end
@@ -143,7 +143,27 @@ local RefreshItemNum = function(self)
 	if CS.OPSPanelController.showItemId.Count>0 then
 		self:RefreshItemNum();
 	end
+	if self.campaionId == -31 then
+		if self.itemuiObj ~= nil and not self.itemuiObj:isNull() then
+			self.itemuiObj:SetActive(false);
+		end
+	end
 end
+
+local Load = function(self,campaion)
+	self:Load(campaion);
+	if self.currentPanelConfig ~= nil then
+		if campaion == -31 then
+			self.currentPanelConfig.ItemId = "8001";
+		end
+	end
+end
+
+local CancelMission = function(self)
+	self:CancelMission();
+	self.MissionInfoController.gameObject:SetActive(false);
+end
+
 util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)
 util.hotfix_ex(CS.OPSPanelController,'MoveSpine',MoveSpine)
 util.hotfix_ex(CS.OPSPanelController,'InitBackground',InitBackground)
@@ -152,3 +172,5 @@ util.hotfix_ex(CS.OPSPanelController,'HideAllLabel',HideAllLabel)
 util.hotfix_ex(CS.OPSPanelController,'ShowAllLabel',ShowAllLabel)
 util.hotfix_ex(CS.OPSPanelController,'CheckAnim',CheckAnim)
 util.hotfix_ex(CS.OPSPanelController,'RefreshItemNum',RefreshItemNum)
+util.hotfix_ex(CS.OPSPanelController,'Load',Load)
+util.hotfix_ex(CS.OPSPanelController,'CancelMission',CancelMission)
