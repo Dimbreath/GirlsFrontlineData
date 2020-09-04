@@ -131,3 +131,35 @@
 131,Squad,회로와 같은 색의 칩셋을 일정 칸 수 이상 설치 시 <color=#ffb400>공명</color>이 일어나 상한을 넘는 보정을 받을 수 있습니다.
 132,Squad,아군 헬리포트 위에 시설이 존재할 시 행동점수만 제공하며 다른 기능을 사용할 수 없습니다. 적 헬리포트 위에 시설이 존재할 시 증원병력이 나오지 않습니다.
 133,spDevelop,산탄총(<color=#ffb400>SG</color>) 전술인형은 비교적 높은 장갑과 체력을 지니고//c 공격 시 적을 밀어낼 수 있어//c 전열에 배치하는 것이 어울립니다.
+134,0,<color=#ffb400>지휘관 옷장</color>에서 지휘관님의 의상을 교체할 수 있습니다.
+135,0,한 의상에 여러 색상이 존재할 경우 <color=#ffb400>염색약</color>으로 다른 염색을 개방할 수 있습니다.
+136,0,<color=#ffb400>지휘관 의상</color>을 수집하면 다양한 <color=#ffb400>스킬</color>을 개방할 수 있습니다. 같은 스킬은 중첩이 가능합니다.
+137,explore,<color=#c6ff00ff>우세인형</color>과 <color=#c6ff00ff>우세동물</color>을 탐색대에 편성하면 <color=#c6ff00ff>탐색 수익 상승</color> 효과를 얻습니다. 우세목록은 <color=#c6ff00ff>정기적 갱신</color>되니//c 제때 탐색대를 갱신하세요.
+138,explore,<color=#c6ff00ff>고레벨 인형</color>을 탐색에 파견하면 <color=#c6ff00ff>탐색 복귀 보상</color>이 <color=#c6ff00ff>소폭</color> 증가합니다. <color=#c6ff00ff>우세인형</color>을 파견하면 <color=#c6ff00ff>탐색 복귀 보상</color>이 <color=#c6ff00ff>대폭</color> 증가합니다.
+139,explore,<color=#c6ff00ff>우세동물</color>을 탐색에 파견하면 <color=#c6ff00ff>더 높은 확률</color>로 <color=#c6ff00ff>신비한 지점</color>을 탐색할 수 있습니다. 신비한 지점은 <color=#c6ff00ff>더 좋은 탐색 복귀 보상</color>을 제공합니다.
+140,explore,각 종류의 애완동물은 각자 선호하는 탐색 지형이 있습니다.
+141,explore,탐색 도중 보상과 복귀 보상은 <color=#c6ff00ff>전리품 캐비닛</color>에 저장됩니다. 저장량에 한도가 있으니 제때 수령하세요.
+142,explore,<color=#c6ff00ff>전진기지 - 블랙마켓</color>에서 다양한 상품을 교환할 수 있습니다. 그중 <color=#c6ff00ff>도구</color>탭은 <color=#c6ff00ff>매월 1일</color>에 갱신되니 제때 교환하세요.
+143,explore,<color=#c6ff00ff>전진기지 - 블랙마켓</color>에서 <color=#c6ff00ff>전력 상승</color>에 도움되는 도구를 교환할 수 있습니다.
+144,sangvis,혼합세력유닛 경험치 도구 <color=#FFB400FF>급속성장디스크</color>는 모의작전 - 혼합훈련 - <color=#FFB400FF>방어구사특훈</color>에서 얻을 수 있습니다.
+145,sangvis,혼합세력 스킬 훈련 도구 <color=#FFB400FF>훈련코드</color>는 모의작전 - 혼합훈련 - <color=#FFB400FF>해석연산연습</color>에서 얻을 수 있습니다.
+146,sangvis,혼합세력 이더넷 개발 도구 <color=#FFB400FF>개발 디스크</color>는 모의작전 - 혼합훈련 - <color=#FFB400FF>개발조절훈련</color>에서 얻을 수 있습니다.
+147,sangvis,<color=#FFB400FF>태생 3성</color> 혼합세력유닛을 중복 획득할 경우//c <color=#FFB400FF>자동으로 피크분석</color> 레벨을 높입니다. 분석 레벨이 이미 <color=#FFB400FF>최대치</color>일 경우 자동으로 <color=#FFB400FF>노바커널</color>로 분해합니다.
+148,sangvis,통합작전 - <color=#FFB400FF>커널상점</color>에서 다양한 상품을 교환할 수 있습니다. 그중 일부 품목은 <color=#FFB400FF>정기적으로 교체</color>되니 주의하세요.
+149,sangvis,혼합세력 인식주입 재료 <color=#FFB400FF>전이촉매</color>는 통합작전 - <color=#FFB400FF>커널상점</color>에서 교환할 수 있습니다.
+150,sangvis,혼합세력제대의 <color=#FFB400FF>탄약 식량 보급량</color>은 제대의 <color=#FFB400FF>코스트 상한</color>에 비례합니다.
+151,sangvis,혼합세력제대는 탄약 식량을 <color=#FFB400FF>제대 전체가 공유</color>하며 개별 보급하지 않습니다.
+152,sangvis,생산 공장 규격 차이로 인해//c <color=#FFB400FF>태생 1성//c 2성</color> 혼합세력유닛은 같은 유닛 사이에도 <color=#FFB400FF>체격차이</color>가 존재합니다. 체격이 <color=#FFB400FF>클수록</color> 성능이 <color=#FFB400FF>뛰어납니다</color>.
+153,sangvis,혼합세력제대의 칩셋은 한 번 개발하면 소모없이 <color=#FFB400FF>여러번</color> 사용할 수 있습니다.
+154,sangvis,모의작전 - <color=#FFB400FF>혼합훈련</color>에선 <color=#FFB400FF>시스템이 제공한 인형</color>만 사용할 수 있습니다. 제공한 인형 모두 <color=#FFB400FF>완전무장</color>한 상태니 바로 사용할 수 있습니다.
+155,sangvis,모의작전 - <color=#FFB400FF>혼합훈련</color>에서 소요시간이 <color=#FFB400FF>짧을수록</color>//c 보상을 <color=#FFB400FF>많이</color> 받습니다.
+156,sangvis,혼합세력유닛의 레벨이 <color=#FFB400FF>10/30/70/90</color>에 도달했을 때 <color=#FFB400FF>이더넷 개발</color>을 통해 레어도를 올리고 성능을 대폭 강화할 수 있습니다.
+157,sangvis,혼합세력의 <color=#FFB400FF>근접</color> 유닛은 <color=#FFB400FF>근접방침</color>을 통해 행동 방식을 전환할 수 있습니다.
+158,sangvis,<color=#FFB400FF>야간전</color>에서 혼합세력유닛도 <color=#FFB400FF>시야 및 명중 페널티</color>를 받습니다. 전술칩을 장착해 일부 시야 및 명중을 <color=#FFB400FF>회복할 수 있습니다</color>.
+159,sangvis,<color=#FFB400FF>태생 3성</color> 혼합세력유닛은 <color=#FFB400FF>리더 위치</color>에만 배치할 수 있습니다.
+160,sangvis,그리폰 인형과 다른 점으로 혼합세력유닛은 사망해도 <color=#FFB400FF>자신의 호감도만 감소하며</color> 다른 유닛의 호감도에 영향은 없습니다.
+161,sangvis,일부 태생 3성 혼합유닛은 <color=#FFB400FF>지원스킬</color>을 지니고 있어//c <color=#FFB400FF>전장시설</color>에 피해를 줄 수 있습니다. 피해량은 유닛 <color=#FFB400FF>화력</color>에 비례합니다.
+162,Squad,화력소대는 <color=#FFB400FF>전장시설</color>에 피해를 줄 수 있습니다. 피해량은 유닛 <color=#FFB400FF>파쇄</color>에 비례합니다.
+163,mission_targettrain,[모의작전 - <color=#FFB400FF>표적훈련</color>]에서 자신의 작전 능력과 실전 요령을 테스트할 수 있습니다.
+164,mission_targettrain,[표적훈련 - <color=#FFB400FF>제식표적</color>]의 표적 능력치를 지휘관이 <color=#FFB400FF>자유롭게 설정</color>할 수 있습니다. 설정 기능을 활용해 다방면의 작전능력을 테스트할 수 있습니다.
+165,mission_targettrain,[표적훈련 - <color=#FFB400FF>연습표적</color>]은 다양한 적 조합을 재현하여//c 수요에 따라 각종 적을 골라 연습전을 진행하여 실전 요령을 단련할 수 있습니다.

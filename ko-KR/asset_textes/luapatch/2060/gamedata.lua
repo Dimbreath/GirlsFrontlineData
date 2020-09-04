@@ -24,5 +24,24 @@ local skillBelong_New = function(self)
 	end
 end
 
+local hasFriendTeam_New = function(self)
+	if self.friendlyTeamId ~= 0 then
+		return true;
+	elseif self.sangvisTeamId ~= 0 then
+		return true;
+	elseif self.squadTeamInstanceIds.Count>0 then
+		return true;
+	elseif self.allyTeamInstanceIds.Count>0 then
+		for i=0,self.allyTeamInstanceIds.Count -1 do
+			local allyteam = CS.GameData.missionAction.listAllyTeams:GetDataById(self.allyTeamInstanceIds[i]);
+			if allyteam ~= nil and allyteam.currentBelong == CS.TeamBelong.friendly then
+				return true;
+			end
+		end
+	end
+	return false;
+end
+
 util.hotfix_ex(CS.GameData,'GetItem',GetItem_New)
 util.hotfix_ex(CS.SpotAction,'get_skillBelong',skillBelong_New)
+util.hotfix_ex(CS.SpotAction,'get_hasFriendTeam',hasFriendTeam_New)
