@@ -8,4 +8,9 @@ local myShow = function(self,...)
 	local efobj = meshRenderer.gameObject:GetComponent(typeof(CS.SpineEffectController));
     efobj:SetOrderInLayer(efobj.transform:GetChild(0).gameObject, 1);
 end
+local myCancel = function(self)
+	self:Cancel()
+	CS.UnityEngine.Object.Destroy(self.gameObject);
+end
 util.hotfix_ex(CS.ShowEffectInfoBoxController,'Show',myShow)
+util.hotfix_ex(CS.ShowEffectInfoBoxController,'Cancel',myCancel)

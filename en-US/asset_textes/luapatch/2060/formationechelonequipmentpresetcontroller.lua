@@ -1,5 +1,253 @@
+local _, LuaDebuggee = pcall(require, 'LuaDebuggee')
+if LuaDebuggee and LuaDebuggee.StartDebug then
+	LuaDebuggee.StartDebug('127.0.0.1', 9826)
+else
+	print('Please read the FAQ.pdf')
+end
 local util = require 'xlua.util'
 xlua.private_accessible(CS.FormationEchelonEquipmentPresetController)
+xlua.private_accessible(CS.Equip)
+local equipWantGunSoltMap = CS.System.Collections.Generic.Dictionary(CS.System.Int32, CS.System.Int64)()
+local pa = nil;
+myNextEquip = function(self, gun, gunLocation,slotIndex,dontDestory)
+	if (slotIndex == 4) then
+		self:NextEquip(gun, gunLocation, slotIndex, dontDestory);
+	else
+		local eq = nil;
+		if (gun ~= nil) then
+			if (equipWantGunSoltMap:ContainsKey(slotIndex)) then
+				local eqId = equipWantGunSoltMap[slotIndex];
+				eq = gun.wantEquipList:Find(function(s) return s.id == eqId end);
+			end
+		end
+		myChangeEquip(self, gun, eq, slotIndex, gunLocation, slotIndex, self.currentSelectForce);
+	end
+end
+myChangeEquip = function(self, ...)
+	local length = select('#', ...);
+    if length == 6 then
+        local gun = select(1, ...);
+        local eq = select(2, ...);
+        local i = select(3, ...);
+        local gunLocation = select(4, ...);
+        local slotIndex = select(5, ...);
+		local currentSelectedForce = select(5, ...);
+		self.currentSelectForce = currentSelectedForce;
+		for i = 0, gun.equipList.Count - 1, 1 do
+			local myEquip = gun.equipList[i];
+			if(CS.GameData.equipRealGunSoltMap:ContainsKey(myEquip.id)) then
+                myEquip.slotWithGun = CS.GameData.equipRealGunSoltMap[myEquip.id];  
+			end
+		end
+        if eq ~= nil then
+			if self.isSmartOn == true then
+                if (CS.GameData.equipRealGunMap:ContainsKey(eq.id)) then
+                    local gunid = CS.GameData.equipRealGunMap[eq.id];
+                    local g = CS.GameData.listGun:GetDataById(gunid);
+                    if (g.id ~= gun.id) then
+						local tempEquips = CS.System.Collections.Generic.List(CS.Equip)();
+                        tempEquips:AddRange(CS.GameData.listEquip:GetList());
+						for k,v in pairs(CS.GameData.equipRealGunMap) do
+							local equipId = k;
+                            local userId = v;
+                            for c = tempEquips.Count - 1, 0, -1 do
+                                if(tempEquips[c].id == equipId and tempEquips[c].gunId ~= 0 and tempEquips[c].gunId ~= g.id) then
+                                    tempEquips:RemoveAt(c);
+                                    break;
+								end
+                            end
+						end
+                        local resultEquips = tempEquips:FindAll(
+							function(ss)
+								return CS.GameData.equipRealGunMap:ContainsKey(ss.id) == false and ss.info.auto_select_id == eq.info.auto_select_id and (ss.info.listFitGunInfoId.Count == 0 or ss.info.listFitGunInfoId:Contains(g.info.id));
+							end
+						);
+                        if (resultEquips.Count == 0) then
+                            self.needShowTips = true;
+                            self:RemoveList(gun, eq, gunLocation, slotIndex);
+                            return;
+                        else
+							local resultTables = ListToTable(resultEquips)
+							pa = CS.FormationEchelonEquipmentPresetController.Instance.param;
+							table.sort(resultTables, sortGT)
+                            local spEquip = resultTables[0];
+                            spEquip.slotWithGun = eq.slotWithGun;
+                            eq = spEquip;
+						end
+					end
+                end
+			else
+                if (CS.GameData.equipRealGunMap:ContainsKey(eq.id)) then
+                    local gunid = CS.GameData.equipRealGunMap[eq.id];
+                    local g = CS.GameData.listGun:GetDataById(gunid);
+                    if (g.status == CS.GunStatus.mission or g.status == CS.GunStatus.operation) then
+                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+                        return;
+                    end
+                end
+                local currentEq = self.equipGunMap:ContainsKey(eq.id); 
+                if (currentEq and currentSelectForce == false) then
+                    eq.gunId = self.equipGunMap[eq.id]; 
+                    eq.gun = CS.GameData.listGun:GetDataById(self.equipGunMap[eq.id]);
+                    eq.slotWithGun = CS.GameData.equipRealGunSoltMap[eq.id]; 
+                    local idEquip = eq.gun.equipList:Find(function(s) return s.id == eq.id end);
+                    if (idEquip ~= nil) then
+                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+                        return;
+                    else
+                        local slotEquip = eq.gun.equipList:Find(function(s) return s.slotWithGun == eq.slotWithGun end);
+                        if (slotEquip ~= nil) then
+                            eq.gun.equipList:Remove(slotEquip);
+                            slotEquip.gun = nil;
+                            slotEquip.gunId = 0;
+                            slotEquip.slotWithGun = 0;
+						end
+                        eq.gun.equipList:Add(eq);
+                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+                        return;
+					end
+				end
+			end
+			local wantEquip = gun.equipList:Find(function(s) return s.id == eq.id end);
+            local wantEquipSlot = slotIndex;
+            if (wantEquip ~= nil) then
+				for k,v in pairs(equipWantGunSoltMap) do
+					if(v == wantEquip.id) then
+						wantEquipSlot = k;
+						break;
+					end
+				end
+            end
+            if (gun.equipList:Exists(function(s) return s.slotWithGun == wantEquipSlot and s.id == eq.id end)) then
+                self:RemoveList(gun, eq, gunLocation, slotIndex);
+            elseif(gun.equipList:Exists( function(s) return s.id == eq.id end)) then
+                local oldEq = gun.equipList:Find(function(s) return s.id == eq.id end);
+                gun:RequestChangeEquip(
+					function()
+						if (gun.equipList:Exists(function(s) return wantEquipSlot == s.slotWithGun end)) then
+                            local ooldEq = gun.equipList:Find(function(s) return s.slotWithGun == wantEquipSlot end);
+                            gun:RequestChangeEquip(
+								function()
+									gun:RequestChangeEquip(
+									function() 
+										self:RemoveList(gun, eq, gunLocation, slotIndex);
+									end
+									, eq, true, wantEquipSlot);
+								end
+                                , ooldEq, false, wantEquipSlot);
+                        else
+                            gun:RequestChangeEquip(
+								function()
+									self:RemoveList(gun, eq, gunLocation, slotIndex);
+								end
+                                , eq, true, wantEquipSlot);
+                        end
+					end
+					, oldEq, false, oldEq.slotWithGun);
+            else
+                if (gun.equipList:Exists(function(s) return wantEquipSlot == s.slotWithGun end)) then
+                    local oldEq = gun.equipList:Find(function(s) return s.slotWithGun == wantEquipSlot end);
+                    gun:RequestChangeEquip(
+						function()
+							gun:RequestChangeEquip(
+								function()
+									self:RemoveList(gun, eq, gunLocation, slotIndex);
+								end
+                                , eq, true, wantEquipSlot);
+						end
+                        , oldEq, false, wantEquipSlot);
+                else
+                    if (gun.equipList:Exists(function(s) return s.id == eq.id end)) then
+                        local slot = gun.equipList:Find(function(s) return s.id == eq.id end).slotWithGun;
+                        gun:RequestChangeEquip(
+							function()
+								gun:RequestChangeEquip(
+									function()
+										self:RemoveList(gun, eq, gunLocation, slotIndex);
+									end
+                                    , eq, true, wantEquipSlot);
+							end
+                            , eq, false, slot);
+                    else
+                        gun:RequestChangeEquip(
+							function()
+								self:RemoveList(gun, eq, gunLocation, slotIndex);
+							end
+                            , eq, true, wantEquipSlot);
+                    
+					end
+                end
+			end
+        else
+            if (gun ~= null and gun.equipList:Exists(function(s) return s.slotWithGun == i end)) then
+                local oldEq = gun.equipList:Find(function(s) return s.slotWithGun == i end);
+                gun:RequestChangeEquip(
+					function()
+						self:RemoveList(gun, eq, gunLocation, slotIndex);
+					end
+                    , oldEq, false, i);
+            else
+				self:RemoveList(gun, eq, gunLocation, slotIndex);
+			end
+        end
+    else
+		local gunLocation = select(1, ...);
+        local currentSelectedForce = select(2, ...);
+		
+		self.currentSelectForce = currentSelectedForce;
+		self.currntGunLocationIndex = gunLocation;
+		local gunLabel = CS.FormationController.Instance.arrCharacterLabel[gunLocation];
+		if (gunLabel.gun ~= nil and self._data.arrGun[gunLocation] ~= nil) then
+	
+		else
+			if(self.currntGunLocationIndex < CS.FormationController.Instance.arrCharacterLabel.Length - 1) then
+				self:ChangeEquip(self.currntGunLocationIndex + 1, self.currentSelectForce);
+			else
+					
+				self:NextEquip(nil, 0, 4, false); 
+				return;
+			end
+		end
+		local oldEquips = CS.System.Collections.Generic.List(CS.Equip)();
+		if(self._data.arrGun ~= nil and self._data.arrGun[gunLocation] ~= nil)then
+			oldEquips = self._data.arrGun[gunLocation].ListEquipCached;
+			for ii = oldEquips.Count - 1, 0, -1 do
+				if oldEquips[ii].gunId ~= CS.GameData.equipRealGunMap[oldEquips[ii].id] then
+					oldEquips:RemoveAt(ii);
+				end					
+			end
+		end
+		
+		local gun = gunLabel.gun;
+		if(gun ~= nil) then
+			local presetIndex = self.arrLabelHolder[gunLocation].currentRecordIndex;
+			gun.wantEquipList:Clear();
+			equipWantGunSoltMap:Clear();
+			for ii = 0, 2, 1 do
+				local equipRecord = gun.EquipPresetRecord[presetIndex][ii];
+				if (equipRecord.equipID ~= 0) then
+					local wantEQ = CS.GameData.listEquip:GetDataById(equipRecord.equipID);
+					if(wantEQ ~= nil) then
+						wantEQ.slotWithGun = ii + 1;
+						gun.wantEquipList:Add(wantEQ);
+						equipWantGunSoltMap:Add(ii + 1, wantEQ.id);
+					end
+				end
+			end
+			gun.equipList = oldEquips;
+			for eindex = 0, gun.wantEquipList.Count - 1, 1 do
+				local eq = gun.wantEquipList[eindex];
+				if (CS.GameData.equipRealGunMap:ContainsKey(eq.id)) then
+					local g = CS.GameData.listGun:GetDataById(CS.GameData.equipRealGunMap[eq.id]);
+					if (self.currentTeamGuns:Exists(function(s) return s.id == g.id;end) == false) then										
+						self.currentTeamGuns.Add(g);
+					end		
+				end
+			end
+			self:NextEquip(gun, gunLocation, 1, true);
+		end
+    end 
+end
 local myOnClickComfirm = function(self)
 	local showTip = false;
 	local guns = CS.System.Collections.Generic["List`1[GF.Battle.Gun]"]() 
@@ -53,4 +301,57 @@ local myOnClickComfirm = function(self)
 		end
     end
 end
+function sortGT(left, right)
+		if (left.info.rank ~= right.info.rank) then
+			if(left.info.rank > right.info.rank) then
+				return pa;
+			else
+				return pa * -1;
+			end
+        elseif (left.equip_level ~= right.equip_level) then
+			if(left.equip_level > right.equip_level) then
+				return pa;
+			else
+				return pa * -1;
+			end
+        elseif (left:CheckPropertyAllMax() ~= right:CheckPropertyAllMax()) then
+			if(left:CheckPropertyAllMax()) then
+				return pa;
+			else
+				return pa * -1;
+			end
+        else
+			if(left.id > right.id) then
+				return pa;
+			else
+				return pa * -1;
+			end
+        end
+end
+function ListToTable(CSharpList)
+    --将C#的List转成Lua的Table
+    local list = {}
+    if CSharpList then
+        local index = 0
+        local iter = CSharpList:GetEnumerator()
+        while iter:MoveNext() do
+            local v = iter.Current
+            list[index] = v
+            index = index + 1
+        end
+    else
+        print("Error,CSharpList is null")
+    end
+    return list
+end
+
+myRemoveList = function(self, gun, eq, gunLocation, slotIndex)
+	if (eq ~= nil and gun ~= nil) then
+		gun.wantEquipList:Remove(eq);
+		myNextEquip(self, gun, gunLocation, slotIndex+1, true);
+	end
+end
+util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'ChangeEquip',myChangeEquip)
 util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'OnClickComfirm',myOnClickComfirm)
+util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'NextEquip',myNextEquip)
+util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'RemoveList',myRemoveList)
