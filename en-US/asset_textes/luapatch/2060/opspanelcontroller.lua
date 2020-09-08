@@ -158,6 +158,12 @@ local Load = function(self,campaion)
 		end
 	end
 end
+
+local CancelMission = function(self)
+	self:CancelMission();
+	self.MissionInfoController.gameObject:SetActive(false);
+end
+
 util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)
 util.hotfix_ex(CS.OPSPanelController,'MoveSpine',MoveSpine)
 util.hotfix_ex(CS.OPSPanelController,'InitBackground',InitBackground)
@@ -167,3 +173,4 @@ util.hotfix_ex(CS.OPSPanelController,'ShowAllLabel',ShowAllLabel)
 util.hotfix_ex(CS.OPSPanelController,'CheckAnim',CheckAnim)
 util.hotfix_ex(CS.OPSPanelController,'RefreshItemNum',RefreshItemNum)
 util.hotfix_ex(CS.OPSPanelController,'Load',Load)
+util.hotfix_ex(CS.OPSPanelController,'CancelMission',CancelMission)

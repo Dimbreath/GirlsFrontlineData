@@ -93,7 +93,7 @@ NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||<BIN>70</BIN><黑屏2>:Sta
 NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Member</Speaker>||:Yes, sir. +...Uh, sir, our comms are picking up some kind of noise.
 NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>;NPC-Yegor(3)||:Noise?
 NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Member</Speaker>||<BGM>DJMAX_PlasticMethod</BGM>:Sounds a bit like... music?
-NPC-Soldier(0);NPC-Yegor(3)<Speaker>传令兵</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Report - a group of Griffin drones have appeared in the northwest. They're heading our way and hacking into our comms.</color> +<color=#00CCFF>Our heat detectors indicate that they're carrying a small amount of explosives. My guess is we're looking at a suicide attack.</color>
+NPC-Soldier(0);NPC-Yegor(3)<Speaker>Soldier</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Report - a group of Griffin drones have appeared in the northwest. They're heading our way and hacking into our comms.</color> +<color=#00CCFF>Our heat detectors indicate that they're carrying a small amount of explosives. My guess is we're looking at a suicide attack.</color>
 NPC-Yegor(3)<Speaker>Assault Team Leader</Speaker>||<黑屏1>:Humph, how is it suicide when they're just lumps of metal? +Switch over to radio communications. Two of you stay behind, the rest come with me to wipe them out.
 Fairy_origin(0)<Speaker>Prototype Fairy</Speaker><Position>0,350</Position>||<BIN>9</BIN><黑屏2>:Looks like the others are catching up. We can't let them find out you're being rebuilt.
 Fairy_origin(0)<Speaker>M950A</Speaker><Position>0,350</Position>||:Is someone drawing them away?

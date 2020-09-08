@@ -668,7 +668,7 @@ manual_ui-19333230,Control Terminal I
 manual_ui-29333230,Defense Gate ALL
 manual_ui-39333230,Open
 manual_ui-19336101,Friendly Echelons
-manual_ui-29336101,
+manual_ui-29336101,Tripod I
 manual_ui-39336101,Sleep
 manual_ui-19336103,Friendly Echelons
 manual_ui-29336103,Defense Gate X
@@ -682,78 +682,216 @@ manual_ui-39333604,Blast
 manual_ui-19336401,Friendly Echelons
 manual_ui-29336401,???
 manual_ui-39336401,Blast
-manual_ui-19370212,Friendly Echelons
-manual_ui-29370212,Defense Gate A
-manual_ui-39370212,Close
-manual_ui-19370411,Friendly Echelons
-manual_ui-29370411,Defense Gate B
-manual_ui-39370411,Open
-manual_ui-19370412,Friendly Echelons
-manual_ui-29370412,Defense Gate B
-manual_ui-39370412,Close
-manual_ui-19370511,Friendly Echelons
-manual_ui-29370511,Defense Gate X1
-manual_ui-39370511,Open
-manual_ui-19370512,Friendly Echelons
-manual_ui-29370512,Defense Gate X2
-manual_ui-39370512,Open
-manual_ui-19370513,Friendly Echelons
-manual_ui-29370513,Defense Gate X3
-manual_ui-39370513,Open
-manual_ui-19370514,Friendly Echelons
-manual_ui-29370514,Defense Gate X4
-manual_ui-39370514,Open
-manual_ui-19370515,Friendly Echelons
-manual_ui-29370515,Defense Gate X1
-manual_ui-39370515,Close
-manual_ui-19370516,Friendly Echelons
-manual_ui-29370516,Defense Gate X2
-manual_ui-39370516,Close
-manual_ui-19370517,Friendly Echelons
-manual_ui-29370517,Defense Gate X3
-manual_ui-39370517,Close
-manual_ui-19370518,Friendly Echelons
-manual_ui-29370518,Defense Gate X4
-manual_ui-39370518,Close
-manual_ui-19370611,Friendly Echelons
-manual_ui-29370611,Defense Gate X1
-manual_ui-39370611,Open
-manual_ui-19370612,Friendly Echelons
-manual_ui-29370612,Defense Gate X1/X2
-manual_ui-39370612,Mode Switch
-manual_ui-19370613,Friendly Echelons
-manual_ui-29370613,Defense Gate X1/X2
-manual_ui-39370613,Mode Switch
-manual_ui-19370614,Friendly Echelons
-manual_ui-29370614,???
-manual_ui-39370614,Pick Up
-manual_ui-19370615,Friendly Echelons
-manual_ui-29370615,???
-manual_ui-39370615,Throw out
+manual_ui-18120301,Control Terminal I
+manual_ui-28120301,Defense Gate I
+manual_ui-38120301,Open A
+manual_ui-18120302,Control Terminal I
+manual_ui-28120302,Defense Gate I
+manual_ui-38120302,Open B
+manual_ui-18120303,Control Terminal I
+manual_ui-28120303,Defense Gate I
+manual_ui-38120303,Open C
+manual_ui-18120304,Control Terminal I
+manual_ui-28120304,Defense Gate I
+manual_ui-38120304,Open D
+manual_ui-18120305,Control Terminal I
+manual_ui-28120305,Defense Gate I
+manual_ui-38120305,Reset
+manual_ui-18120701,Friendly Echelons
+manual_ui-28120701,Abandoned Building
+manual_ui-38120701,Set explosives
+manual_ui-18120709,Friendly Echelons
+manual_ui-28120709,EMP generator
+manual_ui-38120709,E!M!P!EX
+manual_ui-19363403,Friendly Echelons
+manual_ui-29363403,Coastal Defense Artillery
+manual_ui-39363403,FIRE!
+manual_ui-19363405,Friendly Echelons
+manual_ui-29363405,Coastal Defense Artillery
+manual_ui-39363405,2 8 8 7
+manual_ui-11150102,Friendly Echelons
+manual_ui-21150102,Large Water Valve I
+manual_ui-31150102,Preset Detonation
+manual_ui-11150202,Friendly Echelons
+manual_ui-21150202,Large Water Valve II
+manual_ui-31150202,Preset Detonation
+manual_ui-11150302,Friendly Echelons
+manual_ui-21150302,Large Water Valve III
+manual_ui-31150302,Preset Detonation
+manual_ui-11150402,Friendly Echelons
+manual_ui-21150402,Large Water Valve IV
+manual_ui-31150402,Preset Detonation
+manual_ui-19363069,Friendly Echelons
+manual_ui-29363069,???
+manual_ui-39363069,Easy Mode
+manual_ui-19363070,Friendly Echelons
+manual_ui-29363070,???
+manual_ui-39363070,Stay in hell
+manual_ui-19363082,Friendly Echelons
+manual_ui-29363082,???
+manual_ui-39363082,Preset Detonation
+manual_ui-19363802,Friendly Echelons
+manual_ui-29363802,???
+manual_ui-39363802,Move
+manual_ui-19363901,Friendly Echelons
+manual_ui-29363901,???
+manual_ui-39363901,Move ①
+manual_ui-19363902,Friendly Echelons
+manual_ui-29363902,???
+manual_ui-39363902,Move ②
+manual_ui-19363903,Friendly Echelons
+manual_ui-29363903,???
+manual_ui-39363903,Error
+manual_ui-11140101,Friendly Echelons
+manual_ui-21140101,EMP Grenade
+manual_ui-31140101,Pick Up
+manual_ui-11140103,Friendly Echelons
+manual_ui-21140103,???
+manual_ui-31140103,Throw out
+manual_ui-19361731,Friendly Echelons
+manual_ui-29361731,Defense Gate A1
+manual_ui-39361731,Open
+manual_ui-19361732,Friendly Echelons
+manual_ui-29361732,Defense Gate A2
+manual_ui-39361732,Open
+manual_ui-19361733,Friendly Echelons
+manual_ui-29361733,Defense Gate A3
+manual_ui-39361733,Open
+manual_ui-19361734,Friendly Echelons
+manual_ui-29361734,Defense Gate AX
+manual_ui-39361734,Open
+manual_ui-19361735,Friendly Echelons
+manual_ui-29361735,Defense Gate B1
+manual_ui-39361735,Open
+manual_ui-19361736,Friendly Echelons
+manual_ui-29361736,Defense Gate B2
+manual_ui-39361736,Open
+manual_ui-19361737,Friendly Echelons
+manual_ui-29361737,Defense Gate B3
+manual_ui-39361737,Open
+manual_ui-19361738,Friendly Echelons
+manual_ui-29361738,Defense Gate BX
+manual_ui-39361738,Open
+manual_ui-19361741,Friendly Echelons
+manual_ui-29361741,Defense Gate A1
+manual_ui-39361741,Off
+manual_ui-19361742,Friendly Echelons
+manual_ui-29361742,Defense Gate A2
+manual_ui-39361742,Off
+manual_ui-19361743,Friendly Echelons
+manual_ui-29361743,Defense Gate A3
+manual_ui-39361743,Off
+manual_ui-19361744,Friendly Echelons
+manual_ui-29361744,Defense Gate AX
+manual_ui-39361744,Off
+manual_ui-19361745,Friendly Echelons
+manual_ui-29361745,Defense Gate B1
+manual_ui-39361745,Off
+manual_ui-19361746,Friendly Echelons
+manual_ui-29361746,Defense Gate B2
+manual_ui-39361746,Off
+manual_ui-19361747,Friendly Echelons
+manual_ui-29361747,Defense Gate B3
+manual_ui-39361747,Off
+manual_ui-19361748,Friendly Echelons
+manual_ui-29361748,Defense Gate BX
+manual_ui-39361748,Off
+manual_ui-19361751,Friendly Echelons
+manual_ui-29361751,Defense Gate X2/X4
+manual_ui-39361751,Switch Mode
+manual_ui-19361752,Friendly Echelons
+manual_ui-29361752,Defense Gate X2/X3
+manual_ui-39361752,Switch Mode
+manual_ui-19361753,Friendly Echelons
+manual_ui-29361753,Defense Gate X1/X2
+manual_ui-39361753,Switch Mode
+manual_ui-19361754,Friendly Echelons
+manual_ui-29361754,Defense Gate X2/X4
+manual_ui-39361754,Switch Mode
+manual_ui-19361755,Friendly Echelons
+manual_ui-29361755,Defense Gate X1/X4
+manual_ui-39361755,Switch Mode
+manual_ui-19361756,Friendly Echelons
+manual_ui-29361756,Defense Gate X1
+manual_ui-39361756,Switch Mode
+manual_ui-19361757,Friendly Echelons
+manual_ui-29361757,Defense Gate X1/X3
+manual_ui-39361757,Switch Mode
+manual_ui-19361758,Friendly Echelons
+manual_ui-29361758,Defense Gate X1
+manual_ui-39361758,Switch Mode
+manual_ui-19361759,Friendly Echelons
+manual_ui-29361759,Defense Gate X1/X2/X3
+manual_ui-39361759,Switch Mode
+manual_ui-19361761,Friendly Echelons
+manual_ui-29361761,Defense Gate X1/X3
+manual_ui-39361761,Switch Mode
+manual_ui-19361762,Friendly Echelons
+manual_ui-29361762,Defense Gate X1/X2
+manual_ui-39361762,Switch Mode
+manual_ui-19361763,Friendly Echelons
+manual_ui-29361763,Defense Gate X2/X3
+manual_ui-39361763,Switch Mode
+manual_ui-19361764,Friendly Echelons
+manual_ui-29361764,Defense Gate X1/X4
+manual_ui-39361764,Switch Mode
+manual_ui-19361765,Friendly Echelons
+manual_ui-29361765,Defense Gate X2/X4
+manual_ui-39361765,Switch Mode
+manual_ui-19361766,Friendly Echelons
+manual_ui-29361766,Defense Gate X1/X3
+manual_ui-39361766,Switch Mode
+manual_ui-19361767,Friendly Echelons
+manual_ui-29361767,Defense Gate X1/X2/X3
+manual_ui-39361767,Switch Mode
+manual_ui-19361768,Friendly Echelons
+manual_ui-29361768,Defense Gate X2/X3/X4
+manual_ui-39361768,Switch Mode
+manual_ui-19361769,Friendly Echelons
+manual_ui-29361769,Defense Gate X4
+manual_ui-39361769,Switch Mode
+manual_ui-19361803,Friendly Echelons
+manual_ui-29361803,???
+manual_ui-39361803,Throw out
+manual_ui-19361805,Friendly Echelons
+manual_ui-29361805,EMP Grenade
+manual_ui-39361805,Pick Up
+manual_ui-19362002,Friendly Echelons
+manual_ui-29362002,???
+manual_ui-39362002,Pick Up
+manual_ui-19362003,Friendly Echelons
+manual_ui-29362003,???
+manual_ui-39362003,Preset Detonation
+manual_ui-19362013,Friendly Echelons
+manual_ui-29362013,BGM HOC
+manual_ui-39362013,FIRE!
+manual_ui-19362014,Friendly Echelons
+manual_ui-29362014,BGM HOC
+manual_ui-39362014,2 8 8 7
 manual_ui-19370211,Friendly Echelons
 manual_ui-29370211,Defense Gate A
-manual_ui-39370211,Open
+manual_ui-39370211,On
 manual_ui-19370212,Friendly Echelons
 manual_ui-29370212,Defense Gate A
 manual_ui-39370212,Close
 manual_ui-19370411,Friendly Echelons
 manual_ui-29370411,Defense Gate B
-manual_ui-39370411,Open
+manual_ui-39370411,On
 manual_ui-19370412,Friendly Echelons
 manual_ui-29370412,Defense Gate B
 manual_ui-39370412,Close
 manual_ui-19370511,Friendly Echelons
 manual_ui-29370511,Defense Gate X1
-manual_ui-39370511,Open
+manual_ui-39370511,On
 manual_ui-19370512,Friendly Echelons
 manual_ui-29370512,Defense Gate X2
-manual_ui-39370512,Open
+manual_ui-39370512,On
 manual_ui-19370513,Friendly Echelons
 manual_ui-29370513,Defense Gate X3
-manual_ui-39370513,Open
+manual_ui-39370513,On
 manual_ui-19370514,Friendly Echelons
 manual_ui-29370514,Defense Gate X4
-manual_ui-39370514,Open
+manual_ui-39370514,On
 manual_ui-19370515,Friendly Echelons
 manual_ui-29370515,Defense Gate X1
 manual_ui-39370515,Close
@@ -768,13 +906,13 @@ manual_ui-29370518,Defense Gate X4
 manual_ui-39370518,Close
 manual_ui-19370611,Friendly Echelons
 manual_ui-29370611,Defense Gate X1
-manual_ui-39370611,Open
+manual_ui-39370611,On
 manual_ui-19370612,Friendly Echelons
 manual_ui-29370612,Defense Gate X1/X2
-manual_ui-39370612,Mode Switch
+manual_ui-39370612,Switch Mode
 manual_ui-19370613,Friendly Echelons
 manual_ui-29370613,Defense Gate X1/X2
-manual_ui-39370613,Mode Switch
+manual_ui-39370613,Switch Mode
 manual_ui-19370614,Friendly Echelons
 manual_ui-29370614,???
 manual_ui-39370614,Pick Up
@@ -782,32 +920,32 @@ manual_ui-19370615,Friendly Echelons
 manual_ui-29370615,???
 manual_ui-39370615,Throw out
 manual_ui-19130101,Friendly Echelons
-manual_ui-29130101,护盾发生器
-manual_ui-39130101,轰击
+manual_ui-29130101,Shield Generator
+manual_ui-39130101,Blast
 manual_ui-19130114,Friendly Echelons
-manual_ui-29130114,Blast
-manual_ui-39130114,轰击
+manual_ui-29130114,Rubble
+manual_ui-39130114,Blast
 manual_ui-19130201,Friendly Echelons
-manual_ui-29130201,防空阵地
-manual_ui-39130201,轰击
+manual_ui-29130201,Anti-Air Turret
+manual_ui-39130201,Blast
 manual_ui-19130506,Friendly Echelons
-manual_ui-29130506,Defense Gate 
-manual_ui-39130506,预置爆破
+manual_ui-29130506,Defense Gate
+manual_ui-39130506,Preset Detonation
 manual_ui-19130507,Friendly Echelons
-manual_ui-29130507,Defense Gate 
-manual_ui-39130507,预置爆破
+manual_ui-29130507,Defense Gate
+manual_ui-39130507,Preset Detonation
 manual_ui-10390101,Friendly Echelons
-manual_ui-20390101,控制台
-manual_ui-30390101,增援确认
+manual_ui-20390101,Control Terminal
+manual_ui-30390101,Confirm reinforcements
 manual_ui-10390102,Friendly Echelons
-manual_ui-20390102,控制台
-manual_ui-30390102,增援确认
+manual_ui-20390102,Control Terminal
+manual_ui-30390102,Confirm reinforcements
 manual_ui-10390103,Friendly Echelons
-manual_ui-20390103,控制台
-manual_ui-30390103,增援确认
+manual_ui-20390103,Control Terminal
+manual_ui-30390103,Confirm reinforcements
 manual_ui-10390104,Friendly Echelons
-manual_ui-20390104,控制台
-manual_ui-30390104,增援确认
+manual_ui-20390104,Control Terminal
+manual_ui-30390104,Confirm reinforcements
 manual_ui-10390133,Friendly Echelons
 manual_ui-20390133,???
 manual_ui-30390133,Stay in hell//n【↖】
@@ -836,26 +974,140 @@ manual_ui-16380204,Friendly Echelons
 manual_ui-26380204,Defense Gate X2
 manual_ui-36380204,Close
 manual_ui-10381401,Friendly Echelons
-manual_ui-20381401,零件箱
-manual_ui-30381401,拾取
+manual_ui-20381401,Parts Crate
+manual_ui-30381401,Pick Up
 manual_ui-10381434,Friendly Echelons
-manual_ui-20381434,零件箱
-manual_ui-30381434,运送_M1897
+manual_ui-20381434,Parts Crate
+manual_ui-30381434,Transport_M1897
 manual_ui-10381435,Friendly Echelons
-manual_ui-20381435,零件箱
-manual_ui-30381435,运送_P90
+manual_ui-20381435,Parts Crate
+manual_ui-30381435,Transport_P90
 manual_ui-10381436,Friendly Echelons
-manual_ui-20381436,零件箱
-manual_ui-30381436,运送_M249
+manual_ui-20381436,Parts Crate
+manual_ui-30381436,Transport_M249
 manual_ui-10381437,Friendly Echelons
-manual_ui-20381437,零件箱
-manual_ui-30381437,运送_AUG
+manual_ui-20381437,Parts Crate
+manual_ui-30381437,Transport_AUG
 manual_ui-10381438,Friendly Echelons
-manual_ui-20381438,零件箱
-manual_ui-30381438,运送_SVD
+manual_ui-20381438,Parts Crate
+manual_ui-30381438,Transport_SVD
 manual_ui-10381501,Friendly Echelons
-manual_ui-20381501,控制台
-manual_ui-30381501,简单训练
+manual_ui-20381501,Control Terminal
+manual_ui-30381501,Simple Training
 manual_ui-10381502,Friendly Echelons
-manual_ui-20381502,控制台
-manual_ui-30381502,困难训练
+manual_ui-20381502,Control Terminal
+manual_ui-30381502,Difficult Training
+manual_ui-19410201,
+manual_ui-29410201,
+manual_ui-39410201,
+manual_ui-19410212,
+manual_ui-29410212,
+manual_ui-39410212,
+manual_ui-19410308,
+manual_ui-29410308,
+manual_ui-39410308,
+manual_ui-19410321,
+manual_ui-29410321,
+manual_ui-39410321,
+manual_ui-19410329,
+manual_ui-29410329,
+manual_ui-39410329,
+manual_ui-19410214,
+manual_ui-29410214,
+manual_ui-39410214,
+manual_ui-19411301,
+manual_ui-29411301,
+manual_ui-39411301,
+manual_ui-19411302,
+manual_ui-29411302,
+manual_ui-39411302,
+manual_ui-19411303,
+manual_ui-29411303,
+manual_ui-39411303,
+manual_ui-19411239,
+manual_ui-29411239,
+manual_ui-39411239,
+manual_ui-19411240,
+manual_ui-29411240,
+manual_ui-39411240,
+manual_ui-19411241,
+manual_ui-29411241,
+manual_ui-39411241,
+manual_ui-19411242,
+manual_ui-29411242,
+manual_ui-39411242,
+manual_ui-19411244,
+manual_ui-29411244,
+manual_ui-39411244,
+manual_ui-16410101,
+manual_ui-26410101,
+manual_ui-36410101,
+manual_ui-16410102,
+manual_ui-26410102,
+manual_ui-36410102,
+manual_ui-16410401,
+manual_ui-26410401,
+manual_ui-36410401,
+manual_ui-16410501,
+manual_ui-26410501,
+manual_ui-36410501,
+manual_ui-16410701,
+manual_ui-26410701,
+manual_ui-36410701,
+manual_ui-16410901,
+manual_ui-26410901,
+manual_ui-36410901,
+manual_ui-16411101,
+manual_ui-26411101,
+manual_ui-36411101,
+manual_ui-16411201,
+manual_ui-26411201,
+manual_ui-36411201,
+manual_ui-16411401,
+manual_ui-26411401,
+manual_ui-36411401,
+manual_ui-10410311,
+manual_ui-20410311,
+manual_ui-30410311,
+manual_ui-10410313,
+manual_ui-20410313,
+manual_ui-30410313,
+manual_ui-10410321,
+manual_ui-20410321,
+manual_ui-30410321,
+manual_ui-10410322,
+manual_ui-20410322,
+manual_ui-30410322,
+manual_ui-10410323,
+manual_ui-20410323,
+manual_ui-30410323,
+manual_ui-10410341,
+manual_ui-20410341,
+manual_ui-30410341,
+manual_ui-10410342,
+manual_ui-20410342,
+manual_ui-30410342,
+manual_ui-10410343,
+manual_ui-20410343,
+manual_ui-30410343,
+manual_ui-10410344,
+manual_ui-20410344,
+manual_ui-30410344,
+manual_ui-10410351,
+manual_ui-20410351,
+manual_ui-30410351,
+manual_ui-10410353,
+manual_ui-20410353,
+manual_ui-30410353,
+manual_ui-10410363,
+manual_ui-20410363,
+manual_ui-30410363,
+manual_ui-10410364,
+manual_ui-20410364,
+manual_ui-30410364,
+manual_ui-10410365,
+manual_ui-20410365,
+manual_ui-30410365,
+manual_ui-10410366,
+manual_ui-20410366,
+manual_ui-30410366,

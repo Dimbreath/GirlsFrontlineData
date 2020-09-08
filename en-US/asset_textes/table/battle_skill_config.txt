@@ -30063,11 +30063,11 @@ battle_skill_config-311350510,
 battle_skill_config-411350510,
 battle_skill_config-111360101,Muscle Pump
 battle_skill_config-211360101,Raise self damage by 30% and change target priority to enemies with the highest damage//c lasting for 3 seconds.
-battle_skill_config-311360101,Cooldown time: 10 seconds//cDamage increase: 30%//cDuration: 3 seconds
+battle_skill_config-311360101,Cooldown time: 10s//cDamage increase: 30%//cDuration: 3s
 battle_skill_config-411360101,
 battle_skill_config-111360102,Muscle Pump
 battle_skill_config-211360102,Raise self damage by 33% and change target priority to enemies with the highest damage//c lasting for 3.2 seconds.
-battle_skill_config-311360102,Cooldown time: 9.8 seconds//cDamage increase: 33%//cDuration: 3.2 seconds
+battle_skill_config-311360102,Cooldown time: 9.8s//cDamage increase: 33%//cDuration: 3.2s
 battle_skill_config-411360102,
 battle_skill_config-111360103,Muscle Pump
 battle_skill_config-211360103,Raise self damage by 37% and change target priority to enemies with the highest damage//c lasting for 3.4 seconds.
@@ -30079,19 +30079,19 @@ battle_skill_config-311360104,Cooldown: 9.3s//cDamage Increase: 40%//cDuration: 
 battle_skill_config-411360104,
 battle_skill_config-111360105,Muscle Pump
 battle_skill_config-211360105,Raise self damage by 43% and change target priority to enemies with the highest damage//c lasting for 3.9 seconds.
-battle_skill_config-311360105,Cooldown time: 9.1 seconds//cDamage increase: 43%//cDuration: 3.9 seconds
+battle_skill_config-311360105,Cooldown time: 9.1s//cDamage increase: 43%//cDuration: 3.9s
 battle_skill_config-411360105,
 battle_skill_config-111360106,Muscle Pump
 battle_skill_config-211360106,Raise self damage by 47% and change target priority to enemies with the highest damage//c lasting for 4.1 seconds.
-battle_skill_config-311360106,Cooldown time: 8.9 seconds//cDamage increase: 47%//cDuration: 4.1 seconds
+battle_skill_config-311360106,Cooldown time: 8.9s//cDamage increase: 47%//cDuration: 4.1s
 battle_skill_config-411360106,
 battle_skill_config-111360107,Muscle Pump
 battle_skill_config-211360107,Raise self damage by 50% and change target priority to enemies with the highest damage//c lasting for 4.3 seconds.
-battle_skill_config-311360107,Cooldown time: 8.7 seconds//cDamage increase: 50%//cDuration: 4.3 seconds
+battle_skill_config-311360107,Cooldown time: 8.7s//cDamage increase: 50%//cDuration: 4.3s
 battle_skill_config-411360107,
 battle_skill_config-111360108,Muscle Pump
 battle_skill_config-211360108,Raise self damage by 53% and change target priority to enemies with the highest damage//c lasting for 4.6 seconds.
-battle_skill_config-311360108,Cooldown time: 8.4 seconds//cDamage increase: 53%//cDuration: 4.6 seconds
+battle_skill_config-311360108,Cooldown time: 8.4s//cDamage increase: 53%//cDuration: 4.6s
 battle_skill_config-411360108,
 battle_skill_config-111360109,Muscle Pump
 battle_skill_config-211360109,Raise self damage by 57% and change target priority to enemies with the highest damage//c lasting for 4.8 seconds.
@@ -30186,44 +30186,44 @@ battle_skill_config-290029301,
 battle_skill_config-390029301,
 battle_skill_config-490029301,
 battle_skill_config-190028701,Pigeonwing Recording
-battle_skill_config-290028701,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 3%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 8% for 5 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 3% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028701,Cooldown time: 15 seconds//cDamage increase: 8%//cDuration: 5 seconds//cROF increase: 3%
+battle_skill_config-290028701,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 3 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 8 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 5 for 3 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028701,Cooldown time: 15 seconds//cDamage increase: 8%//cDuration: 5 seconds//cAttack speed increase: 3%
 battle_skill_config-490028701,
 battle_skill_config-190028702,Pigeonwing Recording
-battle_skill_config-290028702,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 4%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 9% for 5.3 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 4% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028702,Cooldown time: 14.7 seconds//cDamage increase: 9%//cDuration: 5.3 seconds//cROF increase: 4%
+battle_skill_config-290028702,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 4 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 9 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 5.3 for 4 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028702,Cooldown time: 14.7 seconds//cDamage increase: 9%//cDuration: 5.3 seconds//cAttack speed increase: 4%
 battle_skill_config-490028702,
 battle_skill_config-190028703,Pigeonwing Recording
-battle_skill_config-290028703,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 4%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 10% for 5.7 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 4% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028703,Cooldown time: 14.3 seconds//cDamage increase: 10%//cDuration: 5.7 seconds//cROF increase: 4%
+battle_skill_config-290028703,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 4 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 10 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 5.7 for 4 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028703,Cooldown time: 14.3 seconds//cDamage increase: 10%//cDuration: 5.7 seconds//cAttack speed increase: 4%
 battle_skill_config-490028703,
 battle_skill_config-190028704,Pigeonwing Recording
-battle_skill_config-290028704,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 5%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 11% for 6 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 5% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028704,Cooldown time: 14 seconds//cDamage increase: 11%//cDuration: 6 seconds//cROF increase: 5%
+battle_skill_config-290028704,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 5 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 11 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 6 for 5 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028704,Cooldown time: 14 seconds//cDamage increase: 11%//cDuration: 6 seconds//cAttack speed increase: 5%
 battle_skill_config-490028704,
 battle_skill_config-190028705,Pigeonwing Recording
-battle_skill_config-290028705,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 5%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 12% for 6.3 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 5% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028705,Cooldown time: 13.7 seconds//cDamage increase: 12%//cDuration: 6.3 seconds//cROF increase: 5%
+battle_skill_config-290028705,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 5 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 12 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 6.3 for 5 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028705,Cooldown time: 13.7 seconds//cDamage increase: 12%//cDuration: 6.3 seconds//cAttack speed increase: 5%
 battle_skill_config-490028705,
 battle_skill_config-190028706,Pigeonwing Recording
-battle_skill_config-290028706,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 6%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 14% for 6.7 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 6% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028706,Cooldown time: 13.3 seconds//cDamage increase: 14%//cDuration: 6.7 seconds//cROF increase: 6%
+battle_skill_config-290028706,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 6 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 14 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 6.7 for 6 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028706,Cooldown time: 13.3 seconds//cDamage increase: 14%//cDuration: 6.7 seconds//cAttack speed increase: 6%
 battle_skill_config-490028706,
 battle_skill_config-190028707,Pigeonwing Recording
-battle_skill_config-290028707,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 6%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 15% for 7 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 6% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028707,Cooldown time: 13 seconds//cDamage increase: 15%//cDuration: 7 seconds//cROF increase: 6%
+battle_skill_config-290028707,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 6 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 15 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 7 for 6 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028707,Cooldown time: 13 seconds//cDamage increase: 15%//cDuration: 7 seconds//cAttack speed increase: 6%
 battle_skill_config-490028707,
 battle_skill_config-190028708,Pigeonwing Recording
-battle_skill_config-290028708,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 7%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 16% for 7.3 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 7% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028708,Cooldown time: 12.7 seconds//cDamage increase: 16%//cDuration: 7.3 seconds//cROF increase: 7%
+battle_skill_config-290028708,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 7 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 16 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 7.3 for 7 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028708,Cooldown time: 12.7 seconds//cDamage increase: 16%//cDuration: 7.3 seconds//cAttack speed increase: 7%
 battle_skill_config-490028708,
 battle_skill_config-190028709,Pigeonwing Recording
-battle_skill_config-290028709,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 7%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 17% for 7.7 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 7% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028709,Cooldown time: 12.3 seconds//cDamage increase: 17%//cDuration: 7.7 seconds//cROF increase: 7%
+battle_skill_config-290028709,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 7 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 17 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 7.7 for 7 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028709,Cooldown time: 12.3 seconds//cDamage increase: 17%//cDuration: 7.7 seconds//cAttack speed increase: 7%
 battle_skill_config-490028709,
 battle_skill_config-190028710,Pigeonwing Recording
-battle_skill_config-290028710,Passive: When the battle starts//c immediately gain 3 Pigeonwing(s). When a friendly unit suffers a stat-decreasing debuff//c said unit's ROF increases by 8%//c lasting for 4 seconds//c stacking up to 1 times. This boost does not trigger the echoed buff effects of other units//c nor can it be used on the same unit within 3 seconds. When Borchardt suffers a stat-decreasing debuff//c trigger the passive effect once on herself and gain 1 additional Pigeonwing(s). Up to 6 Pigeonwings can be stocked at once.//nActive: Boost all allied units' firepower by 18% for 8 seconds. At the same time//c expend all stocked Pigeonwings//c with each Pigeonwing giving all allies a 8% ROF buff that lasts for 4 seconds//c with a maximum of 2 stacks//c which also stack with the passive version. This effect prioritizes units which have not been buffed by Pigeonwings//c and if there are remaining Pigeonwings//c the skill targets units with the highest DPS. Once the skill ends//c Borchardt replenishes 3 Pigeonwings. 
-battle_skill_config-390028710,Cooldown time: 12 seconds//cDamage increase: 18%//cDuration: 8 seconds//cROF increase: 8%
+battle_skill_config-290028710,Passive: //nGain 3 Pigeonwings upon the start of the battle. When an allied unit has received a stat-decreasing debuff//c that unit gains 8 Rate of Fire for 4 seconds//c stacking up to 1 time. This boost does not trigger other passive effects//c and cannot take effect on the same unit within 3 seconds. When C-93 receives 1 stat-decreasing debuff//c trigger the aforementioned effect on herself and gain 6 Pigeonwing. Only up to 18 Pigeonwings can be stocked at once.//nActive://nIncrease all allied units' damage by 8 for 8 seconds//c and expend all currently stocked Pigeonwings. For every Pigeonwing expended//c an ally gains 4 Rate of Fire//c stacking up to 2 times//c and this can stack with the Passive variant. This skill prioritizes units that have not been buffed by the Pigeonwings//c and thereafter the units with the highest DPS. Once the skill ends//c C-93 replenishes 3 Pigeonwings.
+battle_skill_config-390028710,Cooldown time: 12 seconds//cDamage increase: 18%//cDuration: 8 seconds//cAttack speed increase: 8%
 battle_skill_config-490028710,
 battle_skill_config-190028801,
 battle_skill_config-290028801,
@@ -30283,83 +30283,83 @@ battle_skill_config-390029210,
 battle_skill_config-490029210,
 battle_skill_config-190029401,D-Fense
 battle_skill_config-290029401,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 30%//c lasting 3 seconds.
-battle_skill_config-390029401,Cooldown time: 10 seconds//cEvasion increase: 30%//cDuration: 3 seconds
+battle_skill_config-390029401,Cooldown time: 10s//cEvasion increase: 30%//cDuration: 3s
 battle_skill_config-490029401,
 battle_skill_config-190029402,D-Fense
 battle_skill_config-290029402,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 33%//c lasting 3.2 seconds.
-battle_skill_config-390029402,Cooldown time: 9.8 seconds//cEvasion increase: 33%//cDuration: 3.2 seconds
+battle_skill_config-390029402,Cooldown time: 9.8s//cEvasion increase: 33%//cDuration: 3.2s
 battle_skill_config-490029402,
 battle_skill_config-190029403,D-Fense
 battle_skill_config-290029403,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 37%//c lasting 3.4 seconds.
-battle_skill_config-390029403,Cooldown time: 9.6 seconds//cEvasion increase: 37%//cDuration: 3.4 seconds
+battle_skill_config-390029403,Cooldown time: 9.6s//cEvasion increase: 37%//cDuration: 3.4s
 battle_skill_config-490029403,
 battle_skill_config-190029404,D-Fense
 battle_skill_config-290029404,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 40%//c lasting 3.7 seconds.
-battle_skill_config-390029404,Cooldown time: 9.3 seconds//cEvasion increase: 40%//cDuration: 3.7 seconds
+battle_skill_config-390029404,Cooldown time: 9.3s//cEvasion increase: 40%//cDuration: 3.7s
 battle_skill_config-490029404,
 battle_skill_config-190029405,D-Fense
 battle_skill_config-290029405,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 43%//c lasting 3.9 seconds.
-battle_skill_config-390029405,Cooldown time: 9.1 seconds//cEvasion increase: 43%//cDuration: 3.9 seconds
+battle_skill_config-390029405,Cooldown time: 9.1s//cEvasion increase: 43%//cDuration: 3.9s
 battle_skill_config-490029405,
 battle_skill_config-190029406,D-Fense
 battle_skill_config-290029406,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 47%//c lasting 4.1 seconds.
-battle_skill_config-390029406,Cooldown time: 8.9 seconds//cEvasion increase: 47%//cDuration: 4.1 seconds
+battle_skill_config-390029406,Cooldown time: 8.9s//cEvasion increase: 47%//cDuration: 4.1s
 battle_skill_config-490029406,
 battle_skill_config-190029407,D-Fense
 battle_skill_config-290029407,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 50%//c lasting 4.3 seconds.
-battle_skill_config-390029407,Cooldown time: 8.7 seconds//cEvasion increase: 50%//cDuration: 4.3 seconds
+battle_skill_config-390029407,Cooldown time: 8.7s//cEvasion increase: 50%//cDuration: 4.3s
 battle_skill_config-490029407,
 battle_skill_config-190029408,D-Fense
 battle_skill_config-290029408,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 53%//c lasting 4.6 seconds.
-battle_skill_config-390029408,Cooldown time: 8.4 seconds//cEvasion increase: 53%//cDuration: 4.6 seconds
+battle_skill_config-390029408,Cooldown time: 8.4s//cEvasion increase: 53%//cDuration: 4.6s
 battle_skill_config-490029408,
 battle_skill_config-190029409,D-Fense
 battle_skill_config-290029409,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 57%//c lasting 4.8 seconds.
-battle_skill_config-390029409,Cooldown time: 8.2 seconds//cEvasion increase: 57%//cDuration: 4.8 seconds
+battle_skill_config-390029409,Cooldown time: 8.2s//cEvasion increase: 57%//cDuration: 4.8s
 battle_skill_config-490029409,
 battle_skill_config-190029410,D-Fense
 battle_skill_config-290029410,Clear all negative status effects on self and grant self a maxed-out forcefield lasting 1 seconds. Once the forcefield disappears//c raise self evade by 60%//c lasting 5 seconds.
-battle_skill_config-390029410,Cooldown time: 8 seconds//cEvasion increase: 60%//cDuration: 5 seconds
+battle_skill_config-390029410,Cooldown time: 8s//cEvasion increase: 60%//cDuration: 5s
 battle_skill_config-490029410,
 battle_skill_config-190040101,Shimmering Waves
 battle_skill_config-290040101,Raise self ROF by 35%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 3% damage increase lasting for 3 seconds//c with a maximum of 3stacks.
-battle_skill_config-390040101,Cooldown time: 10 seconds//cROF increase: 35%//cDamage increase: 3%//cDuration: 3 seconds
+battle_skill_config-390040101,Cooldown time: 10s//cROF increase: 35%//cDamage increase: 3%//cDuration: 3s
 battle_skill_config-490040101,
 battle_skill_config-190040102,Shimmering Waves
 battle_skill_config-290040102,Raise self ROF by 38%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 3.2% damage increase lasting for 3 seconds//c with a maximum of 3.2stacks.
-battle_skill_config-390040102,Cooldown time: 9.8 seconds//cROF increase: 38%//cDamage increase: 3.2%//cDuration: 3.2 seconds
+battle_skill_config-390040102,Cooldown time: 9.8s//cROF increase: 38%//cDamage increase: 3.2%//cDuration: 3.2s
 battle_skill_config-490040102,
 battle_skill_config-190040103,Shimmering Waves
 battle_skill_config-290040103,Raise self ROF by 41%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 3.4% damage increase lasting for 3 seconds//c with a maximum of 3.4stacks.
-battle_skill_config-390040103,Cooldown time: 9.6 seconds//cROF increase: 41%//cDamage increase: 3.4%//cDuration: 3.4 seconds
+battle_skill_config-390040103,Cooldown time: 9.6s//cROF increase: 41%//cDamage increase: 3.4%//cDuration: 3.4s
 battle_skill_config-490040103,
 battle_skill_config-190040104,Shimmering Waves
 battle_skill_config-290040104,Raise self ROF by 43%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 3.7% damage increase lasting for 3 seconds//c with a maximum of 3.7stacks.
-battle_skill_config-390040104,Cooldown time: 9.3 seconds//cROF increase: 43%//cDamage increase: 3.7%//cDuration: 3.7 seconds
+battle_skill_config-390040104,Cooldown time: 9.3s//cROF increase: 43%//cDamage increase: 3.7%//cDuration: 3.7s
 battle_skill_config-490040104,
 battle_skill_config-190040105,Shimmering Waves
 battle_skill_config-290040105,Raise self ROF by 46%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 3.9% damage increase lasting for 3 seconds//c with a maximum of 3.9stacks.
-battle_skill_config-390040105,Cooldown time: 9.1 seconds//cROF increase: 46%//cDamage increase: 3.9%//cDuration: 3.9 seconds
+battle_skill_config-390040105,Cooldown time: 9.1s//cROF increase: 46%//cDamage increase: 3.9%//cDuration: 3.9s
 battle_skill_config-490040105,
 battle_skill_config-190040106,Shimmering Waves
 battle_skill_config-290040106,Raise self ROF by 49%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 4.1% damage increase lasting for 3 seconds//c with a maximum of 4.1stacks.
-battle_skill_config-390040106,Cooldown time: 8.9 seconds//cROF increase: 49%//cDamage increase: 4.1%//cDuration: 4.1 seconds
+battle_skill_config-390040106,Cooldown time: 8.9s//cROF increase: 49%//cDamage increase: 4.1%//cDuration: 4.1s
 battle_skill_config-490040106,
 battle_skill_config-190040107,Shimmering Waves
 battle_skill_config-290040107,Raise self ROF by 52%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 4.3% damage increase lasting for 3 seconds//c with a maximum of 4.3stacks.
-battle_skill_config-390040107,Cooldown time: 8.7 seconds//cROF increase: 52%//cDamage increase: 4.3%//cDuration: 4.3 seconds
+battle_skill_config-390040107,Cooldown time: 8.7s//cROF increase: 52%//cDamage increase: 4.3%//cDuration: 4.3s
 battle_skill_config-490040107,
 battle_skill_config-190040108,Shimmering Waves
 battle_skill_config-290040108,Raise self ROF by 54%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 4.6% damage increase lasting for 3 seconds//c with a maximum of 4.6stacks.
-battle_skill_config-390040108,Cooldown time: 8.4 seconds//cROF increase: 54%//cDamage increase: 4.6%//cDuration: 4.6 seconds
+battle_skill_config-390040108,Cooldown time: 8.4s//cROF increase: 54%//cDamage increase: 4.6%//cDuration: 4.6s
 battle_skill_config-490040108,
 battle_skill_config-190040109,Shimmering Waves
 battle_skill_config-290040109,Raise self ROF by 57%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 4.8% damage increase lasting for 3 seconds//c with a maximum of 4.8stacks.
-battle_skill_config-390040109,Cooldown time: 8.2 seconds//cROF increase: 57%//cDamage increase: 4.8%//cDuration: 4.8 seconds
+battle_skill_config-390040109,Cooldown time: 8.2s//cROF increase: 57%//cDamage increase: 4.8%//cDuration: 4.8s
 battle_skill_config-490040109,
 battle_skill_config-190040110,Shimmering Waves
 battle_skill_config-290040110,Raise self ROF by 60%//c and buff self depending on the number of gun types on the buff tiles. For every different gun type on the tiles//c gain a stack of 5% damage increase lasting for 3 seconds//c with a maximum of 5stacks.
-battle_skill_config-390040110,Cooldown time: 8 seconds//cROF increase: 60%//cDamage increase: 5%//cDuration: 5 seconds
+battle_skill_config-390040110,Cooldown time: 8s//cROF increase: 60%//cDamage increase: 5%//cDuration: 5s
 battle_skill_config-490040110,
 battle_skill_config-190040201,
 battle_skill_config-290040201,
@@ -36073,45 +36073,45 @@ battle_skill_config-190076410,
 battle_skill_config-290076410,
 battle_skill_config-390076410,
 battle_skill_config-490076410,
-battle_skill_config-190068001,
-battle_skill_config-290068001,
-battle_skill_config-390068001,
+battle_skill_config-190068001,Full Moon Protector
+battle_skill_config-290068001,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 15% for 3s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 10% for 3s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 10%; for every stack of ""Evasion Mark""//c gain an additional 6-HP shield. Effects last for 3s.
+battle_skill_config-390068001,Cooldown time: 20 seconds//cDamage increase: 15%//cEvasion increase: 10%//cAttack speed increase: 10%//cBonus shield: 6 points//cDuration: 3 seconds
 battle_skill_config-490068001,
-battle_skill_config-190068002,
-battle_skill_config-290068002,
-battle_skill_config-390068002,
+battle_skill_config-190068002,Full Moon Protector
+battle_skill_config-290068002,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 17% for 3.2s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 11% for 3.2s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 11%; for every stack of ""Evasion Mark""//c gain an additional 7-HP shield. Effects last for 3.2s.
+battle_skill_config-390068002,Cooldown time: 19.6 seconds//cDamage increase: 17%//cEvasion increase: 11%//cAttack speed increase: 11%//cBonus shield: 7 points//cDuration: 3.2 seconds
 battle_skill_config-490068002,
-battle_skill_config-190068003,
-battle_skill_config-290068003,
-battle_skill_config-390068003,
+battle_skill_config-190068003,Full Moon Protector
+battle_skill_config-290068003,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 18% for 3.4s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 12% for 3.4s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 12%; for every stack of ""Evasion Mark""//c gain an additional 8-HP shield. Effects last for 3.4s.
+battle_skill_config-390068003,Cooldown time: 19.1 seconds//cDamage increase: 18%//cEvasion increase: 12%//cAttack speed increase: 12%//cBonus shield: 8 points//cDuration: 3.4 seconds
 battle_skill_config-490068003,
-battle_skill_config-190068004,
-battle_skill_config-290068004,
-battle_skill_config-390068004,
+battle_skill_config-190068004,Full Moon Protector
+battle_skill_config-290068004,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 20% for 3.7s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 13% for 3.7s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 13%; for every stack of ""Evasion Mark""//c gain an additional 9-HP shield. Effects last for 3.7s.
+battle_skill_config-390068004,Cooldown time: 18.7 seconds//cDamage increase: 20%//cEvasion increase: 13%//cAttack speed increase: 13%//cBonus shield: 9 points//cDuration: 3.7 seconds
 battle_skill_config-490068004,
-battle_skill_config-190068005,
-battle_skill_config-290068005,
-battle_skill_config-390068005,
+battle_skill_config-190068005,Full Moon Protector
+battle_skill_config-290068005,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 22% for 3.9s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 14% for 3.9s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 14%; for every stack of ""Evasion Mark""//c gain an additional 10-HP shield. Effects last for 3.9s.
+battle_skill_config-390068005,Cooldown time: 18.2 seconds//cDamage increase: 22%//cEvasion increase: 14%//cAttack speed increase: 14%//cBonus shield: 10 points//cDuration: 3.9 seconds
 battle_skill_config-490068005,
-battle_skill_config-190068006,
-battle_skill_config-290068006,
-battle_skill_config-390068006,
+battle_skill_config-190068006,Full Moon Protector
+battle_skill_config-290068006,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 23% for 4.1s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 16% for 4.1s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 16%; for every stack of ""Evasion Mark""//c gain an additional 11-HP shield. Effects last for 4.1s.
+battle_skill_config-390068006,Cooldown time: 17.8 seconds//cDamage increase: 23%//cEvasion increase: 16%//cAttack speed increase: 16%//cBonus shield: 11 points//cDuration: 4.1 seconds
 battle_skill_config-490068006,
-battle_skill_config-190068007,
-battle_skill_config-290068007,
-battle_skill_config-390068007,
+battle_skill_config-190068007,Full Moon Protector
+battle_skill_config-290068007,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 25% for 4.3s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 17% for 4.3s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 17%; for every stack of ""Evasion Mark""//c gain an additional 12-HP shield. Effects last for 4.3s.
+battle_skill_config-390068007,Cooldown time: 17.3 seconds//cDamage increase: 25%//cEvasion increase: 17%//cAttack speed increase: 17%//cBonus shield: 12 points//cDuration: 4.3 seconds
 battle_skill_config-490068007,
-battle_skill_config-190068008,
-battle_skill_config-290068008,
-battle_skill_config-390068008,
+battle_skill_config-190068008,Full Moon Protector
+battle_skill_config-290068008,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 27% for 4.6s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 18% for 4.6s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 18%; for every stack of ""Evasion Mark""//c gain an additional 13-HP shield. Effects last for 4.6s.
+battle_skill_config-390068008,Cooldown time: 16.9 seconds//cDamage increase: 27%//cEvasion increase: 18%//cAttack speed increase: 18%//cBonus shield: 13 points//cDuration: 4.6 seconds
 battle_skill_config-490068008,
-battle_skill_config-190068009,
-battle_skill_config-290068009,
-battle_skill_config-390068009,
+battle_skill_config-190068009,Full Moon Protector
+battle_skill_config-290068009,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 28% for 4.8s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 19% for 4.8s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 19%; for every stack of ""Evasion Mark""//c gain an additional 14-HP shield. Effects last for 4.8s.
+battle_skill_config-390068009,Cooldown time: 16.4 seconds//cDamage increase: 28%//cEvasion increase: 19%//cAttack speed increase: 19%//cBonus shield: 14 points//cDuration: 4.8 seconds
 battle_skill_config-490068009,
-battle_skill_config-190068010,
-battle_skill_config-290068010,
-battle_skill_config-390068010,
+battle_skill_config-190068010,Full Moon Protector
+battle_skill_config-290068010,Passive: Gain a 10-HP shield at the start of battle//c lasting for 8s. When shielded//c obtain a stack of ""Damage Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Damage mark"" stack increases her damage by 30% for 5s. When not shielded//c obtain a stack of ""Evasion Mark"" every 2s//c up to a maximum of 3 stacks. Each ""Evasion Mark"" stack increases her evasion by 20% for 5s. Active: Gain a 10-HP shield for 8s. For every stack of ""Damage Mark""//c increase rate of fire by 20%; for every stack of ""Evasion Mark""//c gain an additional 15-HP shield. Effects last for 5s.
+battle_skill_config-390068010,Cooldown time: 16 seconds//cDamage increase: 30%//cEvasion increase: 20%//cAttack speed increase: 20%//cBonus shield: 15 points//cDuration: 5 seconds
 battle_skill_config-490068010,
 battle_skill_config-190068101,
 battle_skill_config-290068101,
@@ -36361,45 +36361,45 @@ battle_skill_config-190069110,
 battle_skill_config-290069110,
 battle_skill_config-390069110,
 battle_skill_config-490069110,
-battle_skill_config-190069201,
-battle_skill_config-290069201,
-battle_skill_config-390069201,
+battle_skill_config-190069201,Tower of Tisiphone
+battle_skill_config-290069201,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 6% for 3s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.3x the number of Tarot Cards consumed//c up to a maximum of 0.9x damage.
+battle_skill_config-390069201,Cooldown time: 12 seconds//cDamage increase: 6%//cDuration: 3 seconds//cSniping damage: 2x//cExtra damage: 0.3x
 battle_skill_config-490069201,
-battle_skill_config-190069202,
-battle_skill_config-290069202,
-battle_skill_config-390069202,
+battle_skill_config-190069202,Tower of Tisiphone
+battle_skill_config-290069202,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 7% for 3.2s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.1x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.32x the number of Tarot Cards consumed//c up to a maximum of 0.96x damage.
+battle_skill_config-390069202,Cooldown time: 11.8 seconds//cDamage increase: 7%//cDuration: 3.2 seconds//cSniping damage: 2.1x//cExtra damage: 0.32x
 battle_skill_config-490069202,
-battle_skill_config-190069203,
-battle_skill_config-290069203,
-battle_skill_config-390069203,
+battle_skill_config-190069203,Tower of Tisiphone
+battle_skill_config-290069203,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 8% for 3.4s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.2x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.34x the number of Tarot Cards consumed//c up to a maximum of 1.02x damage.
+battle_skill_config-390069203,Cooldown time: 11.6 seconds//cDamage increase: 8%//cDuration: 3.4 seconds//cSniping damage: 2.2x//cExtra damage: 0.34x
 battle_skill_config-490069203,
-battle_skill_config-190069204,
-battle_skill_config-290069204,
-battle_skill_config-390069204,
+battle_skill_config-190069204,Tower of Tisiphone
+battle_skill_config-290069204,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 9% for 3.7s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.3x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.37x the number of Tarot Cards consumed//c up to a maximum of 1.11x damage.
+battle_skill_config-390069204,Cooldown time: 11.3 seconds//cDamage increase: 9%//cDuration: 3.7 seconds//cSniping damage: 2.3x//cExtra damage: 0.37x
 battle_skill_config-490069204,
-battle_skill_config-190069205,
-battle_skill_config-290069205,
-battle_skill_config-390069205,
+battle_skill_config-190069205,Tower of Tisiphone
+battle_skill_config-290069205,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 10% for 3.9s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.4x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.39x the number of Tarot Cards consumed//c up to a maximum of 1.17x damage.
+battle_skill_config-390069205,Cooldown time: 11.1 seconds//cDamage increase: 10%//cDuration: 3.9 seconds//cSniping damage: 2.4x//cExtra damage: 0.39x
 battle_skill_config-490069205,
-battle_skill_config-190069206,
-battle_skill_config-290069206,
-battle_skill_config-390069206,
+battle_skill_config-190069206,Tower of Tisiphone
+battle_skill_config-290069206,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 11% for 4.1s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.6x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.41x the number of Tarot Cards consumed//c up to a maximum of 1.23x damage.
+battle_skill_config-390069206,Cooldown time: 10.9 seconds//cDamage increase: 11%//cDuration: 4.1 seconds//cSniping damage: 2.6x//cExtra damage: 0.41x
 battle_skill_config-490069206,
-battle_skill_config-190069207,
-battle_skill_config-290069207,
-battle_skill_config-390069207,
+battle_skill_config-190069207,Tower of Tisiphone
+battle_skill_config-290069207,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 12% for 4.3s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.7x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.43x the number of Tarot Cards consumed//c up to a maximum of 1.29x damage.
+battle_skill_config-390069207,Cooldown time: 10.7 seconds//cDamage increase: 12%//cDuration: 4.3 seconds//cSniping damage: 2.7x//cExtra damage: 0.43x
 battle_skill_config-490069207,
-battle_skill_config-190069208,
-battle_skill_config-290069208,
-battle_skill_config-390069208,
+battle_skill_config-190069208,Tower of Tisiphone
+battle_skill_config-290069208,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 13% for 4.6s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.8x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.46x the number of Tarot Cards consumed//c up to a maximum of 1.38x damage.
+battle_skill_config-390069208,Cooldown time: 10.4 seconds//cDamage increase: 13%//cDuration: 4.6 seconds//cSniping damage: 2.8x//cExtra damage: 0.46x
 battle_skill_config-490069208,
-battle_skill_config-190069209,
-battle_skill_config-290069209,
-battle_skill_config-390069209,
+battle_skill_config-190069209,Tower of Tisiphone
+battle_skill_config-290069209,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 14% for 4.8s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 2.9x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.48x the number of Tarot Cards consumed//c up to a maximum of 1.44x damage.
+battle_skill_config-390069209,Cooldown time: 10.2 seconds//cDamage increase: 14%//cDuration: 4.8 seconds//cSniping damage: 2.9x//cExtra damage: 0.48x
 battle_skill_config-490069209,
-battle_skill_config-190069210,
-battle_skill_config-290069210,
-battle_skill_config-390069210,
+battle_skill_config-190069210,Tower of Tisiphone
+battle_skill_config-290069210,Passive: Obtain a Tarot Card every 3 attacks//c up to a maximum of 3 Tarot Cards. Each Tarot Card increases her damage by 15% for 5s. Active: Consume all Tarot Cards and fire a shot that will not miss//c dealing 3x damage to the furthest target and possible critical damage. Additionally//c deal additional damage to enemies within a 1-unit radius around the target. The additional damage is equal to 0.5x the number of Tarot Cards consumed//c up to a maximum of 1.5x damage.
+battle_skill_config-390069210,Cooldown time: 10 seconds//cDamage increase: 15%//cDuration: 5 seconds//cSniping damage: 3x//cExtra damage: 0.5x
 battle_skill_config-490069210,
 battle_skill_config-190069301,
 battle_skill_config-290069301,
@@ -36533,45 +36533,45 @@ battle_skill_config-190070301,
 battle_skill_config-290070301,
 battle_skill_config-390070301,
 battle_skill_config-490070301,
-battle_skill_config-190070401,
-battle_skill_config-290070401,
-battle_skill_config-390070401,
+battle_skill_config-190070401,Puppet Trick
+battle_skill_config-290070401,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 30% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 30% and movement speed by 3 for 5s.
+battle_skill_config-390070401,Cooldown time: 20 seconds//cAttack speed increase: 30%//cDamage increase: 30%//cMovement speed increase: 3 points//cDuration: 5 seconds
 battle_skill_config-490070401,
-battle_skill_config-190070402,
-battle_skill_config-290070402,
-battle_skill_config-390070402,
+battle_skill_config-190070402,Puppet Trick
+battle_skill_config-290070402,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 32% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 36% and movement speed by 3 for 5.3s.
+battle_skill_config-390070402,Cooldown time: 19.6 seconds//cAttack speed increase: 32%//cDamage increase: 36%//cMovement speed increase: 3 points//cDuration: 5.3 seconds
 battle_skill_config-490070402,
-battle_skill_config-190070403,
-battle_skill_config-290070403,
-battle_skill_config-390070403,
+battle_skill_config-190070403,Puppet Trick
+battle_skill_config-290070403,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 34% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 41% and movement speed by 3 for 5.7s.
+battle_skill_config-390070403,Cooldown time: 19.1 seconds//cAttack speed increase: 34%//cDamage increase: 41%//cMovement speed increase: 3 points//cDuration: 5.7 seconds
 battle_skill_config-490070403,
-battle_skill_config-190070404,
-battle_skill_config-290070404,
-battle_skill_config-390070404,
+battle_skill_config-190070404,Puppet Trick
+battle_skill_config-290070404,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 37% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 47% and movement speed by 4 for 6s.
+battle_skill_config-390070404,Cooldown time: 18.7 seconds//cAttack speed increase: 37%//cDamage increase: 47%//cMovement speed increase: 4 points//cDuration: 6 seconds
 battle_skill_config-490070404,
-battle_skill_config-190070405,
-battle_skill_config-290070405,
-battle_skill_config-390070405,
+battle_skill_config-190070405,Puppet Trick
+battle_skill_config-290070405,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 39% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 52% and movement speed by 4 for 6.3s.
+battle_skill_config-390070405,Cooldown time: 18.2 seconds//cAttack speed increase: 39%//cDamage increase: 52%//cMovement speed increase: 4 points//cDuration: 6.3 seconds
 battle_skill_config-490070405,
-battle_skill_config-190070406,
-battle_skill_config-290070406,
-battle_skill_config-390070406,
+battle_skill_config-190070406,Puppet Trick
+battle_skill_config-290070406,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 41% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 58% and movement speed by 4 for 6.7s.
+battle_skill_config-390070406,Cooldown time: 17.8 seconds//cAttack speed increase: 41%//cDamage increase: 58%//cMovement speed increase: 4 points//cDuration: 6.7 seconds
 battle_skill_config-490070406,
-battle_skill_config-190070407,
-battle_skill_config-290070407,
-battle_skill_config-390070407,
+battle_skill_config-190070407,Puppet Trick
+battle_skill_config-290070407,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 43% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 63% and movement speed by 5 for 7s.
+battle_skill_config-390070407,Cooldown time: 17.3 seconds//cAttack speed increase: 43%//cDamage increase: 63%//cMovement speed increase: 5 points//cDuration: 7 seconds
 battle_skill_config-490070407,
-battle_skill_config-190070408,
-battle_skill_config-290070408,
-battle_skill_config-390070408,
+battle_skill_config-190070408,Puppet Trick
+battle_skill_config-290070408,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 46% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 69% and movement speed by 5 for 7.3s.
+battle_skill_config-390070408,Cooldown time: 16.9 seconds//cAttack speed increase: 46%//cDamage increase: 69%//cMovement speed increase: 5 points//cDuration: 7.3 seconds
 battle_skill_config-490070408,
-battle_skill_config-190070409,
-battle_skill_config-290070409,
-battle_skill_config-390070409,
+battle_skill_config-190070409,Puppet Trick
+battle_skill_config-290070409,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 48% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 74% and movement speed by 5 for 7.7s.
+battle_skill_config-390070409,Cooldown time: 16.4 seconds//cAttack speed increase: 48%//cDamage increase: 74%//cMovement speed increase: 5 points//cDuration: 7.7 seconds
 battle_skill_config-490070409,
-battle_skill_config-190070410,
-battle_skill_config-290070410,
-battle_skill_config-390070410,
+battle_skill_config-190070410,Puppet Trick
+battle_skill_config-290070410,Passive: When there is an enemy unit within a 2-unit distance//c switch to using a bayonet to deal 2x damage to the nearest target. In this state//c no ammo is consumed and rate of fire increases by 50% (this passive will not take effect when using Slug ammo). If there are no enemy units within a 2-unit distance//c increase maximum hit targets by 1. Active: Increase damage by 80% and movement speed by 6 for 8s.
+battle_skill_config-390070410,Cooldown time: 16 seconds//cAttack speed increase: 50%//cDamage increase: 80%//cMovement speed increase: 6 points//cDuration: 8 seconds
 battle_skill_config-490070410,
 battle_skill_config-190071001,
 battle_skill_config-290071001,
@@ -36585,45 +36585,45 @@ battle_skill_config-190071201,
 battle_skill_config-290071201,
 battle_skill_config-390071201,
 battle_skill_config-490071201,
-battle_skill_config-190071301,
-battle_skill_config-290071301,
-battle_skill_config-390071301,
+battle_skill_config-190071301,Thinker's Key
+battle_skill_config-290071301,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 16%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071301,Damage increase: 16%
 battle_skill_config-490071301,
-battle_skill_config-190071302,
-battle_skill_config-290071302,
-battle_skill_config-390071302,
+battle_skill_config-190071302,Thinker's Key
+battle_skill_config-290071302,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 17%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071302,Damage increase: 17%
 battle_skill_config-490071302,
-battle_skill_config-190071303,
-battle_skill_config-290071303,
-battle_skill_config-390071303,
+battle_skill_config-190071303,Thinker's Key
+battle_skill_config-290071303,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 18%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071303,Damage increase: 18%
 battle_skill_config-490071303,
-battle_skill_config-190071304,
-battle_skill_config-290071304,
-battle_skill_config-390071304,
+battle_skill_config-190071304,Thinker's Key
+battle_skill_config-290071304,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 19%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071304,Damage increase: 19%
 battle_skill_config-490071304,
-battle_skill_config-190071305,
-battle_skill_config-290071305,
-battle_skill_config-390071305,
+battle_skill_config-190071305,Thinker's Key
+battle_skill_config-290071305,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 20%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071305,Damage increase: 20%
 battle_skill_config-490071305,
-battle_skill_config-190071306,
-battle_skill_config-290071306,
-battle_skill_config-390071306,
+battle_skill_config-190071306,Thinker's Key
+battle_skill_config-290071306,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 21%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071306,Damage increase: 21%
 battle_skill_config-490071306,
-battle_skill_config-190071307,
-battle_skill_config-290071307,
-battle_skill_config-390071307,
+battle_skill_config-190071307,Thinker's Key
+battle_skill_config-290071307,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 22%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071307,Damage increase: 22%
 battle_skill_config-490071307,
-battle_skill_config-190071308,
-battle_skill_config-290071308,
-battle_skill_config-390071308,
+battle_skill_config-190071308,Thinker's Key
+battle_skill_config-290071308,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 23%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071308,Damage increase: 23%
 battle_skill_config-490071308,
-battle_skill_config-190071309,
-battle_skill_config-290071309,
-battle_skill_config-390071309,
+battle_skill_config-190071309,Thinker's Key
+battle_skill_config-290071309,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 24%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071309,Damage increase: 24%
 battle_skill_config-490071309,
-battle_skill_config-190071310,
-battle_skill_config-290071310,
-battle_skill_config-390071310,
+battle_skill_config-190071310,Thinker's Key
+battle_skill_config-290071310,Passive: While in Charging Mode//c this unit cannot perform normal attacks. For every 2s after a battle has begun//c obtain a Charge up to a maximum of 5 Charges. Each Charge increases her damage by 25%. Active: Enter Attack Mode. After Attack Mode expires//c reload and remove all damage buff from Charging mode//c then re-enter Charging Mode. When equipped with ""Spectacles""//c Charging Mode grants 8-HP shields to all allied units in front of her for 5 seconds//c up to a maximum of {NUM6] stacks. When equipped with ""Meteorite""//c Charging Mode increases all allies' damage by 5% for 5 seconds//c up to a maximum of 3 stacks. When equipped with ""Wristwatch""//c Charging Mode grants her 1 extra ammo.
+battle_skill_config-390071310,Damage increase: 25%
 battle_skill_config-490071310,
 battle_skill_config-190071401,
 battle_skill_config-290071401,
@@ -36685,44 +36685,44 @@ battle_skill_config-190072001,
 battle_skill_config-290072001,
 battle_skill_config-390072001,
 battle_skill_config-490072001,
-battle_skill_config-190072101,
-battle_skill_config-290072101,
+battle_skill_config-190072101,Extreme Shooting
+battle_skill_config-290072101,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 40% of accuracy to increase rate of fire to a fixed 150 for 3s.
 battle_skill_config-390072101,Cooldown time: 16 seconds//cAccuracy reduction: 40%//cDuration: 3 seconds
 battle_skill_config-490072101,
-battle_skill_config-190072102,
-battle_skill_config-290072102,
+battle_skill_config-190072102,Extreme Shooting
+battle_skill_config-290072102,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 36% of accuracy to increase rate of fire to a fixed 150 for 3.2s.
 battle_skill_config-390072102,Cooldown time: 15.6 seconds//cAccuracy reduction: 36%//cDuration: 3.2 seconds
 battle_skill_config-490072102,
-battle_skill_config-190072103,
-battle_skill_config-290072103,
+battle_skill_config-190072103,Extreme Shooting
+battle_skill_config-290072103,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 31% of accuracy to increase rate of fire to a fixed 150 for 3.4s.
 battle_skill_config-390072103,Cooldown time: 15.1 seconds//cAccuracy reduction: 31%//cDuration: 3.4 seconds
 battle_skill_config-490072103,
-battle_skill_config-190072104,
-battle_skill_config-290072104,
+battle_skill_config-190072104,Extreme Shooting
+battle_skill_config-290072104,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 27% of accuracy to increase rate of fire to a fixed 150 for 3.7s.
 battle_skill_config-390072104,Cooldown time: 14.7 seconds//cAccuracy reduction: 27%//cDuration: 3.7 seconds
 battle_skill_config-490072104,
-battle_skill_config-190072105,
-battle_skill_config-290072105,
+battle_skill_config-190072105,Extreme Shooting
+battle_skill_config-290072105,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 22% of accuracy to increase rate of fire to a fixed 150 for 3.9s.
 battle_skill_config-390072105,Cooldown time: 14.2 seconds//cAccuracy reduction: 22%//cDuration: 3.9 seconds
 battle_skill_config-490072105,
-battle_skill_config-190072106,
-battle_skill_config-290072106,
+battle_skill_config-190072106,Extreme Shooting
+battle_skill_config-290072106,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 18% of accuracy to increase rate of fire to a fixed 150 for 4.1s.
 battle_skill_config-390072106,Cooldown time: 13.8 seconds//cAccuracy reduction: 18%//cDuration: 4.1 seconds
 battle_skill_config-490072106,
-battle_skill_config-190072107,
-battle_skill_config-290072107,
+battle_skill_config-190072107,Extreme Shooting
+battle_skill_config-290072107,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 13% of accuracy to increase rate of fire to a fixed 150 for 4.3s.
 battle_skill_config-390072107,Cooldown time: 13.3 seconds//cAccuracy reduction: 13%//cDuration: 4.3 seconds
 battle_skill_config-490072107,
-battle_skill_config-190072108,
-battle_skill_config-290072108,
+battle_skill_config-190072108,Extreme Shooting
+battle_skill_config-290072108,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 9% of accuracy to increase rate of fire to a fixed 150 for 4.6s.
 battle_skill_config-390072108,Cooldown time: 12.9 seconds//cAccuracy reduction: 9%//cDuration: 4.6 seconds
 battle_skill_config-490072108,
-battle_skill_config-190072109,
-battle_skill_config-290072109,
+battle_skill_config-190072109,Extreme Shooting
+battle_skill_config-290072109,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 4% of accuracy to increase rate of fire to a fixed 150 for 4.8s.
 battle_skill_config-390072109,Cooldown time: 12.4 seconds//cAccuracy reduction: 4%//cDuration: 4.8 seconds
 battle_skill_config-490072109,
-battle_skill_config-190072110,
-battle_skill_config-290072110,
+battle_skill_config-190072110,Extreme Shooting
+battle_skill_config-290072110,Passive: Increase damage by 12% at the start of battle. This buff gradually decays by 4% every 2s//c and is completely removed after 6s. The buff will refresh itself every 10s. Active: Sacrifice 0% of accuracy to increase rate of fire to a fixed 150 for 5s.
 battle_skill_config-390072110,Cooldown time: 12 seconds//cAccuracy reduction: 0%//cDuration: 5 seconds
 battle_skill_config-490072110,
 battle_skill_config-190072201,

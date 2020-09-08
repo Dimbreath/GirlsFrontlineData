@@ -1,42 +1,42 @@
-team_ai-10000001,夜战
-team_ai-20000001,无法判断敌方行动轨迹。
-team_ai-10000002,待机
-team_ai-20000002,目标不会移动，原地待机。
-team_ai-10000003,随机
-team_ai-20000003,目标会朝着随机方向移动。
-team_ai-10000004,进攻
-team_ai-20000004,朝着指挥部进攻。
-team_ai-10000005,随机
-team_ai-20000005,目标会朝着随机方向移动。
-team_ai-10000006,离线
-team_ai-20000006,抱歉，当前无法联系目标。
-team_ai-10000007,待机
-team_ai-20000007,目标不会移动，原地待机。
-team_ai-10000008,离线
-team_ai-20000008,抱歉，当前无法联系目标。
-team_ai-10000009,巡逻
-team_ai-20000009,沿着特定路线移动，且对周边1格范围进行警戒，最多偏离原定路线1格。
-team_ai-10000010,警戒
-team_ai-20000010,警戒范围内不存在非己方单位时静止不动，警戒范围内进入非己方单位后，以“最短”的“可行”路径向“最近的”非己方单位移动。
-team_ai-10000011,扩张
-team_ai-20000011,随机向最近的非己方占领的路径点移动。
-team_ai-10000012,待机
-team_ai-20000012,目标不会移动，原地待机。
-team_ai-10000013,消灭
-team_ai-20000013,消灭最近的单位。
-team_ai-10000014,攻占
-team_ai-20000014,沿“可行的”、“最短”的路径向敌人指挥部移动。
-team_ai-10000015,离线
-team_ai-20000015,抱歉，当前无法联系目标。
-team_ai-10000016,巡逻
-team_ai-20000016,沿着特定路线移动，且对周边1格范围进行警戒，最多偏离原定路线1格。
-team_ai-10000017,警戒
-team_ai-20000017,警戒范围内不存在非己方单位时静止不动，警戒范围内进入非己方单位后，以“最短”的“可行”路径向“最近的”非己方单位移动。
-team_ai-10000018,扩张
-team_ai-20000018,随机向最近的非己方占领的路径点移动。
-team_ai-10000019,待机
-team_ai-20000019,目标不会移动，原地待机。
-team_ai-10000020,消灭
-team_ai-20000020,消灭最近的单位。
-team_ai-10000021,攻占
-team_ai-20000021,沿“可行的”、“最短”的路径向敌人指挥部移动。
+team_ai-10000001,Night Battle
+team_ai-20000001,Unable to determine enemy trajectory.
+team_ai-10000002,Standby
+team_ai-20000002,Target is immobile and is holding position.
+team_ai-10000003,Random
+team_ai-20000003,Target will move in random directions.
+team_ai-10000004,Attack
+team_ai-20000004,Advancing toward the Command Post.
+team_ai-10000005,Random
+team_ai-20000005,Target will move in random directions.
+team_ai-10000006,Offline
+team_ai-20000006,Sorry//c unable to find target.
+team_ai-10000007,Standby
+team_ai-20000007,Target is immobile and is holding position.
+team_ai-10000008,Offline
+team_ai-20000008,Sorry//c unable to find target.
+team_ai-10000009,Patrol
+team_ai-20000009,Moves along a fixed path and keeps watch on the surrounding nodes; will deviate a maximum of 1 node from its course.
+team_ai-10000010,Alert
+team_ai-20000010,Remains stationary when no enemy units are within its detection range. Upon detecting enemies//c it will move toward the closest enemy unit by the shortest route possible.
+team_ai-10000011,Expand
+team_ai-20000011,Randomly moves toward the closest enemy-controlled node.
+team_ai-10000012,Standby
+team_ai-20000012,Target is immobile and is holding position.
+team_ai-10000013,Eliminate
+team_ai-20000013,Eliminates the nearest enemy.
+team_ai-10000014,Capture
+team_ai-20000014,Moves toward the enemy Command Post via the shortest route possible.
+team_ai-10000015,Offline
+team_ai-20000015,Sorry//c unable to find target.
+team_ai-10000016,Patrol
+team_ai-20000016,Moves along a fixed path and keeps watch on the surrounding nodes; will deviate a maximum of 1 node from its course.
+team_ai-10000017,Alert
+team_ai-20000017,Remains stationary when no enemy units are within its detection range. Upon detecting enemies//c it will move toward the closest enemy unit by the shortest route possible.
+team_ai-10000018,Expand
+team_ai-20000018,Randomly moves toward the closest enemy-controlled node.
+team_ai-10000019,Standby
+team_ai-20000019,Target is immobile and is holding position.
+team_ai-10000020,Eliminate
+team_ai-20000020,Eliminates the nearest enemy.
+team_ai-10000021,Capture
+team_ai-20000021,Moves toward the enemy Command Post via the shortest route possible.

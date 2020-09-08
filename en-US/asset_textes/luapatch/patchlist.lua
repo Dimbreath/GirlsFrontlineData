@@ -389,6 +389,9 @@ patch2060=
 "2060/RetireController",
 "2060/CombineController",
 "2060/WeddingPlay",
+"2060/AVGCreditsController",
+"2060/ShowEffectInfoBoxController",
+"2060/CommonGetNewSangvisGunController",
 }
 --[[
 -- va11
