@@ -394,6 +394,7 @@ patch2060=
 "2060/ShowEffectInfoBoxController",
 "2060/CommonGetNewSangvisGunController",
 "2060/CommonClothesColorLabelController",
+"2060/StoreRoomController",
 }
 --[[
 -- va11
