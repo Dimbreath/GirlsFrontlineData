@@ -18,5 +18,12 @@ local TransferComplete = function(self)
 	end
 end
 
+local TransferBefore = function(self)
+	self:TransferBefore();
+	if self.last.buildControl ~= nil then
+		self.last.buildControl:RefreshController();
+	end
+end
 util.hotfix_ex(CS.DeploymentTeamController,'Transfer',Transfer)
+util.hotfix_ex(CS.DeploymentTeamController,'TransferBefore',TransferBefore)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferComplete',TransferComplete)
