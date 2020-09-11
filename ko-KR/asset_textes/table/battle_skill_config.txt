@@ -49902,36 +49902,6 @@ battle_skill_config-590089410,
 battle_skill_config-290089410,같은 대상에게 3번 피해를 줄 때마다//c 추가로 대상 최대 체력 2%만큼의 피해를 준다.(적 장갑 계산//c 보호막 무시) 이 효과로 줄 수 있는 최대 피해량은 자신 화력의 300%.
 battle_skill_config-390089410,쳬력 비율:2%//c피해량 상한:300%
 battle_skill_config-490089410,
-battle_skill_config-140690101,*****
-battle_skill_config-540690101,
-battle_skill_config-240690101,
-battle_skill_config-340690101,
-battle_skill_config-440690101,
-battle_skill_config-140690201,*****
-battle_skill_config-540690201,
-battle_skill_config-240690201,
-battle_skill_config-340690201,
-battle_skill_config-440690201,
-battle_skill_config-140690301,*****
-battle_skill_config-540690301,
-battle_skill_config-240690301,
-battle_skill_config-340690301,
-battle_skill_config-440690301,
-battle_skill_config-140690401,*****
-battle_skill_config-540690401,
-battle_skill_config-240690401,
-battle_skill_config-340690401,
-battle_skill_config-440690401,
-battle_skill_config-140690501,*****
-battle_skill_config-540690501,
-battle_skill_config-240690501,
-battle_skill_config-340690501,
-battle_skill_config-440690501,
-battle_skill_config-140690601,*****
-battle_skill_config-540690601,
-battle_skill_config-240690601,
-battle_skill_config-340690601,
-battle_skill_config-440690601,
 battle_skill_config-190091001,ec_无敌
 battle_skill_config-590091001,
 battle_skill_config-290091001,
@@ -49996,3 +49966,608 @@ battle_skill_config-590091101,
 battle_skill_config-290091101,
 battle_skill_config-390091101,
 battle_skill_config-490091101,
+battle_skill_config-140690101,夏活彩蛋蓄力start
+battle_skill_config-540690101,
+battle_skill_config-240690101,
+battle_skill_config-340690101,
+battle_skill_config-440690101,
+battle_skill_config-140690201,夏活彩蛋正向大跳
+battle_skill_config-540690201,
+battle_skill_config-240690201,
+battle_skill_config-340690201,
+battle_skill_config-440690201,
+battle_skill_config-140690301,夏活彩蛋正向蓄力[*]
+battle_skill_config-540690301,
+battle_skill_config-240690301,
+battle_skill_config-340690301,
+battle_skill_config-440690301,
+battle_skill_config-140690401,夏活彩蛋蓄满[*]
+battle_skill_config-540690401,
+battle_skill_config-240690401,
+battle_skill_config-340690401,
+battle_skill_config-440690401,
+battle_skill_config-140690501,夏活彩蛋反向蓄力[*]
+battle_skill_config-540690501,
+battle_skill_config-240690501,
+battle_skill_config-340690501,
+battle_skill_config-440690501,
+battle_skill_config-140690601,夏活彩蛋蓄空[*]
+battle_skill_config-540690601,
+battle_skill_config-240690601,
+battle_skill_config-340690601,
+battle_skill_config-440690601,
+battle_skill_config-140690701,夏活彩蛋踩空
+battle_skill_config-540690701,
+battle_skill_config-240690701,
+battle_skill_config-340690701,
+battle_skill_config-440690701,
+battle_skill_config-140690801,夏活彩蛋召唤楼
+battle_skill_config-540690801,
+battle_skill_config-240690801,
+battle_skill_config-340690801,
+battle_skill_config-440690801,
+battle_skill_config-140690901,夏活彩蛋向上大跳
+battle_skill_config-540690901,
+battle_skill_config-240690901,
+battle_skill_config-340690901,
+battle_skill_config-440690901,
+battle_skill_config-140691001,夏活彩蛋向下大跳
+battle_skill_config-540691001,
+battle_skill_config-240691001,
+battle_skill_config-340691001,
+battle_skill_config-440691001,
+battle_skill_config-140691101,夏活彩蛋开场
+battle_skill_config-540691101,
+battle_skill_config-240691101,
+battle_skill_config-340691101,
+battle_skill_config-440691101,
+battle_skill_config-140691201,夏活彩蛋正向小跳
+battle_skill_config-540691201,
+battle_skill_config-240691201,
+battle_skill_config-340691201,
+battle_skill_config-440691201,
+battle_skill_config-140691301,夏活彩蛋向上小跳
+battle_skill_config-540691301,
+battle_skill_config-240691301,
+battle_skill_config-340691301,
+battle_skill_config-440691301,
+battle_skill_config-140691401,夏活彩蛋向下小跳
+battle_skill_config-540691401,
+battle_skill_config-240691401,
+battle_skill_config-340691401,
+battle_skill_config-440691401,
+battle_skill_config-140691501,夏活彩蛋前跳触发[*]
+battle_skill_config-540691501,
+battle_skill_config-240691501,
+battle_skill_config-340691501,
+battle_skill_config-440691501,
+battle_skill_config-140691601,夏活彩蛋上跳触发[*]
+battle_skill_config-540691601,
+battle_skill_config-240691601,
+battle_skill_config-340691601,
+battle_skill_config-440691601,
+battle_skill_config-140691701,夏活彩蛋下跳触发[*]
+battle_skill_config-540691701,
+battle_skill_config-240691701,
+battle_skill_config-340691701,
+battle_skill_config-440691701,
+battle_skill_config-140691801,夏活彩蛋蓄满-type2[*]
+battle_skill_config-540691801,
+battle_skill_config-240691801,
+battle_skill_config-340691801,
+battle_skill_config-440691801,
+battle_skill_config-140691901,夏活彩蛋普通开场
+battle_skill_config-540691901,
+battle_skill_config-240691901,
+battle_skill_config-340691901,
+battle_skill_config-440691901,
+battle_skill_config-140692001,夏活彩蛋噩梦开场
+battle_skill_config-540692001,
+battle_skill_config-240692001,
+battle_skill_config-340692001,
+battle_skill_config-440692001,
+battle_skill_config-190092001,炼金术士普攻_触发
+battle_skill_config-590092001,
+battle_skill_config-290092001,触发
+battle_skill_config-390092001,
+battle_skill_config-490092001,
+battle_skill_config-190192001,近战普攻
+battle_skill_config-590192001,
+battle_skill_config-290192001,近战
+battle_skill_config-390192001,
+battle_skill_config-490192001,
+battle_skill_config-190292001,远程普攻
+battle_skill_config-590292001,
+battle_skill_config-290292001,远程
+battle_skill_config-390292001,
+battle_skill_config-490292001,
+battle_skill_config-190392001,坚守默认_射程
+battle_skill_config-590392001,
+battle_skill_config-290392001,
+battle_skill_config-390392001,
+battle_skill_config-490392001,
+battle_skill_config-190492001,非坚守默认_暴击率
+battle_skill_config-590492001,
+battle_skill_config-290492001,
+battle_skill_config-390492001,
+battle_skill_config-490492001,
+battle_skill_config-190092101,최종 선언
+battle_skill_config-590092101,
+battle_skill_config-290092101,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 0.8배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092101,쿨타임:15초//c피해 배율:0.8배
+battle_skill_config-490092101,
+battle_skill_config-190092102,최종 선언
+battle_skill_config-590092102,
+battle_skill_config-290092102,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 0.85배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092102,쿨타임:14.7초//c피해 배율:0.85배
+battle_skill_config-490092102,
+battle_skill_config-190092103,최종 선언
+battle_skill_config-590092103,
+battle_skill_config-290092103,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 0.9배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092103,쿨타임:14.3초//c피해 배율:0.9배
+battle_skill_config-490092103,
+battle_skill_config-190092104,최종 선언
+battle_skill_config-590092104,
+battle_skill_config-290092104,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 0.95배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092104,쿨타임:14초//c피해 배율:0.95배
+battle_skill_config-490092104,
+battle_skill_config-190092105,최종 선언
+battle_skill_config-590092105,
+battle_skill_config-290092105,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092105,쿨타임:13.7초//c피해 배율:1배
+battle_skill_config-490092105,
+battle_skill_config-190092106,최종 선언
+battle_skill_config-590092106,
+battle_skill_config-290092106,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.05배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092106,쿨타임:13.3초//c피해 배율:1.05배
+battle_skill_config-490092106,
+battle_skill_config-190092107,최종 선언
+battle_skill_config-590092107,
+battle_skill_config-290092107,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.1배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092107,쿨타임:13초//c피해 배율:1.1배
+battle_skill_config-490092107,
+battle_skill_config-190092108,최종 선언
+battle_skill_config-590092108,
+battle_skill_config-290092108,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.15배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092108,쿨타임:12.7초//c피해 배율:1.15배
+battle_skill_config-490092108,
+battle_skill_config-190092109,최종 선언
+battle_skill_config-590092109,
+battle_skill_config-290092109,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.2배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092109,쿨타임:12.3초//c피해 배율:1.2배
+battle_skill_config-490092109,
+battle_skill_config-190092110,최종 선언
+battle_skill_config-590092110,
+battle_skill_config-290092110,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.3배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092110,쿨타임:12초//c피해 배율:1.3배
+battle_skill_config-490092110,
+battle_skill_config-190092201,질량 활성화
+battle_skill_config-590092201,
+battle_skill_config-290092201,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 10%//c 회피를 60%//c 치명타 피해를 10% 상승시킨다//c 지속시간 2초.
+battle_skill_config-390092201,쿨타임:12초//c화력 상승치:10%//c회피 상승치:60%//c치명상 상승치:10%//c지속시간:2초
+battle_skill_config-490092201,
+battle_skill_config-190092202,질량 활성화
+battle_skill_config-590092202,
+battle_skill_config-290092202,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 12%//c 회피를 64%//c 치명타 피해를 12% 상승시킨다//c 지속시간 2.2초.
+battle_skill_config-390092202,쿨타임:11.6초//c화력 상승치:12%//c회피 상승치:64%//c치명상 상승치:12%//c지속시간:2.2초
+battle_skill_config-490092202,
+battle_skill_config-190092203,질량 활성화
+battle_skill_config-590092203,
+battle_skill_config-290092203,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 14%//c 회피를 69%//c 치명타 피해를 14% 상승시킨다//c 지속시간 2.4초.
+battle_skill_config-390092203,쿨타임:11.1초//c화력 상승치:14%//c회피 상승치:69%//c치명상 상승치:14%//c지속시간:2.4초
+battle_skill_config-490092203,
+battle_skill_config-190092204,질량 활성화
+battle_skill_config-590092204,
+battle_skill_config-290092204,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 17%//c 회피를 73%//c 치명타 피해를 17% 상승시킨다//c 지속시간 2.7초.
+battle_skill_config-390092204,쿨타임:10.7초//c화력 상승치:17%//c회피 상승치:73%//c치명상 상승치:17%//c지속시간:2.7초
+battle_skill_config-490092204,
+battle_skill_config-190092205,질량 활성화
+battle_skill_config-590092205,
+battle_skill_config-290092205,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 19%//c 회피를 78%//c 치명타 피해를 19% 상승시킨다//c 지속시간 2.9초.
+battle_skill_config-390092205,쿨타임:10.2초//c화력 상승치:19%//c회피 상승치:78%//c치명상 상승치:19%//c지속시간:2.9초
+battle_skill_config-490092205,
+battle_skill_config-190092206,질량 활성화
+battle_skill_config-590092206,
+battle_skill_config-290092206,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 21%//c 회피를 82%//c 치명타 피해를 21% 상승시킨다//c 지속시간 3.1초.
+battle_skill_config-390092206,쿨타임:9.8초//c화력 상승치:21%//c회피 상승치:82%//c치명상 상승치:21%//c지속시간:3.1초
+battle_skill_config-490092206,
+battle_skill_config-190092207,질량 활성화
+battle_skill_config-590092207,
+battle_skill_config-290092207,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 23%//c 회피를 87%//c 치명타 피해를 23% 상승시킨다//c 지속시간 3.3초.
+battle_skill_config-390092207,쿨타임:9.3초//c화력 상승치:23%//c회피 상승치:87%//c치명상 상승치:23%//c지속시간:3.3초
+battle_skill_config-490092207,
+battle_skill_config-190092208,질량 활성화
+battle_skill_config-590092208,
+battle_skill_config-290092208,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 26%//c 회피를 91%//c 치명타 피해를 26% 상승시킨다//c 지속시간 3.6초.
+battle_skill_config-390092208,쿨타임:8.9초//c화력 상승치:26%//c회피 상승치:91%//c치명상 상승치:26%//c지속시간:3.6초
+battle_skill_config-490092208,
+battle_skill_config-190092209,질량 활성화
+battle_skill_config-590092209,
+battle_skill_config-290092209,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 28%//c 회피를 96%//c 치명타 피해를 28% 상승시킨다//c 지속시간 3.8초.
+battle_skill_config-390092209,쿨타임:8.4초//c화력 상승치:28%//c회피 상승치:96%//c치명상 상승치:28%//c지속시간:3.8초
+battle_skill_config-490092209,
+battle_skill_config-190092210,질량 활성화
+battle_skill_config-590092210,
+battle_skill_config-290092210,패시브: 치명타 발생 시 목표에게 [유기체] 표식을 부여한다.//n액티브: 자신의 화력을 30%//c 회피를 100%//c 치명타 피해를 30% 상승시킨다//c 지속시간 4초.
+battle_skill_config-390092210,쿨타임:8초//c화력 상승치:30%//c회피 상승치:100%//c치명상 상승치:30%//c지속시간:4초
+battle_skill_config-490092210,
+battle_skill_config-190092301,유기체
+battle_skill_config-590092301,
+battle_skill_config-290092301,[유기체] 표식을 지닌 목표를 공격할 때 주는 피해량이 1.06배가 되며//c 동시에 자신은 보호막을 4 생성한다//c 지속시간 10초. [유기체] 표식 지속시간 5초.
+battle_skill_config-390092301,보호막 생성량:4//c보호막 지속시간:10초//c표식 지속시간:5초//c추가 배율:0.06배
+battle_skill_config-490092301,
+battle_skill_config-190092302,유기체
+battle_skill_config-590092302,
+battle_skill_config-290092302,[유기체] 표식을 지닌 목표를 공격할 때 주는 피해량이 1.07배가 되며//c 동시에 자신은 보호막을 4 생성한다//c 지속시간 12초. [유기체] 표식 지속시간 6초.
+battle_skill_config-390092302,보호막 생성량:4//c보호막 지속시간:12초//c표식 지속시간:6초//c추가 배율:0.07배
+battle_skill_config-490092302,
+battle_skill_config-190092303,유기체
+battle_skill_config-590092303,
+battle_skill_config-290092303,[유기체] 표식을 지닌 목표를 공격할 때 주는 피해량이 1.08배가 되며//c 동시에 자신은 보호막을 5 생성한다//c 지속시간 14초. [유기체] 표식 지속시간 7초.
+battle_skill_config-390092303,보호막 생성량:5//c보호막 지속시간:14초//c표식 지속시간:7초//c추가 배율:0.08배
+battle_skill_config-490092303,
+battle_skill_config-190092304,유기체
+battle_skill_config-590092304,
+battle_skill_config-290092304,[유기체] 표식을 지닌 목표를 공격할 때 주는 피해량이 1.09배가 되며//c 동시에 자신은 보호막을 5 생성한다//c 지속시간 16초. [유기체] 표식 지속시간 8초.
+battle_skill_config-390092304,보호막 생성량:5//c보호막 지속시간:16초//c표식 지속시간:8초//c추가 배율:0.09배
+battle_skill_config-490092304,
+battle_skill_config-190092305,유기체
+battle_skill_config-590092305,
+battle_skill_config-290092305,[유기체] 표식을 지닌 목표를 공격할 때 주는 피해량이 1.1배가 되며//c 동시에 자신은 보호막을 6 생성한다//c 지속시간 18초. [유기체] 표식 지속시간 9초.
+battle_skill_config-390092305,보호막 생성량:6//c보호막 지속시간:18초//c표식 지속시간:9초//c추가 배율:0.1배
+battle_skill_config-490092305,
+battle_skill_config-190092401,给炼金护盾
+battle_skill_config-590092401,
+battle_skill_config-290092401,
+battle_skill_config-390092401,
+battle_skill_config-490092401,
+battle_skill_config-190092501,大招_初_伤害
+battle_skill_config-590092501,
+battle_skill_config-290092501,
+battle_skill_config-390092501,
+battle_skill_config-490092501,
+battle_skill_config-190092502,大招_初_伤害
+battle_skill_config-590092502,
+battle_skill_config-290092502,
+battle_skill_config-390092502,
+battle_skill_config-490092502,
+battle_skill_config-190092503,大招_初_伤害
+battle_skill_config-590092503,
+battle_skill_config-290092503,
+battle_skill_config-390092503,
+battle_skill_config-490092503,
+battle_skill_config-190092504,大招_初_伤害
+battle_skill_config-590092504,
+battle_skill_config-290092504,
+battle_skill_config-390092504,
+battle_skill_config-490092504,
+battle_skill_config-190092505,大招_初_伤害
+battle_skill_config-590092505,
+battle_skill_config-290092505,
+battle_skill_config-390092505,
+battle_skill_config-490092505,
+battle_skill_config-190092506,大招_初_伤害
+battle_skill_config-590092506,
+battle_skill_config-290092506,
+battle_skill_config-390092506,
+battle_skill_config-490092506,
+battle_skill_config-190092507,大招_初_伤害
+battle_skill_config-590092507,
+battle_skill_config-290092507,
+battle_skill_config-390092507,
+battle_skill_config-490092507,
+battle_skill_config-190092508,大招_初_伤害
+battle_skill_config-590092508,
+battle_skill_config-290092508,
+battle_skill_config-390092508,
+battle_skill_config-490092508,
+battle_skill_config-190092509,大招_初_伤害
+battle_skill_config-590092509,
+battle_skill_config-290092509,
+battle_skill_config-390092509,
+battle_skill_config-490092509,
+battle_skill_config-190092510,大招_初_伤害
+battle_skill_config-590092510,
+battle_skill_config-290092510,
+battle_skill_config-390092510,
+battle_skill_config-490092510,
+battle_skill_config-190092601,최종 선언
+battle_skill_config-590092601,
+battle_skill_config-290092601,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092601,쿨타임:15초//c피해 배율:1배
+battle_skill_config-490092601,
+battle_skill_config-190092602,최종 선언
+battle_skill_config-590092602,
+battle_skill_config-290092602,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.05배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092602,쿨타임:14.7초//c피해 배율:1.05배
+battle_skill_config-490092602,
+battle_skill_config-190092603,최종 선언
+battle_skill_config-590092603,
+battle_skill_config-290092603,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.1배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092603,쿨타임:14.3초//c피해 배율:1.1배
+battle_skill_config-490092603,
+battle_skill_config-190092604,최종 선언
+battle_skill_config-590092604,
+battle_skill_config-290092604,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.15배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092604,쿨타임:14초//c피해 배율:1.15배
+battle_skill_config-490092604,
+battle_skill_config-190092605,최종 선언
+battle_skill_config-590092605,
+battle_skill_config-290092605,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.2배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092605,쿨타임:13.7초//c피해 배율:1.2배
+battle_skill_config-490092605,
+battle_skill_config-190092606,최종 선언
+battle_skill_config-590092606,
+battle_skill_config-290092606,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.25배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092606,쿨타임:13.3초//c피해 배율:1.25배
+battle_skill_config-490092606,
+battle_skill_config-190092607,최종 선언
+battle_skill_config-590092607,
+battle_skill_config-290092607,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.3배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092607,쿨타임:13초//c피해 배율:1.3배
+battle_skill_config-490092607,
+battle_skill_config-190092608,최종 선언
+battle_skill_config-590092608,
+battle_skill_config-290092608,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.35배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092608,쿨타임:12.7초//c피해 배율:1.35배
+battle_skill_config-490092608,
+battle_skill_config-190092609,최종 선언
+battle_skill_config-590092609,
+battle_skill_config-290092609,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.4배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092609,쿨타임:12.3초//c피해 배율:1.4배
+battle_skill_config-490092609,
+battle_skill_config-190092610,최종 선언
+battle_skill_config-590092610,
+battle_skill_config-290092610,패시브: 알케미스트는 수비 방침에서 사거리가 상승하며//c 화력 0.5배 2단 사격을 한다. 기타 방침에선 치명률이 50% 상승해//c 적에게 필중으로 화력 0.5배 <color=#91c1f0>근접피해</color>를 2번씩 준다.//n액티브: 스킬 발동 후 무적 상태가 되어 무작위 유닛에게 총 9차례 공격을 하며//c 한 차례마다 1.5배 피해를 2번씩 준다.(필중//c 치명타 가능) 동시에 목표에게 [유기체] 표식을 부여한다.
+battle_skill_config-390092610,쿨타임:12초//c피해 배율:1.5배
+battle_skill_config-490092610,
+battle_skill_config-190092701,大招_2_伤害
+battle_skill_config-590092701,
+battle_skill_config-290092701,
+battle_skill_config-390092701,
+battle_skill_config-490092701,
+battle_skill_config-190092702,大招_2_伤害
+battle_skill_config-590092702,
+battle_skill_config-290092702,
+battle_skill_config-390092702,
+battle_skill_config-490092702,
+battle_skill_config-190092703,大招_2_伤害
+battle_skill_config-590092703,
+battle_skill_config-290092703,
+battle_skill_config-390092703,
+battle_skill_config-490092703,
+battle_skill_config-190092704,大招_2_伤害
+battle_skill_config-590092704,
+battle_skill_config-290092704,
+battle_skill_config-390092704,
+battle_skill_config-490092704,
+battle_skill_config-190092705,大招_2_伤害
+battle_skill_config-590092705,
+battle_skill_config-290092705,
+battle_skill_config-390092705,
+battle_skill_config-490092705,
+battle_skill_config-190092706,大招_2_伤害
+battle_skill_config-590092706,
+battle_skill_config-290092706,
+battle_skill_config-390092706,
+battle_skill_config-490092706,
+battle_skill_config-190092707,大招_2_伤害
+battle_skill_config-590092707,
+battle_skill_config-290092707,
+battle_skill_config-390092707,
+battle_skill_config-490092707,
+battle_skill_config-190092708,大招_2_伤害
+battle_skill_config-590092708,
+battle_skill_config-290092708,
+battle_skill_config-390092708,
+battle_skill_config-490092708,
+battle_skill_config-190092709,大招_2_伤害
+battle_skill_config-590092709,
+battle_skill_config-290092709,
+battle_skill_config-390092709,
+battle_skill_config-490092709,
+battle_skill_config-190092710,大招_2_伤害
+battle_skill_config-590092710,
+battle_skill_config-290092710,
+battle_skill_config-390092710,
+battle_skill_config-490092710,
+battle_skill_config-190092801,중력 해제
+battle_skill_config-590092801,
+battle_skill_config-290092801,수비 이외 방침에서 6초마다//c 아군 전체의 이동속도를 60% 상승시키며//c 이는 3초에 걸쳐 감퇴한다.//n수비 방침에선 1초마다 최대체력 4%만큼의 보호막을 생성한다//c 보호막 지속시간 3초.
+battle_skill_config-390092801,이속 상승치:60%//c초당 보호막 생성비:4%//c지속시간:3초
+battle_skill_config-490092801,
+battle_skill_config-190092802,중력 해제
+battle_skill_config-590092802,
+battle_skill_config-290092802,수비 이외 방침에서 6초마다//c 아군 전체의 이동속도를 70% 상승시키며//c 이는 3초에 걸쳐 감퇴한다.//n수비 방침에선 1초마다 최대체력 4.5%만큼의 보호막을 생성한다//c 보호막 지속시간 3.5초.
+battle_skill_config-390092802,이속 상승치:70%//c초당 보호막 생성비:4.5%//c지속시간:3.5초
+battle_skill_config-490092802,
+battle_skill_config-190092803,중력 해제
+battle_skill_config-590092803,
+battle_skill_config-290092803,수비 이외 방침에서 6초마다//c 아군 전체의 이동속도를 80% 상승시키며//c 이는 3초에 걸쳐 감퇴한다.//n수비 방침에선 1초마다 최대체력 5%만큼의 보호막을 생성한다//c 보호막 지속시간 4초.
+battle_skill_config-390092803,이속 상승치:80%//c초당 보호막 생성비:5%//c지속시간:4초
+battle_skill_config-490092803,
+battle_skill_config-190092804,중력 해제
+battle_skill_config-590092804,
+battle_skill_config-290092804,수비 이외 방침에서 6초마다//c 아군 전체의 이동속도를 90% 상승시키며//c 이는 3초에 걸쳐 감퇴한다.//n수비 방침에선 1초마다 최대체력 5.5%만큼의 보호막을 생성한다//c 보호막 지속시간 4.5초.
+battle_skill_config-390092804,이속 상승치:90%//c초당 보호막 생성비:5.5%//c지속시간:4.5초
+battle_skill_config-490092804,
+battle_skill_config-190092805,중력 해제
+battle_skill_config-590092805,
+battle_skill_config-290092805,수비 이외 방침에서 6초마다//c 아군 전체의 이동속도를 100% 상승시키며//c 이는 3초에 걸쳐 감퇴한다.//n수비 방침에선 1초마다 최대체력 6%만큼의 보호막을 생성한다//c 보호막 지속시간 5초.
+battle_skill_config-390092805,이속 상승치:100%//c초당 보호막 생성비:6%//c지속시간:5초
+battle_skill_config-490092805,
+battle_skill_config-190092901,全体移速
+battle_skill_config-590092901,
+battle_skill_config-290092901,
+battle_skill_config-390092901,
+battle_skill_config-490092901,
+battle_skill_config-190093001,坚守态自回血
+battle_skill_config-590093001,
+battle_skill_config-290093001,
+battle_skill_config-390093001,
+battle_skill_config-490093001,
+battle_skill_config-190093401,불타는 직감
+battle_skill_config-590093401,
+battle_skill_config-290093401,수비 방침에서 자신 후방 유닛의 화력과 회피를 상승시키고//c 그외 방침에선 자신 주위 3 범위 내의 모든 근접 유닛의 화력과 회피를 상승시킨다. 화력 상승치 9%//c 회피 상승치 24%//c 같은 효과는 최대 3회 중첩된다.
+battle_skill_config-390093401,화력 상승치:9%//c회피 상승치:24%
+battle_skill_config-490093401,
+battle_skill_config-190093402,불타는 직감
+battle_skill_config-590093402,
+battle_skill_config-290093402,수비 방침에서 자신 후방 유닛의 화력과 회피를 상승시키고//c 그외 방침에선 자신 주위 3 범위 내의 모든 근접 유닛의 화력과 회피를 상승시킨다. 화력 상승치 11%//c 회피 상승치 28%//c 같은 효과는 최대 3회 중첩된다.
+battle_skill_config-390093402,화력 상승치:11%//c회피 상승치:28%
+battle_skill_config-490093402,
+battle_skill_config-190093403,불타는 직감
+battle_skill_config-590093403,
+battle_skill_config-290093403,수비 방침에서 자신 후방 유닛의 화력과 회피를 상승시키고//c 그외 방침에선 자신 주위 3 범위 내의 모든 근접 유닛의 화력과 회피를 상승시킨다. 화력 상승치 12%//c 회피 상승치 32%//c 같은 효과는 최대 3회 중첩된다.
+battle_skill_config-390093403,화력 상승치:12%//c회피 상승치:32%
+battle_skill_config-490093403,
+battle_skill_config-190093404,불타는 직감
+battle_skill_config-590093404,
+battle_skill_config-290093404,수비 방침에서 자신 후방 유닛의 화력과 회피를 상승시키고//c 그외 방침에선 자신 주위 3 범위 내의 모든 근접 유닛의 화력과 회피를 상승시킨다. 화력 상승치 14%//c 회피 상승치 36%//c 같은 효과는 최대 3회 중첩된다.
+battle_skill_config-390093404,화력 상승치:14%//c회피 상승치:36%
+battle_skill_config-490093404,
+battle_skill_config-190093405,불타는 직감
+battle_skill_config-590093405,
+battle_skill_config-290093405,수비 방침에서 자신 후방 유닛의 화력과 회피를 상승시키고//c 그외 방침에선 자신 주위 3 범위 내의 모든 근접 유닛의 화력과 회피를 상승시킨다. 화력 상승치 15%//c 회피 상승치 40%//c 같은 효과는 최대 3회 중첩된다.
+battle_skill_config-390093405,화력 상승치:15%//c회피 상승치:40%
+battle_skill_config-490093405,
+battle_skill_config-190093501,冲歼状态号令
+battle_skill_config-590093501,
+battle_skill_config-290093501,
+battle_skill_config-390093501,
+battle_skill_config-490093501,
+battle_skill_config-190093502,冲歼状态号令
+battle_skill_config-590093502,
+battle_skill_config-290093502,
+battle_skill_config-390093502,
+battle_skill_config-490093502,
+battle_skill_config-190093503,冲歼状态号令
+battle_skill_config-590093503,
+battle_skill_config-290093503,
+battle_skill_config-390093503,
+battle_skill_config-490093503,
+battle_skill_config-190093504,冲歼状态号令
+battle_skill_config-590093504,
+battle_skill_config-290093504,
+battle_skill_config-390093504,
+battle_skill_config-490093504,
+battle_skill_config-190093505,冲歼状态号令
+battle_skill_config-590093505,
+battle_skill_config-290093505,
+battle_skill_config-390093505,
+battle_skill_config-490093505,
+battle_skill_config-190093601,坚守状态号令
+battle_skill_config-590093601,
+battle_skill_config-290093601,
+battle_skill_config-390093601,
+battle_skill_config-490093601,
+battle_skill_config-190093602,坚守状态号令
+battle_skill_config-590093602,
+battle_skill_config-290093602,
+battle_skill_config-390093602,
+battle_skill_config-490093602,
+battle_skill_config-190093603,坚守状态号令
+battle_skill_config-590093603,
+battle_skill_config-290093603,
+battle_skill_config-390093603,
+battle_skill_config-490093603,
+battle_skill_config-190093604,坚守状态号令
+battle_skill_config-590093604,
+battle_skill_config-290093604,
+battle_skill_config-390093604,
+battle_skill_config-490093604,
+battle_skill_config-190093605,坚守状态号令
+battle_skill_config-590093605,
+battle_skill_config-290093605,
+battle_skill_config-390093605,
+battle_skill_config-490093605,
+battle_skill_config-190093701,중점 보호
+battle_skill_config-590093701,
+battle_skill_config-290093701,모든 아군 유닛에게 보호막을 12 부여한다. 그중 근접 유닛은 손실한 최대체력 1%마다 보호막을 추가로 2% 받는다. 지속시간 6초//c 최대 3회 중첩.
+battle_skill_config-390093701,쿨타임:14초//c보호막 생성량:12
+battle_skill_config-490093701,
+battle_skill_config-190093702,중점 보호
+battle_skill_config-590093702,
+battle_skill_config-290093702,모든 아군 유닛에게 보호막을 15 부여한다. 그중 근접 유닛은 손실한 최대체력 1%마다 보호막을 추가로 2% 받는다. 지속시간 7초//c 최대 3회 중첩.
+battle_skill_config-390093702,쿨타임:13초//c보호막 생성량:15
+battle_skill_config-490093702,
+battle_skill_config-190093703,중점 보호
+battle_skill_config-590093703,
+battle_skill_config-290093703,모든 아군 유닛에게 보호막을 18 부여한다. 그중 근접 유닛은 손실한 최대체력 1%마다 보호막을 추가로 2% 받는다. 지속시간 8초//c 최대 3회 중첩.
+battle_skill_config-390093703,쿨타임:12초//c보호막 생성량:18
+battle_skill_config-490093703,
+battle_skill_config-190093704,중점 보호
+battle_skill_config-590093704,
+battle_skill_config-290093704,모든 아군 유닛에게 보호막을 21 부여한다. 그중 근접 유닛은 손실한 최대체력 1%마다 보호막을 추가로 2% 받는다. 지속시간 9초//c 최대 3회 중첩.
+battle_skill_config-390093704,쿨타임:11초//c보호막 생성량:21
+battle_skill_config-490093704,
+battle_skill_config-190093705,중점 보호
+battle_skill_config-590093705,
+battle_skill_config-290093705,모든 아군 유닛에게 보호막을 24 부여한다. 그중 근접 유닛은 손실한 최대체력 1%마다 보호막을 추가로 2% 받는다. 지속시간 10초//c 최대 3회 중첩.
+battle_skill_config-390093705,쿨타임:10초//c보호막 생성량:24
+battle_skill_config-490093705,
+battle_skill_config-191093701,近战自加盾
+battle_skill_config-591093701,
+battle_skill_config-291093701,
+battle_skill_config-391093701,
+battle_skill_config-491093701,
+battle_skill_config-192093701,近战自加盾
+battle_skill_config-592093701,
+battle_skill_config-292093701,
+battle_skill_config-392093701,
+battle_skill_config-492093701,
+battle_skill_config-193093701,近战自加盾
+battle_skill_config-593093701,
+battle_skill_config-293093701,
+battle_skill_config-393093701,
+battle_skill_config-493093701,
+battle_skill_config-194093701,近战自加盾
+battle_skill_config-594093701,
+battle_skill_config-294093701,
+battle_skill_config-394093701,
+battle_skill_config-494093701,
+battle_skill_config-195093701,近战自加盾
+battle_skill_config-595093701,
+battle_skill_config-295093701,
+battle_skill_config-395093701,
+battle_skill_config-495093701,
+battle_skill_config-190094001,XB_中毒
+battle_skill_config-590094001,
+battle_skill_config-290094001,
+battle_skill_config-390094001,
+battle_skill_config-490094001,
+battle_skill_config-190094101,XB_狂热
+battle_skill_config-590094101,
+battle_skill_config-290094101,
+battle_skill_config-390094101,
+battle_skill_config-490094101,
+battle_skill_config-190094201,XB_中毒_兔子
+battle_skill_config-590094201,
+battle_skill_config-290094201,
+battle_skill_config-390094201,
+battle_skill_config-490094201,
+battle_skill_config-190094301,블루 스트라이크
+battle_skill_config-590094301,
+battle_skill_config-290094301,attack3
+battle_skill_config-390094301,
+battle_skill_config-490094301,
+battle_skill_config-190094401,AJ普攻_触发
+battle_skill_config-590094401,
+battle_skill_config-290094401,
+battle_skill_config-390094401,
+battle_skill_config-490094401,
+battle_skill_config-190094501,安洁手枪
+battle_skill_config-590094501,
+battle_skill_config-290094501,
+battle_skill_config-390094501,
+battle_skill_config-490094501,
+battle_skill_config-190094601,安洁拳击
+battle_skill_config-590094601,
+battle_skill_config-290094601,
+battle_skill_config-390094601,
+battle_skill_config-490094601,
+battle_skill_config-190094701,安洁开场
+battle_skill_config-590094701,
+battle_skill_config-290094701,
+battle_skill_config-390094701,
+battle_skill_config-490094701,

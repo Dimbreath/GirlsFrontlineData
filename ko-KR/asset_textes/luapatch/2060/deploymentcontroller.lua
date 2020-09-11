@@ -170,6 +170,43 @@ local PlaySpotSurroundCapture = function(self)
 		self:PlaySpotSurroundCapture();	
 	end
 end
+
+local FinishBattle = function(self)
+	self:FinishBattle();
+	if self.showSpotAction.spot.currentTeamTemp ~= nil and self.showSpotAction.spot.currentTeamTemp == self.showSpotAction.spot.currentTeam then
+		self.showSpotAction.spot.currentTeamTemp = nil;
+	end
+end
+
+local TriggerStartMissionEvent = function()
+	if CS.DeploymentPlanModeController.Instance.status == CS.DeploymentPlanModeController.PlanStatus.playLastRecord then
+		local hasfriendTeam = false;
+		for i=0,CS.DeploymentBackgroundController.Instance.listSpot.Count-1 do
+			local spot = CS.DeploymentBackgroundController.Instance.listSpot[i];
+			if spot:HasFriendlyTeam() then
+				hasfriendTeam = true;
+			end
+		end
+		if not hasfriendTeam then
+			CS.DeploymentPlanModeController.Instance:_CancelPlan();
+			return;
+		end
+	end
+	CS.DeploymentController.TriggerStartMissionEvent();
+end
+
+local ShowSettlementResult = function()
+	if CS.GameData.currentSelectedMissionInfo.missionType ~= CS.MissionType.simulation then
+		CS.DeploymentController.Instance:ShowCommonBattleSettlement();
+	else
+		CS.DeploymentController.Instance:ShowSimulationSettlement();
+	end
+end
+
+local ShowSettlement = function(self)
+	CS.DeploymentController.AddAction(ShowSettlementResult,0.5);
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -183,3 +220,6 @@ util.hotfix_ex(CS.DeploymentController,'TriggerStartEnemyTurnEvent',TriggerStart
 util.hotfix_ex(CS.DeploymentController,'CheckBattle',CheckBattle)
 util.hotfix_ex(CS.DeploymentController,'PlayChangAllyTeam',PlayChangAllyTeam)
 util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroundCapture)
+util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
+util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
+util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)

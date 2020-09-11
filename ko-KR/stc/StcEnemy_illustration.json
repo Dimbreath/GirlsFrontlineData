@@ -374,7 +374,7 @@
         "range_rank": 5,
         "counter": "enemy_illustration-30000018",
         "character": "206",
-        "enemy_skill": "64",
+        "enemy_skill": "64,99",
         "launch_time": "2016-5-20 00:00:00"
     },
     {
@@ -437,7 +437,7 @@
         "range_rank": 3,
         "counter": "enemy_illustration-30000021",
         "character": "210,309",
-        "enemy_skill": "71",
+        "enemy_skill": "71,98",
         "launch_time": "2016-5-20 00:00:00"
     },
     {
@@ -468,7 +468,7 @@
         "code": "Alchemist",
         "introduce": "enemy_illustration-20000023",
         "forces": 1,
-        "if_capture": 0,
+        "if_capture": 1,
         "pow_rank": 5,
         "life_rank": 5,
         "hit_rank": 4,
@@ -500,7 +500,7 @@
         "range_rank": 5,
         "counter": "enemy_illustration-30000024",
         "character": "209",
-        "enemy_skill": "70",
+        "enemy_skill": "70,97",
         "launch_time": "2016-5-20 00:00:00"
     },
     {
@@ -542,7 +542,7 @@
         "range_rank": 3,
         "counter": "enemy_illustration-30000026",
         "character": "207",
-        "enemy_skill": "66,67",
+        "enemy_skill": "66,67,96",
         "launch_time": "2016-5-20 00:00:00"
     },
     {
@@ -1140,7 +1140,7 @@
         "code": "Prowler_SWAP",
         "introduce": "enemy_illustration-20000055",
         "forces": 1,
-        "if_capture": 0,
+        "if_capture": 1,
         "pow_rank": 1,
         "life_rank": 1,
         "hit_rank": 1,
@@ -1676,7 +1676,7 @@
         "range_rank": 7,
         "counter": "enemy_illustration-30000080",
         "character": "309,326,316",
-        "enemy_skill": "",
+        "enemy_skill": "93,94,95",
         "launch_time": "2016-5-20 00:00:00"
     },
     {
@@ -2013,6 +2013,48 @@
         "counter": "enemy_illustration-30000096",
         "character": "309,307",
         "enemy_skill": "56",
+        "launch_time": "2016-5-20 00:00:00"
+    },
+    {
+        "id": 97,
+        "name": "enemy_illustration-10000097",
+        "type": 3,
+        "code": "refugee_hg",
+        "introduce": "enemy_illustration-20000097",
+        "forces": 0,
+        "if_capture": 0,
+        "pow_rank": 2,
+        "life_rank": 3,
+        "hit_rank": 3,
+        "dodge_rank": 5,
+        "rate_rank": 3,
+        "armor_rank": 0,
+        "speed_rank": 4,
+        "range_rank": 3,
+        "counter": "enemy_illustration-30000097",
+        "character": "300",
+        "enemy_skill": "",
+        "launch_time": "2016-5-20 00:00:00"
+    },
+    {
+        "id": 98,
+        "name": "enemy_illustration-10000098",
+        "type": 3,
+        "code": "refugee_smg",
+        "introduce": "enemy_illustration-20000098",
+        "forces": 0,
+        "if_capture": 0,
+        "pow_rank": 3,
+        "life_rank": 4,
+        "hit_rank": 3,
+        "dodge_rank": 4,
+        "rate_rank": 5,
+        "armor_rank": 0,
+        "speed_rank": 4,
+        "range_rank": 3,
+        "counter": "enemy_illustration-30000098",
+        "character": "300",
+        "enemy_skill": "",
         "launch_time": "2016-5-20 00:00:00"
     },
     {

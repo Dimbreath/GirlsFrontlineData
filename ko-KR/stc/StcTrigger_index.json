@@ -1074,6 +1074,198 @@
         "mission_buff_condition": ""
     },
     {
+        "id": 102140090,
+        "type": 3,
+        "special_spot_condition": "1021400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102140091,
+        "type": 3,
+        "special_spot_condition": "1021400*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102150090,
+        "type": 3,
+        "special_spot_condition": "1021500*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102150091,
+        "type": 3,
+        "special_spot_condition": "1021500*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102160090,
+        "type": 3,
+        "special_spot_condition": "1021600*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102160091,
+        "type": 3,
+        "special_spot_condition": "1021600*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102170090,
+        "type": 3,
+        "special_spot_condition": "1021700*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102170091,
+        "type": 3,
+        "special_spot_condition": "1021700*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102180090,
+        "type": 3,
+        "special_spot_condition": "1021800*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102180091,
+        "type": 3,
+        "special_spot_condition": "1021800*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102190090,
+        "type": 3,
+        "special_spot_condition": "1021900*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102190091,
+        "type": 3,
+        "special_spot_condition": "1021900*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102200090,
+        "type": 3,
+        "special_spot_condition": "1022000*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102200091,
+        "type": 3,
+        "special_spot_condition": "1022000*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102210090,
+        "type": 3,
+        "special_spot_condition": "1022100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102210091,
+        "type": 3,
+        "special_spot_condition": "1022100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102220090,
+        "type": 3,
+        "special_spot_condition": "1022200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102220091,
+        "type": 3,
+        "special_spot_condition": "1022200*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102230090,
+        "type": 3,
+        "special_spot_condition": "1022300*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102230091,
+        "type": 3,
+        "special_spot_condition": "1022300*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102240090,
+        "type": 3,
+        "special_spot_condition": "1022400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102240091,
+        "type": 3,
+        "special_spot_condition": "1022400*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102250090,
+        "type": 3,
+        "special_spot_condition": "1022500*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102250091,
+        "type": 3,
+        "special_spot_condition": "1022500*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102260090,
+        "type": 3,
+        "special_spot_condition": "1022600*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102260091,
+        "type": 3,
+        "special_spot_condition": "1022600*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102270090,
+        "type": 3,
+        "special_spot_condition": "1022700*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102270091,
+        "type": 3,
+        "special_spot_condition": "1022700*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102280090,
+        "type": 3,
+        "special_spot_condition": "1022800*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102280091,
+        "type": 3,
+        "special_spot_condition": "1022800*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102290090,
+        "type": 3,
+        "special_spot_condition": "1022900*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 102290091,
+        "type": 3,
+        "special_spot_condition": "1022900*>0",
+        "mission_buff_condition": ""
+    },
+    {
         "id": 103010090,
         "type": 3,
         "special_spot_condition": "1030100*==0",
@@ -6730,6 +6922,408 @@
         "type": 4,
         "special_spot_condition": "",
         "mission_buff_condition": "9410331*>0,9410332*>0,9410333*>0"
+    },
+    {
+        "id": 941100001,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020300*>0,1030400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100002,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020300*>0,1040100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100003,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020300*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100004,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030100*>0,1040200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100005,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030100*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100006,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030200*>0,1050300*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100007,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030200*>0,1070100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100008,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030100*==0,1030200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100009,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030300*>0,1020400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100010,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030300*>0,1040100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100011,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030300*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100012,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030400*>0,1020100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100013,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030400*>0,1040200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100014,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030400*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100015,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030100*>0,1020100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100016,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030100*>0,1050300*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100017,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1030100*>0,1070100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100018,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040400*>0,1020400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100019,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040400*>0,1030400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100020,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040400*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100021,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040100*>0,1020100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100022,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040100*>0,1030100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100023,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1040100*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100024,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050400*>0,1020400*>0,1030400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100025,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050400*>0,1020400*>0,1040100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100026,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050400*>0,1020100*>0,1030100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100027,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050400*>0,1020100*>0,1040200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100028,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050400*>0,1020100*==0,1020400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100029,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050200*>0,1020100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100030,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050200*>0,1030200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100031,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1050200*>0,1070100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100032,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*==0,1020400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100033,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*==0,1020100*>0,1030100*==0,1030200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100034,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*==0,1020100*>0,1030100*==0,1030200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100035,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*>0,1030400*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100036,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*>0,1040100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100037,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100038,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030100*>0,1040200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100039,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030100*>0,1050100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100040,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030200*>0,1050300*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100041,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030200*>0,1070100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100042,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1070200*>0,1020100*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100043,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1070200*>0,1030200*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100044,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1070200*>0,1050300*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100045,
+        "type": 3,
+        "special_spot_condition": "1060100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100046,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020300*>0,1030400*>0,1040100*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100047,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030100*>0,1040200*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100048,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030300*>0,1040100*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100049,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020100*>0,1030400*>0,1040200*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100050,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020100*>0,1030100*>0,1050300*>0,1070100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100051,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030400*>0,1040400*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100052,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020100*>0,1030100*>0,1040100*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100053,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020400*>0,1030400*>0,1040100*>0,1050400*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100054,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020100*>0,1030200*>0,1050200*>0,1070100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100055,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020400*>0,1030400*>0,1040100*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100056,
+        "type": 3,
+        "special_spot_condition": "1060200*>0,1020100*>0,1030200*>0,1050300*>0,1070200*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100057,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030100*>0,1040200*>0,1050100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941100058,
+        "type": 3,
+        "special_spot_condition": "1060100*>0,1020100*>0,1030200*>0,1050300*>0,1070100*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110190,
+        "type": 3,
+        "special_spot_condition": "1000800*==0,1000900*==0,1001000*==0,1010300*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110191,
+        "type": 3,
+        "special_spot_condition": "1010101*==0,1010301*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110192,
+        "type": 3,
+        "special_spot_condition": "1010201*==0,1010301*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110193,
+        "type": 3,
+        "special_spot_condition": "1010101*>0,1010201*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110194,
+        "type": 3,
+        "special_spot_condition": "1010101*>0,1010301*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110195,
+        "type": 3,
+        "special_spot_condition": "1010201*>0,1010301*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110196,
+        "type": 3,
+        "special_spot_condition": "1020100*==0,1020200*>0,1020600*>0,1020700*>0,1020800*==0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110197,
+        "type": 3,
+        "special_spot_condition": "1020100*>0,1020300*>0,1020400*==0,1020500*==0,1020600*==0,1020700*>0",
+        "mission_buff_condition": ""
+    },
+    {
+        "id": 941110198,
+        "type": 3,
+        "special_spot_condition": "1020100*==0,1020200*==0,1020300*==0,1020400*>0,1020500*==0,1020600*==0,1020700*>0",
+        "mission_buff_condition": ""
     },
     {
         "id": 950000190,

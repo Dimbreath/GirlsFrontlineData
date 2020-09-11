@@ -12,4 +12,16 @@ local get_forceManualSkill = function(self)
 		return true
 	end
 end
+local CheckFetterSkill = function(self)
+	local tempID = self.teamId
+	if tempID >= 0 then
+		self.teamId = -1
+		self.team = CS.GF.Battle.BattleController.Instance.listFriendlyGun
+		self:CheckFetterSkill()
+		self.teamId = tempID
+	else
+		self:CheckFetterSkill()
+	end
+end
 util.hotfix_ex(CS.GF.Battle.Gun,'get_forceManualSkill',get_forceManualSkill)
+util.hotfix_ex(CS.GF.Battle.Gun,'CheckFetterSkill',CheckFetterSkill)

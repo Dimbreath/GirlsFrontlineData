@@ -2992,6 +2992,22 @@
         "is_buff_type": 0
     },
     {
+        "id": 529,
+        "description": "找炼金术士",
+        "target_type": 1,
+        "target_number": 1,
+        "target_priority": 0,
+        "select_order": "9",
+        "is_ascend_order": "0",
+        "is_ingore_range": 1,
+        "is_search_all": 0,
+        "list_ranking": 1,
+        "target_buff_id": 3896,
+        "target_parameter": 1,
+        "buff_trigger_type": 6,
+        "is_buff_type": 0
+    },
+    {
         "id": 1006,
         "description": "敌方_最近_嘲讽",
         "target_type": 1,
