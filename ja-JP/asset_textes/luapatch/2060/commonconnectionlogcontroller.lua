@@ -5,7 +5,7 @@ xlua.private_accessible(CS.CommonConnectionLogController)
 local myStart = function(self)    
  	return util.cs_generator(function()
                 while true do
-                    coroutine.yield(CS.UnityEngine.WaitForSeconds(CS.ServerInfo.Instance.heartTime));
+                    coroutine.yield(CS.UnityEngine.WaitForSecondsRealtime(CS.ServerInfo.Instance.heartTime));
                     if(CS.GameData.userInfo ~= nil and (CS.ConnecttionController.sign ~= nil or CS.ConnecttionController.sign ~= "")) then
 						CS.ServerInfo.Instance:SendHeartBeatPacket();
 					end
