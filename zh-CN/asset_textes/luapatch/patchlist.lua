@@ -288,6 +288,7 @@ patch2050={
 "2050/GunData",	
 "2050/ShareContentController",
 "2050/AVGTrigger",
+"2050/AVGBackgroundController",
 "2050/HomeOperationButton",
 }
 patch2060=
@@ -357,6 +358,7 @@ patch2060=
 "2060/GunStateNumericalInfoController",
 "2060/GunStateController",
 "2060/BattleBossSkillBackgroundController",
+"2060/MissionSelectionDroneItem",
 "2060/MissionSelectionDroneTrainController",
 "2060/MissionSelectionDroneTrainSettingController",
 "2060/ShareController",
@@ -390,6 +392,11 @@ patch2060=
 "2060/CombineController",
 "2060/WeddingPlay",
 "2060/AVGCreditsController",
+"2060/ShowEffectInfoBoxController",
+"2060/CommonGetNewSangvisGunController",
+"2060/CommonClothesColorLabelController",
+"2060/StoreRoomController",
+"2060/TipOpenManualBoxBtnController",
 }
 --[[
 -- va11

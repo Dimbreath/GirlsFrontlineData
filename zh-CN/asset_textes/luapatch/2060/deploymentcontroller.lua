@@ -194,6 +194,19 @@ local TriggerStartMissionEvent = function()
 	end
 	CS.DeploymentController.TriggerStartMissionEvent();
 end
+
+local ShowSettlementResult = function()
+	if CS.GameData.currentSelectedMissionInfo.missionType ~= CS.MissionType.simulation then
+		CS.DeploymentController.Instance:ShowCommonBattleSettlement();
+	else
+		CS.DeploymentController.Instance:ShowSimulationSettlement();
+	end
+end
+
+local ShowSettlement = function(self)
+	CS.DeploymentController.AddAction(ShowSettlementResult,0.5);
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -209,3 +222,4 @@ util.hotfix_ex(CS.DeploymentController,'PlayChangAllyTeam',PlayChangAllyTeam)
 util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroundCapture)
 util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
+util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)
