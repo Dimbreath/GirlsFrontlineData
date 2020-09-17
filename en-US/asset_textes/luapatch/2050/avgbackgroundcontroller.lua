@@ -1,9 +1,9 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.AVGBackgroundController)
 
-local InvokeEffect = function(self,arrObject)
-	self:InvokeEffect(arrObject);
-	self.dialogBox.material = nil;
+local Awake = function(self)
+	self:Awake();
+	self.matRemin = nil;
 end
 
-xlua.hotfix(CS.AVGBackgroundController,'InvokeEffect',InvokeEffect)
+xlua.hotfix_ex(CS.AVGBackgroundController,'Awake',Awake)

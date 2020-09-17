@@ -358,6 +358,7 @@ patch2060=
 "2060/GunStateNumericalInfoController",
 "2060/GunStateController",
 "2060/BattleBossSkillBackgroundController",
+"2060/MissionSelectionDroneItem",
 "2060/MissionSelectionDroneTrainController",
 "2060/MissionSelectionDroneTrainSettingController",
 "2060/ShareController",
@@ -395,6 +396,10 @@ patch2060=
 "2060/CommonGetNewSangvisGunController",
 "2060/CommonClothesColorLabelController",
 "2060/StoreRoomController",
+"2060/TipOpenManualBoxBtnController",
+"2060/TargetTrainRankItem",
+"2060/RankingSPListItem",
+"2060/TargetTrainRankingUIController",
 }
 --[[
 -- va11

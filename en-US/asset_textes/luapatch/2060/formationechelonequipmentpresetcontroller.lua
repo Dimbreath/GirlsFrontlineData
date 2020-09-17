@@ -1,9 +1,3 @@
-local _, LuaDebuggee = pcall(require, 'LuaDebuggee')
-if LuaDebuggee and LuaDebuggee.StartDebug then
-	LuaDebuggee.StartDebug('127.0.0.1', 9826)
-else
-	print('Please read the FAQ.pdf')
-end
 local util = require 'xlua.util'
 xlua.private_accessible(CS.FormationEchelonEquipmentPresetController)
 xlua.private_accessible(CS.Equip)
@@ -11,7 +5,16 @@ local equipWantGunSoltMap = CS.System.Collections.Generic.Dictionary(CS.System.I
 local pa = nil;
 myNextEquip = function(self, gun, gunLocation,slotIndex,dontDestory)
 	if (slotIndex == 4) then
-		self:NextEquip(gun, gunLocation, slotIndex, dontDestory);
+		if (self.currntGunLocationIndex == 4) then
+			self.currntGunLocationIndex = 0;
+			self:EndChangeEquip(dontDestory);
+			if(self.needShowTips) then
+				CS.CommonController.LightMessageTips(CS.Data.GetLang(270049));
+				return;
+			end	
+		else
+			myChangeEquip(self, self.currntGunLocationIndex + 1, self.currentSelectForce);
+		end
 	else
 		local eq = nil;
 		if (gun ~= nil) then
@@ -31,7 +34,7 @@ myChangeEquip = function(self, ...)
         local i = select(3, ...);
         local gunLocation = select(4, ...);
         local slotIndex = select(5, ...);
-		local currentSelectedForce = select(5, ...);
+		local currentSelectedForce = select(6, ...);
 		self.currentSelectForce = currentSelectedForce;
 		for i = 0, gun.equipList.Count - 1, 1 do
 			local myEquip = gun.equipList[i];
@@ -64,7 +67,7 @@ myChangeEquip = function(self, ...)
 						);
                         if (resultEquips.Count == 0) then
                             self.needShowTips = true;
-                            self:RemoveList(gun, eq, gunLocation, slotIndex);
+							myRemoveList(self, gun, eq, gunLocation, slotIndex);
                             return;
                         else
 							local resultTables = ListToTable(resultEquips)
@@ -81,18 +84,18 @@ myChangeEquip = function(self, ...)
                     local gunid = CS.GameData.equipRealGunMap[eq.id];
                     local g = CS.GameData.listGun:GetDataById(gunid);
                     if (g.status == CS.GunStatus.mission or g.status == CS.GunStatus.operation) then
-                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+						myRemoveList(self, gun, eq, gunLocation, slotIndex);
                         return;
                     end
                 end
                 local currentEq = self.equipGunMap:ContainsKey(eq.id); 
-                if (currentEq and currentSelectForce == false) then
+                if (currentEq and self.currentSelectForce == false) then
                     eq.gunId = self.equipGunMap[eq.id]; 
                     eq.gun = CS.GameData.listGun:GetDataById(self.equipGunMap[eq.id]);
                     eq.slotWithGun = CS.GameData.equipRealGunSoltMap[eq.id]; 
                     local idEquip = eq.gun.equipList:Find(function(s) return s.id == eq.id end);
                     if (idEquip ~= nil) then
-                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+						myRemoveList(self, gun, eq, gunLocation, slotIndex);
                         return;
                     else
                         local slotEquip = eq.gun.equipList:Find(function(s) return s.slotWithGun == eq.slotWithGun end);
@@ -103,7 +106,7 @@ myChangeEquip = function(self, ...)
                             slotEquip.slotWithGun = 0;
 						end
                         eq.gun.equipList:Add(eq);
-                        self:RemoveList(gun, eq, gunLocation, slotIndex);
+						myRemoveList(self, gun, eq, gunLocation, slotIndex);
                         return;
 					end
 				end
@@ -119,7 +122,7 @@ myChangeEquip = function(self, ...)
 				end
             end
             if (gun.equipList:Exists(function(s) return s.slotWithGun == wantEquipSlot and s.id == eq.id end)) then
-                self:RemoveList(gun, eq, gunLocation, slotIndex);
+				myRemoveList(self, gun, eq, gunLocation, slotIndex);
             elseif(gun.equipList:Exists( function(s) return s.id == eq.id end)) then
                 local oldEq = gun.equipList:Find(function(s) return s.id == eq.id end);
                 gun:RequestChangeEquip(
@@ -130,7 +133,7 @@ myChangeEquip = function(self, ...)
 								function()
 									gun:RequestChangeEquip(
 									function() 
-										self:RemoveList(gun, eq, gunLocation, slotIndex);
+										myRemoveList(self, gun, eq, gunLocation, slotIndex);
 									end
 									, eq, true, wantEquipSlot);
 								end
@@ -138,7 +141,7 @@ myChangeEquip = function(self, ...)
                         else
                             gun:RequestChangeEquip(
 								function()
-									self:RemoveList(gun, eq, gunLocation, slotIndex);
+									myRemoveList(self, gun, eq, gunLocation, slotIndex);
 								end
                                 , eq, true, wantEquipSlot);
                         end
@@ -149,11 +152,23 @@ myChangeEquip = function(self, ...)
                     local oldEq = gun.equipList:Find(function(s) return s.slotWithGun == wantEquipSlot end);
                     gun:RequestChangeEquip(
 						function()
-							gun:RequestChangeEquip(
-								function()
-									self:RemoveList(gun, eq, gunLocation, slotIndex);
-								end
-                                , eq, true, wantEquipSlot);
+							if(gun.equipList:Exists(function(s) return s.info.type == eq.info.type end)) then
+								local slot = gun.equipList:Find(function(s) return s.info.type == eq.info.type end).slotWithGun;
+								gun:RequestChangeEquip(
+									function()
+										gun:RequestChangeEquip(
+										function() 
+											myRemoveList(self, gun, eq, gunLocation, slotIndex); 
+										end , eq, true, wantEquipSlot);
+									end
+									, eq, false, slot)
+							else
+								gun:RequestChangeEquip(
+									function()
+										myRemoveList(self, gun, eq, gunLocation, slotIndex);
+									end
+									, eq, true, wantEquipSlot);
+							end
 						end
                         , oldEq, false, wantEquipSlot);
                 else
@@ -163,31 +178,42 @@ myChangeEquip = function(self, ...)
 							function()
 								gun:RequestChangeEquip(
 									function()
-										self:RemoveList(gun, eq, gunLocation, slotIndex);
+										myRemoveList(self, gun, eq, gunLocation, slotIndex);
 									end
                                     , eq, true, wantEquipSlot);
 							end
                             , eq, false, slot);
                     else
-                        gun:RequestChangeEquip(
+						if(gun.equipList:Exists(function(s) return s.info.type == eq.info.type end)) then
+							local slot = gun.equipList:Find(function(s) return s.info.type == eq.info.type end).slotWithGun;
+							gun:RequestChangeEquip(
 							function()
-								self:RemoveList(gun, eq, gunLocation, slotIndex);
+								gun:RequestChangeEquip(
+								function() 
+									myRemoveList(self, gun, eq, gunLocation, slotIndex); 
+								end , eq, true, wantEquipSlot);
 							end
-                            , eq, true, wantEquipSlot);
-                    
+							, eq, false, slot)
+						else
+							gun:RequestChangeEquip(
+								function()
+									myRemoveList(self, gun, eq, gunLocation, slotIndex);
+								end
+								, eq, true, wantEquipSlot);
+						end
 					end
                 end
 			end
         else
-            if (gun ~= null and gun.equipList:Exists(function(s) return s.slotWithGun == i end)) then
+            if (gun ~= nil and gun.equipList:Exists(function(s) return s.slotWithGun == i end)) then
                 local oldEq = gun.equipList:Find(function(s) return s.slotWithGun == i end);
                 gun:RequestChangeEquip(
 					function()
-						self:RemoveList(gun, eq, gunLocation, slotIndex);
+						myRemoveList(self, gun, eq, gunLocation, slotIndex);
 					end
                     , oldEq, false, i);
             else
-				self:RemoveList(gun, eq, gunLocation, slotIndex);
+				myRemoveList(self, gun, eq, gunLocation, slotIndex);
 			end
         end
     else
@@ -201,10 +227,9 @@ myChangeEquip = function(self, ...)
 	
 		else
 			if(self.currntGunLocationIndex < CS.FormationController.Instance.arrCharacterLabel.Length - 1) then
-				self:ChangeEquip(self.currntGunLocationIndex + 1, self.currentSelectForce);
+				myChangeEquip(self, self.currntGunLocationIndex + 1, self.currentSelectForce);
 			else
-					
-				self:NextEquip(nil, 0, 4, false); 
+				myNextEquip(self, nil, 0, 4, false); 
 				return;
 			end
 		end
@@ -244,7 +269,7 @@ myChangeEquip = function(self, ...)
 					end		
 				end
 			end
-			self:NextEquip(gun, gunLocation, 1, true);
+			myNextEquip(self, gun, gunLocation, 1, true);
 		end
     end 
 end
@@ -288,45 +313,53 @@ local myOnClickComfirm = function(self)
 			end
 		end
 	end
-    if(isSmartOn == true) then
-        self:ChangeEquip(0, true);
+    if(self.isSmartOn == true) then
+		myChangeEquip(self, 0, true);
 	else
         if (showTip == true) then
             CS.CommonMessageBoxController.Instance:ShowToogle(CS.Data.GetLang(54038), CS.Data.GetLang(54039), 
 			function(force)  
-				self:ChangeEquip(0, force); 
+					myChangeEquip(self,0, force); 
 				end, nil, self.currentSelectForce);
         else
-            self:ChangeEquip(0, false);
+			myChangeEquip(self,0, false);
 		end
     end
 end
 function sortGT(left, right)
-		if (left.info.rank ~= right.info.rank) then
-			if(left.info.rank > right.info.rank) then
-				return pa;
-			else
-				return pa * -1;
-			end
-        elseif (left.equip_level ~= right.equip_level) then
-			if(left.equip_level > right.equip_level) then
-				return pa;
-			else
-				return pa * -1;
-			end
-        elseif (left:CheckPropertyAllMax() ~= right:CheckPropertyAllMax()) then
-			if(left:CheckPropertyAllMax()) then
-				return pa;
-			else
-				return pa * -1;
-			end
-        else
-			if(left.id > right.id) then
-				return pa;
-			else
-				return pa * -1;
-			end
-        end
+	local returnBool = false;
+	if(pa == -1) then
+		returnBool = false;
+	else
+		returnBool = true;
+	end
+	if (CS.System.Convert.ToInt32(left.info.rank) ~= CS.System.Convert.ToInt32(right.info.rank)) then
+		if(CS.System.Convert.ToInt32(left.info.rank) > CS.System.Convert.ToInt32(right.info.rank)) then
+			return returnBool;
+		else
+			return returnBool ~= false;
+		end
+    elseif (left.equip_level ~= right.equip_level) then
+		if(left.equip_level > right.equip_level) then
+			return returnBool;
+		else
+			return returnBool ~= false;
+		end
+    elseif (left:CheckPropertyAllMax() ~= right:CheckPropertyAllMax()) then
+		if(left:CheckPropertyAllMax()) then
+			return returnBool;
+		else
+			return returnBool ~= false;
+		end
+    else
+		if(left.id == right.id) then -- 防止lua快排边界越界
+			return false;
+		elseif(left.id > right.id) then
+			return returnBool;
+		else
+			return returnBool ~= false;
+		end
+    end
 end
 function ListToTable(CSharpList)
     --将C#的List转成Lua的Table
@@ -348,8 +381,8 @@ end
 myRemoveList = function(self, gun, eq, gunLocation, slotIndex)
 	if (eq ~= nil and gun ~= nil) then
 		gun.wantEquipList:Remove(eq);
-		myNextEquip(self, gun, gunLocation, slotIndex+1, true);
 	end
+	myNextEquip(self, gun, gunLocation, slotIndex+1, true);
 end
 util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'ChangeEquip',myChangeEquip)
 util.hotfix_ex(CS.FormationEchelonEquipmentPresetController,'OnClickComfirm',myOnClickComfirm)

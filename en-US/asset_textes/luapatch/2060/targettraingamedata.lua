@@ -20,4 +20,11 @@ local RemoveSquadAssistSangvis = function(self,id)
 	end
 	
 end
+local SetTeamToData = function(self)
+	self:SetTeamToData()
+	if self.team.Fairy == nil and CS.GameData.dictTeamFairy ~= nil and CS.GameData.dictTeamFairy:ContainsKey(111) then
+		CS.GameData.dictTeamFairy:Remove(111)
+	end
+end
 util.hotfix_ex(CS.TargetTrainGameData,'RemoveSquadAssistSangvis',RemoveSquadAssistSangvis)
+util.hotfix_ex(CS.TargetTrainGameData,'SetTeamToData',SetTeamToData)
