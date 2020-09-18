@@ -155,7 +155,7 @@ end
 local PlaySpotSurroundCapture = function(self)
 	if CS.GameData.missionAction.currentTurnBelong == CS.MissionAction.TurnBelong.SelfTurn then
 		for i=0,CS.DeploymentBackgroundController.layers.Count-1 do
-			if CS.DeploymentBackgroundController.currentlayer ~= CS.DeploymentBackgroundController.layers[i] then
+			if CS.DeploymentBackgroundController.Instance:PlayerWantlayer() ~= CS.DeploymentBackgroundController.layers[i] then
 				self.cannotPlayLayer:Add(CS.DeploymentBackgroundController.layers[i]);
 			end
 		end
@@ -207,6 +207,12 @@ local ShowSettlement = function(self)
 	CS.DeploymentController.AddAction(ShowSettlementResult,0.5);
 end
 
+local MoveTeam = function(self)
+	for i=0, CS.GameData.missionAction.queueTeamMove.Count-1 do
+		CS.DeploymentBackgroundController.currentlayer = CS.GameData.missionAction.queueTeamMove[i].layer;
+	end 
+	self:MoveTeam();
+end
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -223,3 +229,4 @@ util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroun
 util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
 util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)
+util.hotfix_ex(CS.DeploymentController,'MoveTeam',MoveTeam)

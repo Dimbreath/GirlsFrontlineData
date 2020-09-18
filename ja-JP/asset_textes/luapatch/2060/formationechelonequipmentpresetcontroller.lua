@@ -72,8 +72,12 @@ myChangeEquip = function(self, ...)
                         else
 							local resultTables = ListToTable(resultEquips)
 							pa = CS.FormationEchelonEquipmentPresetController.Instance.param;
-							table.sort(resultTables, sortGT)
-                            local spEquip = resultTables[0];
+							if pcall(function() 
+								table.sort(resultTables, sortGT)
+							end) then
+							
+							end
+                            local spEquip = resultTables[1];
                             spEquip.slotWithGun = eq.slotWithGun;
                             eq = spEquip;
 						end
@@ -327,45 +331,52 @@ local myOnClickComfirm = function(self)
     end
 end
 function sortGT(left, right)
-	local returnBool = false;
-	if(pa == -1) then
-		returnBool = false;
-	else
-		returnBool = true;
+	local leftRankValue = CS.System.Convert.ToInt32(left.info.rank) 
+	local rightRankValue = CS.System.Convert.ToInt32(right.info.rank) 
+	
+	if (leftRankValue > rightRankValue) then
+		return true;
 	end
-	if (CS.System.Convert.ToInt32(left.info.rank) ~= CS.System.Convert.ToInt32(right.info.rank)) then
-		if(CS.System.Convert.ToInt32(left.info.rank) > CS.System.Convert.ToInt32(right.info.rank)) then
-			return returnBool;
-		else
-			return returnBool ~= false;
+	if (leftRankValue < rightRankValue) then
+		return false;
+	end
+	local leftElevelValue = left.equip_level 
+	local rightElevelValue = right.equip_level
+	
+	if(leftElevelValue > rightElevelValue) then
+		return true;
+	end
+	if(leftElevelValue < rightElevelValue) then
+		return false;
+	end
+	
+	local leftPropertyValue = left:CheckPropertyAllMax()
+	local rightPropertyValue = right:CheckPropertyAllMax()
+	
+	if(leftPropertyValue ~= rightPropertyValue) then
+		if(leftPropertyValue == true) then
+			return true;
 		end
-    elseif (left.equip_level ~= right.equip_level) then
-		if(left.equip_level > right.equip_level) then
-			return returnBool;
-		else
-			return returnBool ~= false;
-		end
-    elseif (left:CheckPropertyAllMax() ~= right:CheckPropertyAllMax()) then
-		if(left:CheckPropertyAllMax()) then
-			return returnBool;
-		else
-			return returnBool ~= false;
-		end
-    else
-		if(left.id == right.id) then -- 防止lua快排边界越界
+		if(rightPropertyValue == true) then
 			return false;
-		elseif(left.id > right.id) then
-			return returnBool;
-		else
-			return returnBool ~= false;
 		end
-    end
+	end
+	local leftIdValue = left.id
+	local rightIdValue = right.id
+	
+	if(leftIdValue > rightIdValue) then
+		return true;
+	end
+	if(leftIdValue < rightIdValue) then
+		return false;
+	end	
+	return false;
 end
 function ListToTable(CSharpList)
     --将C#的List转成Lua的Table
     local list = {}
     if CSharpList then
-        local index = 0
+        local index = 1
         local iter = CSharpList:GetEnumerator()
         while iter:MoveNext() do
             local v = iter.Current

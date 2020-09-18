@@ -321,6 +321,8 @@ patch2060=
 "2060/DeploymentSquadTeamController",
 "2060/DeploymentSangvisTeamController",
 "2060/DeploymentAllyTeamController",
+"2060/DeploymentAllyTeamFloatingInfo",
+"2060/DeploymentFairySkillPanelController",
 "2060/DeploymentEnemyTeamController",
 "2060/DeploymentRandomEventController",
 "2060/DeploymentMapDragController",
@@ -399,6 +401,12 @@ patch2060=
 "2060/TipOpenManualBoxBtnController",
 "2060/TargetTrainRankItem",
 "2060/RankingSPListItem",
+"2060/TargetTrainRankingUIController",
+"2060/AutoFormationTeamNodeController",
+"2060/CommonCharacterListController",
+"2060/TheaterTeamData",
+"2060/SquadStateRightSideDetailsPanelController",
+"2060/TheaterCombatSettlementUIController",
 }
 --[[
 -- va11
