@@ -397,6 +397,8 @@ patch2060=
 "2060/CommonClothesColorLabelController",
 "2060/StoreRoomController",
 "2060/TipOpenManualBoxBtnController",
+"2060/TargetTrainRankItem",
+"2060/RankingSPListItem",
 }
 --[[
 -- va11
