@@ -407,6 +407,7 @@ patch2060=
 "2060/TheaterTeamData",
 "2060/SquadStateRightSideDetailsPanelController",
 "2060/TheaterCombatSettlementUIController",
+"2060/TheaterEchelonSelectionTeamItem";
 }
 --[[
 -- va11

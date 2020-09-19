@@ -26,5 +26,14 @@ local SetTeamToData = function(self)
 		CS.GameData.dictTeamFairy:Remove(111)
 	end
 end
+local _TryLoadTeamDataFromLocal = function(self,teamid)
+	self:TryLoadTeamDataFromLocal(teamid)
+	if self.team ~= nil and self.team.dictLocation[1] ~= nil and self.team.dictLocation[1].location==0 and self.team.dictLocation[1].teamId==0 then
+		print(self.team.dictLocation[1].Name);
+		self.team.dictLocation[1].location=1;
+		self.team:UpdateEffectGridBuff();
+	end
+end
 util.hotfix_ex(CS.TargetTrainGameData,'RemoveSquadAssistSangvis',RemoveSquadAssistSangvis)
 util.hotfix_ex(CS.TargetTrainGameData,'SetTeamToData',SetTeamToData)
+util.hotfix_ex(CS.TargetTrainGameData,'TryLoadTeamDataFromLocal',_TryLoadTeamDataFromLocal)

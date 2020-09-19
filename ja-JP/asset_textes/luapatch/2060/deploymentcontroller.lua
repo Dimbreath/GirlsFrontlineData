@@ -1,5 +1,13 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.DeploymentController)
+
+local InitTeamSpots = function(self)
+	self:InitTeamSpots();
+	if CS.DeploymentController.isDeplyment then
+		CS.Data.DelKeyFromPlayerPref("SpecialSpotAVG");
+	end
+end
+
 local RequestStartMissionHandle = function(self,www)
 	self:RequestStartMissionHandle(www);
 	for i=0,CS.DeploymentBackgroundController.Instance.listSpot.Count-1 do
@@ -213,6 +221,22 @@ local MoveTeam = function(self)
 	end 
 	self:MoveTeam();
 end
+
+local RequestStartTurnHandle = function(self,www)
+	local useDemoMission = CS.GameData.currentSelectedMissionInfo.useDemoMission;
+	if CS.GameData.missionAction.missionInfo.specialType == CS.MapSpecialType.Night then
+		if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
+			CS.GameData.missionAction.missionInfo.currentMissionCombination = false;
+		end
+		CS.GameData.missionAction.missionInfo.baseuseDemoMission = false;
+	end
+	self:RequestStartTurnHandle(www);
+	if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
+		CS.GameData.missionAction.missionInfo.currentMissionCombination = useDemoMission;
+	end
+	CS.GameData.missionAction.missionInfo.baseuseDemoMission = useDemoMission;
+end
+util.hotfix_ex(CS.DeploymentController,'InitTeamSpots',InitTeamSpots)
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -230,3 +254,4 @@ util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
 util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)
 util.hotfix_ex(CS.DeploymentController,'MoveTeam',MoveTeam)
+util.hotfix_ex(CS.DeploymentController,'RequestStartTurnHandle',RequestStartTurnHandle)
