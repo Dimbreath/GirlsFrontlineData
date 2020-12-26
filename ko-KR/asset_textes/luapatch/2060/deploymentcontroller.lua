@@ -1,5 +1,13 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.DeploymentController)
+
+local InitTeamSpots = function(self)
+	self:InitTeamSpots();
+	if CS.DeploymentController.isDeplyment then
+		CS.Data.DelKeyFromPlayerPref("SpecialSpotAVG");
+	end
+end
+
 local RequestStartMissionHandle = function(self,www)
 	self:RequestStartMissionHandle(www);
 	for i=0,CS.DeploymentBackgroundController.Instance.listSpot.Count-1 do
@@ -155,7 +163,7 @@ end
 local PlaySpotSurroundCapture = function(self)
 	if CS.GameData.missionAction.currentTurnBelong == CS.MissionAction.TurnBelong.SelfTurn then
 		for i=0,CS.DeploymentBackgroundController.layers.Count-1 do
-			if CS.DeploymentBackgroundController.currentlayer ~= CS.DeploymentBackgroundController.layers[i] then
+			if CS.DeploymentBackgroundController.Instance:PlayerWantlayer() ~= CS.DeploymentBackgroundController.layers[i] then
 				self.cannotPlayLayer:Add(CS.DeploymentBackgroundController.layers[i]);
 			end
 		end
@@ -195,6 +203,14 @@ local TriggerStartMissionEvent = function()
 	CS.DeploymentController.TriggerStartMissionEvent();
 end
 
+local TriggerAVGFinishEvent = function()
+	CS.DeploymentController.TriggerAVGFinishEvent();
+	if CS.DeploymentController.Instance ~= nil and not CS.DeploymentController.Instance:isNull() then
+		if CS.GameData.missionAction ~= nil then
+			CS.DeploymentPlanModeController.Instance:Resume();
+		end
+	end
+end
 local ShowSettlementResult = function()
 	if CS.GameData.currentSelectedMissionInfo.missionType ~= CS.MissionType.simulation then
 		CS.DeploymentController.Instance:ShowCommonBattleSettlement();
@@ -207,6 +223,50 @@ local ShowSettlement = function(self)
 	CS.DeploymentController.AddAction(ShowSettlementResult,0.5);
 end
 
+local MoveTeam = function(self)
+	for i=0, CS.GameData.missionAction.queueTeamMove.Count-1 do
+		CS.DeploymentBackgroundController.currentlayer = CS.GameData.missionAction.queueTeamMove[i].layer;
+	end 
+	self:MoveTeam();
+end
+
+local CheckTrans = function()
+	if CS.DeploymentController.Instance:HasTeamCanTrans() then
+		CS.DeploymentController.Instance:CheckTeamTrans();
+	else
+		CS.DeploymentController.Instance:AddAndPlayPerformance(nil);
+	end
+end
+
+local RequestStartTurnHandle = function(self,www)
+	local useDemoMission = CS.GameData.currentSelectedMissionInfo.useDemoMission;
+	if CS.GameData.missionAction.missionInfo.specialType == CS.MapSpecialType.Night then
+		if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
+			CS.GameData.missionAction.missionInfo.currentMissionCombination.useDemoMission = false;
+		end
+		CS.GameData.missionAction.missionInfo.baseuseDemoMission = false;
+	end
+	self:RequestStartTurnHandle(www);
+	if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
+		CS.GameData.missionAction.missionInfo.currentMissionCombination.useDemoMission = useDemoMission;
+	end
+	CS.GameData.missionAction.missionInfo.baseuseDemoMission = useDemoMission;
+	if CS.GameData.missionResult ~= nil then
+		return;
+	end
+	self:AddAndPlayPerformance(CheckTrans);
+end
+
+local GoToBattleScene = function(self)
+	for i=0,CS.GameData.listSpotAction.Count-1 do
+		local spotAction = CS.GameData.listSpotAction:GetDataByIndex(i);
+		if spotAction.enemyInstanceId == 0 then
+			spotAction.enemyTeamId = 0;
+		end
+	end
+	self:GoToBattleScene();
+end
+util.hotfix_ex(CS.DeploymentController,'InitTeamSpots',InitTeamSpots)
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalyzeGrowSpots',AnalyzeGrowSpots)
 util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
@@ -222,4 +282,8 @@ util.hotfix_ex(CS.DeploymentController,'PlayChangAllyTeam',PlayChangAllyTeam)
 util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroundCapture)
 util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerAVGFinishEvent',TriggerAVGFinishEvent)
 util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)
+util.hotfix_ex(CS.DeploymentController,'MoveTeam',MoveTeam)
+util.hotfix_ex(CS.DeploymentController,'RequestStartTurnHandle',RequestStartTurnHandle)
+util.hotfix_ex(CS.DeploymentController,'GoToBattleScene',GoToBattleScene)

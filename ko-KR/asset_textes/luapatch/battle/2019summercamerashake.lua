@@ -5,7 +5,8 @@ Awake = function()
 	mainCamera = CS.UnityEngine.Camera.main
 	local eulerAngles = self.transform.rotation.eulerAngles
 	local scale = self.transform.localScale
-	CS.DG.Tweening.ShortcutExtensions.DOShakePosition(mainCamera,eulerAngles.x,eulerAngles.y,scale.x,scale.y)
+	mainCamera:DOShakePosition(eulerAngles.x,eulerAngles.y,scale.x,scale.y);
+	--CS.DG.Tweening.ShortcutExtensions.DOShakePosition(mainCamera,eulerAngles.x,eulerAngles.y,scale.x,scale.y)
 	CS.UnityEngine.Object.Destroy(self.gameObject)
 end
 

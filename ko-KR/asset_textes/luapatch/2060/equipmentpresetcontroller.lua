@@ -17,4 +17,11 @@ local myOnClick = function(self,b,i)
 		end
 	end
 end
+local myStart = function(self)
+    self:Start();
+	self.firstEquipmentLockTex.text = CS.System.String.Format(CS.Data.GetLang(1591), CS.Ratio.arrEquipLevelLimit[1]);
+    self.secondEquipmentTex.text = CS.System.String.Format(CS.Data.GetLang(1591), CS.Ratio.arrEquipLevelLimit[2]);
+    self.thirdEquipmentTex.text = CS.System.String.Format(CS.Data.GetLang(1591), CS.Ratio.arrEquipLevelLimit[3]);
+end
 util.hotfix_ex(CS.EquipmentPresetController,'OnClick',myOnClick)
+util.hotfix_ex(CS.EquipmentPresetController,'Start',myStart)

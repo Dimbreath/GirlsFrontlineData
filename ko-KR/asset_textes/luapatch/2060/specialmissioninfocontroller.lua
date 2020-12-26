@@ -32,11 +32,23 @@ end
 
 local ShowNewReward = function(self)
 	self.showtxtNew:Find("PointNode").gameObject:SetActive(false);
+	for i=0,self.panelMission.missionIds.Length-1 do
+		local mission = CS.GameData.listMission:GetDataById(self.panelMission.missionIds[i]);
+		if mission == nil  then
+			print("关卡未解锁"..self.panelMission.missionIds[i]);
+			return;
+		end
+	end
 	self:ShowNewReward();
 end
 
+local InitUIElements = function(self)
+	CS.SpecialMissionInfoController.Instance = self;
+	self:InitUIElements();
+end
 util.hotfix_ex(CS.SpecialMissionInfoController,'RequestAbortAutoMissionActionHandle',RequestAbortAutoMissionActionHandle)
 util.hotfix_ex(CS.SpecialMissionInfoController,'InitLimitSquadItem',InitLimitSquadItem)
 util.hotfix_ex(CS.SpecialMissionInfoController,'InitLimitSangvisItem',InitLimitSangvisItem)
 util.hotfix_ex(CS.SpecialMissionInfoController,'ShowOldReward',ShowOldReward)
 util.hotfix_ex(CS.SpecialMissionInfoController,'ShowNewReward',ShowNewReward)
+util.hotfix_ex(CS.SpecialMissionInfoController,'InitUIElements',InitUIElements)
