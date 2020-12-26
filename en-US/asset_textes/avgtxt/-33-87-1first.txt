@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:格里芬临时指挥部内。
-NPC-Kalin(4)<Speaker>格琳</Speaker>||:看起来真的是好多人在关注我们啊……
-指挥官()||:所以我们也需要更多情报。
-()||<SE1>AVG_tele_connect</SE1>:滴——
-NPC-Kalin(0)<Speaker>格琳</Speaker>||:是有新的情报了吗？
-NPC-Havel(0)<Speaker>哈维尔</Speaker><通讯框>||:<color=#00CCFF>哦，果然是传输到了这里。</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||:呜哇！怎么通讯自动打开了！？
-NPC-Havel(0)<Speaker>哈维尔</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>怎么了？格里芬的各位，你们在做什么不可告人的事么？</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||:是哈维尔先生突然强行通讯过来才吓了我们一跳好吧！
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>抱歉抱歉，先祝贺一下你们从塔林城里逃脱出来吧。</color>+<color=#00CCFF>虽然我们心中都有这个预期，不过真的得到了这个结果，大家还是觉得挺高兴的。</color>
-指挥官()||:我想哈维尔先生不至于为了说声感谢而突然联络我们吧。
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>的确是挺突然的通讯，不过没关系，这说明他还是挺喜欢你们的。</color>+<color=#00CCFF>既然都通上话了，那我也给点小小的建议吧。</color>
-指挥官()||:请说。
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>我知道你还是回应了帕斯卡的请求，所以再说之前的老生常谈你一定会觉得索然无味。</color>+<color=#00CCFF>不过帕斯卡那AR小队带回来的东西，我建议不要让安全局知道。</color>+<color=#00CCFF>那个东西……可能会在关键时候能救你的命，也可能会在你认为安全的某一刻要你的命。</color>
-指挥官()||:……
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||<黑屏1>:<color=#00CCFF>好了，我就不多加打扰了。希望接下来的旅程你也能保持着你一贯的好运，我很期待我们可以面对面地交谈一次……</color>+<color=#00CCFF>……如果你能活着回来的话。</color>
-()||<黑屏2><黑屏1><BIN>9</BIN>:【裂变链接 END】
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:In Griffin's temporary command center.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Many people have their eyes on us...
+Commander()||:That's why we also need more information.
+()||<SE1>AVG_tele_connect</SE1>:Click.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:New intel?
+NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>Oh, it actually got through.</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Whoa! How come the comms just activated itself?!
+NPC-Havel(0)<Speaker>Havier</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>What's the matter? Have you been up to something no good?</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:We were just startled by your sudden forced transmission, Mr Havier!
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>Sorry about that. Allow me to first congratulate you on making it out of Tallinn in one piece.</color>+<color=#00CCFF>We'd expected as much, but everyone is still very pleased with the outcome.</color>
+Commander()||:I doubt you called just to thank us for our work.
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know this is a bit abrupt, but don't worry, it just shows that he does like you.</color>+<color=#00CCFF>Since we're already speaking, I might as well offer a little piece of advice.</color>
+Commander()||:Please do.
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know you went ahead and agreed to Persica's request, so I'll save you the boredom of listening to more platitude.</color>+<color=#00CCFF>However, I strongly suggest you don't let Statesec know about what Persica's AR Team brought back.</color>+<color=#00CCFF>That thing...could save your life at a desperate moment, but it could also cost you your life just when you think you're safe.</color>
+Commander()||:...
+NPC-Havel(0)<Speaker>Havier</Speaker>||<黑屏1>:<color=#00CCFF>That's it. I won't intrude upon you any longer. I hope your usual luck will persist through the rest of your journey, and I look forward to meeting you in person...</color>+<color=#00CCFF>...If you can make it back alive, that is.</color>
+()||<黑屏2><黑屏1><BIN>9</BIN>:【Shattered Connexion - END】

@@ -92,5 +92,13 @@ local ShowTarget = function(self,select)
 		end
 	end
 end
+local Init = function(self)
+	if CS.GameData.currentSelectedMissionInfo.useWinType or CS.GameData.currentSelectedMissionInfo.useWinStep then
+		self:InitNew();
+	else
+		self:InitOld();
+	end
+end
 util.hotfix_ex(CS.DeploymentCampaignExplain,'InitOld',InitOld)
+util.hotfix_ex(CS.DeploymentCampaignExplain,'Init',Init)
 util.hotfix_ex(CS.DeploymentCampaignExplain,'ShowTarget',ShowTarget)

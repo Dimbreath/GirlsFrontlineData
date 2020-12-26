@@ -1,6 +1,46 @@
 {
     "skin_bonus_info": [
         {
+            "id": "101",
+            "name": "skin_bonus-10000101",
+            "description": "skin_bonus-20000101",
+            "skin_theme": "1",
+            "active_num": "3",
+            "prize": "9101",
+            "type": "skin_bonus-30000101",
+            "icon": "2016xmas_01"
+        },
+        {
+            "id": "102",
+            "name": "skin_bonus-10000102",
+            "description": "skin_bonus-20000102",
+            "skin_theme": "1",
+            "active_num": "5",
+            "prize": "9102",
+            "type": "skin_bonus-30000102",
+            "icon": "2016xmas_02"
+        },
+        {
+            "id": "103",
+            "name": "skin_bonus-10000103",
+            "description": "skin_bonus-20000103",
+            "skin_theme": "1",
+            "active_num": "7",
+            "prize": "9103",
+            "type": "skin_bonus-30000103",
+            "icon": "2016xmas_03"
+        },
+        {
+            "id": "104",
+            "name": "skin_bonus-10000104",
+            "description": "skin_bonus-20000104",
+            "skin_theme": "1",
+            "active_num": "9",
+            "prize": "9104",
+            "type": "skin_bonus-30000104",
+            "icon": "2016xmas_04"
+        },
+        {
             "id": "201",
             "name": "skin_bonus-10000201",
             "description": "skin_bonus-20000201",
@@ -69,46 +109,6 @@
             "prize": "9303",
             "type": "skin_bonus-30000303",
             "icon": "2017manwear_03"
-        },
-        {
-            "id": "101",
-            "name": "skin_bonus-10000101",
-            "description": "skin_bonus-20000101",
-            "skin_theme": "1",
-            "active_num": "3",
-            "prize": "9101",
-            "type": "skin_bonus-30000101",
-            "icon": "2016xmas_01"
-        },
-        {
-            "id": "102",
-            "name": "skin_bonus-10000102",
-            "description": "skin_bonus-20000102",
-            "skin_theme": "1",
-            "active_num": "5",
-            "prize": "9102",
-            "type": "skin_bonus-30000102",
-            "icon": "2016xmas_02"
-        },
-        {
-            "id": "103",
-            "name": "skin_bonus-10000103",
-            "description": "skin_bonus-20000103",
-            "skin_theme": "1",
-            "active_num": "7",
-            "prize": "9103",
-            "type": "skin_bonus-30000103",
-            "icon": "2016xmas_03"
-        },
-        {
-            "id": "104",
-            "name": "skin_bonus-10000104",
-            "description": "skin_bonus-20000104",
-            "skin_theme": "1",
-            "active_num": "9",
-            "prize": "9104",
-            "type": "skin_bonus-30000104",
-            "icon": "2016xmas_04"
         },
         {
             "id": "401",
@@ -301,6 +301,46 @@
             "icon": "2018beach_3"
         },
         {
+            "id": "1001",
+            "name": "skin_bonus-10001001",
+            "description": "skin_bonus-20001001",
+            "skin_theme": "10",
+            "active_num": "3",
+            "prize": "91001",
+            "type": "skin_bonus-30001001",
+            "icon": "2018WS_1"
+        },
+        {
+            "id": "1002",
+            "name": "skin_bonus-10001002",
+            "description": "skin_bonus-20001002",
+            "skin_theme": "10",
+            "active_num": "4",
+            "prize": "91002",
+            "type": "skin_bonus-30001002",
+            "icon": "2018WS_2"
+        },
+        {
+            "id": "1003",
+            "name": "skin_bonus-10001003",
+            "description": "skin_bonus-20001003",
+            "skin_theme": "10",
+            "active_num": "5",
+            "prize": "91003",
+            "type": "skin_bonus-30001003",
+            "icon": "2018WS_3"
+        },
+        {
+            "id": "1004",
+            "name": "skin_bonus-10001004",
+            "description": "skin_bonus-20001004",
+            "skin_theme": "10",
+            "active_num": "6",
+            "prize": "91004",
+            "type": "skin_bonus-30001004",
+            "icon": "2018WS_4"
+        },
+        {
             "id": "1201",
             "name": "skin_bonus-10001201",
             "description": "skin_bonus-20001201",
@@ -449,6 +489,86 @@
             "prize": "91504",
             "type": "skin_bonus-30001504",
             "icon": "yz2019_4"
+        },
+        {
+            "id": "1601",
+            "name": "skin_bonus-10001601",
+            "description": "skin_bonus-20001601",
+            "skin_theme": "16",
+            "active_num": "3",
+            "prize": "91601",
+            "type": "skin_bonus-30001601",
+            "icon": "ws2019_1"
+        },
+        {
+            "id": "1602",
+            "name": "skin_bonus-10001602",
+            "description": "skin_bonus-20001602",
+            "skin_theme": "16",
+            "active_num": "4",
+            "prize": "91602",
+            "type": "skin_bonus-30001602",
+            "icon": "ws2019_2"
+        },
+        {
+            "id": "1603",
+            "name": "skin_bonus-10001603",
+            "description": "skin_bonus-20001603",
+            "skin_theme": "16",
+            "active_num": "6",
+            "prize": "91603",
+            "type": "skin_bonus-30001603",
+            "icon": "ws2019_3"
+        },
+        {
+            "id": "1604",
+            "name": "skin_bonus-10001604",
+            "description": "skin_bonus-20001604",
+            "skin_theme": "16",
+            "active_num": "8",
+            "prize": "91604",
+            "type": "skin_bonus-30001604",
+            "icon": "ws2019_4"
+        },
+        {
+            "id": "1701",
+            "name": "skin_bonus-10001701",
+            "description": "skin_bonus-20001701",
+            "skin_theme": "17",
+            "active_num": "3",
+            "prize": "91701",
+            "type": "skin_bonus-30001701",
+            "icon": "Xmas2019_1"
+        },
+        {
+            "id": "1702",
+            "name": "skin_bonus-10001702",
+            "description": "skin_bonus-20001702",
+            "skin_theme": "17",
+            "active_num": "5",
+            "prize": "91702",
+            "type": "skin_bonus-30001702",
+            "icon": "Xmas2019_2"
+        },
+        {
+            "id": "1703",
+            "name": "skin_bonus-10001703",
+            "description": "skin_bonus-20001703",
+            "skin_theme": "17",
+            "active_num": "6",
+            "prize": "91703",
+            "type": "skin_bonus-30001703",
+            "icon": "Xmas2019_3"
+        },
+        {
+            "id": "1704",
+            "name": "skin_bonus-10001704",
+            "description": "skin_bonus-20001704",
+            "skin_theme": "17",
+            "active_num": "7",
+            "prize": "91704",
+            "type": "skin_bonus-30001704",
+            "icon": "Xmas2019_4"
         }
     ]
 }

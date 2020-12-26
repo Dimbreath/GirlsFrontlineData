@@ -1,6 +1,18 @@
 {
     "skin_group_info": [
         {
+            "id": "1",
+            "theme": "skin_group-10000001",
+            "skin": "301,302,303,304,305,306,307,308,309,310",
+            "description": "skin_group-20000001",
+            "bonus": "0",
+            "note": "0",
+            "icon": "sd2016_tree_icon",
+            "order": "4",
+            "is_new": "0",
+            "title_code": "sd2016"
+        },
+        {
             "id": "2",
             "theme": "skin_group-10000002",
             "skin": "1,2,3,4,5,6,7,8,9,11",
@@ -23,18 +35,6 @@
             "order": "15",
             "is_new": "0",
             "title_code": "cfd2017"
-        },
-        {
-            "id": "1",
-            "theme": "skin_group-10000001",
-            "skin": "301,302,303,304,305,306,307,308,309,310",
-            "description": "skin_group-20000001",
-            "bonus": "0",
-            "note": "0",
-            "icon": "sd2016_tree_icon",
-            "order": "4",
-            "is_new": "0",
-            "title_code": "sd2016"
         },
         {
             "id": "4",
@@ -109,6 +109,18 @@
             "title_code": "beach2018"
         },
         {
+            "id": "10",
+            "theme": "skin_group-10000010",
+            "skin": "2601,2602,2603,2604,2605,2606",
+            "description": "skin_group-20000010",
+            "bonus": "0",
+            "note": "0",
+            "icon": "halloween2018_chair_01_icon",
+            "order": "25",
+            "is_new": "0",
+            "title_code": "ws2018"
+        },
+        {
             "id": "12",
             "theme": "skin_group-10000012",
             "skin": "3001,3002,3003,3004,3005,3006,3007",
@@ -153,8 +165,32 @@
             "note": "0",
             "icon": "aquarium_fish2_icon",
             "order": "30",
-            "is_new": "1",
+            "is_new": "0",
             "title_code": "yz2019"
+        },
+        {
+            "id": "16",
+            "theme": "skin_group-10000016",
+            "skin": "3801,3802,3803,3805,3806,3807,3808,3809",
+            "description": "skin_group-20000016",
+            "bonus": "0",
+            "note": "0",
+            "icon": "hallo2019_wall_icon",
+            "order": "31",
+            "is_new": "0",
+            "title_code": "ws2019"
+        },
+        {
+            "id": "17",
+            "theme": "skin_group-10000017",
+            "skin": "4001,4002,4003,4004,4005,4006,4007",
+            "description": "skin_group-20000017",
+            "bonus": "0",
+            "note": "0",
+            "icon": "Xmas19_03_icon",
+            "order": "32",
+            "is_new": "1",
+            "title_code": "Xmas2019"
         }
     ]
 }

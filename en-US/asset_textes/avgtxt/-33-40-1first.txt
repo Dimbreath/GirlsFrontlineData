@@ -1,40 +1,40 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><黑屏2><BIN>98</BIN>:……
-AR15Mod(5)<Speaker>AR15</Speaker>||:UMP45！你们还没好吗！+返回这里的敌人越来越多了！
-AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>在做了，别催了！</color>+<color=#00CCFF>你以为我们要做的事只是卷卷网线那种程度吗？——9，用我给你的新范围重新筛选端口——你们再坚持一下！</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;UMP45Mod(0)||<SE1>Select</SE1>:弹药也快见底了！
-M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>你们在这个车上找找，一定有备用的！</color>
-AR15Mod(5)<Speaker>AR15</Speaker>;UMP45Mod(0)<通讯框>||<白屏1><SE2>Gunfight</SE2>:但是现在哪有这个空——
-()||<白屏2><SE1>Explode</SE1>:……轰！
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:咳……好呛……我说，军方的第二第三波装甲部队正在朝我们突击！+我们的重装小队呢？！
-RO635(5)<Speaker>RO635</Speaker><通讯框>||:重装小队正在找合适的攻击位置，直接站在车顶上会成为敌人的靶子的！
-AR15Mod(5)<Speaker>AR15</Speaker>||:UMP45，这车再动不了的话，我们都会死在这的！
-AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>10秒钟。</color>
-AR15Mod(5)<Speaker>AR15</Speaker>;UMP45Mod(0)||:什么？
-AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>我能先让它动一部分。</color>
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>45姐，果然和你判断的一样！</color>+<color=#00CCFF>我搞定了！</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:<color=#00CCFF>OK。那么，让我们来试试这些大炮的威力吧！</color>+<color=#00CCFF>我已经将火炮切换成榴弹模式，射击的权限交给你们AR小队了，尽情地释放你们的怒火吧。</color>
-()<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>210</BIN><黑屏2><黑屏1>:太好了，给我变成烟花吧！
-()||<震屏><黑屏2>0,5</黑屏2><BIN>209</BIN><SE1>Explode</SE1>:装甲列车的主炮不断地开火，将敌人的阵地覆盖成了一片火海。
-()<Speaker></Speaker>||<黑屏1><SE1>Battlefield</SE1>:在列车炮的攻击下，装甲列车周边的军方部队暂时撤退了。+在此期间，格里芬的梯队快速转移至装甲车内。
-()<Speaker></Speaker>||<BIN>202</BIN><BGM>BGM_Brain</BGM><黑屏2>:装甲车内临时指挥室。
-指挥官()<Speaker>指挥官</Speaker>||:现在装甲车的状况怎么样？
-RO635(0)<Speaker>RO635</Speaker>||:我们已经接管了列车全部的权限，随时都能行驶。+列车炮的话，除了之前被重装小队破坏的，其他都能使用。
-RO635(0)<Speaker>指挥官</Speaker>||:嗯，接下来就等M4那边……
-RO635(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:通讯接入。
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>指挥官！不好啦！</color>
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>指挥官</Speaker>||:怎么？
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>你看外边，有新的装甲列车！</color>
-指挥官()<Speaker>指挥官</Speaker>||<BIN>208</BIN><黑屏2><BGM>BGM_Boss</BGM>:果然有第二辆吗，后面应该会越来越多……+看来对方的准备相当充足啊……
-()<Speaker></Speaker>||<震屏><SE1>Explode</SE1>:……轰！！+另一列装甲列车炮开始向被格里芬占领的列车发起攻击。
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>指挥官，刚刚退避的装甲部队再次向我们这边移动了。</color>
-AR15Mod(0)<Speaker>指挥官</Speaker>||<黑屏1>:立刻使用剩余的大炮还击！+剩余的梯队以装甲列车炮为依托，在我们的射程范围内展开！+守住这里，等待M4解除塔林基地的防御门！
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:……+…………
-()<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:格里芬的全部梯队在装甲列车周边与敌人交战。
-AR15Mod(0)<Speaker>AR15</Speaker>||:敌人的攻击越来越猛烈了！+RO，指挥官那边有办法压制吗！
-RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:我们的火炮数量不足，几乎都用在另一台装甲列车上了！+向后收缩一下防线吧，指挥官说会让重装小队全力支持我们这一侧。
-RO635(4);AR15Mod(0)<Speaker>AR15</Speaker>||:那指挥官那边呢？
-RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:现在护盾全功率运转，应该还撑得住。
-AR15Mod(4)<Speaker>AR15</Speaker>||:即使能撑住这一时半刻，也不是长久之计……
-()<Speaker></Speaker>||:AR15向远处望去，高耸的厚重防护壁依旧纹丝不动。+她抿了抿唇，将注意力转回眼前的敌人上，果断地扣下了扳机。
-AR15Mod(4)<Speaker>AR15</Speaker>||<黑屏1>:M4……我会拼上全力守住你的归处的。+所以，你一定要快一点啊……
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><黑屏2><BIN>98</BIN>:...
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:UMP45, are you done yet?! +More and more enemies are coming back!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We're on it, so stop rushing us!</color>+<color=#00CCFF>You think we're just doing some cable management in here? —9, screen the ports using the new parameters I just gave you. —You guys hang in there for a bit!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;UMP45Mod(0)||<SE1>Select</SE1>:We're almost out of ammo!
+M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Search the train for more; they must have some spare ammo!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)<通讯框>||<白屏1><SE2>Gunfight</SE2>:But where do we find the time to—
+()||<白屏2><SE1>Explode</SE1>:...BOOM!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Cough... That's some heavy smoke... Hey, the Military is sending in their second and third wave of armored troops! +Where are our HOC?!
+RO635(5)<Speaker>RO635</Speaker><通讯框>||:The HOC are currently finding a suitable location to launch their attack! Firing directly on the train roof would make them obvious targets for the enemy!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:UMP45, if this train doesn't start soon, we're all gonna die here!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>10 seconds.</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:What?
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>I can activate a part of it.</color>
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>45, it's exactly as you thought!</color>+<color=#00CCFF>I'm done here!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:<color=#00CCFF>Okay. Then let's try out these big guns!</color>+<color=#00CCFF>I've already set the cannons to grenade launching mode and turned over firing authorizations to everyone on the AR Team. Unleash your wrath.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>210</BIN><黑屏2><黑屏1>:Hurray! Then let's have a fireworks display!
+()||<震屏><黑屏2>0,5</黑屏2><BIN>209</BIN><SE1>Explode</SE1>:The main cannon on the armored train launches round after round, turning the enemy fortifications into a sea of fire.
+()<Speaker></Speaker>||<黑屏1><SE1>Battlefield</SE1>:Under the barrage, the military forces around the armored train have retreated for the time being. +Meanwhile, Griffin forces move promptly onto the armored train.
+()<Speaker></Speaker>||<BIN>202</BIN><BGM>BGM_Brain</BGM><黑屏2>:In the temporary command center on the armored train.
+指挥官()<Speaker>Commander</Speaker>||:How's the train doing?
+RO635(0)<Speaker>RO635</Speaker>||:We've already taken over all control authorizations of the train; it's ready to go anytime. +All cannons are functional aside from the ones previously damaged by the HOC.
+RO635(0)<Speaker>Commander</Speaker>||:Right, now we just have to wait for M4...
+RO635(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:An incoming transmission.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Bad news, Commander!</color>
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>Commander</Speaker>||:What is it?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>Look outside! Another armored train!</color>
+指挥官()<Speaker>Commander</Speaker>||<BIN>208</BIN><黑屏2><BGM>BGM_Boss</BGM>:I knew they'd send more than one. More are probably coming... +The enemy seems to be very well-prepared...
+()<Speaker></Speaker>||<震屏><SE1>Explode</SE1>:...BOOM!! +The other armored train starts attacking the one being occupied by Griffin with their own cannons.
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Commander, the armored forces that just retreated have started moving towards us again.</color>
+AR15Mod(0)<Speaker>Commander</Speaker>||<黑屏1>:Return fire with our remaining cannons! +All echelons, spread out within the range of our artillery! +Defend the train until M4 unlocks the quarantine wall!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:... +......
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:Griffin echelons exchange fire with the enemies that have the armored train surrounded.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Their attacks are getting stronger and stronger! +RO, can the Commander give us some suppressive fire?!
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:We don't have cannons to spare! They're all busy dealing with the other armored train! +Pull the defense line back a little for now! The Commander says the HOC are going to focus all their fire on our side!
+RO635(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What about the Commander?
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:The shields are operating at full capacity; they should hold for a while.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:But even so, we can't keep this up for long...
+()<Speaker></Speaker>||:ST AR-15 gazes into the distance. The tall, impregnable wall still shows no sign of budging. +She purses her lips and concentrates once again on countering their more immediate threat. She pulls her trigger decisively.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1>:M4...I will do whatever I can to defend the place where you belong. +So you'd better hurry up...

@@ -1,20 +1,20 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-Kalin(0)<Speaker>格琳</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:指挥官，麻烦过来一下，我们收到了一个匿名的邮件。
-指挥官()||:这是？
-NPC-Kalin(0)<Speaker>格琳</Speaker>||:WAVE那边为我们提供的情报，似乎这次是一段录音？
-指挥官()||:这个“WAVE”，真的可靠么？
-NPC-Kalin(3)<Speaker>格琳</Speaker>||:唔，的确是很神秘的一个公司。至今他们只提供过情报，却从来没有收过费。和我们只通过邮件往来，而且每次发送源都是乱数，没法追踪。+不过迄今为止，WAVE为我们提供的情报都是准确的。虽然不清楚为什么要帮助我们，但应该是站在我们这边没错吧。
-指挥官()||:希望不是新的陷阱……这段录音，播放出来听听看吧。
-NPC-Kalin(0)<Speaker>格琳</Speaker>||<黑屏1>:好的！
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>开始播放录音。</color>
-()||:<color=#A9A9A9>杂音，有人走动的声音，一个什么按键被揿下了。</color>
-()||:【恭喜啊，我尊敬的局长同志。在贝莱格莱德的表演堪称一流。】
-()||:【老狐狸，又听到了什么风声了么。】
-()||:【当然不，完全没有。你们的痕迹只留在了被牺牲的表面，现在无论是泛欧的民间还是政界都倾向认为我们的政府表现出了最大的诚意和实力。】+【不惜牺牲自己的高官也要保护对方的大使，实在是太让人感动了。这完美到让人感觉是谋划好的。】
-()||:【哼，计划可是出了大的岔子，就差一点点，“信号旗”就要进城了。】
-()||:【“虽然有点小小的遗憾，不过那个城市并没有太多控制的必要，而且梭鱼节点也已经到手了。幸亏了那个‘K’的铤而走险，安全局的部队不出现反而利于撇清关系。”我想你是这么想的吧？】
-()||:【你废话太多了，哈维尔。】
-()||:【抱歉抱歉，那我告诉你一些你想知道的。】+【你得好好感谢那个格里芬的指挥官，泛欧联盟内部对乌尔利赫代理主席在这种情况还被保护下来赞赏有佳，他们已经说服了米洛舍维奇和其他南欧国家代表，这可是个重大的好消息。】+【当然，那个小姑娘也十分有外交天赋，不过她虽然为泛欧争取了很多条件，两条洲际铁路的建设还是会在我们能接受的范围内进行。】
-()||:【哼，他们不可能不答应，这两条铁路更符合泛欧的利益。反倒是那个混蛋听到风声自己不敢出面，让刚刚上来的德国小姑娘出来当替死鬼。】+【他考虑的是如果乌尔利赫在当时死了，泛欧就更可以漫天要价了，真是肮脏。罢了，告诉你的中间人，中央人民委员会对整个事件的结果很满意。】
-()||:【恐怕不仅仅是对事件，那些前三排的人对你打压莫斯科激进派和军方的行动的结果更满意吧，局长同志。】
-()||<黑屏1>:【我说过，你废话太多了，通话到此为止。】
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:Commander, please come over here. We've received an anonymous message.
+Commander()||:What is it?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Information provided by WAVE Tech. It seems to be an audio recording this time?
+Commander()||:Is this WAVE reliable?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Hmm, it is indeed a very mysterious company. They have been giving us information without demanding any payment. We correspond through emails but the sender's address is always randomized and untraceable. +However, all the intelligence they have supplied so far proved to be accurate. It's uncertain why they're aiding us, but I think they should be on our side.
+Commander()||:I hope it isn't another trap... Play the audio recording.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:Okay!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>The audio recording starts playing.</color>
+()||:<color=#A9A9A9>Static. The rustling of movements. A button being pressed.</color>
+()||:【Congratulations, my esteemed comrade. You put on quite a spectacular show in Belgrade, Chief.】
+()||:【What have you heard now, you wily old fox?】
+()||:【Oh, nothing - nothing whatsoever. You simply appear to have made an incredible sacrifice. Now both the general public and the political circle of the Pan-European Union are moved by our government's great sincerity and competence.】+【Protecting their ambassador at the cost of our own senior official's life - how absolutely touching. It's so perfect it almost feels premediated.】
+()||:【Humph, the plan went terribly wrong though. "Vympel" was this close to storming the city.】
+()||:【"It's a bit of a shame, but there's no point in holding Belgrade. Besides, we already have the Pike Node. Thank goodness K was desperate enough to make such a risky move. The absence of Statesec forces actually made it easier to disassociate ourselves from this whole business." I bet that's what you're thinking, am I right?】
+()||:【You prattle too much, Havier.】
+()||:【Sorry. Then let me tell you something you'd like to know.】+【You'd better extend your gratitude to that Griffin Commander. The Pan-European Union is so appreciative of the protection Chairwoman Ulrich received under those circumstances that they've already convinced Milošević and the representatives of the other countries in Southern Europe. That's really good news.】+【Of course, that young lady is also a very gifted diplomat. Still, despite the many demands that she has successfully lobbied on the Union's behalf, the two Intercontinental Railway construction projects are still going to be undertaken on terms that are acceptable to us.】
+()||:【Humph, it's not as if they could afford to refuse the deal. The two railway projects are more in line with the Union's interests. That bastard caught wind and shoved that extremely green German young lady out as a scapegoat so that he wouldn't have to deal with this himself.】+【He was banking on the fact that if Ulrich had died, the Pan-European Union would have been in the position to make exorbitant demands. What a sleazy crook. But never mind that now. Tell your intermediary that the Central People's Committee is very happy with how the situation has turned out.】
+()||:【I bet the folks sitting in the first three rows are even happier about your success in crushing the activities of the Moscovite radicalists and the Military, isn't that right, comrade?】
+()||<黑屏1>:【As I said, you prattle too much. This conversation ends here.】

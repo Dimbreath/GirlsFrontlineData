@@ -4,14 +4,19 @@ local PlayMove = function(self)
 	self:PlayMove();
 	if  not self.canshow then
 		local pos = CS.UnityEngine.Vector2(self.transform.localPosition.x,self.transform.localPosition.y);
+		if CS.OPSPanelController.Instance.campaionId == -43 then
+			pos = pos + CS.UnityEngine.Vector2(-1500,4000);
+		end
+		print("holder10移动镜头")
 		CS.OPSPanelBackGround.Instance:Move(pos,true,0.3,0.3,true,CS.OPSPanelBackGround.Instance.mapminScale);
 	end
 end
 
 local CheckNext = function(self)
 	self:CheckNext();
-	local pos = CS.UnityEngine.Vector2(self.transform.localPosition.x,self.transform.localPosition.y);
-	CS.OPSPanelBackGround.Instance:Move(pos,true,0.3,0.3,true,CS.OPSPanelBackGround.Instance.mapminScale);	
+	--local pos = CS.UnityEngine.Vector2(self.transform.localPosition.x,self.transform.localPosition.y);
+	--print("holder18移动镜头")
+	--CS.OPSPanelBackGround.Instance:Move(pos,true,0.3,0.3,true,CS.OPSPanelBackGround.Instance.mapminScale);	
 end
 local CheckWaveValues = function(self,forceChange)
 	if self.currentMission == nil then
@@ -61,8 +66,27 @@ local ShowSpots = function(self,play,delay)
 	end
 end
 
+local CheckPos = function(self)
+	self.dir = CS.OPSPanelController.Instance.transform.position - self.transform.position;
+	if self.dir.x>500 or self.dir.x<-500 or self.dir.y>200 or self.dir.y<-200 then
+		self:HideLabel();
+	else
+		self:ShowLable();
+	end
+end
+
+local PlayLabel1 = function(self)
+	print("PlayLabel1")
+	self.canshow = true;
+	self:Show();
+	self.currentLabel:PlayShow();
+	self:ShowSpots(true);
+end
+
 util.hotfix_ex(CS.OPSPanelMissionHolder,'PlayMove',PlayMove)
 util.hotfix_ex(CS.OPSPanelMissionHolder,'CheckWaveValues',CheckWaveValues)
 util.hotfix_ex(CS.OPSPanelMissionHolder,'CheckNext',CheckNext)
 util.hotfix_ex(CS.OPSPanelMissionHolder,'ShowLable',ShowLable)
 util.hotfix_ex(CS.OPSPanelMissionHolder,'ShowSpots',ShowSpots)
+util.hotfix_ex(CS.OPSPanelMissionHolder,'CheckPos',CheckPos)
+--util.hotfix_ex(CS.OPSPanelMissionHolder,'PlayLabel1',PlayLabel1)

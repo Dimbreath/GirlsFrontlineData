@@ -1,24 +1,24 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||()||<黑屏2>:……
-()||:<color=#00CCFF>开始播放录音。</color>
-()||:【怎么了？这个时候打电话来，突然想起和我叙旧了吗？】
-()||:【我连您一半的年纪都没到，恐怕没有叙旧的资格吧。】
-()||:【什么时候资格和年龄挂钩了，这可不像是你的风格。】
-()||:【……真是直接啊。你知道，我已经退休了，早就不管那些破事了。】
-()||:【看来风向真的变了，上面那些人不想再这么对峙下去了。】
-()||:【你们这些罗克萨特主义者啊……最大的特点就是太天真了。】
-()||:【但这是一个机会，您是一个爱国者，不会去做违背国家利益的事。】
-()||:【那些小伙子的确太过火了，他们没有经历过冷战时瘟疫爆发的感觉，打开一扇不该打开的门，代价是非常高昂的。】
-()||:【既然您是这个态度……】
-()||:【我还是要警告你。这个国家已经流了太多的血，仇恨和敌视不会像你们想象的一样简单地消失。】
-()||:【但是，“不要温和地走进良夜”不是吗？】
-()||:【……】
-()||:【即使只有一步，也需要有人来迈出。与其变成敌人，我更希望出现的是朋友。】
-()||:【哼……说得好听。在你们露出马脚前，我不会阻止你们。但委员会的人可不会这么想。】
-()||<黑屏1>:【有您这句话，就已经足够了。】
-()||<黑屏2><BIN>202</BIN>:列车中。
-NPC-Kalin(0)<Speaker>格琳</Speaker>||<BGM>BGM_Brain</BGM>:唔……这次的文件，感觉有点难懂啊……+帕斯卡小姐，你能听出些什么吗？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>该死……</color>
-NPC-Persica(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:帕斯卡小姐？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>我先离开一会，我要好好检查下这个房间！</color>
-NPC-Kalin(0)<Speaker>格琳</Speaker>||<黑屏1>:嗯？为什么突然想起整理房间了……不过算了，可能科学家就是这么奇怪吧。
+()||()||<黑屏2>:...
+()||:<color=#00CCFF>The audio recording starts playing.</color>
+()||:【What is it? A call at this time? Suddenly feel like reminiscing about the past with me?】
+()||:【I'm not even half your age, so I don't think I have the right to do that.】
+()||:【Since when did a person's rights have anything to do with age? That isn't like you.】
+()||:【...How very direct of you. As you know, I've already retired. I haven't given a damn about that whole mess in ages.】
+()||:【Things really have changed. The people up there don't want to be locked in this stalemate any longer.】
+()||:【You Rossartrists...are way too naïve.】
+()||:【But this is an opportunity, and you're a patriot who will never do anything that betrays your country's interests.】
+()||:【Those brats went overboard. They have never experienced what it was like when the plague happened during the Cold War. They have to pay a very heavy price for opening a door that should never be opened.】
+()||:【If that's your stance...】
+()||:【Here's a warning. This country has seen too much bloodshed. Hatred and hostility won't be wiped away as easily as you'd think.】
+()||:【But "do not go gentle into that good night", isn't that right?】
+()||:【...】
+()||:【Even if it's just a single step, someone still has to take it. I'd much rather it's a friend than a foe.】
+()||:【Humph...well said. Before you give yourselves away, I won't stop you. But others in the Committee won't be so benevolent.】
+()||<黑屏1>:【That's all I need to hear.】
+()||<黑屏2><BIN>202</BIN>:On the train.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Brain</BGM>:Hmm... The recordings this time are rather hard to digest... +Miss Persica, can you make any sense of it?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Dammit...</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Persica?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I need to go for a bit! I have to check this room!</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:Hmm? Why does she suddenly want to do that...? Eh, maybe scientists are just weirdos.

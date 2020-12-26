@@ -1,123 +1,123 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Hello</BGM>:……人形宿舍门口。
-MG3(0)<Speaker>MG3</Speaker>||:哎呀，我好像看到了有趣的东西？
-()||:MG3仔细端详着贴在墙上的海报。
-MG3(0)<Speaker>MG3</Speaker>||:“格里芬试胆大会将在2天后举办，感兴趣的人形可在海报下方扫描二维码报名……”+虽然有那么点兴趣，不过现在还是得把运动放在第一位。
-()||<SE1>AVG_tele_connect</SE1>:滴。+忽然传出扫描了二维码的声音，可MG3发现自己并没有开启扫描……
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:“报名人数过多，系统无法处理？！”+想着会不会出问题就过来看一下，居然还真的中了墨菲定律。+看来班长也就画画好看，运算能力还有待提高啊。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:是霍克办的试胆大会啊？似乎参加的人不少。
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:当然啦，我们平时可没什么机会玩呢。+怎么样，你有没有兴趣？我在这的话就不用你扫码报名了。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:算了吧，我今天跑十公里的目标还没完成。+运动只要落下一天就减不下来了。
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:减、减哪里？你身材已经很棒了啊。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:这里。
-MG3(0)<Speaker></Speaker>;97typeS(2)<Position>0,150</Position>||:MG3指着自己的胸膛。
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:哎，你这儿还要减吗？！+我还羡慕的不得了。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:笨蛋！这种东西哪里好了，我们又不是人类。+人形最重要的应该是任务和命令！
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:还有饭！+嘿嘿，要是五六儿她们在这肯定会这样说吧。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:唉，真羡慕霍克这种心智里没有缺陷的……
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:哪有这种事，人生十有八九不如意呢。+我也一样。
-MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:是吗？我们既然是人造物，那就不用遵循人类的概念吧。
-MG3(0);97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:嘿嘿，也许这个问题就是给咱们去寻找的。
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||<BGM>BGM_Empty</BGM><黑屏1>:怎么样——要不要来试胆大会找找看？
-MG3(0)<Speaker>MG3</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:就这样……我被霍克骗来了试胆大会。+为什么是骗呢？因为——
-()<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:因为试胆大会的报名人员早就满了，我被迫成为了保安组的一员。
-MG3(4)<Speaker>MG3</Speaker>||<BGM>m_avg_casual</BGM>:虽然像这样偶尔打扮一下也不错。
-CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:你是……MG3……？
-CETME556(0);MG3(4)<Speaker>MG3</Speaker>||:哟，原来Model L就是我的同事啊。+想不到你这么快就回来了。
-CETME556(0)<Speaker></Speaker>;MG3(4)||<黑点1>:Model L因为MG3的装扮吃惊不已……+不过她们在聊了几句后便积极投入工作。
-MP40(0)<Speaker>MP40</Speaker>||<黑点2><黑点1>:呜……怎么会……这样啊！ 
-MG3(4)<Speaker>MG3</Speaker>||<黑点2>:喂！Model L，你听到了吗？
-CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||<黑屏1>:嗯，我在分析……识别到了，是MP40的信号。+跟我来，我知道坐标！
-()||<黑屏2>:1小时后，Model L与MG3才刚处理完MP40的委托……+就再次接收到了求救信号。
-MG3(4)<Speaker>MG3</Speaker>||:Model L，又有人形遇到麻烦了，这次在西北方的补给站。
-CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:我这里也收到了，快走吧。
-MG3(4)<Speaker>MG3</Speaker>||<黑点1>:OK！
-WA2000(4)<Speaker>WA2000</Speaker>||<黑点2>:真是的，不要让我等那么久啊！
-MG3(4)<Speaker>MG3</Speaker>||:哼哼，不是指挥官来让你失望了吗？
-WA2000(4)<Speaker>WA2000</Speaker>||:哈？和指挥官没有关系吧！我才不会在意是不是那个人来呢！真、真的哦……！
-CETME556(0)<Speaker>Model L</Speaker>||:MG3，大家都知道的事情就不用特地拿出来说了。+还有其他的遇难者等着我们。
-WA2000(4)<Speaker>WA2000</Speaker>||:喂！
-MG3(4)<Speaker>MG3</Speaker>||:了解，下一个是……
-()||:Model L与MG3追踪着求助信号离开了。
-WA2000(4)<Speaker>WA2000</Speaker>||<黑点1>:喂，大家都知道的事情是什么事情啊！
-IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点2>:抱歉……还让你们特地回去拿我的衣服。
-CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:没关系，这是我们的工作。
-MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:AUG还真是厉害啊，都猜到我们要帮你拿什么了。+二话不说就把衣服给我们了。
-CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:MG3……我们已经答应AUG小姐不要说出来了。
-MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:哎呀哎呀，我忘了！IWS，当我没告诉你吧，哈哈哈……
-IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点1>:……+<color=#A9A9A9>是吗……我又被她照顾了啊。</color>
-()<Speaker>M870</Speaker>||<黑点2>:啊——！这是什么东西啊！
-CETME556(0)<Speaker>Model L</Speaker>||:看来又有人形遇到麻烦了。
-MG3(4)<Speaker>MG3</Speaker>||:这工作还真是一点都不轻松，连聊天的时间都没。
-()<Speaker>？？？</Speaker>||:好疼——！求救！求救！
-MG3(4)<Speaker>MG3</Speaker>||:才刚说完……又来了个遇难的！
-CETME556(0)<Speaker>Model L</Speaker>||:是吗……今晚遇到麻烦的人形真多啊。+你去M870那边吧，另一边就交给我。
-MG3(4)<Speaker>MG3</Speaker>||:好，坐标先发给你。+单独行动要小心啊。
-CETME556(0)<Speaker></Speaker>||<黑屏1>:Model L点了一下头，走到了另一条道上。
-()||<BIN>9</BIN><黑屏2>:……10分钟后，MG3赶到了M870所在的位置。
-MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:这也太夸张了吧。
-M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2>:快想办法把我弄出来啊！
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:那只能这样了！
-()||:霍克举起了枪。
-MG3(4)<Speaker>MG3</Speaker>||:喂！你们冷静下！+怎么能把枪对着自己人呢。
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||:那你说要怎么办啊？我还急着去找指挥官呢。
-MG3(4)<Speaker>MG3</Speaker>||:<color=#A9A9A9>对，指挥官，如果指挥官在的话……肯定有办法！</color>+你们耐心等下——
-M870P(2)<Speaker>M870</Speaker>||:等什么啊，你们这些蠢蛋能不能搞清楚情况啊？！+我还要被关多久啊！
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||<SE1>AVG_weapon_reload</SE1>:真是……
-MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:等等，霍克！再等5分钟就好，我马上就回来！
-()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……与此同时，试胆大会的起点。
-()<Speaker>指挥官</Speaker>||<BGM>BGM_Hello</BGM><BIN>1</BIN><Night><黑屏2>:毕竟已经答应霍克了，还是得抽空来一下试胆大会才行。+奇怪……入口原来有那么长的台阶吗？
-()||:指挥官登上了试胆大会台阶，这时在台阶之上突然出现了一个人影……
-KSVK(4)<Speaker>KSVK</Speaker>||:指挥官，您现在才来啊？
-()<Speaker>指挥官</Speaker>||:KSVK……？+不，你是……
-KSVK(4)<Speaker>KSVK？</Speaker>||:我是谁不重要吧，今天可是万圣节，有些惊喜发生才合情合理。
-()<Speaker>指挥官</Speaker>||:我倒希望你不要用惊喜的名义包装这种容易引起误会的行为。
-KSVK(4)<Speaker>KSVK？</Speaker>||:哼哼，放心吧，我只是单纯想参加一次你们的闹剧。
-()<Speaker>指挥官</Speaker>||:抱歉，为了大家的安全，我还是要关掉你的——
-()||<BGM>BGM_Empty</BGM><震屏>:忽然，指挥官的脚下一滑——+从长长的台阶滚落下去。
-KSVK(4)<Speaker>KSVK？</Speaker>||:<color=#A9A9A9>台阶陷下去了？！……格里芬的板材也太不牢固了。</color>+喂——！格里芬的指挥官！
-KSVK(4)<Speaker>KSVK？</Speaker>||:……哦，看来命运就是如此，已经不用我出场了。
-()<Speaker>指挥官</Speaker>||<黑屏1><SE1>Heartbeat</SE1>:<color=#A9A9A9>——！</color>+<color=#A9A9A9>这种高度……如果从这里摔下去的话……</color><c>再见了，我的指挥官生涯……<c>不行——
-()<Speaker>指挥官</Speaker>||<分支>2</分支><黑屏2><BIN>9</BIN>:还没到放弃的时候。
-()||<分支>1</分支><黑屏2><BIN>9</BIN>:……
-()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:指挥官——！
-()<Speaker>指挥官</Speaker>||:……+我……还活着？+<color=#A9A9A9>……后脑勺有一种柔软的触感。</color>
-()<Speaker>？？？</Speaker>||<黑屏1>:放心吧，指挥官！已经没事了。+今天是满月哦，睁开眼看看吧。
-MG3(4)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><BIN>1</BIN><Night><睁眼>:指挥官睁开了眼，发现自己的头部正枕在了MG3的胸膛——
-()<Speaker>指挥官</Speaker>||:……不好意思！
-()||:指挥官急忙起身。
-MG3(4)<Speaker>MG3</Speaker>||:嘿嘿，要是我不在的话，指挥官就要摔骨折了吧。+想不到指挥官居然还有那么慌张的时候。<c>毕竟我也是个大男人……<c>就算同样是女孩子，也不能……
-MG3(4)<Speaker>MG3</Speaker>||:是吗？+能听到指挥官能这样说，我很高兴！
-()<Speaker>指挥官</Speaker>||:啊……？+这话有什么奇怪的吗？
-MG3(4)<Speaker>MG3</Speaker>||:不，不是因为那个。+而是我听到指挥官这样说，更加确信了自己并没有被当成一个只会执行任务的工具。<c>只要有我在，就绝对不会有人把你们当成工具。<c>在格里芬，不会有人忽视你们人形的权利。
-MG3(4)<Speaker>MG3</Speaker>||:我明白，不过……我明明是个人形……+为什么会做出自己心智中没有运算出的行为呢？+明明我很讨厌自己的缺陷，却还用它救了指挥官。+并且……我现在还会因为这个缺陷感到开心。+我是不是出了什么问题？
-()<Speaker>指挥官</Speaker>||:是吗……明明是你的“缺陷”，现在却因为它而感到开心。+我猜，这或许和我们人类是一样的吧。
-MG3(4)<Speaker>MG3</Speaker>||:和人类一样？
-()<Speaker>指挥官</Speaker>||:嗯，如果人类突然没有缺陷了，生活变得称心如意，一切都圆满又顺利……我们还会去追求和平与幸福吗？
-MG3(4)<Speaker>MG3</Speaker>||:变成那样的话不好吗？至少现在就不会是这么糟糕的时代了……
-()<Speaker>指挥官</Speaker>||:不，那样的话——人的心就麻木了。+会比现在更糟。
-MG3(4)<Speaker>MG3</Speaker>||:心？
-()<Speaker>指挥官</Speaker>||:嗯，感到开心的“心”。+没有“缺陷”，也就阻塞了生命的渴望……那么当和平跟幸福降临，又怎么用心去感受呢？+既然我们已经活在了这个糟糕的时代下……+就该根据“缺陷”去渴望自己想要的东西，也正是如此才会有格里芬。
-MG3(4)<Speaker>MG3</Speaker>||:……+可人形真的也是一样吗？我一直渴望的东西，应该只有把它变小而已。
-()<Speaker>指挥官</Speaker>||:你啊……
-()||:指挥官摇了摇头，向MG3走近。
-MG3(4)<Speaker>指挥官</Speaker>||:如果那个“缺陷”真的没有了之后，你会怎么做？
-MG3(4)<Speaker>MG3</Speaker>||:那当然是能更好的执行任务了。+不用再因为它而调整装备，也能更快到达战场的最前线。
-MG3(4)<Speaker>指挥官</Speaker>||:嗯，所以你真正渴望的东西……是人类的幸福。
-MG3(4)<Speaker>MG3</Speaker>||:啊？我渴望的是人类的幸福？
-MG3(4)<Speaker>指挥官</Speaker>||:你只是没有注意到你真正的想法，想更好地帮助我们，所以才一直在减肥。+正是这个“缺陷”让你明白了自己能变得更好。+……所以你才会在救了我后，感到开心吧。
-MG3(4)<Speaker>MG3</Speaker>||:是吗……？+我的处理器太旧了，指挥官的话也只懵懵懂懂明白了一点点。
-MG3(4)<Speaker>指挥官</Speaker>||:没关系，我再——
-MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:不用说了，指挥官。
-MG3(0)<Speaker>MG3</Speaker>||<黑屏2><边框>2</边框><BIN>82</BIN>:是吗？我们既然是人造物，那就不用遵循人类的概念吧。
-97typeS(2)<Speaker>97式霰</Speaker><Position>0,150</Position>||<边框>2</边框><黑屏1>:也许这个问题就是给咱们去寻找的！
-MG3(4)<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:我想自己去寻找这个答案。
-()<Speaker>指挥官</Speaker>||:这样啊，那找到之后也把答案告诉我吧。
-MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:嗯！
-()||<BIN>9</BIN><黑屏2>:又是繁星点缀的夜幕，又是柔冷高悬的满月，指挥官和MG3并肩在会场里慢慢走着……+两人的心中是不是都想着同一件事呢？
-()<Speaker>MG3</Speaker>||:……+啊——！我忘记M870的事了！+指挥官，快跟我来！
-()<Speaker>指挥官</Speaker>||:怎、怎么了？
-()<Speaker>MG3</Speaker>||:霍克要对M870开枪了！
-()<Speaker>指挥官</Speaker>||:什么？！
-()||<黑屏1>:又是繁星点缀的夜幕，又是柔冷高悬的满月，指挥官突然被MG3拉着全力跑了起来……+现在两人的心中应该是想着同一件事吧。
-M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2><黑屏1>:快帮我打开这个大南瓜啊！
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Hello</BGM>:...At the entrance to the Doll dorms.
+MG3(0)<Speaker>MG3</Speaker>||:Oh my, what's this interesting thing I see?
+()||:MG3 carefully studies the poster on the wall.
+MG3(0)<Speaker>MG3</Speaker>||:"In two days' time, Griffin will be holding a test of courage. Interested Dolls can scan the QR code on the bottom of the poster to register..."+While I'm kind of interested, I need to put exercise first.
+()||<SE1>AVG_tele_connect</SE1>:Click. +The QR code scanner makes a noise, but MG3 realizes that she didn't scan anything...
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:"The system is unable to process the request due to too many applicants?"+I came over to take a look because I thought there might be a problem, but I didn't expect that Murphy's Law would be in full effect.+Looks like Class Rep's art skills are pretty good, but we'll need to boost that processing power.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:Is this the test of courage that you're organizing, Hawk? Looks like a lot of people are taking part.
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Of course. It's not like we have much chance to play around on most days.+How about it, are you interested? Since I'm here, you don't need to scan to sign up.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:Forget about it, I haven't finished my goal of running 10km today.+I won't be able to cut down my weight if I miss even a day of exercise.
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Cut? Cut down where? Your body looks good enough as it is.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:Here.
+MG3(0)<Speaker></Speaker>;97typeS(2)<Position>0,150</Position>||:MG3 points to her chest.
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Aw, you want to cut those down? +I'm green with envy over here.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:You utter moron! How are these things good? It's not as though we're humans. +The most important things for Dolls are their mission and their orders!
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:And food! +Hehe, I'm sure 56-1 and the others would say that if they were here.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:(Sighs) I envy your neural cloud and its lack of defects, Hawk...
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:As if. Things don't always go the way we want in life.+It's the same for me.
+MG3(0)<Speaker>MG3</Speaker>;97typeS(2)<Position>0,150</Position>||:Really? Since we're man-made objects, we don't need to uphold human concepts, do we?
+MG3(0);97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Hehe, perhaps the answer to that question is something we have to find for ourselves.
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||<BGM>BGM_Empty</BGM><黑屏1>:Well? Want to give the test of courage a try?
+MG3(0)<Speaker>MG3</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:And that was how Hawk tricked me into participating in the test of courage. +Why "tricked"?  That's because—
+()<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:The amount of contestants for the test of courage had reached maximum capacity, and I was thus forced to join the security team.
+MG3(4)<Speaker>MG3</Speaker>||<BGM>m_avg_casual</BGM>:That said, it's not so bad to dress up like this from time to time.
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:Are you...MG3...?
+CETME556(0);MG3(4)<Speaker>MG3</Speaker>||:Oh hey, so you're working with me, Model L. +I didn't expect you to be back so soon.
+CETME556(0)<Speaker></Speaker>;MG3(4)||<黑点1>:Model L is stunned by MG3's outfit... +But after exchanging a few more words, they throw themselves eagerly into their work.
+MP40(0)<Speaker>MP40</Speaker>||<黑点2><黑点1>:Ugh... Why...is this happening?!
+MG3(4)<Speaker>MG3</Speaker>||<黑点2>:Hey, Model L, did you hear that?
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||<黑屏1>:Yes, analyzing... Target identified, it's MP40's signal. +Follow me, I know her coordinates!
+()||<黑屏2>:One hour later, Model L and MG3 have just finished completing MP40's request... +Then they get another distress signal.
+MG3(4)<Speaker>MG3</Speaker>||:Model L, there's another Doll in trouble. This one's at the northern supply point.
+CETME556(0)<Speaker>Model L</Speaker>;MG3(4)||:I've got it too. Let's hurry.
+MG3(4)<Speaker>MG3</Speaker>||<黑点1>:Okay!
+WA2000(4)<Speaker>WA2000</Speaker>||<黑点2>:Jeez, that took you a while!
+MG3(4)<Speaker>MG3</Speaker>||:Hehe, disappointed that I'm not the Commander?
+WA2000(4)<Speaker>WA2000</Speaker>||:Huh?! This has nothing to do with the Commander! I'm totally not bothered that the Commander didn't show up! It-it's true!
+CETME556(0)<Speaker>Model L</Speaker>||:MG3, you don't have to spell out something so obvious. +Besides, there are other people in trouble waiting for us.
+WA2000(4)<Speaker>WA2000</Speaker>||:Hey!
+MG3(4)<Speaker>MG3</Speaker>||:Understood. The next one is...
+()||:Model L and MG3 run off in pursuit of the distress signal.
+WA2000(4)<Speaker>WA2000</Speaker>||<黑点1>:Hey, what do you mean by "something so obvious"?!
+IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点2>:I'm so sorry for making you go all the way back to get my clothes...
+CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:Don't worry, it's our job.
+MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:Still, AUG really is something. She guessed exactly what we were getting for you. +Just handed the clothes to us without saying a word.
+CETME556(0)<Speaker>Model L</Speaker>;IWS2000(2)||:MG3...we promised Miss AUG that we wouldn't tell her that.
+MG3(4)<Speaker>MG3</Speaker>;IWS2000(2)||:Oh dear, I forgot! IWS, pretend I never told you, hahaha...
+IWS2000(2)<Speaker>IWS 2000</Speaker>||<黑点1>:...+<color=#A9A9A9>Really...she's gone and taken care of me again.</color>
+()<Speaker>M870</Speaker>||<黑点2>:Ah—! What the heck is this?!
+CETME556(0)<Speaker>Model L</Speaker>||:Looks like there's another Doll in distress.
+MG3(4)<Speaker>MG3</Speaker>||:This is a pretty tough job. We don't even have time to chat.
+()<Speaker>???</Speaker>||:Ow—! Mayday! Mayday!
+MG3(4)<Speaker>MG3</Speaker>||:I just said that...and there's someone else in trouble!
+CETME556(0)<Speaker>Model L</Speaker>||:Really now... There sure are a lot of Dolls in trouble tonight. +You head over to M870's side. I'll handle the other one.
+MG3(4)<Speaker>MG3</Speaker>||:Got it. I'll send the coordinates to you. +Be careful when moving alone.
+CETME556(0)<Speaker></Speaker>||<黑屏1>:Model L nods and heads the other way.
+()||<BIN>9</BIN><黑屏2>:...10 minutes later, MG3 reaches M870's position.
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:You have GOT to be kidding me.
+M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2>:Hurry up and get this thing off me!
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Then this is the only way!
+()||:Hawk raises her gun.
+MG3(4)<Speaker>MG3</Speaker>||:Hey! Calm down, you guys! +How can you point a gun at your own people?
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||:Then what should I do? I still need to go get the Commander.
+MG3(4)<Speaker>MG3</Speaker>||:<color=#A9A9A9>Right... I'm sure there'll be a way if the Commander's around!</color>+You just wait here—
+M870P(2)<Speaker>M870</Speaker>||:Wait for what?! Don't you dorks understand what's going on? +How much longer do I have to be stuck in here?!
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||<SE1>AVG_weapon_reload</SE1>:Honestly...
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:Wait, Hawk! Give me five minutes; I'll be back right away!
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...At the same time, at the starting line of the test of courage...
+()<Speaker>Commander</Speaker>||<BGM>BGM_Hello</BGM><BIN>1</BIN><Night><黑屏2>:Well, I did make Hawk a promise, so I should take some time out to take part in the test of courage.  +That's strange... Was there such a long platform at the entrance?
+()||:The Commander climbs onto the platform, then someone suddenly comes into view...
+KSVK(4)<Speaker>KSVK</Speaker>||:Ah, Commander, have you only just arrived?
+()<Speaker>Commander</Speaker>||:KSVK...? +No, you're...
+KSVK(4)<Speaker>KSVK?</Speaker>||:Does it matter who I am? Today is Halloween; a surprise or two is only to be expected.
+()<Speaker>Commander</Speaker>||:I hope you don't cause misunderstandings in the name of springing surprises.
+KSVK(4)<Speaker>KSVK?</Speaker>||:Hehe, don't worry. I simply wish to take part in your antics for once.
+()<Speaker>Commander</Speaker>||:I'm sorry, but for the sake of everyone's safety, I'll have to shut off your—
+()||<BGM>BGM_Empty</BGM><震屏>:Suddenly, the Commander slips— +And falls from the long platform.
+KSVK(4)<Speaker>KSVK?</Speaker>||:<color=#A9A9A9>The platform collapsed?! ...Griffin's construction materials are just too flimsy.</color>+Hey—! Griffin Commander!
+KSVK(4)<Speaker>KSVK?</Speaker>||:...Hm, it seems that must be fate. There's nothing to be done here.
+()<Speaker>Commander</Speaker>||<黑屏1><SE1>Heartbeat</SE1>:<color=#A9A9A9>—!</color>+<color=#A9A9A9>If I fall from this height...</color><c>I can kiss my career as a commander goodbye...<c>No, I can't—
+()<Speaker>Commander</Speaker>||<分支>2</分支><黑屏2><BIN>9</BIN>:It's not yet time to give up.
+()||<分支>1</分支><黑屏2><BIN>9</BIN>:...
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Commander—!
+()<Speaker>Commander</Speaker>||:... +I'm...still alive?+<color=#A9A9A9>...I can feel something soft on the back of my head.</color>
+()<Speaker>???</Speaker>||<黑屏1>:Don't worry, Commander! You're fine. +There's a full moon tonight, so open your eyes and take a look.
+MG3(4)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><BIN>1</BIN><Night><睁眼>:The Commander's eyes open, and discovers that their head is resting on MG3's chest—
+()<Speaker>Commander</Speaker>||:...Excuse me!
+()||:The Commander frantically scrambles to get up.
+MG3(4)<Speaker>MG3</Speaker>||:Hehe, if I weren't around, you'd have broken something, Commander. +I didn't expect you could be so flustered.<c>Well, I AM a man, after all...<c>Even though I'm a girl as well, I can't...
+MG3(4)<Speaker>MG3</Speaker>||:Really? +I'm glad to hear you say that, Commander!
+()<Speaker>Commander</Speaker>||:Ah...? +Is there something strange about what I said?
+MG3(4)<Speaker>MG3</Speaker>||:No, that's not it. +Rather, hearing you say that is really reassuring - I'm not just a tool that's only good for completing missions to you.<c>As long as I'm around, nobody will treat you as tools.<c>In Griffin, nobody will neglect your rights as Dolls.
+MG3(4)<Speaker>MG3</Speaker>||:I understand, but...I'm a Doll...+So why am I doing things that my neural cloud hasn't processed? +I hate my shortcomings, yet I used them to save you, Commander. +And now...I'm even feeling happy about this defect of mine. +Is there something wrong with me?
+()<Speaker>Commander</Speaker>||:Is that so...? You think of it as your "defect", and yet you're happy about it. +I think it might be the same as it is with us humans.
+MG3(4)<Speaker>MG3</Speaker>||:The same as humans?
+()<Speaker>Commander</Speaker>||:Yeah. If mankind suddenly lost all its flaws and life went exactly the way we wanted it, with everything being perfect and successful...would we still keep striving for peace and happiness?
+MG3(4)<Speaker>MG3</Speaker>||:Wouldn't that be a good thing? At the very least, we wouldn't be living in such a messed-up age like we do now...
+()<Speaker>Commander</Speaker>||:No, if that were to happen, the human heart would grow numb. +It would be worse than it is now.
+MG3(4)<Speaker>MG3</Speaker>||:The heart?
+()<Speaker>Commander</Speaker>||:Yeah, the heart that feels "happiness".+Without "flaws", there would be no desires for better things in life... And when peace and happiness come, how would your be able to experience them with your heart?+We live in such tumultuous times...+So we ought to overcome our flaws in our pursuit for something better. That's why Griffin exists.
+MG3(4)<Speaker>MG3</Speaker>||:... +But are Dolls the same? +The only thing I've ever wanted is only to have them become smaller.
+()<Speaker>Commander</Speaker>||:You...
+()||:With a shake of the head, the Commander approaches MG3.
+MG3(4)<Speaker>Commander</Speaker>||:What would you do if you really lost that "flaw" of yours?
+MG3(4)<Speaker>MG3</Speaker>||:I'd perform better in my missions, of course. +I wouldn't have to keep fiddling with my gear because of them, and I'd be able to reach the frontlines sooner.
+MG3(4)<Speaker>Commander</Speaker>||:Yes, so what you really want...is happiness for humans.
+MG3(4)<Speaker>MG3</Speaker>||:Huh? I want humans to be happy?
+MG3(4)<Speaker>Commander</Speaker>||:You simply haven't noticed what your true thoughts are. You've always wanted to lose weight in order to better help us. +It was precisely this "flaw" of yours that made you strive for self-improvement. +...And that's why you felt happy after saving me.
+MG3(4)<Speaker>MG3</Speaker>||:Really...? +My processor is too old, so I only understand a bit of what you're saying, Commander.
+MG3(4)<Speaker>Commander</Speaker>||:Don't worry, I'll explain ag—
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:You don't have to, Commander.
+MG3(0)<Speaker>MG3</Speaker>||<黑屏2><边框>2</边框><BIN>82</BIN>:Really? Since we're man-made objects, we don't need to uphold human concepts, do we?
+97typeS(2)<Speaker>Type 97S</Speaker><Position>0,150</Position>||<边框>2</边框><黑屏1>:Hehe, perhaps the answer to that question is something we have to find for ourselves.
+MG3(4)<Speaker>MG3</Speaker>||<BIN>1</BIN><Night><黑屏2>:I'd like to find the answer myself.
+()<Speaker>Commander</Speaker>||:I see. Then I hope you'll tell me once you find it.
+MG3(4)<Speaker>MG3</Speaker>||<黑屏1>:Yup!
+()||<BIN>9</BIN><黑屏2>:Under the star-speckled night sky, under the cool, gentle full moon that looms above them...the Commander and MG3 walk slowly through the grounds. +Are they both thinking the same thing?
+()<Speaker>MG3</Speaker>||:... +Ahhhh—! I forgot about M870! +Commander! Quick, follow me!
+()<Speaker>Commander</Speaker>||:W-what's going on?!
+()<Speaker>MG3</Speaker>||:Hawk's going to shoot M870!
+()<Speaker>Commander</Speaker>||:WHAT?!
+()||<黑屏1>:Under the star-speckled night sky, under the cool, gentle full moon that looms above them...MG3 drags the Commander behind her in a mad dash. +They are almost certainly thinking of the same thing now.
+M870P(2)<Speaker>M870</Speaker>||<BIN>1</BIN><Night><黑屏2><黑屏1>:Somebody get me out of this damn pumpkin already!

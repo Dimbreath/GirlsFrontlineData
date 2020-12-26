@@ -1,134 +1,134 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>m_19christmas_theme</BGM>:十二月二十五日清晨六点。+为了确保圣诞节的各个环节都安排得准确无误，我很早就开始了四处巡视。
-()<Speaker>指挥官</Speaker>||:首先确认礼物的采购，然后是礼物的分发，接下来是圣诞树的装扮……+还有圣诞晚会的准备工作……+总感觉还有什么工作被遗忘了？
-Lewis(0)<Speaker>刘易斯</Speaker>||:指挥官，早上好！
-()<Speaker>指挥官</Speaker>||:早安，刘易斯。
-Lewis(0)<Speaker>刘易斯</Speaker>||:指挥官今天起得真早啊，圣诞节有很多工作吗？
-()<Speaker>指挥官</Speaker>||:对我来说倒还算轻松，毕竟真正执行任务的是你们，我只是从中统筹协调。
-Lewis(0)<Speaker>刘易斯</Speaker>||:那就好，看来不会影响我们之间的约定呢！+对了，指挥官没有忘记和我的约定吧？<c>记得。<c>不记得。
-()<Speaker>指挥官</Speaker>||<分支>1</分支>:……怎么会忘记呢？当然记得。
-()<Speaker>指挥官</Speaker>||<分支>1</分支>:<color=#A9A9A9>什么约定？我怎么毫无印象？</color>+<color=#A9A9A9>难道这就是那件被我遗忘的事？</color>
-Lewis(0)<Speaker>刘易斯</Speaker>||<分支>1</分支>:太好了♪指挥官果然正如外表一样是个好人呢！+嘿嘿，那我就先去做准备啦！+等到时间了，我再来找您。
-()<Speaker>指挥官</Speaker>||<分支>2</分支>:……什么约定？我怎么没有印象？
-Lewis(0)<Speaker>刘易斯</Speaker>||<分支>2</分支>:……+您果然不记得了吗……
-()<Speaker>指挥官</Speaker>||<分支>2</分支>:刘易斯，抱歉，需要我记住的事情太多了……+人类大脑的记忆能力是比不上人形的心智云图的。+你再告诉我一遍我们的约定吧，我一定按时陪你完成。
-Lewis(0)<Speaker>刘易斯</Speaker>||<分支>2</分支>:对着您这张无辜的脸，真是生不了气呢。+那好吧，我们的约定依然有效。+我先去做准备了，等到时间了再来见您。
-()<Speaker></Speaker>||:刘易斯开心地跑远了。
-()<Speaker>指挥官</Speaker>||:真的有和刘易斯约定过什么吗？+为什么我完全想不起来……+看来得让格琳娜给我安排身体检查了……
-()<Speaker></Speaker>||<黑点1>:我喃喃自语着继续进行圣诞节的工作安排了。
-()<Speaker></Speaker>||<黑点2><BIN>82</BIN><BGM>BGM_Empty</BGM>:格里芬宿舍。+刘易斯正对着镜子认真地化妆。
-Lewis(4)<Speaker>刘易斯</Speaker>||<BGM>BGM_Hello</BGM>:眉毛好像不太对称？右边稍稍粗了一点。
-()<Speaker></Speaker>||:刘易斯微蹙着眉头，小心翼翼地扭着眉笔调整着自己的眉毛。
-Lewis(4)<Speaker>刘易斯</Speaker>||:差不多收个尾可以结束眉毛部分了——
-()<Speaker></Speaker>||:咔嚓——+在刘易斯高度紧绷的手指间，眉笔终于被折断了……
-Lewis(4)<Speaker>刘易斯</Speaker>||:完了！新买的眉笔这么快就又……+总感觉眉笔折断这种事出现在和指挥官实现约定之前，是某种不详的征兆啊……+诶？我这算是被R93传染了吗……
-()<Speaker></Speaker>||:刘易斯赶紧将漂流瓶项链戴在脖颈上。
-Lewis(4)<Speaker>刘易斯</Speaker>||:希望这会给我带来好运，漂流瓶啊，保佑我跟指挥官的约定顺利进行吧……
-()<Speaker></Speaker>||<黑点1>:刘易斯虔诚地握住漂流瓶许下心愿，然后匆匆披上大衣走出了宿舍。
-()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:巡视顺利结束后，我的眉头却依然紧皱不展。
-()<Speaker>指挥官</Speaker>||:……所以到底约定的内容是什么啊？
-Lewis(4)<Speaker>刘易斯</Speaker>||<BGM>BGM_Moon</BGM>:指挥官！
-()<Speaker></Speaker>||:换上了圣诞装束的刘易斯出现了我的眼前。
-()<Speaker>指挥官</Speaker>||:……刘易斯，你今年的圣诞装很好看啊。
-Lewis(4)<Speaker>刘易斯</Speaker>||:嘿嘿，谢谢指挥官夸奖！+我刚刚遇到春田，她说您的工作已经暂时告一段落啦。+那么，是时候实现我们的约定了♪
-()<Speaker>指挥官</Speaker>||:好的，不过……
-Lewis(4)<Speaker>刘易斯</Speaker>||:跟着我来吧，指挥官。+我已经挑选好了最佳地点，现在就只剩您和我一起……
-()<Speaker></Speaker>||:不知是不是我的错觉，刘易斯刚刚回头的一瞬间，似乎脸红红的……
-()<Speaker>指挥官</Speaker>||:我们这是要去哪啊？
-Lewis(4)<Speaker>刘易斯</Speaker>||:您跟着我来就是了，请放心，我一定会保护您的安全的。
-()<Speaker></Speaker>||:刘易斯的辫子随着她快乐的脚步有节奏地摇摆着。+我跟在她的后面，沉默地走出了基地。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>约定的实施地点不在基地？</color>+<color=#A9A9A9>看来不是答应了她改造或者升级素体了……</color>
-Lewis(4)<Speaker>刘易斯</Speaker>||:指挥官，还记得之前的圣诞节，您送给我的礼物吗？
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>完了……</color>
-Lewis(4)<Speaker>刘易斯</Speaker>||:当时，在那棵被打扮得很漂亮的圣诞树下，我和大家一起开开心心地找到自己的礼物，然后拆开。+虽然为了做圣诞活动的准备，大家都很辛苦，但是留在我云图里最鲜明深刻的部分——+果然还是和大家欢声笑语的时光啊。
-()<Speaker></Speaker>||:刘易斯转过身来给我看她的漂流瓶项链。
-Lewis(4)<Speaker>刘易斯</Speaker>||:这是我当时收到的礼物，很美很美……+每次看见它，我都会想起那一天的快乐。+所以我决定，以后每年的圣诞节都要和大家开开心心地一起度过。
-()<Speaker></Speaker>||:我稍稍松了一口气。
-()<Speaker>指挥官</Speaker>||:嗯，等履行了我们的约定，就回去加入圣诞晚会吧。
-Lewis(4)<Speaker>刘易斯</Speaker>||:好的，那我们加快脚步吧，指挥官！
-()<Speaker></Speaker>||<黑屏1>:刘易斯的步速明显加快了，我只好裹紧大衣紧追了上去。
-()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night><BGM>BGM_Empty</BGM>:……十五分钟后。
-()<Speaker>指挥官</Speaker>||<BGM>m_avg_casual</BGM>:还没到吗，刘易斯？
-Lewis(4)<Speaker>刘易斯</Speaker>||:快了快了！指挥官，您走累了吗？+如果您走不动了，我抱着您过去怎么样？
-()<Speaker>指挥官</Speaker>||:不必了！我还能走，大概还有多远？
-()<Speaker></Speaker>||:我极力远眺，虽然在这样白雪茫茫的夜里，视野可见范围极小，但是大概能判断出我们正在基地附近的树林外围。
-Lewis(4)<Speaker>刘易斯</Speaker>||:就在前面啦，马上您就能看见我为这个约定找到的期许之地了。
-()<Speaker></Speaker>||:刘易斯冲着我粲然一笑，然后抢先跑向前方。+我望着她快活的背影，却突然有些心神不定起来。
-()<Speaker>指挥官</Speaker>||:圣诞节的雪夜，和少女相约前往小树林，莫非是……
-()<Speaker></Speaker>||:我的脚步不由自主地停了下来。
-()<Speaker>指挥官</Speaker>||:银田二的圣诞夜杀人事件？！+负心之人忘记了约定，愤怒的少女藏身于树林，架起了机枪……
-()<Speaker></Speaker>||:顿时，我的心跳乱了节拍。
-()<Speaker>指挥官</Speaker>||:不可能不可能……+哈哈，我在瞎想些什么？
-()<Speaker></Speaker>||<SE1>AVG_amb_wilderness</SE1>:我回头望了望来时的路，白茫茫大地一片，空无人烟。
-()<Speaker>指挥官</Speaker>||:带我来到这么偏僻的地方，一定是有些不能当着大家面做的事情……+而且这个约定的内容是绝对不能被其他人知道的……
-()<Speaker></Speaker>||:雪花纷纷落下的夜晚，空旷寂静的雪地中，握紧彼此的两双手……+某个想法像是闪电般击中了我。
-()<Speaker>指挥官</Speaker>||:莫非……莫非……+不可能吧……
-()<Speaker>刘易斯</Speaker>||:指挥官？您怎么还不来？+再不来的话，待会就赶不上圣诞晚会啦！
-()<Speaker></Speaker>||:我压抑着内心深处的颤抖，大声回应了刘易斯，然后拖动着软绵绵的双腿向前走去。
-()<Speaker>指挥官</Speaker>||:刘易斯……难道……+是要向我表白？！+不会吧……
-()<Speaker></Speaker>||:我越走心里越慌，甚至没有注意到自己走得同手同脚了。
-()<Speaker>指挥官</Speaker>||:我该怎么办？指挥官手册上没有写这一条的解决措施啊……+接受是不可能的，对刘易斯和其他人形都不公平……+可是拒绝的话，今后要如何和她相处呢……
-()<Speaker></Speaker>||:满腹愁思拧在了我的眉头上，我思考得太过投入，以至于刘易斯走到我的面前，我都没有察觉。
-Lewis(4)<Speaker>刘易斯</Speaker>||:噗哈哈哈——指挥官您在干什么？+这是最近什么新的流行趋势吗？
-()<Speaker>指挥官</Speaker>||:刘易斯，我……
-Lewis(4)<Speaker>刘易斯</Speaker>||:好了好了，指挥官，闭上眼睛吧。+到了实现约定的时候了。
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:刘易斯轻轻地抚上我的双眼，然后拉起了我的手，引领我在黑暗中走向未知……
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:脚下是我踩得咯吱作响的冰雪。+手上是刘易斯源源不断传来的温暖。
-()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:万物俱寂，唯有我的心脏像是超负荷运转的机器一样发出震天的响声。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>希望刘易斯不要听见……</color>
-()<Speaker>刘易斯</Speaker>||:指挥官，我们到了。+接下来，就是和我履行约定的时刻了……
-()<Speaker></Speaker>||:刘易斯松开了我的手，我的心跳频率陡然又上了一个台阶。+然而，接下来却无事发生。
-()<Speaker>刘易斯</Speaker>||<黑点1>:指挥官，睁眼看看吧！
-()<Speaker></Speaker>||<睁眼><BIN>6</BIN><Night>:我睁开了眼，首先闯入视线的是一棵树形完美的杉树。
-Lewis(4)<Speaker>刘易斯</Speaker>||<BGM>m_19christmas_theme</BGM>:怎么样？是不是很好看？+这可是我精挑细选了小半个月才选中的圣诞树！
-()<Speaker>指挥官</Speaker>||:诶？选圣诞树……？+这就是我们的约定吗……
-Lewis(4)<Speaker>刘易斯</Speaker>||:对呀，我们不是约定好了以后每年都要一起快快乐乐地度过圣诞节吗？+但是，没有圣诞树的圣诞节怎么能叫圣诞节呢？
-()<Speaker>指挥官</Speaker>||:约定好每年一起过圣诞……+所以，就等于我们约定好了要来一起选圣诞树？
-Lewis(4)<Speaker>刘易斯</Speaker>||:是的，还是指挥官懂我！
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>好像哪里不太对劲？不过……</color>+<color=#A9A9A9>比起刘易斯的逻辑问题，果然还是我的问题更大吧……</color>
-Lewis(4)<Speaker>刘易斯</Speaker>||:指挥官，您不喜欢我挑选的圣诞树吗？
-()<Speaker>指挥官</Speaker>||:没、没有，我觉得挺好看的。+而且树形优美，枝——+诶？那是松鼠吗？
-Lewis(4)<Speaker>刘易斯</Speaker>||:真的有松鼠诶！等等，还不止一只……+有一窝松鼠住在这棵树上！
-()<Speaker>指挥官</Speaker>||:……
-Lewis(4)<Speaker>刘易斯</Speaker>||:……
-()<Speaker></Speaker>||:一直干劲满满的刘易斯顿时萎靡了起来。
-()<Speaker>指挥官</Speaker>||:要不……我们给松鼠搬个家？
-Lewis(4)<Speaker>刘易斯</Speaker>||:……+松鼠们也一定为了今天做了很多准备吧……+储存了充足的干粮，邀请自己的朋友，然后一起窝在温暖的家里，啃着干粮开开心心地聊天……+我不想为了让我们过个快乐的圣诞节，就狠心破坏掉松鼠的圣诞节……
-()<Speaker>指挥官</Speaker>||:……这里还有这么多树，那我们重新找一棵做圣诞树吧。
-()<Speaker></Speaker>||<黑屏1>:情绪低落的刘易斯重新振作起来，加入了找圣诞树的作战。
-()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night>:……十分钟后。
-()<Speaker>指挥官</Speaker>||:刘易斯，你看这棵树怎么样？
-Lewis(4)<Speaker>刘易斯</Speaker>||:唔……还不错的样子……
-()<Speaker>指挥官</Speaker>||:那我叫基地来几个人帮忙把这棵树带回——
-()<Speaker></Speaker>||:还没来得及说完，刘易斯已经拿起不知道从哪里找到的电锯锯了起来……
-Lewis(4)<Speaker>刘易斯</Speaker>||:不用了，指挥官，有我就够了。
-()<Speaker></Speaker>||<黑屏1>:看着刘易斯的电锯下飞溅起的木屑，我颤抖着放下了通讯器……
-()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night><BGM>BGM_Empty</BGM>:……刘易斯放下电锯。
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:杉树歪歪地倒下了。
-()<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:我上前帮忙去掉多余的枝叶，刘易斯却望着某处出了神——+我顺着她的视线望去。
-()<Speaker>指挥官</Speaker>||:果然还在惦记着最开始的那棵树吗？
-Lewis(4)<Speaker>刘易斯</Speaker>||:毕竟那棵树是这片树林里最好看的一棵了，总感觉不是它的话……+好像这个圣诞节也不够完美了……
-()<Speaker>指挥官</Speaker>||:因为树不是最完美的那一棵，所以连带着整个圣诞晚会也不够完美了吗？+刘易斯，你心中完美的圣诞节是什么样的呢？
-Lewis(4)<Speaker>刘易斯</Speaker>||:唔……对我来说，应该是有着最好看的圣诞树，布置得最美丽的基地，还要有很多漂亮的礼物！
-()<Speaker>指挥官</Speaker>||:这样的圣诞节光是靠春田就可以搞定了。
-Lewis(4)<Speaker>刘易斯</Speaker>||:这么一说也是呢……那指挥官心中完美的圣诞节是什么样的呢？
-()<Speaker>指挥官</Speaker>||:对我来说，能看见换上圣诞装的开开心心的大家，就是最完美的圣诞节了。
-Lewis(4)<Speaker>刘易斯</Speaker>||:哇——您说得我都期待了起来！+我也好想快点看到大家今天的装扮啊！+指挥官，我们走快点！
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:刘易斯扛着杉树轻松地跑了起来。
-()<Speaker></Speaker>||:经过那棵树形完美的杉树时，有什么东西从树上落了下来，砸到了刘易斯。
-Lewis(4)<Speaker>刘易斯</Speaker><Shake>||:啊——
-()<Speaker>指挥官</Speaker>||:刘易斯！没事吧？
-()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:刘易斯放下杉树，困惑地从地上捡起了一个编织环。
-Lewis(4)<Speaker>刘易斯</Speaker>||:这是……槲寄生环？
-()<Speaker></Speaker>||:我们同时抬头望去，只见一只松鼠的身影倏忽一闪，就消失在了枝叶之间。+我和刘易斯的脸上漾起了笑容。
-Lewis(4)<Speaker>刘易斯</Speaker>||:走吧，指挥官。+我们还要赶上圣诞晚会呢。
-()<Speaker>指挥官</Speaker>||:嗯，走吧。
-Lewis(4)<Speaker>刘易斯</Speaker>||:话说，指挥官，您知道槲寄生环的故事吗？
-()<Speaker></Speaker>||:我的笑容凝滞了。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>在槲寄生下相遇的人，就要亲吻对方吗……</color>
-()<Speaker></Speaker>||:心跳的频率又开始上升了……
-()<Speaker>指挥官</Speaker>||:我不知道我不知道我什么都不知道！
-()<Speaker></Speaker>||:为了避免胡思乱想，我叫嚷着向基地跑去……
-Lewis(4)<Speaker>刘易斯</Speaker>||:诶？指挥官的反应怎么这么奇怪？+不是一个关于母爱的神话故事吗……
-()<Speaker>/Speaker>||:刘易斯困惑地看着指挥官逐渐远去的背影，只好再次扛起了杉树。
-Lewis(4)<Speaker>刘易斯</Speaker>||:指挥官，等等我啊！
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>m_19christmas_theme</BGM>:It's 6:00am on the 25th of December.+I'm doing my rounds in order to ensure that the various preparations for Christmas are going smoothly.
+()<Speaker>Commander</Speaker>||:I'll go check on the present-shopping first, then the distribution of the presents, followed by the decoration of the Christmas tree...+And then there's also the prep work for the Christmas party...+So why do I feel like I'm forgetting something?
+Lewis(0)<Speaker>Lewis</Speaker>||:Good morning, Commander!
+()<Speaker>Commander</Speaker>||:Good morning, Lewis.
+Lewis(0)<Speaker>Lewis</Speaker>||:You're up early today, Commander. Is there a lot of work to be done for Christmas?
+()<Speaker>Commander</Speaker>||:For me, not really. After all, you're the ones who're doing all the heavy lifting. I'm just coordinating and supervising.
+Lewis(0)<Speaker>Lewis</Speaker>||:That's good. Looks like it won't interfere with our promise!+That's right, Commander, you haven't forgotten our promise, have you? <c>I remember.<c>I don't remember.
+()<Speaker>Commander</Speaker>||<分支>1</分支>:...How could I forget? Of course I remember.
+()<Speaker>Commander</Speaker>||<分支>1</分支>:<color=#A9A9A9>What promise? Why don't I recall anything about it?</color>+<color=#A9A9A9>Could this be what I've forgotten?</color>
+Lewis(0)<Speaker>Lewis</Speaker>||<分支>1</分支>:That's wonderful! ♪ You're such a nice person - both inside and out, Commander! +Hehe, I'll go get ready, then!+I'll come look for you when it's time.
+()<Speaker>Commander</Speaker>||<分支>2</分支>:...What promise? I don't seem to recall it.
+Lewis(0)<Speaker>Lewis</Speaker>||<分支>2</分支>:... +So you don't remember after all...
+()<Speaker>Commander</Speaker>||<分支>2</分支>:Lewis, I'm sorry, there's just too much for me to keep track of...+The human memory can't compare to a Doll's neural cloud.+Please tell me about our promise again, I'll make sure I keep my part of it.
+Lewis(0)<Speaker>Lewis</Speaker>||<分支>2</分支>:I just can't get mad when I see that innocent face of yours. +Alright then, our promise is still in effect. +I'll go prepare myself and look for you afterwards.
+()<Speaker></Speaker>||:Lewis runs off happily.
+()<Speaker>Commander</Speaker>||:Did I really promise Lewis something? +Why don't I remember anything about it at all... +Looks like I'll have to ask Kalina to schedule a physical for me...
+()<Speaker></Speaker>||<黑点1>:I continue making the Christmas work arrangements as I mutter to myself.
+()<Speaker></Speaker>||<黑点2><BIN>82</BIN><BGM>BGM_Empty</BGM>:Inside the Griffin dorms. +Lewis sits in front of the mirror, diligently applying her makeup.
+Lewis(4)<Speaker>Lewis</Speaker>||<BGM>BGM_Hello</BGM>:My eyebrows aren't quite even... The right side seems a little thicker.
+()<Speaker></Speaker>||:Lewis slightly lifts her eyebrow, carefully adjusting its shape with her eyebrow pencil.
+Lewis(4)<Speaker>Lewis</Speaker>||:My brows should be done soon—
+()<Speaker></Speaker>||:Snap— +Lewis' eyebrow pencil breaks between her tense fingers...
+Lewis(4)<Speaker>Lewis</Speaker>||:Oh no! I just bought this eyebrow pencil and it's already... +For some reason, the eyebrow pencil breaking before the Commander keeps our promise strikes me as an ill omen... +Huh? Have I been infected by R93...?
+()<Speaker></Speaker>||:Lewis hurries and puts on her necklace with the message-in-a-bottle pendant.
+Lewis(4)<Speaker>Lewis</Speaker>||:I hope this brings me luck... Oh drifting bottle, please ensure that I'll be able to successfully keep my promise with the Commander...
+()<Speaker></Speaker>||<黑点1>:After making a fervent wish on her bottle necklace, Lewis quickly throws on a coat and steps out of her dorm room.
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:Even with my rounds complete, my brow remain firmly furrowed.
+()<Speaker>Commander</Speaker>||:...So what IS this promise, anyway?
+Lewis(4)<Speaker>Lewis</Speaker>||<BGM>BGM_Moon</BGM>:Commander!
+()<Speaker></Speaker>||:Lewis pops out in front of me, dressed in her Christmas outfit.
+()<Speaker>Commander</Speaker>||:...Lewis, your Christmas clothing this year looks amazing.
+Lewis(4)<Speaker>Lewis</Speaker>||:Hehe, thanks for the praise, Commander! +I just met Springfield and she said your work was finished for the moment. +That means it's time to keep our promise.♪
+()<Speaker>Commander</Speaker>||:Of course, but...
+Lewis(4)<Speaker>Lewis</Speaker>||:Come with me, Commander. +I've already picked out a good spot, now all that's left is for us to...
+()<Speaker></Speaker>||:I wonder if I'm seeing things, but when Lewis looked back for just a moment just now, her face seemed very red...
+()<Speaker>Commander</Speaker>||:And where are we going?
+Lewis(4)<Speaker>Lewis</Speaker>||:Just follow me. Don't worry, I'll keep you safe.
+()<Speaker></Speaker>||:Lewis' braid sways to the rhythm of her delighted footsteps. +I follow behind her, leaving the base in silence.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>So the promised place isn't in the base?</color>+<color=#A9A9A9>Looks like I didn't promise to modify her or upgrade her body...</color>
+Lewis(4)<Speaker>Lewis</Speaker>||:Commander, do you still remember the present you gave me last Christmas?
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Oh no...</color>
+Lewis(4)<Speaker>Lewis</Speaker>||:Back then, we took our presents from under the pretty Christmas tree, and then we opened them. +Although the preparations for Christmas were tiring and time-consuming, the most vivid memory in my neural cloud... +Is still that time when we laughed and smiled together.
+()<Speaker></Speaker>||:Lewis turns around and shows me the necklace with the bottle pendant that I gave her.
+Lewis(4)<Speaker>Lewis</Speaker>||:This is the present I received back then, and it's really pretty... +Every time I look at it, I recall the happiness of that day.+Therefore, I've decided that from now on, I would spend a happy Christmas with everyone each year.
+()<Speaker></Speaker>||:I quietly breathe a sigh of relief.
+()<Speaker>Commander</Speaker>||:Yeah, so to keep our promise, let's hurry up and join the Christmas party.
+Lewis(4)<Speaker>Lewis</Speaker>||:Of course! Let's make haste, then, Commander!
+()<Speaker></Speaker>||<黑屏1>:Lewis' pace speeds up, and I have no choice but to pull my coat tightly around myself and follow her.
+()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night><BGM>BGM_Empty</BGM>:...15 minutes later.
+()<Speaker>Commander</Speaker>||<BGM>m_avg_casual</BGM>:Are we there yet, Lewis?
+Lewis(4)<Speaker>Lewis</Speaker>||:Almost! Are you feeling tired, Commander? +If you can't move any more, why don't you let me carry you?
+()<Speaker>Commander</Speaker>||:No need for that! I can still walk. How much further is it?
+()<Speaker></Speaker>||:I strain my eyes and look into the distance. Although I can't see very far on this snowy night, I estimate that we're still on the outskirts of the forest near the base.
+Lewis(4)<Speaker>Lewis</Speaker>||:It's just ahead! We're almost at the place I found for this promise!~
+()<Speaker></Speaker>||:Lewis smiles at me and runs ahead. +However, a surge of unease comes over me as I look at her cheerful form.
+()<Speaker>Commander</Speaker>||:I'm heading into the woods on a snowy Christmas night with a girl. Could this be...
+()<Speaker></Speaker>||:I unconsciously stop in my tracks.
+()<Speaker>Commander</Speaker>||:Is it like the Christmas Murder Incident from the Gindaichi Case Files?! +An angry girl hid in the forest when her beloved forgot a promise and used a machine gun to...
+()<Speaker></Speaker>||:My heart skips a beat at the thought.
+()<Speaker>Commander</Speaker>||:No way, that can't possibly be true... +Haha, what was I even thinking?
+()<Speaker></Speaker>||<SE1>AVG_amb_wilderness</SE1>:I look back at the route we took here. It's nothing but snow, with nobody in sight.
+()<Speaker>Commander</Speaker>||:She must have brought me to a secluded location like this because she wants to do something that she can't do in front of everyone else... +And the details of the promise must never be revealed to others...
+()<Speaker></Speaker>||:Holding each others' hands tightly on a quiet patch of snowy ground while the snowflakes fall gently from the night sky... +An idea hits me like a stroke of lightning.
+()<Speaker>Commander</Speaker>||:Wait... Don't tell me... +No way...
+()<Speaker>Lewis</Speaker>||:Commander? Not coming? +If you don't keep up, we won't be able to make it for the Christmas party later!
+()<Speaker></Speaker>||:I force down the trembling that originates from deep within my heart and respond to her, then drag my rubbery legs through the snow and continue forward.
+()<Speaker>Commander</Speaker>||:Lewis... Is she... +Is she going to confess her love to me?! +That can't be, right...?
+()<Speaker></Speaker>||:The further I go, the more worried I get. I almost don't even realize that I'm walking funny.
+()<Speaker>Commander</Speaker>||:What should I do? The Commander's manual didn't list a procedure for a situation like this... +I can't accept her feelings; it would be unfair to Lewis and the other Dolls... +But if I reject her, how am I going to get along with her from now on...?
+()<Speaker></Speaker>||:My forehead is so wrinkled with worry and I'm so lost in thought that I don't even notice as Lewis walks back up to me.
+Lewis(4)<Speaker>Lewis</Speaker>||:Pffft— What are you doing, Commander? +Is this some kind of new trend?
+()<Speaker>Commander</Speaker>||:Lewis, I...
+Lewis(4)<Speaker>Lewis</Speaker>||:Alright, alright, close your eyes, Commander. +It's time to keep your promise.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Lewis gently covers my eyes, then grabs my hand and pulls me through the darkness to parts unknown...
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:Snow crunches under my feet.+Meanwhile, Lewis's steady warmth flows into my hand.
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:Everything is silent, but my heart pounds thunderously, like an overloaded washing machine.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>I hope Lewis doesn't hear this...</color>
+()<Speaker>Lewis</Speaker>||:We're here, Commander. +It's time to keep your promise with me...
+()<Speaker></Speaker>||:Lewis lets go of my hand, and my heart rate suddenly spikes. +However, nothing happens after that.
+()<Speaker>Lewis</Speaker>||<黑点1>:Commander, open your eyes!
+()<Speaker></Speaker>||<睁眼><BIN>6</BIN><Night>:I do so, and a picture-perfect pine tree comes into view.
+Lewis(4)<Speaker>Lewis</Speaker>||<BGM>m_19christmas_theme</BGM>:What do you think? Isn't it pretty? +I spent almost half a month picking out this Christmas tree!
+()<Speaker>Commander</Speaker>||:Huh? Picking out a Christmas tree...? +Was that our promise...?
+Lewis(4)<Speaker>Lewis</Speaker>||:Yup! Didn't we promise to enjoy a merry Christmas together every year? +How can you call it Christmas if you don't have a Christmas tree?
+()<Speaker>Commander</Speaker>||:We promised to celebrate Christmas together every year... +Which means I promised to pick a Christmas tree with you?
+Lewis(4)<Speaker>Lewis</Speaker>||:So you DO understand, Commander!
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Something's wrong with this whole situation, right? Still...</color>+<color=#A9A9A9>It looks like I'm the one with the problem, rather than Lewis...</color>
+Lewis(4)<Speaker>Lewis</Speaker>||:Commander, is something wrong with the tree I chose?
+()<Speaker>Commander</Speaker>||:Of-of course not, I think it looks very good, +It's got a very good shape, and its branches are— +Huh? Is that a squirrel?
+Lewis(4)<Speaker>Lewis</Speaker>||:It IS a squirrel! Wait, there's more than one of them... +There's an entire nest of squirrels in this tree!
+()<Speaker>Commander</Speaker>||:...
+Lewis(4)<Speaker>Lewis</Speaker>||:...
+()<Speaker></Speaker>||:Lewis, who had been fired up until now, suddenly deflates.
+()<Speaker>Commander</Speaker>||:Shall we...help the squirrels move?
+Lewis(4)<Speaker>Lewis</Speaker>||:...+The squirrels must have worked hard to prepare for this day too...+They must have stocked up lots of food, invited their friends over, then they huddled up in their warm home together, chattering happily as they munched on their snacks... +I can't bear to ruin the squirrels' Christmas just so we can have a merry Christmas...
+()<Speaker>Commander</Speaker>||:...There are still a lot of trees around here. Let's go find a new one for our Christmas tree.
+()<Speaker></Speaker>||<黑屏1>:Lewis, who was depressed just a moment ago, suddenly perks up again, and joins me in my quest to find a Christmas tree.
+()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night>:...10 minutes later.
+()<Speaker>Commander</Speaker>||:What do you think of this one, Lewis?
+Lewis(4)<Speaker>Lewis</Speaker>||:Hmm... It looks okaaay...
+()<Speaker>Commander</Speaker>||:Then I'll ask some people from the base to help bring this tree back—
+()<Speaker></Speaker>||:Before I can finish my sentence, Lewis pulls out a chainsaw from nowhere...
+Lewis(4)<Speaker>Lewis</Speaker>||:No need for that, Commander. I'm all you need.
+()<Speaker></Speaker>||<黑屏1>:As I watch the sawdust thrown up by Lewis' chainsaw, I shudder slightly as I put down my communicator.
+()<Speaker></Speaker>||<黑屏2><BIN>6</BIN><Night><BGM>BGM_Empty</BGM>:...Lewis puts down the chainsaw.
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:The tree topples lopsidedly.
+()<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:As I step forward to trim the excess branches, I see Lewis staring off into the distance— +I follow her gaze.
+()<Speaker>Commander</Speaker>||:Still thinking about the original tree?
+Lewis(4)<Speaker>Lewis</Speaker>||:Well, it was the best-looking tree in this forest, and I just feel that if it's not that one... +Then this Christmas won't be perfect.
+()<Speaker>Commander</Speaker>||:So, because our tree isn't perfect, this Christmas won't be perfect either? +Lewis, what's your idea of a perfect Christmas?
+Lewis(4)<Speaker>Lewis</Speaker>||:Hm... To me, it should be one with the best-looking Christmas tree, the loveliest decoration at the base, and lots of pretty presents!
+()<Speaker>Commander</Speaker>||:Springfield could've organized a Christmas like that all on her own.
+Lewis(4)<Speaker>Lewis</Speaker>||:That's true... What about you, Commander? What's your idea of a perfect Christmas?
+()<Speaker>Commander</Speaker>||:To me, a perfect Christmas would be one where I can see everyone in their Christmas outfits, looking as happy as can be.
+Lewis(4)<Speaker>Lewis</Speaker>||:Wow... The way you described it makes me excited too! +I want to see how everyone looks today! +Commander, let's hurry back!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Lewis picks up the tree and breaks into an effortless jog.
+()<Speaker></Speaker>||:As we pass the perfect tree from before, something falls from it and hits Lewis.
+Lewis(4)<Speaker>Lewis</Speaker><Shake>||:Ow.
+()<Speaker>Commander</Speaker>||:Lewis! Are you alright?
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:Lewis puts down her pine tree and picks up a woven wreath from the ground, thoroughly confused.
+Lewis(4)<Speaker>Lewis</Speaker>||:Is this...a mistletoe wreath?
+()<Speaker></Speaker>||:We look up at the same time. We catch a fleeting glimpse of a squirrelly silhouette vanishing into the branches. +We break into smiles.
+Lewis(4)<Speaker>Lewis</Speaker>||:Let's go, Commander. +We still need to make it to the Christmas party.
+()<Speaker>Commander</Speaker>||:Yeah, let's go.
+Lewis(4)<Speaker>Lewis</Speaker>||:Speaking of which, Commander, do you know the story behind mistletoe wreaths?
+()<Speaker></Speaker>||:My smile freezes on my face.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Is she talking about how people who meet under the mistletoe have to kiss each other...</color>
+()<Speaker></Speaker>||:My heart begins to race again...
+()<Speaker>Commander</Speaker>||:I don't know I don't know I don't know anything!
+()<Speaker></Speaker>||:In order to ward off any strange leaps of the imagination, I run off towards the base while I yell those words...
+Lewis(4)<Speaker>Lewis</Speaker>||:Huh? Why's the Commander reacting so strangely? +Isn't it a legend about a mother's love...?
+()<Speaker>/Speaker>||:Lewis watches the Commander run off into the distance in great confusion and has no choice but to pick up the pine tree again.
+Lewis(4)<Speaker>Lewis</Speaker>||:Wait for me, Commander!

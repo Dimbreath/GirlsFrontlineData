@@ -1,145 +1,145 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:
-()||<BGM>BGM_Sneak</BGM>:……塔林市郊。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>指挥官，刚才两个小时，塔林市内的不明信号在不断尝试和M4连接，除此之外，没有发现异状。</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>其他格里芬梯队的人形也没有遭到电子攻击，我们会继续提供防壁支持。</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>那么，定期联络结束，我们也要跟上她们的脚步一起前往塔林市了。</color>
-指挥官()||:这样吗……我知道了，继续保持联系。
-()<Speaker>指挥官</Speaker>||<SE1>AVG_tele_disconnect</SE1>:嗯？
-NPC-Kalin(0)<Speaker>格琳娜</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:指挥官，你方便吗？
-NPC-Kalin(0)<Speaker>指挥官</Speaker><通讯框>||:我这边没问题，是先遣小队的通讯吗？那是最优先级别，如果有的话，不必请示可以立刻帮我接过来。
-NPC-Kalin(3)<Speaker>格琳娜</Speaker><通讯框>||:不，是来自16Lab的……帕斯卡小姐。
-NPC-Kalin(3)<Speaker>指挥官</Speaker><通讯框>||:（来了吗……就跟哈维尔预言的一样。）+……帮我接上吧。
-()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:……滴。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>啊……指挥官……好久不见。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>那个……唔……明明有很多想说的，但是到了这种关头，反而……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:好几个月没有与你联络了，很高兴接到你来电。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>……天啊，才几个月吗？明明不到一年，感觉却像是过了很久了。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:是的，我想这几个月……对我们彼此来说，都是一段难熬的时期。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>指挥官，实际上我找你，是为了……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:是为了M4，对吗？
-NPC-Persica(1)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>啊……</color>
-NPC-Persica(1)<Speaker>指挥官</Speaker><通讯框>||:我印象中，你也不曾为了其他事情特地联络我，这还蛮好猜的。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>……那我就直接进入正题了。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>一直以来，我都在追查蝴蝶事件的真相。而你这次要去的地方，无论是同莱柯还是事件本身，都有着千丝万缕的联系。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>但是在那次被严密封锁的军事行动后不久，我就一直处于被监视的状态，前段时间也和AR小队的孩子们失去了联系……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:那次行动后，可是又发生了很多事呢。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>（苦笑）贝莱格莱德的报道我也看到了。看样子，我的脚步落后的可不是一点半点程度。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>那么AR小队她们呢？</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:已经出发执行任务了。+我正准备联系M4所在的先遣梯队，看看她们侦查塔林的任务进展如何，要为你转接给她吗？
-NPC-Persica(1)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>等一下！先别……</color>
-NPC-Persica(1)<Speaker>指挥官</Speaker><通讯框>||:说实话那个孩子我也不太好应付，总觉得她一直在回避我。+我以为趁开始战斗前有点空档，跟熟悉的人叙叙旧也能让M4稳定一些。
-NPC-Persica(3)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>还是不要了……</color>
-NPC-Persica(3)<Speaker>指挥官</Speaker><通讯框>||:所以，帕斯卡小姐，你既想帮助M4，又不想直接面对她，是为什么呢？
-NPC-Persica(3)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>……我很难回答。</color>
-NPC-Persica(3)<Speaker>指挥官</Speaker><通讯框>||:如果要下委托，或着想要我给予协助的话，那我也希望能够知道“为什么”。
-NPC-Persica(3)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>民间军事公司不就应该跟雇佣兵一样……拿钱办事就好了吗？酬劳我会给足的。</color>
-NPC-Persica(3)<Speaker>指挥官</Speaker><通讯框>||:如果是以前的我应该会同意这种看法。+但是现在，我也得为格里芬全体人类和人形员工的安全做考虑。你想保护你心爱的作品，我也想保护我重视的部下。+你觉得钱能买到我们之间的信赖吗，帕斯卡？
-()||<BGM>BGM_Empty</BGM>:这个质问令通讯频道上的帕斯卡陷入了一段很长的沉默。+过了好半晌，帕斯卡缓缓地垂下头去。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>……我对那孩子……M4……亏欠太多了。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>M4对我而言有特别的意义，我想尽己所能地保护她。所以才有了AR小队……</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我为了完成我心目中完美的作品而在她身上增加了不该增加的负担，在她离开后我才醒悟过来，我到底做了什么？</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我为了满足自己的私欲，不仅伤害了她，还不断地让她重要的朋友被夺走。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我还放任她回到那个残酷而充满敌意的世界，甚至是连我的挚友也因此负了重伤……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:……帕斯卡小姐，鸟儿终有一天会展翅离巢。+M4在不断地成长，她的表现我们有目共睹，你应该信任你的孩子。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我……并不是这个意思。不过，嗯，你也说得没错。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:我还有个问题，你是怎么知道我来塔林了？如果有泄漏情报的源头，我就得设法找出来加以封闭。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>过去的一段时间里，我不断尝试搜索你和AR小队成员的下落，却一直没有成果。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>不过鉴于在贝莱格莱德的事件中，媒体也捕捉到了很多人形活动的踪迹，我分析过后确信你跟格里芬人形们都平安无事。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>而哈维尔一直对这一系列事特别关注，所以……我稍微调查了一下他的私人账户付款纪录。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:啊，看样子除了把哈维尔先生灭口以外，没有其他堵住泄漏管道的手段啦，真没办法。+那么，我的疑问解决了，回到正题吧。你希望我提供怎样的服务呢？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我原本希望你召回AR小队，让她们回来16Lab，或着远离前线的安全位置。</color>
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>但是听了刚才那番话，我觉得自己可能又差一点做出了错误的决定……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:作战已经开始了，这种情况下随意更改命令与梯队序列，只会造成无谓的混乱。+就算帕斯卡小姐提出这样的要求，我也不会接受的。+而且……M4她，我总觉得她在追寻些什么。我想即使下达命令，她也不会愿意就这么离开的。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>我想也是呢……抱歉，是我太过任性了。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||<BGM>10065</BGM>:不过在合理的范围内……格琳，能把指挥系统以观察者模式授权给帕斯卡小姐吗？
-NPC-Kalin(2)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>欸？可以是可以啦，但是把战况直播给外部人员……没问题吗？</color>
-NPC-Kalin(2)<Speaker>指挥官</Speaker><通讯框>||:我们用来转发信号的无人机也都是帕斯卡的设计，她跟16Lab支持格里芬至今，不算外人。+这一次作战要面对很多未知威胁，我希望能借助帕斯卡小姐的智慧来避开危险。
-NPC-Kalin(3)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>好吧，我相信指挥官的判断。</color>
-NPC-Kalin(3)<Speaker>格琳娜</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>帕斯卡小姐－－您的观察者权限已授权，从现在起您可以同步到我们的战场监测频道了。</color>
-NPC-Kalin(3)<Speaker>指挥官</Speaker><通讯框>||:如果你看到任何的可疑迹象，或着潜在威胁，就跟我说一声。+但是最后怎么判断，还是由我这边来下决定。可以吗，帕斯卡小姐？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>……谢谢你，指挥官。在这之后我会设法报答你的。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker><通讯框>||:那酬劳就算成一杯咖啡如何？
-NPC-Persica(1)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>咦？</color>
-NPC-Persica(1)<Speaker>指挥官</Speaker><通讯框>||:你说过要请我喝咖啡的，刚见面的时候。
-NPC-Persica(3)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>啊……真是的，我在搞什么，搬家后我完全忘记了这档事。</color>
-NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>对了，我会给咖啡加很多的方糖喔。</color><c>那还真是令人期待呢。<c>我是黑咖啡派的，真可惜。
-NPC-Persica(2)<Speaker>指挥官</Speaker><通讯框>||<分支>1</分支>:那还真是令人期待呢。
-NPC-Persica(1)<Speaker>帕斯卡</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>原来指挥官也是甜党？这可真是伟大的新发现，我们应该会很合得来。</color>
-NPC-Persica(2)<Speaker>指挥官</Speaker><通讯框>||<分支>2</分支>:我是黑咖啡派的，真可惜。
-NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>如果是客人，就得学会入境随俗。不过，因为是指挥官的关系，要我破例也是无所谓。</color>
-NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>那么，就这样约定了。等这一切尘埃落定后，我会邀请你来我的研究室。</color>
+()||<BGM>BGM_Sneak</BGM>:...On the outskirts of Tallinn.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Commander, in the last two hours, unknown signals originating from Tallinn have been continuously trying to connect with M4. Other than that, there has been nothing out of the ordinary.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>No other Griffin Dolls have come under electronic attacks. We will continue to provide defensive support.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>That's it for my routine report. We need to keep up with their pace and head further into Tallinn.</color>
+Commander()||:Is that so...? I see. Keep in touch.
+()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Hmm?
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Commander, do you have a moment?
+NPC-Kalin(0)<Speaker>Commander</Speaker><通讯框>||:No problem on my end so far. Is it a transmission from the advance team? That's always a priority. Whenever they get in touch, just patch them through directly.
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:No, it's from 16LAB... It's Miss Persica.
+NPC-Kalin(3)<Speaker>Commander</Speaker><通讯框>||:(Here she comes... Exactly as Havier predicted.) +...Put her through.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:...Click.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Ah... Commander... Long time no see.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Well...um... I've actually got a lot to say, but now that we're finally talking face-to-face, for some reason...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:It's been months since we last spoke. I'm glad to hear from you.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...Good heavens, has it really only been months? It hasn't even been a year, yet it feels like it's been ages.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:Yes, I'm sure these last few months...have been really rough...for both of us.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Commander, I'm actually getting in touch to discuss...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:M4, am I right?
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Oh...</color>
+NPC-Persica(1)<Speaker>Commander</Speaker><通讯框>||:As far as I remember, you have never called me for any other reason, so it's an easy guess.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...Then I'll cut right to the chase.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I've been trying to get to the bottom of the Butterfly Incident this whole time. The place you're going to for your current mission is intimately related to both Lyco and the incident itself.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>However, ever since the last classified military operation, I've been under heavy surveillance and haven't been able to get in touch with my girls in the AR Team...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:A lot happened after that operation.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>(Snorts) I saw the news coverage on Belgrade. Looks like I've fallen really behind on the recent developments.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>So where is the AR Team?</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:They're away on a mission. +I was just about to contact the advance team that M4 is accompanying and check on their progress in Tallinn. Would you like to me to set up a channel for you?
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>No! I think we should wait...</color>
+NPC-Persica(1)<Speaker>Commander</Speaker><通讯框>||:To be completely honest, I don't really know how to deal with her. It always feels like she's avoiding me. +I think it might benefit M4's mental state to catch up with an old friend during this brief period of free time before the battle begins.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'd still rather not...</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><通讯框>||:So, Miss Persica, you want to help M4, yet you don't want to face her. Why is that?
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...It's hard to explain.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><通讯框>||:If you have a job for me or are planning to ask me for a favor, then I'd like to know "why".
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Shouldn't you PMCs act like proper mercs...? Just take the money and don't ask any questions... I'll pay you in full.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><通讯框>||:I would've agreed to that in the past. +However, right now I must take the safety of all Griffin members, humans and Dolls, into consideration. You want to protect your beloved creation, while I also want to protect my important subordinates. +Do you honestly think you can buy our mutual trust with money, Persica?
+()||<BGM>BGM_Empty</BGM>:Persica falls silent when confronted with such a sharp question. +After a long time, she finally lowers her head in defeat.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>...I owe that girl...M4...too much.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>M4 is especially precious to me. I wanted to protect her to the best of my ability, and that was how the AR Team came to be...</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I kept loading her with unnecessary burdens just to shape her into the perfect masterpiece in my vision. I didn't realize my mistake until she left. What on earth have I done?</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>To satisfy my own selfish desires, not only did I hurt her, I also kept letting her companions get taken away.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I even set her loose back into this cruel and hostile world. My dearest friend got seriously injured because of this...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:...Miss Persica, all birds must leave their nests eventually. +M4 never stopped growing; we are all witnesses to her achievements. You should have more faith in your child.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>That's...not what I meant, but yes, you are right.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:I have another question - how did you find out I'm going to Tallinn? If there's a security loophole in our intelligence system, I must find and seal it.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I've been trying to search for you and the AR Team for a long time, but to no avail.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But since the media have captured many traces of Doll activity in the Belgrade Incident, I was able to surmise that you and the Griffin Dolls were all safe.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Also, Havier seemed to be quite concerned and watchful about the series of events, so...I looked into the transaction records of his personal account.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:Oh, so I suppose other than killing Mr. Havier, there is no other way to plug up the leak. Can't be helped then. +Right, now that my question was answered, let's return to the subject. What kind of services would you like me to provide?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I was going to ask you to call back the AR Team and have them return to 16LAB, or at least move them away from the frontlines to a safer location.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But having listened to you, I think I might have almost made another wrong decision...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:With the operation already under way, any random changes to my commands or the deployment of our forces would only cause unnecessary confusion. +Even if you had made that request, I wouldn't have agreed to it. +Besides...I have the feeling that M4 is seeking something. I believe even if I gave that order, she wouldn't be willing to leave just like that.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>I suppose you're right... Sorry, I was being inconsiderate.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||<BGM>10065</BGM>:It's understandable... Kalin, could you give Miss Persica permission to access our command system as an observer?
+NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Huh? I certainly can, but giving an outsider direct access to our battle situation...? Are you sure about that?</color>
+NPC-Kalin(2)<Speaker>Commander</Speaker><通讯框>||:Persica designed the drones we use to transmit our signals; she and 16LAB have been supporting Griffin this whole time, which makes her hardly an outsider. +We're going to face many unknown threats in this operation, so I hope Miss Persica can lend us her wisdom in helping us steer clear of danger.
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Alright, I trust your judgment.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Miss Persica, I have given you access clearance as an observer. From now on you'll be able to connect to our battlefield surveillance channel.</color>
+NPC-Kalin(3)<Speaker>Commander</Speaker><通讯框>||:If you see anything suspcious or any potential threats, please notify me. +However, I'll still have the final say when it comes to making any decisions. Is that acceptable, Miss Persica?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...Thank you, Commander. I will do my best to repay you afterwards.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><通讯框>||:How about treating me to a coffee?
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>What?</color>
+NPC-Persica(1)<Speaker>Commander</Speaker><通讯框>||:You said you would make me a coffee back when we first met.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Oh... Jeez, what's wrong with me? I completely forgot about that after I moved.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>By the way, I put lots of sugar in my coffee.</color> <c>Lovely, I'll look forward to it.<c>Oh, what a shame. I'm Team Black Coffee.
+NPC-Persica(2)<Speaker>Commander</Speaker><通讯框>||<分支>1</分支>:Lovely, I'll look forward to it.
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>You've also got a sweet tooth, haven't you? That's a great discovery. I'm sure we'll get along splendidly.</color>
+NPC-Persica(2)<Speaker>Commander</Speaker><通讯框>||<分支>2</分支>:Oh, what a shame. I'm Team Black Coffee.
+NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>When in Rome, do as the Romans do. Still, I suppose I can make an exception for you, Commander.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Anyway, it's decided then. When everything settles down, I'll invite you to my lab.</color>
 ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>197</BIN>:
-()||<SE1>MachineGunBurst</SE1>:……塔林市，洲际铁路车站外围。
-()||<BGM>BGM_Boss2</BGM><SE2>Gunfight</SE2>:一声枪响打破了宁静的废墟气息，随之而来的是越来越密集的交火音。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:呼！刚才好险啊，RO你还好吗？
-RO635(4)<Speaker>RO635</Speaker>||<SE1>Gunfight</SE1>:我没事……可恶，帕拉蒂斯的家伙没碰上，但是到处都是自动炮塔。
-AR15Mod(0)<Speaker>AR15</Speaker>||:我们的任务是为洲际列车找出一条前往塔林基地的安全道路。+若放任这些防卫设施开火，那么列车肯定无法安全通过市区……这些铁路沿线的自动炮塔，必须排除。
-RO635(0)<Speaker>RO635</Speaker>||:话是这么说，但那些自动炮塔甚至有些还装备了护盾装置，非常难啃。
-RO635(5)<Speaker>RO635</Speaker>||:现在这样被压着打，别说排除障碍，我们能不能安全撤离都成问题了！我们需要更大威力的重装小队的支援！
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:重装小队还在指挥官那里，要过一段时间才能跟上来吧。+RO，你不是会电子战吗？能不能黑进那些炮塔的作业系统里夺取权限？
-RO635(5)<Speaker>RO635</Speaker>||:你说的倒简单……但问题是这些老式炮塔，启动自律模式后就会切换成封闭线路。+换句话说，我得贴到那些炮塔的操作面板前，或者连上它们的内网节点才可能接上线！
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:唉……这么麻烦的吗？
-RO635(0)<Speaker>RO635</Speaker>||:要不然呢，都是上个世代的老旧系统了，我也很头痛啊……
-AR15Mod(0)<Speaker>AR15</Speaker>||:其实也不是不能一试。我们吸引炮塔的注意力，然后掩护RO推进到炮塔的死角与其连接侵入……+……你觉得呢，这个计划感觉应该能行？M4？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:（能够入侵吗？那么，这里就交给你了。）
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:……不需要。
-AR15Mod(2)<Speaker>AR15</Speaker>||:但是这样一来……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:大家装好子弹准备行动，我会设法连接并关闭防卫系统，但是无法持续太久。+在那之后，我们要一口气趁机冲进塔林市车站里。听清楚了吗？
-RO635(3)<Speaker>RO635</Speaker>||:但是那种事，怎么可能……
-AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1>:嘘。RO，相信M4吧，大家准备好，等待信号。
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>AVG_tele_disconnect</SE2>:准备——三、二、一……现在！
-()||:原本震耳欲聋、覆盖整条大街的炮火声瞬间戛然而止。
-()||:AR15朝外扔出了一颗石头，看着石子滚过整条街道也没有激起任何反击后，率先站了出来。
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1><SE2>Runstep</SE2>:开始移动，目标车站！动作快！
-()||<BIN>197</BIN><黑点2><SE1>Runstep</SE1><BGM>BGM_Empty</BGM>:没有遭遇到任何攻击与阻挠，格里芬人形们一鼓作气冲进了塔林车站内部。
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:真不敢相信……！车站周围的这么多自动炮台都……
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:就算朝它们开火也不会招来反击，全部都瘫痪掉了！
-RO635(0)<Speaker>RO635</Speaker>||:刚才外面那些炮台一口气全部都被黑掉了，你到底是怎么办到的，M4？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:……我之前的心智升级安装了一些新的模块，尤其是在电子战方面进行了大幅强化。+身为AR小队的队长，总不能再让我的队员们陷入险境之中。
-AR15Mod(0)<Speaker>AR15</Speaker>||:干得好，M4。心智负担得住么？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:嗯，谢谢关心……我想休息一下，喘口气，让脑袋稍微散热。
-AR15Mod(0)<Speaker>AR15</Speaker>||:不要太依赖它。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:嗯……
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你们在悄悄说什么？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:没什么。比起那个，RO，能帮我个忙吗？我刚才在尝试黑入炮台时，探测到车站地下应该有个数据传输非常频繁的网络节点，我推测是自律防御系统的指挥中心……+找到那个的话，就能连接到塔林市的城防主系统架构了。
-RO635(0)<Speaker>RO635</Speaker>||:节点是吗……我马上就去。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:我也去帮忙！找东西的话人家最擅长了。
+()||<SE1>MachineGunBurst</SE1>:...Outside the Intercontinental Railway Station, Tallinn.
+()||<BGM>BGM_Boss2</BGM><SE2>Gunfight</SE2>:A gunshot breaks the silence that sits upon the ruins. More shots follow and grow increasingly frequent.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Phew, that was close! RO, you alright?
+RO635(4)<Speaker>RO635</Speaker>||<SE1>Gunfight</SE1>:I'm fine... Dammit, we haven't run into Paradeus, but there are automatic weapon platforms everywhere.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Our objective is to find a safe path for the train to proceed towards the base in Tallinn. +If we leave these defensive facilities be, there's no way the train can pass through the city without taking damage... We must eliminate the mortars along the railway tracks.
+RO635(0)<Speaker>RO635</Speaker>||:That is true, but some of these turrets are even protected by force fields - very nasty.
+RO635(5)<Speaker>RO635</Speaker>||:They're giving us a one-sided beatdown here. It's uncertain if we can even withdraw safely, let alone take them out! We need support from the HOC!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But the HOC are still with the Commander; it'll take them a while to catch up. +RO, aren't you equipped for electronic warfare? Can't you hack into the operation system of those mortars and take control?
+RO635(5)<Speaker>RO635</Speaker>||:You make it sound so easy... The problem is that these old turret models switch to an entirely closed circuit once they've been set to auto mode. +In other words, I can only get in by plugging myself directly into their control panels, or connecting to their intranet node!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What...? Why is it such a pain?!
+RO635(0)<Speaker>RO635</Speaker>||:What do you expect? These systems are ancient stuff from a bygone era. They're such a headache...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Actually, that isn't entirely impossible. We can draw the turrets' attention and cover RO so that she can head for their blind spot and hack them from there... +...What do you think? Does the plan sound plausible, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(You can do it? Then I'll leave this to you.)
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...That won't be necessary.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:But won't that...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Load your weapons and prepare to move. I'll try to connect to the defense system and deactivate it, but it won't stay off for too long. +After that, we'll have to run directly into Tallinn City Station. Is that clear?
+RO635(3)<Speaker>RO635</Speaker>||:But how can you possibly do...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<SE1>AVG_weapon_reload</SE1>:Hush, RO. Trust M4. Get ready and wait for the signal.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>AVG_tele_disconnect</SE2>:Ready... Three, two, one... Now!
+()||:The deafening sound of artillery fire that was resounding through the streets just a second ago comes to a sudden halt.
+()||:ST AR-15 throws a rock outside and watches as it roll all the way down the street without triggering any attacks, then she walks out into the open.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1><SE2>Runstep</SE2>:Start moving! Head for the station! Be snappy!
+()||<BIN>197</BIN><黑点2><SE1>Runstep</SE1><BGM>BGM_Empty</BGM>:The Griffin Dolls dash inside Tallinn City Station without a hitch.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:I can't believe it...! All those weapon platforms around the station...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:They don't retaliate even when we fire at them! They're completely paralyzed!
+RO635(0)<Speaker>RO635</Speaker>||:They all got hacked in one go. How on earth did you do that, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I've been given several new modules when I went through my neural upgrade that greatly augmented my electronic warfare capability. +As the leader of the AR Team, I can't afford to keep putting my teammates in danger.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Well done, M4. How's your neural cloud coping with the strain?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Hmm, thanks for your concern... I could use some rest. Gotta catch my breath and let my head cool down a bit.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Don't rely on it too much.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Right...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What were you two whispering about?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Nothing. More importantly, RO, can you do me a favor? While I was trying to hack into the turrets, I detected a network node with very busy data traffic underneath the station. I believe it's the command center of the autonomous defense system... +Find that, and we'll be able to access the system mainframe of Tallinn's city defenses.
+RO635(0)<Speaker>RO635</Speaker>||:A node, you say...? I'll set off right away then.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:I'll come and help too! Finding things is my forte!
 ()||<黑屏2><BIN>46</BIN><Night>:
-RO635(0)<Speaker>RO635</Speaker>||<SE1>AVG_footsteps_cave</SE1>:唔嗯……节点……有没有长得像是计算机或终端的机器……
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:计算机的话，是服务台的那个吗？
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:啊，洲际铁路的车站控制台……这个可以。
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:刚才M4好厉害啊，没想到电子战可以做到那种程度！RO你该多向她学学的。
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:那才不是什么电子战。（小声）
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:诶？这是什么意思？
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:电子战同时侵入两三台机体进行实时操纵，这种程度的话倒还可以理解。
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:但是，像她那样同时操纵几十门自动炮台，简直……+在没有物理接触的情况下，直接侵入没有齐纳协议的内网系统，这种操作更是匪夷所思。
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:……你认为M4对我们说了谎？但是，为什么？
-RO635(3)<Speaker>RO635</Speaker>||:也许有，也许没有。我总觉得，她自己可能也不是很清楚那是怎么办到的……总之一切都等任务完成之后再说。+好啦，让我看看这家伙的开关在……这里吗。
-()||<黑屏1><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:喀嚓……嗡嗡嗡嗡嗡嗡……
-()|||<黑屏2><BIN>46</BIN>:车站内的照明忽然全部点亮起来，原本停止多年的空调系统也全部再度转动，扬起一片尘埃。
-()||:原本寂静的车站地下空间，很快被机械运转的噪音填满。
-RO635(3)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:咦？这样看来，供电系统都还在吗，帮大忙了。+开始连接，查询……洲际铁路防卫系统……好，有了。M4，听得到吗？
-RO635(3);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>收到，听得很清楚。车站大厅这边恢复照明了，是你干的吗？</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:是的，塔林的供电网络十分充足。设备完好到……该怎么说，很难相信是已经放弃几十年的污染区，有这么多发电机还可以正常运作。+总感觉像是有人在弃城后还继续维护塔林的基础建设似的。
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>是这样吗……隔离墙控制中心也在里面吗？</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:不……没有找到隔离墙相关的权限，城内的防御系统也不会和城外的隔离墙控制系统放在一起吧？
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>说得也是……那么，铁路沿线的防卫系统呢？能关掉吗？</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:从车站控制台这里只能操作周边一小部分的自动炮塔，有相当多防卫装置处于断线状态，但却显示有在消耗电力。+这表示它们可能已经被激活，并切断了跟中央主控室的网络进入自律模式。
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>如果没办法直接关掉……RO，你帮我查一下发电机的位置。</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:可以，大致集中在塔林城郊几处发电厂内。你问这个是想做什么？
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>我要切断那些自动炮台的外部供电。</color>
-RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:但是，即使那样子炮台还是有备份的电池，不会立刻失去作用的。+虽然就这样等到电池耗尽是最保险的，但不知道还要等上多久时间……
-RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>断电之后，耗能大的护盾就无法任意展开。</color>
-RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>这样一来，我们就可以将这些被削弱的自动炮台轻易摧毁掉。</color>
-RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:这也是种方法。+不过，我们要前往发电厂的距离有些遥远，而且按照地图来看，途中会遭遇大量的防卫设施……
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>不必担心，指挥官为我们准备好了最可靠的后援。</color>
+RO635(0)<Speaker>RO635</Speaker>||<SE1>AVG_footsteps_cave</SE1>:Hmm... Node... Can you see any machine that looks like a computer or a terminal...?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What about that at the customer service counter?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Oh, a station control panel of the Intercontinental Railway... That would do.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4 was amazing! I can't believe she's that good at electronic warfare! You should learn a few tricks from her, RO.
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:(Mutters) That wasn't electronic warfare at all.
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:Huh? What do you mean?
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Hacking into two or three machines at the same time and controling them is achievable through electronic warfare.
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:But the way she manipulated several dozen automated defenses was simply... +Infiltrating an internal system that doesn't operate on the Zener Protocol without any physical contact is utterly inconceivable.
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:...You think M4 lied to us? But why would she do that?
+RO635(3)<Speaker>RO635</Speaker>||:Maybe she did, maybe she didn't. I have a feeling even she herself isn't too sure how she did it... In any case, let's leave everything till the mission is over. +Alright, let me see... The switch should be...here.
+()||<黑屏1><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Click... Hummmmmm...
+()|||<黑屏2><BIN>46</BIN>:The lights inside the station come on all of a sudden. The air conditioning system that hasn't been in use for years also whirs into action, blowing up a puff of dust.
+()||:The originally silent underground section of the station is soon filled with mechanical sounds.
+RO635(3)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:Huh? So the power supply is still operational. That's helpful. +Begin connection. Accessing... Intercontinental Railway Defense System... Good, here it is. M4 do you copy?
+RO635(3);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Loud and clear. The lights came on in the main concourse. Was that your doing?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:Yes, the power grid in Tallinn is fully functional. The equipment is in such pristine condition... How should I say this... It's hard to believe all these generators in a contamination zone that's been abandoned for decades are still running normally. +It almost feels as if someone was still maintaining the basic infrastructure even after the city has been sealed off.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Is that so...? Is the control center of the quarantine wall down there as well?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:No...I haven't been able to access anything related to the quarantine wall. I suppose they wouldn't have put the city's defense system together with the quarantine wall control system.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>You have a point... Then what about the defense system along the railway tracks? Can you shut it down?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:I can only operate a small number of the turrets around the station from this control panel. A considerable amount of the defensive mechanisms are currently disconnected, but it's shown here that they're still consuming power. +This means they could already be activated and have entered auto mode by disconnecting from the central control room.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>If you can't deactivate them directly... RO, locate the power generators for me.</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:I can do that. They're mostly concentrated around a power plant on the outskirts of Tallinn. Why do you ask?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>I'm going to cut off those platforms' external power supply.</color>
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:But even so, the weapon platforms still have auxiliary batteries and won't be put out of action immediately. +It is the safest option to wait for their batteries to run out, but there's no telling how long that's going to take...
+RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Once their power supply is cut off, they won't be able to deploy their force fields as they consume a lot of energy.</color>
+RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>In their weakened state, we'll be able to destroy them with ease.</color>
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:That's a possible solution. +However, we're a fair distance away from the power plant. Judging by the map, we'll come across a lot of defensive facilities on the way...
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>You don't have to worry about that. The Commander have arranged for very dependable backup for us.</color>
 ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>55</BIN>:
-()||<BGM>BGM_Reverse</BGM>:……塔林市郊。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:喔？+刚才收到了追加需求，目标是摧毁塔林发电厂，坐标我已经通过云图上传了。
-G11(2)<Speaker>G11</Speaker>||:什么？才刚坐下来休息没多久，我以为可以继续睡觉的说……
-HK416Mod(0)<Speaker>HK416</Speaker>||:还以为你要袖手旁观看她们全军覆没呢。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:她们能自己处理的威胁，就不需要我们出手。我们是保险丝，没有必要急着把自己绷断。+9，炸药都准备好了吗？
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:没问题，从列车起飞的无人机，5分钟后会过来空投带有炸药的补给箱。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:完美。到发电厂的路上预估会遭遇到些许防卫设施抵抗，你们都很清楚应该怎么做。+这可是额外赚的份，大家都打起精神来吧。
+()||<BGM>BGM_Reverse</BGM>:...On the outskirts of Tallinn.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Oh? +We just received an additional request. Our objective is to destroy the power plant in Tallinn. I've just uploaded the coordinates.
+G11(2)<Speaker>Gr G11</Speaker>||:What? We literally just sat down! I thought I could at least take a nap...
+HK416Mod(0)<Speaker>416</Speaker>||:And here I thought you were just going to stand by and watch them get wiped out.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:We don't have to get involved in situations that they can handle on their own. We're the safety fuse - there's no point in pulling ourselves taut so soon. +9, are the explosives ready?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ja. The drones deployed from the train will airdrop supply crates armed with explosives in five minutes.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Perfect. We will most probably run into some resistance put up by the defensive mechanisms. I'm sure you all know the drill. +This is the part where we get to earn our bonus, so perk up.
 ()||<黑屏1>:

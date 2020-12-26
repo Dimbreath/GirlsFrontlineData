@@ -1,57 +1,57 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>55</BIN>:……塔林市郊，某处废弃楼房顶层。
-()<Speaker>？？？</Speaker>||:45姐，她们开始行动了。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:都在城外磨磨蹭蹭了那么久，也该是时候啦。
-UMP45Mod(0)<Speaker>？？？</Speaker>||:我们不立刻跟上吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:没有必要，给我们的任务内容是“为格里芬提供电子支援”，不是冲锋陷阵。+况且……
-()||:UMP45转头望向身后，面对着404小队的队员们。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_stage1</BGM>:有了焕然一新的素体，感想如何？希望你们已经适应了。
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><Shake>||:虽然感觉挺不错的，但我比较想要跟45姐一样的帅气手臂！
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:好啊。你想要的话，我现在就把你一条胳臂扯下来，把我这条装给你。
-UMP45Mod(0);UMP9Mod(5)<Speaker>UMP9</Speaker>||:啊哈哈，这个就有点……
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(5)||:如果你说想要一条可以发射火箭飞拳的手臂，我或许还会考虑看看。
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:说真的，我倒不觉得升级后有哪里不同。
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:这说明你的心智老旧到跟不上新机型了，早日格式化重安装吧。
-HK416Mod(0)<Speaker>HK416</Speaker>||:我的心智都算老旧的话，那你的就只够去配装微波炉了。
-G11(0)<Speaker>G11</Speaker>||:真好啊，我也想试试看新的身体……+如果能顺便添购静电耳机、按摩腰带、电热背心就能睡得更……我是说战力加倍。
-UMP45Mod(0)<Speaker>UMP45</Speaker>;G11(0)||:真抱歉，404小队已经没有多余的预算给老是怠工，而且随时可以抛弃的懒惰虫队员了。
-G11(2)<Speaker>G11</Speaker><Shake>||:怎么这样……我每次任务也都是有跟着出来的吧？没有功劳也有苦劳呢？
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:任务途中睡着的时间可是算旷工哦，扣掉旷工的双倍工资后，恐怕就不是那么回事啦♪+说不定你还得倒贴我们钱呢~
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:哦，我喜欢，不愧是9。+虽然你提出这么恶毒的构想，但从今天起这就是我的点子了。
-UMP9Mod(3)<Speaker>UMP9</Speaker>||:乐意之至，45姐～
-G11(3)<Speaker>G11</Speaker><Shake>||:你们两个是魔鬼吗……
-HK416Mod(0)<Speaker>HK416</Speaker>||:……原来我们出任务，都是按时计酬的？那麻烦把我的加班工资一次性补给我行不行？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:好了别再贫嘴了。+这次可是被德尔那小子坑了一大笔，不只是你们俩的改造，连我上次的维修费用也都全款付清了。+说真的，这次的委托真是够抠门的，就算拿到了全款都不够付给你们升级的账单。
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:但你还是接下了这份委托。其实是不想欠指挥官人情？还是说又是你个人的目的？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:哼，既然格里芬和我们目的相同，又愿意出钱，当然是最理想的客户了。+况且，安洁失联了，帕斯卡亲自来联系我，情况不太对劲。
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Empty</BGM>:如果按照帕斯卡说的，只是要保护AR小队，不需要大费周章升级，我原本的性能就足以胜任。
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:真是如此吗？你这迟钝如常的小蠢蛋。+我开始觉得，花钱让你升级实在是无谓的投资了。
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:……难道说，我们的任务其实并不是保护她们？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<BGM>BGM_Room</BGM>:我们也许是整个业界最出色的“狐狸”，但雇佣狐狸去保护“狮子”也未免太匪夷所思了。+这一次，我们真正要做的是“监视AR小队的行踪和通信”。
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:莫非是……就像之前安洁要我们监视M4的异常状况……
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:记得不错，9。帕斯卡似乎也发现了同样的情况，所以才找上我们。+而格里芬的指挥官在下达任务时虽然没有明说，但对我来说目的实在太明显了。
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:不过，无人机回报的画面看来，M4小姐看起来并没有什么异状啊？+跟队员们交流频繁、表情开朗、动作也很活跃……
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:单凭外在的模样去判断是没有用的。面对如今的M4，必须同她的心智建立连接才能察觉到动静。+都过了那么久，她其实应该已经习惯……或者说，变得更擅长掩饰“另一个自己”的存在了。
-G11(2)<Speaker>G11</Speaker>||:另一个自己？精神分裂？人形也会得精神病吗……
-UMP9Mod(6)<Speaker>UMP9</Speaker>||:这么说，M4还在跟铁血主脑作交易？和那时在和军方交战时一样？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:不，状况其实有点复杂。+我能感觉到两个齐纳协议以外的信号，一个坐标与M4重叠，就是“另一个M4”。+而另一个……
-()||:UMP45的眼神转向远方，那处已经成为废墟的无人死城。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:……有个来自塔林市中心的信号，不断在尝试和任何可以链接的端口强行连接。
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:从那么远的距离进行侵入？！可是我完全没感觉到有信号？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:那是一种特殊的信号……
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:看样子，塔林并不是只有废墟跟瓦砾而已呢。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:当然，不过……呃！
-()<Speaker>UMP45</Speaker>||<BIN>9</BIN><黑屏1>:（这种熟悉的……光是想要存取浏览纪录就好像要融化的灼烧感……）
-()<Speaker>UMP45</Speaker>||<黑屏2><BIN>67</BIN><黑屏1>:（真令人不快，感觉就像那时候一样……）
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Brain</BGM><黑屏2><BIN>55</BIN>:45姐，45姐？你还好吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:我没事，只是一不小心和那个信号触碰了一下。
-UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:和那个信号连接那么危险吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:我们什么时候执行过不危险的任务了。+如同你们所见，这次我会将大量的心智运算机能用于寻找信号和监视端口上……+……所以才对你们进行了升级。除了给原本的电子战模块增强机能外，也加装了更为强大，能够临时接替我指挥的运算组件。
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:原来如此，我已经彻底明白了。拖油瓶从一个变成两个了，如果是这样，原本的素体确实难以应付呢。
-G11(3);HK416Mod(0)||:嗯？？？
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:总之，这次我们要面对的敌人，恐怕也会发动你们难以想象的心智层面上的攻击。+接下来进入塔林前，所有人的心智防壁都要提早警戒，准备好防御程序。
-UMP45Mod(0);UMP9Mod(3)<Speaker>UMP9</Speaker>||:45姐，如果有需要的话，我也可以帮你运算减轻负荷……
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:有这样的心意，我就很满足了，9。+不过到了关键时刻，能开枪的人手多一个是一个，可别忘记本份。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:出发，跟AR小队保持距离，目标塔林市。
+()||<黑屏2><BIN>55</BIN>:On the outskirts of Tallinn, on the roof of an abandoned building.
+()<Speaker>???</Speaker>||:45, they're on the move.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, it's about time. They've been twiddling their thumbs outside the city for too long.
+UMP45Mod(0)<Speaker>???</Speaker>||:Shouldn't we catch up with them right away?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:There's no need for that. The mission we were given was "provide electronic support for Griffin", not charge into battle.+Besides...
+()||:UMP45 looks back at the members of Squad 404.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_stage1</BGM>:How do your brand-new bodies feel? I hope you've all gotten used to them.
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><Shake>||:It feels pretty good, but I'd prefer a cool arm like yours, 45!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Sure. If that's what you want, then I'll rip one of your arms off right now and give you mine.
+UMP45Mod(0);UMP9Mod(5)<Speaker>UMP9</Speaker>||:Ahaha, that's a little...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(5)||:Now, if you said you wanted an arm that could do a rocket punch, I could consider that.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:To tell you the truth, I don't feel any different from before I was upgraded.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:That just proves your neural cloud is so old that it can't keep up with the new models. Go get it formatted and put a new one in.
+HK416Mod(0)<Speaker>416</Speaker>||:If my neural cloud is old, then yours is only fit for being put into a microwave.
+G11(0)<Speaker>Gr G11</Speaker>||:That sounds nice, I'd like to try a new body myself... +If you could add a pair of noise-canceling headphones, a massage belt and a heated vest, I'd be able to sleep... I mean fight better.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;G11(0)||:I'm sorry, but Squad 404 doesn't have enough money left in the budget to spare for a lazybones who always slacks off and who is eminently disposable.
+G11(2)<Speaker>Gr G11</Speaker><Shake>||:No way... I follow you on every job, don't I? At least give me credit for all the suffering I've gone through!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Sleeping during missions is a form of AWOL, you know? After deducting double wages for it, things aren't quite as simple as that. ♪ +Who knows, you might end up owing us money instead~
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Oh, I like that. That's 9 for you. +While that evil idea was yours, I'll be claiming it as mine from now on.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:Happy to help, 45~
+G11(3)<Speaker>Gr G11</Speaker><Shake>||:Are the two of you actual devils...
+HK416Mod(0)<Speaker>416</Speaker>||:...So we're paid on an hourly rate when we're on missions? Then could I get my overtime wages in one lump sum?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Right, enough chatter. +Dier soaked us for a ton this time round, not just for your modifications, but also the bill for my maintenance last time. +To be frank, the pay for this job is really stingy. It wouldn't be enough to pay for your upgrades even if we got the full amount.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:But you still took the job on anyway. Is it because you don't want to owe the Commander a favor? Or do you have some kind of personal aim?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Humph. Griffin's goals and my goals coincide. With that and the fact that they're willing to pay, it makes them the ideal clients. +In any case, we've lost contact with Ange, and Persica got in touch with us in person, so something isn't quite right here.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:If this job was really as simple as just protecting the AR Team as Persica had said, then you wouldn't have needed to spend so much money to upgrade me. I could have handled it with my original specs.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Do you really think so? You're as thick as ever, my little Dummkopf. +I'm starting to feel that upgrading you was a wasted investment.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:...Are you telling me that we're not actually here to protect them?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<BGM>BGM_Room</BGM>:We might be the most outstanding "foxes" in the business, but it would be ridiculous to hire foxes to protect "lions". +This time, our REAL job is to "monitor the AR Team's movements and communications."
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Could it be...something like how Ange wanted us to keep an eye on M4's strange condition last time...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Right on target, 9. Persica noticed something too, which was why she came to us. +While Griffin's Commander didn't say as much whilst handing down this mission, it was more or less obvious enough to me.
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Still, there doesn't seem to be anything strange about M4 in the video the drone's showing us, is there? +She talks to her teammates frequently, looks pretty cheerful, and her movements are all very animated...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:You can't tell anything just from her external appearance. When it comes to M4 as she is now, we need to form a connection to her neural cloud to see if anything's up. +After so long, she should be used to...or rather, she should have become better at hiding the existence of "her other self".
+G11(2)<Speaker>Gr G11</Speaker>||:Her other self? Do you mean something like a split personality? Do Dolls get mentally ill too...?
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:So you're saying that M4 is still dealing with the S.F. Mastermind? Like when we were fighting the Military?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:No, the situation's a bit more complicated than that. +I can sense two signals that aren't based on the Zener Protocol; one of them occupies the same location as M4. That would be "the other M4". +As for the other one...
+()||:UMP45's gaze drifts off into the distance and settles on the abandoned city of death that is nothing but ruins.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...There's another signal coming from the heart of Tallinn. It keeps trying to force a connection with any port it can find.
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:You mean it can perform a hack from so far away?! But I don't sense any signals at all!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:It's a special kind of signal...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Looks like Tallinn isn't just ruins and rubble after all.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:Of course. However...erk!
+()<Speaker>UMP45</Speaker>||<BIN>9</BIN><黑屏1>:(I remember this burning sensation... Just accessing the records makes me feel like I was melting...)
+()<Speaker>UMP45</Speaker>||<黑屏2><BIN>67</BIN><黑屏1>:(I hate it. It feels just like that time...)
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Brain</BGM><黑屏2><BIN>55</BIN>:45? 45? Are you alright?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:I'm fine. I just accidentally made contact with that signal.
+UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:Is connecting to that signal dangerous?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:Since when have we taken missions that weren't dangerous? +As you can see, I'm going to be spending a great deal of neural cloud processing power on monitoring my ports and finding the signal... +...Which is why I upgraded you lot. Not only was it to enhance the capabilities of your existing EW modules, it also gave you more powerful command processors, enough to temporarily take over from me in case of an emergency.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:I see. I get it now. We're going from one millstone around our necks to two. In that case, my original body would have had a hard time handling that.
+G11(3);HK416Mod(0)<Speaker>G11</Speaker>||:Hmm?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:In any case, the enemy we're facing this time round will probably be capable of neural cloud attacks beyond your wildest imagination. +All of us will need to be mindful of our neural cloud firewalls before we enter Tallinn and prepare our defensive protocols.
+UMP45Mod(0);UMP9Mod(3)<Speaker>UMP9</Speaker>||:45, if need be, I can help share the load with you.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I appreciate the thought, 9. +But when the time comes, we'll need every gun we can get. Don't forget that.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Let's go. Our objective is Tallinn City. Keep your distance from the AR Team.
 ()||<黑屏2><BIN>9</BIN>:
-()<Speaker>UMP45</Speaker>||<黑屏1>:（报酬并不重要……）+（只要能接近那一天的真相，就足够了。）
+()<Speaker>UMP45</Speaker>||<黑屏1>:(The payment doesn't really matter...) +(Getting closer to the truth of what happened that day is enough.)

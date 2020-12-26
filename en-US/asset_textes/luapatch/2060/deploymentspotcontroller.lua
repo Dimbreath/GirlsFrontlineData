@@ -28,6 +28,11 @@ local UpdateColor = function(self,targetBelong,play)
 			self.effect.gameObject:SetActive(not self.CannotSee);
 		end	
 	end
+	if self:HasFriendlyTeam() then
+		self.gameObject:SetActive(true);
+	else
+		self.gameObject:SetActive(not self.CannotSee);
+	end
 	--self:CheckBuild();
 end
 
@@ -60,9 +65,44 @@ local currentmaplistRoute = function(self)
 	end
 	return self.maproute;
 end
+
+function ShowObj(self)
+	local showobj = "";
+	local data = self.winTypeid_targetObj:GetEnumerator();
+	while data:MoveNext() do		
+		local teamData = data.Current.Value;
+		teamData:SetActive(false);
+		showobj = teamData.name;
+		--if showobj == nil then
+		--	showobj = teamData;
+		--	print("激活"..self.gameObject.name.."/"..teamData.name)
+			--teamData:SetActive(true);
+		--end
+	end
+	if showobj ~= "" then
+		self.transform:Find(showobj).gameObject:SetActive(true);
+	end
+end
+local ShowWinTarget = function(self,winType,notarget,medal)
+	self:ShowWinTarget(winType,notarget,medal);
+	ShowObj(self);
+end
+
+local CloseWinTarget = function(self,winType)
+	if self.winTypeid_targetObj:ContainsKey(winType) then
+		if self.winTypeid_targetObj[winType] ~= nil and self.winTypeid_targetObj[winType]:isNull() then
+			CS.UnityEngine.Object.Destroy(self.winTypeid_targetObj[winType]);
+		end
+		self.winTypeid_targetObj:Remove(winType);
+	end
+	ShowObj(self);
+end
+
 util.hotfix_ex(CS.DeploymentSpotController,'ShowCommonEffect',ShowCommonEffect)
 util.hotfix_ex(CS.DeploymentSpotController,'UpdateColor',UpdateColor)
 util.hotfix_ex(CS.DeploymentSpotController,'CheckPathLine',CheckPathLine)
 util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)
 util.hotfix_ex(CS.DeploymentSpotController,'CheckBuild',CheckBuild)
 util.hotfix_ex(CS.DeploymentSpotController,'get_currentmaplistRoute',currentmaplistRoute)
+util.hotfix_ex(CS.DeploymentSpotController,'ShowWinTarget',ShowWinTarget)
+util.hotfix_ex(CS.DeploymentSpotController,'CloseWinTarget',CloseWinTarget)

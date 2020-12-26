@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2>:……
-()||:<color=#00CCFF>开始播放录音。</color>
-()||:【愉悦。今天的心情真是愉悦。】
-()||:【为什么要我们停下来？】
-()||:【为什么？还不是因为你们这些废物什么事都做不好？】
-()||:【格里芬就在前面，我们再不继续前进，会和前面的自律部队拉开太大的差距。】
-()||:【我原本以为能把那些格里芬废物直接溺死在我的网络中，不过看来帕斯卡制作了足够有趣的东西，那个时候埋下的种子今天终于开花结果了。】
-()||:【格里芬会由我们亲手剿灭，不需要你插手做多余的事。】
-()||:【哈哈哈哈。】
-()||:【你笑什么……】
-()||:【你不过是个低级军官，要是平时我一定会让你好好意识到对我的尊敬有多么重要。】+【不过现在我心情很好，所以这次就姑且饶过你了……你就在心里默默感激我的大恩大德吧。】
-()||:【啧……】
-()||<黑屏1>:【既然我已经获得了我想要的，那你就尽情地去杀戮吧！把那个塔林夷为平地，将我们的仇敌送进火狱炙烤！】+【去吧，不要让我再次失望了！嘿嘿嘿，真是令人期待的杀戮盛宴啊！】
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>202</BIN>:列车中。
-NPC-Kalin(8)<Speaker>格琳</Speaker>||<BGM>BGM_Brain</BGM>:这段语音甚至没有加密！这是给我们的警告！我记得那个声音……
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:麻烦的客人终于来了吗……+让所有还能联系得上的梯队都动起来，在M4找到隔离墙的权限之前，我们必须死守住我们的列车！
-NPC-Kalin(4)<Speaker>格琳</Speaker>||:可是大部分梯队都没有反应……嗯，这个通讯是？
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>抱歉……指挥官，我回复晚了，这里已经都解决了。</color>+<color=#00CCFF>我已经找到打开隔离墙大门的方法了，但是还需要点时间。</color>
-指挥官()||:军方追上来了，我们需要重新部署我们的防线。
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>明白了。AR小队正带着其他梯队赶回去，请您坚持住！</color>
-NPC-Kalin(3)<Speaker>格琳</Speaker>||:是我的错觉吗？M4似乎和以前的感觉不一样了……
-()<Speaker>指挥官</Speaker>||<黑屏1>:她一定经历了什么，等我们扛过这个夜晚，再好好跟她聊一聊吧。
+()||<黑屏2>:...
+()||:<color=#00CCFF>The audio recording starts playing.</color>
+()||:【Oh, joy. I'm in such a joyful mood today.】
+()||:【Why have we stopped?】
+()||:【Why? Because you bunch of imbeciles can't do anything right, isn't that obvious?】
+()||:【Griffin is right ahead. If we don't press on, we'll be too far behind from the autonomous forces ahead.】
+()||:【I'd thought those Griffin tin cans would just drown in my network, but looks like Persica has made something interesting. The seed sown back then finally bears fruit today.】
+()||:【We will destroy Griffin with our own hands. You can mind your own business.】
+()||:【Hahahaha.】
+()||:【What's so funny...】
+()||:【You're just a low-ranking officer. Normally I would've properly reminded you the importance of being respectful to me.】+【But since I'm in such a good mood, I'll let that slide just this once... You'd better be grateful for my generosity.】
+()||:【Tsk...】
+()||<黑屏1>:【Since I already have what I want, go forth and kill to your heart's content! Raze Tallinn to the ground and let our enemies burn in hell!】+【Go, and don't disappoint me again! Hehehe, I look forward to a glorious bloodbath!】
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>202</BIN>:On the train.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<BGM>BGM_Brain</BGM>:This recording isn't even encrypted! It's a warning for us! I remember that voice...
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:The troublesome guest is finally here... +Mobilize all the echelons that we're still in contact with. We must defend our train with our lives before M4 gets the authorizations of the quarantine wall!
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:But most of our echelons aren't responding... Hmm, what's this incoming transmission?
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sorry... I should've got in touch earlier. We're fine here.</color>+<color=#00CCFF>I've already figured out a way to open the quarantine wall, but we still need some time.</color>
+Commander()||:The Military is catching up to us. We have to set up our defenses again.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Understood. The AR Team will be leading the other echelons back to the train. Please hold on until then!</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Is it my imagination, or has M4 changed...?
+()<Speaker>Commander</Speaker>||<黑屏1>:She must've been through something. Let's make it through the night and talk to her about it.

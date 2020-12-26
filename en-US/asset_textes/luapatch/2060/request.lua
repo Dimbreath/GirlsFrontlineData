@@ -26,6 +26,12 @@ local _ResolutionSuccessHandleData = function(self,www)
 	end
 	self:SuccessHandleData(www);
 end
+
+local _RequestFriendListSuccessHandleData = function(self,www)
+	self:SuccessHandleData(www);
+	CS.FriendMessageUtility.LoadAllMessages();
+end
 util.hotfix_ex(CS.RequestRetireSangvis,'SuccessHandleData',_RetireSangvisSuccessHandleData)
 util.hotfix_ex(CS.RequestAddSangvisResolution,'SuccessHandleData',_ResolutionSuccessHandleData)
+util.hotfix_ex(CS.RequestFriendList,'SuccessHandleData',_RequestFriendListSuccessHandleData)
 

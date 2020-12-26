@@ -1,59 +1,59 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker>HK416</Speaker>||<BGM>BGM_Room</BGM><黑屏2>:呃……唔……
-()<Speaker>？？？</Speaker>||<黑屏1>:哦？你终于醒啦。
+()<Speaker>416</Speaker>||<BGM>BGM_Room</BGM><黑屏2>:(Groans)
+()<Speaker>???</Speaker>||<黑屏1>:Oh? You're finally awake.
 ()||<睁眼><BIN>70</BIN>:
-()<Speaker>HK416</Speaker>||:头好晕……德尔，你这机器怎么搞的？这样真的没问题吗？
-NPC-Deele(0)<Speaker>德尔</Speaker>||:真没想到，你的心智扫描花了G11将近两倍时间才完成，中间我都等不耐烦先睡了一觉。
-NPC-Deele(0)<Speaker>HK416</Speaker>||:我跟G11那个头脑简单的蠢呼呼懒虫可不一样，要记住的事情太多了。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:真的吗？但扫描完之后，我倒是发现你的心智多余空间大到可以塞得下一堆东西呢。
-NPC-Deele(0)<Speaker>HK416</Speaker>||:你这是在趁机找材料挖苦我？
-NPC-Deele(0)<Speaker>德尔</Speaker>||:没有没有，绝对没有那样的意思。+剩余空间多很好啊，跟UMP45那种光是运算就很吃紧的情况不同，扫描后我才发现，当初IOP预留了很多空间让格里芬给你做升级呢。+增强型榴弹发射器模块、电子战多线程计算更新、最新式的心智攻防两用防壁程序……
-NPC-Deele(0)<Speaker>德尔</Speaker>||:想着反正你还在睡，我就把手头上有的东西全部安装进去，居然都塞不满。
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Empty</BGM>:……德尔。我身上的衣服什么时候换的？
-NPC-Deele(0)<Speaker>德尔</Speaker>||:唉？就在刚才你醒来以前啊，为什么突然问这个？
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-()||<SE1>AVG_weapon_reload</SE1>:HK416端起枪瞄准了德尔。
-NPC-Deele(0)<Speaker>德尔</Speaker><Shake>||<BGM>BGM_Hello</BGM>:啊啊啊啊你误会了！我没有做任何失礼的事情！+再说这件新衣服不是我的主意，是希尔那家伙的点子啊！
-HK416Mod(0)<Speaker>HK416</Speaker>||:希尔……？那家伙？为什么？
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:之前希尔路过正在心智扫描中的你，观望了下，然后她说“淑女应该穿着与自己的状态相匹配的服装”……+于是她就跑去设计了一件新衣服，用3D缝纫机做出来帮你换上了。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:……我原本不是很能理解，德尔跟希尔这种性格看上去南辕北辙的组合为什么能凑在一起开设工作室。+但现在看起来，在各式各样的奇怪兴趣方面，你们还真是亲姐弟啊。
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:你理解就好……真是，我好心给你做了一堆新功能，但却连个感谢也没有。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:反正你需要的也不是口头感谢，而是实实在在的酬劳吧。
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:唉，只是要钱的话，我手边还排着一大堆送修人形的生意可做呢。+本来就算只是普通的心智扫描，我都可以向人收一大笔检查费用的，这种设备可不是到处都有。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:那么G11呢？你说她比我更早做完心智检测……
-NPC-Deele(0)<Speaker>德尔</Speaker>||:嗯？对啊，检查后没什么恶化，一切正常，但是心智中坏轨和永久损伤的部分也不少。+因为没什么安装更多新功能的余裕，我做了点小检修后就送她到游戏室去了。
-()||:德尔比了比旁边，可以看到维修桌旁的监控摄像镜头里，G11正捧着手柄，和女仆人形进行着电玩对战。
-G11(0)<Speaker>G11</Speaker><通讯框>||:啊，啊，啊！赢啦－－！女仆小姐，看不出来你也很擅长“假面快打”呢！
-G11(0)<通讯框>;G11story(1)<Speaker>女仆人形</Speaker><通讯框>||:因为德尔少爷大部分的时间都很忙，所以我平常也只能自己玩游戏……
-G11(0)<Speaker>G11</Speaker><通讯框>;G11story(1)<通讯框>||:你还会玩什么？“黑暗寿尸2”重制版玩过吗？来Co-op模式怎么样？
-G11(0)<通讯框>;G11story(1)<Speaker>女仆人形</Speaker><通讯框>||:……乐意之至。难度就调到“人间地狱”如何？
-G11(0)<Speaker>G11</Speaker><通讯框>||:好耶，看样子我们一定能成为好朋友！
-NPC-Deele(0)<Speaker>德尔</Speaker>||<BGM>BGM_Empty</BGM>:怎么样，要叫她过来吗？还是带你去找她？
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Moon</BGM>:……不必了，现在这样很好。+这样就好。
-()||:HK416专注地直盯着监控荧幕上的G11，看着她开心地玩着，笑着。+渐渐地，HK416原本深锁的眉头也逐渐放缓，嘴角微微上扬起来。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:看到你这样……我就会想起当初我们刚认识的时候。你啊，真的很宠G11呢。
-HK416Mod(0)<Speaker>HK416</Speaker>||:你不是也很喜欢她吗？连女仆都要用和她一样的型号？
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:……咳。我只是为我第一个改造过的人形留个纪念罢了。+按照我和你们之前的约定，这件事……
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:不会有这个房间之外的人知道，放心吧。
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:那就好。+话说回来——当初你们来找我的时候我还挺惊讶的，没想到一个人形能为另一个素不相识的人形做到这个地步。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:那都是很久以前的事了吧，而且现在她是战术人形，也该自己为自己擦屁股了。+而且要不是UMP45那家伙的阴谋诡计，我也不必为G11干那么多回白工还债。
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:……欸，她没跟你说吗？
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:跟我说什么？
-HK416Mod(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:我一直以为你已经知道了，在你带着G11来我工作室的那天，UMP45就已经打款给我订购两个火控核心……再加上修理G11的费用。+当然她没付足，据我所知那应该是她的全部积蓄，不过我让她把尾款先赊着了。+唉，早知道不该开赊账的先例，现在她各种花式赊帐我都还不好意思拒绝。
-HK416Mod(0)<Speaker>HK416</Speaker>||:你是说那家伙……从一开始就打算要帮G11……？
-NPC-Deele(0)<Speaker>德尔</Speaker>||:天晓得，至少从她的行动上我觉得她就是这么考虑的。+老实说吧－－虽然你可能很难相信那个45会无偿帮助你，但那家伙很早就跟我说过很中意你，也许是因为在来到这座城市前，你们就在同一个团队中合作过？
-HK416Mod(0)<Speaker>HK416</Speaker>||:如果是我的话，这个缘故足以让我有足够的理由杀了她而不是帮助她。+不过，算了……如果是以前的我，肯定会觉得你被45威胁了才说出这种话来。+但是现在的我，多少能够理解她的作风了。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:是吧？没事记得多做心智扫描，可以有效整理情绪跟记忆，对人形心理健康很有帮助哦。+要是UMP45也愿意抽空来做心智扫描，那她的阴阳怪气态度说不定就能得到有效缓解……
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:哦？德尔？原来你平时一直觉得我是阴阳怪气的吗？
-NPC-Deele(0)<Speaker>德尔</Speaker><Shake>||:啊……！
-()||:对于突然出现在身边的UMP45，德尔急忙退开了几步保持安全距离。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_hope</BGM>:416，睡了一觉感觉如何？
-HK416Mod(0)<Speaker>HK416</Speaker>||:跟以前没什么不同，睁开眼睛就得看到讨人厌的脸。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:那很好，我们得收拾一下装备去赶着搭火车了。
-HK416Mod(0)<Speaker>HK416</Speaker>||:搭火车吗……我原本以为，你跟我只是暂时搭上同一班车而已。
-()||:听到这番话，UMP45愣了一下，随即耸了耸肩。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:你想提早下车吗？+我无所谓，但你最好自己跟大家说一声，毕竟我不想帮你代为转达任何话。
-HK416Mod(0)<Speaker>HK416</Speaker>||:不，我只是坐过站了。看样子，我还得跟你坐上一大圈等这班车绕回来呢。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:真是蠢到家了，但这很像是你会干出来的事。+走吧，得叫醒9，还要把G11从游戏室里拖出来呢。
-()||<黑屏1>:UMP45用她的右手拍了拍HK416的肩膀－－而HK416也哼了一声，跟着UMP45的脚步走去。
-()<Speaker>HK416</Speaker>||<黑屏1><BIN>9</BIN>:时至今日，我依然留着回归格里芬的愿望。+但自从那时没有选择登上撤离的班机起，我就做出了决定。+我会留在这里，作为404的一员和她们一同旅行下去，直到我们都找到那个属于自己的终点为止——
+()<Speaker>416</Speaker>||:I feel dizzy... Dier, what did your machine do to me? Is it really going to be alright?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:I didn't expect your neural cloud scan to take almost twice as long as Gr G11's. I couldn't be bothered to wait in the meantime so I took a nap.
+NPC-Deele(0)<Speaker>416</Speaker>||:I'm not a simple-minded sleepyhead like Gr G11. I've got too many things to remember.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Really? Still, after the scan, I found that you had enough space in your neural cloud for me to stuff a whole pile of things in there.
+NPC-Deele(0)<Speaker>416</Speaker>||:Are you making fun of me?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:No, no, I'd never do that. +I'm saying you've got a lot of space left in there. It's not like UMP45's case, where she had trouble just doing normal processing. I found out after the scan that I.O.P. left a lot of space open for Griffin to upgrade you. +An enhanced grenade launcher module, a multi-thread processor upgrade for electronic warfare, the latest model of dual-purpose neural cloud attack barrier...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:I figured that I should just jam everything I had on hand into you since you were sleeping, but I still couldn't max you out.
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:...Dier. When were my clothes changed?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Huh? It was just before you woke up. Why do you ask?
+HK416Mod(0)<Speaker>416</Speaker>||:...
+()||<SE1>AVG_weapon_reload</SE1>:416 raises her gun and takes aim at Dier.
+NPC-Deele(0)<Speaker>Dier</Speaker><Shake>||<BGM>BGM_Hello</BGM>:Ahhhhhhh no-no-no you've gotten it all wrong! I didn't do anything rude to you! +Besides, it wasn't my idea to change your clothes! Sier came up with it!
+HK416Mod(0)<Speaker>416</Speaker>||:Sier...? She did? Why?
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Sier passed by just now and saw you during your neural cloud scan. She looked in on you and said, "A lady ought to be dressed in something that befits her status..." +So she went and designed a new outfit for you, made it with a 3D sewing machine, and changed you into it.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:...At first, I didn't understand why a pair like you and Sier, who couldn't be more different from each other, could team up to set up a workshop. +But now it seems that the two of you really are brother and sister, in all kinds of strange and interesting ways.
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:I'm glad you understand... Honestly, I gave you a whole bunch of upgrades out of the kindness of my heart and I don't even get a word of thanks in return.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:It's not like you need verbal thanks anyway. What you're after is real, actual payment.
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:(Sighs) If it's just money, I've got a lot of Doll-fixing jobs lined up for me. +In the first place, I could have charged a hefty sum just for conducting an ordinary neural cloud scan. Facilities like this don't exactly grow on trees.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Then what about Gr G11? You said her neural cloud diagnostics finished before mine...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Hm? Oh yeah, the diagnostic revealed that she hasn't gotten worse or anything. Everything's normal, but there's quite a few bad sectors and permanent damage in her neural cloud.+Since I didn't have the luxury of giving her more upgrades, I sent her off to the game room after making a few small repairs.
+()||:Dier gestures to the side, at a security camera monitor display which shows Gr G11 holding a controller and playing a video game against a maid Doll.
+G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Ah, ah, ah! I win! Fräulein Maid, I'm surprised by how good you are at Kamen Fighter!
+G11(0)<通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><通讯框>||:Master Dier is busy most of the time, so I usually only get to play games by myself...
+G11(0)<Speaker>Gr G11</Speaker><通讯框>;G11story(1)<通讯框>||:What else do you know? Have you ever played the remake of Dark Zombies 2? How about trying it in co-op mode?
+G11(0)<通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><通讯框>||:...I would be happy to. Shall we set the difficulty to Hell Mode?
+G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Sounds great! Looks like we're going to be good friends!
+NPC-Deele(0)<Speaker>Dier</Speaker>||<BGM>BGM_Empty</BGM>:Well? Want me to call her over? Or should I take you to her?
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Moon</BGM>:...No need for that. Things are fine as they are now. +This is just fine.
+()||:416 gazes at Gr G11's image on the screen and watches as the latter laughs heartily while having fun. +Slowly, 416's deeply furrowed brows start to relax, and the corners of her mouth turn up slightly.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Seeing you like this...reminds me of the first time we met. You really do dote on Gr G11.
+HK416Mod(0)<Speaker>416</Speaker>||:You like her very much too, don't you? Even your maids are the same model as her.
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:...Ahem. It's just a memento of the first Doll I modified. +So, as per our arrangement, all this...
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:It won't leave this room. Don't worry.
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:That's good. +Speaking of which, I was actually quite surprised when you came to find me. I didn't think a Doll would do this much for another Doll who was a complete stranger.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:That's all in the past. And besides, she's a Tactical Doll now. She can wipe her own ass. +Plus, if it wasn't for UMP45's schemes, I wouldn't need to do so much work to pay her back for Gr G11's sake.
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:...Huh. Didn't she tell you?
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Tell me what?
+HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:I thought you already knew... The day you brought Gr G11 to my workshop, UMP45 already paid me for two fire control cores...and Gr G11's repair bill. +Of course, that wasn't the full amount, though according to what I knew, that ought to have been all her savings, so I let her pay off the rest later. + (Sighs) If I'd known I shouldn't have set a precedent of extending her credit. Now I'm having a hard time saying no when she asks for it.
+HK416Mod(0)<Speaker>416</Speaker>||:So you're saying...she was going to help Gr G11 from the start...?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Who knows? At the very least, that's the impression I got from her. +I'll be honest; you might find it hard to believe that 45 would help you for nothing, but she told me that she'd had her eye on you from a long time ago. Could it be that the two of you were in the same unit before coming to this city?
+HK416Mod(0)<Speaker>416</Speaker>||:If it were up to me, it would be enough of a reason for me to kill her and not help her. +But...forget it. My old self would have thought 45 had twisted your arm to make you say this. +Right now, though, I think I understand her way of doing things, more or less.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Really? If there's nothing pressing, make sure you do more neural cloud scans. It's effective at helping you sort out your emotions and memories and does a great deal of good for a Doll's mental health. +If 45 were willing to take some time out to do a neural cloud scan too, then maybe we could do something about that snarky attitude of hers...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:Oh? So is that how you've thought of me all this while, Dier?
+NPC-Deele(0)<Speaker>Dier</Speaker><Shake>||:Ah...!
+()||:Dier shuffles a few feet away to maintain a safe distance from UMP45, who has suddenly appeared next to him.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_hope</BGM>:416, how do you feel after taking a nap?
+HK416Mod(0)<Speaker>416</Speaker>||:Not much different from before, and I still have to look at an annoying face when I open my eyes.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Very good. Then we need to sort our gear out before hurrying to catch our train.
+HK416Mod(0)<Speaker>416</Speaker>||:Catching a train, huh... I used to think that you and I were only going to share the same train for a while.
+()||:UMP45 pauses at that. Then she shrugs.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Do you want to get off early? +I'm fine with that. But you'd better tell everyone else first. After all, I don't want to be your errand girl.
+HK416Mod(0)<Speaker>416</Speaker>||:Nein, it seems I've missed my stop. Looks like I'll have to take this train all the way to the end of the line with you and wait for it to loop back.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:That sounds incredibly stupid, but it also sounds like something you would do. +Let's go. We need to wake 9 up and drag Gr G11 out of the game room.
+()||<黑屏1>:UMP45 pats 416 on the shoulder with her right hand. 416 replies with a "humph" before following 45 out of the room.
+()<Speaker>416</Speaker>||<黑屏1><BIN>9</BIN>:Even now, I still want to return to Griffin. +But I already made my choice when I chose not to take the evac chopper back then. +I will stay here, and continue traveling with Squad 404 as one of them, until we all find the destinations where we belong—

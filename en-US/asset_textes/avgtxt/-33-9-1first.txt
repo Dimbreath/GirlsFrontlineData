@@ -1,75 +1,75 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>55</BIN><BGM>BGM_Room</BGM>:与此同时，格里芬小队方向。
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:这里是侦查B小队，我们已经穿过杀伤区域前来协助作战。+供电中枢被破坏了，我们可以开始进入中心城区。+同时，这边检测到轻微的地震，也许防御系统的深度比我们预计的要深，有可能会遇到没被瘫痪的炮台。+刚才的干扰变得更加严重了，我们会提供齐纳中段通讯支持，尽可能保证通讯通畅。
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>;Kord(0)||:<color=#00CCFF>收到，请继续保持通讯并排除威胁。</color>+<color=#00CCFF>诸位，我们在这里分开，各自摧毁任务目标。</color>
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1>:（叹气）虽然早有准备，但还真是位冷漠的小姐……+应该没有给她留下什么坏印象吧。
-Kord(0)<Speaker></Speaker>||:滴……滴滴……+警报声响起。
-Kord(0)<Speaker>Kord</Speaker>||:哇——+没完没了呢，这些东西。+那么，做完了“信号塔”，我也该做回善后的本职啦。
-Kord(0)<Speaker></Speaker>||:面对着围过来的感染生物，她潇洒地打开了枪支保险。
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_weapon_reload</SE1><黑屏1>:感染的小朋友们，一个都别想过去。
-()<Speaker></Speaker>||<BIN>197</BIN><黑屏2><BGM>BGM_Empty</BGM>:一分三十秒后，塔林车站门前。
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:啊，总算是进……啊！+什么东西冲过来了？！
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:M4！我已经到门前了哦！+哦——RO也到了！
-RO635(5)<Speaker>RO635</Speaker><Shake>;M4 SOPMOD IIMod(0)||:什么叫我也到了，我可是第一个到的！
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:……算了，不计较这个。看起来通讯恢复正常了，多亏了其他梯队的努力。
-RO635(0)<Speaker>RO635</Speaker>||:M4A1，是我们先进去还是等你们汇合？
-M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>这边有些感染生物，等我们解决完过去。</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:那我要去帮忙！
-M4 SOPMOD IIMod(0);M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>原地待机就好，SOP2。</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:诶？这么好玩的机会……
-M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>原地待机就好。</color>
-RO635(0)<Speaker>RO635</Speaker>||:那就这样吧，AR15也快到了。+……怎么了，SOP2？表情怪怪的。
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4说她那边有感染生物要解决，但我没听见她开枪……+好奇怪。
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:也许离她还有一段距离吧，防御系统也只是刚解决掉而已。+不过，这个不是有指挥官指派的其他人形负责吗？
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:也许M4想去搭把手吧。+算了算了，AR15，我们去那边——
-RO635(0)<Speaker>RO635</Speaker>||<黑点1>:……+（不，这也太奇怪了。）+（M4她就像是，像是……比起指挥官给予的任务，她更像是出于自己的目的在追求什么。）+（……希望是我多心了。）
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<BIN>202</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>报告指挥官，AR小队到达塔林车站内。</color>+<color=#00CCFF>目标地暂未发现危险因素，辐射等级较低，我们正在扩大侦测范围。</color>
-M4A1Mod(0)<Speaker>SOP2的声音</Speaker>||:<color=#00CCFF>指挥官！没问题的，快过来吧！</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>……总之，请给予下一步指示。</color>+<color=#00CCFF>……</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>明白了，我们会调整轨道，引导列车入站。请您等待信号发出。</color>
-()<Speaker></Speaker>||<BIN>55</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:与此同时，巡逻中的格里芬小队。
-Kord(0)<Speaker>Kord</Speaker>||:刚刚又不小心弄得一片狼藉，真是没办法……+最近的压力是不是太大了？+除了战斗，也得找别的方法排解一下呢。
-Kord(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:……通讯接入。
-Kord(0)<Speaker>Kord</Speaker>||:嗯？新命令吗……+您好，指挥官。我是Kord，请说。+我明白了，我将和SSG3000的梯队汇合，一起进行探索控制中心的任务。+嗯？连续进行任务也没关系的。等到了休息的时候，您再……
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:……+喂？+您还听得到吗，指挥官？+奇怪，信号不好吗。
-Kord(0)<Speaker></Speaker>||<BIN>55</BIN><Night>:在Kord尝试重连时，她发现周围不知何时起雾了。
-Kord(0)<Speaker>Kord</Speaker>||<BGM>m_avg_labyrinth</BGM>:这边雾气真重。
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:呼叫SSG3000，听得到我的声音吗？+……+也接不通吗。
-Kord(0)<Speaker></Speaker>||:咔吧。+类似树枝折断的声音，在一片寂静里敲打上她的听觉系统。
-Kord(0)<Speaker>Kord</Speaker>||:“铁血工造”，还是“帕拉蒂斯”？
-()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:雾越来越浓。模糊的人影从雾中走近。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:……+你是……谁？+不是我的同类……你会是我的敌人吗？
-Kord(0)<Speaker>Kord</Speaker>||:（听着像是女性的声音。奇怪，为什么完全看不清……也探测不到她的信号。）+请不要再靠近了。无论你是谁，如果再不停下的话，我就会对你开枪。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:那就是……敌人吗？+杀掉我，做得到吗？+或者，你更想被我杀死？
-()<Speaker></Speaker>||:模糊的人影越来越近，Kord瞄准了对方的腿部，正要扣动扳机，却发现自己的手动弹不得。
-Kord(0)<Speaker>Kord</Speaker>||:……怎么回事？+这个声音，不是听觉模块收到的……+糟糕，我的心智云图被入侵了吗？！
-()<Speaker></Speaker>||<黑屏1><SE1>ClothingUp</SE1>:Kord维持着握枪的姿势，木然地倒下了。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:你不是能救我们的人……+在这里……好好睡吧。
-()<Speaker></Speaker>||<黑屏2><BIN>197</BIN><BGM>BGM_Empty</BGM>:……
-AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:M4！M4，听得到么？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:……+啊，我刚才走神了吗？抱歉。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:不要走神，“队长”。+指挥官要我们驻守在这里防御车站，其他人形梯队去寻找隔离墙的控制中心。
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:我知道。……刚才，好像感觉到了一些未知信号。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:未知信号？像是帕拉蒂斯那样的吗？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:我不知道，但我现在也能感觉到，数量正在增加。+……它们应该是朝着这边来了。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:什么什么！真正的敌人终于要出现了吗！
-M4 SOPMOD IIMod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:我不确定。RO，能扫描到附近有别的生物，或者机械吗？
-RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>……只有格里芬的信号啊。</color>+<color=#00CCFF>不过，刚才有点起雾了，信号也变得不太好。我也不太能确定，要不要出去侦查一下？</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:暂时不用，按原定命令执行就好。+……+等等，你刚才说什么，起雾了？
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>对呀，现在比刚才还重。感觉变得更浓了。</color>
-()<Speaker></Speaker>||:M4A1三步并作两步走到车站门前。+外面的世界清晰明朗，没有一点雾气存在。
-RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>果然有点起雾了。</color>
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:……+RO，听得清我说话吗？
-RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>还可以，音质有点受损。怎么回事，明明这么近的距离……</color>
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP2！听得清我在说什么吗？
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:<color=#00CCFF><size=50>M4！你在通讯频道发了什么给我啊，我听不太清！</size></color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:……AR15。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:我也没看到雾。
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:有非常高频度的链接在访问我们的心智接口，她们看到的雾气大概是强行连接带来的模拟干扰……
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:我已经完全关闭心智端口，所以没有受影响。
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Stand……alone……吗。+很奇怪，如果是攻击性入侵，现在我们所有人都已经瘫痪了才对。而对方仅仅让她们看到雾，这是想做什么……
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:会不会这并不是入侵，只是一种无序的……链接。
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:链接？
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:高频度的链接，让齐纳协议无法正常运作，进一步干扰了我们人形的心智运算。+人形会通过齐纳协议来通讯和共享信息，如果在协议中的大部分人形都看到了雾，那协议会对你的心智进行纠错，即使没有雾你也会看到。
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:那得多大的信息修改量才能做到这一点……
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<黑屏1>:我不想被别人改变，不管是伞病毒还是人形，所以我选择封闭了心智接口。+而你和她们不一样，你甚至可以容纳另一个“自己”……所以感知不到。+我们得尽早找到链接的源头，不然我们的队友就有大麻烦了。
+()||<黑屏2><BIN>55</BIN><BGM>BGM_Room</BGM>:Meanwhile, at the Griffin echelons' location.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:This is Recon Squad B. We have crossed the kill zone to assist you in battle. +The power supply hub has been destroyed, so we can now enter the city center. +Also, a minor earthquake has been detected over here. The defense system may extend much deeper than we thought. There is also a possibility of running into turrets that are still functional. +The interference has become more severe, so we'll provide comms support through the Zener Protocol and try to keep the channel clear.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>;Kord(0)||:<color=#00CCFF>Copy that. Please keep in touch and eliminate any threat you encounter.</color>+<color=#00CCFF>Everyone, we're splitting up here to destroy our respective targets.</color>
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1>:(Sighs) I was prepared for it, but she really is a cold one... +I hope I didn't offend her.
+Kord(0)<Speaker></Speaker>||:Beep...beep...beep... +The alarm sounds.
+Kord(0)<Speaker>Kord</Speaker>||:Whoa... +There's no end to these things. +Right, now that the signal tower is ready, I should get back to my cleanup duty.
+Kord(0)<Speaker></Speaker>||:Kord turns off the safety of her weapon coolly and confronts the ELIDs that are swarming towards her.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_weapon_reload</SE1><黑屏1>:Don't even think about it, infected children.
+()<Speaker></Speaker>||<BIN>197</BIN><黑屏2><BGM>BGM_Empty</BGM>:One minute and thirty seconds later, outside the entrance of Tallinn City Station.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Phew, I finally made... Oh! +What's that charging towards me?!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:M4, I got to the entrance! +Ohhhh, RO is also here!
+RO635(5)<Speaker>RO635</Speaker><Shake>;M4 SOPMOD IIMod(0)||:What do you mean I'm "also" here? I got here first!
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...Whatever, that's not important. Comms seem to have returned to normal thanks to the other echelons.
+RO635(0)<Speaker>RO635</Speaker>||:M4A1, should we head inside first or should we wait for you?
+M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>There are some ELIDs over here so we have to get rid of them first.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:I can come and help!
+M4 SOPMOD IIMod(0);M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Just stand by at your position, SOP-II.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:Huh? But I'll be missing out on the fun...
+M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Just stand by.</color>
+RO635(0)<Speaker>RO635</Speaker>||:We'll do that then. AR-15 should be here soon as well. +...What's wrong, SOP-II? You look weird.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4 said she had to take care of ELIDs, but I didn't hear her fire at all... +Strange.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Maybe they're still some distance away from her. The defense system was just taken out after all. +But didn't the Commander send other T-Dolls to deal with the ELIDs?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Perhaps M4 wants to help? +Anyway, tell AR-15, we'll be heading over there—
+RO635(0)<Speaker>RO635</Speaker>||<黑点1>:... +(No, that IS strange.) +(Instead of...trying to complete the mission that the Commander has assigned, M4 seems more focused on her own agenda.) +(...I hope I'm just being paranoid.)
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<BIN>202</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, the AR Team has arrived at Tallinn City Station.</color>+<color=#00CCFF>No dangers have been spotted at the location so far. Radiation levels are relatively low. We are going to widen our detection range.</color>
+M4A1Mod(0)<Speaker>M4 SOPMOD II's Voice</Speaker>||:<color=#00CCFF>Commander! Everything's fine, so come over here!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>...Anyway, please give us further instructions.</color>+<color=#00CCFF>...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>Understood. We will switch the tracks and guide the train into the station. Please await the signal.</color>
+()<Speaker></Speaker>||<BIN>55</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:Meanwhile, a Griffin echelon is on patrol.
+Kord(0)<Speaker>Kord</Speaker>||:I made a total mess without meaning to. I just couldn't help it... +Have I been under too much stress recently? +I should find some other ways to unwind outside of fighting.
+Kord(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:...An incoming transmission.
+Kord(0)<Speaker>Kord</Speaker>||:Hmm? New orders...? +Hello, Commander. This is Kord, please go ahead. +Acknowledged. I shall rendezvous with SSG 3000's echelon and we will explore the control center together. +Hmm? I have no problem with carrying out two missions back-to-back. When it's finally time for a break, you could...
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:... +Hello? +Are you still with me, Commander? +Strange. Is there a problem with the reception?
+Kord(0)<Speaker></Speaker>||<BIN>55</BIN><Night>:As Kord tries to re-establish the connection, she suddenly realizes that fog has suddenly appeared out of nowhere.
+Kord(0)<Speaker>Kord</Speaker>||<BGM>m_avg_labyrinth</BGM>:It's really foggy around here.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:Hailing SSG 3000, do you copy? +... +Can't get in touch with her either.
+Kord(0)<Speaker></Speaker>||:Crack. +What sounds like a branch being snapped breaks the silence and registers through Kord's auditory module.
+Kord(0)<Speaker>Kord</Speaker>||:Is this Sangvis Ferri or Paradeus?
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:The fog grows heavier. A blurry figure is coming towards her from within the haze.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:... +Who...are you? +You are not my kind... Are you a foe?
+Kord(0)<Speaker>Kord</Speaker>||:(That sounds like a girl. How odd, I can't see anything at all... Nor can I detect her signal.) +Please don't come any closer. Whoever you are, if you don't stop right there, I'm going to open fire.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:So you are...a foe? +Can you kill me? +Or would you rather I kill you?
+()<Speaker></Speaker>||:The blurry figure is getting closer and closer. Kord aims at her legs and is about to squeeze the trigger, only to discover that her finger refuses to move.
+Kord(0)<Speaker>Kord</Speaker>||:...What is going on? +That voice...didn't actually come through my auditory module... +Crap, has my neural cloud been hacked?!
+()<Speaker></Speaker>||<黑屏1><SE1>ClothingUp</SE1>:Kord, frozen in the same posture, topples to the ground like a log.
+AbandonedIsomer(0)<Speaker>???</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:You are not our Savior... +Sleep well...right here.
+()<Speaker></Speaker>||<黑屏2><BIN>197</BIN><BGM>BGM_Empty</BGM>:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Room</BGM>:M4! M4, can you hear me?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +Oh, did I space out? Sorry.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Stay focused, "Leader". +The Commander has ordered us to defend the station while the other Dolls search for the control center of the quarantine wall.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I know... I think I sensed some unknown signals just now.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Unknown signals? Like Paradeus?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I don't know, but now I can definitely feel them, and their numbers are increasing. +...They seem to be heading this way.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:What?! Are the real enemies finally showing themselves?!
+M4 SOPMOD IIMod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm not sure. RO, have you detected any life signs or mechanical signals in the vicinity?
+RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>...I'm only reading Griffin signals.</color>+<color=#00CCFF>However, it's become a bit foggy since a while ago, and the signal is pretty weak so I can't be absolutely sure. Do you want me to go and scout around?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:That won't be necessary, just stick to the original plan for now. +... +Hold on, what did you just say? It's become foggy?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>That's right. The fog has gotten thicker now.</color>
+()<Speaker></Speaker>||:M4A1 runs to the station entrance. +The world outside is crystal clear without the slightest bit of fog.
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Yep, the fog is really starting to roll in.</color>
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:... +RO, can you hear me?
+RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>I can, but the quality is getting worse. What's going on? We're pretty close to each other...</color>
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP-II! Can you hear me clearly?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:<color=#00CCFF><size=50>M4! What did you just say through the comms?! I can't hear you!</size></color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:...AR-15.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I'm not seeing any fog either.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Our neural ports are being probed by a lot of high-frequency connections. The fog they're seeing is probably the simulated interference caused by the forced connections...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I've completely sealed off my neural ports so I'm not being affected at all.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I guess we must...stand alone. +How strange. If it was an electronic attack, then everyone should've been paralyzed, but they're only seeing fog. What exactly are they trying to do...?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Perhaps this isn't an attack, but just a random...connection.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Connection?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:A high-frequency connection that hampers the Zener Protocol and interferes with our Dolls' neural operation. +The Dolls correspond and share data with each other through the Zener Protocol. If most Dolls are seeing fog, then the protocol will force your neural cloud to correct an error, so you end up seeing fog even if you don't. 
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:How much data does it take to do that...?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<黑屏1>:I don't want anything to meddle with my mind, be it the Parapluie virus or some other Doll, which is why I chose to seal off my ports. +As for you, you're different than the rest of them. You can even contain another "self"... That's why you can't perceive the interference. +We must find the source of the connections soon or our friends will be in big trouble.

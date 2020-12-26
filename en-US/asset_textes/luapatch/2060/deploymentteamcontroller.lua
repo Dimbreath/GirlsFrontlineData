@@ -24,6 +24,14 @@ local TransferBefore = function(self)
 		self.last.buildControl:RefreshController();
 	end
 end
+local Die = function(self)
+	self:Die();
+	if CS.DeploymentController.Instance.currentSelectedTeam ~= nil and not CS.DeploymentController.Instance.currentSelectedTeam:isNull() then
+		print("重新计算当前技能")
+		CS.DeploymentUIController.Instance:OnSelectTeamSkillUI(CS.DeploymentController.Instance.currentSelectedTeam);
+	end
+end
 util.hotfix_ex(CS.DeploymentTeamController,'Transfer',Transfer)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferBefore',TransferBefore)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferComplete',TransferComplete)
+util.hotfix_ex(CS.DeploymentTeamController,'Die',Die)

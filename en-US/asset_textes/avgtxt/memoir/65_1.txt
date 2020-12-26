@@ -1,125 +1,125 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>9</BIN>:……
-()<Speaker>UMP45</Speaker>||:我和9会在另外一个房间升级，如果你们先完成的话就在客厅里等我吧。
-()<Speaker>HK416</Speaker>||:知道了。话说德尔……为什么回你自己家都要那么偷偷摸摸，这气氛都让我觉得自己像个小偷一样了。
-()<Speaker>德尔</Speaker>||<SE1>AVG_door_storehouse</SE1>:啊……这里面有很复杂的原因，来这边来这边，进了地下室就不用那么拘谨了。
-()<Speaker>HK416</Speaker>||:你的那个秘密基地真是每次都让我有不好的回忆……
-()<Speaker>德尔</Speaker>||:有什么关系嘛！不管怎么说，这里可是有方圆一百公里内最先进的人形升级设备，所以就不要老是抱怨啦！
-()<Speaker>HK416</Speaker>||<黑屏1>:唉……为什么45认识的人总是那么奇怪……G11醒醒，再不起来德尔要拆掉你把你做成洗衣机了。
+()||<黑屏2><BIN>9</BIN>:...
+()<Speaker>UMP45</Speaker>||:9 and I will be doing her upgrade in the other room. If you guys finish first, wait for me in the living room.
+()<Speaker>416</Speaker>||:Got it. Also, Dier... Why do you have to sneak around inside your own house? It makes me feel like a thief.
+()<Speaker>Dier</Speaker>||<SE1>AVG_door_storehouse</SE1>:Uh...it's complicated. Come, over here, you won't have to walk on eggshells once you're in the basement.
+()<Speaker>416</Speaker>||:That secret base of yours always brings back bad memories to me...
+()<Speaker>Dier</Speaker>||:What's wrong with it?! In any case, this is the most advanced Doll upgrade facility within 100 km, so quit your complaining already!
+()<Speaker>416</Speaker>||<黑屏1>:(Sighs) Why is everyone that 45 knows so weird... Wake up, Gr G11. If you don't get up, Dier's going to scrap you and turn you into a washing machine.
 ()||<BIN>70</BIN><睁眼>:
-G11(0)<Speaker>G11</Speaker>||<BGM>BGM_factory</BGM>:啊啊啊……什么啊，这不是德尔的人形基地么……喔喔——好一阵子没来，多了好多不认得的东西。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:嘿嘿嘿，身为人形工程师，要是超过三个月没添购新设备，就会被时代甩在身后的。
-G11(0)<Speaker>G11</Speaker>||:哇，这个耳机以前没见过，看起来真帅，我喜欢。我可以试听一下吗？
-HK416(0)<Speaker>HK416</Speaker>||:别乱摸，要是把别人的东西弄坏了该怎么办。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:如果你喜欢的话拿去也没关系哦。+不过416说得没错，先把正事搞定吧。+难得跑来我的秘密基地，那就当然要来个例行的身体检查！
-G11(0)<Speaker>G11</Speaker>||:哎恶……这才想起来，要把身体给机性恋变态看，感觉有点恶心……
-HK416(0)<Speaker>HK416</Speaker>||:没事，我会在旁边全程盯着，如果德尔有什么可疑举动的话，就一枪让他脑袋开花。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:这样说话也太失礼了吧！比起人形的外型，我明明对人形的内在更感兴趣……
-G11(0)<Speaker>G11</Speaker>||:这个说法更加令人恶心了……
-HK416(0)<Speaker>HK416</Speaker>||:不用担心，刚才那些发言都已经录音存证，我待会就发送给希尔，一会让她来好好修正你不正常的大脑吧。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:喂！不是你们强迫我回来给你们升级的吗？再这么损我我可要额外收费了！+快过来乖乖躺好，G11。
-()||:德尔与来访的客人们一边拌嘴，一边让G11躺到了维修台上。
-G11(0)<Speaker>G11</Speaker>||:至少，到德尔的工作室可以安心睡觉，这点还是挺不错的。+不过你工作室都能添购各种设备，就没考虑换张舒服一点的床吗？这枕头跟以前一样硬啊。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:你得搞清楚，这可是维修台而不是床铺……+……不过躺起来比较舒服的型号也不是没有，叫你们老大赶快还钱给我吧。+那么，接下来得让你进入休眠模式，祝你做个好梦。
-G11(0)<Speaker>G11</Speaker>||:嗯。那么……晚安……
-()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:当德尔输入了指令码后，G11的眼皮缓缓阖上，而计算机荧幕上的进度条也开始动了起来。+在G11完全入睡后，HK416才开口向德尔发问。
-HK416(0)<Speaker>HK416</Speaker>||<BGM>BGM_Room</BGM>:她情况如何，德尔？
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:完整的一套三层心智扫描可没这么快啊，有点耐心。+再说，这是我该问的问题才对吧？
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:咦？为什么？
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:平常跟她一起行动的是你不是我，我可无从得知G11最近表现如何。+这几个月下来有复发吗？有没有忘东忘西，或着前言不接后语的症状出现？
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:这个……自从上次心智崩溃之后快一年都没有什么异状……
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:虽说把太过先进的火控核心安装在她身上有点勉强……不过从现状看，我的技术果然是没问题的！
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:是这样吗……
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:放心吧，俗话说“没有消息，就是最好的消息”。+正因为有了足够的战斗力，G11她才能和你们一起冒险不是么？
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:我还是担心这对她来说太勉强了。
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:既然G11自己没有怨言，那说明她还是对现状十分满意的。+对了，我听45说，你这次也要做电子战模块的升级工程？+如果是涉及到三级底层的改动，那你也得跟G11一样接受扫描，好确认内部还有没有余裕。+不如现在一起做怎么样？这样也比较节省你我的时间。
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:我就不是为电子战而设计的，从出厂开始就没怎么接触过。+安装这些模块……这样会变得更强吗？
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:老实说，我也不是很清楚45是怎么想的。不过她既然这么决定了，一定有她的考虑吧。+而且如果给你安装新的电子战模块后还有剩余空间，我就再给你加点有益战斗的程式进去。+当然了，额外服务额外加价！怎么样？有没有心动？
-HK416(0)<Speaker>HK416</Speaker>;NPC-Deele(0)||:好啊，为什么不呢？反正又不是我来付帐，全部记在45头上吧。
-HK416(0);NPC-Deele(0)<Speaker>德尔</Speaker>||:嘿嘿嘿，那我要把我珍藏的，最贵的库存都拿出来试试。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:你就躺旁边这张维修台上吧。
-()||:HK416躺到了另一张维修台上，当德尔开启了计算机准备启动心智检测程序时，他却注意到了HK416的表情有些异常。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:……嗯？你怎么看起来好像有点紧张。
-HK416(0)<Speaker>HK416</Speaker>||:别乱说……才没有那种事。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:你是第一次做心智全栈检测吗？+如果可以的话，请尽量保持平和的心情，如果心智模拟波动太强烈可能会让程序异常中止哦。
-HK416(0)<Speaker>HK416</Speaker>||:并不是第一次……我没心情跟你讲这个，赶紧开始吧。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:好吧，那我希望你这觉能够做个好梦。
-()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:HK416闭上了双眼，德尔叹了口气后，按下了启动检测程序的开关。
-()||<黑屏2><BIN>9</BIN>:……
-()<Speaker>HK416</Speaker>||:（上一次做完整的心智检测……是在……那时候吧。）
-HK416(0)<Speaker>HK416</Speaker>||:……拆卸火控核心并转调？为什么，我们不是已经为这次行动预演准备了很久吗？
-HK416(3)<Speaker>HK416</Speaker>||:你应该不是认真的吧，M16？连理由也不肯告诉我吗？是我派不上用场，还是我做错了什么，至少给个答案吧！
-HK416(0)<Speaker>HK416</Speaker>||:…………
-HK416(0)<Speaker>HK416</Speaker>||:…………
-HK416(0)<Speaker>HK416</Speaker>||:为什么……不回答我……
-HK416(3)<Speaker>HK416</Speaker>||:这种屈辱，这种结果……我是绝对不会接受的！
-()<Speaker>HK416</Speaker>||:<color=#00CCFF>……为什么又想起以前的事了。</color>
-()<Speaker>HK416</Speaker>||<黑屏1>:<color=#00CCFF>这个扫描程序真的是糟透了。</color>
-()||<黑屏2><BIN>88</BIN>:……
-()||<BGM>BGM_Sneak</BGM>:从藏身的废弃仓库角落中起身，HK416开始了新的一天。+她从衣袋中翻出了破损的地图，目光在数个标记上来回游移。
-HK416(0)<Speaker>HK416</Speaker>||:（前两天去了C区和D区，这两个片区挨的太近了……今天去F区吧。）
-()||:和在格里芬作为战术人形的日子不同，那时HK416可以使用有最完善的IOP原厂维修槽跟充电设备，而如今这些支持设备与一介逃亡人形是无缘的遥远存在。+无论是垃圾桶里的蓄电池还是路边破损车辆中的老旧电瓶，都成为了她不乐见，却必须赖以维生的救命稻草。+再加上HK416正处于逃亡状态，即使是这种普通的拾荒行动也充满了相当的风险。+她从墙角摸出了一截铅笔头，费力地在地图的缝隙中做好了标记。
-HK416(0)<Speaker>HK416</Speaker>||:（协议已经过期了，现在连基本的查询地图的功能都不能用，该死……）
-()||:HK416的手指动了动，最终她还是克制住了攥紧地图的行为，只是抿紧了自己的嘴唇。
-HK416(0)<Speaker>HK416</Speaker>||:（比起这样苟延残喘，也许在任务中被摧毁反而更好吧。反正中途脱离任务，也是要被销毁的……）+（不，我不能接受这样的结局！我可是精英人形，不能就这么成为个废弃品！）
-HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:（没错……就是因为这样，我才会从运输车上逃离。就算被拆掉了火控核心，我还是抢走了枪……）+（我一定要回到格里芬，然后成为一个精英人形该有的模样！）
-()||<黑屏2><BIN>168</BIN><SE1>AVG_footsteps_cave</SE1>:HK416站起身，向仓库外的街道走去。
-HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:（我会一直活下去的，直到你面对我愤怒的那一刻。）
-()||<黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:……
-()||<黑屏2>:HK416前往计划中的地点拾荒时，在路上看见了几个民用人形。+她们打扮得光鲜漂亮，有的提着购物篮帮人上街购物，也有的穿着制服在商店里工作，与HK416过着截然不同的生活。
-HK416(0)<Speaker>HK416</Speaker>||<BGM>BGM_Wake</BGM>:（即使是她们，现在的日子也比我好得多。）
-HK416(0)<Speaker>HK416</Speaker>||<黑点1>:（害我现在落得这副惨状……M16……我绝对不会原谅你的。）
-()||<黑点2><BIN>168</BIN>:HK416避开大路在小巷中穿梭，来到了一个商场的后门。
-()||:少人光顾的小巷内放置着一整排的大型垃圾桶，地上弃置着各种未拆封食品和机械零件。+不过，有个银白色头发的矮个少女已经抢先一步。
-G11story(0)<Speaker>白发少女</Speaker>||:欸……
-()||:她停下了翻找垃圾桶的动作，看着突然出现的HK416，然后连忙退开了两步。
-HK416(0)<Speaker>HK416</Speaker>||:是流浪儿童？不，从身体上的破损来看……也是人形吗。+这片区域的废弃人形似乎有点多……因为警察管理松懈的原因么？
-()||:就在416思考着时，白发少女十分紧张地盯着她的武器，这让416有点不适。
-HK416(0)<Speaker>HK416</Speaker>||:那个……我不会伤害你，我跟你一样只是想要借点这里的东西……不用紧张，这把枪里没有子弹……
-G11story(0)<Speaker>白发少女</Speaker><Shake>||<SE1>Runstep</SE1>:……咿！不……不要过来！
-()||:她似乎根本没听进去HK416在讲什么。
-()||:HK416刚刚上前迈了一步，她就仓皇地转头拔腿逃走。+看着少女跌跌撞撞的背影，HK416忍不住叹了口气。
-HK416(0)<Speaker>HK416</Speaker>||:真是的……搞得我像是坏人一样。+今天就算能满载而归，我心里也不好受啊。
-()||<BGM>BGM_Empty</BGM>:但就在HK416翻找起商场垃圾桶之后不久，却听到了不远处传来的惨叫声。
-()<Speaker>？？？</Speaker>||:呀啊－－！
-HK416(0)<Speaker>HK416</Speaker>||:那是……怎么回事？+在那个方向吗！
-()||<黑点1><SE1>Runstep</SE1>:放下了刚刚找到的蓄电池，HK416警戒地环顾四周，确定声音来源后立刻赶了过去。
-()||<黑点2><BIN>168</BIN>:……
-G11story(0)<Speaker>白发少女</Speaker>||<BGM>BGM_Danger</BGM>:啊啊啊啊啊啊啊！！！
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:可恶，居然敢咬我！只不过是个废弃的垃圾，居然这么嚣张。
-HK416(0)<Speaker>HK416</Speaker>||:（是贫民区的小混混吗？她运气可真差……）
-NPC-PasserbyF(0)<Speaker>女混混</Speaker>||:注意下力道啊，可别打烂了，只要摆平就好，修理之后还是得卖钱的。
-HK416(0)<Speaker>HK416</Speaker>||:（什么……卖钱？看来不止是混混了。）
-()||:手拿棒球棍的男人一边咒骂着，一边朝躺在地上的白发少女挥动球棒。
-()||:倒在地上的白发少女竭力大叫着，但挨了几棒子之后，渐渐也没了声音。
-HK416(0)<Speaker>HK416</Speaker>||:（这……她会真的被打坏吧！得想个办法……）+（但是现在我只能以最低能耗来维持行动，一对二的话根本没有胜算，更别提带她逃走了……）+（对了，我有枪！可是没有子弹……）
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:可算老实了。
-()||:男人一把揪住白发少女的头发，把她从地上拽起来。
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:只是外壳坏了点，没什么关系。
-NPC-PasserbyF(0)<Speaker>女混混</Speaker>||:好久都没这种品相的了，今天运气还不错，我们回去交货吧。
-HK416(0)<Speaker>HK416</Speaker>||:（可恶……不能再磨磨蹭蹭了！）
-()||<SE1>Select</SE1>:HK416端起枪，从墙角后跳了出来。
-HK416(3)<Speaker>HK416</Speaker>||:你们在做什么，快住手！
-()||:两个混混被HK416吓了一跳，男混混一撒手，把白发少女扔在了地上。
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:什么人？！+糟糕……是战术人形？！难道是条子雇的？
-NPC-PasserbyF(0)<Speaker>女混混</Speaker>||:不对，如果是条子的话不会只有这一个……
-()||<SE1>AVG_tele_connect</SE1>:围绕在白发少女旁的其中一人掏出终端，将摄像头对着HK416的方向，然后露出了笑容。
-NPC-PasserbyF(0)<Speaker>女混混</Speaker>||:Bingo，是块自己送上门的肥肉呢，她的身上没有任何协议连接，这可是百分百的非法人形。
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:这种质量的非法人形？哈哈哈哈，今天真是大丰收啊。+喂！那边的小杂种给我听好！
-()||<SE1>ClothingUp</SE1>:男人抛下球棒，掏出了藏在外套内侧的手枪瞄准了HK416。
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:我也是有枪的哦，哼哼……你们这些人形，可是不允许伤害人类的哦？在那装腔作势什么！
-HK416(3)<Speaker>HK416</Speaker>||:……你以为我不能吗？
-()||<SE1>AVG_weapon_reload</SE1>:男混混无所谓地笑了笑，将手枪上了膛。
-NPC-PasserbyM(0)<Speaker>男混混</Speaker>||:就算是在道上混的老大们，都没有几个人有能力改写人形的运作规则，就凭你一个被扔在路边的非法人形也配向我开枪？+但是我手里这把手枪可没有什么规则的限制，你想试试吗？
-NPC-PasserbyF(0)<Speaker>女混混</Speaker>||:喂，你注意点啊！如果有了弹孔，报价会大大下跌的！
-HK416(2)<Speaker>HK416</Speaker>||:呵……我是真正的战术人形。+你们两个，想要和我比反应速度吗？
-()||:虽然逞强地反驳了对方，但是HK416的心智盘算了现在所有的筹码，唯一可以确定的就是自己处于十分不利的情势。
-HK416(0)<Speaker>HK416</Speaker>||:（距离他们有十米距离……刚才我不应该阻止他们而是直接冲上去才对……）+（能夺枪吗？但是就算抢到枪了，攻击他们的动作有很大几率会被自控系统强行终止……那样情况会更不利……）+（该死，本来以为吓一吓他们就会逃走……）
-NPC-PasserbyM(0)<Speaker>男混混</Speaker><Shake>||:嘴真是够硬啊，那就让老子在你头上多开几个充电接口吧……呃！
-NPC-PasserbyF(0)<Speaker>女混混</Speaker><Shake>||:怎么了……啊！
-()||<BGM>BGM_Empty</BGM>:HK416一脸狐疑地看着忽然倒地的那对男女，两人都是头部遭受了半个拳头大小的鹅卵石片命中，而当场昏厥过去。
-HK416(0)<Speaker>HK416</Speaker>||<BGM>BGM_stage1</BGM>:石头……？是谁扔的？
-UMP9(0)<Speaker>？？？</Speaker>||:45姐，怎么样？我可是练习了很久的弹弓哦。
-UMP45(0)<Speaker>？？？</Speaker>||:你真是越来越熟练了嘛……喔呀，看样子好像有位正义使者陷入了麻烦呢。
-()||:两个脸上带有疤痕的人形从暗处走了出来。
-()||<黑屏1>:其中带头的那个望向HK416，露出了不怀好意的微笑。
+G11(0)<Speaker>Gr G11</Speaker>||<BGM>BGM_factory</BGM>:Aaaahhhh... What the heck, isn't this Dier's Doll base...? Oooohh— I haven't been here in a while, there's a lot of stuff here that I don't recognize.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Hehehe, we Doll engineers can't go three months without buying new equipment.
+G11(0)<Speaker>Gr G11</Speaker>||:Wow, I've never seen these earphones before. They look really cool; I like them. Can I give them a try?
+HK416(0)<Speaker>416</Speaker>||:Don't just go around touching others' stuff. What are you going to do if you break them?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:If you like them, then go ahead and take them. +But 416 is right. We ought to take care of business first. +It's been so long since the last time you came to my secret hideout, so clearly we need to give you a routine checkup!
+G11(0)<Speaker>Gr G11</Speaker>||:(Groans) I just realized, letting a robosexual pervert ogle at my body is kind of gross...
+HK416(0)<Speaker>416</Speaker>||:Don't worry, I'll be keeping an eye on him throughout the entire process. If Dier tries anything funny on you, I'll blow his head off.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:How rude! I'll have you know that I'm more interested in a Doll's internals than her exterior appearance...
+G11(0)<Speaker>Gr G11</Speaker>||:It sounds even worse when you put it that way...
+HK416(0)<Speaker>416</Speaker>||:Don't worry. Everything you said just now has been recorded as evidence. I'll send it over to Sier in a bit so she can fix your abnormal brain.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Hey! Weren't you the ones who strong-armed me into upgrading you?! If you keep slandering me like this, I'll charge extra!+Now, be a good girl and lie down here, Gr G11.
+()||:As Dier banters with his guests, he lays Gr G11 down on the maintenance bench.
+G11(0)<Speaker>Gr G11</Speaker>||:At the very least, I can sleep comfortably in your workshop, Dier. I like that part.+Still, since you can buy all sorts of gear for your workshop, why not invest in a comfier bed? This pillow is as hard as ever.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Look, this is a maintenance bench, not a bed... +...That said, there ARE more comfortable models on the market, so have your boss hurry up and pay me back.+In any case, I'll be putting you into sleep mode. Sweet dreams.
+G11(0)<Speaker>Gr G11</Speaker>||:Mm. Alright then... Goodnight...
+()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:After Dier enters his command codes, Gr G11 slowly closes her eyes, and the progress bar on the nearby computer screen begins to move.+It's only when Gr G11 is completely asleep that 416 asks Dier a question.
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Room</BGM>:How is she, Dier?
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Be patient. A full three-level neural cloud scan takes time. +Besides, I should be the one asking that question, right?
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Huh? Why is that?
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:You're the one who always goes around with her, not me. I have no way of knowing about Gr G11's recent performance. +Has it flared up again during the past few months? Has she been forgetting things, or has she been showing symptoms like confusion or jumbled speech?
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Well...there hasn't been anything unusual for almost a year since her neural cloud last broke down...
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:While installing an excessively-advanced fire control core into her might have been forcing it a bit... Given her present condition, my skills really are flawless indeed!
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Is that so...
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Don't worry. As the saying goes, "no news is good news". +Gr G11 can go adventuring with you because she's got ample fighting power, right?
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:I'm still worried that this might be too much for her.
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Since Gr G11 isn't complaining, that proves she's very happy with the present situation. +Oh yes, I heard 45 say that you're going to upgrade your electronic warfare modules too? +If you're making any changes to the Level III base layer, then you'll need a scan like Gr G11 to make sure you have enough free capacity inside. +Why not do it with her now? That way it'll help save time for both of us.
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:I wasn't designed for electronic warfare. I've never touched it ever since I was rolled out. +So...will installing these modules make me stronger?
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Frankly speaking, I'm not too sure what 45 is thinking. Still, she must have her reasons for her decision. +Also, if there's any extra space left over after installing the new EW modules, I'll fit a few more combat programs in there. +Of course, extra services mean extra costs! How about it? Sound appealing to you?
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Alright, why not? Besides, I'm not footing the bill for this. Put it on 45's tab.
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Hehehe, then I'll bring out the most expensive items from my special stock and give it a try.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:You just lie down on the counter by the side.
+()||:416 lies down on the other maintenance bench, but as Dier starts up the computer to begin the neural cloud diagnostics program, he notices a strange look on 416's face.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:...Hm? You look a little tense.
+HK416(0)<Speaker>416</Speaker>||:Nonsense... It's nothing of the sort.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Is this your first time doing a full-stack neural cloud diagnostic?+Please try and keep calm if you can. If the neural cloud simulation waves are too strong, it might cause an abnormal termination of the program.
+HK416(0)<Speaker>416</Speaker>||:This isn't my first time...and I don't feel like discussing it with you, so hurry up and begin.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Alright then, I hope you have sweet dreams too.
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:416 closes her eyes, and with a sigh, Dier presses the switch to initiate the diagnostic program.
+()||<黑屏2><BIN>9</BIN>:...
+()<Speaker>416</Speaker>||:(The last time I did a full neural cloud diagnostic was...back then, I suppose.)
+HK416(0)<Speaker>416</Speaker>||:...You're removing my fire control core and transferring me? Why? We've been practicing for this op for a long time, haven't we?
+HK416(3)<Speaker>416</Speaker>||:Are you serious, M16? You won't even tell me why? Am I useless? Did I do something wrong? At least give me an answer!
+HK416(0)<Speaker>416</Speaker>||:...
+HK416(0)<Speaker>416</Speaker>||:...
+HK416(0)<Speaker>416</Speaker>||:Why...didn't you answer me...
+HK416(3)<Speaker>416</Speaker>||:I won't accept this...not this kind of humiliation, not this kind of ending!
+()<Speaker>416</Speaker>||:<color=#00CCFF>...Why am I thinking about the past again?</color>
+()<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>This scanning program really sucks.</color>
+()||<黑屏2><BIN>88</BIN>:...
+()||<BGM>BGM_Sneak</BGM>:416 wakes from her hiding place in a corner of an abandoned warehouse and begins a new day.+She pulls out a tattered map from a pocket, and her gaze shifts between various markings on it.
+HK416(0)<Speaker>416</Speaker>||:(I've been to District C and District D these past two days. They're too close together... I'll go to District F today.)
+()||:When 416 was a Griffin Tactical Doll, she had access to a full suite of first-party I.O.P. repair tanks and charging facilities. Currently, those things are far beyond the reach of a fugitive Doll.+Scavenging for batteries in the trash and old power cells from wrecked cars on the side of the road are all unsavory, yet necessary lifelines that she needs to survive.+In addition, being an outlaw on the run, even scavenging out in the open is fraught with risk.+She slides a pencil out of a wall corner and takes care to make notes on the empty spots on the map.
+HK416(0)<Speaker>416</Speaker>||:(My protocol software's expired, and now I can't even access basic map functions, dammit...)
+()||:416's fingers twitch, but in the end she overcomes the urge to scrunch up the map. Instead, she presses her lips together.
+HK416(0)<Speaker>416</Speaker>||:(Maybe it would have been better if I had been destroyed during a mission. It sure beats trying to cling to a pathetic life like this. Besides, I would have been executed for desertion anyway...)+(Nein, I can't accept an ending like this! I'm an elite Doll, I can't just allow myself to become a write-off!)
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:(That's right... That's why I jumped off the transport vehicle. They took my fire control core, but I managed to hold onto my gun...)+(I'm going to return to Griffin and become a role model for what an elite Doll should be!)
+()||<黑屏2><BIN>168</BIN><SE1>AVG_footsteps_cave</SE1>:416 stands up and heads for the streets outside the warehouse.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:(I'm going to live on, until you face my wrath.)
+()||<黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+()||<黑屏2>:416 sees several civilian Dolls on her way to the place where she's planning to do her scavenging.+They're dressed in bright, pretty colors. Some of them are holding shopping baskets to help people do their roadside shopping, while others are wearing uniforms and working in the stores, living lives that are dramatically different from 416's.
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Wake</BGM>:(Even they are having a much better time of it than me.)
+HK416(0)<Speaker>416</Speaker>||<黑点1>:(You're the one who forced me into this pitiful state, M16... I'll never forgive you for this.)
+()||<黑点2><BIN>168</BIN>:416 avoids the main roads and passes through the narrow alleys, then reaches the back door of a shopping arcade.
+()||:The little-frequented alley is lined with huge dumpsters, and the ground is littered with unopened food items and mechanical parts.+However, a short, white-haired girl is already one step ahead of her.
+G11story(0)<Speaker>White-Haired Girl</Speaker>||:Eh...
+()||:She stops rummaging through the dumpsters and looks at the newly-arrived 416, then hurriedly backs off.
+HK416(0)<Speaker>416</Speaker>||:Is she a homeless child? Nein, judging by the damage on her body...she's a Doll too, huh.+There seem to be a lot of abandoned Dolls in this sector... Is it because the police are being too slack around here?
+()||:As 416 is pondering the matter, the white-haired girl eyes her weapon, which makes 416 a little uncomfortable.
+HK416(0)<Speaker>416</Speaker>||:Um...I'm not going to hurt you. I just want to borrow some of the things here, just like you... Don't worry, this gun isn't loaded...
+G11story(0)<Speaker>White-Haired Girl</Speaker><Shake>||<SE1>Runstep</SE1>:...Eeeep! Stay...stay away from me!
+()||:She doesn't seem to have heard anything 416 said.
+()||:Just as 416 takes a step forward, she stumbles back, then turns and runs.+As she watches the girl stumble away, 416 can't help but sigh.
+HK416(0)<Speaker>416</Speaker>||:Honestly...you're making me out to be the bad guy here.+Now I won't feel good even if I go home with a full harvest today.
+()||<BGM>BGM_Empty</BGM>:But not long after 416 starts rummaging through the supermarket dumpsters, she hears a scream from nearby.
+()<Speaker>???</Speaker>||:Yaaaaaaaa!
+HK416(0)<Speaker>416</Speaker>||:What...is going on? +Is it coming from over there?!
+()||<黑点1><SE1>Runstep</SE1>:After putting down the rechargeable battery she just found, 416 carefully surveys her surroundings to pinpoint the source of the voice before rushing over.
+()||<黑点2><BIN>168</BIN>:...
+G11story(0)<Speaker>White-Haired Girl</Speaker>||<BGM>BGM_Danger</BGM>:Ahhhhhhhh!
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Dammit, you actually bit me! Pretty damn cocky for a piece of abandoned trash.
+HK416(0)<Speaker>416</Speaker>||:(Is he a hooligan from the slums? Bad luck for her...)
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:Be careful how much force you use. Don't break her. If we handle this well, we'll be able to sell her for a good price after fixing her up.
+HK416(0)<Speaker>416</Speaker>||:(What...selling? Looks like they aren't just hooligans.)
+()||:The man with the baseball bat curses and swings at the white-haired girl, who's lying on the ground.
+()||:The white-haired girl screams with all her might, but after a few hits from the bat, her voice trails off.
+HK416(0)<Speaker>416</Speaker>||:(They...they're really going to break her! I need to think of something...)+(But right now, I can only afford to use the bare minimum of power needed to keep moving. I won't stand a chance if it's two-on-one, and let's not even talk about getting her out of here...)+(That's right, I've got a gun! But I don't have bullets...)
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:That'll settle her.
+()||:The man grabs the white-haired girl by the hair, then hauls her up and off the ground.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Her outer shell's just a little cracked; there's nothing to worry about.
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:We haven't seen goods like this in a while. Today's our lucky day. Let's go back and turn her in.
+HK416(0)<Speaker>416</Speaker>||:(Dammit... I can't keep twiddling my thumbs!)
+()||<SE1>Select</SE1>:416 raises her gun to the ready position and jumps out from around the corner.
+HK416(3)<Speaker>416</Speaker>||:What are you doing? Stop it at once!
+()||:The two punks are startled by 416. The man casts his arm out to the side and dumps the white-haired girl to the ground.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Who's that?!+Crap... Is that a Tactical Doll? Did the cops hire her?!
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:No, if it was the cops, there wouldn't be just one of them...
+()||<SE1>AVG_tele_connect</SE1>:The woman takes out a phone and points the camera lens at 416, then she smiles.
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:Bingo, this prime catch just delivered herself to us. There's no software links on her; she's a 100% bona fide illegal Doll.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:An illegal Doll of this quality? Hahahaha, what a haul. +Hey! Listen up, you little bitch!
+()||<SE1>ClothingUp</SE1>:The man throws down his bat and pulls a pistol out of the inside of his coat pocket, then aims it at 416.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:I've got a gun too, hehe... You Dolls aren't allowed to harm human beings, right? So what the hell are you playing at over there?!
+HK416(3)<Speaker>416</Speaker>||:...You really think I can't?
+()||<SE1>AVG_weapon_reload</SE1>:The man brushes it off with a smile and chambers a round in his pistol.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Even among the big shots in the business, hardly any of them can rewrite a Doll's operating principles. You think an abandoned, illegal Doll like you can shoot at me?+On the other hand, this gun I'm holding right here isn't restricted in any way. Want to try it out?
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:Hey, watch it! If you put bullet holes in her, it's going to tank the resale price!
+HK416(2)<Speaker>416</Speaker>||:Ha... I'm a real Tactical Doll. +Do the two of you want to match your reflexes against mine?
+()||:While she's managed to muster up a retort for now, 416's neural cloud weighs up all the existing factors and the only thing she knows for sure is that she is in a very unfavorable position.
+HK416(0)<Speaker>416</Speaker>||:(I'm about 10 meters away from them... I shouldn't have stopped them just now, I should have just rushed them...)+(Can I disarm him? But even if I get his gun, chances are high that my automatic control systems will forcibly terminate any offensive actions I take against them...That'll make things even worse...)+(Dammit, I was hoping they'd run if I scared them a little...)
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker><Shake>||:You've got quite the mouth on you! Looks like I'll have to give you a few more charging ports in your head...erk!
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker><Shake>||:What happened...ah!
+()||<BGM>BGM_Empty</BGM>:416 looks at the man and woman who have suddenly collapsed to their ground, hardly daring to believe her eyes. It seems both of them were hit in the head by stones about half the size of a fist and passed out immediately.
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_stage1</BGM>:Stones...? Who threw them?
+UMP9(0)<Speaker>???</Speaker>||:How's that, 45? I've been practicing with my slingshot for a long time.
+UMP45(0)<Speaker>???</Speaker>||:You're getting better at this... Oho, looks like a friend of justice is in a bit of a pickle.
+()||:Two Dolls with scars on their faces emerge from the shadows.
+()||<黑屏1>:The one in the lead looks at 416 with a wicked smile on her face.

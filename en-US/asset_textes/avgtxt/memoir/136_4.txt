@@ -1,0 +1,78 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:补给站此刻一片混乱。
+()||<黑屏2><BIN>83</BIN><BGM>m_avg_tension</BGM>:从车库到休息区像是被暴风扫过一样满地狼藉，随处可见在收拾场地的工作人员和哀叹的旅者。
+pp19(0)<Speaker>pp19</Speaker>||<SE1>RunStep</SE1>:夏莉——AK Alfa——+你们在哪里？回答我！
+pp19(0)<Speaker></Speaker>||:PP19大声呼喊着。但是大家都在忙着收拾，没有人回应她。
+pp19(0);NPC-PasserbyM(0)<Speaker>尤里安</Speaker>||:夏莉……我的夏莉……+不，不要啊！要是我的女儿出事了，我要怎么回家！我怎么有脸去见孩子她妈！
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:冷静，尤里安。+这里没有血，夏莉现在肯定还没出事，我会把她找回来的。+<color=#A9A9A9>冷静下来，PP19。</color>+<color=#A9A9A9>AK Alfa不是草包，这里没有枪声，她没有在战斗。</color>+<color=#A9A9A9>用听觉模块来捕捉线索……</color>
+pp19(0)<Speaker>补给站里遥远的声音</Speaker>;NPC-PasserbyM(0)<同时置暗>||:别哭了！哭有用吗？这些钱你爸必须要出！
+pp19(0)<Speaker>夏莉的声音</Speaker>;NPC-PasserbyM(0)<同时置暗>||:呜呜……
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:糟了，是绑架！
+pp19(0);NPC-PasserbyM(0)<Speaker>尤里安</Speaker>||:绑架？
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:我听到有人对夏莉说要她爸爸掏钱。
+pp19(0);NPC-PasserbyM(0)<Speaker>尤里安</Speaker>||:这……我有钱。+这些是我身上的钱，这是我的卡，和夏莉说“我和你妈妈的纪念日”，她就知道密码是什么了。
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:我会解决匪徒的，你不用给我这个……
+pp19(0);NPC-PasserbyM(0)<Speaker>尤里安</Speaker>||:我知道你很强，姑娘，但我怕那个劫匪拿夏莉做挡箭牌。+如果你解决不掉的话，就拿这些换回她……我不能让我的女儿出一点意外。
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:……我知道了。
+()||<黑屏2><BIN>18</BIN><BGM>BGM_Empty</BGM>:在嘈杂声的掩护下，PP19迅速来到了声音传出的地方——补给站的负责人办公室。+随着她的靠近，女孩的啜泣声也愈加清晰。
+()<Speaker>夏莉</Speaker>||<BGM>BGM_Room</BGM>:对不起……对不起……
+()<Speaker>语气恶劣的男声</Speaker>||:别哭了！就在这儿等着，哪儿也别去！+小姑娘家家不懂事净闯祸，等你家长来了我非好好教训你们一顿不可。
+pp19(0)<Speaker>pp19</Speaker>||:<color=#A9A9A9>红外线扫描启动……确认，内部仅有两人。</color>+<color=#A9A9A9>要小心行动，决不能让之前的事情重演。</color>
+pp19(0)<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:PP19抬起手，轻轻敲了敲门。
+pp19(0)<Speaker>语气恶劣的男声</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:谁？！
+pp19(0)<Speaker>pp19</Speaker>||:您好，我来送夏莉妹妹的款项。
+pp19(0)<<Speaker>夏莉</Speaker><同时置暗>||:啊，姐姐……
+pp19(0)<<Speaker>语气恶劣的男声</Speaker><同时置暗>||:哦！看起来还挺懂事，知道把钱送来。+你就是她的家长吗？
+pp19(0)<Speaker>pp19</Speaker>||:是的，我是她的临时监护人。+我带来了足够赎走夏莉妹妹的款项，请清点。
+()<Speaker>语气恶劣的男声</Speaker>||:赎走？我的损失能光用钱填补吗？+你家孩子熊得很，说什么魔法就是把相信的事情变成现实，相信牛群能救你们，几几年了还有这种谎话……唉，你先进来吧！
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:声音靠近了门前。在门把手被打开的瞬间，PP19也用力撞开了门，玻璃被强横的力道撞碎，散了满地。
+NPC-Arla(0)<Speaker>身体庞大的男子</Speaker>||<震屏><BGM>m_avg_hope</BGM>:啊！
+NPC-Arla(0)<Speaker></Speaker>||:门里的男人发出痛呼，但并没有像PP19设想中那样被撞飞出去。相反，他仗着自己庞大的体积牢牢握住门把手控制开门幅度，另一手向身后探去——
+pp19(0)<Speaker>pp19</Speaker>;NPC-Arla(0)||<白屏1>:休想掏枪！
+()<Speaker></Speaker>||<BIN>276</BIN><白屏2>:电光石火间，PP19利用自己纤细的身躯挤入房间，在男子掏出枪之前完成了一次漂亮的擒拿。+夏莉泪光未干，呆呆地看着她将比自己大几圈的男人压倒在地。
+NPC-Arla(0)<Speaker>身体庞大的男子</Speaker>||:放开我！
+NPC-Shelley(0)<Speaker>夏莉</Speaker>||:姐姐……？
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:别怕，夏莉！事情解决了，我不会让他伤害你一根毫毛！
+pp19(0);NPC-Arla(0)<Speaker>身体庞大的男子</Speaker>||:我没对小丫头动手！
+pp19(0)<Speaker>pp19</Speaker>;NPC-Arla(0)||:这些话你就留着待会儿对保安队说吧！+尤里安先生，可以进来了！
+pp19(0);NPC-PasserbyM(0)<Speaker>尤里安</Speaker>||:夏莉，你还好吗？爸爸在这里，快……+啊，站长先生？
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||<BGM>BGM_Empty</BGM>:……站长？
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:想把这些牛都拉回来好难……你回来了，尤里安先生。请清点一下牛群的数量，看看是否有未追回的个体。+……尤里安先生？PP19？发生什么事了？
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:……
+()||<黑屏2><BIN>8</BIN><BGM>m_avg_casual</BGM>:……+傍晚，格里芬基地。
+NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:所以说，委托人尤里安的女儿夏莉在补给站里放出了关着的牛，祈祷着魔法能让它们去救爸爸？
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:是的。
+pp19(0);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:补给站遭到破坏，站长把夏莉留下，等着尤里安来的时候被PP19误认为成绑匪了？
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:是的……
+pp19(0);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:这可不是无人受伤。补给站的站长手腕扭伤也是伤哦，PP19。
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:尤里安先生结清了赔偿款项，他说这不能全算PP19的责任。
+pp19(0);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:但是补给站仍然对我们发出了投诉信。PP19，你还是太冲动了。
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:我知道错了，我太冒进……
+pp19(0);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:……哎？天啊，PP19，你知道错了？
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(0)||:啊？
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:她的心智升级效果很好。
+pp19(0);NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:像梦一样，心智升级真神奇啊。总之，这次任务只能打B。+请继续努力，PP19！
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(1)||:我会的。我能换素体了吧？+我觉得心智升级的效果很好。
+NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:可以哦！去吧，你可以换了，新素体就在你的宿舍。
+()<Speaker></Speaker>||:PP19离开了。格琳娜望着她的背影消失在门外，收回目光看向AK Alfa。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:说来AK Alfa你当时也投了反对票吧，为什么现在同意了？
+NPC-Kalin(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:我觉得……她这样的人形，不想心智升级就放着，把机会给别人就好了。+即使后来接受了这个任务，我也只是不想看到你和指挥官露出困扰的表情。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>;AKAlfa(0)||:哦~居然是这种理由啊。+那么现在，你改观了？
+NPC-Kalin(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:嗯，算是。她的确有她闪亮的地方，也许星空之下除了人类，也有其他我可以持续注视的东西……+格琳娜。你觉得她的话……能不能做我的书友？
+NPC-Kalin(0)<Speaker></Speaker>;AKAlfa(0)||:格琳娜看着手里的投诉信，干笑一声。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>;AKAlfa(0)||:这个嘛，我觉得还是很难……+不，总有希望的！虽然希望很渺茫就是了……
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:嗯。在如同宇宙奇点般的希望出现之前，我会一直等待。+现在就先来收拾一下文件吧。
+AKAlfa(0)<Speaker></Speaker><同时置暗>||<SE1>AVG_lifttable</SE1>:AK Alfa话音刚落，伴随着巨响，门被撞开了。
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:……
+pp19Mod(0)<Speaker>pp19</Speaker>||:我想起来还有一件事！
+pp19Mod(0);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:哇，换得真快。+但是文件都散在地上了……这点还希望你能再改改啊。
+pp19Mod(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:抱歉。但是，AK Alfa！是你在牛群里保护了夏莉吧？
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:保护她也是我的责任。
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:我就说，没有你的话夏莉可能撑不到我来就受伤了。+谢谢你，你也没那么大小姐！
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:只是责任。
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:别这么说啊。你看，我也和你评级一样了，下次任务也和我一起出吧！+让你见识一下更优秀的我，怎样？
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:……比起这个，你对啤酒有兴趣吗？
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:啤酒？
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:要么会喝酒，要么来看科幻小说。没有共同兴趣的人一起作战就不会有默契。
+pp19Mod(0)<Speaker>pp19</Speaker>||:哦，我被看扁了。不就是啤酒吗，我喝！现在就去！
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||<震屏>:停下！
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||<黑屏1>:先把文件整理完啊——！
