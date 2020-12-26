@@ -1,90 +1,90 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>81</BIN><BGM>m_avg_casual</BGM>:……+稍晚些时候，咖啡厅内。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……+好占地方啊。
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:是呀，没想到指挥官和刘易斯会搞来这么大一棵杉树呢。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;M1903(2)||:……不明白，这到底有什么用，还把地板弄得脏兮兮的。+……好多泥巴。
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:的确有些难收拾，还要稍微修剪一下才能使用。+不过，用这样一棵树来装饰的话，一定可以做出相当漂亮的圣诞树。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;M1903(2)||:用假树也可以的吧……
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:虽然也不是不行……不过不觉得那样很没有意思吗？+说起来，从早上开始你就在这里呢，猎豹。+不会很无聊吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;M1903(2)||:难得假期……我想悠闲地度过。+而且春田小姐冲的咖啡……很合我的口味。
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:这样……非常感谢，要续杯吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;M1903(2)||:拜托了……
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:嗯，打扫完之后，我还得去看看采买的情况，今天会很忙呢。+你接下来也一个人待着吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;M1903(2)||:应该……没有问题。+我一个人待着也挺好的。
-GepardM1(6);M1903(2)<Speaker>春田</Speaker>||:好的，那就拜托你看店啦。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||<黑点1>:嗯……
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||<黑点2>:春田小姐！+咦……春田小姐不在吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:格琳娜小姐……春田小姐的话，刚才去忙别的事情了。
-GepardM1(6);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:这就头疼了啊……
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(3)||:……格琳娜小姐看起来也很忙的样子，是在做什么事情吗？
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:我也在帮忙做圣诞晚会的准备哦，指挥官被刘易斯折腾得不轻，根本叫不起来。+所以现在暂时由我来负责统筹进度。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:这样……那找春田小姐是要做什么呢？
-NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:唔……你也看到了吧？
-()||:格琳娜用拿着文件夹的手示意了一下摆放在咖啡厅正中央的冷杉树。
-NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:刘易斯和指挥官费了很大的劲才把它带回来呢。+当然主要是刘易斯在出力啦。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(3)||:嗯……刚才我跟春田小姐也有聊到……+它怎么了吗？除了很占地方之外还添了别的麻烦吗？
-GepardM1(6);NPC-Kalin(5)<Speaker>格琳娜</Speaker>||:总觉得你对它怨气蛮大的样子呢……也没有到添麻烦的地步。
-GepardM1(6);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:你看，作为圣诞树来说，这棵树的树冠稍微有点太宽了吧？而且上面还有不少泥沙和雪。+不好好做清理和修剪的话，是没有办法当成圣诞树来使用的。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(3)||:格琳娜小姐是来做修剪的吗？
-GepardM1(6);NPC-Kalin(5)<Speaker>格琳娜</Speaker>||:哈哈……我要是干得了的话也可以啊，很可惜凭我的本事，就算修到晚上也修不完。
-GepardM1(6);NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:而且我还有其他工作要做，现在可是彻底的人手不足啊。+我来找春田本打算跟她商量一下找谁来帮忙的，但看来她也没有余力呢。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(3)||:原来是这样……我果然还是不明白，为什么要特意做这种事呢？
-GepardM1(6);NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:这种事是指什么呢？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(2)||:为什么要在明明是假期的日子里做这么麻烦的事呢……+圣诞树什么的，随便用塑料之类的也可以做吧。+而且归根结底……明明是休假还要加班做圣诞晚会的准备工作……就很奇怪。
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:唔……原来如此。+猎豹小姐对这种“辛苦的假期”不太理解是吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:大概可以这样说……+虽然有圣诞晚会让人很开心……但是看到春田小姐和格琳娜小姐这样奔波劳累。+就觉得让人很担心了。
-GepardM1(6);NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:哈哈，不用替我们操心啦，真是温柔呢，猎豹小姐。
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:让我想想……+猎豹小姐早上有跟春田小姐一起吧？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:嗯……早上的时候，春田小姐一直待在这里。+但是她在这里的时候也在工作，所以没能说上话。
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:在猎豹小姐看来，春田小姐很辛苦吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:相当辛苦……就算是工作日也不过如此。+不如说……有一种唯独春田小姐没有假期的罪恶感……
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:那春田小姐看起来有不开心吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:……+……倒是没有。+她看起来……乐在其中的样子。
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:就是这样，或许每个人享受假期的方式都不一样，但归根结底，其实都是为了让自己高兴起来而已。+像猎豹小姐这样，想要悠闲地度过假期当然是其中一种，而对春田小姐来说，能让大家好好享受圣诞节更能让她感到高兴吧。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:让大家都好好享受圣诞节……
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:当然这也不是说悠闲地度过就有问题啦，只是方式和方法不一样嘛。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:听起来就像是……+格琳娜小姐和春田小姐把大家的假日当成是自己的假日一样呢。
-GepardM1(6);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:也没有到那个地步吧。+而且对我来说的话，指挥官还会给加班津贴，所以确实没什么啦。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(0)||:……说得那么好听，结果格琳娜小姐就是在加班啊。
-GepardM1(6);NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:没错！就是这样！
-GepardM1(6);NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:啊……不好，聊得太久了，我得先走咯。+还有其他工作要做呢……实在是找不到能帮忙修剪的人，就只能先放着了吧。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(4)||:不修剪的话就不行吗？
-GepardM1(6);NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:直接装饰的话会很难看的。+万不得已的时候，也会考虑猎豹小姐的建议，改用方便的人工制品吧。+要等指挥官醒过来再说了。
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(4)||:……
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:那我就先走了，可惜春田小姐不在……不然还能顺杯咖啡走呢。
-()||:格琳娜风风火火地离开了咖啡厅。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……真是忙碌呢。
-GepardM1(6)<Speaker></Speaker>||:猎豹握着手里的咖啡杯，原本滚烫的咖啡早已经变得温热。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||<黑点1>:不要蹭我的脚……坏猫。+我知道的啦……+是难得的假期……难得的圣诞节嘛。
-()<Speaker>指挥官</Speaker>||<BGM>BGM_Empty</BGM><BGM>BGM_Hello</BGM><黑点2><震屏3>:为什么不早点叫醒我啊！
-NPC-Kalin(5)<Speaker>格琳娜</Speaker>||:欸——是我的责任？
-NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:明明是指挥官累得完全醒不过来吧？下次这种工作就安安心心交给适合的人去做啦。
-()<Speaker>指挥官</Speaker>||:可大部分工作都是刘易斯完成的……我都不知道到底哪里累了……+所以还没有找到人修剪吗？
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:没有哦。+那之后我也找到了春田小姐，她忙着和LWMMG清点食材，也没有能够拜托的对象。
-()<Speaker>指挥官</Speaker>||:这就没办法了……上吧，格琳娜，只能由我们两个来修剪了！
-NPC-Kalin(5)<Speaker>格琳娜</Speaker>||:欸欸！？刚刚才说过要把合适的工作交给合适的人去做了吧！
-()<Speaker>指挥官</Speaker>||:这也没办法吧！？刘易斯辛辛苦苦带回来的素材，难道打算浪费……+啊，早啊，猎豹。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……已经不早了，指挥官。
-()<Speaker>指挥官</Speaker>||:呃……确实，已经是下午了啊。距离晚会开始还有……+你在这里等着派对吗？
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……也没有那么期待。+我从早上开始就呆在这里了。+因为有猫和咖啡，而且很安静。
-()<Speaker>指挥官</Speaker>||:原来如此……光是听就觉得相当悠闲啊……+不愧是猎豹，简直是模范的假期。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……这就是模范了吗？
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:指挥官——！
-()<Speaker>指挥官</Speaker>||:怎，怎么了？
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:什么怎么了……你自己看啊。
-()<Speaker>指挥官</Speaker>||:什……咦？
-()||:摆放在咖啡厅中间的冷杉树，原本宽大的树冠被修剪得匀称苗条，树干部分的泥巴和死皮也被打磨干净，现在看起来完全就是一株圣诞树的样子，只差挂上装饰物和礼物了。
-()<Speaker>指挥官</Speaker>||:你不是说找不到人修剪吗……？
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:我的确没有找到人啊……
-()<Speaker>指挥官</Speaker>||:那这个是怎么回事？害我这么着急地跑过来……难道说是妖精们干的吗？
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||<BGM>BGM_Empty</BGM>:就算你这么问我也……
-GepardM1(6)<Speaker>猎豹M1</Speaker>;NPC-Kalin(2)||<BGM>BGM_Moon</BGM>:……
-GepardM1(6);NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:<color=#A9A9A9>欸？猎豹小姐的手指……是泥的痕迹……</color>
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:<color=#A9A9A9>……原来如此！</color>+我完全不知道喔！
-()<Speaker>指挥官</Speaker>||:……你这个表情分明知道些什么吧！快告诉我！
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:我不知道。+说不定是圣诞老人呢。
-()<Speaker>指挥官</Speaker>||:快告诉我啊！
-GepardM1(6)<Speaker>猎豹M1</Speaker>||:……+……好吵啊。
-()<Speaker></Speaker>||:猎豹低声抱怨着，轻轻用手抚摸了一下凑上来的猫咪。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||<黑屏1>:……但是。
-GepardM1(6)<Speaker>猎豹M1</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:的确很开心。
+()||<黑屏2><BIN>81</BIN><BGM>m_avg_casual</BGM>:……+やや遅い時間、カフェにて。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……+場所取るなぁ。
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:本当に。まさか指揮官とルイスさんが、//nこんなに大きなモミの木を仕入れて来るだなんて。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;M1903(2)||:……意味がわからない、//n一体何に使うつもりなんだろ、床も汚しちゃうし。+……泥だらけじゃん。
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:掃除するのも一苦労ですね。//nそれに、ある程度剪定しないと使い物にならないようですし。+けれど、これだけの木があれば、//n立派なクリスマスツリーが出来上がるでしょうね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;M1903(2)||:造木でも良かったんじゃないかな……
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:駄目という事はありませんけど……//nそれですと、あまりにも味気ないとは思いませんか？+そういえば、今日は朝からこちらにいたんですね。+退屈でしたでしょう？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;M1903(2)||:せっかくの休みだから……ゆっくり過ごしたくて。+それに、スプリングフィールドさんの//n淹れたコーヒー……すごく美味しいから。
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:そうでしたか……ありがとうございます、おかわりは如何ですか？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;M1903(2)||:お願いします……
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:喜んで。掃除を終えたら、買い出しの様子を見に行かないと。//n今日は忙しくなりそうです。+午後はずっと一人ですか？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;M1903(2)||:ワタシのことは……気にしないで。+一人でいるの、嫌いじゃないから。
+GepardM1(6);M1903(2)<Speaker>スプリングフィールド</Speaker>||:なら良かった。店番、よろしくお願いしますね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||<黑点1>:うん……
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||<黑点2>:スプリングフィールドさん！+あれ……いないのでしょうか？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:カリーナさん……スプリングフィールドさんなら、さっき出かけたよ。
+GepardM1(6);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:えっ……それは困りましたね……
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(3)||:……カリーナさんもすごく忙しそうだけど、どうかしたの？
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:どうもこうも、クリスマスの準備でてんてこ舞いですよ。//nルイスさんに散々こき使われたせいで、指揮官さまが//nダウンしちゃいましてね……+それで仕方なく、私が進行役を務めているわけなんです。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:そうだったんだ……どうしてスプリングフィールドさんを探してるの？
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:あぁ……ゲパード M1さんもご覧になりましたよね？
+()||:カリーナは手にしたフォルダで、//nカフェの中央に置かれたモミの木のほうを指した。
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:昨晩、ルイスさんと指揮官さまが、えっちらおっちら担いできたんです。+担いだのは主にルイスさんですけどね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(3)||:あ……さっき、スプリングフィールドさんとも話してた……+あれがどうしたの？場所を取る以外に、なにか困った事でも？
+GepardM1(6);NPC-Kalin(5)<Speaker>カリーナ</Speaker>||:その口ぶり、あれが相当気に入らないみたいですね……//nまぁ、困ってるってほどでもないんですけど。
+GepardM1(6);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:ほら、この樹、クリスマスツリーとして使うには、//n樹冠が大きすぎるでしょう？それに泥や雪が付いたままですし。+ちゃんとキレイに整えないと、使い物にならないんですよ。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(3)||:カリーナさんが剪定するの？
+GepardM1(6);NPC-Kalin(5)<Speaker>カリーナ</Speaker>||:アハハ……それが出来たらいいんですけどね。//n私の腕じゃ、夜までかかっても終わりませんよ。
+GepardM1(6);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:それにまだ処理しなきゃならない事が山積みなんです、//n猫の手も借りたいくらいですよ。+スプリングフィールドさんに人手が余ってるか聞きに来たんですけど、//nこっちもいっぱいいっぱいみたいですね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(3)||:そうだったんだね……でもさ、どうしてわざわざこんな事を？
+GepardM1(6);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:こんな事って？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(2)||:なんで休暇の日に、そんな面倒なことをしたがるのかなって……+クリスマスツリーなんて、//nプラスチックとかのイミテーションで十分だと思うけど。+そもそも……休みに自分から残業して//nクリスマスの準備をするなんて……変だよ。
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:おー……なるほど。+ゲパード M1さんは、「慌ただしい休暇」というものが、//n納得いかないんですね？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:まぁ、そんなとこかな……+クリスマスパーティーは確かに楽しいけど……//nスプリングフィールドさんやカリーナさんの大変そうな様子を見てると……+なんだか、すごく心配になるんだ。
+GepardM1(6);NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:アハハ、私たちの事は心配しないください。//nゲパード M1さんは優しいんですね。
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:うーん、そうですねぇ……+ゲパード M1さんは今朝から//nスプリングフィールドさんと一緒なんでしたっけ？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:うん……朝はずっとここにいたよ。+でもスプリングフィールドさんはずっと作業してたから、//n何も話せなかったけど。
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:ゲパード M1さんには、スプリングフィールドさんが//n苦労しているように見えますか？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:すごく、苦労してると思う……休日どころか、平日も。+っていうか……スプリングフィールドさんが働いてる横で、//nのんびりしてる事に妙な罪悪感が……
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:なら、スプリングフィールドさんは、辛そうにしてました？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:……+……そんな感じは、しなかった。+スプリングフィールドさん……楽しそうにしてた。
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:でしょうね。休暇の過ごし方は人それぞれですけど、//n結局は、自分を喜ばせることが目的なんですから。+ゲパード M1さんのようにのんびり過ごすのも悪くはないですけど、//nスプリングフィールドさんにとっては、皆にクリスマスを//n楽しんでもらえることが、一番嬉しいんじゃないでしょうか。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:皆にクリスマスを楽しんでもらう……
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:もちろん、のんびりするのが良くないって言ってるんじゃないですよ、//nただ方向性が違うというだけで。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:なんていうか……+カリーナさんとスプリングフィールドさんは、//n皆の休日を自分の休日のように思ってるんだね。
+GepardM1(6);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:そんな高尚なものじゃないですよ。+それに、私に限っては残業代もきちんと出ますからね、//n大した事ありませんって。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(0)||:……聞こえはいいけど、結局のところ、単なる残業なんだね。
+GepardM1(6);NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:そう！正にその通りなんです！
+GepardM1(6);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:あ……いけない、ついつい長居しちゃいました、そろそろお暇しないと。+まだ仕事が残ってまして……剪定できる人がいないとなると、//nツリーは後回しにするしかありませんね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(4)||:剪定しないとダメなの？
+GepardM1(6);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:このまま飾りつけたら、大変なことになりますよ。+やむを得ない時は、ゲパードさんの言うように//nイミテーションを使うしかありませんね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(4)||:……
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:それじゃ、お先に失礼しますね。スプリングフィールドさんがいたら、//nコーヒーをご馳走してもらえたのになぁ、とほほ……
+()||:カリーナは慌ただしくその場を立ち去った。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……大変だなぁ。
+GepardM1(6)<Speaker></Speaker>||:ゲパード M1はコーヒーカップを手に取った。//n煮えつくように熱かったコーヒーが、いつの間にか常温になっている。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||<黑点1>:こら、足を踏むな……バカ猫。+わかったよ……+せっかくの休日……せっかくのクリスマスだもんね。
+()<Speaker>指揮官</Speaker>||<BGM>BGM_Empty</BGM><BGM>BGM_Hello</BGM><黑点2><震屏3>:なんでもっと早く起こしてくれなかったんだ！
+NPC-Kalin(5)<Speaker>カリーナ</Speaker>||:えーーっ！私のせいですかぁ！？
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:何度起こしても起きなかったのは指揮官さまの方じゃないですか！//n今度からこういう力仕事は、適した人に任せるようにしてください！
+()<Speaker>指揮官</Speaker>||:でもほとんどルイス一人で運んだようなものだよ……//n何故こうも疲れてるのか、自分でもわからないんだ……+それで、剪定できる人は見つかったの？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:まだです。+スプリングフィールドさんはLWMMGさんと食材の点検で忙しいらしくて、//n他に頼める人も見つかってません。
+()<Speaker>指揮官</Speaker>||:参ったな……仕方ない、カリーナ、こうなったら私たちでやるしかない！
+NPC-Kalin(5)<Speaker>カリーナ</Speaker>||:ええっ！？私今、適材適所って言ったばかりですよね！？
+()<Speaker>指揮官</Speaker>||:他にどんな方法があるんだ！？//nルイスが一生懸命運んできた素材を無駄にするわけには……+あ、おはよう、ゲパード M1。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……もう昼だけど、指揮官。
+()<Speaker>指揮官</Speaker>||:う……確かにもう午後だね。パーティーまであと……+もしかして、パーティーが始まるのを待ってたのかい？
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……さすがにそこまでしないよ。+朝からずっと入り浸ってるだけ。+猫がいるし、コーヒーもあるから、それに静かだし。
+()<Speaker>指揮官</Speaker>||:なるほど……のんびりできていいなぁ……+さすがはゲパード M1だ、手本のような休暇の過ごし方だね。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……こんなのが手本？
+NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:指揮官さまーーッ！
+()<Speaker>指揮官</Speaker>||:ど、どうしたの？
+NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:どうしたもこうしたも……見てください、これ！
+()<Speaker>指揮官</Speaker>||:え……あ？
+()||:カフェの中央に目を向けると、大ぶりだった樹冠が丁寧に整えられ、//n枝に付着していた泥や汚れた樹皮が綺麗に取り除かれた、//n押しも押されもせぬ立派なクリスマスツリーがそこにはあった。+あとは装飾を施し、根元にプレゼントを置くだけだ。
+()<Speaker>指揮官</Speaker>||:剪定できる人がいないって、言ってなかった……？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:ほ、本当ですよ、嘘じゃありません……
+()<Speaker>指揮官</Speaker>||:じゃあ、これはどういうことなんだ？//n慌てて来たのが馬鹿みたいじゃないか……まさか、妖精たちの仕業じゃ？
+NPC-Kalin(2)<Speaker>カリーナ</Speaker>||<BGM>BGM_Empty</BGM>:そんなこと私に聞かれても……
+GepardM1(6)<Speaker>ゲパード M1</Speaker>;NPC-Kalin(2)||<BGM>BGM_Moon</BGM>:……
+GepardM1(6);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:<color=#A9A9A9>あれ？ゲパード M1さんの指……泥がついてる……</color>
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:<color=#A9A9A9>……そういうことだったんですね！</color>+何の事だか、さっぱりですね！
+()<Speaker>指揮官</Speaker>||:……その顔、何か隠してるな！白状するんだ！
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||:私は何も知りませーん。+あ、サンタクロースさんの仕業かもしれませんよ？
+()<Speaker>指揮官</Speaker>||:お願いだ、教えてくれ！
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||:……+……うるさいなぁ。
+()<Speaker></Speaker>||:ゲパード M1は小さく悪態をつくと、足元へとやってきた猫を優しく撫でた。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||<黑屏1>:……でも。
+GepardM1(6)<Speaker>ゲパード M1</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:結構、嬉しいかも。

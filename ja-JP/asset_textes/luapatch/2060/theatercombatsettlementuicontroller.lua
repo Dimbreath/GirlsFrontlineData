@@ -18,4 +18,9 @@ local PlayBattleTeamLeader = function(self, result)
 	self:SetLeaderPic(team:GetLeader());
 	self:SetRank(result.rank);
 end
+local _InitUIElements = function(self)
+	self:InitUIElements();
+	self.transform:Find("TheaterNode/AutoLayoutNode/TotalPointNode/BGNode/UI_Text (1)"):GetComponent(typeof(CS.ExText)).text = CS.Data.GetLang(210123);
+end
 util.hotfix_ex(CS.TheaterCombatSettlementUIController,'PlayBattleTeamLeader',PlayBattleTeamLeader)
+util.hotfix_ex(CS.TheaterCombatSettlementUIController,'InitUIElements',_InitUIElements)

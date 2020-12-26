@@ -8,7 +8,7 @@
         "description": "function_skill_config-20000101",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 1
     },
     {
         "id": 102,
@@ -61,6 +61,17 @@
         "group_id": 0,
         "code": "function_skill_icon_106",
         "description": "function_skill_config-20000106",
+        "arguments": 3,
+        "max_level": 5,
+        "is_show": 1
+    },
+    {
+        "id": 107,
+        "name": "function_skill_config-10000107",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_107",
+        "description": "function_skill_config-20000107",
         "arguments": 3,
         "max_level": 5,
         "is_show": 1

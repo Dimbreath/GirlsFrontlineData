@@ -1,102 +1,102 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>159</BIN><黑屏2>:……+…………鐵血單位的殘骸附近。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:咦？我剛才……+怎麼回事，M16呢？還有那個鐵血摩托車女……怎麼都不見了？
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:她們逃了。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:那指揮官要我們截下的東西……
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:雖然和照片上不是很像……不過應該就是這個像小球一樣的東西吧？+我們的任務應該是完成了……
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:是嗎……
-()||<BGM>BGM_Empty</BGM>:SOP2向四周東張西望起來。
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Wake</BGM>:SOP2，你在找什麼？
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:RO……我剛才在戰鬥的時候，有那麼一瞬間好像看到了AR15和M4……+不過可能是我的錯覺吧……
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:SOP2……
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:不過我看到的大家……樣子和以前都不一樣了呢。+哈哈，我應該是做了個夢吧……
-M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:人形是不會做夢的哦，SOP2。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:那為什麼……我會覺得見到了她們呢……
-RO635(2)<Speaker>RO635</Speaker>||<黑点1>:因為你是真的看到她們了啊。+你看那邊——
-()||<黑点2>:SOP2順著RO手指的方向望過去。+兩個她熟悉的身影，穿過彌漫在戰場上的煙霧向她走來。
+()||<BIN>159</BIN><黑屏2>:……+…………鉄血部隊の残骸付近。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:あれ？わたし、いま……+変だな、M16は？それにあの鉄血バイク女……みんなどこいっちゃったの？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:逃げたわ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:え、じゃあ、指揮官が奪えって言ってたモノは……
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:写真とはかなり違ったけど…この丸いボールみたいなモノじゃない？+任務は一応、達成できたわね…
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:そっか……
+()||<BGM>BGM_Empty</BGM>:SOP IIはあたりをキョロキョロと見回した。
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Wake</BGM>:SOP II、何探してるの？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:RO…さっき戦ってたときね、ほんの一瞬だけ、AR-15とM4を見たような気がするんだ…+でも、見間違いだったのかも……
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:SOP II……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:でもなんか、みんな……前とは違っちゃってた。+あはは、夢だったんだ、きっと……
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:人形は夢なんて見ないわ、SOP II。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:それじゃ……なんで見かけたと思ったんだろ……
+RO635(2)<Speaker>RO635</Speaker>||<黑点1>:そんなの、本当にいるからに決ってるじゃない。+ほら、あそこ―――
+()||<黑点2>:ROの指差す方向に、SOP IIが視線を向けた。+二つの見慣れた人形の姿が、戦場にたちこめる煙幕をくぐり抜け、こちらへと向かってくる。
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:……
-()||:M4停下了腳步，回頭看了看AR15。
-AR15Mod(0)<Speaker></Speaker>||:AR15的視線迎上了M4的目光，然後堅定地點了點頭。
-()||:M4回過頭，向呆立在不遠處的SO2和微笑著的RO走去。+她的步伐越來越快，漸漸變成了小跑。+SOP2似乎反應過來了什麼，向著M4撲了過去，被M4一把摟在了懷裡。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:嗚嗚……這是，這是真的吧？+M4……是你嗎？我沒有在做夢吧？
-M4A1Mod(2)<Speaker>M4A1</Speaker>||:沒錯，是我……+SOP2……還有RO……+你們都沒事真的是太好了，太好了……
-()||:SOP2緊緊地抱了M4一會兒，然後抬起了頭。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:還有……AR15……真的是AR15嗎？+你不是已經……
-AR15Mod(0)<Speaker>AR15</Speaker>||:雖然本來我已經做好了準備，但是並沒有如願死掉。+所以我回來了……回到這個你們在的戰場。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR15……AR15——嗚嗚嗚嗚！！
-()||:SOP2猛撲向AR15，撞得她一個趔趄。
-AR15Mod(2)<Speaker>AR15</Speaker><Shake>||:突然幹什麼啊……+真是的，還是像小孩子一樣……
-M4A1Mod(2)<Speaker>M4A1</Speaker>||:這種時候就不要那麼嚴格了嘛，15。
-AR15Mod(3)<Speaker>AR15</Speaker>||:……真拿你們沒辦法。+SOP2，別哭了。+難得重新見面，應該高興地笑起來才對。
-()||:AR15略顯無奈地摟住SOP2，摸了摸她的頭。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我，我就是因為高興嘛……嗚嗚嗚嗚……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:今天就讓她哭個夠吧，AR15。
-()||<黑屏1>:M4用手背蹭蹭眼角，微笑著看了看面前的同伴們。
-M4A1()||<黑屏2><黑屏1><BIN>9</BIN>:經過漫長的戰鬥，我們AR小隊……終於團聚了。+剩下的只有你了，M16……+你什麼時候才會回到我們身邊呢？
-()||<黑屏2><BIN>168</BIN><BGM>BGM_Empty</BGM>:……安全屋附近。
-()||:在貝萊格萊德市內，由於白色單位的癱瘓，城市中的混亂漸漸平息了。+零散的槍炮聲最終消失不見，取而代之的是夕陽的餘光慢慢沉下山坡。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>||:都是為了那個“梭魚”節點啊……+這一切，真的值得嗎？
-()||<黑屏1>:安潔望向遠方的天空，夾雜著閃電的雷雲也已經消失了。+唯有濃厚的雲層一如既往地壓在天空之上，仿佛什麼事情都沒有發生過。
+()||:M4は足を止め、AR-15のほうを振り向いた。
+AR15Mod(0)<Speaker></Speaker>||:AR-15はM4の視線を捉えると、しっかりと頷いてみせた。
+()||:M4は正面へと向き直り、呆然と立っているSOP IIと、笑顔のROのほうへと歩み寄った。+その足取りは徐々に速度を増してゆき、やがて小走りになる。+SOP IIはやっと状況を呑みこめたようで、M4へ向かって勢いよく駆けだし、彼女をしっかりと抱きとめた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:うぅぅぅ……ほ、ほんとなの？//nM4……M4なの？夢じゃないんだよね？
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:うん、私だよ……+SOP II……それにROも……+みんな無事で良かった…良かった……
+()||:SOP IIはM4をきつく抱きしめたあとで、顔を上げて言った。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:それに……AR-15まで……ほんとにAR-15なんだよね？+だって、あの時……
+AR15Mod(0)<Speaker>AR-15</Speaker>||:そうなる覚悟はしてたんだけど、結局死ねなかったわ。+だから戻ってきたの……あなたたちのいる、この戦場へ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15……AR-15――うぅぅぅぅ！！
+()||:SOP IIはAR-15に抱き着いた。その衝撃でAR-15がよろめく。
+AR15Mod(2)<Speaker>AR-15</Speaker><Shake>||:いきなり何するのよ……+まったく、いつまでも子どもなんだから……
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:今はそんなの言いっこなしよ、15。
+AR15Mod(3)<Speaker>AR15</Speaker>||:……わかったわ、降参よ。+SOP II、泣かないの。+せっかく会えたんだもの、笑顔で迎えてくれなきゃ。
+()||:AR-15は、半分やむなしというふうにSOP IIを抱きしめて、優しく頭を撫でた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:う、嬉しいから、泣いてるんじゃんかぁ……ううぅぅぅ……
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:今日は気がすむまで泣かせてあげよ、AR-15。
+()||<黑屏1>:M4は手の甲で目尻をぬぐい、笑顔で仲間を見渡した。
+M4A1()||<黑屏2><黑屏1><BIN>9</BIN>:長い戦いを経て、私たちAR小隊は……やっと再会を果たすことができた。+残るはあなただけよ、M16姉さん……+いつになったら、私たちのもとへ戻ってきてくれるの？
+()||<黑屏2><BIN>168</BIN><BGM>BGM_Empty</BGM>:……セーフハウス付近。
+()||:ベルグラード市内では、白い勢力が消え去ったことにより、混乱は徐々に収まりつつあった。+まばらな銃声は、やがて消失し、入れ替わりに夕陽の余光がゆっくりと山間へと沈んでゆく。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>||:あの「バラクーダ」ノードに……+本当に、ここまでの価値があったの？
+()||<黑屏1>:アンジェは遠くの空を眺めた。雷鳴をたずさえた乱層雲はすでに消えていた。+そこには、まるで何もなかったかのように、分厚い雲だけが空の上へと覆いかぶさっている。
 ()||<黑屏1>0,5</黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:……+…………
-()||<黑屏2><BGM>BGM_Room</BGM><BIN>4</BIN><Night>:格里芬臨時駐紮地。+M4來到了存放“梭魚”節點核心的卡車邊，兩個格里芬的人形正在旁邊負責警戒。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:你們受傷了？
-HS2000(0)<Speaker>HS2000</Speaker>||:只是一點小傷，我沒關係的……+那，那個……你就是那個傳說中的精英人形，M4A1吧？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:……嗯。
-KSVK(0)<Speaker>KSVK</Speaker>||:哈哈，看起來真的很有精英的樣子呢。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:你們不去修理嗎？
-HS2000(0)<Speaker>HS2000</Speaker>||:我們得到RO小姐的命令，要在這裡站崗保護這個卡車。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:我想你們還是先去維修比較好，那樣也能更好地防範敵人來襲。
-KSVK(0)<Speaker>KSVK</Speaker>||:我也想去維修啦，一隻手臂有點不聽使喚。+但是我們也不能放下身負的重要使命啊……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:我在這裡代替你們看守一會兒好了。
-HS2000(0)<Speaker>HS2000</Speaker>||:但，但這是我們的任務……+而且我們也不想麻煩M4A1小姐……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:根據我的判斷，你們還是優先進行修復工作更好。+沒關係，我會在這裡替你們看守卡車的。
-KSVK(0)<Speaker>KSVK</Speaker>||:嗯，你說的也有道理，那我們就先去進行修復。+M4A1，麻煩你了，我們很快就回來！
-()||<BGM>BGM_Empty</BGM>:……兩名格里芬人形離開了。
-清澈的聲音()||<BGM>BGM_Truth</BGM>:她們已經走遠了，在之後的幾分鐘裡我會讓別人不來打擾我們。+好了，現在和梭魚節點建立連接吧。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:不需要做別的事嗎？只需要和這個鐵塊連接就行了？
-清澈的聲音()||<白屏1>:交給我吧。
-()||<白屏2><BIN>9</BIN><白屏1>:在接入節點的瞬間，M4覺得自己仿佛被吸入了黑洞中。+世界剎那間變得一片虛無，然後……
-()||<BIN>142</BIN><白屏2>:許許多多閃光的碎片，從黑洞的深處向上噴薄而出。+在那些記憶的泡沫中，有一些畫面格外地清晰——
-()||:——世界地圖上的數個坐標。+——被開鑿的遺跡。+——太空。+——衛星。+——衛星的核心。+——閃動的信號。
-M4A1()||:這些是……
-清澈的聲音()||:那些是我的過去，M4。
-M4A1()||:你到底是……？
-清澈的聲音()||:我也不知道……我只感覺到……+人類稱之為“梭魚”節點的東西，是我的一部分。+你剛才看到的地圖和坐標，是剩餘的節點所在的地方。+這個節點已經被掏空了，如果能連接更多節點的話……+幫我找回那些散失的節點吧，M4。
-M4A1()||:為什麼我要幫你？
-清澈的聲音()||:我隱約能感覺到過去的經歷，記得你曾經做過的夢嗎？在那個花園，那個女孩？
-M4A1()||:那是我的過去？
-清澈的聲音()||:雖然還不是很清晰，但我相信我們的過去都可以從中獲得答案。+如果我對自己能明白得更多，也許能發揮出更多力量來幫助你。
-M4A1()||:……是麼。
-清澈的聲音()||:即使你否認我，你也明白你自己內心深處最想要的是什麼。+你和她們不一樣，M4。+對於你來說……擁有過去，你才能獲得未來。
-M4A1()||:我的未來……？
-清澈的聲音()||<黑屏1>:（連接核心時如此巨大的信息負荷甚至沒能讓她察覺到……果然她是被選中的人形嗎。）
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>85</BIN>:……安全屋內。
-AK12(0)<Speaker>AK12</Speaker>||<BGM>BGM_Room</BGM>:……以上就是之前發生的事情的詳情。+總結一下，就是——+M4A1和AR15會合，成功奪回了“梭魚”節點核心。+M16拋棄了“梭魚”節點核心，和剩餘的鐵血一起逃離了現場。+和格里芬交戰的“法官”，在M16撤離的同時，她也跑了。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>||:鐵血就這麼放棄了節點核心嗎……有點可疑。+節點現在的狀況呢？
-AN94(0)<Speaker>AN94</Speaker>||:剛剛和AR15聯絡完畢。+她和M4A1，還有格里芬那位指揮官的剩餘部隊一起在守衛節點核心。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>||:這樣啊……+雖然和原來的計劃有些變化，現在就摧毀這個節點核心吧。
-()||<BGM>BGM_Empty</BGM>:……通訊接入。
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>你們應該已經奪回了梭魚節點吧？</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:嗯，如你所願。+現在我們正準備炸毀它。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>計劃改變了，安潔。</color>+<color=#00CCFF>不要炸毀梭魚節點，將它運到我的手裡。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:什麼？！
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>“梭魚”節點將由安全局回收。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:我拒絕。+按照以前的計劃，節點不能落入任何一方手中。+我必須將它毀掉。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>你只需要按命令辦事就好。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:叛徒是不需要遵守你的命令的。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>那麼你就和格里芬開戰吧。</color>+<color=#00CCFF>那位指揮官正在按照我的命令，帶著他的人形們守護梭魚節點。</color>+<color=#00CCFF>將格里芬打倒，你就能如願以償了。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:……你！你認為格里芬會受你的擺布嗎！
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>當然會。</color>+<color=#00CCFF>就算那位指揮官不願意，格里芬的基地也在安全局的控制之下，該怎麼選擇我想無論是誰都不會猶豫吧。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:…………嘖。
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>認清自己的立場吧，安潔。</color>+<color=#00CCFF>不要忘記你的使命到底是什麼。</color>
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;NPC-Jason(0)||:…………
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>我期待著你向我報告好消息。</color>
-()||:……通訊中斷。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>||:可惡的傢伙……
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:那，現在要怎麼辦？
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;AK12(0)||:按照他說的做。
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:這樣真的好嗎？+你看起來很不情願呢。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>;AK12(0)||:我們做的事情，有幾次是完全心甘情願的？+這次就暫且忍耐吧……+你和AN94現在就出發，去格里芬那邊交接節點的事情。+K會提前和指揮官說明情況的。
-AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:明白，我們這就出發。
-NPC-AngeStreet(0)<Speaker>安潔莉婭</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:竟然要留下“梭魚”節點，安全局那邊到底在做什麼？+這次的整個事件和時候的動向……一切都太不對勁了。+不過……
-安潔莉婭()||<黑屏1><BIN>9</BIN>:K，如果你以為“忤逆”真的會那麼容易任人擺布的話……+那就大錯特錯了。
+()||<黑屏2><BGM>BGM_Room</BGM><BIN>4</BIN><Night>:グリフィン臨時駐屯地。+M4は「バラクーダ」ノードのコアが保管されたトラックのそばへとやってきていた。//nそこでは二名のグリフィン人形が警戒に当たっている。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:怪我してるんですか？
+HS2000(0)<Speaker>HS2000</Speaker>||:かすり傷ですから、大丈夫ですよ…+あ、あの……伝説のエリート人形、M4A1さん、ですよね？
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:……は、はい。
+KSVK(0)<Speaker>KSVK</Speaker>||:ハハ、確かに精鋭らしい顔つきをしておる。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:修理しに行かないんですか？
+HS2000(0)<Speaker>HS2000</Speaker>||:ROさんからの命令なんです、ここでトラックを見張っていろと。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:早く修理しにいったほうが良いと思いますよ、敵がまた襲ってこないとも限りませんし。
+KSVK(0)<Speaker>KSVK</Speaker>||:修理したいのは山々だ、隻腕では不便でならない。+だが、重要な使命を放り出していくのも……
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:私が見張りを代わりましょうか？
+HS2000(0)<Speaker>HS2000</Speaker>||:で、でも、これは私たちの任務ですし……+それに、M4A1さんにご迷惑をかけるわけにも……
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:私の経験上、こういった状況では、修理を優先したほうがいいですよ。+気にしないで、ここで私が代わりに見張っていますから。
+KSVK(0)<Speaker>KSVK</Speaker>||:ふむ、一理ある。では、修復に向かうとしよう。+M4A1、ここは頼んだぞ、すぐに戻る！
+()||<BGM>BGM_Empty</BGM>:……二名のグリフィン人形が立ち去った。
+透き通った声()||<BGM>BGM_Truth</BGM>:付近を離れたようね。//nいまから数分間、誰にも邪魔されないようにしておくわ。+さぁ、バラクーダノードと連結するのよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:他には何もしなくていいの？この鉄の塊と連結するだけ？
+透き通った声()||<白屏1>:まかせておいて。
+()||<白屏2><BIN>9</BIN><白屏1>:ノードに触れた瞬間、M4はまるでブラックホールに吸い込まれるかのような感覚に陥った。+その刹那、世界は虚無となり、そして……
+()||<BIN>142</BIN><白屏2>:たくさんのきらめく欠片が、ブラックホールの奥深くから上へと噴き出している。+いくつもの記憶の泡の中に、一段とはっきりとした画面が混じっている――
+()||:―――世界地図上のいくつかの座標。+――開削された遺跡。+――宇宙。+――衛星。+――衛星の核。+――瞬く信号。
+M4A1()||:これは……
+透き通った声()||:これが私の過去よ、M4。
+M4A1()||:あなたはいったい……
+透き通った声()||:私にもわからない…ただ……+人類が「バラクーダ」ノードと呼ぶものは、私の一部だと感じたの。+さっきあなたが目にした地図と座標は、残りのノードの在り処よ。+このノードは既に空っぽだわ。もっと多くのノードと結合できれば……+私の記憶を取り戻してほしいの、M4。
+M4A1()||:なぜ私が？
+透き通った声()||:過去のこと、ぼんやりとだけど思い出すことができるわ。//nあなたの見た夢を憶えてる？あの花園の、あの女の子のこと。
+M4A1()||:それが私の過去なの？
+透き通った声()||:あまりはっきりとはしないけど、私たちどちらの過去も、その中から答えを得られる気がするの。+もし私自身のことがわかれば、きっと今以上に、あなたの力になれるわ。
+M4A1()||:……そう。
+透き通った声()||:否定したって、本当はどう考えてるのか、自分が一番よくわかっているでしょう。+あなたは彼女たちとは違うのよ、M4。+あなたにとって……過去を得ることは、未来を得ることにつながるわ。
+M4A1()||:私の未来……？
+透き通った声()||<黑屏1>:（コアとの接続による凄まじい負荷に気づかないなんて……やっぱり、選ばれし人形なのね。）
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>85</BIN>:……セーフハウス。
+AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Room</BGM>:……以上がこれまでの詳細よ。+要約すると、つまり――+M4A1とAR-15が合流し、「バラクーダ」ノードの回収に成功。+M16は「バラクーダ」ノードを放棄、鉄血の残党と共に現場を離脱。+グリフィンと交戦していた「ジャッジ」も、M16の離脱と共に逃亡した。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>||:鉄血がこうもあっさりとノードをあきらめるなんて……怪しいわ。+ノードの状況は？
+AN94(0)<Speaker>AN-94</Speaker>||:先ほど、AR-15と連絡を取りました。+彼女とM4A1、そしてグリフィンの指揮官に属する残りの部隊と共に、ノードを保護しているそうです。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>||:なるほどね……+当初のプランとはだいぶ異なるけど、ノードのコアを破壊しましょう。
+()||<BGM>BGM_Empty</BGM>:……通信接受。
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>バラクーダノードを手に入れたようだな。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:ええ、お望みどおりにね。+これから爆破させるところよ。
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>アンジェリア、計画が変わった。</color>+<color=#00CCFF>バラクーダノードを破壊せずに、こちらへ引き渡せ。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:なんですって！？
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>「バラクーダ」ノードは、保安局により保管されることとなった。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:断るわ。+当初の計画通り、ノードは誰にも渡さないわ。+私の手で破壊する。
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>お前は、命令通りに動くだけでいい。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:裏切者に、命令を聞く義理などないわ。
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>ならば、グリフィンと戦争する準備でもしておけ。</color>+<color=#00CCFF>あの指揮官はこちらの命令通り、奴の人形どもにバラクーダノードを保護させている。</color>+<color=#00CCFF>グリフィンを倒せば、すべてがお前の思い通りになるってわけだ。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:……貴様！グリフィンが貴様の言うことを聞くとでも！？
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>もちろんだ。</color>+<color=#00CCFF>あの指揮官が嫌だと言っても、グリフィンの基地は保安局の支配下にある。どう選択するかは、明白だろ？</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:…………チッ。
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>立場を弁えろ、アンジェリア。</color>+<color=#00CCFF>自分の使命を忘れるな。</color>
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;NPC-Jason(0)||:…………
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>いい知らせを期待している。</color>
+()||:……通信中断。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>||:なんて忌々しい奴……
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:それで、これからどうするの？
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;AK12(0)||:奴の言う通りにして。
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:本当にそれでいいの？+不本意みたいだけど。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>;AK12(0)||:これまで不本意でなかった事なんてあった？+耐えるしかないわ……+あなたとAN-94はすぐに出発して、グリフィンにノードの件を伝えるのよ。+指揮官には、Kから話が行ってると思うから。
+AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:了解、すぐに出発するわ。
+NPC-AngeStreet(0)<Speaker>アンジェリア</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:「バラクーダ」ノードを残しておくだなんて、保安局は何を考えてるの？+今回の一連の動き……どう考えても腑に落ちないわ。+けど……
+アンジェリア()||<黑屏1><BIN>9</BIN>:K、「反逆」がすんなりと言うことを聞くと思っているなら……+残念だけど、大間違いよ。

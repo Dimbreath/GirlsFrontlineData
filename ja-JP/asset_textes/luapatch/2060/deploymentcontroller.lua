@@ -203,6 +203,14 @@ local TriggerStartMissionEvent = function()
 	CS.DeploymentController.TriggerStartMissionEvent();
 end
 
+local TriggerAVGFinishEvent = function()
+	CS.DeploymentController.TriggerAVGFinishEvent();
+	if CS.DeploymentController.Instance ~= nil and not CS.DeploymentController.Instance:isNull() then
+		if CS.GameData.missionAction ~= nil then
+			CS.DeploymentPlanModeController.Instance:Resume();
+		end
+	end
+end
 local ShowSettlementResult = function()
 	if CS.GameData.currentSelectedMissionInfo.missionType ~= CS.MissionType.simulation then
 		CS.DeploymentController.Instance:ShowCommonBattleSettlement();
@@ -222,19 +230,41 @@ local MoveTeam = function(self)
 	self:MoveTeam();
 end
 
+local CheckTrans = function()
+	if CS.DeploymentController.Instance:HasTeamCanTrans() then
+		CS.DeploymentController.Instance:CheckTeamTrans();
+	else
+		CS.DeploymentController.Instance:AddAndPlayPerformance(nil);
+	end
+end
+
 local RequestStartTurnHandle = function(self,www)
 	local useDemoMission = CS.GameData.currentSelectedMissionInfo.useDemoMission;
 	if CS.GameData.missionAction.missionInfo.specialType == CS.MapSpecialType.Night then
 		if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
-			CS.GameData.missionAction.missionInfo.currentMissionCombination = false;
+			CS.GameData.missionAction.missionInfo.currentMissionCombination.useDemoMission = false;
 		end
 		CS.GameData.missionAction.missionInfo.baseuseDemoMission = false;
 	end
 	self:RequestStartTurnHandle(www);
 	if CS.GameData.missionAction.missionInfo.currentMissionCombination ~= nil then
-		CS.GameData.missionAction.missionInfo.currentMissionCombination = useDemoMission;
+		CS.GameData.missionAction.missionInfo.currentMissionCombination.useDemoMission = useDemoMission;
 	end
 	CS.GameData.missionAction.missionInfo.baseuseDemoMission = useDemoMission;
+	if CS.GameData.missionResult ~= nil then
+		return;
+	end
+	self:AddAndPlayPerformance(CheckTrans);
+end
+
+local GoToBattleScene = function(self)
+	for i=0,CS.GameData.listSpotAction.Count-1 do
+		local spotAction = CS.GameData.listSpotAction:GetDataByIndex(i);
+		if spotAction.enemyInstanceId == 0 then
+			spotAction.enemyTeamId = 0;
+		end
+	end
+	self:GoToBattleScene();
 end
 util.hotfix_ex(CS.DeploymentController,'InitTeamSpots',InitTeamSpots)
 util.hotfix_ex(CS.DeploymentController,'RequestStartMissionHandle',RequestStartMissionHandle)
@@ -252,6 +282,8 @@ util.hotfix_ex(CS.DeploymentController,'PlayChangAllyTeam',PlayChangAllyTeam)
 util.hotfix_ex(CS.DeploymentController,'PlaySpotSurroundCapture',PlaySpotSurroundCapture)
 util.hotfix_ex(CS.DeploymentController,'FinishBattle',FinishBattle)
 util.hotfix_ex(CS.DeploymentController,'TriggerStartMissionEvent',TriggerStartMissionEvent)
+util.hotfix_ex(CS.DeploymentController,'TriggerAVGFinishEvent',TriggerAVGFinishEvent)
 util.hotfix_ex(CS.DeploymentController,'ShowSettlement',ShowSettlement)
 util.hotfix_ex(CS.DeploymentController,'MoveTeam',MoveTeam)
 util.hotfix_ex(CS.DeploymentController,'RequestStartTurnHandle',RequestStartTurnHandle)
+util.hotfix_ex(CS.DeploymentController,'GoToBattleScene',GoToBattleScene)

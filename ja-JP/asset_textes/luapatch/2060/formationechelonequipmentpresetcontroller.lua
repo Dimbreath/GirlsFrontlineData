@@ -62,7 +62,7 @@ myChangeEquip = function(self, ...)
 						end
                         local resultEquips = tempEquips:FindAll(
 							function(ss)
-								return CS.GameData.equipRealGunMap:ContainsKey(ss.id) == false and ss.info.auto_select_id == eq.info.auto_select_id and (ss.info.listFitGunInfoId.Count == 0 or ss.info.listFitGunInfoId:Contains(g.info.id));
+								return CS.Ratio.arrEquipLevelRankLimit[CS.System.Convert.ToInt32(ss.info.rank)] <= gun.level and CS.GameData.equipRealGunMap:ContainsKey(ss.id) == false and ss.info.auto_select_id == eq.info.auto_select_id and (ss.info.listFitGunInfoId.Count == 0 or ss.info.listFitGunInfoId:Contains(g.info.id));
 							end
 						);
                         if (resultEquips.Count == 0) then

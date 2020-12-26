@@ -1,129 +1,129 @@
-()<Speaker>MP7</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:臭·老·鼠——！+给我站住！
-()<Speaker>指挥官</Speaker>||<SE1>Runstep</SE1><震屏3><黑屏1>:……+<color=#A9A9A9>……难得的圣诞节，如果可以的话，真希望不要一大早就出现让人头疼的事。</color>
-()<Speaker>指挥官</Speaker>||<BGM>m_avg_casual</BGM><BIN>81</BIN><黑屏2>:……所以，发生了什么事？
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>我来到吵闹的发源地，眼前所见的是一片狼藉的走廊。</color>
-AA12(0)<Speaker>AA12</Speaker>||:啊……指挥官，你终于来了。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>一脸嫌麻烦的AA12是首先看到我的人，她一副终于解脱了的样子，显然是困扰了很久。</color>
-()<Speaker>指挥官</Speaker>||:AA12……所以刚才那个声音果然是MP7的吗？
-AA12(0)<Speaker>AA12</Speaker>||:我也不太清楚，总之您自己过去看看吧。+我实在不想被卷进去……
-()<Speaker>指挥官</Speaker>||:我也不是不能理解你的感受……我倒是已经猜到发生了什么了。
-MP7(0)<Speaker>MP7</Speaker>||<震屏3>:我就觉得很奇怪！为什么明明没有吃棒棒糖却一直在变少！果然是你这只臭老鼠搞的鬼！
-PDW(2)<Speaker>蜜獾</Speaker>||:贝特才不是老鼠！
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>倒是跟我想的差不多……</color>
-()<Speaker>指挥官</Speaker>||:好了……不要吵了，MP7，蜜獾。我在办公室都能听见你们的声音。+发生什么事了？
-MP7(0)<Speaker>MP7</Speaker>||:啊！饲养员你来得正好！+这只老鼠纵容她的宠物偷我的棒棒糖！
-PDW(2)<Speaker>蜜獾</Speaker>||:贝特才不是宠物，是我的同伴，我也不是老鼠！而且你明明也对贝特使用暴力了吧！
-()<Speaker>指挥官</Speaker>||:好了！别吵了！我说……<c>这件事确实是贝特的不对……<c>MP7你的反应太过度了。<c>两边各让一步怎么样？
-MP7(0)<Speaker>两人</Speaker>;PDW(2)<Speaker>两人</Speaker>||<分支>3</分支>:不要！
-MP7(0)<Speaker>MP7</Speaker>||<分支>2</分支>:才没有反应过度！
-MP7(0)<Speaker>MP7</Speaker>||<分支>1</分支>:这是当然的吧！
-MP7(0);PDW(2)<Speaker>蜜獾</Speaker>||:只不过是棒棒糖而已吧？
-MP7(0)<Speaker>MP7</Speaker>;PDW(2)||:居然说只是棒棒糖——这是很严重的发言过失啊！
-MP7(0);PDW(2)<Speaker>蜜獾</Speaker>||:又没有说错，又不是小孩子了，为区区的棒棒糖大动肝火，真不像话。
-MP7(0)<Speaker>MP7</Speaker>;PDW(2)||:你说什么——！
-()<Speaker>指挥官</Speaker>||:好了！
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>眼前的两人非但没有各让一步的意思，还有些越演越烈的架势，我不禁头疼了起来。</color>
-()<Speaker>指挥官</Speaker>||:你们两个的关系……也未免太差了吧。+<color=#A9A9A9>而且为什么贝特居然会吃棒棒糖啊……想不明白，难道是故意要惹MP7生气吗？</color>
-MP7(0)<Speaker>MP7</Speaker>||:这还用说吗！我最讨厌她了！
-MP7(0);PDW(2)<Speaker>蜜獾</Speaker>||:彼此彼此。
-MP7(0)<Speaker>MP7</Speaker>||:咿——！
-()<Speaker>指挥官</Speaker>||<黑点1>:你们两个，都不要吵了。+……我有个方案。
-()||<BGM>BGM_Empty</BGM><黑点2>:……+……说明结束。
-()<Speaker>MP7&蜜獾</Speaker>||<BGM>BGM_Hello</BGM>:啊！？
-MP7(0)<Speaker>MP7</Speaker>||:饲养员你脑袋坏掉了吗？凭什么我的棒棒糖被人偷走了我还反而要送礼物给她不可啊！
-PDW(2)<Speaker>蜜獾</Speaker>||:这样的话我也正要说，指挥官。+我完全不明白这样做的意义和理由是什么。+跟这种人交换礼物有什么哪怕一丁点的好处吗？
-()<Speaker>指挥官</Speaker>||:好了好了，都冷静一下，听我解释。+你们两个，这样吵下去也没完没了的吧？+与其谁都不服谁，不如公平一点让对方心服口服……虽然是这么说，但你们没有忘记今天是什么日子吧？
-PDW(2)<Speaker>蜜獾</Speaker>||:……是圣诞节。
-MP7(0)<Speaker>MP7</Speaker>||:是圣诞节吧。
-()<Speaker>指挥官</Speaker>||:知道就好，我可不想在圣诞节的时候主持决斗，所以用这种符合节日氛围的方式来分胜负，难道不是刚好吗？+给你们二位一天的时间做准备，谁的礼物能够让对方心服口服，谁就是胜利者，失败的一方要好好地道歉。
-MP7(0)<Speaker>MP7</Speaker>||:我才不要！给这只老鼠准备礼物什么的完全是浪费时间和金钱！
-()<Speaker>指挥官</Speaker>||:还是说……+MP7你担心用这种方式比试的话会输掉吗？
-MP7(0)<Speaker>MP7</Speaker>||:……+啊？
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>果然，MP7把声音提高了几分。</color>+<color=#A9A9A9>MP7并不是笨蛋，但是却很容易中激将法。</color>
-MP7(0)<Speaker>MP7</Speaker>||:真敢说啊……饲养员，你胆子变大了嘛。+比就比！谁怕谁啊！+你这家伙，给我洗干净脖子等着！这只臭老鼠！
-()||:MP7愤愤而去。
-PDW(2)<Speaker>蜜獾</Speaker>||:……
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>……好刺痛啊，蜜獾的眼神。</color>
-PDW(2)<Speaker>蜜獾</Speaker>||:要分胜负是没有关系，反正不论用什么方式，我和贝特都是不会输的。+既然是指挥官的要求，我就稍微奉陪一下……唯独不想输给那种家伙啊。+不管是什么方式也好。
-()<Speaker>指挥官</Speaker>||:……+我早就想问了，蜜獾你跟MP7之间是有什么深仇大恨吗？
-PDW(2)<Speaker>蜜獾</Speaker>||:也说不上是那种程度吧。+只是稍微有些合不来罢了？
-()<Speaker>指挥官</Speaker>||:这不是“稍微”的程度了吧？+的确，MP7的性格一直都是那样，但我也知道，她并不是什么坏孩子。+还有蜜獾你也是，一直以来都非常可靠……贝特也一样。
-PDW(2)<Speaker>蜜獾</Speaker>||:所以才想到了用“交换礼物”这种奇怪的方式给我们鼓劲吗？
-()<Speaker>指挥官</Speaker>||:比试什么的当然是幌子，如果可以的话，我希望这能称为一个你们和好的契机。+毕竟如果你们一直相处都不融洽的话，我可是会很头疼的。
-PDW(2)<Speaker>蜜獾</Speaker>||:我也不是完全不能理解指挥官的想法。+但我觉得只是白费力气而已。
-()<Speaker>指挥官</Speaker>||:为什么？
-PDW(2)<Speaker>蜜獾</Speaker>||:我并不觉得那家伙会认真准备礼物。+多半只是会带过来一些小家子气的东西，甚至是恶作剧一样的玩具来让我难堪吧。
-()<Speaker>指挥官</Speaker>||:……会那样吗？
-PDW(2)<Speaker>蜜獾</Speaker>||:虽然这样说可能会很奇怪。+但我和那家伙之间的孽缘并不是这样轻而易举就能够了结的东西。
-()<Speaker>指挥官</Speaker>||:都说到这样的地步了，反而让人放心不下。+我倒是觉得MP7不会做出那样的事情。+我已经说过了，虽然MP7的个性稍微有些别扭，但她并不是坏孩子。
-PDW(2)<Speaker>蜜獾</Speaker>||:嗯哼……指挥官很信赖她嘛。
-()<Speaker>指挥官</Speaker>||:我信赖的是你们所有人。+包括你在内，我相信你们当中不会有坏人。
-PDW(2)<Speaker>蜜獾</Speaker>||:既然如此，要不要跟我打个赌呢？指挥官？
-()<Speaker>指挥官</Speaker>||:打赌？
-PDW(2)<Speaker>蜜獾</Speaker>||:就赌那家伙到底会不会认真地去给我准备礼物。
-()<Speaker>指挥官</Speaker>||:……我觉得这种事情没有赌博的意义啊。
-PDW(2)<Speaker>蜜獾</Speaker>||:指挥官不是非常信任我们吗？+那就来比比看吧，是指挥官的信任是正确的，还是我与她的纠葛能占上风。+如果指挥官赢了的话……
-()<Speaker>指挥官</Speaker>||:赢了的话？
-PDW(2)<Speaker>蜜獾</Speaker>||:保密。
-()<Speaker>指挥官</Speaker>||:……这不是等于什么都没说吗？+不过，如果这样能让你心服口服的话，我可以接受。+但是，蜜獾你也要答应我一件事。
-PDW(2)<Speaker>蜜獾</Speaker>||:什么事呢？
-()<Speaker>指挥官</Speaker>||:你也要认真去考虑和准备给MP7的礼物才行。+说到底这件事是贝特的不对吧？+之后如果能好好的道歉就好了。
-PDW(2)<Speaker>蜜獾</Speaker>||:我稍微考虑一下吧，不会让指挥官难做的。+但如果那家伙要让我难堪的话，我可是也不会善罢甘休的。
-()||:蜜獾也背身而去。
-()<Speaker>指挥官</Speaker>||:……希望能有好的结果吧。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>虽然已经能理解这两人的关系究竟是有多糟了，但如果能有好的契机，大概总会有办法的。</color>+<color=#A9A9A9>只要MP7和蜜獾都能接受这个提议，就是一个好的开始。</color>+<color=#A9A9A9>剩下的事，就只有等到晚上才知道结果了。</color>
-()<Speaker>指挥官</Speaker>||:……+咦？AA12？你还在啊？
-AA12(0)<Speaker>AA12</Speaker>||<黑点1>:……+……所以说，我早就可以回去了吧？
-()||<黑点2><Night><BGM>BGM_Empty</BGM>:晚上。
-()<Speaker>蜜獾</Speaker>||<BGM>BGM_Moon</BGM>:指挥官。
-()<Speaker>指挥官</Speaker>||:进来吧。
-PDW(2)<Speaker>蜜獾</Speaker>||:……+……看来是我先到了呢，能不能算我胜出了呢？
-()<Speaker>指挥官</Speaker>||:……比试的内容不是这个吧。+而且重点也不在分胜负上，多少理解一下我的苦心吧。
-PDW(2)<Speaker>蜜獾</Speaker>||:对那家伙来说，胜负就是全部的重点吧。
-()<Speaker>指挥官</Speaker>||:我看你的胜负心也丝毫不弱嘛……所以你准备了什么？
-PDW(2)<Speaker>蜜獾</Speaker>||:请允许我暂时保密。+而且也不一定会有拿出来的机会。+如果对方没有遵守规则的意思的话，我也不介意用简单的方式解决问题。
-()<Speaker>指挥官</Speaker>||:别公然发表斗殴宣言啊……不过我倒是放心了，听你这样说，你是有好好准备礼物的吧？
-PDW(2)<Speaker>蜜獾</Speaker>||:那当然了。+我又不像某些人那样，不仅小孩子气还幼稚得不行。
-PDW(2);MP7(0)<Speaker>MP7</Speaker>||:——你说谁不仅小孩子气还幼稚得不行啊臭老鼠？
-PDW(2)<Speaker>蜜獾</Speaker>;MP7(0)||:啊，出现了。
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>那两个形容不是一个意思吗？</color>
-MP7(0)<Speaker>MP7</Speaker>||:可恶……只知道在别人背后说人坏话。+所以才说我讨厌你啊。
-()||:MP7看起来余怒未消，但并没有继续纠缠下去。+她拿着一个并不算大的礼物盒子，包装得有些粗糙，但相当漂亮。+蜜獾看起来也注意到了，脸上露出吃惊的表情。
-()<Speaker>指挥官</Speaker>||:咳……+MP7……你有好好准备能让蜜獾心服口服的礼物吗？
-MP7(0)<Speaker>MP7</Speaker>||:哼，你以为你在跟谁说话啊。+不管是什么任务，我当然都会完成得很漂亮吧，笨蛋饲养员。
-()||:蜜獾有些动摇。
-PDW(2)<Speaker>蜜獾</Speaker>||:……什么嘛，该不会是先说的好听，然后再用恶作剧礼物让我吓一跳吧？
-()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>还在逞强啊……</color>
-MP7(0)<Speaker>MP7</Speaker>||:恶作剧礼物倒是很适合小偷老鼠，但是我更不喜欢输掉比赛。+而且……饲养员也说过了吧，今天是圣诞节。+我可不想做什么太坏气氛的事情。
-()||:MP7将手里的礼物盒递给了蜜獾。
-PDW(2)<Speaker>蜜獾</Speaker>||:……+……里面是打开就会爆炸的东西吗？
-MP7(0)<Speaker>MP7</Speaker>||:当然不是！你把我当成什么了啊！
-()<Speaker>指挥官</Speaker>||:这是什么？
-MP7(0)<Speaker>MP7</Speaker>||:是发饰，还有丝带。+臭老鼠从早上开始就穿着奇怪的衣服吧。+就想着反正是圣诞节，不如送点贴切的东西。+这个可是我亲手做的，好好感激涕零吧！
-()<Speaker>指挥官</Speaker>||:……啊，的确很合适呢。+那么……蜜獾的礼物呢？
-PDW(2)<Speaker>蜜獾</Speaker>||:……+……给。
-()||:短暂的沉默之后，蜜獾也从贝特的身上取下了一个精致的盒子。
-MP7(0)<Speaker>MP7</Speaker>||:哼，反正不管是什么也……这是什么啊？
-PDW(2)<Speaker>蜜獾</Speaker>;MP7(0)||:是棒棒糖。
-PDW(2);MP7(0)<Speaker>MP7</Speaker>||:欸？
-PDW(2)<Speaker>蜜獾</Speaker>;MP7(0)||:是特制的圣诞棒棒糖。+早上贝特偷吃了你的糖吧？+算是跟你道歉，不要再责怪贝特了。
-MP7(0)<Speaker>MP7</Speaker>||:跟我道歉……你？
-()||:MP7呆愣在了原地。+蜜獾也很不自在，场面变得有些尴尬。
-()<Speaker>指挥官</Speaker>||:现在想法有改变了吗？
-PDW(2)<Speaker>蜜獾</Speaker>||:……是我错估了。+指挥官说的的确没有错。
-()<Speaker>指挥官</Speaker>||:只要愿意沟通，即便是你们也一定可以心意相通的。+我也很高兴，你有好好听我的话去准备给MP7的礼物。+下了些功夫呢。
-PDW(2)<Speaker>蜜獾</Speaker>||:毕竟是指挥官先对我们的事情这样上心，即使是我也感到非常感激。+我也的确是动了些脑筋……虽然我不觉得可以就这样变成好朋友。+但也许就像指挥官说的那样，什么事都要有第一步吧。
-()||:蜜獾又拿出了一个盒子。
-PDW(2)<Speaker>蜜獾</Speaker>||:跟指挥官的打赌是我输了，这是给指挥官的礼物。
-()<Speaker>指挥官</Speaker>||:给我的？
-PDW(2)<Speaker>蜜獾</Speaker>||:嗯。+要趁现在气氛还好的时候送出去才行。+圣诞快乐，指挥官。
-()<Speaker>指挥官</Speaker>||:谢谢，你有心了。+……+……等等？+……趁现在气氛还好？这是什么意思？
-MP7(0)<Speaker>MP7</Speaker>||<BGM>BGM_Empty</BGM>:——嘎。
-()<Speaker>指挥官</Speaker>||:……MP7？你怎么……那个棒棒糖？
-MP7(0)<Speaker>MP7</Speaker><Shake>||<BGM>m_avg_casual</BGM><震屏3>:咿咿咿咿咿咿咿——在跳！在跳！什么东西在我的嘴巴里跳！+饲养员！有虫子！有虫子在我的嘴巴里跳来跳去！
-()<Speaker>指挥官</Speaker>||:冷静一下！那个应该不是虫子，是跳跳糖吧……蜜獾！
-PDW(2)<Speaker>蜜獾</Speaker>||:那么我先告辞了，指挥官。+贝特！我们走！
-()<Speaker>指挥官</Speaker>||:别跑啊！
-MP7(0)<Speaker>MP7</Speaker><Shake>||<震屏3>:咿呀——！跳得好激烈——不要咬我的嘴巴！
-()<Speaker>指挥官</Speaker>||:冷静啊！
-()||<黑屏1>:现场一下子陷入了混乱。+……看来想让这两人的关系变好，还需要很长一段时间。
+()<Speaker>Gr MP7</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:この、クソネズミ――ッ！+そこを動くなッ！
+()<Speaker>指揮官</Speaker>||<SE1>Runstep</SE1><震屏3><黑屏1>:……+<color=#A9A9A9>……貴重なクリスマスの朝だ、出来る事なら、厄介な問題は起こして欲しくないんだけども。</color>
+()<Speaker>指揮官</Speaker>||<BGM>m_avg_casual</BGM><BIN>81</BIN><黑屏2>:……それで、何があったんだい？
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>私は騒ぎの中心地を訪れていた。目の前には、盛大に取り散らかった廊下が続いている。</color>
+AA12(0)<Speaker>AA12</Speaker>||:あ……指揮官、やっと来たのか。
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>まず目に入ったのは、うんざりした様子のAA-12だった。やっと解放されたとでも言わんばかりに表情を和らげる。どうやら、長いこと困らされていたようだ。</color>
+()<Speaker>指揮官</Speaker>||:AA-12……ということは、さっきの声はMP7が？
+AA12(0)<Speaker>AA12</Speaker>||:さぁ、どうだか。まずはその目で見てきなよ。+巻き込まれるのは御免だ……
+()<Speaker>指揮官</Speaker>||:気持ちはわかるよ……まぁ、何があったのかは大体予想がつく。
+MP7(0)<Speaker>Gr MP7</Speaker>||<震屏3>:おかしいと思った！ロリポップがひとりでになくなるわけないじゃん！//nやっぱコイツの仕業か、このドブネズミめッ！
+PDW(2)<Speaker>Honey Badger</Speaker>||:ペトはネズミなんかじゃありませんっ！
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>思った通り……</color>
+()<Speaker>指揮官</Speaker>||:まぁまぁ……MP7、Honey Badger、そう興奮しないで。//n私のオフィスにまで、君たちの声が丸聞こえだったよ。+何があったんだ？
+MP7(0)<Speaker>Gr MP7</Speaker>||:あ！飼育員、良い所に来た！+このネズミ女がペットを唆して、//n白昼堂々私のキャンディを盗ませたんだ！
+PDW(2)<Speaker>Honey Badger</Speaker>||:ペトはペットなんかじゃありません、私のパートナーです！//nそれに、私はネズミじゃありませんっ！//nそもそも、先に暴力を振るったのはそっちじゃないですか！
+()<Speaker>指揮官</Speaker>||:もういい！そこまで！あのね……<c>この件に関しては、確かにペトが悪い……<c>MP7、さすがに自意識過剰じゃないのか？<c>ここは喧嘩両成敗ってことで、どうかな？
+MP7(0)<Speaker>二人</Speaker>;PDW(2)<Speaker>二人</Speaker>||<分支>3</分支>:いやだ（です）！
+MP7(0)<Speaker>Gr MP7</Speaker>||<分支>2</分支>:自意識過剰なもんか！
+MP7(0)<Speaker>Gr MP7</Speaker>||<分支>1</分支>:当たり前の事じゃん！
+MP7(0);PDW(2)<Speaker>Honey Badger</Speaker>||:たかがキャンディのひとつやふたつで……
+MP7(0)<Speaker>Gr MP7</Speaker>;PDW(2)||:たかがキャンディ――！？アンタ……失言も甚だしいよ！？
+MP7(0);PDW(2)<Speaker>Honey Badger</Speaker>||:何か問題でも？子どもじゃないんですから、//nキャンディごときで喚き散らすなんて、みっともないですよ。
+MP7(0)<Speaker>Gr MP7</Speaker>;PDW(2)||:なんだと――！
+()<Speaker>指揮官</Speaker>||:やめるんだ！
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>目の前の二人は歩み寄るどころか、苛烈さを増してきている。私は頭を抱えた。</color>
+()<Speaker>指揮官</Speaker>||:君たちは……どうしてこうも仲が悪いんだ。+<color=#A9A9A9>というか何故ペトがキャンディを食べるんだ……意味がわからない、わざとMP7を怒らせようとしてるのか？</color>
+MP7(0)<Speaker>Gr MP7</Speaker>||:理由なんてない！とにかく、私はコイツが大っ嫌いなの！
+MP7(0);PDW(2)<Speaker>Honey Badger</Speaker>||:お互いさまです。
+MP7(0)<Speaker>Gr MP7</Speaker>||:イーーッだ！
+()<Speaker>指揮官</Speaker>||<黑点1>:二人とも、喧嘩はやめて。+私に良い考えがあるんだ。
+()||<BGM>BGM_Empty</BGM><黑点2>:……+……私は説明を終えた。
+()<Speaker>二人</Speaker>||<BGM>BGM_Hello</BGM>:え！？
+MP7(0)<Speaker>Gr MP7</Speaker>||:飼育員、アンタ、ついに頭がおかしくなっちゃったの！？//nなんでキャンディを盗まれた側の私が、犯人にプレゼントを//n贈らなきゃなんないのさ！？
+PDW(2)<Speaker>Honey Badger</Speaker>||:お言葉ですが、指揮官さん。+私にはこうすることの理由がさっぱり理解できません。+こんな人とプレゼントを交換することに、//n一体なんのメリットがあるというのです？
+()<Speaker>指揮官</Speaker>||:まぁまぁ、まずは落ち着いて話を聞いて。+このまま言い争っていても埒があかないだろう？+両者共に一歩も譲る気がないんだったら、なんとかしてお互いを//n納得させるしかない……そういえば二人とも、今日は何の日だか//n知ってるかい？
+PDW(2)<Speaker>Honey Badger</Speaker>||:……クリスマスです。
+MP7(0)<Speaker>Gr MP7</Speaker>||:クリスマス。
+()<Speaker>指揮官</Speaker>||:知ってるなら話は早い。クリスマスに決闘なんて主催したくはないからね。//nこういったイベントにちなんだ方法で勝負するのが一番だとは思わないかい？+二人には1日の準備期間を与える、プレゼントで相手を//n納得させた方が勝ちだ。負けた側はきちんと相手に謝る事、いいね？
+MP7(0)<Speaker>Gr MP7</Speaker>||:やだねーだ！泥棒ネズミにプレゼント？//nお金と時間の無駄に決まってるじゃん！
+()<Speaker>指揮官</Speaker>||:へぇ……+MP7は、負けるのが怖いんだ？
+MP7(0)<Speaker>Gr MP7</Speaker>||:……+へっ？
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>予想通り、MP7の声が若干上擦った。</color>+<color=#A9A9A9>MP7は決して馬鹿ではないが、はっぱをかけられるのには滅法弱い。</color>
+MP7(0)<Speaker>Gr MP7</Speaker>||:へぇ……飼育員、随分と言うようになったじゃん。+良いよ！その勝負、受けて立ってやる！+おい、そこのドブネズミ！せいぜい首を洗って待ってな！
+()||:MP7は憤りつつその場を離れた。
+PDW(2)<Speaker>Honey Badger</Speaker>||:……
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>……Honey Badgerの視線が痛い。</color>
+PDW(2)<Speaker>Honey Badger</Speaker>||:勝負するのは構いません、どう競い合おうと、//n私とペトが負けるなどありえませんから。+それに指揮官さんたってのご要望ですもの、//n協力は惜しみません……私、アイツには絶対に負けたくないんです。+たとえ、どんな手を使ってでも。
+()<Speaker>指揮官</Speaker>||:……+前から聞きたかったんだけど、君はMP7に、何か恨みでもあるのか？
+PDW(2)<Speaker>Honey Badger</Speaker>||:そういうわけじゃありませんけど。+ただ、そりが合わないというだけです。
+()<Speaker>指揮官</Speaker>||:「そりが合わない」って程度にはとても見えないけど？+確かにMP7は昔からあんな調子だ、でも決して悪い子じゃない。+それに君も、とても頼りになる存在だよ……もちろん、ペトも。
+PDW(2)<Speaker>Honey Badger</Speaker>||:だから「プレゼント交換」などという手ぬるい方法で//n勝負をつけさせようとしたんですね？
+()<Speaker>指揮官</Speaker>||:勝負なんてのは、表向きに過ぎないよ。//n君たち二人が仲良くなるきっかけになればと思ったんだ。+このまま仲違いを続けられちゃ、こちらが参ってしまうからね。
+PDW(2)<Speaker>Honey Badger</Speaker>||:指揮官さんのお考えには、賛同できる部分も無きにしもあらずですが……+今回ばかりは、時間の無駄だと思いますよ。
+()<Speaker>指揮官</Speaker>||:どうして？
+PDW(2)<Speaker>Honey Badger</Speaker>||:アイツが真面目にプレゼントを用意するとは思えませんもの。+おおかた、せせこましい手段でごまかすか、//nイタズラを仕込んで私が狼狽するのを楽しむつもりなんです。
+()<Speaker>指揮官</Speaker>||:……そうかなぁ？
+PDW(2)<Speaker>Honey Badger</Speaker>||:こう言うのも癪ですけど。+私とアイツの腐れ縁は、//nこんな程度の事で切れるようなものじゃありませんから。
+()<Speaker>指揮官</Speaker>||:君にそこまで言われると、逆に心配になってきたよ。+MP7はそんなことしないと思うんだけどなぁ。+さっきも言ったように、//n少々偏屈なのは認めるけど、けして悪い子ではないんだ。
+PDW(2)<Speaker>Honey Badger</Speaker>||:あら……随分と信頼なさってるんですね。
+()<Speaker>指揮官</Speaker>||:私が信頼してるのは、君たち全員だよ。+私はグリフィンに悪人はいないと信じてる、もちろん君も含めて。
+PDW(2)<Speaker>Honey Badger</Speaker>||:それでしたら、私と賭けをしませんか、指揮官さん？
+()<Speaker>指揮官</Speaker>||:賭け？
+PDW(2)<Speaker>Honey Badger</Speaker>||:アイツがちゃんとしたプレゼントを用意してくるかどうか。
+()<Speaker>指揮官</Speaker>||:……賭ける必要も無いと思うけどなぁ。
+PDW(2)<Speaker>Honey Badger</Speaker>||:指揮官さんは私たちを信頼なさってるんでしょう？+それなら賭けてみませんか？指揮官さんの判断が正しいのか、//nそれとも私とアイツの悪縁が白星をあげるのか。+もし指揮官さんが勝ったら……
+()<Speaker>指揮官</Speaker>||:勝ったら？
+PDW(2)<Speaker>Honey Badger</Speaker>||:ナイショです。
+()<Speaker>指揮官</Speaker>||:……なんだそれ、賭けもへったくれもないじゃないか。+だけど、それで君が納得するというんなら、話に乗ってもいいよ。+ただし、条件がある。
+PDW(2)<Speaker>Honey Badger</Speaker>||:条件？
+()<Speaker>指揮官</Speaker>||:MP7へのプレゼントを、君も真面目に検討すること。+そもそも事の発端は、ペトが物を盗んだことにあるんだろう？+最後はきちんと謝っておかなきゃ駄目だよ。
+PDW(2)<Speaker>Honey Badger</Speaker>||:考えておきます。決して指揮官さんの悪いようにはしませんよ。+ですが、もしアイツが私に恥をかかせようとしたら、//nこちらもタダで済ませるつもりはありませんから。
+()||:Honey Badgerは背中を向けて立ち去った。
+()<Speaker>指揮官</Speaker>||:……上手く事が運ぶと良いんだけど。
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>二人の怨恨がどれほどのものか、ある程度は察しがついた。だが、正しいきっかけがあれば、何かしらの方法は見つかるはず。</color>+<color=#A9A9A9>MP7とHoney Badgerがこの提案を受け入れたことは、幸先の良いスタートだと言える。</color>+<color=#A9A9A9>あとは、夜になるのを待つばかりだ。</color>
+()<Speaker>指揮官</Speaker>||:……+あれ？AA-12？まだいたの？
+AA12(0)<Speaker>AA12</Speaker>||<黑点1>:……+……それはつまり、さっさと帰って良かったってことか？
+()||<黑点2><Night><BGM>BGM_Empty</BGM>:その夜。
+()<Speaker>Honey Badger</Speaker>||<BGM>BGM_Moon</BGM>:指揮官さん。
+()<Speaker>指揮官</Speaker>||:入って。
+PDW(2)<Speaker>Honey Badger</Speaker>||:……+……一番乗りだったみたいですね。//nこれで私の勝ちということにしませんか？
+()<Speaker>指揮官</Speaker>||:……そういう勝負じゃなかったと思うけど。+それに、勝ち負けは重要じゃないんだ。//n私の心遣いに少しは感謝してほしいよ。
+PDW(2)<Speaker>Honey Badger</Speaker>||:アイツにとっては、勝ち負けこそが問題なんだと思いますけど？
+()<Speaker>指揮官</Speaker>||:君も相当負けず嫌いだね……それで、何を準備してきたんだ？
+PDW(2)<Speaker>Honey Badger</Speaker>||:今は秘密ということで。+そもそも、箱から出すチャンスがあるとも思えませんし。+もし相手にルールを守る意志が無いのでしたら、//nより単純明快な方法で決着をつけるのも、やぶさかではありませんよ。
+()<Speaker>指揮官</Speaker>||:そう公然と決闘を宣言しないでもらいたいね……でも安心したよ。//nその口ぶりだと、ちゃんとプレゼントを準備してきたようだね？
+PDW(2)<Speaker>Honey Badger</Speaker>||:もちろんです。+私は誰かさんみたいに、幼稚で子ども染みてはいませんから。
+PDW(2);MP7(0)<Speaker>Gr MP7</Speaker>||:――誰が幼稚で子ども染みてるって？このドブネズミが。
+PDW(2)<Speaker>Honey Badger</Speaker>;MP7(0)||:あ、出ましたね。
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>その二つの形容詞、ほぼ同じ意味では……？</color>
+MP7(0)<Speaker>Gr MP7</Speaker>||:あーあ……隠れて陰口を言うしか能がないなんて、虚しい奴。+だからコイツは嫌いなんだ。
+()||:MP7は余憤収まらずという様子だったが、//nそれ以上くどくど言うことはしなかった。+彼女の手には、あまり大きいとは言えない箱が乗せられていた。//n少々荒っぽくはあるが、綺麗な包装が施されている。+Honey Badgerもそれに気づいたようで、驚きの表情を浮かべた。
+()<Speaker>指揮官</Speaker>||:その……+MP7……Honey Badgerを納得させられるような//nプレゼントは用意してきたかい？
+MP7(0)<Speaker>Gr MP7</Speaker>||:フン、誰にそんなクチ利いてんのさ？+どんな任務だろうと、完璧にこなすに決ってんじゃん。バカ飼育員め。
+()||:Honey Badgerは動揺していた。
+PDW(2)<Speaker>Honey Badger</Speaker>||:……コイツの事です、どうせ綺麗な口上を並べておいて、//nあとでイタズラを仕掛けるつもりなんでしょう？
+()<Speaker>指揮官</Speaker>||:<color=#A9A9A9>まだ強がる気なのか……</color>
+MP7(0)<Speaker>Gr MP7</Speaker>||:そりゃ確かに、泥棒ネズミへのプレゼントにはうってつけかもね。//nけど私は、勝負事には絶対に負けたくないんだ。+それに……飼育員も言ってたじゃん、今日はクリスマスだって。+雰囲気を台無しにするわけにもいかないでしょ。
+()||:MP7はプレゼントをHoney Badgerに手渡した。
+PDW(2)<Speaker>Honey Badger</Speaker>||:……+……開けたら爆発するんですよね？
+MP7(0)<Speaker>Gr MP7</Speaker>||:するわけないだろ！私をなんだと思ってんのさ！
+()<Speaker>指揮官</Speaker>||:これは？
+MP7(0)<Speaker>Gr MP7</Speaker>||:髪飾りに、リボンだよ。+そこのドブネズミ、朝から変な服着てたじゃん。+どうせクリスマスなんだし、それなりのものを贈ろうと思ったんだよ。+なんたって私の手作りなんだからね、有難く思いなよ！
+()<Speaker>指揮官</Speaker>||:……へぇ、確かに似合ってる。+それで……Honey Badgerのプレゼントは？
+PDW(2)<Speaker>Honey Badger</Speaker>||:……+……どうぞ。
+()||:やや沈黙したのち、Honey Badgerは//nペトの上着から精巧な箱を取り出した。
+MP7(0)<Speaker>Gr MP7</Speaker>||:フン、何を贈ろうたって……なにこれ？
+PDW(2)<Speaker>Honey Badger</Speaker>;MP7(0)||:キャンディですよ。
+PDW(2);MP7(0)<Speaker>Gr MP7</Speaker>||:は？
+PDW(2)<Speaker>Honey Badger</Speaker>;MP7(0)||:特製のクリスマスキャンディ。+今朝、ペトが食べてたのは、あなたのキャンディなんでしょう？+謝りますから、これ以上ペトを責めるのはやめてください。
+MP7(0)<Speaker>Gr MP7</Speaker>||:謝る……アンタが？
+()||:MP7は呆然としていた。+Honey Badgerも、ばつが悪そうにしている。//n妙な気まずさが辺りに漂った。
+()<Speaker>指揮官</Speaker>||:考えは変わったかな？
+PDW(2)<Speaker>Honey Badger</Speaker>||:……私の読み違いでした。+指揮官さんの言う通りです。
+()<Speaker>指揮官</Speaker>||:相手を思いやる気持ちがあれば、たとえ君たちでも、//n必ず心を通じ合わせる事ができるよ。+君がちゃんとMP7へのプレゼントを用意していてくれて、私も嬉しいよ。+よく頑張ったね。
+PDW(2)<Speaker>Honey Badger</Speaker>||:私たちの間柄にここまで心を砕いて頂けるなんて、//nこちらこそ感謝を申し上げるべきです。+確かに、色々と考えはしました……こんなプレゼントひとつで、//nお友達になれるとは思っていませんけど。+もしかしたら指揮官さんのおっしゃるように、//n何事にもきっかけがあるのかもしれませんね。
+()||:Honey Badgerは箱をもう一つ取り出した。
+PDW(2)<Speaker>Honey Badger</Speaker>||:賭けは私の負けです。どうぞ受け取ってください。
+()<Speaker>指揮官</Speaker>||:これは、私に？
+PDW(2)<Speaker>Honey Badger</Speaker>||:ええ。+雰囲気の悪くならないうちに、お渡ししておきたくて。+メリークリスマス、指揮官さん。
+()<Speaker>指揮官</Speaker>||:ありがとう、嬉しいよ。+……+……ちょっと待った。+……雰囲気の悪くならないうち？一体どういう意味だ？
+MP7(0)<Speaker>Gr MP7</Speaker>||<BGM>BGM_Empty</BGM>:――ぐがっ。
+()<Speaker>指揮官</Speaker>||:……MP7？どうし……そのキャンディは？
+MP7(0)<Speaker>Gr MP7</Speaker><Shake>||<BGM>m_avg_casual</BGM><震屏3>:う、うぁ、うぁあああああああ―――飛んでる！飛び跳ねてる！//nなんかクチんなか飛び跳ねてる――ッ！+しっ、飼育員ッ！虫ッ！虫がクチん中飛んでる！！
+()<Speaker>指揮官</Speaker>||:落ち着いて！それは虫じゃない、//nパチパチキャンディといって……Honey Badger！
+PDW(2)<Speaker>Honey Badger</Speaker>||:それじゃ、お先に失礼しますね、指揮官さん。+ペト！行くよ！
+()<Speaker>指揮官</Speaker>||:こら、逃げるんじゃない！
+MP7(0)<Speaker>Gr MP7</Speaker><Shake>||<震屏3>:いやああっああっぁぁぁああ―――！//n飛んでるッ飛んでるゥ――クチを噛むなぁぁああ！
+()<Speaker>指揮官</Speaker>||:落ち着くんだ！
+()||<黑屏1>:突如、辺りは混乱に陥った。+……どうやら二人が仲良くなるには、まだまだ時間がかかりそうだ。
