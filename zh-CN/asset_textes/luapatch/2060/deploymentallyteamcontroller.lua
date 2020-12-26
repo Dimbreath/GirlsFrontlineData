@@ -43,7 +43,41 @@ local Complete = function(self)
 	self:CheckBattleSkill();
 	self:Complete();
 end
+local CloseWinTarget = function(self,missionwintypeid)
+	if self.winTypeid_targetObj:ContainsKey(missionwintypeid) then
+		if self.winTypeid_targetObj[missionwintypeid] ~= nil and self.winTypeid_targetObj[missionwintypeid]:isNull() then
+			CS.UnityEngine.Object.Destroy(self.winTypeid_targetObj[missionwintypeid]);
+		end
+		self.winTypeid_targetObj:Remove(missionwintypeid);
+	end
+	self:CloseWinTarget(missionwintypeid);
+end
+
+local allyTeamController = nil;
+function CheckScale()
+	allyTeamController.ScaleX = 100;
+end
+local RefreshTeam = function(self)
+	self:RefreshTeam();
+	allyTeamController = self;
+	CS.DeploymentController.AddAction(CheckScale,0.4);
+end
+local ShowWinTarget = function(self,missionwintypeid,medal)
+	self:ShowWinTarget(missionwintypeid,medal);
+	local data = self.winTypeid_targetObj:GetEnumerator();
+	while data:MoveNext() do		
+		local teamData = data.Current.Value;
+		if self.currentSpot.CannotSee then
+			teamData:SetActive(false);
+		else
+			teamData:SetActive(true);
+		end
+	end
+end
 util.hotfix_ex(CS.DeploymentAllyTeamController,'CheckUseBuildTip',CheckUseBuildTip)
 util.hotfix_ex(CS.DeploymentAllyTeamController,'CheckFriendTip',CheckFriendTip)
 util.hotfix_ex(CS.DeploymentAllyTeamController,'CheckBattleSkill',CheckBattleSkill)
 util.hotfix_ex(CS.DeploymentAllyTeamController,'Complete',Complete)
+util.hotfix_ex(CS.DeploymentAllyTeamController,'CloseWinTarget',CloseWinTarget)
+util.hotfix_ex(CS.DeploymentAllyTeamController,'RefreshTeam',RefreshTeam)
+util.hotfix_ex(CS.DeploymentAllyTeamController,'ShowWinTarget',ShowWinTarget)

@@ -201,6 +201,8 @@ Start = function()
 	CS.BattleInteractionController.isGuideCanNotScale = false
 	CS.BattleInteractionController.isGuideCanNotOffset = false
 	CS.GF.Battle.SkillUtils.AutoSkill = false
+	CS.GF.Battle.BattleController.Instance.resetAutoSkill = true
+	CS.GF.Battle.BattleController.Instance.resetCameraLock = true
 	cfgMoveFoward = CS.GameData.listBTSkillCfg:GetDataById(moveFowardID)
 	cfgMoveBack = CS.GameData.listBTSkillCfg:GetDataById(moveBackID)
 	--注册相机
