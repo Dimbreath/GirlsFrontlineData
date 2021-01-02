@@ -44,7 +44,7 @@
     {
         "id": 3,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wait",
         "emoji": "",
         "min_decorate": 0,
@@ -65,7 +65,7 @@
     {
         "id": 4,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "",
         "min_decorate": 0,
@@ -86,7 +86,7 @@
     {
         "id": 5,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -317,7 +317,7 @@
     {
         "id": 16,
         "spine_name": "work1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "kalina_write",
         "emoji": "",
         "min_decorate": 0,
@@ -338,7 +338,7 @@
     {
         "id": 17,
         "spine_name": "work2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "kalina_type",
         "emoji": "",
         "min_decorate": 0,
@@ -359,7 +359,7 @@
     {
         "id": 18,
         "spine_name": "pick",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "pick",
         "emoji": "",
         "min_decorate": 0,
@@ -485,7 +485,7 @@
     {
         "id": 24,
         "spine_name": "pick",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "pick",
         "emoji": "",
         "min_decorate": 0,
@@ -590,7 +590,7 @@
     {
         "id": 29,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bird_sit",
         "emoji": "",
         "min_decorate": 0,
@@ -611,7 +611,7 @@
     {
         "id": 30,
         "spine_name": "action2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "anna_sit",
         "emoji": "",
         "min_decorate": 0,
@@ -632,7 +632,7 @@
     {
         "id": 31,
         "spine_name": "action1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bird_sit",
         "emoji": "",
         "min_decorate": 0,
@@ -674,7 +674,7 @@
     {
         "id": 33,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "fishman_dog",
         "emoji": "",
         "min_decorate": 0,
@@ -737,7 +737,7 @@
     {
         "id": 21002,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -821,7 +821,7 @@
     {
         "id": 21012,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -926,7 +926,7 @@
     {
         "id": 22002,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1010,7 +1010,7 @@
     {
         "id": 22012,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1094,7 +1094,7 @@
     {
         "id": 22052,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1178,7 +1178,7 @@
     {
         "id": 22062,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1241,7 +1241,7 @@
     {
         "id": 22065,
         "spine_name": "swim",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "3306_swim",
         "emoji": "Emoji_9001,Emoji_9002,Emoji_9007",
         "min_decorate": 0,
@@ -1283,7 +1283,7 @@
     {
         "id": 22072,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1409,7 +1409,7 @@
     {
         "id": 22082,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1493,7 +1493,7 @@
     {
         "id": 22092,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1556,7 +1556,7 @@
     {
         "id": 41919,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "chess",
         "emoji": "Emoji_9010,Emoji_9001,Emoji_9010,Emoji_0203,Emoji_0204,Emoji__1002,Emoji_0302,Emoji_9011,Emoji_9012,Emoji_9013,Emoji_9014,Emoji_9015,,,Emoji_9011,Emoji_9012,Emoji_9013,Emoji_9014,Emoji_9015,Emoji_9010,Emoji_9011,Emoji_9012,Emoji_9013,Emoji_9014",
         "min_decorate": 0,
@@ -1577,7 +1577,7 @@
     {
         "id": 42002,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "neet_sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -1598,7 +1598,7 @@
     {
         "id": 42023,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "green_beverage",
         "emoji": "Emoji__1505,Emoji__1506,Emoji__1207,Emoji_0000,Emoji_0001",
         "min_decorate": 0,
@@ -1619,7 +1619,7 @@
     {
         "id": 42032,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wv_sit",
         "emoji": "Emoji_1760,Emoji_1761,Emoji_1762,Emoji_1763,Emoji_1760,Emoji__1005,Emoji__1209,Emoji_0302,Emoji__1203,Emoji__5003,,",
         "min_decorate": 0,
@@ -1640,7 +1640,7 @@
     {
         "id": 42037,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_harp",
         "emoji": "Emoji_90081,Emoji_0203,Emoji_1737,Emoji_1710,,,",
         "min_decorate": 0,
@@ -1661,7 +1661,7 @@
     {
         "id": 42043,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "ar15_2019wait",
         "emoji": "Emoji__1102,Emoji_9001,Emoji__1102,Emoji_1710,,,",
         "min_decorate": 0,
@@ -1682,7 +1682,7 @@
     {
         "id": 42067,
         "spine_name": "action1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "gunslinger_book",
         "emoji": "",
         "min_decorate": 0,
@@ -1703,7 +1703,7 @@
     {
         "id": 42068,
         "spine_name": "violin",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "gunslinger_violin",
         "emoji": "Emoji_90081,Emoji__0501,Emoji_0401,Emoji__0511,Emoji__0510,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,,",
         "min_decorate": 0,
@@ -1724,7 +1724,7 @@
     {
         "id": 42070,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "volleyball_wait",
         "emoji": "Emoji_90081,Emoji__0501,Emoji_0401,Emoji__0511,Emoji__0510,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,,",
         "min_decorate": 0,
@@ -1745,7 +1745,7 @@
     {
         "id": 43104,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "taptap",
         "emoji": "Emoji__0007,Emoji__0008,Emoji__0010",
         "min_decorate": 0,
@@ -1766,7 +1766,7 @@
     {
         "id": 43105,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "play",
         "emoji": "Emoji_90081,Emoji__0501,Emoji_0401,Emoji__0511,Emoji__0510,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,Emoji_90081,,",
         "min_decorate": 0,
@@ -1787,7 +1787,7 @@
     {
         "id": 43108,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wa2000_wait",
         "emoji": "Emoji__1504,Emoji__1303,Emoji__0510,Emoji__0511,,,",
         "min_decorate": 0,
@@ -1808,7 +1808,7 @@
     {
         "id": 43109,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "M1903_wait",
         "emoji": "Emoji_0202,Emoji_1763,Emoji__1204,Emoji_90082,,,",
         "min_decorate": 0,
@@ -1829,7 +1829,7 @@
     {
         "id": 43111,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "HK416_wait",
         "emoji": "Emoji__1504,Emoji__1505,Emoji__0510,Emoji__1005,,,",
         "min_decorate": 0,
@@ -1850,7 +1850,7 @@
     {
         "id": 43115,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "arteam_wait",
         "emoji": "Emoji_1710,Emoji_1719,Emoji_0202,Emoji_1723,,,",
         "min_decorate": 0,
@@ -1871,7 +1871,7 @@
     {
         "id": 43201,
         "spine_name": "sit2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bonfire_sit",
         "emoji": "Emoji_0000_15,Emoji__1601,Emoji_1764,Emoji_9001,,,",
         "min_decorate": 0,
@@ -1892,7 +1892,7 @@
     {
         "id": 43203,
         "spine_name": "sit2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bonfire_sit",
         "emoji": "Emoji_1725,Emoji__0507,Emoji_1759,Emoji__1601,Emoji_1712,Emoji_1758,,,",
         "min_decorate": 0,
@@ -1913,7 +1913,7 @@
     {
         "id": 43204,
         "spine_name": "sit2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bonfire_sit",
         "emoji": "Emoji__1601,Emoji__1005,Emoji_1714,Emoji_1715,Emoji_1761,,,",
         "min_decorate": 0,
@@ -1934,7 +1934,7 @@
     {
         "id": 43205,
         "spine_name": "sit2",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "bonfire_sit",
         "emoji": "Emoji_1734,Emoji_1730,Emoji__1601,Emoji_1756,Emoji_1729,Emoji_1765,,,",
         "min_decorate": 0,
@@ -1955,7 +1955,7 @@
     {
         "id": 43306,
         "spine_name": "3306_swim",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "3306_swim",
         "emoji": "Emoji__5002,Emoji_0403,Emoji__0501",
         "min_decorate": 0,
@@ -1976,7 +1976,7 @@
     {
         "id": 43508,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "hotspring",
         "emoji": "",
         "min_decorate": 0,
@@ -1997,7 +1997,7 @@
     {
         "id": 43911,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "neet_sit",
         "emoji": "Emoji__1002,Emoji__5002",
         "min_decorate": 0,
@@ -2018,7 +2018,7 @@
     {
         "id": 45904,
         "spine_name": "59_rock_roll",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "rock_roll",
         "emoji": "Emoji__0502,Emoji_9009,Emoji_0000,Emoji_1603,Emoji_1604,,,,",
         "min_decorate": 0,
@@ -2039,7 +2039,7 @@
     {
         "id": 46204,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "idol_dance",
         "emoji": "Emoji_1605,Emoji__0502,Emoji__1005,Emoji__0501,Emoji__1203,Emoji_90081,,,,,",
         "min_decorate": 0,
@@ -2060,7 +2060,7 @@
     {
         "id": 46413,
         "spine_name": "action5",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "witch_dance",
         "emoji": "",
         "min_decorate": 0,
@@ -2081,7 +2081,7 @@
     {
         "id": 46603,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "eat_lover",
         "emoji": "Emoji__0504,Emoji__1005,Emoji__1007,Emoji__1203,Emoji_90082,Emoji__0501,,,",
         "min_decorate": 0,
@@ -2102,7 +2102,7 @@
     {
         "id": 47109,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "children_sit",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -2123,7 +2123,7 @@
     {
         "id": 47111,
         "spine_name": "action1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "kalina_saler",
         "emoji": "Emoji_1734,Emoji_1765,Emoji__1005,Emoji__1602,,,,",
         "min_decorate": 0,
@@ -2144,7 +2144,7 @@
     {
         "id": 47215,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "9A91_wait_jp",
         "emoji": "Emoji__1202,Emoji__0007,Emoji__1008,Emoji__1303,,,,",
         "min_decorate": 0,
@@ -2165,7 +2165,7 @@
     {
         "id": 47413,
         "spine_name": "action1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp_architecter",
         "emoji": "",
         "min_decorate": 0,
@@ -2186,7 +2186,7 @@
     {
         "id": 47507,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "naughtykid",
         "emoji": "Emoji_1702,Emoji_1706,Emoji_9008,Emoji_9002,,,,",
         "min_decorate": 0,
@@ -2207,7 +2207,7 @@
     {
         "id": 47605,
         "spine_name": "pick",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "hallo19_wait",
         "emoji": "Emoji_1708,Emoji_1726,Emoji__1207,Emoji_0405,,,,",
         "min_decorate": 0,
@@ -2228,7 +2228,7 @@
     {
         "id": 48208,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "nieWV_wait",
         "emoji": "|4,*3820801|4,*3820802|4,*3820803|4,*3820804|4,*3820805|4,*3820806",
         "min_decorate": 0,
@@ -2249,7 +2249,7 @@
     {
         "id": 48604,
         "spine_name": "swim",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "3306_swim",
         "emoji": "Emoji__5002,Emoji_0403,Emoji__0501",
         "min_decorate": 0,
@@ -2270,7 +2270,7 @@
     {
         "id": 60601,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "5,*260101|5,*260102|5,*260103|5,*260104",
         "min_decorate": 0,
@@ -2291,7 +2291,7 @@
     {
         "id": 60602,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "5,*260201|5,*260202|5,*260203|5,*260204",
         "min_decorate": 0,
@@ -2312,7 +2312,7 @@
     {
         "id": 60603,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*260301|5,*260302|5,*260303|5,*260304",
         "min_decorate": 0,
@@ -2333,7 +2333,7 @@
     {
         "id": 60604,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*260401|5,*260402|5,*260403|5,*260404",
         "min_decorate": 0,
@@ -2354,7 +2354,7 @@
     {
         "id": 60605,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*260501|5,*260502|5,*260503|5,*260504",
         "min_decorate": 0,
@@ -2375,7 +2375,7 @@
     {
         "id": 60606,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*260601|5,*260602|5,*260603|5,*260604",
         "min_decorate": 0,
@@ -2396,7 +2396,7 @@
     {
         "id": 60607,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*260701|5,*260702|5,*260703|5,*260704",
         "min_decorate": 0,
@@ -2417,7 +2417,7 @@
     {
         "id": 61901,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2190101|4,*2190102|4,*2190103|4,*2190104|4,*2190105",
         "min_decorate": 0,
@@ -2438,7 +2438,7 @@
     {
         "id": 61902,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2190201|4,*2190202|4,*2190203|4,*2190204|4,*2190205",
         "min_decorate": 0,
@@ -2459,7 +2459,7 @@
     {
         "id": 61903,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2190301|5,*2190302|5,*2190303|5,*2190304",
         "min_decorate": 0,
@@ -2480,7 +2480,7 @@
     {
         "id": 61904,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2190401|4,*2190402|4,*2190403|4,*2190404|4,*2190405",
         "min_decorate": 0,
@@ -2501,7 +2501,7 @@
     {
         "id": 61905,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2190501|5,*2190502|5,*2190503|5,*2190504",
         "min_decorate": 0,
@@ -2522,7 +2522,7 @@
     {
         "id": 61906,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2190601|5,*2190602|5,*2190603|5,*2190604",
         "min_decorate": 0,
@@ -2543,7 +2543,7 @@
     {
         "id": 63101,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2310101|5,*2310102|5,*2310103|5,*2310104",
         "min_decorate": 0,
@@ -2564,7 +2564,7 @@
     {
         "id": 63102,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2310201|5,*2310202|5,*2310203|5,*2310204",
         "min_decorate": 0,
@@ -2585,7 +2585,7 @@
     {
         "id": 63103,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2310301|5,*2310302|5,*2310303|5,*2310304",
         "min_decorate": 0,
@@ -2606,7 +2606,7 @@
     {
         "id": 63105,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2310501|4,*2310502|4,*2310503|4,*2310504|4,*2310505",
         "min_decorate": 0,
@@ -2627,7 +2627,7 @@
     {
         "id": 63106,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2310601|5,*2310602|5,*2310603|5,*2310604",
         "min_decorate": 0,
@@ -2648,7 +2648,7 @@
     {
         "id": 63107,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2310701|4,*2310702|4,*2310703|4,*2310704|4,*2310705",
         "min_decorate": 0,
@@ -2669,7 +2669,7 @@
     {
         "id": 64301,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430101|5,*2430102|5,*2430103|5,*2430104",
         "min_decorate": 0,
@@ -2690,7 +2690,7 @@
     {
         "id": 64302,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430201|5,*2430202|5,*2430203|4,*2430204",
         "min_decorate": 0,
@@ -2711,7 +2711,7 @@
     {
         "id": 64303,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430301|5,*2430302|5,*2430303|5,*2430304",
         "min_decorate": 0,
@@ -2732,7 +2732,7 @@
     {
         "id": 64304,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430401|5,*2430402|5,*2430403|5,*2430404",
         "min_decorate": 0,
@@ -2753,7 +2753,7 @@
     {
         "id": 64305,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|4,*2430501|4,*2430502|4,*2430503|4,*2430504|4,*2430505",
         "min_decorate": 0,
@@ -2774,7 +2774,7 @@
     {
         "id": 64306,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430601|5,*2430602|5,*2430603|5,*2430604",
         "min_decorate": 0,
@@ -2795,7 +2795,7 @@
     {
         "id": 64308,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430801|5,*2430802|5,*2430803|5,*2430804",
         "min_decorate": 0,
@@ -2816,7 +2816,7 @@
     {
         "id": 64309,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2430901|5,*2430902|5,*2430903|5,*2430904",
         "min_decorate": 0,
@@ -2837,7 +2837,7 @@
     {
         "id": 64310,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wedding_talk",
         "emoji": "|5,*2431001|5,*2431002|5,*2431003|5,*2431004",
         "min_decorate": 0,
@@ -2872,7 +2872,7 @@
         "move_speed": 0.0,
         "next_action": "",
         "no_vertical_motion": 0,
-        "is_married": 4294967295,
+        "is_married": -1,
         "furiniture_action_interact": "",
         "default_action": ""
     },
@@ -2921,7 +2921,7 @@
     {
         "id": 88003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "commander_emoji,commander_emoji,Emoji_1710,Emoji_1740,Emoji__1502,,,,",
         "min_decorate": 0,
@@ -2942,7 +2942,7 @@
     {
         "id": 88004,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "wait",
         "emoji": "Emoji_9001,commander_emoji,commander_emoji,Emoji_1707,,,,",
         "min_decorate": 0,
@@ -3005,7 +3005,7 @@
     {
         "id": 99003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_90082,Emoji_90081,Emoji__0504,Emoji_90082,Emoji_90082,,,,,,,,,",
         "min_decorate": 0,
@@ -3026,7 +3026,7 @@
     {
         "id": 99004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3110,7 +3110,7 @@
     {
         "id": 100103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -3131,7 +3131,7 @@
     {
         "id": 100104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3215,7 +3215,7 @@
     {
         "id": 100203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -3236,7 +3236,7 @@
     {
         "id": 100204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3320,7 +3320,7 @@
     {
         "id": 100303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -3341,7 +3341,7 @@
     {
         "id": 100304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3425,7 +3425,7 @@
     {
         "id": 100403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -3446,7 +3446,7 @@
     {
         "id": 100404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3530,7 +3530,7 @@
     {
         "id": 100503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -3551,7 +3551,7 @@
     {
         "id": 100504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3635,7 +3635,7 @@
     {
         "id": 100603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -3656,7 +3656,7 @@
     {
         "id": 100604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3740,7 +3740,7 @@
     {
         "id": 100703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -3761,7 +3761,7 @@
     {
         "id": 100704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3845,7 +3845,7 @@
     {
         "id": 100803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -3866,7 +3866,7 @@
     {
         "id": 100804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -3950,7 +3950,7 @@
     {
         "id": 100903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -3971,7 +3971,7 @@
     {
         "id": 100904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4055,7 +4055,7 @@
     {
         "id": 101003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -4076,7 +4076,7 @@
     {
         "id": 101004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4160,7 +4160,7 @@
     {
         "id": 101103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -4181,7 +4181,7 @@
     {
         "id": 101104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4265,7 +4265,7 @@
     {
         "id": 101203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -4286,7 +4286,7 @@
     {
         "id": 101204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4370,7 +4370,7 @@
     {
         "id": 101303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -4391,7 +4391,7 @@
     {
         "id": 101304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4475,7 +4475,7 @@
     {
         "id": 101403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -4496,7 +4496,7 @@
     {
         "id": 101404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4580,7 +4580,7 @@
     {
         "id": 101503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -4601,7 +4601,7 @@
     {
         "id": 101504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4706,7 +4706,7 @@
     {
         "id": 101604,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -4727,7 +4727,7 @@
     {
         "id": 101605,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4832,7 +4832,7 @@
     {
         "id": 101703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -4853,7 +4853,7 @@
     {
         "id": 101704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -4937,7 +4937,7 @@
     {
         "id": 101803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -4958,7 +4958,7 @@
     {
         "id": 101804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5042,7 +5042,7 @@
     {
         "id": 101903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -5063,7 +5063,7 @@
     {
         "id": 101904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5147,7 +5147,7 @@
     {
         "id": 102003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -5168,7 +5168,7 @@
     {
         "id": 102004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5252,7 +5252,7 @@
     {
         "id": 102103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -5273,7 +5273,7 @@
     {
         "id": 102104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5294,7 +5294,7 @@
     {
         "id": 102105,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|3,*102101|3,*102102|3,*102103|3,*102104|3,*102105|3,*102106",
         "min_decorate": 0,
@@ -5378,7 +5378,7 @@
     {
         "id": 102203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -5399,7 +5399,7 @@
     {
         "id": 102204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5483,7 +5483,7 @@
     {
         "id": 102303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -5504,7 +5504,7 @@
     {
         "id": 102304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5588,7 +5588,7 @@
     {
         "id": 102403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -5609,7 +5609,7 @@
     {
         "id": 102404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5693,7 +5693,7 @@
     {
         "id": 102503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -5714,7 +5714,7 @@
     {
         "id": 102504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5798,7 +5798,7 @@
     {
         "id": 102603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -5819,7 +5819,7 @@
     {
         "id": 102604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -5903,7 +5903,7 @@
     {
         "id": 102703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -5924,7 +5924,7 @@
     {
         "id": 102704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6008,7 +6008,7 @@
     {
         "id": 102803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -6029,7 +6029,7 @@
     {
         "id": 102804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6113,7 +6113,7 @@
     {
         "id": 102903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -6134,7 +6134,7 @@
     {
         "id": 102904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6218,7 +6218,7 @@
     {
         "id": 103103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -6239,7 +6239,7 @@
     {
         "id": 103104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6323,7 +6323,7 @@
     {
         "id": 103203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -6344,7 +6344,7 @@
     {
         "id": 103204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6428,7 +6428,7 @@
     {
         "id": 103303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -6449,7 +6449,7 @@
     {
         "id": 103304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6533,7 +6533,7 @@
     {
         "id": 103403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -6554,7 +6554,7 @@
     {
         "id": 103404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6638,7 +6638,7 @@
     {
         "id": 103503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -6659,7 +6659,7 @@
     {
         "id": 103504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6743,7 +6743,7 @@
     {
         "id": 103603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -6764,7 +6764,7 @@
     {
         "id": 103604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6848,7 +6848,7 @@
     {
         "id": 103703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -6869,7 +6869,7 @@
     {
         "id": 103704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -6953,7 +6953,7 @@
     {
         "id": 103803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -6974,7 +6974,7 @@
     {
         "id": 103804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7058,7 +7058,7 @@
     {
         "id": 103903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -7079,7 +7079,7 @@
     {
         "id": 103904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7163,7 +7163,7 @@
     {
         "id": 104003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -7184,7 +7184,7 @@
     {
         "id": 104004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7268,7 +7268,7 @@
     {
         "id": 104103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -7289,7 +7289,7 @@
     {
         "id": 104104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7373,7 +7373,7 @@
     {
         "id": 104203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -7394,7 +7394,7 @@
     {
         "id": 104204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7478,7 +7478,7 @@
     {
         "id": 104303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -7499,7 +7499,7 @@
     {
         "id": 104304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7583,7 +7583,7 @@
     {
         "id": 104403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -7604,7 +7604,7 @@
     {
         "id": 104404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7688,7 +7688,7 @@
     {
         "id": 104603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -7709,7 +7709,7 @@
     {
         "id": 104604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7793,7 +7793,7 @@
     {
         "id": 104703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -7814,7 +7814,7 @@
     {
         "id": 104704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -7898,7 +7898,7 @@
     {
         "id": 104803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -7919,7 +7919,7 @@
     {
         "id": 104804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8003,7 +8003,7 @@
     {
         "id": 104903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -8024,7 +8024,7 @@
     {
         "id": 104904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8108,7 +8108,7 @@
     {
         "id": 105003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -8129,7 +8129,7 @@
     {
         "id": 105004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8213,7 +8213,7 @@
     {
         "id": 105103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -8234,7 +8234,7 @@
     {
         "id": 105104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8318,7 +8318,7 @@
     {
         "id": 105203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -8339,7 +8339,7 @@
     {
         "id": 105204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8423,7 +8423,7 @@
     {
         "id": 105303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -8444,7 +8444,7 @@
     {
         "id": 105304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8528,7 +8528,7 @@
     {
         "id": 105403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji__0503,Emoji__1302,Emoji__5003,Emoji__1102,Emoji_0203,Emoji__1204,,,,,",
         "min_decorate": 0,
@@ -8549,7 +8549,7 @@
     {
         "id": 105404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8738,7 +8738,7 @@
     {
         "id": 105505,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -8759,7 +8759,7 @@
     {
         "id": 105506,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8885,7 +8885,7 @@
     {
         "id": 105605,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -8906,7 +8906,7 @@
     {
         "id": 105606,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -8927,7 +8927,7 @@
     {
         "id": 105607,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sop_wait",
         "emoji": "Emoji__1005,Emoji_0002_sop,Emoji__1201,Emoji_0102,,",
         "min_decorate": 0,
@@ -9053,7 +9053,7 @@
     {
         "id": 105704,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -9074,7 +9074,7 @@
     {
         "id": 105705,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9095,7 +9095,7 @@
     {
         "id": 105706,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "ar15_wait",
         "emoji": "Emoji_0000_15,Emoji__1101,Emoji_9001,Emoji_0205,Emoji_0301,,,",
         "min_decorate": 0,
@@ -9200,7 +9200,7 @@
     {
         "id": 105804,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -9221,7 +9221,7 @@
     {
         "id": 105805,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9326,7 +9326,7 @@
     {
         "id": 105903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -9347,7 +9347,7 @@
     {
         "id": 105904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9431,7 +9431,7 @@
     {
         "id": 106003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -9452,7 +9452,7 @@
     {
         "id": 106004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9536,7 +9536,7 @@
     {
         "id": 106103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -9557,7 +9557,7 @@
     {
         "id": 106104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9641,7 +9641,7 @@
     {
         "id": 106203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -9662,7 +9662,7 @@
     {
         "id": 106204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9746,7 +9746,7 @@
     {
         "id": 106303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -9767,7 +9767,7 @@
     {
         "id": 106304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9851,7 +9851,7 @@
     {
         "id": 106403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -9872,7 +9872,7 @@
     {
         "id": 106404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -9956,7 +9956,7 @@
     {
         "id": 106503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0203,Emoji__1304,Emoji_0405,,,",
         "min_decorate": 0,
@@ -9977,7 +9977,7 @@
     {
         "id": 106504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10061,7 +10061,7 @@
     {
         "id": 106508,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|4,*106501|4,*106502|4,*106503|4,*106504|4,*106505|4,*106506|4,*106507|4,*106508",
         "min_decorate": 0,
@@ -10082,7 +10082,7 @@
     {
         "id": 106509,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "hk416_wait",
         "emoji": "Emoji_0003_416,Emoji__1304,Emoji__1504,Emoji__1001,Emoji__0510,,,",
         "min_decorate": 0,
@@ -10166,7 +10166,7 @@
     {
         "id": 106603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -10187,7 +10187,7 @@
     {
         "id": 106604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10271,7 +10271,7 @@
     {
         "id": 106803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -10292,7 +10292,7 @@
     {
         "id": 106804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10376,7 +10376,7 @@
     {
         "id": 106903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -10397,7 +10397,7 @@
     {
         "id": 106904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10481,7 +10481,7 @@
     {
         "id": 107003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -10502,7 +10502,7 @@
     {
         "id": 107004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10586,7 +10586,7 @@
     {
         "id": 107103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -10607,7 +10607,7 @@
     {
         "id": 107104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10691,7 +10691,7 @@
     {
         "id": 107203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -10712,7 +10712,7 @@
     {
         "id": 107204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10796,7 +10796,7 @@
     {
         "id": 107303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -10817,7 +10817,7 @@
     {
         "id": 107304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -10901,7 +10901,7 @@
     {
         "id": 107403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -10922,7 +10922,7 @@
     {
         "id": 107404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11006,7 +11006,7 @@
     {
         "id": 107503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11027,7 +11027,7 @@
     {
         "id": 107504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11111,7 +11111,7 @@
     {
         "id": 107703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11132,7 +11132,7 @@
     {
         "id": 107704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11216,7 +11216,7 @@
     {
         "id": 107803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11237,7 +11237,7 @@
     {
         "id": 107804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11321,7 +11321,7 @@
     {
         "id": 107903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11342,7 +11342,7 @@
     {
         "id": 107904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11426,7 +11426,7 @@
     {
         "id": 108003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -11447,7 +11447,7 @@
     {
         "id": 108004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11531,7 +11531,7 @@
     {
         "id": 108103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11552,7 +11552,7 @@
     {
         "id": 108104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11636,7 +11636,7 @@
     {
         "id": 108203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -11657,7 +11657,7 @@
     {
         "id": 108204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11741,7 +11741,7 @@
     {
         "id": 108403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -11762,7 +11762,7 @@
     {
         "id": 108404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11846,7 +11846,7 @@
     {
         "id": 108503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -11867,7 +11867,7 @@
     {
         "id": 108504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -11951,7 +11951,7 @@
     {
         "id": 108603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -11972,7 +11972,7 @@
     {
         "id": 108604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12056,7 +12056,7 @@
     {
         "id": 108703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -12077,7 +12077,7 @@
     {
         "id": 108704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12161,7 +12161,7 @@
     {
         "id": 108803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -12182,7 +12182,7 @@
     {
         "id": 108804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12266,7 +12266,7 @@
     {
         "id": 108903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -12287,7 +12287,7 @@
     {
         "id": 108904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12371,7 +12371,7 @@
     {
         "id": 109003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -12392,7 +12392,7 @@
     {
         "id": 109004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12476,7 +12476,7 @@
     {
         "id": 109103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -12497,7 +12497,7 @@
     {
         "id": 109104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12581,7 +12581,7 @@
     {
         "id": 109203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -12602,7 +12602,7 @@
     {
         "id": 109204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12686,7 +12686,7 @@
     {
         "id": 109303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -12707,7 +12707,7 @@
     {
         "id": 109304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12833,7 +12833,7 @@
     {
         "id": 109403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -12854,7 +12854,7 @@
     {
         "id": 109404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -12938,7 +12938,7 @@
     {
         "id": 109503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -12959,7 +12959,7 @@
     {
         "id": 109504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13043,7 +13043,7 @@
     {
         "id": 109603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -13064,7 +13064,7 @@
     {
         "id": 109604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13148,7 +13148,7 @@
     {
         "id": 109703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -13169,7 +13169,7 @@
     {
         "id": 109704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13274,7 +13274,7 @@
     {
         "id": 109803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -13295,7 +13295,7 @@
     {
         "id": 109804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13379,7 +13379,7 @@
     {
         "id": 109903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -13400,7 +13400,7 @@
     {
         "id": 109904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13484,7 +13484,7 @@
     {
         "id": 110003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -13505,7 +13505,7 @@
     {
         "id": 110004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13610,7 +13610,7 @@
     {
         "id": 110103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,Emoji_1748,,,",
         "min_decorate": 0,
@@ -13631,7 +13631,7 @@
     {
         "id": 110104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13652,7 +13652,7 @@
     {
         "id": 110105,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|2,*110101|2,*110102|2,*110103|2,*110104|2,*110105|2,*110106|2,*110107|2,*110108|2,*110109|2,*110110|2,*110111|2,*110112|2,Emoji_9001|2,Emoji_0405|2,Emoji__1505|2,Emoji_0401",
         "min_decorate": 0,
@@ -13757,7 +13757,7 @@
     {
         "id": 110203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -13778,7 +13778,7 @@
     {
         "id": 110204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13862,7 +13862,7 @@
     {
         "id": 110303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,Emoji_1749,,",
         "min_decorate": 0,
@@ -13883,7 +13883,7 @@
     {
         "id": 110304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -13925,7 +13925,7 @@
     {
         "id": 110306,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "ump45_wait",
         "emoji": "Emoji_0001_45,Emoji__1204,Emoji_9013,Emoji__1206,Emoji__1304,,,",
         "min_decorate": 0,
@@ -14030,7 +14030,7 @@
     {
         "id": 110403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -14051,7 +14051,7 @@
     {
         "id": 110404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14135,7 +14135,7 @@
     {
         "id": 110503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -14156,7 +14156,7 @@
     {
         "id": 110504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14240,7 +14240,7 @@
     {
         "id": 110603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -14261,7 +14261,7 @@
     {
         "id": 110604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14345,7 +14345,7 @@
     {
         "id": 110703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -14366,7 +14366,7 @@
     {
         "id": 110704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14450,7 +14450,7 @@
     {
         "id": 110803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -14471,7 +14471,7 @@
     {
         "id": 110804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14555,7 +14555,7 @@
     {
         "id": 110903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -14576,7 +14576,7 @@
     {
         "id": 110904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14660,7 +14660,7 @@
     {
         "id": 111003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -14681,7 +14681,7 @@
     {
         "id": 111004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14765,7 +14765,7 @@
     {
         "id": 111103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -14786,7 +14786,7 @@
     {
         "id": 111104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14870,7 +14870,7 @@
     {
         "id": 111203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -14891,7 +14891,7 @@
     {
         "id": 111204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -14975,7 +14975,7 @@
     {
         "id": 111303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -14996,7 +14996,7 @@
     {
         "id": 111304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15080,7 +15080,7 @@
     {
         "id": 111403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -15101,7 +15101,7 @@
     {
         "id": 111404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15122,7 +15122,7 @@
     {
         "id": 111405,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|3,*111401|3,*111402|3,*111403|3,*111404|3,*111405|3,*111406|3,*111407|3,*111408|3,Emoji__1302",
         "min_decorate": 0,
@@ -15227,7 +15227,7 @@
     {
         "id": 111504,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -15248,7 +15248,7 @@
     {
         "id": 111505,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15269,7 +15269,7 @@
     {
         "id": 111506,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|1,*111501|1,*111502|1,*111503|1,*111504|1,*111505|1,*111506|1,*111507|1,*111508|1,*111509|1,*111510|1,*111511|1,*111512|1,*111513|1,*111514|1,*111515|1,*111516",
         "min_decorate": 0,
@@ -15353,7 +15353,7 @@
     {
         "id": 111603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -15374,7 +15374,7 @@
     {
         "id": 111604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15458,7 +15458,7 @@
     {
         "id": 111703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -15479,7 +15479,7 @@
     {
         "id": 111704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15563,7 +15563,7 @@
     {
         "id": 111803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -15584,7 +15584,7 @@
     {
         "id": 111804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15668,7 +15668,7 @@
     {
         "id": 111903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -15689,7 +15689,7 @@
     {
         "id": 111904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15773,7 +15773,7 @@
     {
         "id": 112003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -15794,7 +15794,7 @@
     {
         "id": 112004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15878,7 +15878,7 @@
     {
         "id": 112103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -15899,7 +15899,7 @@
     {
         "id": 112104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -15983,7 +15983,7 @@
     {
         "id": 112203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -16004,7 +16004,7 @@
     {
         "id": 112204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16046,7 +16046,7 @@
     {
         "id": 112206,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|4,*112201|4,*112202|4,*112203|4,*112204|4,Emoji__5001|4,Emoji__5001|4,Emoji__5001|4,Emoji__1010",
         "min_decorate": 0,
@@ -16130,7 +16130,7 @@
     {
         "id": 112303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -16151,7 +16151,7 @@
     {
         "id": 112304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16235,7 +16235,7 @@
     {
         "id": 112403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -16256,7 +16256,7 @@
     {
         "id": 112404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16340,7 +16340,7 @@
     {
         "id": 112503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -16361,7 +16361,7 @@
     {
         "id": 112504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16445,7 +16445,7 @@
     {
         "id": 112603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -16466,7 +16466,7 @@
     {
         "id": 112604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16550,7 +16550,7 @@
     {
         "id": 112703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -16571,7 +16571,7 @@
     {
         "id": 112704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16655,7 +16655,7 @@
     {
         "id": 112803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -16676,7 +16676,7 @@
     {
         "id": 112804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16760,7 +16760,7 @@
     {
         "id": 112903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -16781,7 +16781,7 @@
     {
         "id": 112904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -16802,7 +16802,7 @@
     {
         "id": 112905,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|5,*112901|5,*112902|5,*112903|5,*112904",
         "min_decorate": 0,
@@ -16907,7 +16907,7 @@
     {
         "id": 113003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -16928,7 +16928,7 @@
     {
         "id": 113004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17033,7 +17033,7 @@
     {
         "id": 113103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -17054,7 +17054,7 @@
     {
         "id": 113104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17138,7 +17138,7 @@
     {
         "id": 113203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -17159,7 +17159,7 @@
     {
         "id": 113204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17243,7 +17243,7 @@
     {
         "id": 113303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -17264,7 +17264,7 @@
     {
         "id": 113304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17348,7 +17348,7 @@
     {
         "id": 113403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -17369,7 +17369,7 @@
     {
         "id": 113404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17453,7 +17453,7 @@
     {
         "id": 113503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -17474,7 +17474,7 @@
     {
         "id": 113504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17558,7 +17558,7 @@
     {
         "id": 113603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -17579,7 +17579,7 @@
     {
         "id": 113604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17663,7 +17663,7 @@
     {
         "id": 113703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -17684,7 +17684,7 @@
     {
         "id": 113704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17768,7 +17768,7 @@
     {
         "id": 113803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -17789,7 +17789,7 @@
     {
         "id": 113804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17873,7 +17873,7 @@
     {
         "id": 113903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -17894,7 +17894,7 @@
     {
         "id": 113904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -17978,7 +17978,7 @@
     {
         "id": 114003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -17999,7 +17999,7 @@
     {
         "id": 114004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18083,7 +18083,7 @@
     {
         "id": 114103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -18104,7 +18104,7 @@
     {
         "id": 114104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18188,7 +18188,7 @@
     {
         "id": 114203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -18209,7 +18209,7 @@
     {
         "id": 114204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18293,7 +18293,7 @@
     {
         "id": 114303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -18314,7 +18314,7 @@
     {
         "id": 114304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18419,7 +18419,7 @@
     {
         "id": 114403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -18440,7 +18440,7 @@
     {
         "id": 114404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18524,7 +18524,7 @@
     {
         "id": 114503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -18545,7 +18545,7 @@
     {
         "id": 114504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18629,7 +18629,7 @@
     {
         "id": 114603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -18650,7 +18650,7 @@
     {
         "id": 114604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18734,7 +18734,7 @@
     {
         "id": 114703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -18755,7 +18755,7 @@
     {
         "id": 114704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18839,7 +18839,7 @@
     {
         "id": 114803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -18860,7 +18860,7 @@
     {
         "id": 114804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -18944,7 +18944,7 @@
     {
         "id": 114903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -18965,7 +18965,7 @@
     {
         "id": 114904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19049,7 +19049,7 @@
     {
         "id": 115003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -19070,7 +19070,7 @@
     {
         "id": 115004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19154,7 +19154,7 @@
     {
         "id": 115103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -19175,7 +19175,7 @@
     {
         "id": 115104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19259,7 +19259,7 @@
     {
         "id": 115203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -19280,7 +19280,7 @@
     {
         "id": 115204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19364,7 +19364,7 @@
     {
         "id": 115303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -19385,7 +19385,7 @@
     {
         "id": 115304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19469,7 +19469,7 @@
     {
         "id": 115403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -19490,7 +19490,7 @@
     {
         "id": 115404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19574,7 +19574,7 @@
     {
         "id": 115503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -19595,7 +19595,7 @@
     {
         "id": 115504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19679,7 +19679,7 @@
     {
         "id": 115603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -19700,7 +19700,7 @@
     {
         "id": 115604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19784,7 +19784,7 @@
     {
         "id": 115703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -19805,7 +19805,7 @@
     {
         "id": 115704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -19910,7 +19910,7 @@
     {
         "id": 115803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -19931,7 +19931,7 @@
     {
         "id": 115804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20015,7 +20015,7 @@
     {
         "id": 115903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -20036,7 +20036,7 @@
     {
         "id": 115904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20120,7 +20120,7 @@
     {
         "id": 116003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -20141,7 +20141,7 @@
     {
         "id": 116004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20225,7 +20225,7 @@
     {
         "id": 116103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -20246,7 +20246,7 @@
     {
         "id": 116104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20330,7 +20330,7 @@
     {
         "id": 116203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -20351,7 +20351,7 @@
     {
         "id": 116204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20456,7 +20456,7 @@
     {
         "id": 116303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -20477,7 +20477,7 @@
     {
         "id": 116304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20561,7 +20561,7 @@
     {
         "id": 116403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -20582,7 +20582,7 @@
     {
         "id": 116404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20666,7 +20666,7 @@
     {
         "id": 116503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -20687,7 +20687,7 @@
     {
         "id": 116504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20771,7 +20771,7 @@
     {
         "id": 116603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -20792,7 +20792,7 @@
     {
         "id": 116604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20876,7 +20876,7 @@
     {
         "id": 116703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -20897,7 +20897,7 @@
     {
         "id": 116704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -20981,7 +20981,7 @@
     {
         "id": 116803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -21002,7 +21002,7 @@
     {
         "id": 116804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21086,7 +21086,7 @@
     {
         "id": 116903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -21107,7 +21107,7 @@
     {
         "id": 116904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21191,7 +21191,7 @@
     {
         "id": 117003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -21212,7 +21212,7 @@
     {
         "id": 117004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21296,7 +21296,7 @@
     {
         "id": 117103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -21317,7 +21317,7 @@
     {
         "id": 117104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21338,7 +21338,7 @@
     {
         "id": 117105,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|1,*117101|3,*117102|1,*117101|3,*117103|1,*117101|3,*117104|1,*117101|3,*117105",
         "min_decorate": 0,
@@ -21422,7 +21422,7 @@
     {
         "id": 117203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -21443,7 +21443,7 @@
     {
         "id": 117204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21485,7 +21485,7 @@
     {
         "id": 117206,
         "spine_name": "sp1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp1",
         "emoji": "Emoji__1603,Emoji__0511,Emoji__1207,Emoji__1505,Emoji__1203",
         "min_decorate": 0,
@@ -21569,7 +21569,7 @@
     {
         "id": 117303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -21590,7 +21590,7 @@
     {
         "id": 117304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21674,7 +21674,7 @@
     {
         "id": 117403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -21695,7 +21695,7 @@
     {
         "id": 117404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21779,7 +21779,7 @@
     {
         "id": 117503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -21800,7 +21800,7 @@
     {
         "id": 117504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -21884,7 +21884,7 @@
     {
         "id": 117603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -21905,7 +21905,7 @@
     {
         "id": 117604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22010,7 +22010,7 @@
     {
         "id": 117703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -22031,7 +22031,7 @@
     {
         "id": 117704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22115,7 +22115,7 @@
     {
         "id": 117803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -22136,7 +22136,7 @@
     {
         "id": 117804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22220,7 +22220,7 @@
     {
         "id": 117903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -22241,7 +22241,7 @@
     {
         "id": 117904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22325,7 +22325,7 @@
     {
         "id": 118003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -22346,7 +22346,7 @@
     {
         "id": 118004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22430,7 +22430,7 @@
     {
         "id": 118103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -22451,7 +22451,7 @@
     {
         "id": 118104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22535,7 +22535,7 @@
     {
         "id": 118203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -22556,7 +22556,7 @@
     {
         "id": 118204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22640,7 +22640,7 @@
     {
         "id": 118303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -22661,7 +22661,7 @@
     {
         "id": 118304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22745,7 +22745,7 @@
     {
         "id": 118403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -22766,7 +22766,7 @@
     {
         "id": 118404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22850,7 +22850,7 @@
     {
         "id": 118503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -22871,7 +22871,7 @@
     {
         "id": 118504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -22955,7 +22955,7 @@
     {
         "id": 118603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -22976,7 +22976,7 @@
     {
         "id": 118604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23060,7 +23060,7 @@
     {
         "id": 118703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23081,7 +23081,7 @@
     {
         "id": 118704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23165,7 +23165,7 @@
     {
         "id": 118803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23186,7 +23186,7 @@
     {
         "id": 118804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23207,7 +23207,7 @@
     {
         "id": 118805,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|3,*118801|3,*118802|3,*118803|3,*118804|3,*118805|3,*118806|3,*118807|3,*118808",
         "min_decorate": 0,
@@ -23312,7 +23312,7 @@
     {
         "id": 118903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23333,7 +23333,7 @@
     {
         "id": 118904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23417,7 +23417,7 @@
     {
         "id": 119003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23438,7 +23438,7 @@
     {
         "id": 119004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23522,7 +23522,7 @@
     {
         "id": 119103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23543,7 +23543,7 @@
     {
         "id": 119104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23627,7 +23627,7 @@
     {
         "id": 119203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -23648,7 +23648,7 @@
     {
         "id": 119204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23732,7 +23732,7 @@
     {
         "id": 119303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23753,7 +23753,7 @@
     {
         "id": 119304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23837,7 +23837,7 @@
     {
         "id": 119403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23858,7 +23858,7 @@
     {
         "id": 119404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -23879,7 +23879,7 @@
     {
         "id": 119405,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|3,*119401|3,*119402|3,*119403|3,*119404|3,*119405|3,*119406|3,Emoji__1101",
         "min_decorate": 0,
@@ -23963,7 +23963,7 @@
     {
         "id": 119503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -23984,7 +23984,7 @@
     {
         "id": 119504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24068,7 +24068,7 @@
     {
         "id": 119603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24089,7 +24089,7 @@
     {
         "id": 119604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24110,7 +24110,7 @@
     {
         "id": 119605,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sing",
         "emoji": "|3,*119601|3,*119602|3,*119603|3,*119604|3,*119605|3,*119606|3,*119607|3,*119608|3,*119609|3,*119610",
         "min_decorate": 0,
@@ -24194,7 +24194,7 @@
     {
         "id": 119703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -24215,7 +24215,7 @@
     {
         "id": 119704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24299,7 +24299,7 @@
     {
         "id": 119803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24320,7 +24320,7 @@
     {
         "id": 119804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24404,7 +24404,7 @@
     {
         "id": 119903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24425,7 +24425,7 @@
     {
         "id": 119904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24509,7 +24509,7 @@
     {
         "id": 120003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24530,7 +24530,7 @@
     {
         "id": 120004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24614,7 +24614,7 @@
     {
         "id": 120103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24635,7 +24635,7 @@
     {
         "id": 120104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24719,7 +24719,7 @@
     {
         "id": 120203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -24740,7 +24740,7 @@
     {
         "id": 120204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24845,7 +24845,7 @@
     {
         "id": 120303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24866,7 +24866,7 @@
     {
         "id": 120304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -24950,7 +24950,7 @@
     {
         "id": 120403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -24971,7 +24971,7 @@
     {
         "id": 120404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25055,7 +25055,7 @@
     {
         "id": 120503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25076,7 +25076,7 @@
     {
         "id": 120504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25181,7 +25181,7 @@
     {
         "id": 120603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25202,7 +25202,7 @@
     {
         "id": 120604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25307,7 +25307,7 @@
     {
         "id": 120703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25328,7 +25328,7 @@
     {
         "id": 120704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25412,7 +25412,7 @@
     {
         "id": 120803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25433,7 +25433,7 @@
     {
         "id": 120804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25517,7 +25517,7 @@
     {
         "id": 120903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25538,7 +25538,7 @@
     {
         "id": 120904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25622,7 +25622,7 @@
     {
         "id": 121003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25643,7 +25643,7 @@
     {
         "id": 121004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25727,7 +25727,7 @@
     {
         "id": 121103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -25748,7 +25748,7 @@
     {
         "id": 121104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25832,7 +25832,7 @@
     {
         "id": 121203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -25853,7 +25853,7 @@
     {
         "id": 121204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -25937,7 +25937,7 @@
     {
         "id": 121303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -25958,7 +25958,7 @@
     {
         "id": 121304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26042,7 +26042,7 @@
     {
         "id": 121403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -26063,7 +26063,7 @@
     {
         "id": 121404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26147,7 +26147,7 @@
     {
         "id": 121503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -26168,7 +26168,7 @@
     {
         "id": 121504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26252,7 +26252,7 @@
     {
         "id": 121603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -26273,7 +26273,7 @@
     {
         "id": 121604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26357,7 +26357,7 @@
     {
         "id": 121703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -26378,7 +26378,7 @@
     {
         "id": 121704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26462,7 +26462,7 @@
     {
         "id": 121803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -26483,7 +26483,7 @@
     {
         "id": 121804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26567,7 +26567,7 @@
     {
         "id": 122003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -26588,7 +26588,7 @@
     {
         "id": 122004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26672,7 +26672,7 @@
     {
         "id": 122103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -26693,7 +26693,7 @@
     {
         "id": 122104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26777,7 +26777,7 @@
     {
         "id": 122203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -26798,7 +26798,7 @@
     {
         "id": 122204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26882,7 +26882,7 @@
     {
         "id": 122303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -26903,7 +26903,7 @@
     {
         "id": 122304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -26987,7 +26987,7 @@
     {
         "id": 122403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -27008,7 +27008,7 @@
     {
         "id": 122404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27092,7 +27092,7 @@
     {
         "id": 122503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -27113,7 +27113,7 @@
     {
         "id": 122504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27197,7 +27197,7 @@
     {
         "id": 122603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -27218,7 +27218,7 @@
     {
         "id": 122604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27302,7 +27302,7 @@
     {
         "id": 122703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,Emoji__0503,Emoji__1209,,,",
         "min_decorate": 0,
@@ -27323,7 +27323,7 @@
     {
         "id": 122704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27407,7 +27407,7 @@
     {
         "id": 122803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -27428,7 +27428,7 @@
     {
         "id": 122804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27449,7 +27449,7 @@
     {
         "id": 122805,
         "spine_name": "sp_ativeR",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "paly_drum",
         "emoji": "Emoji__1203,Emoji__1001,Emoji__1010,Emoji__1008,,,",
         "min_decorate": 0,
@@ -27533,7 +27533,7 @@
     {
         "id": 122903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -27554,7 +27554,7 @@
     {
         "id": 122904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27638,7 +27638,7 @@
     {
         "id": 123003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -27659,7 +27659,7 @@
     {
         "id": 123004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27743,7 +27743,7 @@
     {
         "id": 123103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -27764,7 +27764,7 @@
     {
         "id": 123104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27848,7 +27848,7 @@
     {
         "id": 123203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -27869,7 +27869,7 @@
     {
         "id": 123204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -27953,7 +27953,7 @@
     {
         "id": 123303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -27974,7 +27974,7 @@
     {
         "id": 123304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28058,7 +28058,7 @@
     {
         "id": 123403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -28079,7 +28079,7 @@
     {
         "id": 123404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28163,7 +28163,7 @@
     {
         "id": 123503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -28184,7 +28184,7 @@
     {
         "id": 123504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28268,7 +28268,7 @@
     {
         "id": 123603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,Emoji_1727,,,,",
         "min_decorate": 0,
@@ -28289,7 +28289,7 @@
     {
         "id": 123604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28373,7 +28373,7 @@
     {
         "id": 123703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -28394,7 +28394,7 @@
     {
         "id": 123704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28478,7 +28478,7 @@
     {
         "id": 123803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -28499,7 +28499,7 @@
     {
         "id": 123804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28583,7 +28583,7 @@
     {
         "id": 123903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0201,Emoji_0202,Emoji_0203,Emoji_0204,Emoji_0205,,,,,",
         "min_decorate": 0,
@@ -28604,7 +28604,7 @@
     {
         "id": 123904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28688,7 +28688,7 @@
     {
         "id": 124003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -28709,7 +28709,7 @@
     {
         "id": 124004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28793,7 +28793,7 @@
     {
         "id": 124103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -28814,7 +28814,7 @@
     {
         "id": 124104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -28898,7 +28898,7 @@
     {
         "id": 124203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -28919,7 +28919,7 @@
     {
         "id": 124204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29003,7 +29003,7 @@
     {
         "id": 124303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -29024,7 +29024,7 @@
     {
         "id": 124304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29108,7 +29108,7 @@
     {
         "id": 124403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -29129,7 +29129,7 @@
     {
         "id": 124404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29213,7 +29213,7 @@
     {
         "id": 124503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -29234,7 +29234,7 @@
     {
         "id": 124504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29318,7 +29318,7 @@
     {
         "id": 124703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -29339,7 +29339,7 @@
     {
         "id": 124704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29423,7 +29423,7 @@
     {
         "id": 124803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -29444,7 +29444,7 @@
     {
         "id": 124804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29528,7 +29528,7 @@
     {
         "id": 124903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -29549,7 +29549,7 @@
     {
         "id": 124904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29633,7 +29633,7 @@
     {
         "id": 125003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -29654,7 +29654,7 @@
     {
         "id": 125004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29738,7 +29738,7 @@
     {
         "id": 125103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -29759,7 +29759,7 @@
     {
         "id": 125104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29843,7 +29843,7 @@
     {
         "id": 125203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -29864,7 +29864,7 @@
     {
         "id": 125204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -29948,7 +29948,7 @@
     {
         "id": 125303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -29969,7 +29969,7 @@
     {
         "id": 125304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30053,7 +30053,7 @@
     {
         "id": 125403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -30074,7 +30074,7 @@
     {
         "id": 125404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30158,7 +30158,7 @@
     {
         "id": 125503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -30179,7 +30179,7 @@
     {
         "id": 125504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30263,7 +30263,7 @@
     {
         "id": 125603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -30284,7 +30284,7 @@
     {
         "id": 125604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30368,7 +30368,7 @@
     {
         "id": 125703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -30389,7 +30389,7 @@
     {
         "id": 125704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30473,7 +30473,7 @@
     {
         "id": 125803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -30494,7 +30494,7 @@
     {
         "id": 125804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30578,7 +30578,7 @@
     {
         "id": 125903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -30599,7 +30599,7 @@
     {
         "id": 125904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30683,7 +30683,7 @@
     {
         "id": 126003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -30704,7 +30704,7 @@
     {
         "id": 126004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30788,7 +30788,7 @@
     {
         "id": 126103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -30809,7 +30809,7 @@
     {
         "id": 126104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30893,7 +30893,7 @@
     {
         "id": 126203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -30914,7 +30914,7 @@
     {
         "id": 126204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -30998,7 +30998,7 @@
     {
         "id": 126303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31019,7 +31019,7 @@
     {
         "id": 126304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31103,7 +31103,7 @@
     {
         "id": 126403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -31124,7 +31124,7 @@
     {
         "id": 126404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31208,7 +31208,7 @@
     {
         "id": 126503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31229,7 +31229,7 @@
     {
         "id": 126504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31313,7 +31313,7 @@
     {
         "id": 126603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,,,,,",
         "min_decorate": 0,
@@ -31334,7 +31334,7 @@
     {
         "id": 126604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31418,7 +31418,7 @@
     {
         "id": 126703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31439,7 +31439,7 @@
     {
         "id": 126704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31523,7 +31523,7 @@
     {
         "id": 126803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -31544,7 +31544,7 @@
     {
         "id": 126804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31628,7 +31628,7 @@
     {
         "id": 126903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31649,7 +31649,7 @@
     {
         "id": 126904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31733,7 +31733,7 @@
     {
         "id": 127003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31754,7 +31754,7 @@
     {
         "id": 127004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31838,7 +31838,7 @@
     {
         "id": 127103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -31859,7 +31859,7 @@
     {
         "id": 127104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -31943,7 +31943,7 @@
     {
         "id": 127203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -31964,7 +31964,7 @@
     {
         "id": 127204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -32048,7 +32048,7 @@
     {
         "id": 127303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -32069,7 +32069,7 @@
     {
         "id": 127304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -32153,7 +32153,7 @@
     {
         "id": 127403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -32174,7 +32174,7 @@
     {
         "id": 127404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -32258,7 +32258,7 @@
     {
         "id": 127503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -32279,7 +32279,7 @@
     {
         "id": 127504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -32363,7 +32363,7 @@
     {
         "id": 127603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -32384,7 +32384,7 @@
     {
         "id": 127604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -32405,7 +32405,7 @@
     {
         "id": 420231,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "drink_eat",
         "emoji": "Emoji_0403,Emoji__0503,Emoji_0004,Emoji_0003,Emoji_0002,Emoji__0502",
         "min_decorate": 0,
@@ -32426,7 +32426,7 @@
     {
         "id": 420232,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "green_beverage",
         "emoji": "Emoji__0501,Emoji__1005,Emoji_0001,Emoji__1203,Emoji__1502",
         "min_decorate": 0,
@@ -32447,7 +32447,7 @@
     {
         "id": 420471,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp_2019wait",
         "emoji": "Emoji_1704,Emoji_1746,Emoji_0405,Emoji_1702,Emoji_1706,,,",
         "min_decorate": 0,
@@ -32468,7 +32468,7 @@
     {
         "id": 420472,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp_2019wait",
         "emoji": "Emoji__0510,Emoji__0511,Emoji__1505,Emoji__1504,,,",
         "min_decorate": 0,
@@ -32489,7 +32489,7 @@
     {
         "id": 440078,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "kalina_saler",
         "emoji": "Emoji_1734,Emoji_1765,Emoji__1005,Emoji__1602,,,,",
         "min_decorate": 0,
@@ -32510,7 +32510,7 @@
     {
         "id": 450102,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "russian_sit",
         "emoji": "Emoji__6001,Emoji__0503,,,",
         "min_decorate": 0,
@@ -32531,7 +32531,7 @@
     {
         "id": 450901,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "2018_summer",
         "emoji": "Emoji_0101,Emoji__1010,Emoji__1008,Emoji__1101",
         "min_decorate": 0,
@@ -32552,7 +32552,7 @@
     {
         "id": 459041,
         "spine_name": "59_rock_roll",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "pet_rock",
         "emoji": "Emoji__0502,Emoji_9009,Emoji_1604,Emoji_9003,Emoji_9008,,,",
         "min_decorate": 0,
@@ -32573,7 +32573,7 @@
     {
         "id": 459042,
         "spine_name": "59_rock_roll",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "rock_roll",
         "emoji": "Emoji__0502,Emoji_9009,Emoji_0000,Emoji_1601,Emoji_1603,Emoji_1604,,,,",
         "min_decorate": 0,
@@ -32594,7 +32594,7 @@
     {
         "id": 459043,
         "spine_name": "59_rock_roll",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "rock_roll",
         "emoji": "Emoji__0502,Emoji_9009,Emoji_0000,Emoji_1602,Emoji_1603,Emoji_1604,,,,",
         "min_decorate": 0,
@@ -32615,7 +32615,7 @@
     {
         "id": 459044,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "rock_roll_aud",
         "emoji": "Emoji__0502,Emoji_9009,Emoji_1603,Emoji_1604,Emoji_1605,,,,,",
         "min_decorate": 0,
@@ -32636,7 +32636,7 @@
     {
         "id": 468111,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_d",
         "emoji": "Emoji_90081,Emoji_1720,Emoji__0010,Emoji_0302,,,,",
         "min_decorate": 0,
@@ -32657,7 +32657,7 @@
     {
         "id": 468112,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_d",
         "emoji": "Emoji_90081,Emoji_1737,Emoji_1735,Emoji_1718,,,,",
         "min_decorate": 0,
@@ -32678,7 +32678,7 @@
     {
         "id": 468121,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_v",
         "emoji": "Emoji_1719,Emoji_90081,Emoji_1713,Emoji__1204,,,,",
         "min_decorate": 0,
@@ -32699,7 +32699,7 @@
     {
         "id": 468122,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_v",
         "emoji": "Emoji_90081,Emoji__1203,Emoji__1503,Emoji_0403,,,",
         "min_decorate": 0,
@@ -32720,7 +32720,7 @@
     {
         "id": 468131,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_c",
         "emoji": "Emoji_90081,Emoji__1502,Emoji_1740,Emoji__1205,,,",
         "min_decorate": 0,
@@ -32741,7 +32741,7 @@
     {
         "id": 468132,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_c",
         "emoji": "Emoji_90081,Emoji__1209,Emoji__1502,Emoji_0202,,,",
         "min_decorate": 0,
@@ -32762,7 +32762,7 @@
     {
         "id": 468133,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_h",
         "emoji": "Emoji_90081,Emoji_0303,Emoji__0501,Emoji__1101,,,",
         "min_decorate": 0,
@@ -32783,7 +32783,7 @@
     {
         "id": 468141,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_l",
         "emoji": "Emoji_90081,Emoji__1501,Emoji_0301,Emoji__1304,,,",
         "min_decorate": 0,
@@ -32804,7 +32804,7 @@
     {
         "id": 468142,
         "spine_name": "action",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "concert_l",
         "emoji": "Emoji_90081,Emoji_1710,Emoji_1717,Emoji_1742,,,",
         "min_decorate": 0,
@@ -32825,7 +32825,7 @@
     {
         "id": 472011,
         "spine_name": "dance",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Stepmania_sps",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32846,7 +32846,7 @@
     {
         "id": 472012,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Stepmania_sps",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32867,7 +32867,7 @@
     {
         "id": 472013,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Stepmania_spq",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32888,7 +32888,7 @@
     {
         "id": 472014,
         "spine_name": "dance",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Stepmania_spq",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32909,7 +32909,7 @@
     {
         "id": 472021,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Boxer_sp",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32930,7 +32930,7 @@
     {
         "id": 472022,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Boxer_sp",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32951,7 +32951,7 @@
     {
         "id": 472023,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "Boxer_sp",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -32972,7 +32972,7 @@
     {
         "id": 472101,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "ar15_20sit",
         "emoji": "",
         "min_decorate": 0,
@@ -32993,7 +32993,7 @@
     {
         "id": 472102,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "M4_20sit",
         "emoji": "",
         "min_decorate": 0,
@@ -33014,7 +33014,7 @@
     {
         "id": 472103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "SOP_20sit",
         "emoji": "",
         "min_decorate": 0,
@@ -33035,7 +33035,7 @@
     {
         "id": 472104,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "M16_20sit",
         "emoji": "",
         "min_decorate": 0,
@@ -33056,7 +33056,7 @@
     {
         "id": 472181,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "aa12_wait",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -33077,7 +33077,7 @@
     {
         "id": 472182,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "other_wait",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -33098,7 +33098,7 @@
     {
         "id": 472191,
         "spine_name": "die,lying~",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sangvis_die",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0405,Emoji_1706,,,,",
         "min_decorate": 0,
@@ -33119,7 +33119,7 @@
     {
         "id": 475091,
         "spine_name": "action1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "zhiba_wait",
         "emoji": "Emoji__0502,Emoji__1001,Emoji_1746,Emoji__1501,,,,",
         "min_decorate": 0,
@@ -33140,7 +33140,7 @@
     {
         "id": 475092,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "zhiba_wait",
         "emoji": "Emoji__0502,Emoji__1001,Emoji_1746,Emoji__1501,,,,",
         "min_decorate": 0,
@@ -33224,7 +33224,7 @@
     {
         "id": 1100103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0202,Emoji__5002,Emoji_0405,,,",
         "min_decorate": 0,
@@ -33245,7 +33245,7 @@
     {
         "id": 1100104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33266,7 +33266,7 @@
     {
         "id": 1100105,
         "spine_name": "sp1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp1",
         "emoji": "Emoji__1603,Emoji__1001,Emoji_9001",
         "min_decorate": 0,
@@ -33371,7 +33371,7 @@
     {
         "id": 1100203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33392,7 +33392,7 @@
     {
         "id": 1100204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33413,7 +33413,7 @@
     {
         "id": 1100205,
         "spine_name": "sp1",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sp1",
         "emoji": "Emoji__1603,Emoji__0511,Emoji__1207,Emoji__1505,Emoji__1203",
         "min_decorate": 0,
@@ -33518,7 +33518,7 @@
     {
         "id": 1100303,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33539,7 +33539,7 @@
     {
         "id": 1100304,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33623,7 +33623,7 @@
     {
         "id": 1100403,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33644,7 +33644,7 @@
     {
         "id": 1100404,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33728,7 +33728,7 @@
     {
         "id": 1100503,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33749,7 +33749,7 @@
     {
         "id": 1100504,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33833,7 +33833,7 @@
     {
         "id": 1100603,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33854,7 +33854,7 @@
     {
         "id": 1100604,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -33938,7 +33938,7 @@
     {
         "id": 1100703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -33959,7 +33959,7 @@
     {
         "id": 1100704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34043,7 +34043,7 @@
     {
         "id": 1100803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -34064,7 +34064,7 @@
     {
         "id": 1100804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34148,7 +34148,7 @@
     {
         "id": 1100903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -34169,7 +34169,7 @@
     {
         "id": 1100904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34253,7 +34253,7 @@
     {
         "id": 1101003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0101,Emoji_0102,,,,",
         "min_decorate": 0,
@@ -34274,7 +34274,7 @@
     {
         "id": 1101004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34358,7 +34358,7 @@
     {
         "id": 1101703,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -34379,7 +34379,7 @@
     {
         "id": 1101704,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34463,7 +34463,7 @@
     {
         "id": 1101803,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -34484,7 +34484,7 @@
     {
         "id": 1101804,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34568,7 +34568,7 @@
     {
         "id": 1101903,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -34589,7 +34589,7 @@
     {
         "id": 1101904,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34673,7 +34673,7 @@
     {
         "id": 1102003,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -34694,7 +34694,7 @@
     {
         "id": 1102004,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34778,7 +34778,7 @@
     {
         "id": 1102103,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0301,Emoji_0302,Emoji_0303,,,",
         "min_decorate": 0,
@@ -34799,7 +34799,7 @@
     {
         "id": 1102104,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34883,7 +34883,7 @@
     {
         "id": 1102203,
         "spine_name": "sit",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sit",
         "emoji": "Emoji_0401,Emoji_0402,Emoji_0403,Emoji_0404,Emoji_0405,Emoji_1705,,,,",
         "min_decorate": 0,
@@ -34904,7 +34904,7 @@
     {
         "id": 1102204,
         "spine_name": "lying",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "sleep",
         "emoji": "",
         "min_decorate": 0,
@@ -34925,7 +34925,7 @@
     {
         "id": 4509011,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "2018_summer",
         "emoji": "Emoji__1203,Emoji__1503,Emoji_0401,Emoji__1502",
         "min_decorate": 0,
@@ -34946,7 +34946,7 @@
     {
         "id": 4509012,
         "spine_name": "wait",
-        "interact_type": 4294967295,
+        "interact_type": -1,
         "interact_point_type": "2018_summer",
         "emoji": "Emoji__1001,Emoji__1505,Emoji__1303,Emoji__1504",
         "min_decorate": 0,
