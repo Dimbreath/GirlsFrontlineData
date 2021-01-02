@@ -5244,6 +5244,10 @@
         "formula": "100+sbuffidtier(717601)"
     },
     {
+        "id": 3852,
+        "formula": "sbuffidtier(718401)>0?1+sbuffidtier(7184):1"
+    },
+    {
         "id": 6000,
         "formula": "(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(221)+tbufftypetier(403)>0&sbuffidtier(6004)>0?1.1*$1:$1"
     },
