@@ -46,7 +46,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 1001,
+        "equip_group_id": 0
     },
     {
         "id": 2,
@@ -95,7 +97,9 @@
         "bonus_type": "critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1001,
+        "equip_group_id": 0
     },
     {
         "id": 3,
@@ -144,7 +148,9 @@
         "bonus_type": "critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1001,
+        "equip_group_id": 0
     },
     {
         "id": 4,
@@ -193,7 +199,9 @@
         "bonus_type": "critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1001,
+        "equip_group_id": 0
     },
     {
         "id": 5,
@@ -242,7 +250,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 2001,
+        "equip_group_id": 0
     },
     {
         "id": 6,
@@ -291,7 +301,9 @@
         "bonus_type": "pow:500,hit:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2001,
+        "equip_group_id": 0
     },
     {
         "id": 7,
@@ -340,7 +352,9 @@
         "bonus_type": "pow:400,hit:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2001,
+        "equip_group_id": 0
     },
     {
         "id": 8,
@@ -389,7 +403,9 @@
         "bonus_type": "pow:400,hit:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2001,
+        "equip_group_id": 0
     },
     {
         "id": 9,
@@ -438,7 +454,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 3001,
+        "equip_group_id": 0
     },
     {
         "id": 10,
@@ -487,7 +505,9 @@
         "bonus_type": "hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3001,
+        "equip_group_id": 0
     },
     {
         "id": 11,
@@ -536,7 +556,9 @@
         "bonus_type": "hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3001,
+        "equip_group_id": 0
     },
     {
         "id": 12,
@@ -585,7 +607,9 @@
         "bonus_type": "hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3001,
+        "equip_group_id": 0
     },
     {
         "id": 13,
@@ -634,7 +658,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4001,
+        "equip_group_id": 0
     },
     {
         "id": 14,
@@ -683,7 +709,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4001,
+        "equip_group_id": 0
     },
     {
         "id": 15,
@@ -732,7 +760,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4001,
+        "equip_group_id": 0
     },
     {
         "id": 16,
@@ -781,7 +811,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4001,
+        "equip_group_id": 0
     },
     {
         "id": 17,
@@ -830,7 +862,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 5001,
+        "equip_group_id": 0
     },
     {
         "id": 18,
@@ -879,7 +913,9 @@
         "bonus_type": "armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5001,
+        "equip_group_id": 0
     },
     {
         "id": 19,
@@ -928,7 +964,9 @@
         "bonus_type": "armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5001,
+        "equip_group_id": 0
     },
     {
         "id": 20,
@@ -977,7 +1015,9 @@
         "bonus_type": "armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5001,
+        "equip_group_id": 0
     },
     {
         "id": 21,
@@ -1026,7 +1066,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6001,
+        "equip_group_id": 0
     },
     {
         "id": 22,
@@ -1075,7 +1117,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6001,
+        "equip_group_id": 0
     },
     {
         "id": 23,
@@ -1124,7 +1168,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6001,
+        "equip_group_id": 0
     },
     {
         "id": 24,
@@ -1173,7 +1219,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6001,
+        "equip_group_id": 0
     },
     {
         "id": 25,
@@ -1222,7 +1270,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6002,
+        "equip_group_id": 0
     },
     {
         "id": 26,
@@ -1271,7 +1321,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6002,
+        "equip_group_id": 0
     },
     {
         "id": 27,
@@ -1320,7 +1372,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6002,
+        "equip_group_id": 0
     },
     {
         "id": 28,
@@ -1369,7 +1423,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6002,
+        "equip_group_id": 0
     },
     {
         "id": 29,
@@ -1418,7 +1474,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 8001,
+        "equip_group_id": 0
     },
     {
         "id": 30,
@@ -1467,7 +1525,9 @@
         "bonus_type": "pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8001,
+        "equip_group_id": 0
     },
     {
         "id": 31,
@@ -1516,7 +1576,9 @@
         "bonus_type": "pow:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8001,
+        "equip_group_id": 0
     },
     {
         "id": 32,
@@ -1565,7 +1627,9 @@
         "bonus_type": "pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8001,
+        "equip_group_id": 0
     },
     {
         "id": 33,
@@ -1614,7 +1678,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 9001,
+        "equip_group_id": 0
     },
     {
         "id": 34,
@@ -1663,7 +1729,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 9001,
+        "equip_group_id": 0
     },
     {
         "id": 35,
@@ -1712,7 +1780,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 9001,
+        "equip_group_id": 0
     },
     {
         "id": 36,
@@ -1761,7 +1831,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 9001,
+        "equip_group_id": 0
     },
     {
         "id": 37,
@@ -1810,7 +1882,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 10001,
+        "equip_group_id": 0
     },
     {
         "id": 38,
@@ -1859,7 +1933,9 @@
         "bonus_type": "dodge:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10001,
+        "equip_group_id": 0
     },
     {
         "id": 39,
@@ -1908,7 +1984,9 @@
         "bonus_type": "dodge:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10001,
+        "equip_group_id": 0
     },
     {
         "id": 40,
@@ -1957,7 +2035,9 @@
         "bonus_type": "dodge:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10001,
+        "equip_group_id": 0
     },
     {
         "id": 42,
@@ -2006,7 +2086,9 @@
         "bonus_type": "armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11001,
+        "equip_group_id": 0
     },
     {
         "id": 43,
@@ -2055,7 +2137,9 @@
         "bonus_type": "armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11001,
+        "equip_group_id": 0
     },
     {
         "id": 44,
@@ -2104,7 +2188,9 @@
         "bonus_type": "armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11001,
+        "equip_group_id": 0
     },
     {
         "id": 45,
@@ -2153,7 +2239,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12001,
+        "equip_group_id": 0
     },
     {
         "id": 46,
@@ -2202,7 +2290,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12001,
+        "equip_group_id": 0
     },
     {
         "id": 47,
@@ -2251,7 +2341,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12001,
+        "equip_group_id": 0
     },
     {
         "id": 48,
@@ -2300,7 +2392,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12001,
+        "equip_group_id": 0
     },
     {
         "id": 49,
@@ -2349,7 +2443,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4001,
+        "equip_group_id": 0
     },
     {
         "id": 50,
@@ -2398,7 +2494,9 @@
         "bonus_type": "armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5001,
+        "equip_group_id": 0
     },
     {
         "id": 51,
@@ -2447,7 +2545,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 5002,
+        "equip_group_id": 0
     },
     {
         "id": 52,
@@ -2496,7 +2596,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 5002,
+        "equip_group_id": 0
     },
     {
         "id": 53,
@@ -2545,7 +2647,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 5002,
+        "equip_group_id": 0
     },
     {
         "id": 54,
@@ -2594,7 +2698,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 5002,
+        "equip_group_id": 0
     },
     {
         "id": 55,
@@ -2643,7 +2749,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 10002,
+        "equip_group_id": 0
     },
     {
         "id": 56,
@@ -2692,7 +2800,9 @@
         "bonus_type": "dodge:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10002,
+        "equip_group_id": 0
     },
     {
         "id": 57,
@@ -2741,7 +2851,9 @@
         "bonus_type": "dodge:900",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10002,
+        "equip_group_id": 0
     },
     {
         "id": 58,
@@ -2790,7 +2902,9 @@
         "bonus_type": "dodge:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10002,
+        "equip_group_id": 0
     },
     {
         "id": 59,
@@ -2839,7 +2953,9 @@
         "bonus_type": "rate:300,armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5003,
+        "equip_group_id": 0
     },
     {
         "id": 60,
@@ -2888,7 +3004,9 @@
         "bonus_type": "pow:600",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8002,
+        "equip_group_id": 0
     },
     {
         "id": 61,
@@ -2937,7 +3055,9 @@
         "bonus_type": "bullet_number_up:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 9002,
+        "equip_group_id": 0
     },
     {
         "id": 62,
@@ -2986,7 +3106,9 @@
         "bonus_type": "dodge:300",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10003,
+        "equip_group_id": 0
     },
     {
         "id": 63,
@@ -3035,7 +3157,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 13001,
+        "equip_group_id": 0
     },
     {
         "id": 64,
@@ -3084,7 +3208,9 @@
         "bonus_type": "dodge:400,critical_percent:300",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13001,
+        "equip_group_id": 0
     },
     {
         "id": 65,
@@ -3133,7 +3259,9 @@
         "bonus_type": "dodge:400,critical_percent:300",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13001,
+        "equip_group_id": 0
     },
     {
         "id": 66,
@@ -3182,7 +3310,9 @@
         "bonus_type": "dodge:300,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13001,
+        "equip_group_id": 0
     },
     {
         "id": 67,
@@ -3231,7 +3361,9 @@
         "bonus_type": "bullet_number_up:2000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 14001,
+        "equip_group_id": 0
     },
     {
         "id": 68,
@@ -3280,7 +3412,9 @@
         "bonus_type": "bullet_number_up:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 14001,
+        "equip_group_id": 0
     },
     {
         "id": 69,
@@ -3329,7 +3463,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 6003,
+        "equip_group_id": 0
     },
     {
         "id": 70,
@@ -3378,7 +3514,9 @@
         "bonus_type": "pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6003,
+        "equip_group_id": 0
     },
     {
         "id": 71,
@@ -3427,7 +3565,9 @@
         "bonus_type": "pow:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6003,
+        "equip_group_id": 0
     },
     {
         "id": 72,
@@ -3476,7 +3616,9 @@
         "bonus_type": "pow:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6003,
+        "equip_group_id": 0
     },
     {
         "id": 73,
@@ -3525,7 +3667,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 7001,
+        "equip_group_id": 0
     },
     {
         "id": 74,
@@ -3574,7 +3718,9 @@
         "bonus_type": "pow:500,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7001,
+        "equip_group_id": 0
     },
     {
         "id": 75,
@@ -3623,7 +3769,9 @@
         "bonus_type": "pow:500,critical_harm_rate:600",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7001,
+        "equip_group_id": 0
     },
     {
         "id": 76,
@@ -3672,7 +3820,9 @@
         "bonus_type": "pow:500,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7001,
+        "equip_group_id": 0
     },
     {
         "id": 77,
@@ -3721,7 +3871,9 @@
         "bonus_type": "",
         "skill": 300701,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 7002,
+        "equip_group_id": 0
     },
     {
         "id": 78,
@@ -3770,7 +3922,9 @@
         "bonus_type": "hit:1000",
         "skill": 300701,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7002,
+        "equip_group_id": 0
     },
     {
         "id": 79,
@@ -3819,7 +3973,9 @@
         "bonus_type": "hit:900",
         "skill": 300701,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7002,
+        "equip_group_id": 0
     },
     {
         "id": 80,
@@ -3868,7 +4024,9 @@
         "bonus_type": "hit:700",
         "skill": 300701,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7002,
+        "equip_group_id": 0
     },
     {
         "id": 81,
@@ -3917,7 +4075,9 @@
         "bonus_type": "armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11001,
+        "equip_group_id": 0
     },
     {
         "id": 82,
@@ -3966,7 +4126,9 @@
         "bonus_type": "pow:500,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7001,
+        "equip_group_id": 0
     },
     {
         "id": 83,
@@ -4015,7 +4177,9 @@
         "bonus_type": "critical_harm_rate:100,critical_percent:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1002,
+        "equip_group_id": 0
     },
     {
         "id": 84,
@@ -4064,7 +4228,9 @@
         "bonus_type": "critical_harm_rate:200,critical_percent:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1002,
+        "equip_group_id": 0
     },
     {
         "id": 85,
@@ -4113,7 +4279,9 @@
         "bonus_type": "critical_harm_rate:500,critical_percent:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1002,
+        "equip_group_id": 0
     },
     {
         "id": 86,
@@ -4162,7 +4330,9 @@
         "bonus_type": "pow:200,dodge:300,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 9003,
+        "equip_group_id": 0
     },
     {
         "id": 87,
@@ -4211,7 +4381,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 15001,
+        "equip_group_id": 0
     },
     {
         "id": 88,
@@ -4260,7 +4432,9 @@
         "bonus_type": "critical_harm_rate:900",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15001,
+        "equip_group_id": 0
     },
     {
         "id": 89,
@@ -4309,7 +4483,9 @@
         "bonus_type": "critical_harm_rate:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15001,
+        "equip_group_id": 0
     },
     {
         "id": 90,
@@ -4358,7 +4534,9 @@
         "bonus_type": "critical_harm_rate:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15001,
+        "equip_group_id": 0
     },
     {
         "id": 91,
@@ -4407,7 +4585,9 @@
         "bonus_type": "dodge:300,armor:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11002,
+        "equip_group_id": 0
     },
     {
         "id": 92,
@@ -4456,7 +4636,9 @@
         "bonus_type": "dodge:400,critical_harm_rate:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10004,
+        "equip_group_id": 0
     },
     {
         "id": 93,
@@ -4505,7 +4687,9 @@
         "bonus_type": "pow:600",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 4002,
+        "equip_group_id": 0
     },
     {
         "id": 94,
@@ -4554,7 +4738,9 @@
         "bonus_type": "pow:600,bullet_number_up:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 9004,
+        "equip_group_id": 0
     },
     {
         "id": 95,
@@ -4603,7 +4789,9 @@
         "bonus_type": "pow:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6003,
+        "equip_group_id": 0
     },
     {
         "id": 96,
@@ -4652,7 +4840,9 @@
         "bonus_type": "critical_harm_rate:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15001,
+        "equip_group_id": 0
     },
     {
         "id": 97,
@@ -4701,7 +4891,9 @@
         "bonus_type": "armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 11999,
+        "equip_group_id": 0
     },
     {
         "id": 98,
@@ -4750,7 +4942,9 @@
         "bonus_type": "armor_piercing:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5999,
+        "equip_group_id": 0
     },
     {
         "id": 99,
@@ -4799,7 +4993,9 @@
         "bonus_type": "pow:700,armor:250",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12002,
+        "equip_group_id": 0
     },
     {
         "id": 100,
@@ -4848,7 +5044,9 @@
         "bonus_type": "hit:700,critical_harm_rate:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16001,
+        "equip_group_id": 0
     },
     {
         "id": 101,
@@ -4897,7 +5095,9 @@
         "bonus_type": "pow:550",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6004,
+        "equip_group_id": 0
     },
     {
         "id": 102,
@@ -4946,7 +5146,9 @@
         "bonus_type": "dodge:450,rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 9005,
+        "equip_group_id": 0
     },
     {
         "id": 103,
@@ -4995,7 +5197,9 @@
         "bonus_type": "dodge:400,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13002,
+        "equip_group_id": 0
     },
     {
         "id": 104,
@@ -5044,7 +5248,9 @@
         "bonus_type": "rate:700,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16002,
+        "equip_group_id": 0
     },
     {
         "id": 105,
@@ -5093,7 +5299,9 @@
         "bonus_type": "critical_harm_rate:1000,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1003,
+        "equip_group_id": 0
     },
     {
         "id": 106,
@@ -5142,7 +5350,9 @@
         "bonus_type": "pow:400,hit:400,critical_percent:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2002,
+        "equip_group_id": 0
     },
     {
         "id": 107,
@@ -5191,7 +5401,9 @@
         "bonus_type": "bullet_number_up:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 14002,
+        "equip_group_id": 0
     },
     {
         "id": 108,
@@ -5240,7 +5452,9 @@
         "bonus_type": "critical_harm_rate:700,rate:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15002,
+        "equip_group_id": 0
     },
     {
         "id": 109,
@@ -5289,7 +5503,9 @@
         "bonus_type": "critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1001,
+        "equip_group_id": 0
     },
     {
         "id": 110,
@@ -5338,7 +5554,9 @@
         "bonus_type": "pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8001,
+        "equip_group_id": 0
     },
     {
         "id": 111,
@@ -5387,7 +5605,9 @@
         "bonus_type": "critical_percent:1000,hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1004,
+        "equip_group_id": 0
     },
     {
         "id": 112,
@@ -5436,7 +5656,9 @@
         "bonus_type": "hit:1000,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3002,
+        "equip_group_id": 0
     },
     {
         "id": 113,
@@ -5485,7 +5707,9 @@
         "bonus_type": "dodge:400,hit:1000,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13003,
+        "equip_group_id": 0
     },
     {
         "id": 114,
@@ -5534,7 +5758,9 @@
         "bonus_type": "dodge:300,hit:1000,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16003,
+        "equip_group_id": 0
     },
     {
         "id": 115,
@@ -5583,7 +5809,9 @@
         "bonus_type": "critical_harm_rate:700,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 15003,
+        "equip_group_id": 0
     },
     {
         "id": 117,
@@ -5632,7 +5860,9 @@
         "bonus_type": "",
         "skill": 109406,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4003,
+        "equip_group_id": 0
     },
     {
         "id": 118,
@@ -5681,7 +5911,9 @@
         "bonus_type": "",
         "skill": 109504,
         "passive_skill": 0,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 4004,
+        "equip_group_id": 0
     },
     {
         "id": 119,
@@ -5730,7 +5962,9 @@
         "bonus_type": "critical_percent:1000,hit:1000,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1005,
+        "equip_group_id": 0
     },
     {
         "id": 120,
@@ -5779,7 +6013,9 @@
         "bonus_type": "hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3001,
+        "equip_group_id": 0
     },
     {
         "id": 121,
@@ -5828,7 +6064,9 @@
         "bonus_type": "dodge:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10001,
+        "equip_group_id": 0
     },
     {
         "id": 122,
@@ -5877,7 +6115,9 @@
         "bonus_type": "pow:500,dodge:300,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16004,
+        "equip_group_id": 0
     },
     {
         "id": 123,
@@ -5926,7 +6166,9 @@
         "bonus_type": "hit:1000,pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16005,
+        "equip_group_id": 0
     },
     {
         "id": 124,
@@ -5975,7 +6217,9 @@
         "bonus_type": "critical_percent:1000,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16006,
+        "equip_group_id": 0
     },
     {
         "id": 125,
@@ -6024,7 +6268,9 @@
         "bonus_type": "dodge:500,critical_percent:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16007,
+        "equip_group_id": 0
     },
     {
         "id": 126,
@@ -6073,7 +6319,9 @@
         "bonus_type": "pow:350,hit:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16008,
+        "equip_group_id": 0
     },
     {
         "id": 127,
@@ -6122,7 +6370,9 @@
         "bonus_type": "pow:700,hit:700,dodge:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12003,
+        "equip_group_id": 0
     },
     {
         "id": 128,
@@ -6171,7 +6421,9 @@
         "bonus_type": "dodge:400,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13004,
+        "equip_group_id": 0
     },
     {
         "id": 129,
@@ -6220,7 +6472,9 @@
         "bonus_type": "critical_percent:1000,hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16009,
+        "equip_group_id": 0
     },
     {
         "id": 130,
@@ -6269,7 +6523,9 @@
         "bonus_type": "critical_percent:1000,hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1006,
+        "equip_group_id": 0
     },
     {
         "id": 131,
@@ -6318,7 +6574,9 @@
         "bonus_type": "hit:1000,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3003,
+        "equip_group_id": 0
     },
     {
         "id": 132,
@@ -6367,7 +6625,9 @@
         "bonus_type": "hit:1000,critical_percent:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3004,
+        "equip_group_id": 0
     },
     {
         "id": 133,
@@ -6416,7 +6676,9 @@
         "bonus_type": "dodge:300,critical_percent:350,hit:1000",
         "skill": 300119,
         "passive_skill": 300120,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16010,
+        "equip_group_id": 0
     },
     {
         "id": 134,
@@ -6465,7 +6727,9 @@
         "bonus_type": "hit:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3005,
+        "equip_group_id": 0
     },
     {
         "id": 135,
@@ -6514,7 +6778,9 @@
         "bonus_type": "pow:750",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8003,
+        "equip_group_id": 0
     },
     {
         "id": 136,
@@ -6563,7 +6829,9 @@
         "bonus_type": "pow:750",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8004,
+        "equip_group_id": 0
     },
     {
         "id": 137,
@@ -6612,7 +6880,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710102,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 16011,
+        "equip_group_id": 0
     },
     {
         "id": 138,
@@ -6661,7 +6931,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710105,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 16012,
+        "equip_group_id": 0
     },
     {
         "id": 139,
@@ -6710,7 +6982,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710122,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 17001,
+        "equip_group_id": 0
     },
     {
         "id": 140,
@@ -6759,7 +7033,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710103,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 17002,
+        "equip_group_id": 0
     },
     {
         "id": 141,
@@ -6808,7 +7084,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710104,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12004,
+        "equip_group_id": 0
     },
     {
         "id": 142,
@@ -6857,7 +7135,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710106,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 16013,
+        "equip_group_id": 0
     },
     {
         "id": 143,
@@ -6906,7 +7186,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710120,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 17003,
+        "equip_group_id": 0
     },
     {
         "id": 144,
@@ -6955,7 +7237,9 @@
         "bonus_type": "",
         "skill": 0,
         "passive_skill": 710121,
-        "max_level": 0
+        "max_level": 0,
+        "auto_select_id": 12005,
+        "equip_group_id": 0
     },
     {
         "id": 145,
@@ -7004,7 +7288,9 @@
         "bonus_type": "pow:500,armor:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12006,
+        "equip_group_id": 0
     },
     {
         "id": 146,
@@ -7053,7 +7339,9 @@
         "bonus_type": "pow:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6005,
+        "equip_group_id": 0
     },
     {
         "id": 147,
@@ -7102,7 +7390,9 @@
         "bonus_type": "dodge:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 10005,
+        "equip_group_id": 0
     },
     {
         "id": 148,
@@ -7151,7 +7441,9 @@
         "bonus_type": "rate:500,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12007,
+        "equip_group_id": 0
     },
     {
         "id": 149,
@@ -7200,7 +7492,9 @@
         "bonus_type": "pow:500,bullet_number_up:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12008,
+        "equip_group_id": 0
     },
     {
         "id": 150,
@@ -7249,7 +7543,9 @@
         "bonus_type": "hit:900,critical_percent:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1007,
+        "equip_group_id": 0
     },
     {
         "id": 151,
@@ -7298,7 +7594,9 @@
         "bonus_type": "pow:500,hit:1000,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7003,
+        "equip_group_id": 0
     },
     {
         "id": 152,
@@ -7347,7 +7645,9 @@
         "bonus_type": "pow:800,hit:1000,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16014,
+        "equip_group_id": 0
     },
     {
         "id": 153,
@@ -7396,7 +7696,9 @@
         "bonus_type": "hit:450,rate:500,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16015,
+        "equip_group_id": 0
     },
     {
         "id": 154,
@@ -7445,7 +7747,9 @@
         "bonus_type": "pow:1000,dodge:500,critical_percent:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13005,
+        "equip_group_id": 0
     },
     {
         "id": 155,
@@ -7494,7 +7798,9 @@
         "bonus_type": "dodge:400,critical_percent:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13006,
+        "equip_group_id": 0
     },
     {
         "id": 156,
@@ -7543,7 +7849,9 @@
         "bonus_type": "pow:450,hit:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2003,
+        "equip_group_id": 0
     },
     {
         "id": 157,
@@ -7592,7 +7900,9 @@
         "bonus_type": "pow:450,hit:400",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16016,
+        "equip_group_id": 0
     },
     {
         "id": 158,
@@ -7641,7 +7951,9 @@
         "bonus_type": "pow:800,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16017,
+        "equip_group_id": 0
     },
     {
         "id": 159,
@@ -7690,7 +8002,9 @@
         "bonus_type": "dodge:700,critical_harm_rate:250",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12009,
+        "equip_group_id": 0
     },
     {
         "id": 160,
@@ -7739,7 +8053,9 @@
         "bonus_type": "rate:1000,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1008,
+        "equip_group_id": 0
     },
     {
         "id": 161,
@@ -7788,7 +8104,9 @@
         "bonus_type": "pow:700,critical_percent:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1009,
+        "equip_group_id": 0
     },
     {
         "id": 162,
@@ -7837,7 +8155,9 @@
         "bonus_type": "bullet_number_up:700,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12010,
+        "equip_group_id": 0
     },
     {
         "id": 163,
@@ -7886,7 +8206,9 @@
         "bonus_type": "dodge:700,critical_percent:750",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16018,
+        "equip_group_id": 0
     },
     {
         "id": 164,
@@ -7935,7 +8257,9 @@
         "bonus_type": "dodge:700,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16019,
+        "equip_group_id": 0
     },
     {
         "id": 165,
@@ -7984,7 +8308,9 @@
         "bonus_type": "pow:2000,rate:500,dodge:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12011,
+        "equip_group_id": 0
     },
     {
         "id": 166,
@@ -8033,7 +8359,9 @@
         "bonus_type": "pow:900,hit:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 2004,
+        "equip_group_id": 0
     },
     {
         "id": 167,
@@ -8082,7 +8410,9 @@
         "bonus_type": "dodge:1000,critical_percent:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16020,
+        "equip_group_id": 0
     },
     {
         "id": 168,
@@ -8131,7 +8461,9 @@
         "bonus_type": "dodge:700,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16021,
+        "equip_group_id": 0
     },
     {
         "id": 169,
@@ -8180,7 +8512,9 @@
         "bonus_type": "critical_percent:1000,critical_harm_rate:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16022,
+        "equip_group_id": 0
     },
     {
         "id": 170,
@@ -8229,7 +8563,9 @@
         "bonus_type": "armor_piercing:500,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5004,
+        "equip_group_id": 0
     },
     {
         "id": 171,
@@ -8278,7 +8614,9 @@
         "bonus_type": "dodge:700,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12012,
+        "equip_group_id": 0
     },
     {
         "id": 172,
@@ -8327,7 +8665,9 @@
         "bonus_type": "critical_percent:1000,pow:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 1010,
+        "equip_group_id": 0
     },
     {
         "id": 173,
@@ -8376,7 +8716,9 @@
         "bonus_type": "pow:700,critical_harm_rate:500",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 8005,
+        "equip_group_id": 0
     },
     {
         "id": 174,
@@ -8425,7 +8767,9 @@
         "bonus_type": "hit:700,pow:900",
         "skill": 0,
         "passive_skill": 114001,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 7004,
+        "equip_group_id": 0
     },
     {
         "id": 175,
@@ -8474,7 +8818,9 @@
         "bonus_type": "dodge:300,critical_percent:1000,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13007,
+        "equip_group_id": 0
     },
     {
         "id": 176,
@@ -8523,7 +8869,9 @@
         "bonus_type": "pow:500,rate:500,armor_piercing:750",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 17004,
+        "equip_group_id": 0
     },
     {
         "id": 177,
@@ -8572,7 +8920,9 @@
         "bonus_type": "hit:1000,critical_harm_rate:650",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 3006,
+        "equip_group_id": 0
     },
     {
         "id": 178,
@@ -8621,7 +8971,9 @@
         "bonus_type": "armor_piercing:500,pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 5005,
+        "equip_group_id": 0
     },
     {
         "id": 179,
@@ -8670,7 +9022,9 @@
         "bonus_type": "dodge:700,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16023,
+        "equip_group_id": 0
     },
     {
         "id": 180,
@@ -8719,7 +9073,9 @@
         "bonus_type": "dodge:1000,critical_percent:350",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13008,
+        "equip_group_id": 0
     },
     {
         "id": 181,
@@ -8768,7 +9124,9 @@
         "bonus_type": "pow:1000",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6006,
+        "equip_group_id": 0
     },
     {
         "id": 182,
@@ -8817,7 +9175,9 @@
         "bonus_type": "pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 6007,
+        "equip_group_id": 0
     },
     {
         "id": 183,
@@ -8866,7 +9226,9 @@
         "bonus_type": "critical_harm_rate:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12013,
+        "equip_group_id": 0
     },
     {
         "id": 184,
@@ -8915,7 +9277,9 @@
         "bonus_type": "dodge:700,pow:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 12014,
+        "equip_group_id": 0
     },
     {
         "id": 185,
@@ -8964,7 +9328,9 @@
         "bonus_type": "critical_percent:1000,hit:700,pow:1000",
         "skill": 0,
         "passive_skill": 900716,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16024,
+        "equip_group_id": 0
     },
     {
         "id": 186,
@@ -9013,7 +9379,9 @@
         "bonus_type": "pow:500,critical_harm_rate:500,critical_percent:800",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 17005,
+        "equip_group_id": 0
     },
     {
         "id": 187,
@@ -9062,7 +9430,9 @@
         "bonus_type": "dodge:300,critical_percent:700,hit:700",
         "skill": 0,
         "passive_skill": 0,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 13009,
+        "equip_group_id": 0
     },
     {
         "id": 188,
@@ -9111,7 +9481,9 @@
         "bonus_type": "critical_percent:1000,hit:700,pow:1000",
         "skill": 0,
         "passive_skill": 900717,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16025,
+        "equip_group_id": 0
     },
     {
         "id": 189,
@@ -9160,6 +9532,1130 @@
         "bonus_type": "critical_percent:1000,hit:700,pow:1000",
         "skill": 0,
         "passive_skill": 900718,
-        "max_level": 10
+        "max_level": 10,
+        "auto_select_id": 16026,
+        "equip_group_id": 0
+    },
+    {
+        "id": 190,
+        "name": "equip-10000190",
+        "description": "equip-20000190",
+        "rank": 5,
+        "category": 3,
+        "type": 12,
+        "pow": "",
+        "hit": "3,5",
+        "dodge": "-10,-5",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_Gbox_G11",
+        "develop_duration": 3120,
+        "company": "404后勤部",
+        "skill_level_up": 0,
+        "fit_guns": "122,20122",
+        "equip_introduction": "equip-30000190",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.25,
+        "powerup_mre": 0.11999999731779099,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 3.0,
+        "bonus_type": "hit:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 12015,
+        "equip_group_id": 0
+    },
+    {
+        "id": 191,
+        "name": "equip-10000191",
+        "description": "equip-20000191",
+        "rank": 5,
+        "category": 1,
+        "type": 1,
+        "pow": "3,5",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "17,24",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 0,
+        "retire_mre": 3,
+        "retire_part": 2,
+        "code": "配件_枪托_Super SASS",
+        "develop_duration": 2700,
+        "company": "MGP",
+        "skill_level_up": 0,
+        "fit_guns": "124,20124",
+        "equip_introduction": "equip-30000191",
+        "powerup_mp": 0.44999998807907104,
+        "powerup_ammo": 0.15000000596046448,
+        "powerup_mre": 0.30000001192092896,
+        "powerup_part": 0.15000000596046448,
+        "exclusive_rate": 3.0,
+        "bonus_type": "critical_percent:1000,pow:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 1010,
+        "equip_group_id": 0
+    },
+    {
+        "id": 192,
+        "name": "equip-10000192",
+        "description": "equip-20000192",
+        "rank": 5,
+        "category": 3,
+        "type": 12,
+        "pow": "-8,-6",
+        "hit": "",
+        "dodge": "20,25",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_特殊_RO635",
+        "develop_duration": 3120,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "143,20143",
+        "equip_introduction": "equip-30000192",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.25,
+        "powerup_mre": 0.11999999731779099,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:800",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 12016,
+        "equip_group_id": 0
+    },
+    {
+        "id": 193,
+        "name": "equip-10000193",
+        "description": "equip-20000193",
+        "rank": 5,
+        "category": 3,
+        "type": 11,
+        "pow": "",
+        "hit": "",
+        "dodge": "1,2",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "6,8",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 2,
+        "retire_ammo": 2,
+        "retire_mre": 3,
+        "retire_part": 3,
+        "code": "人形装备_插板_97霰",
+        "develop_duration": 3060,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "161,20161",
+        "equip_introduction": "equip-30000193",
+        "powerup_mp": 0.23000000417232513,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.33000001311302185,
+        "powerup_part": 0.33000001311302185,
+        "exclusive_rate": 3.0,
+        "bonus_type": "armor:400",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 11002,
+        "equip_group_id": 0
+    },
+    {
+        "id": 194,
+        "name": "equip-10000194",
+        "description": "equip-20000194",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "",
+        "hit": "",
+        "dodge": "8,11",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "12,15",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_特殊_谢尔久科夫",
+        "develop_duration": 2820,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "113",
+        "equip_introduction": "equip-30000194",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:1000,critical_percent:350",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 13008,
+        "equip_group_id": 0
+    },
+    {
+        "id": 195,
+        "name": "equip-10000195",
+        "description": "equip-20000195",
+        "rank": 5,
+        "category": 2,
+        "type": 6,
+        "pow": "8,10",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "-10,-7",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 4,
+        "retire_mre": 0,
+        "retire_part": 2,
+        "code": "弹匣_子弹_阿斯特拉",
+        "develop_duration": 3600,
+        "company": "ILM",
+        "skill_level_up": 0,
+        "fit_guns": "14",
+        "equip_introduction": "equip-30000195",
+        "powerup_mp": 0.47999998927116394,
+        "powerup_ammo": 0.47999998927116394,
+        "powerup_mre": 0.07999999821186066,
+        "powerup_part": 0.25,
+        "exclusive_rate": 3.0,
+        "bonus_type": "pow:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 6005,
+        "equip_group_id": 0
+    },
+    {
+        "id": 196,
+        "name": "equip-10000196",
+        "description": "equip-20000196",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "1,2",
+        "hit": "",
+        "dodge": "7,10",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_特殊_幽灵",
+        "develop_duration": 2820,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "92",
+        "equip_introduction": "equip-30000196",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:1000,pow:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 16021,
+        "equip_group_id": 0
+    },
+    {
+        "id": 197,
+        "name": "equip-10000197",
+        "description": "equip-20000197",
+        "rank": 5,
+        "category": 3,
+        "type": 10,
+        "pow": "-6,-6",
+        "hit": "",
+        "dodge": "25,25",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_特殊_索米",
+        "develop_duration": 3120,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "115",
+        "equip_introduction": "equip-30000197",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.25,
+        "powerup_mre": 0.11999999731779099,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:900",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 12016,
+        "equip_group_id": 0
+    },
+    {
+        "id": 198,
+        "name": "equip-10000198",
+        "description": "equip-20000198",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "",
+        "hit": "",
+        "dodge": "7,10",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "16,20",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_枪托_NZ75",
+        "develop_duration": 2820,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "126",
+        "equip_introduction": "equip-30000198",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:1000,critical_percent:500",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 16022,
+        "equip_group_id": 0
+    },
+    {
+        "id": 199,
+        "name": "equip-10000199",
+        "description": "equip-20000199",
+        "rank": 5,
+        "category": 1,
+        "type": 13,
+        "pow": "",
+        "hit": "",
+        "dodge": "8,8",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "15,15",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_消音器_特工Vector",
+        "develop_duration": 2820,
+        "company": "SC",
+        "skill_level_up": 0,
+        "fit_guns": "1028",
+        "equip_introduction": "equip-30000199",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 1.0,
+        "bonus_type": "dodge:300,critical_percent:350",
+        "skill": 0,
+        "passive_skill": 900992,
+        "max_level": 10,
+        "auto_select_id": 13010,
+        "equip_group_id": 1
+    },
+    {
+        "id": 200,
+        "name": "equip-10000200",
+        "description": "equip-20000200",
+        "rank": 5,
+        "category": 2,
+        "type": 6,
+        "pow": "10,10",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "-7,-7",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 4,
+        "retire_mre": 0,
+        "retire_part": 2,
+        "code": "弹匣_状态弹_空尖弹_特工Vector",
+        "develop_duration": 3180,
+        "company": "SHD",
+        "skill_level_up": 0,
+        "fit_guns": "1028",
+        "equip_introduction": "equip-30000200",
+        "powerup_mp": 0.47999998927116394,
+        "powerup_ammo": 0.47999998927116394,
+        "powerup_mre": 0.07999999821186066,
+        "powerup_part": 0.25,
+        "exclusive_rate": 1.0,
+        "bonus_type": "pow:500",
+        "skill": 0,
+        "passive_skill": 900993,
+        "max_level": 10,
+        "auto_select_id": 6008,
+        "equip_group_id": 1
+    },
+    {
+        "id": 201,
+        "name": "equip-10000201",
+        "description": "equip-20000201",
+        "rank": 5,
+        "category": 3,
+        "type": 10,
+        "pow": "-6,-6",
+        "hit": "",
+        "dodge": "25,25",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_外骨骼_特工Vector",
+        "develop_duration": 3120,
+        "company": "SHD",
+        "skill_level_up": 0,
+        "fit_guns": "1028",
+        "equip_introduction": "equip-30000201",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.15000000596046448,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 1.0,
+        "bonus_type": "dodge:400",
+        "skill": 0,
+        "passive_skill": 900994,
+        "max_level": 10,
+        "auto_select_id": 10006,
+        "equip_group_id": 1
+    },
+    {
+        "id": 202,
+        "name": "equip-10000202",
+        "description": "equip-20000202",
+        "rank": 5,
+        "category": 1,
+        "type": 1,
+        "pow": "",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "24,24",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 0,
+        "retire_mre": 3,
+        "retire_part": 2,
+        "code": "配件_光学瞄准镜_特工416",
+        "develop_duration": 3600,
+        "company": "TC",
+        "skill_level_up": 0,
+        "fit_guns": "1029",
+        "equip_introduction": "equip-30000202",
+        "powerup_mp": 0.44999998807907104,
+        "powerup_ammo": 0.15000000596046448,
+        "powerup_mre": 0.30000001192092896,
+        "powerup_part": 0.15000000596046448,
+        "exclusive_rate": 1.0,
+        "bonus_type": "critical_percent:1000",
+        "skill": 0,
+        "passive_skill": 901014,
+        "max_level": 10,
+        "auto_select_id": 1011,
+        "equip_group_id": 2
+    },
+    {
+        "id": 203,
+        "name": "equip-10000203",
+        "description": "equip-20000203",
+        "rank": 5,
+        "category": 2,
+        "type": 8,
+        "pow": "12,12",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 0,
+        "retire_ammo": 5,
+        "retire_mre": 3,
+        "retire_part": 2,
+        "code": "弹匣_高速弹_特工416",
+        "develop_duration": 3480,
+        "company": "SHD",
+        "skill_level_up": 0,
+        "fit_guns": "1029",
+        "equip_introduction": "equip-30000203",
+        "powerup_mp": 0.15000000596046448,
+        "powerup_ammo": 0.6000000238418579,
+        "powerup_mre": 0.3799999952316284,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 1.0,
+        "bonus_type": "pow:700",
+        "skill": 0,
+        "passive_skill": 901015,
+        "max_level": 10,
+        "auto_select_id": 8006,
+        "equip_group_id": 2
+    },
+    {
+        "id": 204,
+        "name": "equip-10000204",
+        "description": "equip-20000204",
+        "rank": 5,
+        "category": 3,
+        "type": 10,
+        "pow": "",
+        "hit": "",
+        "dodge": "12,12",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_外骨骼_X_特工416",
+        "develop_duration": 3120,
+        "company": "SHD",
+        "skill_level_up": 0,
+        "fit_guns": "1029",
+        "equip_introduction": "equip-30000204",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.25,
+        "powerup_mre": 0.11999999731779099,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 1.0,
+        "bonus_type": "dodge:700",
+        "skill": 0,
+        "passive_skill": 901016,
+        "max_level": 10,
+        "auto_select_id": 10007,
+        "equip_group_id": 2
+    },
+    {
+        "id": 205,
+        "name": "equip-10000205",
+        "description": "equip-20000205",
+        "rank": 5,
+        "category": 3,
+        "type": 12,
+        "pow": "",
+        "hit": "3,5",
+        "dodge": "-10,-5",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 0,
+        "retire_part": 4,
+        "code": "人形装备_护木_加利尔",
+        "develop_duration": 3120,
+        "company": "MI",
+        "skill_level_up": 0,
+        "fit_guns": "71,20071",
+        "equip_introduction": "equip-30000205",
+        "powerup_mp": 0.30000001192092896,
+        "powerup_ammo": 0.25,
+        "powerup_mre": 0.11999999731779099,
+        "powerup_part": 0.3799999952316284,
+        "exclusive_rate": 3.0,
+        "bonus_type": "hit:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 12017,
+        "equip_group_id": 0
+    },
+    {
+        "id": 206,
+        "name": "equip-10000206",
+        "description": "equip-20000206",
+        "rank": 5,
+        "category": 2,
+        "type": 7,
+        "pow": "8,12",
+        "hit": "4,6",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 1,
+        "retire_ammo": 4,
+        "retire_mre": 1,
+        "retire_part": 3,
+        "code": "弹匣_霰弹_鹿弹_M1897",
+        "develop_duration": 3600,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "152,20152",
+        "equip_introduction": "equip-30000206",
+        "powerup_mp": 0.07999999821186066,
+        "powerup_ammo": 0.5299999713897705,
+        "powerup_mre": 0.07999999821186066,
+        "powerup_part": 0.44999998807907104,
+        "exclusive_rate": 3.0,
+        "bonus_type": "pow:500,hit:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 7005,
+        "equip_group_id": 0
+    },
+    {
+        "id": 207,
+        "name": "equip-10000207",
+        "description": "equip-20000207",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "1,2",
+        "hit": "",
+        "dodge": "7,10",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_特殊_PP19",
+        "develop_duration": 2820,
+        "company": "ZNT",
+        "skill_level_up": 0,
+        "fit_guns": "136,20136",
+        "equip_introduction": "equip-30000207",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:1000,pow:1000",
+        "skill": 0,
+        "passive_skill": 902133,
+        "max_level": 10,
+        "auto_select_id": 16027,
+        "equip_group_id": 0
+    },
+    {
+        "id": 208,
+        "name": "equip-10000208",
+        "description": "equip-20000208",
+        "rank": 5,
+        "category": 1,
+        "type": 1,
+        "pow": "",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "3,5",
+        "critical_percent": "17,24",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 0,
+        "retire_mre": 3,
+        "retire_part": 2,
+        "code": "配件_光瞄_Ots-44",
+        "develop_duration": 2700,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "145",
+        "equip_introduction": "equip-30000208",
+        "powerup_mp": 0.44999998807907104,
+        "powerup_ammo": 0.15000000596046448,
+        "powerup_mre": 0.30000001192092896,
+        "powerup_part": 0.15000000596046448,
+        "exclusive_rate": 3.0,
+        "bonus_type": "critical_percent:1000,critical_harm_rate:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 1012,
+        "equip_group_id": 0
+    },
+    {
+        "id": 209,
+        "name": "equip-10000209",
+        "description": "equip-20000209",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "3,4",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "17,24",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_特殊_63式",
+        "develop_duration": 2820,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "133",
+        "equip_introduction": "equip-30000209",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "critical_percent:1000,pow:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 16028,
+        "equip_group_id": 0
+    },
+    {
+        "id": 210,
+        "name": "equip-10000210",
+        "description": "equip-20000210",
+        "rank": 5,
+        "category": 1,
+        "type": 16,
+        "pow": "",
+        "hit": "",
+        "dodge": "6,8",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "12,15",
+        "armor_piercing": "",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 4,
+        "retire_ammo": 2,
+        "retire_mre": 2,
+        "retire_part": 2,
+        "code": "配件_特殊_SCW",
+        "develop_duration": 2820,
+        "company": "CT",
+        "skill_level_up": 0,
+        "fit_guns": "169",
+        "equip_introduction": "equip-30000210",
+        "powerup_mp": 0.550000011920929,
+        "powerup_ammo": 0.23000000417232513,
+        "powerup_mre": 0.23000000417232513,
+        "powerup_part": 0.23000000417232513,
+        "exclusive_rate": 3.0,
+        "bonus_type": "dodge:900,critical_percent:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 16029,
+        "equip_group_id": 0
+    },
+    {
+        "id": 211,
+        "name": "equip-10000211",
+        "description": "equip-20000211",
+        "rank": 5,
+        "category": 2,
+        "type": 5,
+        "pow": "3,5",
+        "hit": "",
+        "dodge": "",
+        "speed": "",
+        "rate": "",
+        "critical_harm_rate": "",
+        "critical_percent": "",
+        "armor_piercing": "110,120",
+        "armor": "",
+        "shield": "",
+        "damage_amplify": "",
+        "damage_reduction": "",
+        "night_view_percent": "",
+        "bullet_number_up": "",
+        "skill_effect_per": 0,
+        "skill_effect": 0,
+        "slow_down_percent": 0,
+        "slow_down_rate": 0,
+        "slow_down_time": 0,
+        "dot_percent": 0,
+        "dot_damage": 0,
+        "dot_time": 0,
+        "retire_mp": 0,
+        "retire_ammo": 4,
+        "retire_mre": 2,
+        "retire_part": 3,
+        "code": "弹匣_子弹_四式",
+        "develop_duration": 3300,
+        "company": "IOP",
+        "skill_level_up": 0,
+        "fit_guns": "270",
+        "equip_introduction": "equip-30000211",
+        "powerup_mp": 0.07999999821186066,
+        "powerup_ammo": 0.5,
+        "powerup_mre": 0.30000001192092896,
+        "powerup_part": 0.30000001192092896,
+        "exclusive_rate": 3.0,
+        "bonus_type": "armor_piercing:500,pow:1000",
+        "skill": 0,
+        "passive_skill": 0,
+        "max_level": 10,
+        "auto_select_id": 5005,
+        "equip_group_id": 0
     }
 ]
