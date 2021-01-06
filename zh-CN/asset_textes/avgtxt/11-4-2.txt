@@ -1,0 +1,44 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>72</BIN><SE2>Gunfight</SE2>:……砰砰！+RO635的电子梯队，完全占据了对方的心智。
+女仆人形的心智()||:执行……任务……+清除……异常……异……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:停了下来了么，要完全控制整个人形的心智还是有一些费力啊……+不过不管怎么说，看来融毁命令被终止了……希望刚才的融毁不要烧掉和线索相关的资料。
+女仆人形的心智()||:被……被动……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:被动？
+女仆人形的心智()||:被动程式触发……+执行……最终命令。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:什么命令？+啊！等等——！
+女仆人形的心智()||<BGM>BGM_Danger</BGM>:开始自毁……锁死所有接口连接……倒计时。+10秒。
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:喂！没想到内部也设计了触发式的自毁程序么……！+该死，这是想把我锁在里面同归于尽么！我真的不是你的敌人啊！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！你还没弄好吗！</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:马上就好！+不行，我得在心智彻底被销毁前找到线索！+快点，快点找到啊！
+女仆人形的心智()||:7秒。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:不在通讯库里么……这也太谨慎了……语音暂存库呢……只有半年的记录……
+女仆人形的心智()||:5秒。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:就是这几个文件其中一个，马上……马上就可以——！
+女仆人形的心智()||:3秒。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！</color>
+女仆人形的心智()||:1秒。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:只来得及查阅一个视觉信息了……+到底……到底是哪个，哪个才是真的地址！+到底哪个——
+女仆人形的心智()||:熔毁开始。
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><白屏2>0,0.5</白屏2>:咔嚓！
+()||:……
+RO635()||<黑屏1>:……+我……我在哪……
+()||<睁眼><BIN>168</BIN>:随着女仆人形过载烧焦的声音，RO醒了过来。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:RO，RO是我！清醒一点。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:你……你搞什么！我差一点就要找到了！
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:啊？我什么都没做啊？+倒是你，里面发生了什么……这个女仆在物理上也进行了自毁……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我……差点就被锁死在里面了……+在最后一刻我被弹出了……我还以为是你强行把我……
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:诶？！不是吧？+你没事吧？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我没事……既然脱离连接了，就说明现在已经安全了……
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:好吧……只要没事就好……+所以，你没有拿到情报吗？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我也不知道……到最后一刻我也没有搜索到……
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:诶……那可怎么办……线索到这里就断掉了……+不如我再来检查一次吧，刚才你有复制多少信息下来？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:我检索过的都做了备份了……+不过我刚才都仔细看过了，我不觉得你会有什么新发现……
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:诶！这……这不就是那个线人么？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:诶？！
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:是这个女仆早上出门时的视觉信息，门牌清清楚楚地被拍下来了。+你这不是顺利地找到了嘛！
+RO635-NoArmor(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:啊……诶……可是……这个文件，我从来没见过啊……+不过算了，可能是我最后关头拖下来的……我们的运气真的还不错。
+()||:……RO635和SOP2对视了一下，然后笑了。
+RO635-NoArmor(2);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:要证明我们的运气，还得要赶在那些白色的家伙前面找到那个线人才行。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:啊！如果这个女仆心智被执行融毁了，那说明多半那个线人已经被抓了，他要掩盖他所有获得的情报，所以才会……
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:所以我们已经晚了么……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:还不能放弃，都已经追查到这一步了，不管怎么说，我们先去那个门牌的地址侦查一下吧。

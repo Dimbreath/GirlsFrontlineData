@@ -1,0 +1,898 @@
+[
+    {
+        "id": 1,
+        "task_type": "mission_common_win",
+        "title": "bingo_task_type-10000001",
+        "content": "bingo_task_type-20000001",
+        "function_control_id": 0
+    },
+    {
+        "id": 2,
+        "task_type": "mission_night_win",
+        "title": "bingo_task_type-10000002",
+        "content": "bingo_task_type-20000002",
+        "function_control_id": 0
+    },
+    {
+        "id": 3,
+        "task_type": "mission_emergent_win",
+        "title": "bingo_task_type-10000003",
+        "content": "bingo_task_type-20000003",
+        "function_control_id": 0
+    },
+    {
+        "id": 4,
+        "task_type": "collect_gun",
+        "title": "bingo_task_type-10000004",
+        "content": "bingo_task_type-20000004",
+        "function_control_id": 0
+    },
+    {
+        "id": 5,
+        "task_type": "eat_gun",
+        "title": "bingo_task_type-10000005",
+        "content": "bingo_task_type-20000005",
+        "function_control_id": 0
+    },
+    {
+        "id": 6,
+        "task_type": "eat_equip",
+        "title": "bingo_task_type-10000006",
+        "content": "bingo_task_type-20000006",
+        "function_control_id": 0
+    },
+    {
+        "id": 7,
+        "task_type": "consume_iop_contract",
+        "title": "bingo_task_type-10000007",
+        "content": "bingo_task_type-20000007",
+        "function_control_id": 0
+    },
+    {
+        "id": 8,
+        "task_type": "consume_equip_contract",
+        "title": "bingo_task_type-10000008",
+        "content": "bingo_task_type-20000008",
+        "function_control_id": 0
+    },
+    {
+        "id": 9,
+        "task_type": "consume_quick_develop",
+        "title": "bingo_task_type-10000009",
+        "content": "bingo_task_type-20000009",
+        "function_control_id": 0
+    },
+    {
+        "id": 10,
+        "task_type": "consume_quick_reinforce",
+        "title": "bingo_task_type-10000010",
+        "content": "bingo_task_type-20000010",
+        "function_control_id": 0
+    },
+    {
+        "id": 11,
+        "task_type": "consume_mp",
+        "title": "bingo_task_type-10000011",
+        "content": "bingo_task_type-20000011",
+        "function_control_id": 0
+    },
+    {
+        "id": 12,
+        "task_type": "consume_ammo",
+        "title": "bingo_task_type-10000012",
+        "content": "bingo_task_type-20000012",
+        "function_control_id": 0
+    },
+    {
+        "id": 13,
+        "task_type": "consume_mre",
+        "title": "bingo_task_type-10000013",
+        "content": "bingo_task_type-20000013",
+        "function_control_id": 0
+    },
+    {
+        "id": 14,
+        "task_type": "consume_part",
+        "title": "bingo_task_type-10000014",
+        "content": "bingo_task_type-20000014",
+        "function_control_id": 0
+    },
+    {
+        "id": 15,
+        "task_type": "get_build_coin",
+        "title": "bingo_task_type-10000015",
+        "content": "bingo_task_type-20000015",
+        "function_control_id": 0
+    },
+    {
+        "id": 16,
+        "task_type": "love_collect",
+        "title": "bingo_task_type-10000016",
+        "content": "bingo_task_type-20000016",
+        "function_control_id": 0
+    },
+    {
+        "id": 17,
+        "task_type": "borrow_friend_team",
+        "title": "bingo_task_type-10000017",
+        "content": "bingo_task_type-20000017",
+        "function_control_id": 0
+    },
+    {
+        "id": 18,
+        "task_type": "gain_hg",
+        "title": "bingo_task_type-10000018",
+        "content": "bingo_task_type-20000018",
+        "function_control_id": 0
+    },
+    {
+        "id": 19,
+        "task_type": "gain_smg",
+        "title": "bingo_task_type-10000019",
+        "content": "bingo_task_type-20000019",
+        "function_control_id": 0
+    },
+    {
+        "id": 20,
+        "task_type": "gain_ar",
+        "title": "bingo_task_type-10000020",
+        "content": "bingo_task_type-20000020",
+        "function_control_id": 0
+    },
+    {
+        "id": 21,
+        "task_type": "gain_mg",
+        "title": "bingo_task_type-10000021",
+        "content": "bingo_task_type-20000021",
+        "function_control_id": 0
+    },
+    {
+        "id": 22,
+        "task_type": "gain_rf",
+        "title": "bingo_task_type-10000022",
+        "content": "bingo_task_type-20000022",
+        "function_control_id": 0
+    },
+    {
+        "id": 23,
+        "task_type": "gain_fittings",
+        "title": "bingo_task_type-10000023",
+        "content": "bingo_task_type-20000023",
+        "function_control_id": 0
+    },
+    {
+        "id": 24,
+        "task_type": "gain_magazine",
+        "title": "bingo_task_type-10000024",
+        "content": "bingo_task_type-20000024",
+        "function_control_id": 0
+    },
+    {
+        "id": 25,
+        "task_type": "gain_equipment",
+        "title": "bingo_task_type-10000025",
+        "content": "bingo_task_type-20000025",
+        "function_control_id": 0
+    },
+    {
+        "id": 26,
+        "task_type": "special_develop_gun",
+        "title": "bingo_task_type-10000026",
+        "content": "bingo_task_type-20000026",
+        "function_control_id": 0
+    },
+    {
+        "id": 27,
+        "task_type": "special_develop_equip",
+        "title": "bingo_task_type-10000027",
+        "content": "bingo_task_type-20000027",
+        "function_control_id": 0
+    },
+    {
+        "id": 28,
+        "task_type": "operation_quick_develop",
+        "title": "bingo_task_type-10000028",
+        "content": "bingo_task_type-20000028",
+        "function_control_id": 0
+    },
+    {
+        "id": 29,
+        "task_type": "operation_quick_reinforce",
+        "title": "bingo_task_type-10000029",
+        "content": "bingo_task_type-20000029",
+        "function_control_id": 0
+    },
+    {
+        "id": 30,
+        "task_type": "operation_equip_contract",
+        "title": "bingo_task_type-10000030",
+        "content": "bingo_task_type-20000030",
+        "function_control_id": 0
+    },
+    {
+        "id": 31,
+        "task_type": "operation_iop_contract",
+        "title": "bingo_task_type-10000031",
+        "content": "bingo_task_type-20000031",
+        "function_control_id": 0
+    },
+    {
+        "id": 32,
+        "task_type": "win_boss",
+        "title": "bingo_task_type-10000032",
+        "content": "bingo_task_type-20000032",
+        "function_control_id": 0
+    },
+    {
+        "id": 33,
+        "task_type": "win_armorrobot",
+        "title": "bingo_task_type-10000033",
+        "content": "bingo_task_type-20000033",
+        "function_control_id": 0
+    },
+    {
+        "id": 34,
+        "task_type": "win_robot",
+        "title": "bingo_task_type-10000034",
+        "content": "bingo_task_type-20000034",
+        "function_control_id": 0
+    },
+    {
+        "id": 35,
+        "task_type": "win_person",
+        "title": "bingo_task_type-10000035",
+        "content": "bingo_task_type-20000035",
+        "function_control_id": 0
+    },
+    {
+        "id": 36,
+        "task_type": "operation_duration",
+        "title": "bingo_task_type-10000036",
+        "content": "bingo_task_type-20000036",
+        "function_control_id": 0
+    },
+    {
+        "id": 37,
+        "task_type": "consume_voucher",
+        "title": "bingo_task_type-10000037",
+        "content": "bingo_task_type-20000037",
+        "function_control_id": 0
+    },
+    {
+        "id": 38,
+        "task_type": "simulated_warfare",
+        "title": "bingo_task_type-10000038",
+        "content": "bingo_task_type-20000038",
+        "function_control_id": 0
+    },
+    {
+        "id": 39,
+        "task_type": "upgrade",
+        "title": "bingo_task_type-10000039",
+        "content": "bingo_task_type-20000039",
+        "function_control_id": 0
+    },
+    {
+        "id": 40,
+        "task_type": "s_win",
+        "title": "bingo_task_type-10000040",
+        "content": "bingo_task_type-20000040",
+        "function_control_id": 0
+    },
+    {
+        "id": 41,
+        "task_type": "auto_mission",
+        "title": "bingo_task_type-10000041",
+        "content": "bingo_task_type-20000041",
+        "function_control_id": 0
+    },
+    {
+        "id": 42,
+        "task_type": "get_lollipop",
+        "title": "bingo_task_type-10000042",
+        "content": "bingo_task_type-20000042",
+        "function_control_id": 0
+    },
+    {
+        "id": 43,
+        "task_type": "get_icecream",
+        "title": "bingo_task_type-10000043",
+        "content": "bingo_task_type-20000043",
+        "function_control_id": 0
+    },
+    {
+        "id": 44,
+        "task_type": "friend_greeting",
+        "title": "bingo_task_type-10000044",
+        "content": "bingo_task_type-20000044",
+        "function_control_id": 0
+    },
+    {
+        "id": 45,
+        "task_type": "upvote",
+        "title": "bingo_task_type-10000045",
+        "content": "bingo_task_type-20000045",
+        "function_control_id": 0
+    },
+    {
+        "id": 46,
+        "task_type": "friend_request",
+        "title": "bingo_task_type-10000046",
+        "content": "bingo_task_type-20000046",
+        "function_control_id": 0
+    },
+    {
+        "id": 47,
+        "task_type": "open_gift",
+        "title": "bingo_task_type-10000047",
+        "content": "bingo_task_type-20000047",
+        "function_control_id": 0
+    },
+    {
+        "id": 48,
+        "task_type": "consume_build_coin",
+        "title": "bingo_task_type-10000048",
+        "content": "bingo_task_type-20000048",
+        "function_control_id": 0
+    },
+    {
+        "id": 49,
+        "task_type": "get_core",
+        "title": "bingo_task_type-10000049",
+        "content": "bingo_task_type-20000049",
+        "function_control_id": 0
+    },
+    {
+        "id": 50,
+        "task_type": "trial_mission",
+        "title": "bingo_task_type-10000050",
+        "content": "bingo_task_type-20000050",
+        "function_control_id": 0
+    },
+    {
+        "id": 51,
+        "task_type": "cumulative_login",
+        "title": "bingo_task_type-10000051",
+        "content": "bingo_task_type-20000051",
+        "function_control_id": 0
+    },
+    {
+        "id": 52,
+        "task_type": "fix_gun",
+        "title": "bingo_task_type-10000052",
+        "content": "bingo_task_type-20000052",
+        "function_control_id": 0
+    },
+    {
+        "id": 53,
+        "task_type": "gun_level_up_count",
+        "title": "bingo_task_type-10000053",
+        "content": "bingo_task_type-20000053",
+        "function_control_id": 0
+    },
+    {
+        "id": 54,
+        "task_type": "adjust_equip",
+        "title": "bingo_task_type-10000054",
+        "content": "bingo_task_type-20000054",
+        "function_control_id": 0
+    },
+    {
+        "id": 55,
+        "task_type": "retire_gun",
+        "title": "bingo_task_type-10000055",
+        "content": "bingo_task_type-20000055",
+        "function_control_id": 0
+    },
+    {
+        "id": 56,
+        "task_type": "eat_equip",
+        "title": "bingo_task_type-10000056",
+        "content": "bingo_task_type-20000056",
+        "function_control_id": 0
+    },
+    {
+        "id": 57,
+        "task_type": "consume_core",
+        "title": "bingo_task_type-10000057",
+        "content": "bingo_task_type-20000057",
+        "function_control_id": 0
+    },
+    {
+        "id": 58,
+        "task_type": "consume_coin1",
+        "title": "bingo_task_type-10000058",
+        "content": "bingo_task_type-20000058",
+        "function_control_id": 0
+    },
+    {
+        "id": 59,
+        "task_type": "consume_coin2",
+        "title": "bingo_task_type-10000059",
+        "content": "bingo_task_type-20000059",
+        "function_control_id": 0
+    },
+    {
+        "id": 60,
+        "task_type": "consume_coin3",
+        "title": "bingo_task_type-10000060",
+        "content": "bingo_task_type-20000060",
+        "function_control_id": 0
+    },
+    {
+        "id": 61,
+        "task_type": "consume_capsule",
+        "title": "bingo_task_type-10000061",
+        "content": "bingo_task_type-20000061",
+        "function_control_id": 0
+    },
+    {
+        "id": 62,
+        "task_type": "consume_quick_training",
+        "title": "bingo_task_type-10000062",
+        "content": "bingo_task_type-20000062",
+        "function_control_id": 0
+    },
+    {
+        "id": 63,
+        "task_type": "be_visited",
+        "title": "bingo_task_type-10000063",
+        "content": "bingo_task_type-20000063",
+        "function_control_id": 0
+    },
+    {
+        "id": 64,
+        "task_type": "dorm_goaway",
+        "title": "bingo_task_type-10000064",
+        "content": "bingo_task_type-20000064",
+        "function_control_id": 0
+    },
+    {
+        "id": 65,
+        "task_type": "dorm_share",
+        "title": "bingo_task_type-10000065",
+        "content": "bingo_task_type-20000065",
+        "function_control_id": 0
+    },
+    {
+        "id": 66,
+        "task_type": "get_friend_points",
+        "title": "bingo_task_type-10000066",
+        "content": "bingo_task_type-20000066",
+        "function_control_id": 0
+    },
+    {
+        "id": 67,
+        "task_type": "develop_fight_report",
+        "title": "bingo_task_type-10000067",
+        "content": "bingo_task_type-20000067",
+        "function_control_id": 0
+    },
+    {
+        "id": 68,
+        "task_type": "consume_fight_report",
+        "title": "bingo_task_type-10000068",
+        "content": "bingo_task_type-20000068",
+        "function_control_id": 0
+    },
+    {
+        "id": 69,
+        "task_type": "friend_praise",
+        "title": "bingo_task_type-10000069",
+        "content": "bingo_task_type-20000069",
+        "function_control_id": 0
+    },
+    {
+        "id": 70,
+        "task_type": "random_visit",
+        "title": "bingo_task_type-10000070",
+        "content": "bingo_task_type-20000070",
+        "function_control_id": 0
+    },
+    {
+        "id": 71,
+        "task_type": "develop_gun_93",
+        "title": "bingo_task_type-10000071",
+        "content": "bingo_task_type-20000071",
+        "function_control_id": 0
+    },
+    {
+        "id": 72,
+        "task_type": "develop_gun_rank4",
+        "title": "bingo_task_type-10000072",
+        "content": "bingo_task_type-20000072",
+        "function_control_id": 0
+    },
+    {
+        "id": 73,
+        "task_type": "develop_equip_rank4",
+        "title": "bingo_task_type-10000073",
+        "content": "bingo_task_type-20000073",
+        "function_control_id": 0
+    },
+    {
+        "id": 74,
+        "task_type": "mission_emergency_0_3_6",
+        "title": "bingo_task_type-10000074",
+        "content": "bingo_task_type-20000074",
+        "function_control_id": 0
+    },
+    {
+        "id": 75,
+        "task_type": "mission_emergency_1_4_4",
+        "title": "bingo_task_type-10000075",
+        "content": "bingo_task_type-20000075",
+        "function_control_id": 0
+    },
+    {
+        "id": 76,
+        "task_type": "mission_emergency_3_3_4",
+        "title": "bingo_task_type-10000076",
+        "content": "bingo_task_type-20000076",
+        "function_control_id": 0
+    },
+    {
+        "id": 77,
+        "task_type": "be_borrowed_friend_team",
+        "title": "bingo_task_type-10000077",
+        "content": "bingo_task_type-20000077",
+        "function_control_id": 0
+    },
+    {
+        "id": 78,
+        "task_type": "consume_bp",
+        "title": "bingo_task_type-10000078",
+        "content": "bingo_task_type-20000078",
+        "function_control_id": 0
+    },
+    {
+        "id": 79,
+        "task_type": "consume_gem",
+        "title": "bingo_task_type-10000079",
+        "content": "bingo_task_type-20000079",
+        "function_control_id": 0
+    },
+    {
+        "id": 80,
+        "task_type": "buy_bp_count",
+        "title": "bingo_task_type-10000080",
+        "content": "bingo_task_type-20000080",
+        "function_control_id": 0
+    },
+    {
+        "id": 81,
+        "task_type": "buy_quick_reinforce",
+        "title": "bingo_task_type-10000081",
+        "content": "bingo_task_type-20000081",
+        "function_control_id": 0
+    },
+    {
+        "id": 82,
+        "task_type": "buy_iop_contract",
+        "title": "bingo_task_type-10000082",
+        "content": "bingo_task_type-20000082",
+        "function_control_id": 0
+    },
+    {
+        "id": 83,
+        "task_type": "buy_quick_develop",
+        "title": "bingo_task_type-10000083",
+        "content": "bingo_task_type-20000083",
+        "function_control_id": 0
+    },
+    {
+        "id": 84,
+        "task_type": "buy_equip_contract",
+        "title": "bingo_task_type-10000084",
+        "content": "bingo_task_type-20000084",
+        "function_control_id": 0
+    },
+    {
+        "id": 85,
+        "task_type": "squad_base_data_analyse",
+        "title": "bingo_task_type-10000085",
+        "content": "bingo_task_type-20000085",
+        "function_control_id": 0
+    },
+    {
+        "id": 86,
+        "task_type": "squad_senior_data_analyse",
+        "title": "bingo_task_type-10000086",
+        "content": "bingo_task_type-20000086",
+        "function_control_id": 0
+    },
+    {
+        "id": 87,
+        "task_type": "squad_data_analyse",
+        "title": "bingo_task_type-10000087",
+        "content": "bingo_task_type-20000087",
+        "function_control_id": 0
+    },
+    {
+        "id": 88,
+        "task_type": "squad_data_by_analyse",
+        "title": "bingo_task_type-10000088",
+        "content": "bingo_task_type-20000088",
+        "function_control_id": 0
+    },
+    {
+        "id": 89,
+        "task_type": "squad_chip_rank4_by_analyse",
+        "title": "bingo_task_type-10000089",
+        "content": "bingo_task_type-20000089",
+        "function_control_id": 0
+    },
+    {
+        "id": 90,
+        "task_type": "squad_chip_rank5_by_analyse",
+        "title": "bingo_task_type-10000090",
+        "content": "bingo_task_type-20000090",
+        "function_control_id": 0
+    },
+    {
+        "id": 91,
+        "task_type": "squad_level_up_times",
+        "title": "bingo_task_type-10000091",
+        "content": "bingo_task_type-20000091",
+        "function_control_id": 0
+    },
+    {
+        "id": 92,
+        "task_type": "squad_strengthen_times",
+        "title": "bingo_task_type-10000092",
+        "content": "bingo_task_type-20000092",
+        "function_control_id": 0
+    },
+    {
+        "id": 93,
+        "task_type": "squad_train_and_skill_times",
+        "title": "bingo_task_type-10000093",
+        "content": "bingo_task_type-20000093",
+        "function_control_id": 0
+    },
+    {
+        "id": 94,
+        "task_type": "squad_up_rank",
+        "title": "bingo_task_type-10000094",
+        "content": "bingo_task_type-20000094",
+        "function_control_id": 0
+    },
+    {
+        "id": 95,
+        "task_type": "squad_up_advanced_times",
+        "title": "bingo_task_type-10000095",
+        "content": "bingo_task_type-20000095",
+        "function_control_id": 0
+    },
+    {
+        "id": 96,
+        "task_type": "squad_eat_chip_num",
+        "title": "bingo_task_type-10000096",
+        "content": "bingo_task_type-20000096",
+        "function_control_id": 0
+    },
+    {
+        "id": 97,
+        "task_type": "buy_bp_count",
+        "title": "bingo_task_type-10000097",
+        "content": "bingo_task_type-20000097",
+        "function_control_id": 0
+    },
+    {
+        "id": 98,
+        "task_type": "buy_furniture_coin",
+        "title": "bingo_task_type-10000098",
+        "content": "bingo_task_type-20000098",
+        "function_control_id": 0
+    },
+    {
+        "id": 99,
+        "task_type": "buy_quick_training",
+        "title": "bingo_task_type-10000099",
+        "content": "bingo_task_type-20000099",
+        "function_control_id": 0
+    },
+    {
+        "id": 100,
+        "task_type": "adopt_pet",
+        "title": "bingo_task_type-10000100",
+        "content": "bingo_task_type-20000100",
+        "function_control_id": 0
+    },
+    {
+        "id": 101,
+        "task_type": "develop_gun_2",
+        "title": "bingo_task_type-10000101",
+        "content": "bingo_task_type-20000101",
+        "function_control_id": 0
+    },
+    {
+        "id": 102,
+        "task_type": "develop_gun_25",
+        "title": "bingo_task_type-10000102",
+        "content": "bingo_task_type-20000102",
+        "function_control_id": 0
+    },
+    {
+        "id": 103,
+        "task_type": "develop_gun_10",
+        "title": "bingo_task_type-10000103",
+        "content": "bingo_task_type-20000103",
+        "function_control_id": 0
+    },
+    {
+        "id": 104,
+        "task_type": "develop_gun_93",
+        "title": "bingo_task_type-10000104",
+        "content": "bingo_task_type-20000104",
+        "function_control_id": 0
+    },
+    {
+        "id": 105,
+        "task_type": "get_trial_voucher",
+        "title": "bingo_task_type-10000105",
+        "content": "bingo_task_type-20000105",
+        "function_control_id": 0
+    },
+    {
+        "id": 106,
+        "task_type": "consume_furniture_coin",
+        "title": "bingo_task_type-10000106",
+        "content": "bingo_task_type-20000106",
+        "function_control_id": 0
+    },
+    {
+        "id": 107,
+        "task_type": "develop_gun_rank5",
+        "title": "bingo_task_type-10000107",
+        "content": "bingo_task_type-20000107",
+        "function_control_id": 0
+    },
+    {
+        "id": 108,
+        "task_type": "develop_equip_rank5",
+        "title": "bingo_task_type-10000108",
+        "content": "bingo_task_type-20000108",
+        "function_control_id": 0
+    },
+    {
+        "id": 109,
+        "task_type": "retire_equip",
+        "title": "bingo_task_type-10000109",
+        "content": "bingo_task_type-20000109",
+        "function_control_id": 0
+    },
+    {
+        "id": 110,
+        "task_type": "friends_battery",
+        "title": "bingo_task_type-10000110",
+        "content": "bingo_task_type-20000110",
+        "function_control_id": 0
+    },
+    {
+        "id": 111,
+        "task_type": "adjust_fairy",
+        "title": "bingo_task_type-10000111",
+        "content": "bingo_task_type-20000111",
+        "function_control_id": 0
+    },
+    {
+        "id": 112,
+        "task_type": "eat_fairy",
+        "title": "bingo_task_type-10000112",
+        "content": "bingo_task_type-20000112",
+        "function_control_id": 0
+    },
+    {
+        "id": 113,
+        "task_type": "get_gem",
+        "title": "bingo_task_type-10000113",
+        "content": "bingo_task_type-20000113",
+        "function_control_id": 0
+    },
+    {
+        "id": 114,
+        "task_type": "finish_squad_daily_task",
+        "title": "bingo_task_type-10000114",
+        "content": "bingo_task_type-20000114",
+        "function_control_id": 0
+    },
+    {
+        "id": 115,
+        "task_type": "consume_quick_analyse",
+        "title": "bingo_task_type-10000115",
+        "content": "bingo_task_type-20000115",
+        "function_control_id": 0
+    },
+    {
+        "id": 116,
+        "task_type": "get_squad_fragment_type1",
+        "title": "bingo_task_type-10000116",
+        "content": "bingo_task_type-20000116",
+        "function_control_id": 0
+    },
+    {
+        "id": 117,
+        "task_type": "get_squad_fragment_type2",
+        "title": "bingo_task_type-10000117",
+        "content": "bingo_task_type-20000117",
+        "function_control_id": 0
+    },
+    {
+        "id": 118,
+        "task_type": "get_squad_fragment_type3",
+        "title": "bingo_task_type-10000118",
+        "content": "bingo_task_type-20000118",
+        "function_control_id": 0
+    },
+    {
+        "id": 119,
+        "task_type": "get_base_data",
+        "title": "bingo_task_type-10000119",
+        "content": "bingo_task_type-20000119",
+        "function_control_id": 0
+    },
+    {
+        "id": 120,
+        "task_type": "get_senior_data",
+        "title": "bingo_task_type-10000120",
+        "content": "bingo_task_type-20000120",
+        "function_control_id": 0
+    },
+    {
+        "id": 121,
+        "task_type": "get_fight_report",
+        "title": "bingo_task_type-10000121",
+        "content": "bingo_task_type-20000121",
+        "function_control_id": 0
+    },
+    {
+        "id": 122,
+        "task_type": "explore_start",
+        "title": "bingo_task_type-10000122",
+        "content": "bingo_task_type-20000122",
+        "function_control_id": 0
+    },
+    {
+        "id": 123,
+        "task_type": "sangvis_daily_retrieval",
+        "title": "bingo_task_type-10000123",
+        "content": "bingo_task_type-20000123",
+        "function_control_id": 0
+    },
+    {
+        "id": 124,
+        "task_type": "sangvis_aided_retrieval",
+        "title": "bingo_task_type-10000124",
+        "content": "bingo_task_type-20000124",
+        "function_control_id": 0
+    },
+    {
+        "id": 125,
+        "task_type": "sangvis_exercise",
+        "title": "bingo_task_type-10000125",
+        "content": "bingo_task_type-20000125",
+        "function_control_id": 0
+    },
+    {
+        "id": 126,
+        "task_type": "sangvis_exercise_exp",
+        "title": "bingo_task_type-10000126",
+        "content": "bingo_task_type-20000126",
+        "function_control_id": 0
+    },
+    {
+        "id": 127,
+        "task_type": "sangvis_exercise_star",
+        "title": "bingo_task_type-10000127",
+        "content": "bingo_task_type-20000127",
+        "function_control_id": 0
+    },
+    {
+        "id": 128,
+        "task_type": "sangvis_exercise_analysis",
+        "title": "bingo_task_type-10000128",
+        "content": "bingo_task_type-20000128",
+        "function_control_id": 0
+    }
+]

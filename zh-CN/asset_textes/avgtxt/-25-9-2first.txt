@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>159</BIN><黑屏2><BGM>BGM_Sneak</BGM>:……行动结束。
+Nyto(1)<Speaker>黑衣人形</Speaker>||:……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:奇怪的家伙，连痛都不会喊吗？你不会是个哑巴吧？
+Nyto(1)<Speaker>黑衣人形</Speaker>||:……
+()||:……黑色的人偶依然没有任何表情变化。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:无所谓了，就让我来看看，你的身体……到底是什么构造吧？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:SOP2，别玩得太过火了。+我们要留下素体来收集情报。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:只要活下来就行了吧？+那么至少弄到一两个眼睛再……
+Nyto(1)<Speaker>黑衣人形</Speaker>||:你们……+什么都不会得到……
+Nyto(1)<Speaker>黑衣人形</Speaker>||:……启动自毁程序。
+RO635(6)<Speaker>RO635</Speaker>||:SOP2！快砍掉她的手——！
+()||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+()||<震屏>:……轰——！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:啊啊啊啊！+可恶！还是慢了一步！+什么自毁程序，就是个炸弹嘛！
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:SOP2……+你刚才看清了那个黑色人偶吗……
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:没注意，怎么了？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:那个家伙……+好像不是人形……
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:你在说什么呢！不是人形还能派人类来嘛？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:可是那个人形被击中的时候，流出来的红色液体……更像是……
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:可能只是类似的东西吧？不是很稀奇的事啦。
+HK416(0)<Speaker>HK416</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>SOP2，你们那边怎么样了，抓到那个人形了吗？</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:自爆了，你们呢？
+HK416(0)<Speaker>HK416</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>一样，先回来吧，都结束了。</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:诶？敌人不是还应该有后援吗？
+HK416(0)<Speaker>HK416</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>之前的战斗已经发现了，只要那个黑衣人形消失了，剩下的敌人就不会跟进。</color>
+HK416(0);RO635(6)<Speaker>RO635</Speaker>||:这样的指挥网络，也许是个线索。+（但是……它们究竟是什么人形呢……）
+HK416(0)<Speaker>HK416</Speaker>;RO635(6)||:<color=#00CCFF>走吧，新一批运输机来了，是时候撤离了。</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:诶？战场上已经没人了吗！什么时候？！
+HK416(0);RO635(6)<Speaker>RO635</Speaker>||:都怪你一直在捡垃圾啊，SOP2！+快点！回去晚了的话，就没有好位子了！
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:可恶！知道啦，416，等等我啊——！
+HK416(0)<Speaker>HK416</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>……</color>+<color=#00CCFF>我可没说要等你们一起走。</color>
+()||<BIN>9</BIN><黑屏2>:……
+HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:是的……+从来没说过……

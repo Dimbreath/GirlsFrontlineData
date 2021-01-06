@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "出兵点",
+        "code": "1",
+        "type": 2,
+        "vision_buff": "0",
+        "no_airborne": 0,
+        "grow_enemy_pool": 1,
+        "no_entry": 0
+    },
+    {
+        "id": 2,
+        "name": "禁止空降",
+        "code": "2",
+        "type": 2,
+        "vision_buff": "0",
+        "no_airborne": 1,
+        "grow_enemy_pool": 0,
+        "no_entry": 0
+    },
+    {
+        "id": 3,
+        "name": "禁止通行",
+        "code": "2",
+        "type": 2,
+        "vision_buff": "0",
+        "no_airborne": 0,
+        "grow_enemy_pool": 0,
+        "no_entry": 1
+    },
+    {
+        "id": 4,
+        "name": "禁止通行",
+        "code": "2",
+        "type": 2,
+        "vision_buff": "0",
+        "no_airborne": 0,
+        "grow_enemy_pool": 0,
+        "no_entry": 2
+    }
+]

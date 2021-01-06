@@ -1,0 +1,33 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>46</BIN><BGM>BGM_Room</BGM><黑屏2>:……最终决定全员进入大楼，设置防线。
+AN94(0)<Speaker>AN94</Speaker>||:我不认为……这样会很安全。
+AN94(0);AK12(2)<Speaker>AK12</Speaker>||:军方会发现我们，但是我们会做好准备。
+HK416(0)<Speaker>HK416</Speaker>;AK12(2)||:AK12，全员已经整备完毕。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;AK12(2)||:AK12！军方朝大楼的方向过来了，他们一定发现了我们！
+SOPIIDamage(3);AK12(2)<Speaker>AK12</Speaker>||:意料之中的结果，但是没有选择了。+至少，让我们在一起战斗吧。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;AK12(2)||:……嗯！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:和军方的主力正面战斗，这还是第一次呢……
+HK416(0)<Speaker>HK416</Speaker>;RO635(6)||:为了安洁……
+HK416(0);AK12(2)<Speaker>AK12</Speaker>||:也是为了我们自己。+AN94，你厌恶我的决定吗？
+AN94(3)<Speaker>AN94</Speaker>;AK12(2)||:我相信你，AK12。+无论什么选择，我们最后靠的都是运气，这是你说的。
+AN94(3);AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:……是这样呢。+我们需要的，就是运气而已。
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><SE2>Gunfight</SE2>:……
+安洁莉娅()<Speaker>安洁莉娅</Speaker>||<黑屏1><BGM>BGM_Brain</BGM>:我做了一个梦。+一个……他人为我而死的梦。+我知道，当我醒来，梦中的一切都会变成现实。+但是，我必须醒来。+这是我……必须去面对的事情。
+()||<BIN>46</BIN><睁眼>:……
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>||:叶戈尔……
+NPC-AngeDamage(3);NPC-YegorDamage(0)<Speaker>叶戈尔</Speaker>||:你的部下很忠诚，她们都抵抗到了最后一刻，就像每个战术人形都应该做的那样。+当然，这在我们面前毫无意义。
+NPC-AngeDamage(3)<Speaker>安洁莉娅</Speaker>;NPC-YegorDamage(0)||:她们……她们现在……
+NPC-AngeDamage(3);NPC-YegorDamage(0)<Speaker>叶戈尔</Speaker>||<黑屏1>:我留了几个活口，我的部下正在下一层拆解她们，她们云图中的某些东西也许有点价值。+至于你，我只是等你醒来，仅此而已。
+叶戈尔()<Speaker>叶戈尔</Speaker>||<BIN>9</BIN>:你还有什么要说的吗？+也许你在等新的玩具来支援你？也许你在这座楼中埋藏了炸弹？+不过很遗憾，我已经事先搜索过了，这里什么都没有。+没有支援，没有炸弹，也再没有什么格里芬的人形了。
+叶戈尔()<Speaker>叶戈尔</Speaker>||:对，就是这个表情，我等待的就是这一刻。+……现在，晚安。
+()||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:……
+()||<SE1>Gunkill</SE1><黑屏1>:…………砰！
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
+Nyto(0)<Speaker>涅托</Speaker>||<BGM>BGM_Truth</BGM>:在这种情况下，你还能说出这样的谎言。+格里芬的指挥官，我们确实低估了你的实力。+我们需要在保证你的生命安全的前提下加大剂量。
+Nyto(0)<Speaker></Speaker>||:涅托拿出另一管自白剂，注射到了我的体内。
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:它很快开始生效了，但我还能对抗它，我还有一点点意志，只是不知道是不是最后一点……。
+Nyto(0)<Speaker>涅托</Speaker>||:安洁是不会死的，至少不会在这次战斗中，我们亲眼见到过她杀死了我们中的一员。+所以告诉我们，她是如何活下来的，她究竟还和什么人接触过。
+Nyto(0)<Speaker></Speaker>||:我会把能想到的全部说出来。+谎言，真相，然后让她们去猜测。+我知道她们真实想要的，我也知道说出来后会面临什么下场。
+Nyto(0)<Speaker>涅托</Speaker>||:人类是很脆弱的机器，三两下就会坏掉。+如果想保证自己以健全的身体和精神状态离开这座建筑，你应该珍惜自己的机会，说出真相。
+()||:所以我需要时间……还有各种对抗药剂的假象。+安洁小姐还会在我的故事里死多少次呢？+至少，她必须死到能让我活下来为止……+……
+()||<黑屏1>:

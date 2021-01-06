@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Brain</BGM><BIN>159</BIN><黑屏2>:……防御据点营救行动终止，全员正在返回基地途中。
+Mk12(0)<Speaker>Mk12</Speaker>||:你没事吧，HK416？
+AK74U(0)<Speaker>AK74U</Speaker>||:脸色比我还糟糕呢。
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:我……做了件错事。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:那是指挥官的决定，而且……我想这是现阶段最好的判断。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:我不确定……如果我没那么建议的话……
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:那就是你失职了，副官小姐。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:你应该提供客观的建议，无论它多么刺耳。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:你们好像没那么沮丧。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:这是战场，我们都做好准备了。+当然，我还是感谢你救了我，让我的“野心”没有就此消失。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:你的“野心”到底是什么？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:看情况，每次都不一样。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:每次？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:每次……重新醒来的时候。+然后我会根据记下来的东西，换一种生活方式，你理解吗？
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:太奢侈了，和我没什么关系。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:这样啊……不过你会理解的。+我去侦查一下前面。
+HK416(0)<Speaker></Speaker>||:……Mk12走到了前面。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:416。
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:你也想来安慰我吗？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:我觉得你没这个心情。+但是，你还是被大家认可了吧？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:我不是为了别人认可去做事的人形。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:我可看不出来哦。+我觉得你这家伙，超级想要获得认可吧？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:我和你没熟到聊这种事。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:那你想加入我们吗？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||<BGM>BGM_Empty</BGM>:……什么意思？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||<BGM>BGM_Truth</BGM>:我说过，我知道一些你的传闻。
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:……你不该知道那些。+你们还得知道我随时可以让你和你朋友的云图永远关闭掉，我有这个权限。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:别这么凶啊，我可不怕你做什么。+但是，你不打算趁这个机会留下来吗？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:我有我自己的打算。+这次只是临时合作，你们还是少接近我比较好。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:我说你啊，明明也是有选择的，对吗？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:别说了，你根本不了解我。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:但我知道啊，你不喜欢你的处境。+你想逃跑，对吧？
+HK416(0)<Speaker></Speaker>||:……！+……HK416一把抓住AK-74U的脖子。
+AK74U(0)<Speaker>AK74U</Speaker><Shake>||<SE1>Rope</SE1><SE2>Rope</SE2>:……！
+HK416(0)<Speaker>HK416</Speaker>||:我经历了什么，你根本不会知道。
+AK74U(0)<Speaker>AK74U</Speaker>||:……+HK……416……+我知道…你经历的“逃跑”……
+HK416(0)<Speaker>HK416</Speaker>||:……！
+Python(0)<Speaker>蟒蛇</Speaker>||<BGM>BGM_Empty</BGM>:够了，HK416。
+HK416(0)<Speaker>HK416</Speaker>;Python(0)||:……开个玩笑而已。
+HK416(0)<Speaker></Speaker>;Python(0)||:……HK416松开手。
+HK416(0);Python(0)<Speaker>蟒蛇</Speaker>||:玩笑不是现在开的，你听到指挥官的呼叫了吗？
+HK416(0)<Speaker></Speaker>;Python(0)||:……滴，HK416收到了通讯。
+HK416(0)<Speaker>HK416</Speaker>;Python(0)||<BGM>BGM_Sneak</BGM>:……是的，收到了。+我们马上就过去。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:新任务？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:敌人果然出现了，76号据点。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:76号？那里根本没人防守啊？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:什么……？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:现在人手不足，有很多据点都是空的，那种东西有什么夺取的意义呢？
+HK416(0);A91(0)<Speaker>A91</Speaker>||:也许就是想打着玩玩喽。
+HK416(0)<Speaker>HK416</Speaker>;A91(0)||:你应该把酒瓶放下了说话。
+HK416(0);A91(0)<Speaker>A91</Speaker>||:你心情不好，我理解。
+HK416(0)<Speaker>HK416</Speaker>;A91(0)||:我们需要驱逐它们，指挥官说，那个防御据点靠近撤离点，落到敌人手里绝对不是好事情。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:416，我们在前方发现了一些人形信号，需要你去确认一下。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:是敌人吗？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:不全是……一小部分铁血的信号，大部分是格里芬。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:那是什么意思？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:该怎么处理，蟒蛇姐说也许你会知道。
+HK416(0)<Speaker>HK416</Speaker>;Mk12(0)||:我……？
+HK416(0);Python(0)<Speaker>蟒蛇</Speaker>||:需要那么惊讶吗？+这就是我从前面跑到队尾来找你的原因。
+HK416(0)<Speaker>HK416</Speaker>;Python(0)||:除了扣扳机，我不知道怎么和铁血打交道。
+HK416(0);Python(0)<Speaker>蟒蛇</Speaker>||<黑点1>:遇到了你就会知道。+你们都是“特殊”的人形，我想你没准会认识。
+()||<黑点2><BGM>BGM_Empty</BGM>:…………2分钟后。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_illustratedBook</BGM>:啊！RO，我们到了！我们到了！+看！是安全点哦！我们安全了！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:总部发生了什么？！+SOP2！不告诉我，你就别想进安全点！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(6)||:啊啊啊！我的右脚，不受控制了——！！
+SOPIIDamage(2);HK416(0)<Speaker>HK416</Speaker>||:吵死了。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……？！
+RO635(6)<Speaker>RO635</Speaker>;HK416(0)||:你……你是……
+RO635(6);HK416(0)<Speaker>HK416</Speaker>||:这个时候还磨磨蹭蹭的，不是说了快点集合吗？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:这个人形……是谁来着？总觉得眼熟呢？
+SOPIIDamage(0);HK416(0)<Speaker>HK416</Speaker>||:你眼熟的家伙太多了，快点过来吧。+敌人的下次攻势马上就开始了，在那之前，协助大家撤离这里。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;HK416(0)||:敌人？军方进攻到这里了？
+Cx4Storm(0);HK416(0)<Speaker>HK416</Speaker>||:是新的敌人。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;HK416(0)||:新的敌人？+不是军方？也不是铁血？+那是什么？
+Cx4Storm(0);HK416(0)<Speaker>HK416</Speaker>||:我不知道。+只知道是些想彻底杀死我们的东西。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:哈……是嘛？+不过对于我来说，只要是能被杀死的东西就够了。
+SOPIIDamage(0);HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:这就是问题所在了。
+HK416()<Speaker>HK416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:那些东西，那些想杀死我们的东西……+它们……是杀不死的。
+()||<BIN>159</BIN><黑屏2>:……
+HK416(0)<Speaker>HK416</Speaker>||:至少几小时前是这样，现在已经解决了。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……
+SOPIIDamage(0);HK416(0)<Speaker>HK416</Speaker>||:……走吧。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:等等，刚才那是个玩笑？我错过笑点了吗？
+HK416(3)<Speaker>HK416</Speaker>||<震屏><黑屏1>:我说，快走！
+()||<黑屏2><BIN>161</BIN><BGM>BGM_Empty</BGM>:……
+HK416(0)<Speaker>HK416</Speaker><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>指挥官，我们现在正在前往76号据点，击退白色敌人的袭击。</color>+<color=#00CCFF>顺便，我们在路上捡到了……</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>指挥官！指挥官！指挥官！</color>
+HK416(0)<Speaker></Speaker>||:……滴！+……HK416强制关闭了SOP2的通讯。
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>你！你太过分啦416！</color>+<color=#00CCFF>RO还什么话都没说呢！</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>别、别说了，就让指挥官当我死掉好了……</color>
+HK416(0)<Speaker>HK416</Speaker>||:<color=#00CCFF>我们在路上捡到了AR小队的SOP2和RO，以及Storm和她带领的人形梯队。</color>+<color=#00CCFF>虽然她们现在的形象有点……不一样，但至少还能自由行动。</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>我不自由！我不自由——！</color>
+HK416(0)<Speaker>指挥官</Speaker>||:……<c>SOP2，你还活着！<c>RO……你在哪儿？<c>欢迎回到格里芬！我就知道你们一定没事的！
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:<color=#00CCFF>是的，指挥官！虽然经历了很多事情，但是我现在归队了！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>2</分支>:<color=#00CCFF>我……我……我在SOP2的肩膀上，这、这只是个临时形态！迫不得已的！</color>
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:<color=#00CCFF>嗯！我也相信！一定会再遇到指挥官的！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>3</分支>:<color=#00CCFF>这个……至少还活着呢，指挥官，您没事就太好了。</color>
+HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:<color=#00CCFF>闲聊稍后进行吧，我们马上就要抵达76号据点了。</color>+<color=#00CCFF>指挥官，我们没能营救所有受困的梯队，接下来可能面临一场硬仗。</color>+<color=#00CCFF>请做好万全的准备后，尽力完成这次作战目标吧。</color>
+()||<BIN>10</BIN><黑点2>:

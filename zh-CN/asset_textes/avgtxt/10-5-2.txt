@@ -1,0 +1,53 @@
+()||<BIN>98</BIN><BGM>BGM_Sneak</BGM>:……指挥官抵挡住袭击，同时AR小队刚刚抵达目标地点。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:军方提供的路线还蛮可靠的呢，几乎没遇到什么危险。
+M4A1()<Speaker>M4A1</Speaker>||:大概是因为敌人都被军方推平了。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:可是……未免推得太平了一点。+前面真的是战场吗？为什么一点动静都没有。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:而且前方还起了雾，只能通过扫描来搜索敌人……+难道军方已经干掉这边的铁血继续前进了？
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:那应该告诉我们下一个会合地点才对。+总觉得很奇怪……
+SOPII(0);RO635(0)||:
+M4A1()<Speaker>M4A1</Speaker>||:报告指挥官，我们抵达了叶戈尔上尉指定的前线区域。+但是……没有任何军方单位来接应……+甚至并非处在交火状态，没有任何敌人……+……收到，我们会继续搜索的。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:太奇怪了……既没有军队的信号也没有铁血的信号，甚至连一点枪声都没有……+M4，你能请求指挥官让我们直接和军方联系吗？
+M4A1()<Speaker>M4A1</Speaker>||:好的，指挥官已经同意了，线路正在调整……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Empty</BGM>:不对……
+SOPII(3);RO635(0)<Speaker>RO635</Speaker>||:怎么了，SOP2？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Danger</BGM>:不对……不对不对不对！！是铁血！快趴下！！
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:铁血！？但是我没有收到信号！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:我闻到它们了！已经非常近！
+SOPII(3);RO635(5)||:
+？？()<Speaker>？？</Speaker>||<黑屏1>:被发现了吗，那就没办法了，攻击！
+()||<黑屏2><SE1>Gunfight</SE1><BIN>9</BIN>:……砰砰！
+M4A1()<Speaker>M4A1</Speaker>||:是袭击！全体卧倒！
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:该死！四面八方都有敌人在朝我们射击！可为什么我扫描不到它们的信号！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:从枪声判断，它们正在包围我们！
+RO635()<Speaker>RO635</Speaker>||:我们又被包围了吗？！
+M4A1()<Speaker>M4A1</Speaker>||:我们人数差太多了！在铁血彻底包围我们前，尽快原路撤回去！
+BossJustice(0)<Speaker>法官</Speaker><通讯框>||:那可不行。
+M4A1()<Speaker>M4A1</Speaker>||:！！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:又是那个矮子！
+M4A1()<Speaker>M4A1</Speaker>||:是新的头目？！
+RO635()<Speaker>RO635</Speaker>||:我们刚刚遭遇过一次！它是专门来抓你的！+保持距离，那家伙非常强！
+BossJustice(0)<Speaker>法官</Speaker>||:尽管逃吧，拖延时间只会让你们的伤亡更惨重。+我的时间也不太多了，这次可不会手下留情了！
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:大家，快撤回到上一个据点！+RO，线路已经接通了，你去联系叶戈尔呼叫支援，我来联系指挥官！
+RO635()<Speaker>RO635</Speaker>||:M4，军方频道没有回应！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:我们又闯进干扰区了？
+M4A1()<Speaker>M4A1</Speaker>||:不可能，我和指挥官的联络是畅通的，我们先移位！
+BossJustice(0)<Speaker>法官</Speaker>||:M4A1，逃跑是没用的，我们不想伤害你。+你只要放下武器，与我们的主人会面。
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:你们的老家都要被拆光了！还在那里嚣张什么！
+BossJustice(0)<Speaker>法官</Speaker>||:你怎么知道，这不是故意为之呢？
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:什么……
+BossJustice(0)<Speaker>法官</Speaker>||:我们不是人类，家不是我们存在的意义。+而你是，M4A1。
+()||:
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:别愣着，M4，看着前面继续跑！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:可恶，铁血简直就知道我们要去哪一样，根本摆脱不掉！+军方人形都跑到哪里去了，我们可抵挡不了多久！
+M4A1()<Speaker>M4A1</Speaker>||:别慌，指挥官已经来接应我们了！一边防御，一边向指挥官的梯队方向撤退……
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1><SE1>m4a1_013a</SE1><BGM>BGM_Empty</BGM>:……！
+()||<黑屏2><BIN>9</BIN>:……M4A1突然感到一阵晕眩。
+？？()<Speaker>？？</Speaker>||<黑屏1>:我要做的是……+AR15没能为我做到的事情……+也是你无法回答我的事情……
+M4A1()<Speaker>M4A1</Speaker>||<BIN>16</BIN><BGM>BGM_Truth</BGM><黑屏2>:该死！+又是……又是那个感觉……+不行，绝对不能被那家伙靠近！+大家！快点撤退！先远离它们，快——！
+()||:……
+BossJustice(0)<Speaker>法官</Speaker><通讯框>||:没有军队打扰，工作还算轻松。+不过这样的距离可以吗，主人？
+主脑()<Speaker>主脑</Speaker>||:再近一点。+不要伤害M4A1，剩下的……
+BossJustice(0)<Speaker>法官</Speaker>||:……不需要，我知道。+但是为了避免误伤，我不能一口气杀进去。
+主脑()<Speaker>主脑</Speaker>||:先不要再刺激她，慢慢靠近，等我过去。
+BossJustice(0)<Speaker>法官</Speaker>||:你说了算，主人。+其它人形呢，需要召唤回来帮忙吗？
+主脑()<Speaker>主脑</Speaker>||<黑屏1>:你陪着我就好了。+她跑得又不快，马上就结束了。

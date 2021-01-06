@@ -1,0 +1,16 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Sneak</BGM><BIN>159</BIN><黑屏2>:……行动结束。
+Mk12(0)<Speaker>Mk12</Speaker>||:真是无聊的战斗呢。
+Mk12(0);AK74U(0)<Speaker>AK74U</Speaker>||:因为我们现在人手充裕吧。
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:这只是试探性的攻势，它们不会就此罢休的。
+HK416(0);A91(0)<Speaker>A91</Speaker>||:她们在收集我们的资料，然后想一口气干掉我们。+我猜啊，最终攻势马上就要来了哦。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;A91(0)||:敌人马上要发起总攻了，我们快点回去吧！出发出发！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker><Shake>||:啊！慢点，慢点啊SOP2！
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;RO635(6)||<黑屏1>:SOP2！小心RO，要掉了！
+AK74U(0)<Speaker>AK74U</Speaker>||<黑屏2>:416，我之前说的，你有认真考虑过吗？
+HK416(0)<Speaker>HK416</Speaker>;AK74U(0)||:我没时间，也许之后……
+HK416(0)<Speaker></Speaker>||<SE1>Alarm</SE1><BGM>BGM_Empty</BGM>:……嗡——！+……所有人的通讯器爆发出刺耳的警报。
+HK416(0);NPC-Kalin(4)<Speaker>格琳</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>各位！未知敌人对基地发动了猛烈袭击！</color>+<color=#00CCFF>全体人员，尽快听从指挥官的安排，去各自的岗位准备作战！</color>
+HK416(3)<Speaker>HK416</Speaker>;NPC-Kalin(4)||:有这么快吗！那群黑衣人形——+不过……这是最后的攻势吗……+之后，我就要离开了……
+HK416(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:416，你在干嘛，快一点啊！
+HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:还是说，我确实有选择呢……

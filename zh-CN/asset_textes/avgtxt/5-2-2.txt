@@ -1,0 +1,18 @@
+()||<BIN>9</BIN><SE1>Battlefield</SE1><BGM>BGM_Empty</BGM>:……+警报和枪炮的声响渐渐远去，格里芬似乎重新掌握了优势。+离开了随时可能倒塌的室内，赶往人形聚集的大厅。+这时，身后传来一个声音……
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:……啊！指挥官！
+M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>18</BIN>:指挥官！你不要紧吧！+我……我刚才一直在担心……+不过您没事，真的太好了。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;M4A1(3)||:这位M4A1和你关系不错，指挥官，看来你照料得很好。
+NPC-Kyruger(0);M4A1(2)<Speaker>M4A1</Speaker>||:……
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;M4A1(2)||:不过现在，我和你有些事情要谈。
+NPC-Kyruger(0);M4A1(0)<Speaker>M4A1</Speaker>||:是……+指挥官，我和AR小组其他成员，会在外面待命。
+NPC-Kyruger(0)<Speaker> </Speaker>||:……M4A1敬礼之后离去了，时不时会回头望一下这边。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||<黑屏1>:你知道，她是个特别的人形，指挥官。+保护好她，她总有一天会发挥她的价值。+言归正传，你刚才做得很好，但铁血随时会发动新的攻击。+这次的会议对外是一项机密，连这个据点也是个秘密。+但铁血能准确地发动进攻，一定有内部人员泄露了情报。+我会让赫丽安立刻调查这件事，指挥官，跟上我，我会发布新的任务给你。
+()||<黑屏2><BIN>18</BIN>:5分钟后，人形待命区……
+MP40(0)<Speaker>MP40</Speaker>||:大家，请不要拥挤，让使用轻型武器的人形先走。+等等，那边的人形，是FNC吗！+请把冰淇淋吃完了再排队，不要沾到别人身上！+还有，你不是轻型武器吧，请不要个子小就往里挤！
+AR15(2)<Speaker>AR15</Speaker>||:……+周围都忙成了一片，我们还没有命令吗？
+M16(0)<Speaker>M16A1</Speaker>||:没听M4说的嘛，指挥官跟着克鲁格老板走了，很快就会有大生意了。
+M4A1(0)<Speaker>M4A1</Speaker>||:这次的铁血头目没有主动露面，有可能还会发动新的袭击。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:可恶，就不能站出来一决胜负嘛！
+M16(2)<Speaker>M16A1</Speaker>||:唔……铁血难得有这么突然的袭击，接下来的行动，可能会棘手呢。
+AR15(0)<Speaker>AR15</Speaker>||:哼，这不是正好吗，一个了结的机会。+……已经……没有太多时间了。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:……？

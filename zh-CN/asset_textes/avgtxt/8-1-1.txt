@@ -1,0 +1,44 @@
+()||<BIN>18</BIN><BGM>BGM_Empty</BGM>:…………失温症行动结束2个月后。+……上午，军方分基地前。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:如果可以，我们不应该见面的……
+NPC-Carter(0)<Speaker>克鲁格</Speaker><Position>0,-130</Position>||:……卡特将军。
+NPC-Carter(0)<Speaker>卡特</Speaker>||:如果可以的话，没错……但这次接触是必要的，我是来提醒你的。+你要感谢中央司令部的这次承包商招待会，我们才有机会在非记录的时段内碰面。+我的专车就在下一个路口，不会耽误太久的。
+()||<BGM>BGM_Sneak</BGM><黑点1>:…………克鲁格点点头，卡特准将随之进入了格里芬的专车。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||<BIN>9</BIN><黑点2>:关于莱柯的AI数据，我们已经有些收获了。
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>卡特</Speaker><Position>-100,-130</Position>||:我想这收获一定很廉价，廉价到你都不屑汇报上来。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;NPC-Carter(0)||:那是因为……有些小问题，还需要点时间处理。
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>卡特</Speaker>||:（叹气）伯鲁，你曾经是我的部下，所以我才给你提供协助。+你要的条件我都提供了，人形上限的批准、走私的武器、还有你负责的辖区里的新闻管制。+这些东西已经远远超出了我的权限，你应该明白。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;NPC-Carter(0)||:当然……我知道你付出了什么。
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>卡特</Speaker>||:那你也该知道我们想要什么。+你不愿谈及政治，但是连你都知道，世界的格局在以一个前所未有的方式重组。+一个全新的国家形式即将诞生，而军队内部也面临着大规模的整编。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;NPC-Carter(0)||:你之前提过的……“那些人”的构想？
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>卡特</Speaker>||:（点头）时机就在你的眼前，然而如果你依然拿不出成果……+也许下次幕僚会议时，就没人能替你说话了，你知道那意味着什么。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>;NPC-Carter(0)||:…………
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>卡特</Speaker>||:军方在乎的不是哪一方的输赢，下一代军用人形的技术储备，这才是值得当筹码的东西。+你已经失败过一次了，不要再失败第二次。+啊，就是这个路口，我的车就在前面。
+()||:克鲁格摆摆手，轿车停了下来，卡特打开了车门。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:我会尽快的……卡特将军。
+NPC-Carter(0)<Speaker>卡特</Speaker><Position>0,-130</Position>||:希望如此，不然我只能找些别的帮手了。+多谢你的顺风车，我们晚宴上再见。
+()||:…………卡特准将离开了。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||<黑点1>:…………+继续开车。+离开基地，随便绕几圈，我要打个电话。
+ ()||<黑点2><BIN>22</BIN>:…………同一时间，16LAB研究所。+……滴。+……滴、滴。
+帕斯卡 ()<Speaker>帕斯卡 </Speaker>||:…………+呜…………+……谁？+哦……克鲁格啊。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker><通讯框>||:你答应过我们，这几天就会有进展。
+NPC-Persica(3)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||:M4A1……我就快唤醒她了，我找到了突破口了……
+NPC-Persica(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:现在不是唤醒她的时候，有个更重要的工作。+你之前说过，拿到7号档案，就能还原莱柯的全部数据。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||:依照M4A1她们，在3号安全屋找到的资料……是这样的没错。
+NPC-Persica(0);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:你还说过，运气好的话，一天之内就能找到它。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||:是啊……定位都差不多了，但你也知道现在有铁血的干扰……
+NPC-Persica(0);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:我就知道你要提这个。+AR小组，还有那个指挥官，现在都是你的了。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||:啊……你真了解我，克鲁格。
+NPC-Persica(2);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:【木星】的事你已经欠了我一次人情了，现在是第二次。+我在今天晚餐前就要见到成果，向我保证。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||:嗯，你会得到你想要的……+还有，克鲁格……
+NPC-Persica(0);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:说。
+NPC-Persica(3)<Speaker>帕斯卡</Speaker>;NPC-Kyruger(0)||<BGM>BGM_Empty</BGM>:莱柯……真的是死于意外吗？+抱歉，你太热衷于莱柯的遗物，我总是……
+NPC-Persica(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||:…………这个话题我们已经进行过很多次了吧。
+NPC-Persica(3)<Speaker>帕斯卡</Speaker>||:好像是呢……+那么，我没事了。
+()||:…………克鲁格结束了通讯。
+帕斯卡()<Speaker>帕斯卡</Speaker>||<黑点1>:……………………
+()||<黑点2><BIN>8</BIN><BGM>BGM_Frontline</BGM>:…………半小时后，S02区格里芬临时指挥室。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:……指挥官，事情就是这样。+7号档案不难找，可是在敌人腹地……就是另一回事了。+你们需要空降到，原来的铁血工厂附近。+我会告诉AR小组，她们要做什么。你的任务，就是保护好她们。
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:指挥官，您准备好了吗？我们要开始行动了。+我们现在身处S02区，目标是进入0号基地搜查7号档案。+当地的地图情报已经由我上传到了指挥系统中，请看——
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑屏2><BIN>10</BIN>:不愧是铁血的腹地，敌人防线很严密呢。+不过如果是指挥官，一定有办法制造机会吧？
+M16(3)<Speaker>M16A1</Speaker><通讯框>||:不用太心急，指挥官。+铁血在当地设立了干扰器，另外，如果要和铁血的设备连接，可能会有被【伞】病毒感染的风险。+RO的反干扰能力可以保证AR小队的正常行动，为了防止感染，任何与铁血网络的连接都将由RO来负责。
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:只要抢占外围的指挥室，通过制造混乱，我和AR小组就有机会进入0号基地。+这就是本次行动的目标，指挥官，我们就等待您的消息了。
