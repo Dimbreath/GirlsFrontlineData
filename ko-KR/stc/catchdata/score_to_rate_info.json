@@ -1,0 +1,6313 @@
+{
+    "score_to_rate_info": [
+        {
+            "id": "0",
+            "atk_rate": "5",
+            "def_rate": "5",
+            "armor_rate": "5",
+            "armor_piercing_rate": "5",
+            "dodge_rate": "5",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "1",
+            "atk_rate": "10",
+            "def_rate": "10",
+            "armor_rate": "10",
+            "armor_piercing_rate": "5",
+            "dodge_rate": "5",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "2",
+            "atk_rate": "20",
+            "def_rate": "20",
+            "armor_rate": "15",
+            "armor_piercing_rate": "5",
+            "dodge_rate": "6",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "3",
+            "atk_rate": "30",
+            "def_rate": "30",
+            "armor_rate": "20",
+            "armor_piercing_rate": "6",
+            "dodge_rate": "6",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "4",
+            "atk_rate": "31",
+            "def_rate": "31",
+            "armor_rate": "25",
+            "armor_piercing_rate": "6",
+            "dodge_rate": "7",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "5",
+            "atk_rate": "32",
+            "def_rate": "32",
+            "armor_rate": "30",
+            "armor_piercing_rate": "6",
+            "dodge_rate": "7",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "6",
+            "atk_rate": "33",
+            "def_rate": "33",
+            "armor_rate": "35",
+            "armor_piercing_rate": "7",
+            "dodge_rate": "8",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "7",
+            "atk_rate": "34",
+            "def_rate": "34",
+            "armor_rate": "36",
+            "armor_piercing_rate": "7",
+            "dodge_rate": "8",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "8",
+            "atk_rate": "35",
+            "def_rate": "35",
+            "armor_rate": "36",
+            "armor_piercing_rate": "7",
+            "dodge_rate": "9",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "9",
+            "atk_rate": "36",
+            "def_rate": "36",
+            "armor_rate": "37",
+            "armor_piercing_rate": "9",
+            "dodge_rate": "9",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "10",
+            "atk_rate": "37",
+            "def_rate": "37",
+            "armor_rate": "38",
+            "armor_piercing_rate": "9",
+            "dodge_rate": "10",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "11",
+            "atk_rate": "38",
+            "def_rate": "38",
+            "armor_rate": "38",
+            "armor_piercing_rate": "9",
+            "dodge_rate": "11",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "12",
+            "atk_rate": "39",
+            "def_rate": "39",
+            "armor_rate": "39",
+            "armor_piercing_rate": "10",
+            "dodge_rate": "12",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "13",
+            "atk_rate": "40",
+            "def_rate": "40",
+            "armor_rate": "40",
+            "armor_piercing_rate": "10",
+            "dodge_rate": "13",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "14",
+            "atk_rate": "41",
+            "def_rate": "41",
+            "armor_rate": "40",
+            "armor_piercing_rate": "10",
+            "dodge_rate": "14",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "15",
+            "atk_rate": "42",
+            "def_rate": "42",
+            "armor_rate": "41",
+            "armor_piercing_rate": "11",
+            "dodge_rate": "15",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "16",
+            "atk_rate": "43",
+            "def_rate": "43",
+            "armor_rate": "42",
+            "armor_piercing_rate": "11",
+            "dodge_rate": "16",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "17",
+            "atk_rate": "44",
+            "def_rate": "44",
+            "armor_rate": "42",
+            "armor_piercing_rate": "11",
+            "dodge_rate": "17",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "18",
+            "atk_rate": "45",
+            "def_rate": "45",
+            "armor_rate": "43",
+            "armor_piercing_rate": "12",
+            "dodge_rate": "18",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "19",
+            "atk_rate": "46",
+            "def_rate": "46",
+            "armor_rate": "44",
+            "armor_piercing_rate": "12",
+            "dodge_rate": "19",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "20",
+            "atk_rate": "47",
+            "def_rate": "47",
+            "armor_rate": "44",
+            "armor_piercing_rate": "12",
+            "dodge_rate": "20",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "21",
+            "atk_rate": "48",
+            "def_rate": "48",
+            "armor_rate": "45",
+            "armor_piercing_rate": "13",
+            "dodge_rate": "21",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "22",
+            "atk_rate": "49",
+            "def_rate": "49",
+            "armor_rate": "46",
+            "armor_piercing_rate": "13",
+            "dodge_rate": "22",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "23",
+            "atk_rate": "50",
+            "def_rate": "50",
+            "armor_rate": "46",
+            "armor_piercing_rate": "13",
+            "dodge_rate": "23",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "24",
+            "atk_rate": "51",
+            "def_rate": "51",
+            "armor_rate": "47",
+            "armor_piercing_rate": "14",
+            "dodge_rate": "24",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "25",
+            "atk_rate": "52",
+            "def_rate": "52",
+            "armor_rate": "48",
+            "armor_piercing_rate": "14",
+            "dodge_rate": "25",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "26",
+            "atk_rate": "53",
+            "def_rate": "53",
+            "armor_rate": "48",
+            "armor_piercing_rate": "14",
+            "dodge_rate": "26",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "27",
+            "atk_rate": "53",
+            "def_rate": "53",
+            "armor_rate": "49",
+            "armor_piercing_rate": "15",
+            "dodge_rate": "27",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "28",
+            "atk_rate": "54",
+            "def_rate": "54",
+            "armor_rate": "50",
+            "armor_piercing_rate": "15",
+            "dodge_rate": "28",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "29",
+            "atk_rate": "54",
+            "def_rate": "54",
+            "armor_rate": "50",
+            "armor_piercing_rate": "15",
+            "dodge_rate": "29",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "30",
+            "atk_rate": "55",
+            "def_rate": "55",
+            "armor_rate": "51",
+            "armor_piercing_rate": "16",
+            "dodge_rate": "30",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "31",
+            "atk_rate": "55",
+            "def_rate": "55",
+            "armor_rate": "52",
+            "armor_piercing_rate": "16",
+            "dodge_rate": "31",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "32",
+            "atk_rate": "56",
+            "def_rate": "56",
+            "armor_rate": "52",
+            "armor_piercing_rate": "16",
+            "dodge_rate": "32",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "33",
+            "atk_rate": "56",
+            "def_rate": "56",
+            "armor_rate": "53",
+            "armor_piercing_rate": "17",
+            "dodge_rate": "33",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "34",
+            "atk_rate": "57",
+            "def_rate": "57",
+            "armor_rate": "54",
+            "armor_piercing_rate": "17",
+            "dodge_rate": "34",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "35",
+            "atk_rate": "57",
+            "def_rate": "57",
+            "armor_rate": "54",
+            "armor_piercing_rate": "17",
+            "dodge_rate": "35",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "36",
+            "atk_rate": "58",
+            "def_rate": "58",
+            "armor_rate": "55",
+            "armor_piercing_rate": "18",
+            "dodge_rate": "35",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "37",
+            "atk_rate": "58",
+            "def_rate": "58",
+            "armor_rate": "56",
+            "armor_piercing_rate": "18",
+            "dodge_rate": "35",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "38",
+            "atk_rate": "59",
+            "def_rate": "59",
+            "armor_rate": "56",
+            "armor_piercing_rate": "18",
+            "dodge_rate": "35",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "39",
+            "atk_rate": "59",
+            "def_rate": "59",
+            "armor_rate": "57",
+            "armor_piercing_rate": "19",
+            "dodge_rate": "35",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "40",
+            "atk_rate": "60",
+            "def_rate": "60",
+            "armor_rate": "58",
+            "armor_piercing_rate": "19",
+            "dodge_rate": "36",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "41",
+            "atk_rate": "60",
+            "def_rate": "60",
+            "armor_rate": "58",
+            "armor_piercing_rate": "19",
+            "dodge_rate": "36",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "42",
+            "atk_rate": "61",
+            "def_rate": "61",
+            "armor_rate": "59",
+            "armor_piercing_rate": "20",
+            "dodge_rate": "36",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "43",
+            "atk_rate": "61",
+            "def_rate": "61",
+            "armor_rate": "60",
+            "armor_piercing_rate": "20",
+            "dodge_rate": "36",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "44",
+            "atk_rate": "62",
+            "def_rate": "62",
+            "armor_rate": "60",
+            "armor_piercing_rate": "20",
+            "dodge_rate": "36",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "45",
+            "atk_rate": "62",
+            "def_rate": "62",
+            "armor_rate": "61",
+            "armor_piercing_rate": "21",
+            "dodge_rate": "37",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "46",
+            "atk_rate": "63",
+            "def_rate": "63",
+            "armor_rate": "62",
+            "armor_piercing_rate": "21",
+            "dodge_rate": "37",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "47",
+            "atk_rate": "63",
+            "def_rate": "63",
+            "armor_rate": "62",
+            "armor_piercing_rate": "21",
+            "dodge_rate": "37",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "48",
+            "atk_rate": "64",
+            "def_rate": "64",
+            "armor_rate": "63",
+            "armor_piercing_rate": "22",
+            "dodge_rate": "37",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "49",
+            "atk_rate": "64",
+            "def_rate": "64",
+            "armor_rate": "64",
+            "armor_piercing_rate": "22",
+            "dodge_rate": "37",
+            "night_view_rate": "5"
+        },
+        {
+            "id": "50",
+            "atk_rate": "65",
+            "def_rate": "65",
+            "armor_rate": "64",
+            "armor_piercing_rate": "22",
+            "dodge_rate": "38",
+            "night_view_rate": "20"
+        },
+        {
+            "id": "51",
+            "atk_rate": "65",
+            "def_rate": "65",
+            "armor_rate": "65",
+            "armor_piercing_rate": "23",
+            "dodge_rate": "38",
+            "night_view_rate": "20"
+        },
+        {
+            "id": "52",
+            "atk_rate": "66",
+            "def_rate": "66",
+            "armor_rate": "66",
+            "armor_piercing_rate": "23",
+            "dodge_rate": "38",
+            "night_view_rate": "21"
+        },
+        {
+            "id": "53",
+            "atk_rate": "66",
+            "def_rate": "66",
+            "armor_rate": "66",
+            "armor_piercing_rate": "23",
+            "dodge_rate": "38",
+            "night_view_rate": "21"
+        },
+        {
+            "id": "54",
+            "atk_rate": "67",
+            "def_rate": "67",
+            "armor_rate": "67",
+            "armor_piercing_rate": "24",
+            "dodge_rate": "38",
+            "night_view_rate": "22"
+        },
+        {
+            "id": "55",
+            "atk_rate": "67",
+            "def_rate": "67",
+            "armor_rate": "68",
+            "armor_piercing_rate": "24",
+            "dodge_rate": "39",
+            "night_view_rate": "22"
+        },
+        {
+            "id": "56",
+            "atk_rate": "68",
+            "def_rate": "68",
+            "armor_rate": "68",
+            "armor_piercing_rate": "24",
+            "dodge_rate": "39",
+            "night_view_rate": "23"
+        },
+        {
+            "id": "57",
+            "atk_rate": "68",
+            "def_rate": "68",
+            "armor_rate": "69",
+            "armor_piercing_rate": "26",
+            "dodge_rate": "39",
+            "night_view_rate": "23"
+        },
+        {
+            "id": "58",
+            "atk_rate": "69",
+            "def_rate": "69",
+            "armor_rate": "69",
+            "armor_piercing_rate": "26",
+            "dodge_rate": "39",
+            "night_view_rate": "24"
+        },
+        {
+            "id": "59",
+            "atk_rate": "69",
+            "def_rate": "69",
+            "armor_rate": "69",
+            "armor_piercing_rate": "26",
+            "dodge_rate": "39",
+            "night_view_rate": "24"
+        },
+        {
+            "id": "60",
+            "atk_rate": "70",
+            "def_rate": "70",
+            "armor_rate": "70",
+            "armor_piercing_rate": "27",
+            "dodge_rate": "40",
+            "night_view_rate": "25"
+        },
+        {
+            "id": "61",
+            "atk_rate": "70",
+            "def_rate": "70",
+            "armor_rate": "70",
+            "armor_piercing_rate": "27",
+            "dodge_rate": "40",
+            "night_view_rate": "25"
+        },
+        {
+            "id": "62",
+            "atk_rate": "71",
+            "def_rate": "71",
+            "armor_rate": "70",
+            "armor_piercing_rate": "27",
+            "dodge_rate": "40",
+            "night_view_rate": "26"
+        },
+        {
+            "id": "63",
+            "atk_rate": "71",
+            "def_rate": "71",
+            "armor_rate": "71",
+            "armor_piercing_rate": "28",
+            "dodge_rate": "40",
+            "night_view_rate": "26"
+        },
+        {
+            "id": "64",
+            "atk_rate": "72",
+            "def_rate": "72",
+            "armor_rate": "71",
+            "armor_piercing_rate": "28",
+            "dodge_rate": "40",
+            "night_view_rate": "27"
+        },
+        {
+            "id": "65",
+            "atk_rate": "72",
+            "def_rate": "72",
+            "armor_rate": "71",
+            "armor_piercing_rate": "28",
+            "dodge_rate": "41",
+            "night_view_rate": "27"
+        },
+        {
+            "id": "66",
+            "atk_rate": "73",
+            "def_rate": "73",
+            "armor_rate": "72",
+            "armor_piercing_rate": "29",
+            "dodge_rate": "41",
+            "night_view_rate": "28"
+        },
+        {
+            "id": "67",
+            "atk_rate": "73",
+            "def_rate": "73",
+            "armor_rate": "72",
+            "armor_piercing_rate": "29",
+            "dodge_rate": "41",
+            "night_view_rate": "28"
+        },
+        {
+            "id": "68",
+            "atk_rate": "74",
+            "def_rate": "74",
+            "armor_rate": "72",
+            "armor_piercing_rate": "29",
+            "dodge_rate": "41",
+            "night_view_rate": "29"
+        },
+        {
+            "id": "69",
+            "atk_rate": "74",
+            "def_rate": "74",
+            "armor_rate": "73",
+            "armor_piercing_rate": "30",
+            "dodge_rate": "41",
+            "night_view_rate": "29"
+        },
+        {
+            "id": "70",
+            "atk_rate": "75",
+            "def_rate": "75",
+            "armor_rate": "73",
+            "armor_piercing_rate": "30",
+            "dodge_rate": "42",
+            "night_view_rate": "30"
+        },
+        {
+            "id": "71",
+            "atk_rate": "75",
+            "def_rate": "75",
+            "armor_rate": "73",
+            "armor_piercing_rate": "30",
+            "dodge_rate": "42",
+            "night_view_rate": "30"
+        },
+        {
+            "id": "72",
+            "atk_rate": "76",
+            "def_rate": "76",
+            "armor_rate": "74",
+            "armor_piercing_rate": "31",
+            "dodge_rate": "42",
+            "night_view_rate": "30"
+        },
+        {
+            "id": "73",
+            "atk_rate": "76",
+            "def_rate": "76",
+            "armor_rate": "74",
+            "armor_piercing_rate": "31",
+            "dodge_rate": "42",
+            "night_view_rate": "31"
+        },
+        {
+            "id": "74",
+            "atk_rate": "77",
+            "def_rate": "77",
+            "armor_rate": "74",
+            "armor_piercing_rate": "31",
+            "dodge_rate": "42",
+            "night_view_rate": "31"
+        },
+        {
+            "id": "75",
+            "atk_rate": "77",
+            "def_rate": "77",
+            "armor_rate": "75",
+            "armor_piercing_rate": "32",
+            "dodge_rate": "43",
+            "night_view_rate": "31"
+        },
+        {
+            "id": "76",
+            "atk_rate": "78",
+            "def_rate": "78",
+            "armor_rate": "75",
+            "armor_piercing_rate": "32",
+            "dodge_rate": "43",
+            "night_view_rate": "32"
+        },
+        {
+            "id": "77",
+            "atk_rate": "78",
+            "def_rate": "78",
+            "armor_rate": "75",
+            "armor_piercing_rate": "32",
+            "dodge_rate": "43",
+            "night_view_rate": "32"
+        },
+        {
+            "id": "78",
+            "atk_rate": "79",
+            "def_rate": "79",
+            "armor_rate": "76",
+            "armor_piercing_rate": "32",
+            "dodge_rate": "43",
+            "night_view_rate": "32"
+        },
+        {
+            "id": "79",
+            "atk_rate": "79",
+            "def_rate": "79",
+            "armor_rate": "76",
+            "armor_piercing_rate": "32",
+            "dodge_rate": "43",
+            "night_view_rate": "33"
+        },
+        {
+            "id": "80",
+            "atk_rate": "80",
+            "def_rate": "80",
+            "armor_rate": "76",
+            "armor_piercing_rate": "33",
+            "dodge_rate": "44",
+            "night_view_rate": "33"
+        },
+        {
+            "id": "81",
+            "atk_rate": "80",
+            "def_rate": "80",
+            "armor_rate": "77",
+            "armor_piercing_rate": "33",
+            "dodge_rate": "44",
+            "night_view_rate": "33"
+        },
+        {
+            "id": "82",
+            "atk_rate": "80",
+            "def_rate": "80",
+            "armor_rate": "77",
+            "armor_piercing_rate": "33",
+            "dodge_rate": "44",
+            "night_view_rate": "34"
+        },
+        {
+            "id": "83",
+            "atk_rate": "80",
+            "def_rate": "80",
+            "armor_rate": "77",
+            "armor_piercing_rate": "33",
+            "dodge_rate": "44",
+            "night_view_rate": "34"
+        },
+        {
+            "id": "84",
+            "atk_rate": "81",
+            "def_rate": "81",
+            "armor_rate": "78",
+            "armor_piercing_rate": "33",
+            "dodge_rate": "44",
+            "night_view_rate": "34"
+        },
+        {
+            "id": "85",
+            "atk_rate": "81",
+            "def_rate": "81",
+            "armor_rate": "78",
+            "armor_piercing_rate": "34",
+            "dodge_rate": "45",
+            "night_view_rate": "35"
+        },
+        {
+            "id": "86",
+            "atk_rate": "81",
+            "def_rate": "81",
+            "armor_rate": "78",
+            "armor_piercing_rate": "34",
+            "dodge_rate": "45",
+            "night_view_rate": "35"
+        },
+        {
+            "id": "87",
+            "atk_rate": "81",
+            "def_rate": "81",
+            "armor_rate": "79",
+            "armor_piercing_rate": "34",
+            "dodge_rate": "45",
+            "night_view_rate": "35"
+        },
+        {
+            "id": "88",
+            "atk_rate": "82",
+            "def_rate": "82",
+            "armor_rate": "79",
+            "armor_piercing_rate": "34",
+            "dodge_rate": "45",
+            "night_view_rate": "36"
+        },
+        {
+            "id": "89",
+            "atk_rate": "82",
+            "def_rate": "82",
+            "armor_rate": "79",
+            "armor_piercing_rate": "34",
+            "dodge_rate": "45",
+            "night_view_rate": "36"
+        },
+        {
+            "id": "90",
+            "atk_rate": "82",
+            "def_rate": "82",
+            "armor_rate": "80",
+            "armor_piercing_rate": "35",
+            "dodge_rate": "46",
+            "night_view_rate": "36"
+        },
+        {
+            "id": "91",
+            "atk_rate": "82",
+            "def_rate": "82",
+            "armor_rate": "80",
+            "armor_piercing_rate": "35",
+            "dodge_rate": "46",
+            "night_view_rate": "37"
+        },
+        {
+            "id": "92",
+            "atk_rate": "83",
+            "def_rate": "83",
+            "armor_rate": "80",
+            "armor_piercing_rate": "35",
+            "dodge_rate": "46",
+            "night_view_rate": "37"
+        },
+        {
+            "id": "93",
+            "atk_rate": "83",
+            "def_rate": "83",
+            "armor_rate": "80",
+            "armor_piercing_rate": "35",
+            "dodge_rate": "46",
+            "night_view_rate": "37"
+        },
+        {
+            "id": "94",
+            "atk_rate": "83",
+            "def_rate": "83",
+            "armor_rate": "81",
+            "armor_piercing_rate": "35",
+            "dodge_rate": "46",
+            "night_view_rate": "38"
+        },
+        {
+            "id": "95",
+            "atk_rate": "83",
+            "def_rate": "83",
+            "armor_rate": "81",
+            "armor_piercing_rate": "36",
+            "dodge_rate": "47",
+            "night_view_rate": "38"
+        },
+        {
+            "id": "96",
+            "atk_rate": "84",
+            "def_rate": "84",
+            "armor_rate": "81",
+            "armor_piercing_rate": "36",
+            "dodge_rate": "47",
+            "night_view_rate": "38"
+        },
+        {
+            "id": "97",
+            "atk_rate": "84",
+            "def_rate": "84",
+            "armor_rate": "81",
+            "armor_piercing_rate": "36",
+            "dodge_rate": "47",
+            "night_view_rate": "39"
+        },
+        {
+            "id": "98",
+            "atk_rate": "84",
+            "def_rate": "84",
+            "armor_rate": "81",
+            "armor_piercing_rate": "36",
+            "dodge_rate": "47",
+            "night_view_rate": "39"
+        },
+        {
+            "id": "99",
+            "atk_rate": "84",
+            "def_rate": "84",
+            "armor_rate": "82",
+            "armor_piercing_rate": "36",
+            "dodge_rate": "47",
+            "night_view_rate": "39"
+        },
+        {
+            "id": "100",
+            "atk_rate": "85",
+            "def_rate": "85",
+            "armor_rate": "82",
+            "armor_piercing_rate": "37",
+            "dodge_rate": "48",
+            "night_view_rate": "40"
+        },
+        {
+            "id": "101",
+            "atk_rate": "85",
+            "def_rate": "85",
+            "armor_rate": "82",
+            "armor_piercing_rate": "37",
+            "dodge_rate": "48",
+            "night_view_rate": "40"
+        },
+        {
+            "id": "102",
+            "atk_rate": "85",
+            "def_rate": "85",
+            "armor_rate": "82",
+            "armor_piercing_rate": "38",
+            "dodge_rate": "48",
+            "night_view_rate": "40"
+        },
+        {
+            "id": "103",
+            "atk_rate": "85",
+            "def_rate": "85",
+            "armor_rate": "83",
+            "armor_piercing_rate": "38",
+            "dodge_rate": "48",
+            "night_view_rate": "40"
+        },
+        {
+            "id": "104",
+            "atk_rate": "86",
+            "def_rate": "86",
+            "armor_rate": "83",
+            "armor_piercing_rate": "39",
+            "dodge_rate": "48",
+            "night_view_rate": "41"
+        },
+        {
+            "id": "105",
+            "atk_rate": "86",
+            "def_rate": "86",
+            "armor_rate": "83",
+            "armor_piercing_rate": "39",
+            "dodge_rate": "49",
+            "night_view_rate": "41"
+        },
+        {
+            "id": "106",
+            "atk_rate": "86",
+            "def_rate": "86",
+            "armor_rate": "83",
+            "armor_piercing_rate": "40",
+            "dodge_rate": "49",
+            "night_view_rate": "41"
+        },
+        {
+            "id": "107",
+            "atk_rate": "86",
+            "def_rate": "86",
+            "armor_rate": "83",
+            "armor_piercing_rate": "40",
+            "dodge_rate": "49",
+            "night_view_rate": "41"
+        },
+        {
+            "id": "108",
+            "atk_rate": "87",
+            "def_rate": "87",
+            "armor_rate": "84",
+            "armor_piercing_rate": "41",
+            "dodge_rate": "49",
+            "night_view_rate": "42"
+        },
+        {
+            "id": "109",
+            "atk_rate": "87",
+            "def_rate": "87",
+            "armor_rate": "84",
+            "armor_piercing_rate": "41",
+            "dodge_rate": "49",
+            "night_view_rate": "42"
+        },
+        {
+            "id": "110",
+            "atk_rate": "87",
+            "def_rate": "87",
+            "armor_rate": "84",
+            "armor_piercing_rate": "43",
+            "dodge_rate": "50",
+            "night_view_rate": "42"
+        },
+        {
+            "id": "111",
+            "atk_rate": "87",
+            "def_rate": "87",
+            "armor_rate": "84",
+            "armor_piercing_rate": "43",
+            "dodge_rate": "50",
+            "night_view_rate": "42"
+        },
+        {
+            "id": "112",
+            "atk_rate": "88",
+            "def_rate": "88",
+            "armor_rate": "85",
+            "armor_piercing_rate": "43",
+            "dodge_rate": "50",
+            "night_view_rate": "43"
+        },
+        {
+            "id": "113",
+            "atk_rate": "88",
+            "def_rate": "88",
+            "armor_rate": "85",
+            "armor_piercing_rate": "44",
+            "dodge_rate": "50",
+            "night_view_rate": "43"
+        },
+        {
+            "id": "114",
+            "atk_rate": "88",
+            "def_rate": "88",
+            "armor_rate": "85",
+            "armor_piercing_rate": "44",
+            "dodge_rate": "50",
+            "night_view_rate": "43"
+        },
+        {
+            "id": "115",
+            "atk_rate": "88",
+            "def_rate": "88",
+            "armor_rate": "85",
+            "armor_piercing_rate": "44",
+            "dodge_rate": "51",
+            "night_view_rate": "43"
+        },
+        {
+            "id": "116",
+            "atk_rate": "89",
+            "def_rate": "89",
+            "armor_rate": "85",
+            "armor_piercing_rate": "45",
+            "dodge_rate": "51",
+            "night_view_rate": "44"
+        },
+        {
+            "id": "117",
+            "atk_rate": "89",
+            "def_rate": "89",
+            "armor_rate": "86",
+            "armor_piercing_rate": "45",
+            "dodge_rate": "51",
+            "night_view_rate": "44"
+        },
+        {
+            "id": "118",
+            "atk_rate": "89",
+            "def_rate": "89",
+            "armor_rate": "86",
+            "armor_piercing_rate": "45",
+            "dodge_rate": "51",
+            "night_view_rate": "44"
+        },
+        {
+            "id": "119",
+            "atk_rate": "89",
+            "def_rate": "89",
+            "armor_rate": "86",
+            "armor_piercing_rate": "46",
+            "dodge_rate": "51",
+            "night_view_rate": "44"
+        },
+        {
+            "id": "120",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "86",
+            "armor_piercing_rate": "46",
+            "dodge_rate": "52",
+            "night_view_rate": "45"
+        },
+        {
+            "id": "121",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "87",
+            "armor_piercing_rate": "46",
+            "dodge_rate": "52",
+            "night_view_rate": "45"
+        },
+        {
+            "id": "122",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "87",
+            "armor_piercing_rate": "47",
+            "dodge_rate": "52",
+            "night_view_rate": "45"
+        },
+        {
+            "id": "123",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "87",
+            "armor_piercing_rate": "47",
+            "dodge_rate": "52",
+            "night_view_rate": "45"
+        },
+        {
+            "id": "124",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "87",
+            "armor_piercing_rate": "47",
+            "dodge_rate": "52",
+            "night_view_rate": "46"
+        },
+        {
+            "id": "125",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "87",
+            "armor_piercing_rate": "48",
+            "dodge_rate": "53",
+            "night_view_rate": "46"
+        },
+        {
+            "id": "126",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "88",
+            "armor_piercing_rate": "48",
+            "dodge_rate": "53",
+            "night_view_rate": "46"
+        },
+        {
+            "id": "127",
+            "atk_rate": "90",
+            "def_rate": "90",
+            "armor_rate": "88",
+            "armor_piercing_rate": "48",
+            "dodge_rate": "53",
+            "night_view_rate": "46"
+        },
+        {
+            "id": "128",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "88",
+            "armor_piercing_rate": "49",
+            "dodge_rate": "53",
+            "night_view_rate": "47"
+        },
+        {
+            "id": "129",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "88",
+            "armor_piercing_rate": "49",
+            "dodge_rate": "53",
+            "night_view_rate": "47"
+        },
+        {
+            "id": "130",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "89",
+            "armor_piercing_rate": "49",
+            "dodge_rate": "54",
+            "night_view_rate": "47"
+        },
+        {
+            "id": "131",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "89",
+            "armor_piercing_rate": "50",
+            "dodge_rate": "54",
+            "night_view_rate": "47"
+        },
+        {
+            "id": "132",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "89",
+            "armor_piercing_rate": "50",
+            "dodge_rate": "54",
+            "night_view_rate": "48"
+        },
+        {
+            "id": "133",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "89",
+            "armor_piercing_rate": "50",
+            "dodge_rate": "54",
+            "night_view_rate": "48"
+        },
+        {
+            "id": "134",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "89",
+            "armor_piercing_rate": "51",
+            "dodge_rate": "54",
+            "night_view_rate": "48"
+        },
+        {
+            "id": "135",
+            "atk_rate": "91",
+            "def_rate": "91",
+            "armor_rate": "90",
+            "armor_piercing_rate": "51",
+            "dodge_rate": "55",
+            "night_view_rate": "48"
+        },
+        {
+            "id": "136",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "51",
+            "dodge_rate": "55",
+            "night_view_rate": "49"
+        },
+        {
+            "id": "137",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "52",
+            "dodge_rate": "55",
+            "night_view_rate": "49"
+        },
+        {
+            "id": "138",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "52",
+            "dodge_rate": "55",
+            "night_view_rate": "49"
+        },
+        {
+            "id": "139",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "52",
+            "dodge_rate": "55",
+            "night_view_rate": "49"
+        },
+        {
+            "id": "140",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "53",
+            "dodge_rate": "56",
+            "night_view_rate": "50"
+        },
+        {
+            "id": "141",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "53",
+            "dodge_rate": "56",
+            "night_view_rate": "50"
+        },
+        {
+            "id": "142",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "53",
+            "dodge_rate": "56",
+            "night_view_rate": "50"
+        },
+        {
+            "id": "143",
+            "atk_rate": "92",
+            "def_rate": "92",
+            "armor_rate": "90",
+            "armor_piercing_rate": "54",
+            "dodge_rate": "56",
+            "night_view_rate": "50"
+        },
+        {
+            "id": "144",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "54",
+            "dodge_rate": "56",
+            "night_view_rate": "51"
+        },
+        {
+            "id": "145",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "54",
+            "dodge_rate": "57",
+            "night_view_rate": "51"
+        },
+        {
+            "id": "146",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "55",
+            "dodge_rate": "57",
+            "night_view_rate": "51"
+        },
+        {
+            "id": "147",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "55",
+            "dodge_rate": "57",
+            "night_view_rate": "51"
+        },
+        {
+            "id": "148",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "55",
+            "dodge_rate": "57",
+            "night_view_rate": "52"
+        },
+        {
+            "id": "149",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "56",
+            "dodge_rate": "57",
+            "night_view_rate": "52"
+        },
+        {
+            "id": "150",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "56",
+            "dodge_rate": "58",
+            "night_view_rate": "52"
+        },
+        {
+            "id": "151",
+            "atk_rate": "93",
+            "def_rate": "93",
+            "armor_rate": "91",
+            "armor_piercing_rate": "56",
+            "dodge_rate": "58",
+            "night_view_rate": "52"
+        },
+        {
+            "id": "152",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "91",
+            "armor_piercing_rate": "57",
+            "dodge_rate": "58",
+            "night_view_rate": "53"
+        },
+        {
+            "id": "153",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "57",
+            "dodge_rate": "58",
+            "night_view_rate": "53"
+        },
+        {
+            "id": "154",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "57",
+            "dodge_rate": "58",
+            "night_view_rate": "53"
+        },
+        {
+            "id": "155",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "59",
+            "dodge_rate": "59",
+            "night_view_rate": "53"
+        },
+        {
+            "id": "156",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "59",
+            "dodge_rate": "59",
+            "night_view_rate": "54"
+        },
+        {
+            "id": "157",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "59",
+            "dodge_rate": "59",
+            "night_view_rate": "54"
+        },
+        {
+            "id": "158",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "60",
+            "dodge_rate": "59",
+            "night_view_rate": "54"
+        },
+        {
+            "id": "159",
+            "atk_rate": "94",
+            "def_rate": "94",
+            "armor_rate": "92",
+            "armor_piercing_rate": "60",
+            "dodge_rate": "59",
+            "night_view_rate": "54"
+        },
+        {
+            "id": "160",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "92",
+            "armor_piercing_rate": "60",
+            "dodge_rate": "60",
+            "night_view_rate": "55"
+        },
+        {
+            "id": "161",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "92",
+            "armor_piercing_rate": "61",
+            "dodge_rate": "60",
+            "night_view_rate": "55"
+        },
+        {
+            "id": "162",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "61",
+            "dodge_rate": "60",
+            "night_view_rate": "55"
+        },
+        {
+            "id": "163",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "61",
+            "dodge_rate": "60",
+            "night_view_rate": "55"
+        },
+        {
+            "id": "164",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "62",
+            "dodge_rate": "60",
+            "night_view_rate": "56"
+        },
+        {
+            "id": "165",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "62",
+            "dodge_rate": "61",
+            "night_view_rate": "56"
+        },
+        {
+            "id": "166",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "62",
+            "dodge_rate": "61",
+            "night_view_rate": "56"
+        },
+        {
+            "id": "167",
+            "atk_rate": "95",
+            "def_rate": "95",
+            "armor_rate": "93",
+            "armor_piercing_rate": "63",
+            "dodge_rate": "61",
+            "night_view_rate": "56"
+        },
+        {
+            "id": "168",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "93",
+            "armor_piercing_rate": "63",
+            "dodge_rate": "61",
+            "night_view_rate": "57"
+        },
+        {
+            "id": "169",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "93",
+            "armor_piercing_rate": "63",
+            "dodge_rate": "61",
+            "night_view_rate": "57"
+        },
+        {
+            "id": "170",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "93",
+            "armor_piercing_rate": "64",
+            "dodge_rate": "62",
+            "night_view_rate": "57"
+        },
+        {
+            "id": "171",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "94",
+            "armor_piercing_rate": "64",
+            "dodge_rate": "62",
+            "night_view_rate": "57"
+        },
+        {
+            "id": "172",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "94",
+            "armor_piercing_rate": "64",
+            "dodge_rate": "62",
+            "night_view_rate": "58"
+        },
+        {
+            "id": "173",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "94",
+            "armor_piercing_rate": "65",
+            "dodge_rate": "62",
+            "night_view_rate": "58"
+        },
+        {
+            "id": "174",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "94",
+            "armor_piercing_rate": "65",
+            "dodge_rate": "62",
+            "night_view_rate": "58"
+        },
+        {
+            "id": "175",
+            "atk_rate": "96",
+            "def_rate": "96",
+            "armor_rate": "94",
+            "armor_piercing_rate": "65",
+            "dodge_rate": "63",
+            "night_view_rate": "58"
+        },
+        {
+            "id": "176",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "94",
+            "armor_piercing_rate": "66",
+            "dodge_rate": "63",
+            "night_view_rate": "59"
+        },
+        {
+            "id": "177",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "94",
+            "armor_piercing_rate": "66",
+            "dodge_rate": "63",
+            "night_view_rate": "59"
+        },
+        {
+            "id": "178",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "94",
+            "armor_piercing_rate": "66",
+            "dodge_rate": "63",
+            "night_view_rate": "59"
+        },
+        {
+            "id": "179",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "94",
+            "armor_piercing_rate": "67",
+            "dodge_rate": "63",
+            "night_view_rate": "59"
+        },
+        {
+            "id": "180",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "95",
+            "armor_piercing_rate": "67",
+            "dodge_rate": "64",
+            "night_view_rate": "60"
+        },
+        {
+            "id": "181",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "95",
+            "armor_piercing_rate": "67",
+            "dodge_rate": "64",
+            "night_view_rate": "60"
+        },
+        {
+            "id": "182",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "95",
+            "armor_piercing_rate": "68",
+            "dodge_rate": "64",
+            "night_view_rate": "60"
+        },
+        {
+            "id": "183",
+            "atk_rate": "97",
+            "def_rate": "97",
+            "armor_rate": "95",
+            "armor_piercing_rate": "68",
+            "dodge_rate": "64",
+            "night_view_rate": "60"
+        },
+        {
+            "id": "184",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "95",
+            "armor_piercing_rate": "68",
+            "dodge_rate": "64",
+            "night_view_rate": "61"
+        },
+        {
+            "id": "185",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "95",
+            "armor_piercing_rate": "69",
+            "dodge_rate": "65",
+            "night_view_rate": "61"
+        },
+        {
+            "id": "186",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "95",
+            "armor_piercing_rate": "69",
+            "dodge_rate": "65",
+            "night_view_rate": "61"
+        },
+        {
+            "id": "187",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "95",
+            "armor_piercing_rate": "69",
+            "dodge_rate": "65",
+            "night_view_rate": "61"
+        },
+        {
+            "id": "188",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "95",
+            "armor_piercing_rate": "70",
+            "dodge_rate": "65",
+            "night_view_rate": "62"
+        },
+        {
+            "id": "189",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "96",
+            "armor_piercing_rate": "70",
+            "dodge_rate": "65",
+            "night_view_rate": "62"
+        },
+        {
+            "id": "190",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "96",
+            "armor_piercing_rate": "70",
+            "dodge_rate": "66",
+            "night_view_rate": "62"
+        },
+        {
+            "id": "191",
+            "atk_rate": "98",
+            "def_rate": "98",
+            "armor_rate": "96",
+            "armor_piercing_rate": "71",
+            "dodge_rate": "66",
+            "night_view_rate": "62"
+        },
+        {
+            "id": "192",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "71",
+            "dodge_rate": "66",
+            "night_view_rate": "63"
+        },
+        {
+            "id": "193",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "71",
+            "dodge_rate": "66",
+            "night_view_rate": "63"
+        },
+        {
+            "id": "194",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "72",
+            "dodge_rate": "66",
+            "night_view_rate": "63"
+        },
+        {
+            "id": "195",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "72",
+            "dodge_rate": "67",
+            "night_view_rate": "63"
+        },
+        {
+            "id": "196",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "72",
+            "dodge_rate": "67",
+            "night_view_rate": "64"
+        },
+        {
+            "id": "197",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "96",
+            "armor_piercing_rate": "73",
+            "dodge_rate": "67",
+            "night_view_rate": "64"
+        },
+        {
+            "id": "198",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "97",
+            "armor_piercing_rate": "73",
+            "dodge_rate": "67",
+            "night_view_rate": "64"
+        },
+        {
+            "id": "199",
+            "atk_rate": "99",
+            "def_rate": "99",
+            "armor_rate": "97",
+            "armor_piercing_rate": "73",
+            "dodge_rate": "67",
+            "night_view_rate": "64"
+        },
+        {
+            "id": "200",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "74",
+            "dodge_rate": "68",
+            "night_view_rate": "65"
+        },
+        {
+            "id": "201",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "74",
+            "dodge_rate": "68",
+            "night_view_rate": "65"
+        },
+        {
+            "id": "202",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "74",
+            "dodge_rate": "68",
+            "night_view_rate": "65"
+        },
+        {
+            "id": "203",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "76",
+            "dodge_rate": "68",
+            "night_view_rate": "65"
+        },
+        {
+            "id": "204",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "76",
+            "dodge_rate": "68",
+            "night_view_rate": "66"
+        },
+        {
+            "id": "205",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "76",
+            "dodge_rate": "69",
+            "night_view_rate": "66"
+        },
+        {
+            "id": "206",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "97",
+            "armor_piercing_rate": "77",
+            "dodge_rate": "69",
+            "night_view_rate": "66"
+        },
+        {
+            "id": "207",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "77",
+            "dodge_rate": "69",
+            "night_view_rate": "66"
+        },
+        {
+            "id": "208",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "77",
+            "dodge_rate": "69",
+            "night_view_rate": "67"
+        },
+        {
+            "id": "209",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "78",
+            "dodge_rate": "69",
+            "night_view_rate": "67"
+        },
+        {
+            "id": "210",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "78",
+            "dodge_rate": "70",
+            "night_view_rate": "67"
+        },
+        {
+            "id": "211",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "78",
+            "dodge_rate": "70",
+            "night_view_rate": "67"
+        },
+        {
+            "id": "212",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "79",
+            "dodge_rate": "70",
+            "night_view_rate": "68"
+        },
+        {
+            "id": "213",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "79",
+            "dodge_rate": "70",
+            "night_view_rate": "68"
+        },
+        {
+            "id": "214",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "79",
+            "dodge_rate": "70",
+            "night_view_rate": "68"
+        },
+        {
+            "id": "215",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "98",
+            "armor_piercing_rate": "80",
+            "dodge_rate": "70",
+            "night_view_rate": "68"
+        },
+        {
+            "id": "216",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "80",
+            "dodge_rate": "71",
+            "night_view_rate": "69"
+        },
+        {
+            "id": "217",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "80",
+            "dodge_rate": "71",
+            "night_view_rate": "69"
+        },
+        {
+            "id": "218",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "81",
+            "dodge_rate": "71",
+            "night_view_rate": "69"
+        },
+        {
+            "id": "219",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "81",
+            "dodge_rate": "71",
+            "night_view_rate": "69"
+        },
+        {
+            "id": "220",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "81",
+            "dodge_rate": "71",
+            "night_view_rate": "70"
+        },
+        {
+            "id": "221",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "82",
+            "dodge_rate": "71",
+            "night_view_rate": "70"
+        },
+        {
+            "id": "222",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "82",
+            "dodge_rate": "72",
+            "night_view_rate": "70"
+        },
+        {
+            "id": "223",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "82",
+            "dodge_rate": "72",
+            "night_view_rate": "70"
+        },
+        {
+            "id": "224",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "99",
+            "armor_piercing_rate": "83",
+            "dodge_rate": "72",
+            "night_view_rate": "71"
+        },
+        {
+            "id": "225",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "83",
+            "dodge_rate": "72",
+            "night_view_rate": "71"
+        },
+        {
+            "id": "226",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "83",
+            "dodge_rate": "72",
+            "night_view_rate": "71"
+        },
+        {
+            "id": "227",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "84",
+            "dodge_rate": "72",
+            "night_view_rate": "71"
+        },
+        {
+            "id": "228",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "84",
+            "dodge_rate": "73",
+            "night_view_rate": "72"
+        },
+        {
+            "id": "229",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "84",
+            "dodge_rate": "73",
+            "night_view_rate": "72"
+        },
+        {
+            "id": "230",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "73",
+            "night_view_rate": "72"
+        },
+        {
+            "id": "231",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "73",
+            "night_view_rate": "72"
+        },
+        {
+            "id": "232",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "73",
+            "night_view_rate": "73"
+        },
+        {
+            "id": "233",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "73",
+            "night_view_rate": "73"
+        },
+        {
+            "id": "234",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "74",
+            "night_view_rate": "73"
+        },
+        {
+            "id": "235",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "74",
+            "night_view_rate": "73"
+        },
+        {
+            "id": "236",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "74",
+            "night_view_rate": "74"
+        },
+        {
+            "id": "237",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "74",
+            "night_view_rate": "74"
+        },
+        {
+            "id": "238",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "85",
+            "dodge_rate": "74",
+            "night_view_rate": "74"
+        },
+        {
+            "id": "239",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "74",
+            "night_view_rate": "74"
+        },
+        {
+            "id": "240",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "75"
+        },
+        {
+            "id": "241",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "75"
+        },
+        {
+            "id": "242",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "75"
+        },
+        {
+            "id": "243",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "75"
+        },
+        {
+            "id": "244",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "76"
+        },
+        {
+            "id": "245",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "75",
+            "night_view_rate": "76"
+        },
+        {
+            "id": "246",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "76",
+            "night_view_rate": "76"
+        },
+        {
+            "id": "247",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "86",
+            "dodge_rate": "76",
+            "night_view_rate": "76"
+        },
+        {
+            "id": "248",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "76",
+            "night_view_rate": "77"
+        },
+        {
+            "id": "249",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "76",
+            "night_view_rate": "77"
+        },
+        {
+            "id": "250",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "76",
+            "night_view_rate": "77"
+        },
+        {
+            "id": "251",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "76",
+            "night_view_rate": "77"
+        },
+        {
+            "id": "252",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "77",
+            "night_view_rate": "78"
+        },
+        {
+            "id": "253",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "77",
+            "night_view_rate": "78"
+        },
+        {
+            "id": "254",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "77",
+            "night_view_rate": "78"
+        },
+        {
+            "id": "255",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "77",
+            "night_view_rate": "78"
+        },
+        {
+            "id": "256",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "87",
+            "dodge_rate": "77",
+            "night_view_rate": "79"
+        },
+        {
+            "id": "257",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "77",
+            "night_view_rate": "79"
+        },
+        {
+            "id": "258",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "79"
+        },
+        {
+            "id": "259",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "79"
+        },
+        {
+            "id": "260",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "261",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "262",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "263",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "78",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "264",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "79",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "265",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "88",
+            "dodge_rate": "79",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "266",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "79",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "267",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "79",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "268",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "79",
+            "night_view_rate": "80"
+        },
+        {
+            "id": "269",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "79",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "270",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "80",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "271",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "80",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "272",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "80",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "273",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "80",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "274",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "89",
+            "dodge_rate": "80",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "275",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "81",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "276",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "81",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "277",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "81",
+            "night_view_rate": "81"
+        },
+        {
+            "id": "278",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "81",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "279",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "81",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "280",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "82",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "281",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "82",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "282",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "82",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "283",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "90",
+            "dodge_rate": "82",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "284",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "82",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "285",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "83",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "286",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "83",
+            "night_view_rate": "82"
+        },
+        {
+            "id": "287",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "83",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "288",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "83",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "289",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "83",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "290",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "84",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "291",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "84",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "292",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "91",
+            "dodge_rate": "84",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "293",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "84",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "294",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "84",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "295",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "85",
+            "night_view_rate": "83"
+        },
+        {
+            "id": "296",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "85",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "297",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "85",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "298",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "85",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "299",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "85",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "300",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "86",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "301",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "93",
+            "dodge_rate": "86",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "302",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "86",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "303",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "86",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "304",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "86",
+            "night_view_rate": "84"
+        },
+        {
+            "id": "305",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "87",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "306",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "87",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "307",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "87",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "308",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "87",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "309",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "87",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "310",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "94",
+            "dodge_rate": "88",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "311",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "88",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "312",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "88",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "313",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "88",
+            "night_view_rate": "85"
+        },
+        {
+            "id": "314",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "88",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "315",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "89",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "316",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "89",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "317",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "89",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "318",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "89",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "319",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "95",
+            "dodge_rate": "89",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "320",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "321",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "322",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "86"
+        },
+        {
+            "id": "323",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "324",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "325",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "326",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "327",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "328",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "329",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "330",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "331",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "87"
+        },
+        {
+            "id": "332",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "333",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "334",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "335",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "336",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "337",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "96",
+            "dodge_rate": "90",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "338",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "339",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "340",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "88"
+        },
+        {
+            "id": "341",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "342",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "343",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "344",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "345",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "346",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "347",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "348",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "349",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "89"
+        },
+        {
+            "id": "350",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "351",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "352",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "353",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "354",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "355",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "97",
+            "dodge_rate": "91",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "356",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "357",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "358",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "359",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "90"
+        },
+        {
+            "id": "360",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "361",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "362",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "363",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "364",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "365",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "366",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "367",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "368",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "369",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "91"
+        },
+        {
+            "id": "370",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "371",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "372",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "373",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "98",
+            "dodge_rate": "92",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "374",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "375",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "376",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "377",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "378",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "379",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "92"
+        },
+        {
+            "id": "380",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "381",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "382",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "383",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "384",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "385",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "386",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "387",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "388",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "389",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "93"
+        },
+        {
+            "id": "390",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "391",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "99",
+            "dodge_rate": "93",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "392",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "393",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "394",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "395",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "396",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "397",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "398",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "399",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "94"
+        },
+        {
+            "id": "400",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "401",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "402",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "403",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "404",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "405",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "406",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "407",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "408",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "409",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "94",
+            "night_view_rate": "95"
+        },
+        {
+            "id": "410",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "411",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "412",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "413",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "414",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "415",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "416",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "417",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "418",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "419",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "96"
+        },
+        {
+            "id": "420",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "421",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "422",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "423",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "424",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "425",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "426",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "427",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "95",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "428",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "429",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "97"
+        },
+        {
+            "id": "430",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "431",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "432",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "433",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "434",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "435",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "436",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "437",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "438",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "439",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "98"
+        },
+        {
+            "id": "440",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "441",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "442",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "443",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "444",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "445",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "96",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "446",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "447",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "448",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "449",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "99"
+        },
+        {
+            "id": "450",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "451",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "452",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "453",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "454",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "455",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "456",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "457",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "458",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "459",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "460",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "461",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "462",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "463",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "97",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "464",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "465",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "466",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "467",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "468",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "469",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "470",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "471",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "472",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "473",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "474",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "475",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "476",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "477",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "478",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "479",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "480",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "481",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "98",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "482",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "483",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "484",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "485",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "486",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "487",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "488",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "489",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "490",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "491",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "492",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "493",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "494",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "495",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "496",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "497",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "498",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "499",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "99",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "500",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "501",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "502",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "503",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "504",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "505",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "506",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "507",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "508",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "509",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "510",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "511",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "512",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "513",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "514",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "515",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "516",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "517",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "518",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "519",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "520",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "521",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "522",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "523",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "524",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "525",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "526",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "527",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "528",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "529",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "530",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "531",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "532",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "533",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "534",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "535",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "536",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "537",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "538",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "539",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "540",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "541",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "542",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "543",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "544",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "545",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "546",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "547",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "548",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "549",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "550",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "551",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "552",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "553",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "554",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "555",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "556",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "557",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "558",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "559",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "560",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "561",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "562",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "563",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "564",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "565",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "566",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "567",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "568",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "569",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "570",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "571",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "572",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "573",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "574",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "575",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "576",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "577",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "578",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "579",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "580",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "581",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "582",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "583",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "584",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "585",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "586",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "587",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "588",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "589",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "590",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "591",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "592",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "593",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "594",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "595",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "596",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "597",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "598",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "599",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "600",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "601",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "602",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "603",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "604",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "605",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "606",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "607",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "608",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "609",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "610",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "611",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "612",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "613",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "614",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "615",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "616",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "617",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "618",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "619",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "620",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "621",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "622",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "623",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "624",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "625",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "626",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "627",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "628",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "629",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "630",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "631",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "632",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "633",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "634",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "635",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "636",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "637",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "638",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "639",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "640",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "641",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "642",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "643",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "644",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "645",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "646",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "647",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "648",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "649",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "650",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "651",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "652",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "653",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "654",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "655",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "656",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "657",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "658",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "659",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "660",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "661",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "662",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "663",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "664",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "665",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "666",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "667",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "668",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "669",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "670",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "671",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "672",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "673",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "674",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "675",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "676",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "677",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "678",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "679",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "680",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "681",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "682",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "683",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "684",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "685",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "686",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "687",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "688",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "689",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "690",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "691",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "692",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "693",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "694",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "695",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "696",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "697",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "698",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "699",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        },
+        {
+            "id": "700",
+            "atk_rate": "100",
+            "def_rate": "100",
+            "armor_rate": "100",
+            "armor_piercing_rate": "100",
+            "dodge_rate": "100",
+            "night_view_rate": "100"
+        }
+    ]
+}
