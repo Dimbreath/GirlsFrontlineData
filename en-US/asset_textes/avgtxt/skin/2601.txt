@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BGM>GF_Memorial</BGM><BIN>82</BIN>:In the Griffin dorms. +S.A.T.8 is sitting at her desk, going through her checklist item by item.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Participants... No problem there. +Special costumes for the festival... Hmm, all done. +Next is...
+()||:...Click +...A comms request.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Oh, Miss Kalina!
+SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||:<color=#00CCFF>S.A.T.8, are you busy?</color> +<color=#00CCFF>The stuff you applied for is ready.</color>
+SAT8(0)<Speaker>S.A.T.8</Speaker>;NPC-Kalin(0)||:Fantastic! Thanks a bunch, Miss Kalina.
+SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||:<color=#00CCFF>Don't mention it, it hasn't been used in a long time anyway.</color> + <color=#00CCFF>However, some of the bulkier old equipment hasn't been moved away, so make sure you leave them alone when you're using the space...</color> +<color=#00CCFF>Also, about the Commander...</color>
+SAT8(0)<Speaker>S.A.T.8</Speaker>;NPC-Kalin(0)||<黑点1>:I understand. Don't worry, Miss Kalina. +I'll swear everyone to secrecy and tell them not to touch anything.
+()||<黑点2>:...Transmission terminated.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Hmm...that's the venue settled as well. +All that's left is the props and tools...which have all been procured. +Lovely, everything is ready! Now we just have to wait for Halloween...
+SAT8(0)<Speaker></Speaker>||:Having gone through her entire list, S.A.T.8 lets out a long sigh.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:At last, all done. +I didn't expect organizing a small event to be such hard work... I've got some new-found respect for the Dolls who put together our previous events. +Still...
+SAT8(0)<Speaker></Speaker>||:She stacks everything on her desk into a tidy pile and smiles faintly.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||<黑屏1>:I managed the planning and preparations of this event all by myself. +That should make me a capable and independent Doll, right?
+()||<黑屏2><黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:...On the night of Halloween. +Despite S.A.T.8's careful preparations, unexpected things still ended up happening.
+SAT8(4)<Speaker>S.A.T.8</Speaker><Shake>||<黑屏2><BIN>96</BIN>:Ugh...what in the world is going on?! What is this place?! +And where is everybody...? How did this happen?!!
+BrenMK(2)<Speaker>Bren</Speaker>||<黑点1>:S.A.T.8, calm down! +I'm Bren, I'm standing right next to you!
+()||<黑点2><BIN>97</BIN><Night>:... +Once S.A.T.8 finally gets a grip, she starts searching for the exit with Bren in this cyberspace.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<BGM>BGM_Room</BGM>:<color=#A9A9A9>(First I freaked out because of some ghost story, now I got lost in some unknown cyberspace.)</color> +<color=#A9A9A9>(I'm supposed to be the organizer yet I lost my composure... Bren must be really mad...)</color> +<color=#A9A9A9>(Hmm...)</color> +<color=#A9A9A9>(This silence is getting awkward. Maybe I should make some conversation.)</color>
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<BGM>BGM_Room</BGM>:This is a huge theater, isn't it?
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Indeed.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||<震屏>:...Whoa!
+SAT8(4);BrenMK(2)<Speaker></Speaker>||:Bren grabs hold of S.A.T.8, who almost tripped.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Are you alright?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:I'm fine... Just tripped on some pumpkin decoration. +Shouldn't have brought so many with me... +But there's no way I could know beforehand, is there? Ahaha...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Say...are you sure you're fine? +I expect a Griffin elite to react more calmly in such a situation.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:Sorry for the trouble... I'll try my best to keep calm.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<黑点1>:<color=#A9A9A9>(Sigh, why did I even make so many pumpkin decorations...? Now they're getting in the way.)</color> +<color=#A9A9A9>(Bren must be really angry. It's all my fault...)</color> +<color=#A9A9A9>(Looks like I still have a ways to go to becoming an independent Doll...)</color>
+()||<BGM>BGM_Empty</BGM><黑点2>:...A few minutes later.
+()||<BGM>BGM_Danger</BGM>:At the end of the hallway, S.A.T.8 and Bren see something they have never seen before. +Those entities are covered in strange colors – almost like half-mixed paint – and their forms keep twisting and writhing. +Despite being semi-translucent phantasms, they emit a low but piercing noise that's decidedly not human. +Even with her hands over her ears, the noise is transmitted directly into S.A.T.8's neural cloud.
+BrenMK(2)<Speaker>Bren</Speaker>||:You're right, this looks really bad...
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:Electronic...ghosts...
+BrenMK(2)<Speaker>Bren</Speaker>||:Run, S.A.T.8! They're coming!
+()||:The electronic ghosts come charging towards Bren and S.A.T.8. Bren tries to fend them off while dragging S.A.T.8 down the dark hallway.
+BrenMK(2)<Speaker>Bren</Speaker>||:Unfortunately, it would seem that you called it.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:I...I'm sorry... +I'll take full responsibility and try to get us out of this!
+BrenMK(2)<Speaker>Bren</Speaker>||<黑点1>:It's partly my fault too... +In any case, just leg it for now. Who knows what's going to happen if they catch up with us!
+()||<黑点2>:... +The two Dolls fight their way back down the hallway.
+BrenMK(2)<Speaker>Bren</Speaker>||:S.A.T.8, behind you!
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:Oh...crap!
+()||:...Click.
+Fr FAMAS()||:<color=#00CCFF>Bren! S.A.T.8! Where are you?!</color> +<color=#00CCFF>Do you copy?!</color>
+()||:A transmission comes in out of nowhere. It soon grows fuzzy and dissolves into a burst of static.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:Bren, did you hear that? Just now it...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:I heard it. It sounded like someone was calling us.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:That signal seems to be from Fr FAMAS. She isn't part of this event. +Maybe our disappearance has been noticed! Someone will probably come to our rescue soon!
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||<黑点1>:I sure hope so.
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>96</BIN>:S.A.T.8 and Bren open the door at the end of the hallway.
+BrenMK(2)<Speaker>Bren</Speaker>||<BGM>BGM_Brain</BGM>:...We're back at the theater?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:It LOOKS like the same theater, but our coordinates are definitely different.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:It doesn't seem like there are any ghosts here.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:That's great, then let's get some rest here. I'll try to find the exit.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:...Thanks.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:It's no big deal, we're both from Griffin, after all...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Right...
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:Okay, then please keep an eye on the surroundings.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Will do.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:<color=#A9A9A9>(I can't afford to mess up anymore! I must get Bren safely out of here.</color> +<color=#A9A9A9>(Right, browsing database...)</color> +... +<color=#A9A9A9>(Where can I find a node that'll allow us to disconnect...?)</color>
+BrenMK(2)<Speaker>Bren</Speaker>||:S.A.T.8, they're coming!
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<BGM>BGM_Empty</BGM>:What?!
+()||<BGM>BGM_Boss</BGM>:A large number of electronic ghosts come through the walls of the theater and surround them both.
+BrenMK(2)<Speaker>Bren</Speaker>||:Dammit, there are so many of them! +S.A.T.8, have you found the exit?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:N-not yet...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:...Then we'll have to force our way through. Let's get to somewhere safe first!
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:But even if we manage to give them the slip, it'll only be temporary; they always find us in the end. +Is there some other way...
+SAT8(4)<Speaker></Speaker>;BrenMK(2)||:S.A.T.8 looks around and suddenly notices that several ghosts have stopped next to a pile of pumpkin decorations.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:Don't tell me...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:S.A.T.8, have you got an idea?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:They seem to have a thing for pumpkins. +Bren, take this pumpkin and try throwing it!
+BrenMK(2)<Speaker>Bren</Speaker>||:Tsk... This feels a little stupid but it's better than nothing. +Here, a pumpkin for you! Go!
+BrenMK(2)<Speaker></Speaker>||:Bren lifts up one of S.A.T.8's pumpkin decorations and throws it far, far away. +The ghosts closing in on them change direction and go charging after the pumpkin.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<黑点1>:Great, draw them away just like that!
+()||<BIN>9</BIN><黑点1><BGM>BGM_Empty</BGM>:... +With S.A.T.8's pumpkin stratagem, the two Dolls manage to disperse the mob of electronic ghosts that had them surrounded. 
+()||<黑点2><BIN>88</BIN>:S.A.T.8 and Bren seize the chance and leave the theater. They end up inside a warehouse-like structure.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:This looks like a good place to resume my search for an exit. +My processing capacity is limited...so this may take a while.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:That's fine... We aren't really pressed for time at the moment.
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||<BGM>BGM_Moon</BGM>:Right, these...
+SAT8(4)<Speaker></Speaker>;BrenMK(2)||:S.A.T.8 takes off the remaining pumpkin decorations on her and puts them all into a box nearby.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:What, aren't you looking for a way out?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:I've already started the search. +I just thought...you might get a bit bored during the wait... +So it might be a good idea to carry out the rest of the event right here.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:...Why don't you just focus on your job?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:I'm already pushing my electronic warfare module to its limit, you know! This is the best I can do.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:You elite Dolls are so willful... +Fine, do as you like. I suppose you won't be able to concentrate if I don't let you continue, isn't that right?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:Heheh... I mean, we're safe for the moment and there's nothing else to do. +So if we go by the order, I'm the next one to tell a ghost story.
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Is it really okay for someone scared of ghosts to tell a ghost story?
+SAT8(4)<Speaker>S.A.T.8</Speaker>;BrenMK(2)||:Hey, don't underestimate me! +I came fully prepared!
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||<BGM>BGM_Empty</BGM>:Alright, then show me how prepared you are.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||<BGM>BGM_NightOPS</BGM>:Right, so I'm going to tell a story about an island... +Once there was an island. When the humans had a plague, the infected people would be sent to that island for isolated treatment. +During the years of the plague, those who lived on the shore of the mainland could hear the screams coming from the island even though it was miles away! +Those screams seemed to traverse impossible distances, going straight into people's heads...
+SAT8(4)<Speaker>S.A.T.8</Speaker><Shake>||:... +<color=#A9A9A9>(Hold on... The ghosts we came across just now made that sort of noise as well...)</color>
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:Uh... S.A.T.8, you're squishing that pumpkin in your hand.
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:I-I haven't finished yet! +The island was forgotten after the end of the epidemic... +Until many years later, when a curious filming crew of a TV show about paranormal activities visited the island. +They live streamed their adventures there but then the audience realized that the crew were disappearing one after the other... In the end, even the live stream got cut off. +From then on, none of them have been seen ever again...
+SAT8(4);BrenMK(2)<Speaker>Bren</Speaker>||:S.A.T.8, you don't look so... +S.A.T.8? S.A.T.8!
+SAT8(4)<Speaker>S.A.T.8</Speaker>||:...Arghhhhhh!
+BrenMK(2)<Speaker>Bren</Speaker>||<黑屏1>:Calm down, S.A.T.8! +Sheesh... How could anyone freak out over their own ghost story?
+()||<黑屏2><黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:... +After calming down once again, S.A.T.8 finds an exit out of cyberspace. +The two Dolls return to reality safely.
+()||<黑屏2><黑屏1><BIN>129</BIN>:...On All Hallow's Day.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||<BGM>GF_Memorial</BGM><黑屏2>:...Phew, all done. +As per the plan, none of the remaining pumpkins have been wasted – they've all been made into pastries. +Sigh, that's the only part of the event that actually went according to plan. +Guess I'll treat everyone to these for the trouble last night...
+()||<黑点1>:S.A.T.8 places the pumpkin pastries into her bag and leaves the kitchen.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||<黑点2><BIN>18</BIN>:They should all be at the café right now. +Bren is probably there as well? I wonder if she told anyone about what happened yesterday... +Sigh, getting spooked by my own ghost story. How embarrassing...
+()||<黑点1>:S.A.T.8 heads over to the café with a heavy heart.
+()||<黑点2>:...At the entrance of the Griffin café.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:No matter what happens, I'll have to face it. +Show some courage as a mature Doll!
+()||<黑点1>:S.A.T.8 gives herself a pep talk and pushes open the café door.
+Commander()||<黑点2><BIN>87</BIN>:Oh, it's you, S.A.T.8. What took you so long?
+SAT8(0)<Speaker>S.A.T.8</Speaker><Shake>||:C-C-C-C-C-C-Commander?! +W-w-w-w-what are you doing here?!
+Commander()||:Uh...well, I just came here for my break and ended up chatting with the Dolls here. +They told me you've organized a little celebration for the festival here.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:<color=#A9A9A9>(Great, looks like the Commander is only here by coincidence.)</color> +<color=#A9A9A9>(I hope no one has told the Commander about yesterday...)</color> +Uh... I did organize this. Just wanted to prepare some snacks for everyone, that's why I got held up. +Here's my homemade pumpkin pie. Would you like to try some, Commander?
+Commander()||:Sure, let me taste this... Oooh, it's delicious!
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:I'm glad you like it.
+Commander()||:As expected of S.A.T.8. You're always so caring when it comes to your friends.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:D-don't mention it... I'm just doing what I can.
+Commander()||:Anyway, I gotta go, so take good care of the girls in there, okay? +I'm sure you can help them celebrate this festival without making a mess.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:S-sure... I won't let you down!
+()||:...The Commander is gone.
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Ugh... It's kinda embarrassing to have the Commander trust me so much. +I'm not actually that mature or dependable... +But to live up to the Commander's trust, I'd better work hard and do my best! +Alright, then let this little Halloween party begin!
+()||<黑屏1>:S.A.T.8 strides confidently into the café.
+SAT8()||<BIN>9</BIN><黑屏2><黑屏1>:Guys, I've brought these Commander-certified pumpkin pies for you! +Let's all have some together!

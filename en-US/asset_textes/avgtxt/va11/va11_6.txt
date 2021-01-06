@@ -1,0 +1,155 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN><BGM>m_va_hopes_and_dreams</BGM>:Good evening, Boss... +(There's someone I haven't seen before.)
+Dana(0)<Speaker>Dana</Speaker>||:Hi, Jill. +This is a Doll friend of mine I met on the way, M16A1.
+Dana(0);M16(0)<Speaker>M16A1</Speaker>||:Good evening. You would be Miss Jill, am I correct?
+吉尔()<Speaker>Jill</Speaker>||:Good evening. Should I address you as M16A1?
+Dana(0);M16(0)<Speaker>M16A1</Speaker>||:Just call me M16. +...Is there something on my face?
+吉尔()<Speaker>Jill</Speaker>||:No, my apologies... +I was just curious about a Doll who could be the Boss' friend.
+Dana(0)<Speaker>Dana</Speaker>;M16(0)||:Hey, don't make me sound like I have no friends.
+吉尔()<Speaker>Jill</Speaker>||:But there must have been a strange encounter involved in all of this, right?
+Dana(0);M16(0)<Speaker>M16A1</Speaker>||:Oh, we taught a couple of armed robbers a lesson at a street corner.
+Dana(0)<Speaker>Dana</Speaker>;M16(0)||:One punch for each of them.
+Dana(0);M16(0)<Speaker>M16A1</Speaker>||:Er... I used my legs.
+吉尔()<Speaker>Jill</Speaker>||:... +Did they get to fight back?
+Dana(0)<Speaker>Dana</Speaker>;M16(0)||:Of course not, Jill. I'm not a thug, I've been trained. +As for M16 here, she's a combat veteran.
+吉尔()<Speaker>Jill</Speaker>||:In any case, I'm glad that you're fine. +Will you be staying here, Miss M16?
+Dana(0)<Speaker>Dana</Speaker>;M16(0)||:Do you mind keeping her company for a bit? I still need to fill in a few forms for the BTC, and then I'm going out to drink with M16. After all, opportunities like these don't come round often.
+吉尔()<Speaker>Jill</Speaker>||:Of course I don't mind, Miss M16. Just give me a bit to shift into working mode.
+Dana(0);M16(0)<Speaker>M16A1</Speaker>||<黑屏1>:I'll wait.
+吉尔()<Speaker>Jill</Speaker>||<BIN>9</BIN>:(Let's pick appropriate background music so this old soldier doesn't end up looking down on this bar.) <c>Every Day is Night<c>Snowfall<c>Welcome To Va-11 Hall-A
+()||<分支>1</分支><BGM>m_va_every_day_is_night</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_snowfall</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN>:Time to serve mix and change lives... +Dammit, I got it wrong again.
+M16(0)<Speaker>M16A1</Speaker>||:What did you get wrong?
+吉尔()<Speaker>Jill</Speaker>||:It should have been "Mix drinks and change lives". +It's a greeting we were trained to use when we start our shifts...but that's not important.
+M16(0)<Speaker>M16A1</Speaker>||:You seem distracted. +Is it because I'm friends with your boss?
+吉尔()<Speaker>Jill</Speaker>||:What?
+M16(0)<Speaker>M16A1</Speaker>||:My apologies, I wasn't thinking when I said that.
+吉尔()<Speaker>Jill</Speaker>||:You seem better at reading people's faces than other Dolls.
+M16(0)<Speaker>M16A1</Speaker>||:I don't like to toot my own horn, I'm just stating the facts objectively— +However many Griffin Dolls you've served this month, my accumulated combat experience is at least equal to the sum of all of theirs.
+吉尔()<Speaker>Jill</Speaker>||:Is that...true?
+M16(0)<Speaker>M16A1</Speaker>||:Haha, of course not! Just that girl lying on the sofa over there is on par with me.
+吉尔()<Speaker>Jill</Speaker>||:You know her?
+M16(0)<Speaker>M16A1</Speaker>||:She's 416. We're old acquaintances. +If you want to hear stories from an old vet, then give me something to drink.
+吉尔()<Speaker>Jill</Speaker>||:What would you like to drink?
+M16(0)<Speaker>M16A1</Speaker>||:What do you think? What do I look like I would like to drink?
+吉尔()<Speaker>Jill</Speaker>||:Frankly speaking, a question like that would be annoying if it came from another customer. +But in your case...I have to say that I'm very curious.
+M16(0)<Speaker>M16A1</Speaker>||:Given my attire, it shouldn't be hard to guess.
+吉尔()<Speaker>Jill</Speaker>||:A Brandtini. Do you want a Brandtini?
+M16(0)<Speaker>M16A1</Speaker>||:Aha! I love Brandtinis! +But I've had a lot of Brandtinis over the past two days, so that's not what I want the most tonight. +I want something stronger, like you were going "take this" to me.
+吉尔()<Speaker>Jill</Speaker>||:I understand. A moment, please.
+吉尔()<Speaker>Jill</Speaker>||:(I should give her stomach a "take this", like a Gut Punch.) +<va11><perfect>13<good>12,19,22,23
+M16(0)<Speaker>M16A1</Speaker>||<分支>1</分支>:Ah! This is great, that's how it should feel! +This is the kind of drink that you should have after legally bashing someone, not a sweet fizzy fruit juice!
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:While I think asking this now might be a little late...after you get drunk, do you get hallucinations and then rush out of the bar and onto the street?
+M16(0)<Speaker>M16A1</Speaker>||<分支>1</分支>:That bad? Don't worry, we're far from that point.
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:(Usually when humans say that, it's a sign that they're drunk. Fortunately she's a Doll... I hope that's a good thing...)
+M16(0)<Speaker>M16A1</Speaker>||<分支>2</分支>:Mm! This is good, though it doesn't feel like it hits hard enough.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:You're a...er...
+M16(0)<Speaker>M16A1</Speaker>||<分支>2</分支>:A masochist? No! Of course not! +I just want a little excitement to soften the regret of not being able to beat the crap out of a bad guy.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:(If you really put your fist through a perp's jaw, it wouldn't just be a little excitement.)
+吉尔()<Speaker>Jill</Speaker>||:Alright, old soldier, tell me your story.
+M16(0)<Speaker>M16A1</Speaker>||:Haha, I'm not actually an old soldier or anything. +If you count up the time from the moment I was born into this world until now, I'd only be a teenage girl. It's just that I've been on the frontline ever since I opened my eyes.
+吉尔()<Speaker>Jill</Speaker>||:A girl's frontline, I understand. +But according to what I know, a Lilim's age isn't determined by when they left the factory, at least.
+M16(0)<Speaker>M16A1</Speaker>||:About that, well, we operate along similar lines. +I'd already been through far more simulator training than most Griffin Dolls before I even left the factory, and my neural cloud was programmed to grow faster. +Going by that standard, I ought to be an old lady.
+吉尔()<Speaker>Jill</Speaker>||:You don't seem to mind being called that. Many women would blow up if they heard it.
+M16(0)<Speaker>M16A1</Speaker>||:While saying this might be a little provocative, my face is never going to age.
+吉尔()<Speaker>Jill</Speaker>||:Well done, Miss M16. Now all the women are going to blow up, myself included.
+M16(0)<Speaker>M16A1</Speaker>||:Haha, then break my face, rip out my hair, and throw me in the gutter so all my joints rust solid. +But unfortunately, I'll still be me, and I've got a hundred ways to make a living even without my looks. +Only people who are content to let themselves stagnate will truly get old, so I'll be young forever.
+吉尔()<Speaker>Jill</Speaker>||:I understand why you and the Boss can get along so well. +I have to say, M16...it really makes me a little jealous.
+M16(0)<Speaker>M16A1</Speaker>||:You and your Boss have a good relationship too, I can tell. She thinks highly of you.
+吉尔()<Speaker>Jill</Speaker>||:I know, she's the world's best Boss. +But it's because she's too good... You know what I mean?
+M16(0)<Speaker>M16A1</Speaker>||:I know, I know, my previous team leader was someone like you. +Lost, shy, unable to deal with the problem once she ran into an extreme situation... She always regretted her choices. +Don't worry too much. You need to believe that you're worthy of her kindness. Cherish it and the person who gave it to you, don't doubt it and worry that you'll lose it someday... +Because you really will lose it someday...and that day will be a test of whether or not you really deserve it.
+吉尔()<Speaker>Jill</Speaker>||:...
+M16(0)<Speaker>M16A1</Speaker>||:I'm sorry, I've said too much. I wasn't referring to you, I was just being a little...sentimental.
+吉尔()<Speaker>Jill</Speaker>||:No...perhaps I should have met you earlier.
+M16(0)<Speaker>M16A1</Speaker>||:Haha, then we could only have met on the battlefield.
+吉尔()<Speaker>Jill</Speaker>||:I can't imagine myself on the battlefield. +Screaming "Time to mix drinks and change lives" with bullets and shells all around me? The BTC would have to pay me a lot more.
+M16(0);Stella(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:You're going onto the battlefield? Then what about this bar?
+吉尔()<Speaker>Jill</Speaker>||<BGM>m_va_youve_got_me</BGM>:There's still Gillian. He said he'd be back soon yesterday. +Good evening, Stella.
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Good evening, Jill. +... +May I know who this is?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Griffin Tactical Doll M16A1. Good evening.
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Good evening, I'm Stella Hoshii. It's an honor to meet you. +Ah, I'm sorry, I hope what I did just now didn't offend you...
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:It's fine, I noticed it too, right?
+吉尔()<Speaker>Jill</Speaker>||:(I'd bet Fore's dinner tray that they were talking about each others' right eyes.)
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:I apologize for the awkwardness. Can I get you a drink?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Thanks, but no thanks. I just had a stiff one, and I'll be going drinking again later, so I need to space myself. +Go on and drink. If you don't think I'm interrupting you, I'll just wait here until the boss comes out...
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:No, of course I don't mind, let's sit together. +Can I have a Bleeding Jane, Jill?
+吉尔()<Speaker>Jill</Speaker>||:Yes, ma'am.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give Stella a Bleeding Jane. When was the last time she ordered this...)+<va11><perfect>3
+M16(0);Stella(0)<Speaker>Stella</Speaker>||<分支>1</分支>:Thank you very much. Your execution is perfect as ever.
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Just doing my job.
+吉尔()<Speaker>Jill</Speaker>||:So, are you waiting for Sei tonight?
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Yes, I arranged to go to the Griffin base with her.
+吉尔()<Speaker>Jill</Speaker>||:At a time like this? What kind of business do you have which has to be discussed in the middle of the night? +Er...if it's not convenient to talk about that...
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:No, this isn't business. +In truth, we're just going to meet a few *Kira* Miki fans among the Griffin Dolls. This is simply a little offline meeting.
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:I'm guessing you mean K2 and the others.
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Yup! Do you know them?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Their band is quite famous in Griffin, and they've been around for a few years now. +They covered a *Kira* Miki song during their last concert, let me think, it was one of the famous ones...
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:It must have been "Shine Spark"! +Jill, lend me the bar's speakers!
+吉尔()<Speaker>Jill</Speaker>||<BGM>m_va_shine_spark</BGM>:Right, right, hang on a bit.
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:This is the one, right?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Yes, that's the one! Did you attend the concert?
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Of course! No Earthling or android should miss a *Kira* Miki concert!
+吉尔()<Speaker>Jill</Speaker>||:(Good thing I attended one of them with her and Sei, otherwise I'd have been eliminated from the classification of "Earthling".)
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Ah... I really want to scream the catchphrase now, this song really takes me back!
+吉尔()<Speaker>Jill</Speaker>||:But you won't really do that, right?
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:Of course not. This isn't a real concert, after all. +Although I do look forward to meeting all those *Kira* Miki fans afterwards. +Miss M16, I've never had personal dealings with Griffin Dolls. May I ask if there's anything that I should keep in mind?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Did you notice anything when you were talking to Miss Jill? +If you didn't, then there's nothing to worry about. The second-generation Tactical Dolls that Griffin recruits may seem a little backwards when it comes to technology, but they don't have any hidden dangers in them. +We're a security PMC; safety is our stock in trade, right?
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:You've definitely put the city at ease, and for that I thank you.
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:I also need to thank your Prime Minister for the big paychecks you're writing for us. +Leaving that aside, I've got a pretty good impression of this city.
+吉尔()<Speaker>Jill</Speaker>||:You like it here?
+M16(0)<Speaker>M16A1</Speaker>||:Why do you look so surprised, Miss Bartender? +I've been on the battlefield until recently. I'm happy enough that I can see so many living people and robots on the streets who aren't pointing guns at me.
+Sei(0)<Speaker>???</Speaker>||:I'm sorry, am I late?
+Stella(0)<Speaker>Stella</Speaker>;Sei(0)||:Seiiiiiiiiii—! You're here at last!
+M16(0)<Speaker>M16A1</Speaker>;Sei(0)||:Heh, another one? If I'm not wrong, the White Knights should have been disbanded.
+吉尔()<Speaker>Jill</Speaker>||:Why are you wearing your White Knight armor again, Sei?
+Stella(0)<Speaker>Stella</Speaker>;Sei(0)||:I asked her to wear it. The people from 16Lab wanted to study it, so I found a way to get someone to repair a suit.
+Sei(0)<Speaker>Sei</Speaker>||:Good evening, Miss Jill, and you would be...
+M16(0)<Speaker>M16A1</Speaker>;Sei(0)||:Griffin Tactical Doll M16A1. Good evening, Miss Soldier.
+M16(0);Sei(0)<Speaker>Sei</Speaker>||:Good evening, Miss M16. My name's Sei P. Asagiri. +Unfortunately, I'm not a soldier anymore. I'm now Stella's personal bodyguard.
+Stella(0)<Speaker>Stella</Speaker>;Sei(0)||:...And best friend.
+M16(0)<Speaker>M16A1</Speaker>;Sei(0)||:Ah... well, this really is the most reassuring thing in the world, isn't it?
+吉尔()<Speaker>Jill</Speaker>||:Would you like something to drink, Sei?
+Sei(0)<Speaker>Sei</Speaker>||:We're in a bit of a rush, but since we're going to a place that's full of Dolls, I might need something to bolster my courage.
+吉尔()<Speaker>Jill</Speaker>||:While I think you'd prefer something sweeter and colder, I'd recommend a Grizzly Temple for raising your spirits.
+Sei(0)<Speaker>Sei</Speaker>||:I don't quite like feeling dizzy...but tonight's special, so let's go with that. I should be able to handle it!
+吉尔()<Speaker>Jill</Speaker>||:(Let's make a Grizzly Temple for Sei. I haven't seen her dressed as a White Knight for a long time, I'm so glad she managed to make it through that trying period.) +<va11><perfect>12<good>13,19,22,23
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here you go. Cheer up, Sei.
+Sei(0)<Speaker>Sei</Speaker>||<分支>1</分支>:This drink...it goes down just as hard as they said it would on the net. Good thing I'm not that picky.
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:But it managed to cheer you up, right?
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:Would you like to try this? I'm sure it'll perk you right up too.
+Sei(0)<Speaker>Sei</Speaker>||<分支>2</分支>:It just tastes bitter to me, but I'm definitely feeling energized...
+Sei(0)<Speaker>Sei</Speaker>||:Stella, we only have a few more minutes to chat before we have to go.
+Stella(0)<Speaker>Stella</Speaker>||:Alright, then may I ask a sensitive question, Miss M16? You don't have to answer me, of course. +If...you were faced with a human criminal, what would you do?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:I already dealt with one of those today. I beat up a knife-wielding human robber. +However, I'd have killed him if I were ordered to. While situations like that are rare, they're often life-or-death struggles on the battlefield.
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:And if a human were trying to harm you?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:Are you thinking of the "Three Laws of Robotics"?
+M16(0);Stella(0)<Speaker>Stella</Speaker>||:I know it's just a story, but I'm still curious if you're the same as Lilims.
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:In Griffin's case, we have more freedom, but things are also more complicated. +My unit allows me to respond immediately upon taking damage without having to worry about the consequences. +I'm a soldier before I'm a Doll, and my neural cloud's a little special, so backing it up isn't so easy.
+吉尔()<Speaker>Jill</Speaker>||:So you're saying...you're special, even in Griffin?
+M16(0)<Speaker>M16A1</Speaker>;Stella(0)||:That's right. Objectively speaking, I'm more fragile than the average Doll, because it's very hard to back up my memories.
+M16(0);Sei(0)<Speaker>Sei</Speaker>||:Miss M16... May I ask if you fear death more than other Dolls?
+M16(0)<Speaker>M16A1</Speaker>;Sei(0)||:Death would be a release for me, everyone... after all, Dolls don't have the right to terminate themselves.
+M16(0);Sei(3)<Speaker>Sei</Speaker>||:I'm sorry...
+M16(0)<Speaker>M16A1</Speaker>;Sei(3)||:Haha! No, no, I should be the one apologizing, I was just making a joke. This topic is a little heavy, after all. +Right, time to get serious... I do fear it, of course, but not enough that I don't dare to face it. +That's because I know there are things in this world more valuable than my life, or perhaps I should say that I live for them.
+M16(0);Sei(0)<Speaker>Sei</Speaker>||:Do you really believe that?
+M16(0)<Speaker>M16A1</Speaker>||:At first, it was an order... +Later on... I'm not too sure either. +It often turns out that you get used to your job first and then you start liking it, not the other way around.
+Stella(0)<Speaker>Stella</Speaker>||:Still, I want to convey my sincerest respect to you, Miss M16.
+Dana(0)<Speaker>Dana</Speaker>||:Ah... I finally handed in all those damn forms. +Hey, Stella, Sei, good evening!
+Sei(0)<Speaker>Sei</Speaker>||:Ah, good evening. We were just about to leave for the Griffin base.
+Stella(0)<Speaker>Stella</Speaker>||:I suddenly feel like...we can actually go together, can't we? +Dana, Jill, M16, would you like to go to the Griffin base and look around? It's just an offline party.
+M16(0)<Speaker>M16A1</Speaker>||:So I'd be getting a free ride? Why not?
+Dana(0)<Speaker>Dana</Speaker>||:More Griffin Dolls? Why not?
+吉尔()<Speaker>Jill</Speaker>||:I'll pass, I'm a little tired today. I'll head back after I clean up the place.
+Stella(0)<Speaker>Stella</Speaker>||:What a shame...but you'll still have more chances later on. When the time comes we can make it a more official thing.
+Dana(0)<Speaker>Dana</Speaker>||:Jill, can I leave locking the place up to you?
+吉尔()<Speaker>Jill</Speaker>||:Of course, but what should we do about the Doll on the sofa? I thought you were here to collect your friend, M16.
+M16(0)<Speaker>M16A1</Speaker>||:Someone will take care of her. I'm just going to take a picture as a memento.
+Stella(0)<Speaker>Stella</Speaker>||:We should head out. Goodnight, Jill.
+Sei(0)<Speaker>Sei</Speaker>||:Goodnight. See you next time.
+Dana(0)<Speaker>Dana</Speaker>||:Bye, Jill. Take care on your way back.
+M16(0)<Speaker>M16A1</Speaker>||:I'm glad to have met you, Miss Jill. +Incidentally, when 416 wakes up, tell her I came around. That'll definitely get her mad.
+()<Speaker>Jill</Speaker>||<黑点1>:Then I probably won't, it's too dangerous. +Goodnight, everyone, and have fun.
+吉尔()<Speaker>Jill</Speaker>||<黑点2>:...+Next up... I should probably tidy up and go home... +This 416 has been lying on the couch for a full two days and nobody's come to collect her, and we haven't even collected the accommodation fees and the fines for disturbing the peace during her drunken rampage... +Alright then... But she's sleeping like a Doll...so it should be okay to abandon her here...
+吉尔()<Speaker>Jill</Speaker>||<睁眼><黑屏1>:Wait a minute... I... Why do I feel so tired... +My brain feels like...it can't keep up... +I... +Dammit...I... +...

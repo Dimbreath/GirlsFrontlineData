@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>167</BIN><SE1>Alarm</SE1><SE2>Gunfight</SE2>:...
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Danger</BGM>:There are too many of them!
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Calculating... +The probability of our victory is below one percent - almost zero.
+AN94(4);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:They're sticking too close, we can't shake them off! Let's fight off this wave first!
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Even the two of us combined are no match against this number. You go first. I'll buy you time.
+AN94(4);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:That makes no sense! We're partners, even if only temporary ones! We go together!
+AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(5)||:She's incredibly adept at electronic warfare! If we stay together, she could easily attack both of us! +You're not registered in the Zener Network so they won't be able to detect you! I'll cover your escape, and you must report the situation to Ange once you make it out of here!
+AN94(2);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Stop talking about cover! Let's just run in separate directions! +It's practically a maze in here, they can't possibly seal off every path.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:I am to cover your retreat in the case of an emergency. That's what AK-12 said.
+AN94(4);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Is this really the time to bring up AK-12?!
+AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(5)||:I can backup my neural cloud, but you can't! +I won't just be sitting around waiting to be killed. I'll make my own escape once I've bought you enough time! +So just go!
+AN94(2);AR15Mod(4)<Speaker>ST AR-15</Speaker>||<SE1>RunStep</SE1>:Tsk... I'll be back for you. Don't die like this, AN-94!
+AN94(2)<Speaker></Speaker>||:With that, AR-15 turns and escapes into a certain alleyway. +In the face of a seemingly infinite stream of white monsters, AN-94 pulls the trigger without any hesitation.
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Abandoning your teammate just like that? +It's no use, no use at all! +"So the harsh things that unbearably populate it, don't break and destroy it." +You can't possibly escape the fate of becoming scattered parts.
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||<黑屏1><BGM>BGM_Empty</BGM>:No. +I will complete the mission...flawlessly...and return to her side. +That's why she must...make it out...with this piece of memory!
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑点2><黑屏1><SE1>RunStep</SE1>:They just won't give up... These tenacious bastards! +<color=#A9A9A9>Keep calm, AR-15... Call up the map saved inside my neural cloud.</color> +<color=#A9A9A9>Where am I...?</color> +<color=#A9A9A9>What's the best route to take...? I must compute this before I expend too much ammo!</color> +I just need a few more - no, just two more minutes...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BGM>BGM_Sad</BGM><黑屏2><BIN>41</BIN>:Well done. I'm sure AR-15 has already run off to somewhere pretty far by now? +Before the chase begins, we must first end this little game here.
+AN94(4)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||:(Pants heavily)
+AN94(4);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Your body is overheating so much you have to resort to taking deep breaths to cool yourself. You've done enough already. +Why won't you just lie down like a good, broken Doll? +"The universe tonight possesses the vastness of oblivion and the clarity of fever." Leave behind your body and go to sleep.
+AN94(4)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||<SE1>Select</SE1>:...
+AN94(4);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<SE1>Gunfight</SE1>:Whoa...! +That was close... I almost got hit. +You live up to your name as an Elite Doll! You won't stop struggling even in your current state.
+AN94(5)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||:Of...course... (Pants) +So long as I...can still operate, I will not...give up.
+AN94(5);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:You say that even in the face of imminent death? Now I'm starting to pity you. +Are you actually driven by something like a human heart? No, absolutely not. All you have is a mere inorganic vessel. +...Never mind. I have no interest in watching the tragic end of a trapped lamb. +Be a tribute to the beasts! "For you will be a wall of fire all around me, and you will be the glory in my midst!" +Be honored...then just be reduced to junk.
+AN94(5)<Speaker></Speaker>||:Mercurows turns around to leave.
+AN94(5)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>What should I do...? Where can I break through the encirclement...?</color> +<color=#A9A9A9>There are powerful combat units all around... Can I leap over them?</color> +<color=#A9A9A9>Calculating... No, my body is overheating. I need to cool down...</color>
+AN94(0)<Speaker></Speaker>||:The white enemies aim their weapons at AN-94, who's trapped right in the center of the group. +Amidst the uniform clang of metal, AN-94 readjusts her grip on her gun...
+AN94(0);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:Hmm?
+AN94(1)<Speaker>AN-94</Speaker>||:What...?! +Explosives? From the ceiling... What's going on? +Wait, that signal...
+AN94(1)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Frontline</BGM>:AN-94, can you hear me?
+AN94(1)<Speaker>AN-94</Speaker>||:Loud and clear. What are you doing up there?
+AN94(1)<Speaker>ST AR-15</Speaker>||:I'll tell you later. Jump! +I'll cover you, just try to get over here!
+AN94(1)<Speaker>AN-94</Speaker>||:Roger that!
+()<Speaker></Speaker>||<SE1>Explode</SE1><SE2>Battlefield</SE2>:Boom! Boom! Boom!
+()<Speaker></Speaker>||<黑屏1><SE1>RunStep</SE1><SE2>Explode</SE2>:Under the cover of the series of explosions, AN-94 makes it safely to AR-15's location. AR-15 pulls her in through the ventilation hatch in the ceiling.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2>:Didn't think there'd be a secret passage that leads up above this base. I used up all the explosives meant for destroying the Node... +They might not be enough to blow those trash cans to smithereens, but the high temperature in this dusty environment can overload their intricate insulation system... That should put them out of action.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:But then we won't be able to complete the mission...
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We can always just get more explosives. +As long as we can get out of here, we'll still have a chance to get the job done.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I can't believe it. I never calculated this possibility.
+AN94(4);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:This has nothing to do with calculations. It was all down to pure luck.
+AN94(3)<Speaker>AN-94</Speaker>;AR15Mod(2)||:I understand. You're talking from your experience as a senior.
+AN94(3);AR15Mod(2)<Speaker>ST AR-15</Speaker>||<黑屏1>:...Don't call me that. It sounds like mockery coming from you... +Anyway, I found the exit. Follow me. +We've got to get out of here before their reinforcements arrive!

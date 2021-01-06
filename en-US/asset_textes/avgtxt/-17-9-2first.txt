@@ -1,0 +1,54 @@
+()||<BIN>34</BIN><BGM>BGM_Empty</BGM>:...On the outskirts of the central server, at the Sangvis command post.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>34</BIN>:Agent, M4A1 has returned. She has already made contact with 404 at the central database.
+BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||<BIN>34</BIN>:This was not an unexpected move. +Rather, we were waiting for this. Do what you need to do.
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||<BIN>34</BIN>:Acknowledged. My forces are spreading out as per the original plan. +However, the strange thing is that M4A1 has left her comrades at the central database and her signal is making a lone breakout.
+BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<BIN>34</BIN>:...Abandoning her friends is abnormal behavior for M4A1.
+BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||<BIN>34</BIN>:It might be bait, but it's also an opportunity.
+BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<BIN>34</BIN>:I'll leave it to you. Whether or not it's a trap, I trust your judgment.
+BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<黑点1><BIN>34</BIN>:Any trap set by a few civilian Dolls would be a waste of effort. +Mastermind has ordered us to bring M4A1 back. This alone is of the highest priority.
+()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM><黑点2>:...M4A1 is currently breaking through the Sangvis encirclement by herself.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:It's one after another... +Looks like you don't intend to let me go, even when the Military is about to annihilate you.
+M4A1Mod(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<BIN>7</BIN><Night>:The Military is only a threat to you, and as it happens, Griffin has also been destroyed. +That makes me curious as to why you would choose to go at it alone, M4A1... +Did you think that doing so would draw my attention? Are you trying to save your other friends in this area?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;BOSS-7(0)||<BIN>7</BIN><Night>:...
+M4A1Mod(0);BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:It's alright if you keep quiet. Once I remove your arms and legs, all that remains will be your mouth. +At that point, I'll have plenty of time to wait for you to speak.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;BOSS-7(0)||<BIN>7</BIN><Night><黑点1>:... +(Not yet...) +(I haven't reached the designated location yet...) +(I need to keep heading forward... Just a little farther!)
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night><黑点2>:Checkmate. +In truth, I did not expect you to pick this corner as the place where you would meet your tragic, pitiful end. +M4A1, I am very glad that we will no longer need to keep harassing each other.
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Oh yes. +There's no need for that anymore. +I'm glad you were willing to accompany me all the way to the end of the line, Gager.
+BOSS-7(0)<Speaker>Gager</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:... +...What are you hiding, M4A1?!
+BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:...Click.
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<BIN>7</BIN><Night>:Enjoying your chat with M4, Gager? +Still, while you're enjoying yourself...don't forget your old friends~
+BOSS-7(0)<Speaker>Gager</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:404?! +You're still alive?
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Oh, don't look so surprised. +That's right, to celebrate our reunion, we've prepared some presents for you. +Please, don't be shy and accept them.
+BOSS-7(0)<Speaker>Gager</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:...What?! +The signals of the units behind me have vanished...but how?!
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Do you like it? +Alright, I won't disturb you, then. +Please hold on to that joy and continue your delightful conversation with M4.
+BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:—The transmission ends.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:H...how could this... +The units I left at the database... By those few people from 404...
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:What a tiny little being you are...on this battlefield...
+BOSS-7(0)<Speaker>Gager</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...I understand now. You found a way to fake your friends' signals. +Which means...the situation in the rear...or the fact that you're alone here now...it's all an illusion.
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Checkmate, Gager.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:Come off it. Even if you've got other Griffin Dolls hidden behind you, they won't save you from being cut to bits. +Right here! Right now! +Show me how your shoddy toy Dolls can stop me and my forces!
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Well, if shoddy toy Dolls can't stop something, why not let the pros handle it?
+()||<BIN>7</BIN><Night>:...Click Click— +...Beep, beep, beep. + ...Whirrrrr—!
+军方人形()<Speaker>Military unit</Speaker>||<BIN>7</BIN><Night>:Authentication complete. Awaiting orders.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:Abandoned military units... +No, it can't be... Something must have...gone wrong somewhere...
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Gentlemen, would you kindly... +Kill everything that moves.
+()||<BIN>7</BIN><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:The force-connected military units open fire in unison. +A few seconds later, the Sangvis main force pursuing M4 is utterly annihilated.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:(Coughs) Impossible... +I...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Still resisting, huh... +Now, tell me everything you know!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:There's no need for that, AR-15. +Has Intruder fled? ...Eh, forget it.
+()||<BIN>7</BIN><Night>:... +M4A1 walks in front of Gager.
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:What are you hoping for? +Griffin is no more, and even your Commander is receiving the personal attentions of Agent...
+()||<SE1>MachineGunBurst</SE1><BIN>7</BIN><Night>:...This is followed by the sound of a body hitting the ground.
+()||<BIN>7</BIN><Night>:...M4A1 opens fire and executes Gager.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Mission complete. +Task Force DEFY, gather and prepare to rendezvous with Squad 404.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Truth</BGM><BIN>7</BIN><Night>:...
+()||<BIN>7</BIN><Night>:There was neither satisfaction nor pleasure. +It was not revenge, more like a numb instinct.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night><黑屏1>:... +...Ugh... Not again...
+清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN><黑屏2>7</黑屏2>:SOP-II? M16? +...No, they are not what your heart truly desires.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>: I've said everything I can say to you already.
+清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN>:What you want...the only thing you want...is revenge. +You want to make the people who hurt you pay. +Finding your friends is nothing more than an excuse. +This is good... You're become more and more like your original self.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>9</BIN>:I don't care what I used to be, but as I am now, I have no more pity for you lot.
+清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN>:I have reconsidered your terms. +... + I hope this will now convince you to reconnect with her.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>9</BIN>:Humph... +That's more like it.
+()||<BIN>7</BIN><Night><黑屏2>:...M4A1 sneers coldly.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1><BIN>7</BIN><Night>:... +M4A1... What on earth...

@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><BGM>BGM_Danger</BGM><火花><黑屏2>:...Strongpoint No.3. The Commander finally managed to create an opening in the enemy blockade.
+HK416(0)<Speaker>416</Speaker>||:Now, move! Watch out and dodge the artillery fire!
+()||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+()||<震屏>:...BOOM!
+()||:...A shell exploded right next to 416.
+AK74U(0)<Speaker>AK-74U</Speaker>||:416!
+HK416(3)<Speaker>416</Speaker>||:Don't mind me! Carry out my order! Quick! +74U, what are you doing?!
+()||<SE1>RunStep</SE1>:...AK-74U grabs 416 and drags her behind cover.
+AK74U(0)<Speaker>AK-74U</Speaker>||:I decide how to execute your order. +Stay alive. Don't die.
+()||:...AK-74U catches up with Python and the others, and makes for the strongpoint.
+HK416(0)<Speaker>416</Speaker>||:...What a bunch of garbage. +No matter how I try to train them, I just can't turn them into 404...
+HK416(0)<Speaker>416</Speaker>||<关闭火花><黑屏1>:I suppose that's the difference in our levels of professionalism...
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Or perhaps...I should change a little...?
+Mk12(0)<Speaker>Mk 12</Speaker>||<BIN>85</BIN><SE1>Select</SE1><黑屏2>:Stop! Hold your fire! It's Griffin!
+M1928A1(0)<Speaker>Thompson</Speaker>||:Ohhhh, it's you! I thought—
+A91(0)<Speaker>A-91</Speaker>||:Don't you dare kick the bucket just like that, you still owe me a drink!
+M1928A1(0)<Speaker>Thompson</Speaker>||:I'm glad you remember!
+M1928A1(0)<Speaker>Thompson</Speaker>||<SE1>RunStep</SE1><黑屏1>:Hurry! Everyone out of the building! Follow Python and the others! Go!
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏1>:After all, this group of garbage... +...managed to do what I couldn't...
+()||<BIN>159</BIN><黑屏2><BGM>BGM_Empty</BGM>:...20 minutes later, at a temporary Griffin camp.
+M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Room</BGM>:Hey, so you're 416, eh?
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:Fräulein Thompson, nice to meet you.
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Is this the first time we've meet?
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:Of course?
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Indeed, I haven't heard of you before, but I've heard all about everything you did today. You're Griffin's hero.
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:A hero who spent the entire rescue mission skulking behind cover?
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:You whipped these rookies fresh out of IOP's factory into such good shape. That's a lot more impressive than crashing through enemy ranks all by yourself.
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:What did they do to deserve such generous praise from an ace like you?
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:They braved the enemy's artillery fire with no means of communication and came charging into the strongpoint to get us out of danger.
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:That's the least they could do, it was our objective, after all.
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:But they were disciplined and orderly throughout the process - not a single mistake. +If it weren't for your wealth of experience, 416, it would've been impossible to improve their coordination so much in just a few hours.
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:I am indeed no stranger to the battlefield, but this isn't the time for telling stories. +Or...are you that desperate to learn about me?
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Leave it for now, but I like that look in your eyes; I could use a partner like you in my next interrogation assignment. +Still, I'm just trying to express my gratitude. Griffin has nurtured a lot of reliable comrades-in-arms while I wasn't looking. +It's an honor to meet you. I hope we'll have more opportunities to work together in the future.
+HK416(0)<Speaker>416</Speaker>;M1928A1(0)||:I can't say for sure. It's entirely up to the organization I belong to. Maybe it'll never happen again.
+HK416(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Then I'll treasure it this time.
+HK416(0)<Speaker></Speaker>||:...Thompson waved and walks off.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:You seem to be alive.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:The "seem to" is superfluous, and "alive" is overrated.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Looks like we didn't disappoint you.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:I didn't anticipate this outcome. You did well enough - without me.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:That's what it truly means to be a Tactical Doll, right? +We aren't just pawns; we make our own judgments, and trusting you is one of them.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:What was that judgment based on?
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:You saved 9A-91, you saved my friends. I know you'll save even more.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:Friends are important, but seeing that we're on the battlefield, we must be prepared to lose everything.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Do you have friends, 416?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:... +I'm not sure if "they" count.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:When you get caught in a blast, will they run over to help you?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:No, they know I'll think of a way to get myself out of trouble.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Having friends could be a way.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:It's not one I'm particularly comfortable with, I do well enough on my own. +It's time. Let's move.
+AK74U(0)<Speaker></Speaker>||:...416 stood up and prepares to leave.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Won't you even consider staying?
+HK416(0)<Speaker>416</Speaker>||:...?
+AK74U(0)<Speaker>AK-74U</Speaker>||:If you stay at Griffin, you can try different ways. +Not just having friends, but other possibilities as well. We know even you aren't omnipotent.
+HK416(0)<Speaker>416</Speaker>||:I won't have the chance.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Maybe next time.
+()||<BIN>159</BIN><BGM>BGM_Sneak</BGM><SE1>Battlefield</SE1><黑屏2>:Later...at Strongpoint No.4 in Griffin's temporary base.
+HK416(0)<Speaker>416</Speaker>||:74U, give me your take on the situation.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:From an optimistic point of view, it's FUBAR. +Not only is Strongpoint No.4 under intense bombardment, it's even surrounded by the enemy's heavy armored troops. +All the tactics I can come up with will blow up in our face.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:What about the trapped T-Dolls?
+HK416(0);Python(0)<Speaker>Python</Speaker>||:They're led by MP40, do you know her?
+HK416(0)<Speaker>416</Speaker>;Python(0)||:As I recall, she isn't an elite T-Doll, so why is she the leader of an outpost?
+Mk12(0)<Speaker>Mk 12</Speaker>;Python(0)||:Strongpoint No.4 was abandoned. She led a logistics team to deliver ammo to Miss Thompson and ended up being trapped in there.
+Mk12(0);A91(0)<Speaker>A-91</Speaker>||:Simply put, it was an unfortunate accident.
+Mk12(0)<Speaker>Mk 12</Speaker>;A91(0)||:Fortunate, you mean. They'd have been destroyed along the way otherwise.
+Mk12(0);Python(0)<Speaker>Python</Speaker>||:The building was under the HOCs' cover and the Fairies' protection, so it hasn't fallen yet. +However, once the enemies gather for real, it'll crumble just like that.
+Mk12(0)<Speaker>Mk 12</Speaker>;Python(0)||:Should we...rescue them?
+Mk12(0);A91(0)<Speaker>A-91</Speaker>||:It's not exactly cost-effective, is it?
+HK416(0)<Speaker>416</Speaker>;A91(0)||:Since when did you become...like this?
+HK416(0);Python(0)<Speaker>Python</Speaker>||:We're weighing our options objectively - whether the returns are worth the risk.
+HK416(0)<Speaker>416</Speaker>;Python(0)||:You learn fast and you learn well.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Not to mention, judging by MP40's personality, she won't turn into a nasty ghost and bother us even if we give up on her.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:That was rude.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:Just stating facts.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:So you'd crash someone's birthday party and tell them they're gonna die one day?
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:It's fine if this person can't beat me up. +MP40? I don't think she stands a chance against me.
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:So, do you all agree to abandon this last echelon?
+AK74U(0)<Speaker>AK-74U</Speaker>||:(Snickers) ...
+AK74U(0)<Speaker>All</Speaker>||:Certainly not!
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:...I knew it. +Griffin is always... +...full of idiots dragging me down. +Guess I'll just slow down a bit myself.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>Battlefield</SE1>:...Meanwhile, in Strongpoint No.4. +...MP40 snaps open her pocket watch. The second hand takes its last tick.
+系统提示()<Speaker>System Notice</Speaker>||<BGM>BGM_Sad</BGM>:<color=#00CCFF>...Unable to upload neural cloud. Please retry.</color>
+MP40(1)<Speaker>MP40</Speaker>||:Forget it. Just close the window.
+MP40(1)<Speaker></Speaker>||:...MP40 closes her pocket watch, untangles the chain, and puts it carefully into a box.
+MP40(1)<Speaker>MP40</Speaker>||:Even the most orderly formation will be crushed by artillery fire... +Guess I shouldn't get my hopes up...
+MP40(1)<Speaker></Speaker>||:...MP40 gets up on her feet.
+MP40(1)<Speaker>MP40</Speaker>||:We've done our best. +We helped Fräulein Thompson and Fräulein Kalina. There's nothing else we can do. +I want to live, but the enemy's artillery...will consume this place any minute. +I want you all to write everything down so that you won't forget what happened here and now. +I also want to say something inspiring so that we can face the final moment with courage. +But...what I want most is to cherish the time we have left. +This is the last day we'll be partners, let's cherish this moment.
+MP40(1)<Speaker>MP40</Speaker><Shake>||<黑屏1>:I'm very happy to be part of Griffin...so... +Commander...please...
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...
+HK416(0)<Speaker>416</Speaker><通讯框>||<BGM>BGM_Reverse</BGM><黑屏2><BIN>10</BIN>:<color=#00CCFF>Commander, this is the last strongpoint.</color> +<color=#00CCFF>You've seen what it's like over there. To be honest, I strongly advise against rescuing MP40.</color> +<color=#00CCFF>Saving a logistics team is going to cost us dearly and put us in great jeopardy.</color> +<color=#00CCFF>They can be helpful in our subsequent battles, but do consider the cost.</color> +<color=#00CCFF>Still, the final decision is yours.</color>
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>We're about to engage the enemy.</color> +<color=#00CCFF>Forgo the rescue or take the risk - I'll trust you no matter your decision, Commander.</color>
+()||<黑屏1>:<color=#fff775>If you choose to mount a rescue, escort the hostages to the helipad and have them withdraw.</color> +<color=#fff775>Once you occupy the enemy command post, you'll forgo the rescue and exit the battlefield.</color> +<color=#fff775>Your decision will affect the plot progression, so please choose wisely.</color> +<color=#fff775>Completing different objectives in this mission will lead to different routes. Once you complete an objective, you will not be able to proceed to the uncleared routes during this playthrough. You will only be allowed to pick a new choice by backtracking.</color>

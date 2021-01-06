@@ -1,0 +1,149 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Hello</BGM>:Inside the Griffin Command Room.
+()<Speaker>Type79</Speaker>||:Are you there, Commander? Type79 has arrived for her appointment!
+Commander()||:Come in.
+79type(0)<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:Type79 paces towards me with her usual vigor. After she comes to a halt, she places the tablet computer that had been in her hands atop my desk.
+Commander()||:What's this?
+79type(0)<Speaker>Type79</Speaker>||:Commander, this is the design that I have proposed for the outfit that I intend to wear to the party. Please review them.
+Commander()||:So that was why you were looking for me... but if I recall correctly, didn't Kalin approve of this design for the dress a few days ago?
+79type(0)<Speaker>Type79</Speaker>||:That's right, but I felt that the previous proposal wasn't feminine enough, so I decided to seek your opinion. +How should I give my outfit more femininity, Commander?
+Commander()||:I know you're very diligent, 79, but— <c>As a man, I... <c>While I'm also a woman...
+Commander()||<分支>1</分支>:As a man, I honestly have no idea what suggestions I can give with regards to femininity... +Would you like to ask Kalin again?
+79type(0)<Speaker>Type79</Speaker>||<分支>1</分支>:Miss Kalina said that she didn't have any comments on that matter and told me to ask you directly. +Please give me some suggestions from your perspective as a man!
+Commander()||<分支>2</分支>:While I'm also a woman, it's still hard for me to give suggestions about femininity...
+79type(0)<Speaker>Type79</Speaker>||<分支>2</分支>:But I need your suggestions, Commander.
+Commander()||:Alright, let's look at your report first... +Hmm...you've got proposals for makeup and accessories, as well as a tailoring pattern for the dress. +Your proposal is very detailed, 79. However...
+79type(0)<Speaker>Type79</Speaker>||:Please feel free to give me any suggestions you wish. I will rectify any deficiencies, no matter what they are!
+Commander()||:Well, I wouldn't say it's a deficiency... +I feel that femininity isn't something you obtain through specific items and accessories alone. +It ought to be a...er, how shall I put this...a kind of unique temperament that flows out from within you. +Otherwise you'll make a fool of yourself even if you dress up well.
+79type(0)<Speaker>Type79</Speaker>||:Temperament?
+79type(0)<Speaker></Speaker>||:Type79 wrinkles her brow after hearing what I said.
+79type(0)<Speaker>Type79</Speaker>||:I'm sorry, Commander... I don't quite get what you mean.
+Commander()||<黑屏1>:It's alright if you don't get it. After all, this isn't something that can be directly quantified. +Simply put, you need to start from the way you interact with people and do things, as well as your attitude in daily life...
+()||<BGM>BGM_Empty</BGM><黑屏1><BIN>9</BIN>:...
+()||<BGM>GF_Memorial</BGM><BIN>82</BIN><黑屏2>:Inside the Griffin dorms.
+79type(0)<Speaker>Type79</Speaker>||:Even if the Commander says that such a notion is "simply put", I still don't get it at all... +Argh! Why is it so hard to be a woman?!
+???()||:Are you having trouble, 79?
+79type(0)<Speaker>Type79</Speaker>||:Ah, it's Class Rep!
+M99(0)<Speaker>M99</Speaker>||:What happened? It's rare that I see you sighing and lamenting like this.
+79type(0)<Speaker>Type79</Speaker>;M99(0)||:Well...
+79type(0);M99(0)<Speaker>M99</Speaker>||:Out with it! +We're comrades from the same squad, so if there are any problems, we solve them together.
+79type(0)<Speaker>Type79</Speaker>;M99(0)||<黑点1>:<color=#A9A9A9>(Now that Class Rep's said as much, it would be rude to keep hiding things from her.)</color>+Actually...
+()||<黑点2>:Type79 tells M99 about her conversation with the Commander earlier.
+M99(0)<Speaker>M99</Speaker>||:I see... I don't quite understand the Commander's reply either.
+79type(0);M99(0)<Speaker>M99</Speaker>||:I know, right?! What do those words even mean...+While I know that the Commander wouldn't just give me an answer for the sake of it, that description was just way too sketchy!
+79type(0);M99(0)<Speaker>M99</Speaker>||:Then why don't you ask the Dolls who've been to parties like that before?
+79type(0)<Speaker>Type79</Speaker>;M99(0)||:As if I needed you to tell me that, Class Rep! +The moment I got the assignment I asked everyone I could find, from Springfield to IDW! +But everyone had different opinions on the matter, so I had no choice but to ask the Commander...and in the end I couldn't get an answer either.
+79type(0);M99(0)<Speaker>M99</Speaker>||:The Commander isn't all-powerful...
+79type(0)<Speaker>Type79</Speaker>;M99(0)||:(Sighs) That's true.
+79type(0);M99(0)<Speaker>M99</Speaker>||:Frankly, I think you're very well-prepared, 79. I honestly don't understand what you're hung up on... +But I do know that while it's good to be diligent, being too focused on small details often leads to messing things up.
+79type(0)<Speaker>Type79</Speaker>;M99(0)||:That doesn't sound like something you'd say, Class Rep...
+79type(0);M99(0)<Speaker>M99</Speaker>||:What's that supposed to mean?! I can grow up too, you know! +Thanks to the Commander and working with everyone, I've managed to improve my neural cloud a great deal!
+79type(0)<Speaker>Type79</Speaker>;M99(0)||:Yes yes yes, I understand — please stop glaring at me, Class Rep!
+79type(0);M99(0)<Speaker>M99</Speaker>||:While this party is fairly important, your current preparations are quite adequate, if you ask me. +If you keep dragging your feet, you might not be able to get your dress made in time!
+79type(0)<Speaker>Type79</Speaker><shake>;M99(0)||:Oh no! If you hadn't brought it up I would have forgotten all about it! +I'll go look for 64 and 88 right away!
+M99(0)<Speaker>M99</Speaker>||<黑屏1>:Will she really be alright...she seems so panicky and all. +Ah well, this is 79 we're talking about. She'll be fine!
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>139</BIN>:On the day of the party.
+79type(4)<Speaker>Type79</Speaker>||<BGM>GF_Cafe</BGM>:<color=#A9A9A9>(While I managed to finish the dress in the nick of time and even added a layer of synthetic skin for the best results...)</color>
+()||:Type 79 drifts slowly from one table to another, boredly observing the milling crowds.
+79type(4)<Speaker>Type79</Speaker>||:Nobody's even looking at me... I guess it's no good after all.
+()||:As Type 79 mutters to herself, her eyes fall on a female guest who is engaged in intense conversation with several people around her.
+79type(4)<Speaker>Type79</Speaker>||:<color=#A9A9A9>(Sigh, she seems really popular.)</color>+<color=#A9A9A9>(I suppose only that kind of woman possesses true femininity...)</color>
+()||:Type79 takes a seat and imitates how that female guest crosses her legs, holding her high-stemmed glass with her middle and ring fingers.
+79type(4)<Speaker>Type79</Speaker>||:...+<color=#A9A9A9>(No, this is just too awkward! What on earth am I doing?!)</color>+<color=#A9A9A9>(Sigh...if I'd known this would happen, I should have just refused the Commander...)</color>+<color=#A9A9A9>(In the end, I'm just a Tactical Doll. What on earth would I talk about at a party? This doesn't suit me at all...)</color>
+()||<SE1>AVG_tele_connect</SE1>:—Click. +A call comes through.
+M99(6)<Speaker>M99</Speaker><通讯框>||:<color=#00CCFF>Hey, 79, are you free now?</color>
+79type(4)<Speaker>Type79</Speaker>;M99(6)||:Did something happen, Class Rep? Did someone sneak into the party venue?!
+79type(4);M99(6)<Speaker>M99</Speaker>||:<color=#00CCFF>No, everything's fine.</color>+<color=#00CCFF>I met some new friends with K2, and we want to play... er, what is it again? Ohhh! It's called "Texas Hold 'Em", want to join us?</color>
+79type(4)<Speaker>Type79</Speaker>;M99(6)||:I'm not really interested. You should just go ahead and enjoy yourselves, Class Rep.
+M99(6)<Speaker>M99</Speaker>||:<color=#00CCFF>Alright, then...</color>+<color=#00CCFF>In any case, feel free to come over anytime if you'd like to play!</color>
+()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
+79type(4)<Speaker>Type79</Speaker>||:<color=#A9A9A9>(Sigh, given the circumstances, I'm in no mood to play.)</color>+<color=#A9A9A9>(...Forget it, I'll just sit around a little longer, and I'll head straight back to base once the party's about to end.)</color>
+()||:Type79 decides to quietly wait away the remaining of this agonizing party. Just then, she sees a familiar figure slowly walking outside the party venue.
+79type(4)<Speaker>Type79</Speaker>||<黑点1>:<color=#A9A9A9>(Is that...the Commander?)</color>+<color=#A9A9A9>(The Commander doesn't look too well for some reason... I should go take a look.)</color>
+()||<黑点2><BIN>97</BIN><Night><BGM>BGM_Empty</BGM>:Outside the banquet hall.
+()<Speaker>Commander</Speaker>||:Sigh...
+()||:This was supposed to be an enjoyable party, but a bunch of unexpected guests had shown up — or perhaps it would be more appropriate to call them troublemakers. +Thanks to AK-12 stirring things up, the situation has exceeded the limits of my ability to manage. +But I can't just order K2 and the others to head back to base right away...that would be cruel, and I'll have a hard time explaining it to the guests and our partners too.
+()<Speaker>Commander</Speaker>||:Why do I have to run into headaches like these on a vacation...ah-choo!+...+(Sighs) Looks like when it rains, it pours.
+()||<BGM>BGM_Moon</BGM>:In the midst of my misery, a hand reaches out from beside me, offering a piece of tissue paper.
+79type(4)<Speaker>Type79</Speaker>||:Are you alright, Commander?
+79type(4)<Speaker>Commander</Speaker>||:Oh, it's 79... thank you. +What are you doing over here?
+79type(4)<Speaker>Type79</Speaker>||:I saw you heading this way, and you looked unwell, so I followed you here, Commander.
+79type(4)<Speaker>Commander</Speaker>||:I'm fine... (coughs)
+79type(4)<Speaker>Type79</Speaker>||:You don't look fine at all, Commander!
+79type(4)<Speaker>Commander</Speaker>||:It's probably just a touch of the flu, it's no big deal. +You don't need to worry about me, 79.
+79type(4)<Speaker>Type79</Speaker>||:How could I do that, Commander?! +Human bodies are fragile, and they need to be protected... Given the present circumstances, I'd advise you to return to the base immediately.
+79type(4)<Speaker>Commander</Speaker>||:Since I'm the Griffin representative, I can't leave before the party ends. +<color=#A9A9A9>(And there's those hidden annoyances present... I need to resolve the matter before I can leave.)</color>
+79type(4)<Speaker>Type79</Speaker>||:In that case... I know, please wait for me! +Tsk, these high heels are so annoying! There's no way to run in them...
+()||<黑点1>:Type79 strides off, grumbling as she goes.
+()||<黑点2>:...Several minutes later.
+79type(4)<Speaker>Type79</Speaker>||:Commander, I borrowed this jacket from the hotel staff, so please put it on. +The night is cold, and your condition will only turn for the worse if you get any colder.
+79type(4)<Speaker>Commander</Speaker>||:I'm sorry for making you go to such trouble, 79...
+79type(4)<Speaker>Type79</Speaker>||:This is nothing, taking care of you has always been part of our job description as Tactical Dolls, Commander. +Would you like to go back to the banquet hall with me? It'll be warmer in there.
+79type(4)<Speaker>Commander</Speaker>||:Please head back first. I'm going to have a breath of fresh air.
+79type(4)<Speaker>Type79</Speaker>||:Alright. I'll be off, then.
+()||:After bidding Type79 farewell, I spot another depressed Doll on the other end of the balcony.
+Commander()||<黑屏1>:It seems...I'm not the only one dealing with headaches this evening...
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>139</BIN>:...+After a while, I return to the banquet hall. +There is a small cluster of people in a corner of the hall, and through the gaps between them I see Type 79 in their midst, deep in conversation with someone. +Curious, I head over to the group. +Type 79 sees me, and waves.
+79type(4)<Speaker>Type79</Speaker>||<BGM>GF_Cafe</BGM>:Commander!
+()||:I weave through the group and whisper a question into her ear.
+79type(4)<Speaker>Commander</Speaker>||:Did something happen, Type79? Why are you surrounded like this?
+79type(4)<Speaker>Type79</Speaker>||:I was just chatting with the others...
+B()<Speaker></Speaker>||:Just then, a female guest cut into our conversation.
+Female guest()||:May I ask if you are her superior?
+()<Speaker>Commander</Speaker>||:Uh, yes, I am.
+Female guest()||:Please don't worry, it's nothing serious. +This Doll over here helped me out, and we've simply gathered here to appreciate her handiwork.
+79type(4)<Speaker>Type79</Speaker>||:It-It's nothing... we just met by chance...
+()||:I look first at Type79, then at the elegant female guest before me, and I notice that the guest's dress sports a very familiar ribbon.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(That fabric ought to have come from Type79's dress...)</color>+<color=#A9A9A9>(I see... Looks like K5's prediction came true after all. So a dress really was torn...)</color>
+Female guest()||:I'm surprised. I didn't expect her to mend it this well.
+Party guest()||:Her hands are so deft, I've half a mind to employ her myself.
+79type(4)<Speaker>Type79</Speaker>||:Er, that...
+Party guest()||:Our company's services include the care and repair of high-end clothing. I believe you would make a perfect addition to our staff, Miss.
+79type(4)<Speaker>Type79</Speaker>||:But I'm already employed with another company. +And I'm not a specialized service Doll, so I guess I'll pass...
+Party guest()||:Oh, don't be in such a hurry to refuse. Why not think about it a little more? +Our company's remuneration and benefits are quite generous.
+79type(4)<Speaker>Type79</Speaker>||:Commander...
+()||:Type79 looks up and directs a pleading look at me. +Since things have already gotten this far, it's time for me to step in.
+Commander()||<黑屏1>:Ahem...pardon the intrusion. +While I thank you for your praise, all the Dolls employed by Griffin have signed long-term contracts. +If you have any other requests, please feel free to contact us. This is my business card...
+()||<BGM>BGM_Empty</BGM><黑屏2>:...+The time and the small talk with the guests pass soon enough, and after K2's unexpectedly exciting song and dance routine, the party finally draws to a close. +The guests depart one after the other, and the hall slowly empties out. +I walk over to where Type79 is leaning against the wall. Her head is lowered and she's touching the tips of her fingers together, as though she's thinking about something.
+Commander()||<BGM>GF_Memorial</BGM>:79?
+79type(4)<Speaker>Type79</Speaker>||:Ah, Commander! Is the party over? Is it time for us to go?
+79type(4)<Speaker>Commander</Speaker>||:Yes and yes. +It's not often that I see you so deep in thought. Did a problem come up?
+79type(4)<Speaker>Type79</Speaker>||:It's nothing...
+79type(4)<Speaker>Commander</Speaker>||:Then let me guess. <c>Is the whole femininity thing still bothering you? <c>Are you thinking about the offer that guest made earlier?
+79type(4)<Speaker>Type79</Speaker><shake>||<分支>1</分支>:Huh?! How did you know?
+79type(4)<Speaker>Commander</Speaker>||<分支>1</分支>:It was written all over your face.
+79type(4)<Speaker>Type79</Speaker>||<分支>1</分支>:(Sighs) I'm sorry for making a fool of myself. +I was planning to put my best foot forward today, but in the end I feel like I've lost the battle for femninity...
+79type(4)<Speaker>Commander</Speaker>||<分支>1</分支>:But you didn't, 79.
+79type(4)<Speaker>Type79</Speaker>||<分支>1</分支>:...Huh?
+79type(4)<Speaker>Type79</Speaker>||<分支>2</分支>:Hm...it's true that I was thinking about it.
+79type(4)<Speaker>Commander</Speaker>||<分支>2</分支>:Thinking of jumping ship? If you want to, it's not entirely out of the question...
+79type(4)<Speaker>Type79</Speaker>||<分支>2</分支><震屏>:C-C-C-C-Commander?! What are you saying ?! I-I-I-I wasn't thinking of that at all!!!
+79type(4)<Speaker>Commander</Speaker>||<分支>2</分支>:Er...that was just a joke, you don't need to overreact like that!
+79type(4)<Speaker>Type79</Speaker>||<分支>2</分支>:Phew...a joke, huh. Honestly, Commander! You can't just go around making jokes like that!
+79type(4)<Speaker>Commander</Speaker>||<分支>2</分支>:Alright, alright, I got it. Sorry.
+79type(4)<Speaker>Type79</Speaker>||<分支>2</分支>:I...really enjoy working with you and the others, Commander. +So, I wasn't thinking of jumping ship! Not in the slightest!
+79type(4)<Speaker>Commander</Speaker>||<分支>2</分支>:Alright, I understand. So what's got you worried?
+79type(4)<Speaker>Type79</Speaker>||<分支>2</分支>:Well, I'm not really worried. I just don't understand why she would extend that invitation to me. +I'm just a great big tomboy of a Tactical Doll, I'm not suited for delicate service work...
+79type(4)<Speaker>Commander</Speaker>||:That's because... +Your femininity has been off the charts tonight, 79.
+79type(4)<Speaker>Type79</Speaker>||:Really?
+79type(4)<Speaker>Commander</Speaker>||:Yes, really.
+79type(4)<Speaker>Type79</Speaker>||:But I didn't...feel any different than usual tonight. I didn't do anything special.
+79type(4)<Speaker>Commander</Speaker>||:Remember what I said earlier? Femininity is a unique temperament that flows out from within you. +Even in daily life, every little thing you do highlights it. People take all of that into account, just like tonight.
+79type(4)<Speaker>Type79</Speaker>||:...Is that really enough?
+79type(4)<Speaker>Commander</Speaker>||:Relating honestly to others and approaching them with a caring heart is the best way to display your femininity.
+79type(4)<Speaker>Type79</Speaker>||:Commander, I think I'm beginning to understand...
+79type(4)<Speaker>Commander</Speaker>||:Mm. Truth to be told, you don't need to worry too much about whether you managed to convey your charm. +Just let everything flow naturally.
+79type(4)<Speaker>Type79</Speaker>||:Yes, Commander! +Still, even if you say that, I still think I can't let myself slack off too much...in any case, I'll continue practicing in that field!
+79type(4)<Speaker>Commander</Speaker>||:Er, exactly how are you going to practice that...
+79type(4)<Speaker>Type79</Speaker>||:That...that's a lady's secret, Commander. +It's getting very late now. Shall we head back to base, Commander?
+79type(4)<Speaker>Commander</Speaker>||:Oh, yes...
+()||:Type 79 winks at me and drags me to the door of the banquet hall.
+Commander()||:Oh yes, I need to return this jacket.
+79type(4)<Speaker>Type79</Speaker>||:Please leave it to me, Commander! +Go meet with the others at the exit!
+()||:Type79 hugs the jacket she borrowed and heads toward the staff room.
+Commander()||:<color=#A9A9A9>(For some reason, running like that seems a little dangerous...)</color>
+()||:—Crack.
+()||:Halfway through her run, Type79 stumbles, then hops a couple of steps before she finds her footing again. +After that, I see her take off her broken heels and continue running as though nobody else were around.
+Commander()||:<color=#A9A9A9>(...It looks like there's a lot of room for her to improve.)</color>
+()||<黑屏1>:I can't help but quirk up the corner of my mouth as I head to the main door.
+()||<黑屏1><BIN>9</BIN>:—And just then, in a place where I cannot see, Type79's face was flushed bright red from embarrassment. +I only learned a long time later that Type 79 had avoided me for a full month because of this incident. +As for how she gathered the courage to face me once again...well, that's another story.

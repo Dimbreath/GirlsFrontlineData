@@ -1,0 +1,57 @@
+()||<BIN>8</BIN><BGM>BGM_Moon</BGM>:Griffin Control.
+()||:After finishing my daily tasks, I recall the promise I made with Contender earlier. +The Dolls who were selected to provide security for the conference are currently being trained in the Griffin Cafe. +And I agreed to Contender's request that I examine their training progress in the role of a "customer." +While the service would probably not be as perfect as what I'd get in a real maid cafe... +Being able to see another side of the Dolls would be worth my while.
+指挥官()<Speaker>Commander</Speaker>||<黑点1>:Let's go have some afternoon tea, then.
+()||<BIN>80</BIN><黑点2>:As I reach the cafe entrance, I could hear people speaking behind the half-opened door.
+？？？()<Speaker>???</Speaker>||:Not like that, M1. +See, if you stand it up and tap it against the table once or twice, it becomes neat and tidy.
+指挥官()<Speaker>Commander</Speaker>||:Sounds like someone's sorting things out.
+()||:I step into the cafe and look around, and I see Gr G28 in the far back, bending down to tell M1 something.
+G28(2)<Speaker>Gr G28</Speaker>||:...Then you use the fasteners to keep them separated, and if the stacks are thick, you can use binder clips to keep them together. +You have to organize them neatly to satisfy the customers!
+GepardM1(2)<Speaker>Gepard M1</Speaker>||:Got it... +Bleh...it's so annoying...
+G28(2)<Speaker>Gr G28</Speaker>||:Come on, pull yourself together, M1! +We can't disgrace Griffin when we go out on our mission!
+指挥官()<Speaker>Commander</Speaker>||:Ahem, ah...service please?
+()||<SE1>RunStep</SE1>:Gr G28 rushes over upon hearing me pull on the chime hanging from the doorframe. +She comes to a halt before me, and then bows at an exaggerated angle.
+G28(2)<Speaker>Gr G28</Speaker>||:Ah, it's the Commander! +Welcome to our humble establishment — Gr G28 is here to serve you! +May I know what you would like? A drink, something to eat, or perhaps...a fantasy massage?
+指挥官()<Speaker>Commander</Speaker>||:I'd like...wait a minute, what was that weird thing you mentioned at the end just now?
+G28(2)<Speaker>Gr G28</Speaker>||:That's one of the services we can provide. +If the customer makes a request, then we have to satisfy it! +So, would you like to give it a try, Commander?
+指挥官()<Speaker>Commander</Speaker>||:No, no thanks... I just came for afternoon tea.
+G28(2)<Speaker>Gr G28</Speaker>||:Alright, this way please, Commander.
+指挥官()<Speaker>Commander</Speaker>||:Oh yes, what were you telling M1 just now?
+G28(2)<Speaker>Gr G28</Speaker>||:M1's practicing how to organize documents, so I was giving her some pointers.
+指挥官()<Speaker>Commander</Speaker>||:Then how about your own training?
+G28(2)<Speaker>Gr G28</Speaker>||:I've already taken care of my training for today! +It just so happened that I was free, so I decided to lend a colleague a hand—
+指挥官()<Speaker>Commander</Speaker>||:I see... You seem quite enthusiastic about this.
+G28(2)<Speaker>Gr G28</Speaker>||:But of course! +This is an important field mission, and I don't want to embarrass you...or Griffin!
+指挥官()<Speaker>Commander</Speaker>||:Mm, and you've done well. +It seems you've grown a great deal, Gr G28. +But there are several days of training left. While helping others is all well and good, take care that you don't neglect your own tasks.
+G28(2)<Speaker>Gr G28</Speaker>||:Hehe, don't worry, Commander. +I'm the benchmark Doll of the new era. I guarantee that I can complete this mission without a hitch!
+()||:Gr G28 leads me to an empty table. +After glancing through the menu for appearance's sake, I tick the items I want and hand the menu back to Gr G28.
+指挥官()<Speaker>Commander</Speaker>||:Right, I'll have these, then.
+G28(2)<Speaker>Gr G28</Speaker>||<黑点1>:Okay, please wait for a bit. +Another Doll will attend to you in a bit!
+()||<BIN>129</BIN><黑点2><BGM>BGM_Empty</BGM>:... +Inside the cafe's kitchen.
+G28(2)<Speaker>Gr G28</Speaker>||<BGM>BGM_Room</BGM>:Hehe...the Commander praised me! +Looks like asking Miss Gr G36 for her secret maid's manual beforehand was a wise decision after all! +Even the tiny price I had to pay was worth it... +If this keeps up, the Commander will surely see me in a different light.
+()||:Gr G28 hums happily as she starts working.
+G28(2)<Speaker>Gr G28</Speaker>||:Next, let's take care of some of tomorrow's tasks ahead of time. +This way, I'll have plenty of time to show off my skills when the Commander comes to visit tomorrow!
+G28(2)<Speaker>Gr G28</Speaker>||:Next up for my training is...ah, practicing how to quickly heat food up. +So all I have to do is put it into the microwave?
+()||:Gr G28 does not look too closely at the explanatory notes for the task. She takes out the training ingredients from the fridge, dumps them onto a plate, and then puts them into the microwave.
+()||<BGM>BGM_Empty</BGM>:And then—
+()||<震屏><黑屏1><SE1>Explode</SE1>:Kaboom!
+()||<BIN>80</BIN><黑屏2>:—At the same time, inside the cafe.
+Contender(5)<Speaker>Contender</Speaker>||<BGM>BGM_Room</BGM>:Commander! Are you alright!?
+指挥官()<Speaker>Commander</Speaker>||:I'm fine... +But what's with this outfit of yours? Wait a minute, why do you have your gun out?
+Contender(5)<Speaker>Contender</Speaker>||:Commander, they say a man can't cross the same river twice — the same goes for Dolls. +I'm fully prepared this time; I won't let the suspect escape!
+指挥官()<Speaker>Commander</Speaker>||<黑屏1>:Hold on, Contender, this isn't what a maid...
+()||<黑屏2><BIN>129</BIN><BGM>BGM_Hello</BGM>:... +Ten minutes later.
+指挥官()<Speaker>Commander</Speaker>||:So, the cause of that explosion just now was because you put fresh eggs into the microwave?
+G28(3)<Speaker>Gr G28</Speaker>||:Yes... +I, I didn't look closely at the reheating instructions...
+指挥官()<Speaker>Commander</Speaker>||:Whew...that scared the hell out of me. I thought we were under attack or something.
+G28(3)<Speaker>Gr G28</Speaker>||:Ahaha...I'm sorry, Commander! +It won't happen again!
+G28(3)<Speaker></Speaker>||:Gr G28 shrugs with an apologetic look on her face and lowers her head, but her eyes glance at me from time to time, brilliant pearls of liquid swelling at the corners of her eyes. +This girl is pretty slick... +I couldn't muster up any anger at her seeing her like this.
+指挥官()<Speaker>Commander</Speaker>||:Alright, be more careful next time. +You can't mess up like this during the actual mission.
+G28(3)<Speaker>Gr G28</Speaker>||:Mhm, I got it!
+指挥官()<Speaker>Commander</Speaker>||:As for the kitchen...
+G28(3)<Speaker>Gr G28</Speaker>||:I'll clean it up right away!
+指挥官()<Speaker>Commander</Speaker>||:Good. Be more safety-conscious in the future.+Don't be careless again!
+G28(3)<Speaker>Gr G28</Speaker>||<黑屏1>:I got it! There's no need to worry!
+()||<黑屏2>:Two hours later.
+G28(2)<Speaker>Gr G28</Speaker>||:Whew...I managed to clean it all up at last.
+()||:Gr G28 looks at the kitchen, so clean that it looks brand new, and nods in satisfaction.
+G28(2)<Speaker>Gr G28</Speaker>||<黑屏1>:I might have slipped up a little today...but I should have made an impression on the Commander, right? +Hehe, victory will always belong to the smart and hardworking Dolls. +I'll prove that to them someday!

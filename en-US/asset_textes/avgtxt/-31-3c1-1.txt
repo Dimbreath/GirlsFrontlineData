@@ -1,0 +1,19 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BGM>BGM_Danger</BGM><BIN>167</BIN>:...In the underground passage.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:AK-12, are you out there?! +Sangvis Ferri grabbed the Pike Node and ran for it! Can you intercept them from your current location?!
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>They just crashed through the front doors! I found some motorbikes - I just sent you the coordinates! If we go after them now, we might still able to catch up!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Copy that! We're on our way!
+()||<黑屏1>0,5</黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:...Meanwhile.
+()||<BGM>BGM_Room</BGM><BIN>2</BIN><黑屏2>:At the extraction point on the river delta, the Griffin team is escorting Chairwoman Ulrich onto the helicopter that will transport her to safety.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Thank you very much for your help. +I hope you and your friends will overcome these trying times.
+RO635(2)<Speaker>RO635</Speaker>||:We gladly accept your well wishes...
+()||:...Buzz. +Just as RO635 is about to bid Chairwoman Ulrich farewell, her communications device starts buzzing.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>RO, how is it going with the Chairwoman?</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:She has already boarded the helicopter and we're about to withdraw. What's the situation on your end?
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>We've led the civilians out of the city.</color> +<color=#00CCFF>For some reason, the Paradeus forces suddenly stopped attacking so we escaped from the cathedral easily enough.</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:Is that so...? That's great. Where are you now? We'll join you straight away.
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Um... The Commander received new directives from K. We've got to hurry back to Belgrade and fortify the city.</color>
+RO635(4)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:K again? We have no reason to obey him anymore, don't you think?
+RO635(4);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Ange's team needs help in there... Also...M16 and Sangvis Ferri are in Belgrade...</color> +<color=#00CCFF>So the Commander gave the order to mobilize.</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:M16... I understand. We'll head back to the city. Please send me the location of our rallying point.
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<黑屏1>:<color=#00CCFF>Sure, on it.</color>

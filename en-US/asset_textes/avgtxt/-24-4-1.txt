@@ -1,0 +1,90 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><BGM>BGM_Room</BGM><黑屏2>:...With great difficulty, SOP-II uses her one remaining arm to drag herself to the indicated location.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Can you perform a self-diagnostic?</color>
+()<Speaker>System</Speaker>||:<color=#00CCFF>【Beginning technical examination, scanning.】</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Severe damage to multiple parts... My combat capability is down to about 10%...
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>SOP-II, you're the Doll with the highest parts modularity in the AR Team.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:So... +You want me to use parts from those filthy S.F.?
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Think of a way to repair yourself. That way we might still have a chance.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:A chance?
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>A chance to save her.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:That's right! M4A1!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:But your signal says you're S.F.... +Are you...a bad guy now?
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Good? Bad? Are you still differentiating friends from foes in such simple ways?</color>+<color=#00CCFF>Do you remember our core orders?</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:Protect M4A1...at all costs...
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>If you're still willing to believe me, then repair yourself and hurry back to her side.</color>
+()<Speaker></Speaker>||<黑屏1>:...SOP-II continues dragging herself over the grimy battlefield and crawls over to a pile of S.F. Doll remains before sitting down.
+()<Speaker>M4 SOPMOD II</Speaker>||<BIN>148</BIN><黑屏2>:... +M16A1... +I...don't believe...you'd turn to Sangvis... Was it because of Parapluie?
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>No, I did it willingly.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:Haha... I thought so... +But if you're S.F...then I can't trust you anymore...
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>I don't blame you for that. It's a fundamental principle for us.</color>+<color=#00CCFF>Don't talk anymore. Hurry up and repair yourself. You know what to do.</color> 
+()<Speaker>M4 SOPMOD II</Speaker>||:Oh, I know just how...to mess with S.F. parts...
+()<Speaker></Speaker>||<震屏>:...Snap! +SOP-II tears an arm off a corpse.
+()<Speaker>M4 SOPMOD II</Speaker>||:But I don't know what's going on...and I don't know what to do next...
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>I'll tell you about the rest after you repair yourself.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:If your core order's still intact...then why don't you come over and save M4 yourself...?
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>I can't appear...just yet... They're all counting on you...</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:Don't tell me... I'm the only one left...?
+()<Speaker></Speaker>||:...SOP-II squirms around, aligning the arm with her stump. +Kachak!
+()||<闪屏><duration>5</duration></闪屏><BIN>149</BIN>:
+()<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>AAAAAAHHHHHH—！！</size>
+()<Speaker>M4 SOPMOD II</Speaker>||:This way... I can fight...somehow... +Everybody's...gone...
+()<Speaker></Speaker>||:...SOP-II sniffles quietly.
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>Are you crying?</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:I'm not.
+()<Speaker>M16A1</Speaker>||:<color=#00CCFF>You have to be strong. Do you remember M4A1's last coordinates? You might be in time.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:... +M4... RO...wait for me!
+()||<BIN>9</BIN><黑屏1><黑屏2>:...SOP-II follows the few relevant memories in her neural cloud and struggles her way into a safe house.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>70</BIN><黑屏2>:...!
+()<Speaker></Speaker>||:...SOP-II sees a familiar T-Doll. Her neural cloud seems to have completely ceased functioning.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:M4A1... +What happened to you...? Answer me...
+()<Speaker></Speaker>||:...SOP-II gets closer, intending to shake M4A1's body.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Don't touch her, SOP-II!</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:M16A1... What happened to M4...?
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Her neural cloud is in stress mode.</color>+<color=#00CCFF>Can you connect to her Level II? It'll be just like how we executed synchronized orders in the past.</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:Let me try...
+SOPIIDamage(2)M4 SOPMOD II;M16A1BOSS(0)||<CGDelay>0.5</CGDelay>:
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:No good, she rejected all my connections.
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>So the connection failed...</color>+<color=#00CCFF>Although I don't know who did it...at least she's saved.</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:Saved? You call this saved? +If she can't regain consciousness, then at least let me move her!
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>No! M4's neural cloud is extremely unstable right now. Doing unnecessary things to her will only make it worse.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:The enemy...the enemy could appear at any time and you want me to just abandon her? +Or are you saying...you want me to leave her behind for S.F.?
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Sangvis has already retreated.</color>+<color=#00CCFF>She'll be safer here instead.</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:And...you can't help us...like you did before...?
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>...I'm doing something more important.</color> 
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:The M16A1 I know would never have said that...
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>The situation is different now. Humans have to change...and so do Dolls.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:I'm not good at thinking about things that are too complicated... +And this might be the last time I ever listen to you, M16A1... +But...if anything happens to M4A1, I won't let you off.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>She'll be fine. I guarantee it.</color>
+()<Speaker></Speaker>||:...SOP-II stumbles over to the corner of the safe house. + ...And then, she comes to RO's side.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO... +Let's go.
+()<Speaker></Speaker>||:SOP-II picks up RO's body and limps step by step toward the exit.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>She's already stopped functioning, SOP-II.</color>+<color=#00CCFF>Also, RO's not like us. She has a chance to survive this. All she needs is to have her body rebuilt and her neural cloud re-downloaded into it.</color> 
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN>:...SOP-II doesn't answer. Instead, she steps outside the safe house.
+()<Speaker></Speaker>||<震屏>:...Thunk. +SOP-II's body can't hold out, and she collapses into the rain with RO's body.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>There's no point doing this—</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)|||<BGM>BGM_Empty</BGM><震屏>:Then what's the point of anything?!
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>...</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Everyone's gone... +I'm all alone now... +So what's the difference between being dead or alive?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:What's the point...of living anymore....
+()<Speaker></Speaker>||:...
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>...</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:At least...at the very least, I need to save a friend of mine!
+()<Speaker></Speaker>||:...SOP-II reaches out to RO.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Even if her neural cloud can be restored...the memories we shared...and the memories she had with M4 will be gone... +At long last, we had the chance to be together like we used to be...but then...but then!
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>SOP-II...</color> 
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm only doing this... +For the people who need me!
+()<Speaker></Speaker>||:...Kachak!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry, RO... I might be a little rough...
+()<Speaker></Speaker>||:...SOP-II rips RO's body open and tears out her neural core.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:This way, we'll be able to go home together...
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Are you going to leave this place? If you go any further, we won't be able to stay in touch.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:You can't help me anymore either, can you? +I'll figure out the rest myself.
+SOPIIDamage(2);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>Then where are you going?</color> 
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:I'm going to find the Commander and return to Griffin.
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Even if you go back to Griffin, it won't make everything better...</color>+<color=#00CCFF>The AR Team, S.F., and Griffin...</color> +<color=#00CCFF>Everything you know may start to turn upside down.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:I don't see it, and I don't care. +I only care that... I might never be able to meet everyone again.
+SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II forces a smile with great difficulty.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Thank you for waking me up, M16A1. +I'll treasure the chance you've given me, and I won't let myself die easily. +Even if I'm the only one left...I will...I HAVE to survive...
+()<Speaker></Speaker>||<黑屏1>:...SOP-II leaves the safe house, and vanishes into the pouring rain.
+()||<黑点2><BIN>10</BIN>:

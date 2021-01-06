@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>129</BIN><BGM>GF_Memorial</BGM>:……
+m45(0)<Speaker>m45</Speaker>||:Flour, sugar, butter, fruits…+…This should be good. I wonder if this will surprise Miss Springfield?
+m45(0)<Speaker></Speaker>||:…m45 claps her hands together and spreads the ingredients out on a table.
+m45(0)<Speaker>m45</Speaker>||:Since I'm preparing treats for Halloween, should I use an unusual recipe?+…+Perhaps Miss Springfield will have a better idea… I shouldn't be too hasty with this…
+()<Speaker></Speaker>||:…Someone is knocking at the door.
+()<Speaker>WA2000</Speaker>||:Hey, anyone in?
+m45(0)<Speaker>m45</Speaker>||:Miss WA2000, what's the matter?
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:So someone's here…+What are you doing here by yourself?
+m45(0)<Speaker>m45</Speaker>;WA2000(0)||:I thought that Miss Springfield might need a helper if she's preparing treats for so many people…+But she isn't here yet, so…
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:Is the treats thing urgent?
+m45(0)<Speaker>m45</Speaker>;WA2000(0)||:Probably…not.+There's still a bit of time until the event starts.
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:Then good, I need people over at the haunted house for help with the animatronics. You'll come with me.
+m45(0)<Speaker>m45</Speaker><Shake>;WA2000(0)||:Huh…?+Wait! But…this is the kitchen…
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:Springfield can handle all the food even by herself. Or are you saying there's a reason that you must stay in the kitchen?
+m45(0)<Speaker>m45</Speaker>;WA2000(0)||:Well…no…
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:Then? You'll be working with your hands anyway. There's not much difference between cooking and fiddling with machines.
+m45(0)<Speaker>m45</Speaker>;WA2000(0)||:Is that so…+But I normally only hang around the kitchen… I'm not sure if…
+m45(0);WA2000(0)<Speaker>WA2000</Speaker>||:So are you coming to help or not?+I'll get Springfield to come instead if you're not. She wouldn't be so fussy.
+m45(0)<Speaker>m45</Speaker>;WA2000(0)||:…+I-I'll do it!+Just tell me what to do!
+WA2000(0)<Speaker>WA2000</Speaker>||:Then bring your gear. The event will be starting soon.+We'll meet at the warehouse entrance.
+()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:…WA2000 hastily leaves the kitchen.
+m45(0)<Speaker>m45</Speaker>||<黑屏1>:…I don't think…cooking and working with machines…are that similar…right?+Will I really be of help to her?+No, I shouldn't be overthinking this…
+()<Speaker>WA2000</Speaker>||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>:m45? Where'd you go?+If you can hear me, bring the nail gun and screws over. Please don't get it wrong again.
+m45(0)<Speaker>m45</Speaker>||<BGM>BGM_Hello</BGM>:Okay, I'll bring… Huh? Where are you, Miss WA2000?
+()<Speaker>WA2000</Speaker>||:What are you doing inside the machine?+Go around the cage!
+m45(0)<Speaker>m45</Speaker>||:Sorry! It's a bit dark in here…+Ah!
+()<Speaker></Speaker>||<震屏>:…m45 accidentally kicks over a toolbox.
+WA2000(4)<Speaker>WA2000</Speaker>||:Hey…+What's the matter with you…+And I've been meaning to ask, did you even prepare at all?
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:Prepare…?+Yes…since I'll be making treats for everyone…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:I'm not talking about food. I'm talking about your clothes.+Considering you're a participant of the event, shouldn't you have a Halloween costume?
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:No… I originally thought that I'd be staying in the kitchen the whole time…
+WA2000(4)<Speaker>WA2000</Speaker>||:(Quietly) Huh? That's weird. She didn't help you prepare one…?
+()<Speaker></Speaker>||:…WA2000 finishes maintenance on the animatronics.
+WA2000(4)<Speaker>WA2000</Speaker>||:I'm done. Now we just need to make sure they'll function properly.+I'll stay here. You go turn on the switch in the monitoring room.
+m45(0)<Speaker>m45</Speaker>||:But there are so many panels in the monitoring room… I'm not sure which one to turn on…
+WA2000(4)<Speaker>WA2000</Speaker>||:Is this your first day at Griffin? You should clearly be able to tell from a glance which switch is which, right?+…+(Sighs) The switch...is on the wall beside the door. It's a red box.
+m45(0)<Speaker>m45</Speaker>||:I found it, Miss WA2000. Do I turn it on now?
+WA2000(4)<Speaker>WA2000</Speaker>||:Go ahead.+There shouldn't be a problem for someone even as clumsy as you are, right?
+m45(0)<Speaker>m45</Speaker>||:(Whimpers…)
+()<Speaker></Speaker>||<黑屏1>0,6</黑屏1>:…m45 pulls the switch.+…Click.
+()||<黑屏2>0,3</黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...The entire warehouse seems to have lost power the moment she turned on the switch.
+()<Speaker>WA2000</Speaker>||:Wah! W-Why'd it suddenly go dark?
+m45(0)<Speaker>m45</Speaker>||:M-Miss WA2000!
+()<Speaker>WA2000</Speaker>||:…+What did you do?
+m45(0)<Speaker>m45</Speaker>||:I-I didn't do anything!+I only turned it on like you told me to!
+m45(0);WA2000(4)<Speaker>WA2000</Speaker><通讯框>||<BGM>BGM_Hello</BGM>:Ja ja… I underestimated how bad things can get.+…You should've told me earlier if you couldn't handle it, then I wouldn't have brought you along with me.+I would've been better off by myself if I knew things would end up like this.
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:I'm sorry…!+I'll look for the correct switch right now…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:Don't, I'll do it myself. I really don't understand how you could even screw this up.
+m45(0)<Speaker>m45</Speaker>||:Miss WA2000… I…+I shouldn't have left the kitchen…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:Yes, it seems like you're right.+…+m45, you turned on this one, right?
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:Yes, that's right.
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:…+(Quietly) Huh? If it isn't the wrong switch, then why…?
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:Miss WA2000… What should we do? Is it hard to fix?
+m45(0);WA2000(4)<Speaker>WA2000</Speaker><Shake>||:This… I…+…Hmph! It obviously is no big deal! Don't get so worked up over it!+Y-You should've taken a closer look at the gauges before you turned it on!
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:I'm sorry…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:…Don't apologize…+Let's just think of a solution to this situation.
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:I'll go with you…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:No need. Stay here and wait for me.
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:Stay here in the monitoring room…alone?
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:We're in the middle of our base. What are you afraid of?+You're not scared, are you?
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:I'm…probably…not…
+m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:So are you scared or not? Give me a proper answer.
+m45(0)<Speaker>m45</Speaker>;WA2000(4)||:Um…I'll be fine alone…+…probably.
+WA2000(4)<Speaker>WA2000</Speaker>||:Then hold down the fort here. I'll be back in a bit.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:…WA2000 leaves the monitoring room, and the sounds of her footsteps soon disappear into the darkness.+…
+m45(0)<Speaker>m45</Speaker>||<黑屏2><BGM>BGM_Room</BGM><BIN>46</BIN><Night>:I'm not scared… I'm not scared…+There's nothing to be scared of… Miss WA2000 can fix the circuits all by herself.+This is just an ordinarily unoccupied warehouse, why would anything scary be hiding here!
+()<Speaker></Speaker>||:…
+m45(0)<Speaker>m45</Speaker><Shake>||:I shouldn't have come along at all…+…Why did I agree to Miss WA2000…+I should've told her…that I AM scared…
+()<Speaker>m45</Speaker>||:What should I do… When will the lights come back on…
+()<Speaker></Speaker>||:…
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Is anyone here?
+m45(0)<Speaker>m45</Speaker>||<震屏>:Eek-
+()<Speaker>???</Speaker>||:Is anyone…in here?
+()<Speaker></Speaker>||:…An unfamiliar voice suddenly calls out from the other side of the closed door.+Trembling in the dark, m45 clasps her mouth with her hands, trying to stay as still as she could.
+m45(0)<Speaker>m45</Speaker>||:<color=#A9A9A9>(Why would someone come to the monitoring room at a time like this…)</color>+<color=#A9A9A9>(And I don't recognize the voice at all… This person must be using a voice changer!)</color>
+()<Speaker>???</Speaker>||:Miss WA2000…?
+m45(0)<Speaker>m45</Speaker>||:<color=#A9A9A9>(This stranger knows Miss WA2000 is in this warehouse!)</color>+<color=#A9A9A9>(N-Not good! It'll be dangerous if this person knows I'm in here! I need to alert the others---)</color>
+()<Speaker>???</Speaker>||:I don't know if you'll hear me out…+But I am here…to apologize…
+()<Speaker>m45</Speaker>||:...+<color=#A9A9A9>(What…?)</color>
+()<Speaker>???</Speaker>||:The power outage… It's all my fault…+It's because I didn't do a proper check that things ended up like this…
+()<Speaker>m45</Speaker>||:<color=#A9A9A9>(…But I was the one that turned on the switch…)</color>
+()<Speaker>???</Speaker>||:Everyone's efforts went to waste because of me…+I…do not have the courage to face everybody, but even so, I still must apologize to you.
+()<Speaker>m45</Speaker>||:<color=#A9A9A9>(Although I don't know who this person is… But… But…)</color>
+()<Speaker>???</Speaker>||:Or perhaps…you've already left.+There's a big issue to be taken care of, after all…
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay>:…The person on the other side of the door sighs as if she is preparing to leave.
+m45(0)<Speaker>m45</Speaker>||<BGM>BGM_Moon</BGM>:…+Please… Please wait…!
+M1903(4)<Speaker>???</Speaker><Position>0,8000</Position>;m45(0)<Position>-450,0</Position>||:This voice is…?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:Although I don't know who you are, and this request may be impertinent…+But can you…not leave yet…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:…Hm? Is something the matter?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:…+Today…I betrayed my forte.+I wanted to know if I am able to do anything else besides baking, which is why I came along with Miss WA2000 to help her set up the animatronics.+I came to the realization that besides baking…I really am useless…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Please don't think like that. There's no way for Miss WA2000 to set up those machines outside all by herself.+There are times when she gets anxious and may be rash with her words, but she truly is not trying to belittle your efforts.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:But I did in fact cause her and everybody a lot of trouble.+The power outage happened because…I didn't notice the condition of the panel before I turned it on…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:…And the reason for that is because the person responsible for the event did not realize that the wiring is in disrepair.+It would've happened regardless if you or anyone else turned the power on.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:But if I had only stayed in the kitchen and helped out Miss Springfield like usual instead, I wouldn't have caused this much trouble for Miss WA2000…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Do you regret…coming here to help Miss WA2000?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:Looking at the situation we are in right now… Yes, I made the wrong choice.+But I originally came with her because...I wanted to step out of my comfort zone.
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Everyone has their strengths and weaknesses, and it doesn't necessarily mean that stepping out of one's comfort zone is a good thing.+Aren't you constantly discovering new surprises when you're baking bread?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:But that's only bread…+Moreover, it oftens feel like…I'm trapped in the kitchen.
+M1903(4)<Speaker>???</Speaker>;m45(0)||:I think…+Rather than forcing yourself to do things that you don't like, it's better to progress down a path that you do enjoy.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:But even when it comes to progress, I feel so insignificant compared to Miss Springfield…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:…+Reality is not what you think. Everyone speaks very highly of your bread.+Even Springfield is envious of your technique and philosophy when it comes to baking bread.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:Miss Springfield says that to everybody.
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Do you not believe her?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:She's only being considerate…+Baking is only one of many of her skillsets. I can never be as good as she is at everything that she's able to do…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:But have you considered that she may be faking her confidence?
+M1903(4);m45(0)<Speaker>m45</Speaker>||:No, Miss Springfield never makes mistakes.
+M1903(4)<Speaker>???</Speaker>;m45(0)||:How could that be?+Everyone has moments when they buckle under pressure. The same goes for Springfield.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:Miss Springfield isn't like that! That sort of thing doesn't faze her at all!
+M1903(4)<Speaker>???</Speaker>;m45(0)||:There are times when even Springfield makes mistakes, when she gets yelled at by Miss WA2000, and when she wants to run away from her problems.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:Even Miss Springfield…has been scolded by Miss WA2000 before?
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Hehe, if you make a mistake, she doesn't care who you are, because she'll scold even the Commander.+That's why Springfield isn't as perfect as you think she is. There are times when even she wants to run away.
+M1903(4);m45(0)<Speaker>m45</Speaker>||:I can't imagine Miss Springfield being that sort of person…
+M1903(4)<Speaker>???</Speaker>;m45(0)||:Me neither.+But I imagine she has accepted the reality that she runs away from things, because she needs to in order to deal with the stress.
+m45(0)<Speaker>m45</Speaker>||:…+How great…+I don't even know what a method of dealing with stress is suitable for me…
+()<Speaker>???</Speaker>||:……
+m45(0)<Speaker>m45</Speaker>||:……+…A-Are you still there?+Don't leave me here…
+()<Speaker>???</Speaker>||:m45…+Will you…open the door?
+m45(0)<Speaker>m45</Speaker>||:Huh…?
+()<Speaker>???</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:If you'll trust me…+I can…provide you with a method…
+()<Speaker></Speaker>||<BGM>GF_Memorial</BGM><黑屏2>0,0.4<BIN>87</BIN>:...Everyone has gathered in the cafe to continue with the Halloween celebration after the resolution of the blackout issue.+The entire room is filled with chatter and laughter as if they've already forgotten what had happened, and the melancholic mood in the room slowly dissipated.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Although a power outage in and of itself isn't that big of a deal, this one sure raised a big ruckus…)</color>+<color=#A9A9A9>(Perhaps things might've been more tranquil if we had followed the original plan instead.)</color>
+m45(2)<Speaker>???</Speaker>||:Commander, you don't look very happy.+I saved this slice of cake for you. It's made with a special new recipe!
+()<Speaker>Commander</Speaker>||:Ah… Yes…thank you.+…+Um…you're…?
+m45(2)<Speaker>???</Speaker>||:Huh?
+m45(2)<Speaker></Speaker>||:…I blink my eyes in confusion. I've never seen this T-Doll before, yet she somehow seems familiar.
+m45(2)<Speaker>Commander</Speaker>||:Y-You look quite nice in the witch costume. It really matches your style…uhm…
+m45(2)<Speaker>???</Speaker>||:I'm m45. You didn't recognize me at all, Commander!
+m45(2)<Speaker>Commander</Speaker>||:Ah… Ahh!+But where's your glasses?+<color=#A9A9A9>(And this costume is way too eye-catching… Darn it, what I said earlier was a total mistake!)</color>
+m45(2)<Speaker>m45</Speaker>||:Miss Springfield suggested that I change to contact lenses, but I think I look too striking this way.+I think I'm more suited to be a bakery girl after all…
+m45(2)<Speaker>Commander</Speaker>||:No no, a bakery girl can be striking as well! They're not mutually exclusive.
+m45(2)<Speaker>m45</Speaker>||:But these clothes aren't suitable for working with bread…+I won't be able to face Miss Springfield if I dirtied this outfit…
+m45(2)<Speaker>Commander</Speaker>||:So she made the costume?
+m45(2)<Speaker>m45</Speaker>||:Mhm… Miss Springfield said I must've only wanted to stay in the kitchen, so she especially prepared this outfit for me.+It's just that she expected to hand me this gift under more normal circumstances…
+m45(2)<Speaker>Commander</Speaker>||:I think Springfield must've really wanted you to join the party seeing as how she went out of her way to prepare such a beautiful outfit for you.
+m45(2)<Speaker>m45</Speaker>||:Miss Springfield told me that…I shouldn't lock myself up in the kitchen and that I should step out once in a while.+So she gave me this costume…as a sort of encouragement…
+m45(2)<Speaker>Commander</Speaker>||:You do so much for everyone every time we have an event. I think you do deserve to come out once in a while and be the center of attention.
+m45(2)<Speaker>m45</Speaker>||:But now nobody even recognizes me.
+m45(2)<Speaker>Commander</Speaker>||:Well…this tends to happen when you change your image. Give it some time and everyone will get used to it.
+m45(2)<Speaker>m45</Speaker>||:…On second thought, I think it's best to not look like this after all.
+m45(2)<Speaker>Commander</Speaker>||:Huh? But you look very pretty…
+m45(2)<Speaker>m45</Speaker>||:My bad personality will swell up like a loaf of bread if I flaunt around too much.+It's for the best if everyone thinks of bread when they see me.
+m45(2)<Speaker>Commander</Speaker>||:Is that so…
+m45(2)<Speaker>m45</Speaker>||<黑屏1>:But, to make an appearance like this once or twice a year so the Commander doesn't forget what I look like shouldn't be a problem.+So, um…Commander…+What do you think of this special recipe Halloween bread?
+()<Speaker></Speaker>||<黑屏2><黑屏1>:…+The expression on m45's face changed when she mentioned that she received the outfit from Springfield.+She looked a little bit sentimental, with a hint of wistfulness, but also indescribable perplexity… Perhaps she did not even realize it herself.+Whenever the topic of m45 is brought up, everyone would think of the rich, freshly-baked aroma of her bread.+But tonight, that aroma is nowhere to be found.
+()<Speaker></Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:Perhaps she had also experienced something in the haunted house like the others did while the power was out…+But I think that's probably a secret between her and Springfield.

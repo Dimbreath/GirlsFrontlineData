@@ -1,0 +1,25 @@
+()||<BIN>9</BIN><BGM>BGM_NightOPS</BGM><黑屏2>:... +Docking complete.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:...
+RO635(3)<Speaker>RO635</Speaker>||:...
+()||<闪屏><duration>5</duration></闪屏>:...Smack!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Urgh...
+()||<闪屏><duration>5</duration></闪屏>:...Smack!
+RO635(3)<Speaker>RO635</Speaker><Shake>||:Ugh...
+()||<闪屏><duration>5</duration></闪屏><CGDelay>0.1</CGDelay>:
+()||<闪屏><duration>5</duration></闪屏>:...Smack, smack!
+()||<黑屏1>0,5<黑屏1>:...Kachak! +...SOP-II's eyes suddenly snap open!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>85</BIN><睁眼>:SOP-II! SOP-II! +The Military's units have found us! Wake up, quick!
+Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II stands dumbly in place, utterly motionless.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II？</Speaker>||:I...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:SOP-II...? Are you alright?
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II？</Speaker>||:SOP-II... +SOP-II... Where... is SOP-II...?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||<立绘振动>:SOP-II? +Sorry, don't tell me I accidentally broke your neural cloud... +I'm sorry! I got anxious and hit you an extra time! Is this some kind of spell that has to be carefully carried out and hitting one too many times will have consequences?
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II？</Speaker>||:SOP-II... Where's SOP-II...? +Wait... +Where am I...?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:SOP-II... +You're... not opening your mouth? Then how are you speaking? +And you... who are YOU?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II？</Speaker>||:... +Me?
+RO635？()<Speaker>RO635？</Speaker>||:I'm... RO635, and you're...
+()||:Cx4 looks down at the source of the sound.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<震屏>:Ah! So... that voice was coming from YOU!
+RO635(6)<Speaker>RO635</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Me? Where am I? +Why am I... so... short? +Wait, these hands... no! These legs are—!
+()||<BIN>9</BIN><黑屏2>:...
+<Speaker>RO635</Speaker>()||<闪屏><duration>5</duration></闪屏><黑屏1>:<size=55>AHHHHHHHHHHHHHHHHHHHHHHHHHH—!</size>+<size=55>WHY AM I IN A DINERGATE?!</size>

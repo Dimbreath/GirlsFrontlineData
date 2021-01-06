@@ -1,0 +1,12 @@
+()||<BIN>9</BIN><BGM>BGM_Danger</BGM>:Click.
+M16A1()<Speaker>M16A1</Speaker>||<黑屏1>:Commander? Negev? Are you there?!
+NEGEV(0)<Speaker>Negev</Speaker>||<黑屏2><BIN>2</BIN>:M16, where the hell are you?!+Sangvis forces are everywhere in Area S08, and they're insanely strong!+We almost retreated without you!
+M16(3)<Speaker>M16A1</Speaker><通讯框>||:Sorry, I got held up by something.+Listen, Negev, Commander. Ignore everything else.+Alchemist's troops have started mobilizing. I'm afraid they're going straight for you.
+NEGEV(0)<Speaker>Negev</Speaker>;M16(3)||:Humph. So it's time to settle the score?+What about you? Where are you and SOP-II going?
+NEGEV(0);M16(3)<Speaker>M16A1</Speaker>||:We have our own arrangement. We can handle it. Don't worry about us.+You guys be careful. Commander, keep Negev and the others safe!
+NEGEV(0)<Speaker>Negev</Speaker>;M16(3)||:Hey! M16! Hello?!
+NEGEV(0);BOSS-5(0)<Speaker>Alchemist</Speaker><通讯框>||:Morning, everyone from Griffin.+The hunt is about to begin. Are you ready?+And I very much look forward to seeing you again, Miss Negev...
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)(0)||:Oh really? But I'm hella pissed right now, Alchemist...+You'd better pray you won't run into me, especially not while I still have a breath left in me...
+NEGEV(0);BOSS-5(0)<Speaker>Alchemist</Speaker>||:Oh? How long will you last with your antique rounds?+Now let me guess. Are you gonna get shredded along with your little friends, or keel over as you run away on your own?+Paint your face with the sweetest kind of fear and let me have a taste!
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)(0)||<黑屏1>:Suits me just fine, Sangvis scumbag...
+Negev()<Speaker>Negev</Speaker>||<黑屏2><BIN>9</BIN>:Let's get this fight started, Commander.+There's nothing more riveting than guzzling the blood of your enemy.

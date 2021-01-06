@@ -1,0 +1,77 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Truth</BGM>:Inside the control center.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:What's wrong?
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>Did some rats get in? It looks like her creator didn't trust her that much. </color>+<color=#00CCFF>Still, it is not the time to worry about rats. It would seem that the abandoned Isomers are here. </color>+<color=#00CCFF>No, perhaps we have all been abandoned. It is time to learn the truth.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Could it be the dolls from 404...? We haven't the time to deal with them now. What about the connections? Are they stable yet?
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>They are already gathered around you.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Don't they have names of their own?
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>They say they have no names. Failures do not deserve to have names.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>I will ask you one last time. Do you really want to connect with them?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I want to open the city walls, and to open the walls within my heart. I want to learn everything that I wish to know, and then leave this place with everyone.
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||<黑屏1>:<color=#00CCFF>Understood. So it shall be.</color>
+()||<BIN>197</BIN><黑屏2>:M4 slowly gets to her feet wordlessly. She gazes into the distance, but does not find what she is hoping for.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Is it over? Have you obtained access?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:No...the connection has just begun...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:What?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:You were right... I do want to know more. +Request the Commander to have all echelons rally at our position. I need them to protect this building. +Also, if any Isomers approach, do not open fire. Let them in.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Isomers? You mean those test subjects?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yes, those girls are to arrive. Hinder them not. Cherish them, like lost lambs. +Only when they find their way home will we find our way out.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Understood. I'll contact the Commander. +Though... M4, why are you speaking in such a weird fashion...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:(Am I being paranoid? Why do I have the feeling that this isn't M4...)
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Empty</BGM>:At the Griffin command post.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, the echelons are formed up and ready. Apart from a few echelons investigating the test subjects, all the other Dolls are outside the control center building. +It's not often that the AR Team call for reinforcements. Could they have found a way to open the quarantine wall?
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Brain</BGM>:Something just feels off about this... What are your thoughts on the matter, Persica?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I've got a bit of a bad feeling about this too... A dense network, forcing a connection with M4, and now she requests to not shoot at the "Isomers".</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:What exactly is an Isomer?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I don't know why M4 would suddenly mention that term either...</color>
+NPC-Persica(0);NPC-Kalin(7)<Speaker>Kalina</Speaker>||:However, M4 does physically resemble those test subjects. Miss Persica, you should know something about this since you developed M4, right?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm looking into it, but I'm not sure—</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:An urgent transmission suddenly comes though.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Commander! Miss Persica! We've got trouble! 45's trapped inside M4's neural cloud!</color>
+UMP9Mod(4)<Speaker>Commander</Speaker>||:Say what?
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>45 entered M4's neural cloud when she was performing the connection, but she's trapped inside now for some reason!</color>+<color=#00CCFF>These are the memory fragments she intercepted, she said I HAD to get them to you! Please, you have to help us save 45!</color>
+()<Speaker></Speaker>||<BIN>195</BIN><黑屏2>:...
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>This...this is!</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:What's the matter?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>"Inverted Forest"... That was the codename of the first Doll neural cloud development project that Lyco and I worked on in 90wish!</color>+<color=#00CCFF>It's a layered space made to simulate neural clouds. The basic neural cloud templates of the second generation of Tactical Dolls were first computed here.</color>+<color=#00CCFF>I see... I know what William is trying to do now!</color>+<color=#00CCFF>Commander! Make M4 terminate the connection! You mustn't let M4's neural cloud fuse with them!</color>
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:Inside the control center.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4! M4, did you hear that?! The Commander orders you to terminate the connection immediately!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM>:Lunasia is trapped within, awaiting for someone to receive her.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Tsk! Who are you?! What have you done with M4A1?!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1?</Speaker>||:Nothing. I have only assisted in helping her recover herself. Fractured into countless consciousnesses, she has joined with the Isomers and unified with them. +"Lunasia" and "Elisa", their neural clouds lay fragmented. A safety measure instituted by their creators. +The fear of our homeland is imprinted deep within the bones of mankind, and yet there are humans who are willing to pay any price to excavate it.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I don't know what the hell you're talking about! Give M4 back to me right now!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1?</Speaker>||:Threatening me, are you? What will you do? Would you perhaps open fire upon this body?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:You bastard... Who the hell are you?!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1?</Speaker>||:I do not know either. Humans called me OGAS, and so I have taken upon that name. +Hmm... It seems that I am present in the base layer of your neural cloud... I see. You have been infected as well.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:...
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:I neither wish to harm you, nor do I have any interest in you. I am simply trying to recover my past, just like Lunasia.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Lunasia... Do you mean M4?
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:Correct. That is her original name. +If you wish to get her back, you are not without options. I believe she mentioned to you just prior that you can enter her neural cloud by connecting to the backdoor she left behind. Perhaps you might be able to recover her. +Of course, that would require that you open your neural cloud access ports. When that happens, you will once again make contact with the "me" that is a part of you. +Perhaps this "me" would be able to find the Doll that you so seek. It would be mere child's play for us.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:...Why should I trust you?
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:You may also choose to do nothing, to sit there and await her return. I do not object to that choice.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I...
+()<Speaker></Speaker>||:ST AR-15 clenches her fists.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:I didn't ever want to hear that damned voice again, because I knew all it would do was try to trick me... Why are you so damn stupid...? +But I promised, I promised that I would drag you out alive. +So...
+()<Speaker></Speaker>||<BIN>195</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:Have I finally found the right exit...? +I can't remember how many thousands of times I've tried...
+()<Speaker></Speaker>||:M4 shakes her head and speaks to the crowd behind her.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:So, is there anything you want to tell me?
+AbandonedIsomer(0)<Speaker>???</Speaker>||:...
+AbandonedIsomer(0)<Speaker>???</Speaker>||:You are not the Chosen One, but you can accept us.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Your neural cloud is perfect. Shattered, but perfect.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:You are more perfect than the chosen ones.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Will we be perfect if you accept us?
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Certainly. +You will accept us, then we will go home together.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:We have already seen your past. You are like us.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:We are clearly the same. Why did it have to be you?
+AbandonedIsomer(0)<Speaker>???</Speaker>||:But it is fine. As long as one survives, everyone will be able to go home. +You have already seen our home. As long as everyone returns there...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I don't get it... +If we're the same, then why don't I understand what you're saying? Since you want to tell me something, why do you have to resort to such obscure means...
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Because we dare not overstep her authority. +Only she can show you more of the truth. We are simply failed observers.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:When she comes, she will tell you everything we know. When that happens, please take us away from here, and bring us home.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:But I'm trapped here, and I don't know how to leave either.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Come with us, then. We may not transgress against her, but you may see our memories. When you obtain what you want, you may then leave. +Leave this place, and take us home.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:...It looks like I don't have any other choice but to go deeper.

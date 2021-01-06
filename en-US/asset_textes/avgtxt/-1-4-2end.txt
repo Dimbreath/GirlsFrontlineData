@@ -1,0 +1,59 @@
+ ()||<BGM>BGM_Room</BGM><BIN>9</BIN><SE1>Battlefield</SE1>:At Area S06 Sangvis command center.
+代理人()<Speaker>Agent</Speaker>||<黑屏1><SE2>Gunfight</SE2>:...The main force in Area S06 has been defeated and the command center is on the verge of collapse.+We have lost against Griffin and Squad 404.+Although, I'm not surprised at this result at all...
+代理人()<Speaker>Agent</Speaker>||<BIN>31</BIN><黑屏2><SE1>Battlefield</SE1>:Ouroboros, this is your first and will be your last mission. You have failed completely.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:...I'm very sorry for not being able to protect the jammer.
+代理人()<Speaker>Agent</Speaker>||<SE2>Gunfight</SE2>:It's not a big deal. Truth to be told, the jammer has already been moved back to HQ.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:What?!+The jammer...was clearly destroyed in that explosion!
+代理人()<Speaker>Agent</Speaker>||<SE1>Battlefield</SE1>:Many things cannot be anticipated when you are so careless.+But you have to understand, we are different from Griffin. Second chances don't come that easily.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:You're getting rid of me, aren't you...?
+代理人()<Speaker>Agent</Speaker>||:I simply...understand your thought process quite well.+Do you have any last words?
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏1>:...
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏2><BIN>9</BIN>:Curse you...+Curse you! Sangvis, Griffin, Squad 404!+I have never been wronged like this in my entire life!+Gr G11, UMP9, 416, UMP45!+You rats that only know how to scurry in the shadows!+I will not lose like this! I will escape and have my revenge!
+？？()<Speaker>???</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Sorry, that's not going to happen.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>32</BIN><BGM>BGM_NightOPS</BGM>:Nice to meet you. I'm UMP45 from Squad 404.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:......+So you're the rumored UMP45...+For someone like you that has conducted so many successful covert operations, you must be a cold-blooded monster.
+UMP45()<Speaker>UMP45</Speaker>||:No one willingly becomes a monster.+It is precisely because I'm not that cool that I've been able to keep myself alive.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:I still don't understand...how you escaped the explosion unscathed.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:I took a little advantage of...Dolls' emotions.
+ExcutionerElite(1)<Speaker>Executioner</Speaker>||<黑屏2><BIN>3</BIN><Night>:What awaits Dolls like us is neither heaven nor hell.+Squad 404...you will disappear from this world along with me...
+UMP45(2)<Speaker>UMP45</Speaker>||:Wait! Maybe we can talk?+What if I told you we have Hunter in our hands?
+ExcutionerElite(0)<Speaker>Executioner</Speaker>||:...What?!
+UMP45(0)<Speaker>UMP45</Speaker>;ExcutionerElite(0)||:Ouroboros cut off Hunter's consciousness, but she is still alive and we are taking good care of her.
+UMP45(0);ExcutionerElite(0)<Speaker>Executioner</Speaker>||:What...does that have to do with me?
+UMP45(0)<Speaker>UMP45</Speaker>;ExcutionerElite(0)||:Let's be honest, you want to save Hunter, don't you?+Furthermore, you are completely capable of doing so with your authority.
+UMP45(0);ExcutionerElite(0)<Speaker>Executioner</Speaker>||:You want me to betray my mission?
+UMP45(0)<Speaker>UMP45</Speaker>;ExcutionerElite(0)||:At least you have the choice, right?
+UMP45(0);ExcutionerElite(0)<Speaker>Executioner</Speaker>||:......+It seems that you understand us quite well.
+UMP45(0)<Speaker>UMP45</Speaker>;ExcutionerElite(0)||:♪ So...do we have a deal?
+UMP45(0);ExcutionerElite(0)<Speaker>Executioner</Speaker>||<黑屏1>:Hand over Hunter and get lost within two minutes. Don't get in my way of retrieving the jammer.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<BIN>9</BIN><黑屏2>:Hahaha, what a joke!+Why would Executioner betray me for a worthless Doll?!
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Executioner didn't betray you. She received a higher priority directive.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>35</BIN>:Sangvis Dolls have never been emotionless killing machines.+Especially the innovative designs like Hunter and Executioner. Being able to help each other means they can stay alive longer on the battlefield.+That's why she saved Hunter instead.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:How do you know all this? You even know more about the priority of Sangvis authority than I do...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:I don't, actually. I simply gambled on it.+Perhaps...this is Agent's insurance for keeping you in check.
+UMP45()<Speaker>UMP45</Speaker>||<BIN>32</BIN><黑屏2>:Do you feel defeated? We both abandoned our original missions, yet we ended up with completely opposite results.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||:I have always wanted to prove myself, but in the end, I ended up being used by you.+You...are a stain on me, 404...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Sorry.+We are a stain on everyone.
+UMP45()<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:But too bad those that want to erase us and not rely on us...+...End up being erased themselves.
+ ()||:...
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Hey, 45, done yet?
+UMP45(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Sunshine</BGM>:It's finished. Where are the others?
+HK416(0)<通讯框><Speaker>416</Speaker>;UMP45(0)||:OTs-14 is already on her way back to HQ. I'll go retrieve Gr G11 now.
+G11(0)<通讯框><Speaker>Gr G11</Speaker>;UMP45(0)||:You're taking too long, 416... Did you forget about me...?
+HK416(0)<Speaker>416</Speaker><通讯框>;UMP45(0)||:Thank you for reminding me. I actually did forget.+Why don't you take a nap and come back by yourself later?
+HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:Uwaa... Come get me... It's too cold here...
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:The mission is finally complete, but it's a bit of a shame that we weren't able to capture the jammer.
+HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:416... Are you listening? Come get me...
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:With Ouroboros's corpse and all the intel we've gathered throughout the entire mission, I think it'll be enough to satisfy Helian.
+UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||:It's definitely enough. Let's get out of here before the Commander shows up~
+UMP45(0)<Speaker>UMP45</Speaker>||:Good job everyone. Let's go home.
+()||:...
+G11(2)<Speaker>Gr G11</Speaker>||:Umm...guys? Are you still there?+Don't leave me here... I wanna go home...
+()||:...
+()||<BGM>BGM_Empty</BGM>:Ten minutes after the conclusion of Griffin's Operation Cube.+In Area S06 Sangvis command center...
+梦想家()<Speaker>Dreamer</Speaker>||<黑屏1>:Hello, anyone still here?+Heyyyy~!+Ah...everyone's gone...+Agent, they're all gone. You sure your eyes weren't playing tricks on you?
+BOSS-8(0)<Speaker>Agent</Speaker>||<BIN>34</BIN><黑屏2><BGM>BGM_Boss</BGM>:I can confirm in the video recording that Squad 404 came into contact with the jammer.+The "program" has indeed infected that Doll.+Parapluie can finally be moved on to the next phase.
+BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-8(0)||:So the entire point of this operation was to infect a T-Doll with the "program".+Having gone to such great lengths to hide it, I doubt anyone will notice...+I'm truly no match for you, Agent.
+BOSS-11(0);BOSS-8(0)<Speaker>Agent</Speaker>||:Do what you're supposed to do, unless you want to end up like Ouroboros.
+BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-8(0)||:Hehe, it was a pity that this happened with Ouroboros.+I thought she was quite promising. I didn't expect her to cause such a big racket.
+BOSS-11(0);BOSS-8(0)<Speaker>Agent</Speaker>||<黑屏1>:...The incompetent will always be destroyed by their own ignorance.+There is no need to be responsible for their failure if they cannot even reflect on this point.+The night is coming to an end. Let it all vanish to darkness.

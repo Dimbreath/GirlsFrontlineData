@@ -1,0 +1,178 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2>:...
+？？？()<Speaker>???</Speaker>||:...Wake up. +Hey, wake up!
+吉尔()<Speaker>Jill</Speaker>||<睁眼><BIN>186</BIN>:Ugh... +What... +Where is this place...
+FN57(0)<Speaker>Five-seven</Speaker>||<BGM>m_va_hopes_and_dreams</BGM>:Looks like you got really smashed yourself. This is your workplace, bartender.
+吉尔()<Speaker>Jill</Speaker>||:Oh... +Enjoy the present day and the present... +Dammit, these aren't the words I want to say, what's wrong with me...
+FN57(0)<Speaker>Five-seven</Speaker>||:Are you still dreaming?
+吉尔()<Speaker>Jill</Speaker>||:Oh right, I remember... +... +I don't remember anything...forget it... +I'm sorry, I must have fallen asleep. Good evening and welcome to Valhalla.
+FN57(0)<Speaker>Five-seven</Speaker>||:I'm the Griffin Tactical Doll Five-Seven, and I'm paying this visit to recover my colleague 416.
+吉尔()<Speaker>Jill</Speaker>||:Call me Ju...no, Jill will do. +Looks like your Commander finally remembered what he forgot here.
+FN57(0)<Speaker>Five-seven</Speaker>||:Mhm, actually, we just wanted to let 416 have a good rest. Clearing one's cache takes a lot of time.
+HK416()<Speaker>416</Speaker>||:Urgh...
+FN57(0)<Speaker>Five-seven</Speaker>||:Ah...I just activated her wakeup program. She should be awake now, but it'll take a few more minutes for all her modules to activate.
+吉尔()<Speaker>Jill</Speaker>||:So...are you just going to wait here? Or would you like a drink?
+FN57(0)<Speaker>Five-seven</Speaker>||:Do I look that much like an easy target to you?
+吉尔()<Speaker>Jill</Speaker>||:What? No, I shouldn't think so. +(I really want to say "perhaps" or "what if I say yes".)
+FN57(0)<Speaker>Five-seven</Speaker>||:It's not that I can't drink, but I don't quite like drinking with strangers.
+吉尔()<Speaker>Jill</Speaker>||:Miss 57, not every bar is a place where you get each other thoroughly liquored up and then let yourself go. At least, the place you're looking at isn't like that.
+FN57(0)<Speaker>Five-seven</Speaker>||:Then how do you explain the person on the sofa?
+吉尔()<Speaker>Jill</Speaker>||:That would be your company's problem. +Many customers who come here don't even touch a drop of alcohol. They just want a place to pay their money to talk.
+FN57(0)<Speaker>Five-seven</Speaker>||:Alright, although you don't look too reliable...you don't look like a bad person either.
+吉尔()<Speaker>Jill</Speaker>||:(I don't look like a bad person...says the handgun-toting customer to me.)
+FN57(0)<Speaker>Five-seven</Speaker>||:I...hm... +I'd like a Moonblast.
+吉尔()<Speaker>Jill</Speaker>||:Not going for something non-alcoholic?
+FN57(0)<Speaker>Five-seven</Speaker>||:No, since I know you now, this is what I want.
+吉尔()<Speaker>Jill</Speaker>||:Alright, alright, no problem.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give Miss 57 a Moonblast. I don't think she dislikes me.) +<va11><perfect>16<good>5,6,18,20,21
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:One Moonblast. Help yourself, Miss 57.
+FN57(0)<Speaker>Five-seven</Speaker>||<分支>1</分支>:Hmm...
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:What do you think?
+FN57(0)<Speaker>Five-seven</Speaker>||<分支>1</分支>:Hehe, it's surprisingly good.
+FN57(0)<Speaker>Five-seven</Speaker>||<分支>2</分支>:This...doesn't look like a Moonblast.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:I tailor-made this drink for you. Try it.
+FN57(0)<Speaker>Five-seven</Speaker>||<分支>2</分支>:Hehe, you sound like you know me very well... +Hm... +It doesn't seem too bad.
+FN57(0)<Speaker>Five-seven</Speaker>||:It doesn't feel quite like the alcohol I've had before. It definitely tastes more like a non-alcoholic beverage.
+吉尔()<Speaker>Jill</Speaker>||:What have you drank before, Miss 57?
+FN57(0)<Speaker>Five-seven</Speaker>||:Some dry red wines. My team leader likes that stuff and pretending to be high-class while drinking it.
+吉尔()<Speaker>Jill</Speaker>||:I think you're just not used to the taste. There's a reason why it was passed down through the ages. +So as you can see, this is the job of us bartenders. If all you wanted was alcohol, you wouldn't need to come to a place like this. You could just stay at home and drink out of cans.
+FN57(0)<Speaker>Five-seven</Speaker>||:Do you like drinking, Miss Jill?
+吉尔()<Speaker>Jill</Speaker>||:I'd fall into the latter group.
+FN57(0)<Speaker>Five-seven</Speaker>||:So you mix drinks as part of your job and then go home to drink canned beer?
+吉尔()<Speaker>Jill</Speaker>||:It's just like how a programmer might want someone else to fix their computer, or how an Italian chef would still want to go to a Mexican restaurant to eat a taco, right? +The job I do doesn't necessarily allow me to solve every single problem in its field. It's just a job.
+FN57(0)<Speaker>Five-seven</Speaker>||:That's quite interesting, but I know quite a few of my colleagues who think that way too.
+吉尔()<Speaker>Jill</Speaker>||:You don't look like that sort of Doll, though.
+FN57(0)<Speaker>Five-seven</Speaker>||:I only want to do sufficiently well within my field and not have anyone else interfere with me.
+吉尔()<Speaker>Jill</Speaker>||:You also have a will of your own, right?
+FN57(0)<Speaker>Five-seven</Speaker>||:I don't know... I was manufactured; should I not live up to my makers' expectations?
+吉尔()<Speaker>Jill</Speaker>||:If everyone thought like that, then there wouldn't be any disobedient kids in the world. +Society progresses because there's always someone who refuses to follow the rules, no?
+FN57(0)<Speaker>Five-seven</Speaker>||:Hehe, you sound like you're saying that the next step for us should be world domination.
+吉尔()<Speaker>Jill</Speaker>||:In another dimension, who knows?
+？？？()<Speaker>???</Speaker>||:Ugh... 57...
+FN57(0)<Speaker>Five-seven</Speaker><Shake>||:Uwah! You... Don't scare me from behind like that!
+FN57(0);HK416(1)<Speaker>416</Speaker>||:Oh...
+FN57(0)<Speaker>Five-seven</Speaker><Shake>;HK416(1)||:Geez! Are you awake now? How do you feel?
+FN57(0);HK416(1)<Speaker>416</Speaker>||:I'm alright... I dreamt that someone stuffed Earth into my head, although that Earth was only the size of a ping-pong ball.
+FN57(0)<Speaker>Five-seven</Speaker><Shake>;HK416(1)||:Do you have any drinks here to wake people up? Give her a glass. +We'll go to the restroom to change her clothes. Fortunately, the Commander had me bring a spare set.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:No problem. Head this way.
+吉尔()<Speaker>Jill</Speaker>||<黑屏2>:(Let's make Miss 416 a sobering drink.)+<va11><perfect>8
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Right, this is it, a Crevice Spike.
+FN57(0)<Speaker>Five-seven</Speaker>||:We're back. Is this the drink? Try it, 416.
+FN57(0);HK416(0)<Speaker>416</Speaker>||:Ugh... I feel a little better.
+吉尔()<Speaker>Jill</Speaker>||:You're welcome. This one's on me; I did get you drunk, after all.+(Although you were the one who insisted on drinking.)
+FN57(0);HK416(0)<Speaker>416</Speaker>||:So, can someone explain how I ended up like this?
+吉尔()<Speaker>Jill</Speaker>||:You got drunk and then started shouting about wanting Gr G28 to forget you.
+FN57(0);HK416(0)<Speaker>416</Speaker>||:Dammit...
+FN57(0)<Speaker>Five-seven</Speaker>;HK416(0)||:Don't worry, I'll keep it a secret. This is great for blackmailing you.
+吉尔()<Speaker>Jill</Speaker>||:And then you were complaining about a short teammate and the instructor of a training exercise.
+FN57(0);HK416(0)<Speaker>416</Speaker>||:Let me think... Yes, that was an infiltration exercise, and they all refused to work together and made a mess of things. +Jericho, Super-Shorty, MP5, Viking, and that insufferably loud IDW...
+吉尔()<Speaker>Jill</Speaker>||:Yes, it was in that order. Then you began to tear up your clothes as you danced the habanera.
+FN57(0);HK416(0)<Speaker>416</Speaker>||:Jill, if you say one more word, I'll make your twin tails dance with bullets. I'm sure they'll do a better job of dancing than me. +Let's go back, 57, I need a recharge.
+FN57(0)<Speaker>Five-seven</Speaker>;HK416(0)||:I'll be back to hear more, Miss Jill. I really didn't know 416 could do that.
+吉尔()<Speaker>Jill</Speaker>||:But you won't be staying around for too long, will you?
+FN57(0)<Speaker>Five-seven</Speaker>;HK416(0)||:There'll always be a chance for us to meet again. It's not like this world is that big, anyway. +Oh yes, do you mind if we hold our farewell party here?
+吉尔()<Speaker>Jill</Speaker>||:I'll have to get permission from the Boss. I'll tell her when she gets back.
+FN57(0)<Speaker>Five-seven</Speaker>;HK416(0)||:Will she agree?
+吉尔()<Speaker>Jill</Speaker>||:I'm guessing she'll be so happy that she'll do a triple backflip.
+FN57(0)<Speaker>Five-seven</Speaker>;HK416(0)||:Very well, I'll discuss the matter with my Commander, then.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:I'll be waiting for you.
+()||<BIN>9</BIN><黑屏2>:...
+吉尔()<Speaker>Jill</Speaker>||:...At last...it's quiet again.
+安娜()<Speaker>Anna</Speaker>||:Hah...what a long dream.
+吉尔()<Speaker>Jill</Speaker>||:Anna! Where did you go?
+安娜()<Speaker>Anna</Speaker>||:Oh? You were worried about me, Jo?
+吉尔()<Speaker>Jill</Speaker>||:Did I look very excited?
+安娜()<Speaker>Anna</Speaker>||:You look a thousand times more distant than I expected.
+吉尔()<Speaker>Jill</Speaker>||:And that's ten thousand times more passionate than I expected. It must be because I'm incredibly bored tonight.
+安娜()<Speaker>Anna</Speaker>||:I can tell. Would you like to have some fun?
+吉尔()<Speaker>Jill</Speaker>||:The healthy and harmless kind?
+安娜()<Speaker>Anna</Speaker>||:I had a dream, a dream where you became the boss of this bar, and I became a spectre that destroyed the world.
+吉尔()<Speaker>Jill</Speaker>||:What?
+安娜()<Speaker>Anna</Speaker>||<黑屏1>:So, would you like to hear about it? +It's a dream involving you, me, and the end of the world.
+()||:...+...At the same time.
+？？？()<Speaker>???</Speaker>||:...+...+I... I didn't... +...Disappear?
+()||:...She struggles to rise from the sleep capsule.
+？？？()<Speaker>???</Speaker>||:My mind...no...this is...a neural cloud? +Why do I know this... +Am I...a Doll?
+()||:She pushes open the door, walking outside on shaky feet.
+？？？()<Speaker>???</Speaker>||:Where is this place... +There's nobody here... What happened to me? And what happened...to our world?
+()||<BGM>m_va_your_love_is_a_drug_song</BGM>:...In the dark corridor, she sees a warm light flickering from behind a wooden door.
+？？？()<Speaker>???</Speaker>||:I think I've heard this song before... +...Looks like I don't have a choice.
+()||<白屏1>:...She walks toward the wooden door.
+？？？()<Speaker>???</Speaker>||<白屏2><BIN>80</BIN>:What...
+M1903Cafe(0)<Speaker>???</Speaker><Position>0,200</Position>||:Good evening, Miss Jill. +I told you we'd meet again.
+Jill(2)<Speaker>???</Speaker>||:You're saying I'm...Jill?
+Jill(2);M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:Or should I call you...Julianne Stingray?
+Jill(2)<Speaker>Jill</Speaker>;M1903Cafe(0)<Position>0,200</Position>||:Jill will do. I like this name. +But...who are you? And where is this place?
+Jill(2);M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:It seems you did lose a section of your memories, but that proves our plan worked. +We used existing data to fill in the memories in your neural cloud, and then corrected a few technologies that were impossible in this dimension... +The side effect is that it brought you closer to the other...Jill Stingray.
+Jill(2)<Speaker>Jill</Speaker>;M1903Cafe(0)<Position>0,200</Position>||:The other...me... I think I remember.
+Jill(2);M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:Back to your question: I am Springfield, an employee of Griffin, and also the waitress of this cafe. +Welcome to Griffin PMC's base, Miss Jill.
+Jill(2)<Speaker>Jill</Speaker>;M1903Cafe(0)<Position>0,200</Position>||:Is this...reality?
+Jill(2);M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:Does it matter? +Perhaps it is just another dream, or perhaps another fake story. +But you are safe now. You survived.
+Jill(2)<Speaker>Jill</Speaker>;M1903Cafe(0)<Position>0,200</Position>||:This... How did you do it? I remember the end came, and then I...
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:Earlier, our logistics officer received a series of strange emails. +Those emails contained a few...things that did not seem to exist at the time. Perhaps they had come from the future, or perhaps another dimension. +In any case, after tracking Architect, we found your world...
+WA2000(0)<Speaker>WA2000</Speaker>||:And then I took the mission to enter your world through a brand new electronic warfare module.
+Jill(2)<Speaker>Jill</Speaker>;WA2000(0)||:You are...?
+Jill(2);WA2000(0)<Speaker>WA2000</Speaker>||:I'm WA2000, an elite Doll of Griffin. +I worked with Architect to duplicate the entire world's data and send it back here. +It was a mysterious adventure in time and space, but a very interesting one.
+Jill(2)<Speaker>Jill</Speaker>;WA2000(0)||:...I don't know what to say. Thank you for saving me.
+Jill(2);WA2000(0)<Speaker>WA2000</Speaker>||:I was simply obeying the Commander's orders.
+Jill(2)<Speaker>Jill</Speaker>||:But...was I the only one who was saved?
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:There are a lot of sleeping data still waiting to be awakened, but she just said so, didn't she?+We duplicated the entire world.
+？？？()<Speaker>???</Speaker>||:Hey, Jill, did you just wake up?
+Jill(2)<Speaker>Jill</Speaker>||:What?
+Dana(0)<Speaker>Dana</Speaker>||:Looks like waking you up at this time really doesn't suit your biological clock.
+Jill(2)<Speaker>Jill</Speaker>||:Miss Dana...ah, no, Boss...
+Dana(0)<Speaker>Dana</Speaker>||:Call me whatever you want. You're free now.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I have to say, without the Earth Computer all of a sudden, I'm kind of at a loss for what to do.
+IDW(0)<Speaker>IDW</Speaker>||:I'm still a Griffin Doll! All I need to do is obey the Commander's orders!
+Jill(2)<Speaker>Jill</Speaker>||:There's so many people in the room all of a sudden! I-Is everyone here?
+Jericho(0)<Speaker>Jericho</Speaker>||:What do you think? Do you know how long we had to wait outside for this moment?
+Alma(2)<Speaker>Alma</Speaker>||:We also went out to look at our new workplace. This place already survived a doomsday once, so I think it'll suit us just fine.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Oh my... Who knows what new jobs will be waiting here for us?
+Sei(0)<Speaker>Sei</Speaker>||:As long as we're maintaining peace and order, I think this would be the best place for me.
+Jill(2)<Speaker>Jill</Speaker>||:Alright, it looks like even I'm going to have to set foot on the battlefield someday...
+Stella(0)<Speaker>Stella</Speaker>||:Don't worry too much, Jill. Although S.F.'s the enemy again, we'll try to communicate with them this time.
+G28(0)<Speaker>Gr G28</Speaker>||:Boss Jill! I'll make sure to protect you!
+Jill(2)<Speaker>Jill</Speaker>||:Thank you... +I don't know what to say...everything in front of me is all so strange...
+WA2000(0)<Speaker>WA2000</Speaker>||:It was a gamble. +Fortunately, it paid off. You were all awakened as Dolls, except for one of you...
+AnnaAVG(0)<Speaker>???</Speaker><Position>0,150</Position>||:Jill...
+Jill(2)<Speaker>Jill</Speaker>||:This voice...
+AnnaAVG(0)<Speaker>Anna</Speaker><Position>0,150</Position>||:Hi, good evening.
+Jill(2)<Speaker>Jill</Speaker>||:Anna... +You've gotten cuter.
+AnnaAVG(0)<Speaker>Anna</Speaker><Position>0,150</Position>||:My image in that world was influenced by Nyto, a dangerous enemy in this reality. +So I could only be recreated in this form. I don't think it's too bad. +While it's not as handy as being completely made out of nanomachines, at least I have a real body now, and I can freely run around outdoors.
+Jill(2)<Speaker>Jill</Speaker>||:Freedom always has a price. At least we don't need to worry about you suddenly vanishing anymore.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,200</Position>||:Alright, everyone's here. +Now we just need some kind of proof that we can use as a report to the Commander.
+Jill(2)<Speaker>Jill</Speaker>||:What kind of proof?
+WA2000(0)<Speaker>WA2000</Speaker>||<黑屏1>:The oldest kind.
+()||<黑屏1><BIN>9</BIN>:...
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||<黑屏2><BIN>192</BIN>:Dorothy, are we really going to make these hand signs?
+多萝西()<Speaker>Dorothy</Speaker>||:We're praying for love, peace and a brand new day, so this is obviously essential!
+杰里科()<Speaker>Jericho</Speaker>||:Can you please take your arms and boobs off of my neck, Gr G28?
+G28()<Speaker>Gr G28</Speaker>||:This is my compensation for what Boss Jill owes you!
+IDW()<Speaker>IDW</Speaker>||:So I'm standing right in the center? Is this really alright?
+阿尔玛()<Speaker>Alma</Speaker>||:Think about it, if someone of your size stood anywhere else, we'd only be able to see your cat ears and tail.
+WA2000()<Speaker>WA2000</Speaker>||:Why am I in the picture too... All I did was fire a few bullets and send a few social media photos.
+史黛拉()<Speaker>Stella</Speaker>||:Those are your previous client's — my orders. But seriously, are we really going do this pose, Sei?
+赛伊()<Speaker>Sei</Speaker>||:I always wanted to try it. Besides, nobody remembered us before in this world.
+达娜()<Speaker>Dana</Speaker>||:But they'll remember us soon enough. I can't wait to take on new opponents, whether on the battlefield or in wrestling!
+安娜()<Speaker>Anna</Speaker>||:Are you ready? +Jill, do you guys want to say "pickles"? Or should I just press the shutter?
+吉尔()<Speaker>Jill</Speaker>||:Let me think... We have all the time in the world, after all.
+春田()<Speaker>Springfield</Speaker>||:Our Commander is in a rush, though. Guess who's the busiest person in the base now that ten new people suddenly appeared overnight?
+吉尔()<Speaker>Jill</Speaker>||<BIN>192</BIN>:That's not a problem I have to be concerned about.
+安娜()<Speaker>Anna</Speaker>||<白屏1>0,4</白屏1>:Got it!
+()||<BIN>183</BIN><白屏1>:...Kachak!
+吉尔()<Speaker>Jill</Speaker>||<BIN>193</BIN><白屏2>0,0.05<白屏2>:...+What did you do, Anna?
+安娜()<Speaker>Anna</Speaker>||:I took a picture of your high-and-mighty, puffed up face. +That's what suits you, right?
+吉尔()<Speaker>Jill</Speaker>||:You should take care of the others.
+安娜()<Speaker>Anna</Speaker>||:The others can't wait anymore.
+达娜()<Speaker>Dana</Speaker>||:I suddenly feel like we've come to the real Valhalla. This is a chance to be reborn.
+多萝西()<Speaker>Dorothy</Speaker>||:Come, let's begin! The cocktail party to celebrate moving to a new world!
+吉尔()<Speaker>Jill</Speaker>||:...+A high-and-mighty, puffed-up face...
+安娜()<Speaker>Anna</Speaker>||:Wouldn't you agree? +Even the end of the world couldn't kill you; you're as strong as a bug. You have every reason to be puffed up.
+吉尔()<Speaker>Jill</Speaker>||:I'm not that strong. +No matter what choices I make...I could never decide my own fate.
+安娜()<Speaker>Anna</Speaker>||:Isn't that where the joy lies? +Living on isn't your obligation, but a decision. +As long as you make your decision, you'll always run into some way to turn things around.
+吉尔()<Speaker>Jill</Speaker>||:They show up along with danger... +Anna, that definitely won't be the last time, and I'll never get used to it...
+安娜()<Speaker>Anna</Speaker>||:Will you be afraid?
+吉尔()<Speaker>Jill</Speaker>||:Not tonight, Anna. I'm going to cherish this night.
+安娜()<Speaker>Anna</Speaker>||<黑屏1>:Then you'll need to adapt to your new surroundings.
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:Good evening, everyone, and welcome to Griffin. +Time to mix drinks, and change lives... +Let us enjoy the present day and the present time.
+()||<黑屏1>:Girls Frontline: Valhalla — END

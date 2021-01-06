@@ -1,0 +1,125 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><BGM>BGM_Battle</BGM><黑屏2><火花>:...The Commander successfully creates an opening in the enemy blockade.
+HK416(3)<Speaker>416</Speaker>||:Now! Everyone make a run for Strongpoint No.2! Hurry!
+Python(0)<Speaker>Python</Speaker>||:You heard that? Let's go!
+A91(0)<Speaker>A-91</Speaker>||:Hold on, we are still being bombarded!
+HK416(3)<Speaker>416</Speaker>||:It won't ever stop! Now follow me! Hurry!
+HK416(3)<Speaker></Speaker>||<SE2>RunStep</SE2>:...416 yells as she charges toward Strongpoint No.2.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Th...that's way too risky! We can't possibly—
+Mk12(0)<Speaker>Mk 12</Speaker>||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+Mk12(0)<Speaker></Speaker>||<震屏>:...BOOM!
+Mk12(0)<Speaker>Mk 12</Speaker>||:Whoa—!
+Python(0)<Speaker>Python</Speaker>||:Mk 12!
+HK416(3)<Speaker>416</Speaker>||:Don't stop! Keep running!
+A91(0)<Speaker>A-91</Speaker>||:How could we?!
+AK74U(0)<Speaker>AK-74U</Speaker>||:416, we've been— +Oh...she ran off... +<color=#A9A9A9>(9A-91...)</color>
+AK74U(0)<Speaker>AK-74U</Speaker>||<黑屏1><关闭火花>:...Dammit! I'll go after her. Catch up when you can!
+()||<BIN>85</BIN><SE1>RunStep</SE1><黑屏2>:...416 dashes toward the entrance and kicks the door open.
+HK416(3)<Speaker>416</Speaker>||:9A-91, take your people and come with me!
+9A91(0)<Speaker>9A-91</Speaker>||:You're...
+HK416(3)<Speaker>416</Speaker>||:A rescuer from Griffin. Stop wasting time, leave everything but your weapon and ammo. Schnell! Schnell!
+9A91(0)<Speaker>9A-91</Speaker>||<黑屏1>:Right! Everyone get up and follow me out of here!
+()||<BIN>159</BIN><黑屏2><火花>:...416 leads the trapped echelon out of the strongpoint.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Pick up the pace; the enemies are about to rush in!
+9A91(0)<Speaker>9A-91</Speaker>||:74U, you came!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Sorry for being late. Let's go!
+9A91(0)<Speaker>9A-91</Speaker>||:I'm glad... But why are there only two of you?
+HK416(3)<Speaker>416</Speaker>||:We have a fireteam... Scheiße! Where are they?
+HK416(3)<Speaker></Speaker>||<SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:...Bang bang! The T-Dolls come under heavy gunfire.
+9A91(0)<Speaker>9A-91</Speaker><Shake>||<闪屏><duration>5</duration></闪屏>:Ah!
+AK74U(0)<Speaker>AK-74U</Speaker>||:9A-91!
+HK416(3)<Speaker>416</Speaker>||:Everyone get down! Prepare to counterattack!
+9A91(0)<Speaker>9A-91</Speaker>||:I...I'm fine... I...
+HK416(3)<Speaker>416</Speaker>||:Stay quiet. I know!
+AK74U(0)<Speaker>AK-74U</Speaker>||:416, 9 o'clock!
+HK416(0)<Speaker>416</Speaker>||:Scheiße! With just the few of us— 
+()||<SE1>MachineGunBurst</SE1>:...Bang bang!
+()||<SE1>Gunfight</SE1>:...Bang bang bang!
+()||:...The hail of bullets stops, and a few familiar T-Dolls come running towards them.
+Python(0)<Speaker>Python</Speaker>||:Sorry we're late. Just now...
+HK416(3)<Speaker>416</Speaker>||:Not now; let's go! Hurry up! +Mk 12 and A-91, keep 9A-91 safe; she's hurt!
+Python(0)<Speaker>Python</Speaker>||:Let me do it. I'm stronger and my firepower isn't much help—
+HK416(3)<Speaker>416</Speaker>||<关闭火花><黑屏1>:Listen to what I say and don't make me repeat myself! Quick! Suppressive fire! Center peel!
+()||<SE1>Gunfight</SE1><BIN>161</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Ten minutes later, Griffin's fireteam retreats from the blockade with the trapped T-Dolls. Peace in the security area has been restored.
+Python(0)<Speaker>Python</Speaker>||<BGM>BGM_Room</BGM>:416, we...
+HK416(0)<Speaker>416</Speaker>||:If you're going to apologize, I don't want to hear it.
+Mk12(0)<Speaker>Mk 12</Speaker>||:But we should still explain ourselves...
+HK416(0)<Speaker>416</Speaker>||:It was all your fault.
+A91(0)<Speaker>A-91</Speaker>||:But Mk 12 was knocked off her feet by an artillery shell. We couldn't possibly— 
+HK416(0)<Speaker>416</Speaker>||:What if she had died right there?
+A91(0)<Speaker>A-91</Speaker>||:Hey, how could you say that— 
+Mk12(0)<Speaker>Mk 12</Speaker>||:I'm sorry. It was my fault.
+HK416(0)<Speaker>416</Speaker>||:You didn't do anything wrong. No one can dodge all bullets and shrapnels on the field. +Don't forget we ARE on the battlefield - injury and death can happen to us any second.
+HK416(3)<Speaker>416</Speaker>||:But when our sole objective is to reach the outpost on the other side, the more time you waste on second-guessing an unavoidable outcome, the longer you put yourself and your companions in danger!
+Python(0)<Speaker>Python</Speaker>||:We can't ignore the safety of our friends. We only joined Griffin not long ago and we only know each other.
+HK416(3)<Speaker>416</Speaker>||:I'm not telling you to ignore each other's safety, but I said you had to listen to me!
+A91(0)<Speaker>A-91</Speaker>||:But what if you were wrong?
+HK416(3)<Speaker>416</Speaker>||:At least I was willing to take the chance! You won't gain anything if you never take risks! +Just now, any of us could've been hit by shrapnel or blasted to bits, but it was the only way to win!
+Python(0)<Speaker>Python</Speaker>||:Say, that's your way. We're not used to it—
+HK416(3)<Speaker>416</Speaker>||:It's the professional way! +It's experience humans paid thousands of lives for - lives that they don't get to live again, and it was the only way for us to accomplish our mission!
+HK416(0)<Speaker></Speaker>||:...416 takes a deep breath.
+HK416(0)<Speaker>416</Speaker>||:No matter how good a T-Doll's specs are, if she's inexperienced and won't obey orders, she'll only be a consumable item on the battlefield. +Humans may think of us as expendables, but what about ourselves? Do YOU want to be something like that? +I'm not here to organize a picnic, guys. Do as I say and we'll all get home. +Next time, I expect no delays when I demand synchronized execution of an order, period.
+()||:...416 stalks off to AK-74U's side.
+HK416(0)<Speaker>416</Speaker>||:Is 9A-91 okay?
+AK74U(0)<Speaker>AK-74U</Speaker>||:I wouldn't just sit here if she weren't.
+HK416(0)<Speaker>416</Speaker>||:So you saw the whole thing.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Da, you were really flaunting your authority as an adjutant, 416.
+HK416(0)<Speaker>416</Speaker>||:Griffin has a clear set of combat procedure. How did things still turn out this way?
+AK74U(0)<Speaker>AK-74U</Speaker>||:We're just a PMC. A lot of our T-Dolls are only tasked with patrols and logistics missions and have never stepped foot on a battlefield. Not everyone is privileged enough to be installed with the best combat database.
+HK416(0)<Speaker>416</Speaker>||:Newbie or not, patrols or not, that's not a good excuse.
+AK74U(0)<Speaker>AK-74U</Speaker>||:There's another reason - our neural clouds can be backed up. Memories mean more to us than our lives.
+HK416(0)<Speaker>416</Speaker>||:So that's why you value your friends more than yourselves.
+AK74U(0)<Speaker>AK-74U</Speaker>||:At least they followed you in the end and didn't run off on their own, right?
+HK416(0)<Speaker>416</Speaker>||:We are Tactical Dolls, the Commander's pawns on the battlefield. It's what we're expected to do. +Regardless of what you usually value the most, nothing matters more than your orders now...
+AK74U(0)<Speaker>AK-74U</Speaker>||:Da, da, life isn't worth crap... And who was it that just told the others not to treat themselves as consumables?
+HK416(0)<Speaker>416</Speaker>||:...It's a different story when it comes to working with humans. +Now that I think about it...you seem to know a lot.
+AK74U(0)<Speaker>AK-74U</Speaker>||:I joined Griffin a long time ago. +It's just that I kept having problems and undergoing modifications, until I finally ended up the way I am.
+HK416(0)<Speaker>416</Speaker>||:...
+AK74U(0)<Speaker>AK-74U</Speaker>||:We didn't WANT to be like this, 416. +The humans created us this way - even the traits that you find so irritating.
+HK416(0)<Speaker>416</Speaker>||:Being an adjutant is even more a pain in the butt than I thought. +After all, my previous teammates were all T-Dolls that could coordinate with each other perfectly. We're used to carrying out missions way more dangerous than this one. +But this time, all I need to do is to bring everyone home alive... I thought it was going to be easy.
+AK74U(0)<Speaker>AK-74U</Speaker><Shake>||<BGM>BGM_Empty</BGM>:Pffft... +Hahahahaha!
+HK416(0)<Speaker>416</Speaker>||:What's so funny?
+AK74U(0)<Speaker>AK-74U</Speaker>||<BGM>BGM_Reverse</BGM>:You're always making such a surly face, but you're probably a really kind-hearted Doll. 
+HK416(0)<Speaker>416</Speaker>||:I'm just doing my job.
+AK74U(0)<Speaker>AK-74U</Speaker>||:And didn't you pick this job?
+HK416(0)<Speaker>416</Speaker>||:I did it to protect my friends.
+AK74U(0)<Speaker>AK-74U</Speaker>||:You're a pro, I get it. +Still, things don't always go your way. Now that you're faced with difficult circumstances...are you gonna give up?
+HK416(0)<Speaker>416</Speaker>||:I have no choice but to rely on you. Isn't that right, Python?
+()||:...The others walk up to 416 one after the other.
+Python(0)<Speaker>Python</Speaker>||:You may not want to hear it, but I still want to apologize again. +...From now on, we'll obey your orders without question.
+Mk12(0)<Speaker>Mk 12</Speaker>||:We won't hesitate even in the most dangerous situation.
+A91(0)<Speaker>A-91</Speaker>||:Next time, even if you order us to be meat shields, we'll do it.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:That's not enough... +You must do it IMMEDIATELY. +It's almost time. Get ready to move to our next location.
+()||<BIN>161</BIN><BGM>BGM_Sneak</BGM><黑屏2>:Later...Strongpoint No.3 in Griffin's temporary base.
+9A91(0)<Speaker>9A-91</Speaker>||:Miss Thompson is in charge of defending Strongpoint 3.
+AK74U(0)<Speaker>AK-74U</Speaker>||:If it's her, the enemies are probably having a hard time, right?
+HK416(0)<Speaker>416</Speaker>||:Whoever it is, facing this kind of bombardment can only mean certain death. +I can say for sure...the shelling is even more intense than before.
+Python(0)<Speaker>Python</Speaker>||:With one fewer target to surround, they can concentrate their fire.
+HK416(0)<Speaker>416</Speaker>||:To be honest, this rescue mission will be way more difficult than the last. +I'm not sure our previous maneuver would work. +Even if it does...will the imminent sacrifices and expenses be worth it...?
+A91(0)<Speaker>A-91</Speaker>||:Hey, we just pledged our absolute obedience to you; now you're getting cold feet?
+Python(0)<Speaker>Python</Speaker>||:A-91!
+HK416(0)<Speaker>416</Speaker>||:I understand your concern, but I'm merely stating my objective analysis of the situation. +The Commander will make the ultimate decision.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Are we...giving up on Miss Thompson?
+HK416(0)<Speaker>416</Speaker>||:That's not what I meant. However... +If the Commander agrees with me, I hope you'll be prepared.
+AK74U(0)<Speaker>AK-74U</Speaker>||:I understand. We're...pawns on the battlefield, right?
+()||:...
+HK416(0)<Speaker>416</Speaker>||:Commander, here's my sitrep on Strongpoint No.3. +This location is also within range of the enemy's artillery fixtures. If you insist on mounting the rescue, it may take a heavy toll on our manpower and resources. +Not to mention, I'm not certain we will succeed. +If it's only to defend the outpost, we can manage with this skeleton crew. +Perhaps withdrawing to the extraction point is the most logical course of action... +Though I know the decision to abort the rescue will torment you more than going ahead with it.
+HK416(0)<Speaker>Commander</Speaker>||: +<c>Sorry, but I'm not giving up on anybody! <c>I'll take that into consideration depending on how the situation develops... <c>If I give up just like that, how am I ever going to face them again?
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:Is that so? Then you'd better make ample preparation.
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:If you're confident in your stockpile of resources, we COULD try our luck.
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:They're fully prepared for this, Commander, and so am I.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Make up your mind, Commander! +You can't be even more indecisive than a Doll, right?
+HK416(0)<Speaker>416</Speaker>||:Having a short temper as your factory setting can't exactly be called "being decisive".
+A91(0)<Speaker>A-91</Speaker>||:Thompson is still waiting for rescue! +If we don't start moving now, enemy fire will soon come raining down on us too!
+HK416(0)<Speaker>416</Speaker>||:Commander, you can make your final decision depending on the actual circumstances in the coming battle. +On another note, we've noticed that some abandoned troops from the Military are standing guard along our route. It will be difficult to take them head-on, but if we seize the comms station nearby, we can disable the military troops. It's up to you, Commander.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Time is running out, we have to start the operation soon!
+()||<BIN>85</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Meanwhile, inside Strongpoint No.3.
+M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Room</BGM>:Guys.
+M1928A1(0)<Speaker>Thompson</Speaker>||:This is our last batch of ammo, sent to us by a logistics team during the brief window when the attack eased off. It was delivered by drone, so it's not much. Sorry.
+M1928A1(0)<Speaker></Speaker>||:...Thompson stands before her subordinates and drops a few ammo boxes on the table.
+M1928A1(0)<Speaker>Thompson</Speaker>||:Today could be the last day we serve together. +If you've had any beef with me, I apologize. +We are coming up against a completely unknown but very well-armed enemy - we don't stand much of a chance at all. +The Commander might come to our rescue, but even in the best-case scenario, I can't promise we'll all get to witness that moment.
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>:What I can promise...is that I will never abandon you.
+汤姆森()<Speaker>Thompson</Speaker>||<BIN>9</BIN><黑屏2>:What I can also promise...is that I will fight to my last breath.
+汤姆森()<Speaker>Thompson</Speaker>||:If anyone makes it out alive, please remember me.
+()||<黑屏1>:<color=#fff775>If you choose to mount a rescue, escort the hostages to the helipad and have them withdraw.</color> +<color=#fff775>Once you occupy the enemy command post, you'll forgo the rescue and exit the battlefield.</color> +<color=#fff775>Your decision will affect the campaign progression, so please choose wisely.</color> +<color=#fff775>Completing different objectives in this mission will lead to different routes. Once you complete an objective, you will not be able to proceed to other, uncleared routes during this playthrough. You will only be allowed to pick a new choice by backtracking.</color>
+()||<黑点2><BIN>10</BIN>:

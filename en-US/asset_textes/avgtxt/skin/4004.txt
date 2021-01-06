@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
+()<Speaker>100 Shiki</Speaker>||<黑屏1>:Today... +Today is...the 25th of December, Christmas...
+()<Speaker>100 Shiki</Speaker>||<BIN>6</BIN><Night><黑屏2><BGM>BGM_Hello</BGM>:Yes, it's Christmas...
+()<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - Warning, chassis operating beyond normal parameters.</color>
+()<Speaker>100 Shiki</Speaker>||:Verifying mission - Obtain a present and take part in the gift exchange party. This is a special mission handed down by the Commander... +(Coughs)
+()||:Clank. +One load, and then another... 100 Shiki is shoveling snow outside a certain outpost.
+Type100(4)<Speaker>100 Shiki</Speaker>||:This snow... There's so much if it. +All I managed to dig up were...empty socks, huh.
+()||:100 Shiki sighs and looks to the sky.
+Type100(4)<Speaker>100 Shiki</Speaker>||:It's gray and cloudy and snowy. +How long has this snow been falling, anyway? I wish it would just stop.  +Ah, they—
+()||<黑点1>:A gust of frigid wind blows, and 100 Shiki sees the interior of her sentry outpost light up.
+()||<黑点2><BIN>81</BIN>:Bright strips of LEDs and multi-colored tinsel decorate the outpost as Dolls run around in preparation for tonight's party.
+()||<黑点1>:100 Shiki's friends are all wrapping up presents with great care and dedication.
+Type100(4)<Speaker>100 Shiki</Speaker>||<黑点2><BIN>6</BIN><Night>:Everyone's smiling...so I'd better give it my best too!
+Type100(4);hkcaws(2)<Speaker>CAWS</Speaker>||:Hm? You're...100 Shiki? +What are you doing here?
+Type100(4)<Speaker>100 Shiki</Speaker>;hkcaws(2)||:I'm shoveling. I accidentally buried my present in the snow. +What about you, CAWS...? You're carrying such a big bag.
+Type100(4);hkcaws(2)<Speaker>CAWS</Speaker>||:I'm buying presents for everyone.
+Type100(4)<Speaker>100 Shiki</Speaker>;hkcaws(2)||:Do you need help?
+Type100(4);hkcaws(2)<Speaker>CAWS</Speaker>||:No need for that, I know the likes and dislikes of all the Dolls in Griffin like the back of my hand. +You'd best finish your work. Everyone's waiting for you to join the party.
+Type100(4)<Speaker>100 Shiki</Speaker>||:Yup!
+()||<黑点1>:CAWS leaves in a hurry, before 100 Shiki can bid her farewell.
+()||<黑点2>:Clank. +An hour passes, but 100 Shiki is still shoveling snow outside.
+Type100(4)<Speaker>100 Shiki</Speaker>||:I need to work harder.
+Type100(4);HK21(2)<Speaker>HMG21</Speaker>||:Uwah, what are you doing?
+Type100(4)<Speaker>100 Shiki</Speaker>;HK21(2)||:Er... I'm shoveling snow. +I need to dig up the present buried in it before I can attend the party.
+Type100(4);HK21(2)<Speaker>HMG21</Speaker>||:That looks really tough... +Well, I'm not much better off either, since I have to give out presents too... Huh? Why isn't there a present for you on the list?
+Type100(4)<Speaker>100 Shiki</Speaker>;HK21(2)||:Haha... It's probably because the party hasn't started yet.
+Type100(4);HK21(2)<Speaker>HMG21</Speaker>||:Alright then, we'll meet again at the party. So hurry and dig it up. +Oh yeah, let's have macarons together.
+Type100(4)<Speaker>100 Shiki</Speaker>||:Sure.
+()||<BGM>BGM_Empty</BGM>:HMG21 vanishes into the swirling snow. +After that, a few familiar Dolls come to check in on her, but 100 Shiki keeps shoveling snow all by herself. +Two hours pass, then three, then four...and nobody else has come to check in on her any more. +Until—
+Type100(4)<Speaker>100 Shiki</Speaker>||:When will I dig up the present that I buried...
+()||:100 Shiki laughs weakly, then looks back at the base.
+()<Speaker>???</Speaker>||:Hey, what are you doing?
+Type100(4)<Speaker>100 Shiki</Speaker>||:Oh, it's you. I'm shoveling snow. +I need to find the present I buried so I can attend the present exchange party tonight.
+()<Speaker>???</Speaker>||:What's a present exchange party?
+Type100(4)<Speaker>100 Shiki</Speaker>||:It's an activity held on Christmas where everyone exchanges presents with each other. We've all prepared valuable gifts.
+()<Speaker>???</Speaker>||:Really? +Then what's your present?
+Type100(4)<Speaker>100 Shiki</Speaker>||<黑点1>:My present... Of course my present is... +Ah!
+()||<黑点2><黑点1><BIN>81</BIN>:The bright LEDs and moonlight color the night air with a pale haze.
+Type100(4)<Speaker>100 Shiki</Speaker>||<黑点2><BIN>6</BIN><Night>:My present is... +Is...+<color=#A9A9A9>What is it?</color>
+()||<闪屏><duration>8</duration><rate>1</rate><delay>30</delay></闪屏>:Bang— 100 Shiki's vision flashes.
+()||:It is soon followed by a rumbling from parts unknown.
+()||<SE1>Explode</SE1><黑屏1>:The next moment, an avalanche bears down on the outpost. It twists steel rebar and shatters glass into powder.
+()<Speaker>100 Shiki</Speaker>||<BIN>7</BIN><Night><黑屏2><BGM>BGM_Room</BGM>:What... Why is this happening? +What went wrong?
+()||<黑屏1>:100 Shiki grabs at her head and collapses to the ground from the intense headache that assails her. +Her field of vision gradually narrows — or to be precise, her "world" gradually grows narrower. +The cold, snowy ground, the gray sky, and the faint glimmer of radiance from inside the wreckage of the outpost...they all blend together into one chaotic mess.
+()||<BIN>9</BIN><黑屏2>:... +This place is dramatically different from the previous snowfield. 100 Shiki is in a pitch-black cave.
+()<Speaker>100 Shiki</Speaker>||:I'm so cold.
+()||:A thick layer of snow and ice piles up on 100 Shiki.
+()<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - Warning, chassis operating beyond normal parameters.</color>
+()<Speaker>100 Shiki</Speaker>||:Did my neural cloud simulation fail?
+()<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - Warning repeats, chassis operating beyond normal parameters.</color>+<color=#00CCFF>System Message - Please cease all needless activity to prevent neural cloud core meltdown.</color>
+()<Speaker>100 Shiki</Speaker>||:It's not needless... I have to save them...
+()||:Even while lying on the ground, her hands still clutch her gun, and she stabs its bayonet at the ice and snow blocking the cave entrance.
+()<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - The current date is December 25th. </color>+<color=#00CCFF>System Message - 5 hours after 100 Shiki's reconnaissance team began their mission, they encountered an avalanche at 654, 247. The other four team members have crashed, and 100 Shiki herself has sustained 90% damage to her mainframe.</color>+<color=#00CCFF>System Message - For the above mentioned reasons, the mission can be considered a failure — in order to prevent neural cloud core meltdown, please cease all needless activity and await rescue.</color>
+()||:100 Shiki struggles to her feet and looks back — her four friends are frozen in the ice.
+Type100(0)<Speaker>100 Shiki</Speaker>||:... +If I give up here... Then we can only be restored from their backups in the base. +But if that happens, all our Christmas memories will vanish... +The Commander and our friends back in the base are waiting for us to return. +So this is definitely not pointless...
+Type100(0)<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - The mainframe's actions are determined to be meaningless. Commencing forced shutdown in order to prevent neural cloud core meltdown.</color>
+Type100(0)<Speaker>100 Shiki</Speaker>||<黑屏1>:<color=#A9A9A9>A forced shutdown?!</color>+<color=#A9A9A9>This is bad, I have to run another sim to trick the control system.</color>+Changing mission! +Now...
+()<Speaker>100 Shiki</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Today... +Today is... the 25th of December, Christmas...
+()<Speaker>100 Shiki</Speaker>||<BIN>6</BIN><Night><黑屏2><BGM>BGM_Hello</BGM>:Yes, it's Christmas...
+()<Speaker>100 Shiki</Speaker>||:(Coughs)
+()||:Clank. +One load, and then another... 100 Shiki is shoveling snow outside a certain outpost.
+Type100(4)<Speaker>100 Shiki</Speaker>||:The snow... There's so much if it. +All I managed to dig up were...empty socks, huh. +But I need to keep digging... I can only leave once I dig up my treasure.
+Type100(4)<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message - Warning, chassis operating beyond normal parameters.</color>
+Type100(4)<Speaker>100 Shiki</Speaker>||:Verifying mission - Obtain a present and take part in the gift exchange party. This is a special mission handed down by the Commander.
+Type100(4)<Speaker>100 Shiki</Speaker>||:<color=#00CCFF>System Message: Warning, the chassis is exceeding its maximum stress tolerances to complete this special mission. There is a 97% probability of neural cloud core meltdown.</color>
+Type100(4)<Speaker>100 Shiki</Speaker>||:<color=#A9A9A9>It doesn't matter, this is fine... I can't let the others vanish here, even if I...</color>
+()||:Clank, clank. +100 Shiki keeps digging.
+()<Speaker>???</Speaker>||:Hey, what are you doing?
+Type100(4)<Speaker>100 Shiki</Speaker>||:Who's that?
+()<Speaker>???</Speaker>||<SE1>AVG_whitenoise</SE1>:I'm ██.
+Type100(4)<Speaker>100 Shiki</Speaker>||:Oh, it's you. I'm shoveling snow. My present's buried in the snow.
+()<Speaker>???</Speaker>||:████████?
+Type100(4)<Speaker>100 Shiki</Speaker>||:Why am I shoveling the snow? +That's because I need to get my present... +Oh, you wanted to know what the present is? +Why are you asking this again...? +My present is...
+Type100(4)<Speaker>100 Shiki</Speaker>||:<color=#A9A9A9>What IS my present, anyway?</color>+And who's that speaking to me?+If I had to pick a Doll... CAWS? HMG21?+...No, the truth is that I don't know them, I just saw their Christmas outfits.+I need to make up another Doll, and make her more realistic, then have her encourage me...so...
+()<Speaker>???</Speaker>||:████████?
+Type100(4)<Speaker>100 Shiki</Speaker>||:You're still asking me that? +My present, my present is...
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_bigglassbreak</SE1>钟声:Crack. +100 Shiki touches her chest and realizes that something inside it has broken. +Then her world blurs together once again, and she is returned to the cave that is sealed off by the snow and ice.
+()<Speaker>100 Shiki</Speaker>||<BIN>9</BIN><黑屏2>:It's so cold. +...+...But I can't stop yet.
+()||:Clank, clank. +The sustained damage causes 100 Shiki's hands to tremble as they hold the gun. Her knees shudder and barely manage to keep her upright.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Has that annoying control system gone away?
+()||:100 Shiki suddenly remembers the object that broke inside her.
+Type100(0)<Speaker>100 Shiki</Speaker>||:<color=#A9A9A9>I see... Thank you.</color>+That's good... I'll continue...until I save everyone.
+Type100(0)<Speaker>100 Shiki</Speaker>||:——!
+()||:Suddenly, the interior of the cave collapses.
+Type100(0)<Speaker></Speaker>||:100 Shiki feels an electric current running down her back, and she hurriedly backs away from it.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Oh no!
+()||:But then, another collapse happens behind 100 Shiki almost at the same time, and a large, snow-covered rock hits her right shoulder.+In the end, 100 Shiki's body sways and she falls backward.
+()<Speaker>100 Shiki</Speaker>||<白屏1>:Is this the end for me... +Can...can I still stand up?
+()<Speaker>???</Speaker>||<BGM>BGM_War</BGM><BIN>183</BIN><白屏2>:Hey, is anyone in there?!
+()<Speaker>100 Shiki</Speaker>||:Yes! Who are you?!
+()<Speaker>???</Speaker>||:Ohhh! Is that you, 100 Shiki?
+()<Speaker>100 Shiki</Speaker>||:Uh...yes, it's me, who are you?
+RFB(2)<Speaker>Am RFB</Speaker>||:Don't you remember my voice? I'm Am RFB!
+()<Speaker>100 Shiki</Speaker>||:What are you doing here...?
+RFB(2)<Speaker>Am RFB</Speaker>||:I came to save you. I brought a lot of people with me.
+()<Speaker>100 Shiki</Speaker>||:That...that's wonderful...! +Can you save the others too?
+RFB(2)<Speaker>Am RFB</Speaker>||:Of course!
+()<Speaker>100 Shiki</Speaker>||:Then...then when we go back...
+RFB(2)<Speaker>Am RFB</Speaker>||:When we get back, we'll play another game together. +This time, we'll play Pac-Man!
+()<Speaker>100 Shiki</Speaker>||:<color=#A9A9A9>...</color>+Sure.
+RFB(2)<Speaker>Am RFB</Speaker>||:So you just lie down there! We're coming to get you now!
+Type100(0)<Speaker>100 Shiki</Speaker>||<BGM>BGM_Empty</BGM>:...Alright. +But...I'm sorry.
+RFB(2)<Speaker>Am RFB</Speaker>||:Huh?
+Type100(0)<Speaker>100 Shiki</Speaker>||:You're the Am RFB that I...made up, aren't you?
+RFB(2)<Speaker>Am RFB</Speaker>||:W-What do you mean...? I'm the real thing. I came with the Commander and everyone to save you.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Haha, hahaha... You ARE the Am RFB I made up. +That's because...I don't know you at all. I've never been on a mission with you. +I'm just envious of how you can play games with everyone and get along with them. +I have no friends...and I certainly don't have anyone to give a present to. +My box of presents...is empty.
+RFB(2)<Speaker>Am RFB</Speaker>||:But... +...
+()||:Am RFB does not continue. Her body slowly fades away.
+Type100(0)<Speaker>100 Shiki</Speaker>||<黑屏1>:...Is my own neural cloud trying to stop me now? +I'm an introverted Doll. All I can do is imagine people like you that keep cheering me on... No, I should say that I imagine people like you so I can live on. +But now...I don't need to do that any more.
+Type100(0)<Speaker>100 Shiki</Speaker>||<BGM>m_avg_hope</BGM><黑屏2><BIN>9</BIN>:Because — I've already made up my mind. I'm willing to pay any price to save everyone. +Though my present box may be empty, they...they are the Commander's treasures. +Therefore... I've got to make sure that I protect their memories!
+()||:100 Shiki marshals all of her strength and stands up again.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Sakura Reflection, activate—
+()||:The thick ice that has formed on 100 Shiki slowly peels off, and flower petals that gleam red scatter around her. +Clank, clank, clank.
+Type100(0)<Speaker>100 Shiki</Speaker>||:I'm not giving up!
+()||:100 Shiki's bayonet throws off sparks as she crushes one rock after another. +After an indeterminate amount of time has passed, the left half of 100 Shiki's body is severely damaged.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Just a little more—!
+()||:100 Shiki stomps the ground and the flower petals scatter around her again. +Immediately after that, she deals her 354th strike to the wall of ice, then the 355th. +Suddenly, a thin ray of light shines into the cave.
+Type100(0)<Speaker>100 Shiki</Speaker>||<白屏1>:Open up, damn you—!
+()||<BIN>183</BIN><白屏2><白屏1>:There's light... Strong sunlight illuminates 100 Shiki's face.
+Type100(0)<Speaker>100 Shiki</Speaker>||<BIN>7</BIN><白屏2>:Finally...we're saved... +Signal conditions are good, sending distress signal. +This is 100 Shiki's recon team, we're at...
+()||:After finishing her report, 100 Shiki's gun slips from her fingers. However, she is in no rush to pick it up.
+Type100(0)<Speaker></Speaker>||:She looks up at the sun and smiles.
+Type100(0)<Speaker>100 Shiki</Speaker>||<黑屏1>:Hehe... +Turns out I, too, have treasures that I cherish...
+()||<黑屏2><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:Soon, 100 Shiki's team is rescued and returned to the Griffin base. +After a while...
+()||<黑屏2><BIN>82</BIN>:Knock knock.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Coming, who is it?
+()<Speaker>Commander</Speaker>||:It's me.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Oh, Commander! +I'm so sorry my room is a mess, uh, do you want tea or chocolate or maybe I sh-sh-should...
+()<Speaker>Commander</Speaker>||:It's fine, I just came to visit you. There's no need to be so tense.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Al...alright.
+()<Speaker>Commander</Speaker>||:Are you feeling better?
+Type100(0)<Speaker>100 Shiki</Speaker>||<BGM>GF_Memorial</BGM>:Yeah, I've gone through five rounds of target practice and hit my training goal. +My body's perfectly fine.
+()<Speaker>Commander</Speaker>||:I see. As for your neural cloud...
+Type100(0)<Speaker>100 Shiki</Speaker>||:My neural cloud hasn't fully recovered. +Chances are, I've permanently lost my memories of December.
+()<Speaker>Commander</Speaker>||:Is that alright?
+Type100(0)<Speaker>100 Shiki</Speaker>||:I should be asking you that... The lost memories probably contained a lot of combat data. It must've been such a waste.
+()<Speaker>Commander</Speaker>||:But they also contained memories of your life with the other girls here. You told me before you set out, on Christmas day, that you'd take part in the present exchange when you came back.
+Type100(0)<Speaker>100 Shiki</Speaker>||:Hahaha... I must have been humoring you back then, because my present box was empty.
+()<Speaker>Commander</Speaker>||:...
+Type100(0)<Speaker>100 Shiki</Speaker>||:But... +Commander, please close your eyes. Just for five minutes.
+()||<黑屏1>:The Commander nods. 
+()||<黑屏2>:Five minutes later.
+Type100(4)<Speaker>100 Shiki</Speaker>||:Alright, you can open your eyes now. +I'm different now. I may have lost my memories from back then. +But my friends made me the Christmas outfit that I always wanted. +Perhaps, on Christmas... I found a treasure of my own. +After all, everyone said I shut down with a smile on my face.
+()<Speaker>Commander</Speaker>||:I see, so the reason you risked a neural cloud meltdown to save them was because...
+Type100(4)<Speaker>100 Shiki</Speaker>||<黑屏1>:Because my "present box"...isn't empty any more. +Although I don't know what exactly is inside it... +I'm sure it contains something precious that I can bury deep in my heart.

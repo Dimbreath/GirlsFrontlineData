@@ -1,0 +1,38 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN>：...
+Agent()<Speaker>Agent</Speaker>||<SE1>Heartbeat</SE1><黑屏1>：I have brought Death to your doorstep.+Now, open your eyes...
+Agent()<Speaker>Agent</Speaker>||<睁眼><SE1>m4a1_015</SE1><BIN>11</BIN>：Look at me, Tactical Doll M4A1, look at me.
+Agent()<Speaker>Agent</Speaker>||<BGM>BGM_Sad</BGM>：It's time for your finale, and you must stay till the show is over.
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2><黑屏1>：Cough…+A…gent…
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>：...+No, wait...+This is...my neural cloud...?
+Agent()<Speaker>Agent</Speaker>||<SE1>Rope</SE1><黑屏2><BIN>12</BIN>：You just have to die... And you will, in just a few more seconds!
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Select</SE1><打海猫2>：...Sorry, but she won't be dying here.
+Agent()<Speaker>Agent</Speaker>||：...!
+()||<快跑><SE1>RunStep</SE1>：
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2>0,4</黑屏2><SE1>MachineGunBurst</SE1><BIN>14</BIN><开火><黑屏1>：I'll spare you the wait! Go to hell right now,+Sangvis scum!
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>：...+This is where my recollections began.+We were searching for Lyco's legacies in Safe House 3...+When we got ambushed by Agent...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>：M16 saved me.+But circumstances forced us apart.
+M16(3)<Speaker>M16A1</Speaker>||<黑屏2><BIN>7</BIN>：...We'll scatter to draw their fire. That'll buy you some time.
+M4A1(3)<Speaker>M4A1</Speaker>;M16(3)||：But...if that Sangvis is still alive, you'll...!
+M4A1(3);AR15(2)<Speaker>AR15</Speaker>||：Stop dawdling, M4! This is the safest way!
+M4A1(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：That's right, you're our only hope!
+M4A1(2)<Speaker>M4A1</Speaker>;SOPII(3)||<黑屏1>：...Understood. Be careful.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>：At that moment, I really did not want them to leave me all alone...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>25</BIN><黑屏1>：Fortunately, I met the Commander.+And with the Commander's help, we were reunited...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>37</BIN><黑屏1>：And torn apart again...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>：In the end... In the end...+What happened...in the end?+Let me think...
+P08(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>41</BIN><黑屏1>：...This? P08...?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>51</BIN><黑屏1>：...Or this?? Ouroboros...?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>：That is not right... Everything is wrong...+I know. Those memories are all wrong...+All wrong! Dammit!+Why?! Why?! Why have I lost my memories?! Why can I not remember anything?!+What is...wrong...with me...+I...+Where...am I? What should I be doing?
+Persica()<Speaker>Persica</Speaker>||<黑屏1>：Oh? Have you come to, kitty cat?
+NPC-Persica(2)<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏2><BGM>BGM_Truth</BGM>：This is 16Lab, your birthplace.+Now let me run a check on your neural cloud...+Hmm... It seems...to be running just fine.
+M4A1()<Speaker>M4A1</Speaker>||：Who...are you...?
+NPC-Persica(2)<Speaker>Persica</Speaker>||：Persicaria, your creator.
+M4A1()<Speaker>M4A1</Speaker>||：Why...did you create me?
+NPC-Persica(2)<Speaker>Persica</Speaker>||：You are to be the leader of the AR Team and lead the best T-Dolls that I've ever created.
+M4A1()<Speaker>M4A1</Speaker>||：T-Dolls...+Am I...a T-Doll?
+NPC-Persica(2)<Speaker>Persica</Speaker>||：From now on, yes.+You're much cuter than I imagined, now that you've recovered...+I hope you can...give me the answers that Lyco couldn't...
+M4A1()<Speaker>M4A1</Speaker>||：...Lyco?+...What answers?
+NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>：Well...it's too early for that. Why don't we meet your new comrades first?
+Persica()<Speaker>Persica</Speaker>||<黑屏1><BIN>9</BIN>：Her neural cloud is experiencing violent fluctuations... Is this child dreaming?+A T-Doll...dreaming. Isn't that just ridiculous?
+()||：Persica turns and glances at M4A1.
+Persica()<Speaker>Persica</Speaker>||<黑屏1>：But then again...she's special...

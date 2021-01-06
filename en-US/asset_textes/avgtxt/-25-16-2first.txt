@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>159</BIN><黑屏2><BGM>BGM_Wake</BGM>:...In the end, 416 comes before UMP9. +She has decided to go after what she wants.
+HK416(0)<Speaker>416</Speaker>||:9, I'm taking part in Griffin's rescue mission.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:Are you sure you know what you're doing?
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I'm doing what I want to do. +You know who they're trying to rescue.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:But...rescuing her isn't our job. +At least she didn't give us this assignment.
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Which is why I want to go. It's my own decision.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:416... +You seem to have changed...
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:I've had enough...of working to live up to others' expectations... +I'm going to stop chasing after someone else, be it you or Griffin.
+()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏1><黑屏2>||:
+UMP9(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>159</BIN>:...I understand. +But that doesn't mean you have to rescue her, does it? +Do you know how dangerous it is in there?
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I won't be alone. +The Commander will oversee the operation, and the remaining members of the AR Team will accompany me. +I want to learn more from this mission - things I can't learn in Squad 404 - to better prepare myself for the future.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:416, you'll be back, right? It's tiring having to walk by myself.
+HK416(0)<Speaker>416</Speaker>;G11(0)||:I will return once the mission is accomplished. +But you still ought to train properly. One day, you'll have to change, too.
+G11(0)<Speaker>Gr G11</Speaker>||:Ughhh... I'll...try.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hey, 416!
+UMP9(0)<Speaker>UMP9</Speaker>||:SOP-II...she's calling for you. We'll be going then. You know where to find us. +You must come back. Otherwise, when 45 wakes up—
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I'm not coming back for her. She can think whatever she wants. +But I WILL come back. You know I'm a Doll of my word.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:Alright... I get it...
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Good. I'll be right back.
+()||<BIN>9</BIN><黑屏2><黑屏1>:...
+()<Speaker>M4 SOPMOD II</Speaker>||<BIN>152</BIN><黑屏2>:416... +Are you sure you wanna come?
+()<Speaker>416</Speaker>||:Both Griffin's and 404's transports have already left, I have no other options now.
+()<Speaker>M4 SOPMOD II</Speaker>||:Haha... +I thought you...were a really tough person.
+()<Speaker>416</Speaker>||:I've only realized recently that I'm actually not. +I'm scared...experience that I don't have, unknown enemies, unfamiliar companions... +If I can't overcome these problems, I won't survive on the battlefield in the future.
+()<Speaker>M4 SOPMOD II</Speaker>||:Have you figured out how to overcome them then?
+()<Speaker>416</Speaker>||<黑屏1>:Of course. +All it takes is for me to enjoy them for what they are.
+()||<BIN>158</BIN><黑屏2>:
+()||<BGM>BGM_Empty</BGM>:...
+Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Brain</BGM>:Your account matches our information. +Squad 404's current whereabouts are unknown, but 416 will lead us to them. +You know where she is, correct?
+Nyto(0)<Speaker>Commander</Speaker>||:... <c>I don't have a clue. <c>I'm not telling you. <c>She never would have told me.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>1</分支>:Indeed, we have no evidence to either support or refute your claim.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>2</分支>:We know. It is an answer we expected.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>3</分支>:Then I can assume that she does not trust you all that much.
+Nyto(0)<Speaker>Nyto</Speaker>||:But it matters not. We have a way to find out.
+Nyto(0)<Speaker></Speaker>||:One of the Nytos takes a syringe out of a box. I know what that is.
+Nyto(0)<Speaker>Nyto</Speaker>||:You have probably undergone resistance training, but this will open up certain possibilities for us.
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:The Nyto injects the truth serum into my body.
+Nyto(0)<Speaker>Nyto</Speaker>||:What we wish to see is the regret on your face after you spill everything. +Give us the satisfaction, Griffin Commander.
+Nyto(0)<Speaker></Speaker>||<黑屏1>0.5,0.5</黑屏1>:My mind begins to unwind. I can tell the serum is kicking in.
+()<Speaker></Speaker>||<BIN>9</BIN>:I know how to deal with it, but I'm not sure how well it'll work. +I must believe the story I'm about to tell... I must believe it myself...
+()<Speaker>Calm T-Doll's Voice</Speaker>||:You've bought us time, Commander. We have already infiltrated the hospital, but it's going to take a little longer to sabotage the surveillance instruments and take care of the guards. Hang in there. +Oh, and thank you for your stories. They're positively compelling.
+()||<BIN>158</BIN><睁眼>:
+Nyto(0)<Speaker>Nyto</Speaker>||:Griffin Commander, we are now entering the final stage of the interrogation. +Tactical Dolls M4 SOPMOD II and 416 both took part in the operation to rescue a certain human. +Angelia, former Griffin Commander. +We need to know the whereabouts of these three individuals. You must start from the beginning so we can facilitate our fact checks.
+()||:Angelia... I know that... +To prevent myself from telling the truth, I must believe the things I "recall" in my mind. +I have to let myself drift along in the ocean...and capture every piece of fantasy that I think is real... +I know what's the most believable in Ange's case... +...Death.
+Nyto(0)<Speaker>Nyto</Speaker>||:...Tell us, and you can live.
+()||:I'll have to cover up the truth with all sorts of deaths... +But I must also remember the truth... +Where Ange has gone... How I ended up here... I must remember it all... +This will be the final story, I'll arrive at my own ending very soon. I hope that the ladies of 404 will make it a good one.
+()||<黑屏1>:

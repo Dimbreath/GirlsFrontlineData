@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BGM>BGM_Sneak</BGM><BIN>169</BIN>:M4 and AK-12 steadily move deeper into the region where the defenders and the rebels are fighting.
+AK12(0)<Speaker>AK-12</Speaker>||:We've nearly cleared out the units in the sector around the lowest levels. +We're going to head up. After this, we'll be making direct contact with human rebels. +M4, are you ready?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Wait a moment.
+AK12(0)<Speaker>AK-12</Speaker>||:What's the matter?
+()||:AK-12 walks over to M4's side and finds that she is inspecting a human collapsed by the wall.
+AK12(0)<Speaker>AK-12</Speaker>||:This man's one of the wall's defenders. Huh, seems to be an officer, too. +As a human, he must have had a hard time holding out here by himself for so long.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:He's still alive... Was he blasted off the side of the wall? +Are you alright? Can you hear me?
+Garrison Officer()||:(Groans) Who...are you...?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm here to save you. +Hang in there, we'll get you out of here.
+AK12(2)<Speaker>AK-12</Speaker>||:Are you serious about this, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:Of course. I'll take him to a safe place. +It won't take much time.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Just now you were saying that joining this battle would lead to unnecessary complications, and now you're going to create an unnecessary complication of your own?
+M4A1Mod(4)<Speaker>M4A1</Speaker>;AK12(0)||:I have my way of doing things. +You stick to the plan and head to the upper level. I'll catch up with you soon.
+AK12(0)<Speaker>AK-12</Speaker>||:You really do like doing things your own way... Fair enough. +Let me see what this unnecessary complication brings us. +I'll make a move first, then.
+()||<BGM>BGM_Empty</BGM>:AK-12 leaves.
+Garrison Officer()||<BGM>BGM_Wake</BGM>:Thank you, young lady...
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Please bear with this for a little longer, I'm going to take you to a safe place where you can take shelter.
+Garrison Officer()||:(Coughs) No need for that... +...Head to the frontlines, more people need you there.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Right now, you need me more.
+()||<黑屏2><BIN>46</BIN>:... +... +M4 carries the officer into a sealed area where the quarantine wall segments are joined and gives him basic first-aid for his wounds.
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:The bleeding's stopped, you should be fine now.
+Garrison Officer()||:Thanks for the rescue.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:No need to thank me, this is my duty.
+Garrison Officer()||:You don't seem to be from our unit. +(Coughs heavily) ...Have things reached the point where we need to put a girl like you on the frontlines...?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +It's fine, I'm a Tactical Doll.
+Garrison Officer()||:What? I can't believe Dolls are so realistic now... +Oh, but still, thank you and whoever sent you to help us.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:My order is to help your unit repel the rebels. +In order to facilitate our movements, I hope you will tell your comrades not to attack me and my companion.
+Garrison Officer()||:(Cough) ...Alright... +What's your IFF signal...?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'll send it to you now.
+()||:The garrison officer picks up the radio on his webbing and opens a communications channel.
+Garrison Officer()||:Attention all units... +The designated Tactical Dolls have been sent by our side to provide support... Do not attack them...
+()||:...
+Garrison Officer()||:Will that do?
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:That's enough. Thank you for your cooperation.
+Garrison Officer()||:Can you tell me who sent you to help us?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...We just happened to be passing by.
+Garrison Officer()||:Is that so...? I understand. +You have to stop them, otherwise the entire city will be doomed...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:Understood. They won't get their way. +Take care of yourself.
+()||<BGM>BGM_Empty</BGM><黑点2><BIN>46</BIN>:...M4 returns to the wall passage and meets up with AK-12.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:I've solved the problem that was troubling you.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Yeah, I heard it all over the radio. +Did you plan this?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:I just happened to come across an opportunity and took advantage of it. +It was all for the sake of making the operation more successful. +Also, Ange doesn't want to see unnecessary casualties.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:...Is that really the case?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:What are you trying to say?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:No matter how much you try to pretend you're a cold machine, you can't run away from who you are inside. +I won't hate you, even if you don't cover it up.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...I didn't do it to make you like me.
+M4A1Mod(0);AK12(4)<Speaker>AK-12</Speaker>||:I understand. +Go do whatever you want, provided it doesn't jeopardize the mission. +That way, I'll be able to see more interesting things.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(4)||:...You have terrible hobbies.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:It's not like it's going to do you any harm now, is it?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Whatever, do as you please.
+M4A1()||<黑屏1><BIN>9</BIN>:<color=#A9A9A9>(It's not just who I am inside that I can't escape, but OGAS as well... What should I do from now on...?)</color>
+()||<BGM>BGM_Empty</BGM><黑屏2>:...Inside the quarantine wall.
+()||<BGM>BGM_Sneak</BGM><SE1>Gunfight</SE1>:M4 and AK-12 support the defenders in an intense clash with the rebels.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>46</BIN>:The enemy offensive seems to have tapered off. +AK-12, are they making any new moves?
+AK12(0)<Speaker>AK-12</Speaker>||:The defenders are steadily encircling the rebels at the top of the wall. +The rebel forces have been cut in half and one of those halves is trying to escape...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Pathetic. To think they'd abandon their units to run away...
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Still, there's something weird here. The scans show that the fleeing rebels are heading toward the base of the wall.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:If they're retreating, that position would end up being flanked. It's not suitable for defense. There must be something fishy going on.
+AK12(0)<Speaker></Speaker>||:AK-12 connects to the comms network and reports the situation to Ange.
+AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:Did you hear that, Ange? The enemy's situation is a little abnormal. I've already sent you the distribution of their forces.
+AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>The enemy's gathering at the base of the wall, huh...</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>||<黑点1><BGM>BGM_Danger</BGM>:<color=#00CCFF>Tsk... the surrounded rebel troops might just be bait. They've discovered that they can't seize control access for the entire quarantine wall and so they're using their backup plan.</color>+<color=#00CCFF>That other group of rebels is probably going to try and seize the sector containing the wall control room, and then they'll try to open the wall up! You need to get to the control room and stop the rebels before they make their move!</color>

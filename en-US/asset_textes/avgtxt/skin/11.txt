@@ -1,0 +1,117 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>83</BIN><BGM>GF_Memorial</BGM><黑屏2>:At the Griffin base.
+Commander()<Speaker>Commander</Speaker>||:Springfield's plan is quite sound at this point.+However, this event is bigger than anything we've done before, so I just hope nothing goes wrong...
+???()<Speaker>???</Speaker>||:Commander, I'm here to deliver the report.
+Commander()<Speaker>Commander</Speaker>||<震屏>:Ah!
+()||:A voice suddenly calls out behind me.
+64type(0)<Speaker></Speaker>||:I turn around to see Type64 with an innocent expression looking at me.
+Commander()<Speaker>Commander</Speaker>||:Phew...so it was you, 64.+You scared me.
+64type(0)<Speaker>Type64</Speaker>||:Commander, this is today's logistics report.+I didn't see you in your office, so I came looking for you.
+Commander()<Speaker>Commander</Speaker>||:Ah... Okay, thank you.+ <color=#A9A9A9>(Type64's footsteps are always as quiet as a mouse... I guess I can't blame her…)</color>
+64type(0)<Speaker>Type64</Speaker>||:Then, if you'll excuse me.
+Commander()<Speaker>Commander</Speaker>||:Wait a second!
+64type(0)<Speaker>Type64</Speaker>||:Do you have any other orders, Commander?
+Commander()<Speaker>Commander</Speaker>||:Well, there's an event...
+64type(0)<Speaker></Speaker>||:I explain the plan for the Halloween event to Type64.
+64type(0)<Speaker>Type64</Speaker>||:I see, so you want me to help Springfield with the costume preparations for the event?
+Commander()<Speaker>Commander</Speaker>||:Yes, are you interested?
+64type(0)<Speaker>Type64</Speaker>||:Mmm... I can do it if it is required of me.+Although I am confident in my handicraft skills, I'm not sure I completely understand what this holiday is about. Is it the Ghost Festival...?
+Commander()<Speaker>Commander</Speaker>||:Hm, not exactly.
+64type(0)<Speaker>Type64</Speaker>||:Well, that's okay... It's always good to give new things a try.
+Commander()<Speaker>Commander</Speaker>||:Okay, then I'll leave it to you.+You can talk to Springfield for further instructions.
+64type(0)<Speaker>Type64</Speaker>||:Understood, Commander.+I'll look for Springfield right now.
+()||:Type64 leaves.
+Commander()<Speaker>Commander</Speaker>||<黑屏1>:Although Type64 looks like she could easily handle the job with mastery and ease...+Her attitude of detachment makes it a bit worrying...
+()||<BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:...Several days later. The Halloween event preparations are carried out without a hitch in accordance with Springfield's schedule.+...Up until the day of the event.
+()||<BIN>87</BIN><黑屏2><BGM>BGM_Hello</BGM>:At the Griffin Cafe.
+64type(0)<Speaker>Type64</Speaker>||:The cafe looks...very different.
+M1903(4)<Speaker>Springfield</Speaker>||:Ah, Type64.+Welcome to the Halloween themed cafe.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:Um...did you make all of these decorations yourself, Springfield?
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:Yes, I just finished right before you stepped in. You are the very first to see the newly decorated cafe.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:Then I must be pretty lucky to be the first.
+()||:Type64 walks over to the bar counter and looks around, poking the strange looking plush toy on the table.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:So this is the atmosphere of the "Halloween" holiday.+It certainly is a bit different from the Ghost Festival.
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:Haha, they are different holidays after all.+Do you want anything to drink?
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:I'm fine. Are you still busy?+I'm here to deliver the finished goods to you.
+()||:Type64 hands the bag in her hand over to Springfield.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:This is the last piece of the Halloween costumes we talked about before.
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:Oh, if I recall, the costumes are already done.+Let me take a look...+Ah...sorry, 64, I made a mistake with the number of costumes... This one's going to be an extra.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:I see, that's okay.+I've already made a bunch, so it's fine if I made an extra one.
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:The workmanship of this piece is very detailed.+It's a pity for it to go to waste. I'm not sure who to send it to...
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:I'm sure...someone will need it.
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:Oh, 64, did you prepare a Halloween costume for yourself?
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:I haven't yet... I'm not sure what I should make.+Do you have any suggestions, Springfield?
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:I think it'll be good as long as it's witch themed.
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:That shouldn't be too hard.+Do you have any extra materials lying around?
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:I do, but what do you intend to do with them?
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||:Make a Halloween costume.
+64type(0);M1903(4)<Speaker>Springfield</Speaker>||:Ohh... Right now?
+64type(0)<Speaker>Type64</Speaker>;M1903(4)||<黑点1>:Yup, right now. It won't take long.
+()||<黑点2>:......+Several hours later.
+64type(0)<Speaker>Type64</Speaker>||:Hm, this should be fine. I'll try wearing it.
+()||:Type64 wears her newly made Halloween costume.
+64type(2)<Speaker>Type64</Speaker>||:What do you think, Springfield? Is it suitable for Halloween?
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:You are very skilled, 64...+But don't you think this costume is a bit too...random? The tip of this broom...is a dragon head? It looks very strange...
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:Really? Isn't it fine as long as it's bizzare enough? This costume incorporates elements of my culture. I'm sure it'll look very strange to the people here.
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:Ah... But bizzareness and horror are two different things.+Not to mention Halloween isn't the Ghost Festival...
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:Really? I don't think there's any problem with this.
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:64... Have you always been like this?
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:Eh?
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:You always seem to be a bit...uncaring.
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:Really? I just think that a lot of things will work themselves out in the end.
+()||:Springfield suddenly receives a call.
+M1903(4)<Speaker>Springfield</Speaker>||:Huh...what's the matter?+Don't panic, speak slowly.+...What? There's a power outage at the haunted house? Okay, alright...I'll be right over, don't touch anything.+Seems like there's a situation at the haunted house. I need to go over and check.+Why don't you wait here, 64?
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:I want to go to the haunted house too.
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:It won't be fun if you go right now...+The animatronics won't work if the power is out.
+64type(2)<Speaker>Type64</Speaker>;M1903(4)||:That's perfectly fine.+I want to see everybody's reactions to my costume.
+64type(2);M1903(4)<Speaker>Springfield</Speaker>||:You're quite self-willed, huh...+But you need to be careful. They must be panicking inside the haunted house right now. Who knows how they'll react to you.
+64type(2)<Speaker>Type64</Speaker>||<黑点1>:Alright, I'll be careful.
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>9</BIN>:Walking together, Type64 and Springfield head toward the warehouse where the haunted house is located.+After separating from Springfield at the entrance, Type64 steps into the haunted house by herself.
+64type(2)<Speaker>Type64</Speaker>||<BGM>BGM_Room</BGM>:Let me test out this modified broom first.
+()||<黑屏1>:Type64 flips a switch on the broom and sits herself sideways on it.+With a whoosh, she lifts off and flies into the haunted house.
+PM(2)<Speaker>Makarov</Speaker>||<黑屏2><Night><BIN>46</BIN>:…
+M1919A4(2)<Speaker>M1919A4</Speaker>||:Did you feel that as well, Makarov...?
+PM(2)<Speaker>Makarov</Speaker>||:Something seems to have whisked past us...
+M1919A4(2)<Speaker>M1919A4</Speaker>||:Did we set up that sort of gliding mechanism?
+PM(2)<Speaker>Makarov</Speaker>||<黑屏1>:Not to my memory.
+WA2000(4)<Speaker>WA2000</Speaker>||<黑屏2><Night><BIN>46</BIN>:Where's the broken wire, damn it...+I can't see anything in this darkness...
+WA2000(4)<Speaker>WA2000</Speaker><Shake>||<SE1>ClothingUp</SE1><黑屏1>:......+It felt like something flew over me...+Must be my imagination, haha...
+Mk23(2)<Speaker>Gr Mk23</Speaker>||<黑屏2><Night><BIN>46</BIN>:Darlinggg+Where are you, Darlinggggg!
+64type(2)<Speaker>Type64</Speaker>||:This shrill and wretched voice... Is it the cries of a banshee?+I will have to investigate...
+Mk23(2)<Speaker>Gr Mk23</Speaker>||:What's that flying in the air?!
+64type(2)<Speaker>Type64</Speaker>||:So you're the demon responsible for this mess, huh?+Hold it! I'm coming down to stop you right now!
+Mk23(2)<Speaker>Gr Mk23</Speaker>||:Who the heck are you calling a ghost when YOU'RE FLYING IN THE AIR!+You must be here to stop me from searching for my Darling!
+64type(2)<Speaker>Type64</Speaker>||<SE1>Reload</SE1>:Your Darling is in another haunted house!+May the presiders over warriors be my vanguard! Eat this!
+Mk23(2)<Speaker>Gr Mk23</Speaker>||<震屏><黑屏1>0,3</黑屏1>:What the heck?!+I have to hurry and find Darling. I can't waste my time here...+That's right, my smoke grenade!
+()||<BIN>9</BIN>:Gr Mk23 throws out a smoke grenade.
+64type(2)<Speaker>Type64</Speaker>||:Ack! I can't see anything...+But...if that thing threw a smoke grenade, it probably isn't a ghost, right...?
+64type(2)<Speaker>Type64</Speaker>||<黑点1>:With everyone panicking in the dark, I may get attacked again if I move around carelessly.+I should find a safe place to wait it out...
+()||<BGM>BGM_Empty</BGM><黑点2>:Type64 waits in the haunted house until the power is restored.
+64type(2)<Speaker>Type64</Speaker>||<BIN>46</BIN><BGM>GF_Memorial</BGM>:Looks like they fixed it.
+???()<Speaker>???</Speaker>||:Is anyone there... Help...+Let me out...
+64type(2)<Speaker>Type64</Speaker>||<黑点1>:Sounds like someone nearby is asking for help...
+()||<黑点2><BIN>18</BIN>:Type64 follows the sound and finds 1919 trapped in a cage.
+M1919A4(2)<Speaker>M1919A4</Speaker>||:AHHHH HELP!!+IS ANYONE THERE! SOMEONE LET ME OUT!!
+64type(2)<Speaker>Type64</Speaker>||:Looks like she hasn't notice me yet... This is the perfect chance.
+()||:Type64 steps back out into the hallway and connects to the comms channel.
+64type(2)<Speaker>Type64</Speaker>||:Commander, it's me.+M1919 is trapped in a cage. Please come over to the haunted house and save her.
+()||:...+...Call ended.
+64type(2)<Speaker>Type64</Speaker>||:That should do it.+Seems like 1919 is really frightened. I hope the Commander can get here soon.
+()||<黑屏1>:Holding her special broom, Type64 saunters out of the haunted house, leaving M1919 alone inside.
+()||<BIN>87</BIN><BGM>BGM_Empty</BGM><黑屏2>:At the Griffin Cafe.
+Commander()<Speaker>Commander</Speaker>||<BGM>BGM_Moon</BGM>:So you're here, Type64.
+64type(2)<Speaker>Type64</Speaker>||:Hello, Commander.+Are you having fun tonight?
+Commander()<Speaker>Commander</Speaker>||:If you count being shocked at what happened as having fun...then yes, I might be having too much fun.+I didn't think that 1919 would still be able to do her job tonight after being trapped in there...
+64type(2)<Speaker>Type64</Speaker>||:Looks like you were successful in rescuing her.
+Commander()<Speaker>Commander</Speaker>||:Yeah.+By the way, there's something I'm curious about...
+64type(2)<Speaker>Type64</Speaker>||:What is it?
+Commander()<Speaker>Commander</Speaker>||:Weren't you in the haunted house, 64?+Why didn't you let 1919 out yourself?
+64type(2)<Speaker>Type64</Speaker>||:I didn't want her to owe me one.+Not to mention, isn't it more fitting for you to be the knight in shining armor, Commander?
+Commander()<Speaker>Commander</Speaker>||:I see...+But are you really okay with always being a non-participating bystander?
+64type(2)<Speaker>Type64</Speaker>||:This is my way of participation.+Only I know what occured in the entirety of the event. Isn't that exciting?
+Commander()<Speaker>Commander</Speaker>||:But not everyone will like you this way.
+64type(2)<Speaker>Type64</Speaker>||:I don't mind, Commander.+My neural cloud storage and computing power are limited, so there's no way for me to like too many people.
+Commander()<Speaker>Commander</Speaker>||:Is that so...
+64type(2)<Speaker>Type64</Speaker>||:If someone likes me, then I need to return the appreciation in equal amounts...+But if I end up being liked by too many people, then wouldn't it become a burden for me?
+Commander()<Speaker>Commander</Speaker>||:Hm...that somehow makes sense.
+64type(2)<Speaker>Type64</Speaker>||<黑屏1>:So it's fine to keep it like this.+I think...there surely will be people out there that like me the way I am.

@@ -1,0 +1,68 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>Gager</Speaker>||<BIN>9</BIN><黑屏2>:I...I can't... +I mustn't...fall here!
+BOSS-9(0)<Speaker>Gager</Speaker>||<黑屏1>:Architect...is still waiting for me...
+98k(1)<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2>:Can't believe she can still move... However...
+()||<黑屏1>:Gager's body is utterly charred from the explosion. Her armor is also falling apart due to the extreme heat.
+98k(1)<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:Her core is completely exposed to Kar98k's muzzle.
+98k(1)<Speaker>Kar98k</Speaker>||:Since she's gone that far...I can't let her down...
+()||:98k flips herself over strenuously and drags herself up. She then rests her rifle on her propped-up knee and starts aiming as steadily as she can...
+98k(1)<Speaker>Kar98k</Speaker>||<SE1>AVG_weapon_reload</SE1>:...Take aim.
+98k(1)<Speaker>Kar98k</Speaker>||:Fire!
+()||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM>:A thunderous crack.
+BOSS-7(0)<Speaker></Speaker>||<震屏>:Gager stiffens. Finally, she drops onto her knees and flops down face-first onto the ground.
+()||<黑点1>:At the same time...
+()<Speaker></Speaker>||<BIN>7</BIN><Night><黑点2><黑点1>:All the Sangvis units fighting StG44 and the others all slowly bow their heads and cease moving.
+98k(1)<Speaker></Speaker>||<黑点2><BIN>2</BIN><Night><SE1>Select</SE1>:Kar98k pulls back the bolt, ejecting a burning-hot casing with a metallic clack and the pungent smell of gun smoke.
+()||<白屏1>:After that, she slowly gets onto her feet while leaning heavily on her weapon.
+()<Speaker></Speaker>||<BIN>2</BIN><白屏2><BGM>m_avg_hope</BGM>:Just then, the sun creeps up from beneath the horizon.
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, the S.F. on our side suddenly stopped moving.</color> +<color=#00CCFF>Did it work?</color> 
+98k(1)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Ja...
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Understood, we'll be right there.</color> 
+98k(1)<Speaker>Kar98k</Speaker>||<黑屏1>:Mission...accomplished...
+()<Speaker></Speaker>||<BIN>73</BIN><黑屏2><BGM>BGM_Empty</BGM>:...A few days later.
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Hello</BGM>:Listen to me, it's all true!
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Alright, alright. +It's not that I don't believe you, but the Commander has already given me an assignment.
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:I'm one of the heroes who annihilated Gager! Fighting with me is a chance for you to become famous, you know?!
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:I won't fall for that anymore. Kar only said that to make you feel better. +Why don't you tell me how someone like you managed to beat Gager?
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:Uh...I don't actually remember... My body was destroyed.
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:See? You got yourself killed very early on, it was Kar and the others who actually defeated Gager. +But somehow you made it sound like it was all thanks to you. That's the whole story, isn't it? +I've got a job to do, so ciao.
+MP41(0)<Speaker>MP41</Speaker>||:Nein...wait! That's not what happened!
+g43(0)<Speaker>G43</Speaker>||:What is it, MP41? Why are you running around trying to rope more people in? Haven't you already got a trusty partner in me?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Hmm...you're still too weak. Only an elite Doll can be my partner.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:What?! Then why did I even bother to fight so hard for you?!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:You did? I don't remember.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Of course I did! Don't you give me such a pathetic excuse!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:I know, I know, but the backup copy only contains my memory from before I left the base. +The elite Doll that we've been tracking hasn't been showing herself either, so I honestly have no idea how instrumental I was to Gager's defeat.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:By the time we got there, you had already been blown into smithereens... +Fräulein Kar was also sent to the Repair Bay with severe injuries. I have no idea what happened back then either...
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Well, aren't you just useless as a partner?! +I suppose I really should tell the Commander about what you did!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Hey, I went on that mission with you, so how could you go back on your word like this!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:But I'm still not recognized for my achievements, so the mission basically failed!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:You're so unreasonable...
+g43(0)<Speaker>G43</Speaker>||:Why is this happening to me...?
+98k(0)<Speaker>???</Speaker>||:Nein, I do recognize your achievements.
+MP41(0)<Speaker>MP41</Speaker>||:That's...Big Sis 98k!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:You call me Fräulein Kar. +You even forgot about that...
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Do I? That does sound nice. +So hey, Fräulein Kar, what did I do to destroy Gager? +I didn't actually get blown up right at the start, did I?
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:I could certainly tell you, but before that... I need a spotter and an assistant sniper. +Would you like to join my squad?
+g43(0)<Speaker>G43</Speaker>;98k(0)||:Huh?! Are you serious?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Humph, all high-spec Dolls are the same. You just need someone to witness and vouch for your achievements, don't you? +I see right through you.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:This is your reward for contributing to Gager's demise. +If you don't accept my offer, you'll have no way of knowing what exactly you've done, isn't that right?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Ack! +Can't be helped then. Humph, I'm tired of running logistics anyway. Doesn't hurt to change jobs.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Then go and submit an application to the Commander. I've already informed the Commander about this. The change will be effective as soon as you agree to the redeployment.
+MP41(0)<Speaker>MP41</Speaker>||:Heheh! Alright, then I'll be keeping an eye on you from now on! C'mon, G43!
+g43(0)<Speaker>G43</Speaker>||:Okay!
+()||<BGM>BGM_Empty</BGM>:The two Dolls sprint out of the shooting range in great hurry, causing other Dolls to shriek and yelp in surprise as the duo charge past them.
+STG44Mod(0)<Speaker>StG44</Speaker>||:Why, it's Kar! Are you done with your repairs?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:Ja.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:...You can't be serious about letting them join like this?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:We've been working alone for too long so I figured we could use a change of pace. Or are you perhaps jealous because we're getting new members now?
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:It'd have been more believable if you'd said the Sangvis ringleader did us a large favor and self-destructed.
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:Hahaha... I do have to deliver on my promise, after all.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:Promise?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||<BGM>BGM_Sunshine</BGM>:Ja, I shall bear witness to all her triumphs until the end of our strife.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:Oh, so that's your little agreement? +To be fair, if it hadn't been for them, we really couldn't have completed the mission.
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:That battle changed us all.
+98k(0)<Speaker>Kar98k</Speaker>||:Let's go, the Commander has a new assignment for us.
+STG44Mod(0)<Speaker>StG44</Speaker>||:What assignment?
+98k(0)<Speaker>Kar98k</Speaker>||:Some very important equipment that belongs to a Doll has been hijacked. +Let's sort this out before our new friends come back.
+STG44Mod(0)<Speaker>StG44</Speaker>||<黑屏1>:One last bash with just the two of us, eh? Looks like I've got to savor this final chance for some peace and quiet.

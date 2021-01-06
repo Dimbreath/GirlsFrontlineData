@@ -1,0 +1,26 @@
+[
+    {
+        "id": 419919,
+        "win_step": "3",
+        "next_id": "win0",
+        "lock_id": ""
+    },
+    {
+        "id": 419920,
+        "win_step": "419920",
+        "next_id": "419921|419922",
+        "lock_id": "419919"
+    },
+    {
+        "id": 419921,
+        "win_step": "419921",
+        "next_id": "win0",
+        "lock_id": ""
+    },
+    {
+        "id": 419922,
+        "win_step": "1",
+        "next_id": "win1",
+        "lock_id": ""
+    }
+]

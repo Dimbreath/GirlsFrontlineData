@@ -1,0 +1,33 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>46</BIN><BGM>BGM_Room</BGM><黑屏2>:...The final decision is to have everyone enter the building and set up defenses.
+AN94(0)<Speaker>AN-94</Speaker>||:I do not think...this is safe.
+AN94(0);AK12(2)<Speaker>AK-12</Speaker>||:The military will find us, but we'll be prepared.
+HK416(0)<Speaker>416</Speaker>;AK12(2)||:AK-12, we're all ready.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;AK12(2)||:AK-12! The military is coming towards the building. They must've discovered us!
+SOPIIDamage(3);AK12(2)<Speaker>AK-12</Speaker>||:That's to be expected, but we don't have a choice. +At least, we fight together.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;AK12(2)||:...Yeah!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:This is the first time we take the military's main force head-on...
+HK416(0)<Speaker>416</Speaker>;RO635(6)||:For Ange...
+HK416(0);AK12(2)<Speaker>AK-12</Speaker>||:And for ourselves. +AN-94, do you resent the choice I made?
+AN94(3)<Speaker>AN-94</Speaker>;AK12(2)||:I trust you, AK-12. +No matter what choices we make, in the end, it always comes down to luck. That is what you said.
+AN94(3);AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:...That's true. +All we need...is a stroke of luck.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><SE2>Gunfight</SE2>:...
+安洁莉娅()<Speaker>Angelia</Speaker>||<黑屏1><BGM>BGM_Brain</BGM>:I had a dream. +A dream...where others died for me. +I know when I wake up, everything in my dream will come true. +But I must wake up. +This is something I...must face.
+()||<BIN>46</BIN><睁眼>:...
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Yegor...
+NPC-AngeDamage(3);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:You had very loyal subordinates. They fought to the bitter end, as all Tactical Dolls are expected to. +Naturally, their effort was futile against us.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:They... are they...
+NPC-AngeDamage(3);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑屏1>:I left some of them alive. My men are taking them apart downstairs. Some of the stuff in their neural clouds might be worth something. +As for you, I've just been waiting for you to wake up. That's all.
+叶戈尔()<Speaker>Yegor</Speaker>||<BIN>9</BIN>:Got anything else to say? +Or are you waiting for more new toys to come to your rescue? Or have you rigged this building with explosives? +Sadly, I've searched it thoroughly beforehand. There's nothing here. +No reinforcements, no explosives, no Griffin-or-whatever T-Dolls.
+叶戈尔()<Speaker>Yegor</Speaker>||:Yes, that's the face. This is the moment I've been waiting for. +...Now, good night.
+()||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:...
+()||<SE1>Gunkill</SE1><黑屏1>:...Bang!
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Truth</BGM>:We are surprised you are still capable of such deception under these circumstances. +We have truly underestimated you, Griffin Commander. +We must administer a larger, but not fatal, dosage.
+Nyto(0)<Speaker></Speaker>||:A Nyto takes out another syringe and injects the truth serum into my veins.
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:The effect starts kicking in quickly, but I can still resist it. I still have a bit of willpower...though I don't know if I'm already running on fumes...
+Nyto(0)<Speaker>Nyto</Speaker>||:Ange did not die, at least not in this battle. We saw her kill one of us with our very own eyes. +So tell us how she survived and with whom she has had dealings.
+Nyto(0)<Speaker></Speaker>||:I will tell them everything that comes to mind. +The lies, the truth. Let them guess. +I know what they're really after. I also know the consequences of giving them what they want.
+Nyto(0)<Speaker>Nyto</Speaker>||:Humans are fragile contraptions that break down easily. +If you wish to leave this facility with your mind and body intact, value the chance you have been given and tell the truth.
+()||:That's why I need time...as well as all sorts of fantasies to counter the truth serum. +How many more times will Miss Ange die in my story? +At the very least, she has to keep dying till I can live... +...
+()||<黑屏1>:

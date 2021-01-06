@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Room</BGM><黑屏2>:
+()||:...Task Force DEFY has finally found the mark left by the rescue team!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Surpriiiiise! +Ahahaha! We finally found you, DEFY!
+AN94(2)<Speaker>AN-94</Speaker>||:If your movement had been just a little swifter than your utterance, I would have identified you as a hostile target and attacked.
+HK416(0)<Speaker>416</Speaker>||:Sorry, this is M4 SOPMOD II of the AR Team. SOP-II, meet AK-12 and AN-94 of Task Force DEFY. I'm 416. You've all met me.
+AN94(0)<Speaker>AN-94</Speaker>||:I do not particularly want to see you again, but it cannot be helped.
+HK416(0)<Speaker>416</Speaker>||:Right, this isn't the time to deepen our bond. Let's get straight to the point - where is Ange, and how is she?
+HK416(0)<Speaker></Speaker>||:...AN-94 looks behind her and finds an unconscious Ange draped on AK-12's back.
+AN94(2)<Speaker>AN-94</Speaker>||:Ange...she—
+AK12(2)<Speaker>AK-12</Speaker>||:A few minutes ago...she took a heavy dose of radiation and passed out. +It took us a while to find the mark, but her life isn't in danger. However, she'll be sitting out the coming battles. It'll be just us.
+HK416(0)<Speaker>416</Speaker>||:What a shame. Guess I'll have to say hi some other time. +Still, it's not "just us". We also have the Commander and the HOCs.
+AN94(5)<Speaker>AN-94</Speaker>||:What...HOCs?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Our new toys! They're giving us long-range support and specialize in fighting tanks! You'll love them!
+AK12(0)<Speaker>AK-12</Speaker>||:Then we're safe for now. Let's figure out what to do next.
+AN94(0)<Speaker>AN-94</Speaker>||:The contamination index is significantly lower here. Though Ange is not entirely out of danger, her life is not under any immediate threat.
+RO635(6)<Speaker>RO635</Speaker>||:Then let's keep moving to less contaminated areas. At this rate, Ange isn't going to last much longer.
+AK12(3)<Speaker>AK-12</Speaker>||:Hmm? Who was that?
+RO635(6)<Speaker>RO635</Speaker>||:Oh, don't mind me. Just making a suggestion—
+AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Wait, I hear something!
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Military units! They're heading straight toward us!
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:There is an abandoned trench just ahead. Get Ange in there first!
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:...Boom! Boom!
+AK12(2)<Speaker>AK-12</Speaker>||:Hurry up! We're here!
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:HOCs, give us cover!
+()||<BIN>157</BIN><黑屏2>:...Under the HOCs' suppressive fire, Task Force DEFY makes it into the trench safely.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We still have loads of cards up our sleeve. Don't worry, we can handle these tanks!
+()||:<color=#00CCFF>...Pzzt...pzzzzt.</color>
+()<Speaker>??</Speaker>||:<color=#00CCFF>Angelia...</color> +<color=#00CCFF>I knew you wouldn't disappoint me.</color>
+()||<SE2>Gunfight</SE2>:...Over the sound of gunfire and static, a male voice speaks clearly over the communicator's public channel.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>You survived the explosion...only to give me the chance to kill you with my own hands.</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-YegorDamage(0)||:Ange is dead! You can abort your mission!
+AK12(2);NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I don't think so. I know she's merely unconscious, just as I knew you'd show up here.</color>
+HK416(0)<Speaker>416</Speaker>;NPC-YegorDamage(0)||:He knew we'd come here... He counted on the fact that this is the only route to the Green Zone!
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I'll make sure you don't die from artillery fire.</color> +<color=#00CCFF>Then I can find you and avenge my subordinates myself!</color>
+()||:...Yegor terminates the transmission.
+AK12(2)<Speaker>AK-12</Speaker>||<SE2>Battlefield</SE2>:I can hear the tanks! They're coming!
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:Commander, defend the trench with the HOCs! +With their help, we'll be absolutely fine!
+()||<黑屏2><BIN>10</BIN>:

@@ -1,0 +1,125 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>47</BIN><黑屏2><SE2>Gunfight</SE2>:...The battle enters the final stage.
+HK416(0)<Speaker>416</Speaker><通讯框>||<黑屏1>0,6</黑屏1>:<color=#00CCFF>Commander, we've eliminated the enemies in the perimeter! We're looking for a chance to make our way in!</color> +<color=#00CCFF>Please be ready. We'll be right—</color>
+()||<闪屏><duration>5</duration></闪屏>:
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Boss2</BGM><黑屏1>:The transmission gets cut off all of a sudden! +...Crash! The back door of the safe house is broken down! +The commander feels an abrupt sting of electric current from head to toe and slumps onto the ground.
+Nyto(1)<Speaker>Black Doll</Speaker>||<BIN>47</BIN><睁眼>:Good morning, Griffin Commander. +We are under orders to capture you...
+()<Speaker></Speaker>||<震屏>:...Smack!
+()<Speaker></Speaker>||:Suddenly, a figure comes rushing up from behind the black Doll and slaps her across the face with a force way more incredible than it appears. +The Doll flies across a considerable distance and slams into the wall...
+NytoWhite(0)<Position>0,50</Position><Speaker>White Doll</Speaker><position>0,50</position>||:That was for walking in front of me.
+()<Speaker></Speaker>||:The black Doll gets to her feet slowly, red fluid dripping down the corner of her mouth.
+()<Speaker></Speaker>||<震屏>:...Smack!
+NytoWhite(0)<Position>0,50</Position><Speaker>White Doll</Speaker>||:That was for your stupidity that resulted in a failed mission. +There were only a few Dolls at the Griffin base, yet you still failed. You also wasted quadruple the amount of time and five times more resources than expected on gathering and analyzing their data.
+Nyto(1)<Speaker>Black Doll</Speaker>;NytoWhite(0)<Position>0,50</Position>||:That...was not me... +They...have already given their all...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:To me, you are all the same, and you keep making the same mistake mission after mission. +Our lives are short and precious, yet you squander them time and time again with your impotence. I am ashamed to share your name and appearance. Father should never have created you. +This is why I am standing here, teaching you what it means to have a "self".
+Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:I...understand...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Our success today is all thanks to me. That human is my trophy.
+Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:I...have no objection...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Take the human to Father's desired location... +And the "we" over there will acquire what Father wants from the prisoner. +Griffin is about to break through our blockade. When will our transport arrive?
+Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:It is going to take some time. The automated carrier is still on its way— Sister, where are you going?
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:This is a demonstration. I'm going to buy you some time.
+Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:But you will not get to leave. Your soul will not stay anchored to this body.
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Genuine freedom can only be attained through sacrifice. I shall "awaken" once more with this freedom. +Take the human and report my achievements to Father. Do you understand?
+Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||<黑屏1>:Yes, I will make sure Father remembers you...I swear.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:...Ten minutes later.
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>157</BIN><黑屏2><SE2>Gunfight</SE2>:Their defense line is about to collapse! Keep it up!
+NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Your actions are meaningless, Griffin Dolls. +No matter how many times you attack, you will not be able to get close to my scythe.
+AN94(0)<Speaker>AN-94</Speaker>||:We know we can't... +But they can.
+()<Speaker></Speaker>||:...
+()<Speaker>Terrifying howl</Speaker>||<震屏>:GUARGHHHHHHH!
+NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:The Baptized?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Guys, RO and I have drawn the ELID zombies this way!
+RO635(6)<Speaker>RO635</Speaker>||:I told you I'd come in handy!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Humph, you mean your megaphone. I didn't know it comes with so many modes!
+RO635(6)<Speaker>RO635</Speaker>||:I am a T-Doll of many talents! +Hey, hurry! They're about to get me!
+AN94(2)<Speaker>AN-94</Speaker>||:SOP-II, you might have attracted too many of them.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Didn't you say to draw them all from every direction?
+()<Speaker></Speaker>||<震屏>:...The ELIDs surge towards the blockade.
+NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:All units, stand down. Do not attack the Baptized.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Why aren't the white enemies attacking? They'll be torn to pieces!
+AK12(3)<Speaker>AK-12</Speaker>||:Does that matter? M82, I've located the target. Can you make a snipe from this distance? 
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Wouldn't be a problem even if you tripled the distance.</color>
+()||<CGDelay>0.5</CGDelay>:
+()||<闪屏><duration>5</duration></闪屏><SE2>MachineGunBurst</SE2>:...Bang! +...The white Doll takes a bullet in the head, which explodes like a watermelon.
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:We did our part. +Now...it's up to Ange and 416.
+()<Speaker></Speaker>||<BIN>47</BIN><黑屏2>:...Meanwhile, inside the safe house.
+()<Speaker></Speaker>||<震屏>:...Bam! 416 kicks the door open.
+HK416(3)<Speaker>416</Speaker>||:Commander! Where are you? Come out!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:The Commander isn't here! Search the house!
+Nyto(1)<Speaker>Black Nyto</Speaker>||:Do not bother. +You are too late.
+()<Speaker></Speaker>||:...The black Doll walks slowly into the room.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Why...why are you here?! +What about the Commander? Tell us where the Commander is!
+Nyto(1)<Speaker>Black Nyto</Speaker>||:We have taken the Griffin Commander away.
+HK416(3)<Speaker>416</Speaker>||:... +Why...? +What exactly are you after?!
+Nyto(1)<Speaker>Black Nyto</Speaker>||:You...know nothing about "us"... +"Our" greatness is beyond your comprehension.
+HK416(0)<Speaker>416</Speaker>||:What...?
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:You must be here for a reason. You couldn't possibly have fallen out from the sky...
+Nyto(1)<Speaker>Black Nyto</Speaker>||:What do you hope to achieve with that piece of knowledge?
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Indeed, I have no interest in your identity or intentions. Hand the commander over!
+Nyto(1)<Speaker>Black Nyto</Speaker>||:Unfortunately, the human has already departed from this location. +There is nothing you can do. +I only stayed behind to relay a message.+"The shining beacon in a brave new world."
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Bang! +...Ange kills the black Doll with a single shot.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Don't say that in my presence. It revolts me.
+AK12(2)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Ange, the battlefield is getting out of hand! We must withdraw!</color>
+AN94(2)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Can you confirm if the commander...has really been abducted?</color>
+HK416(0)<Speaker>416</Speaker>||:There are no life signs in the safe house. I believe it's true...
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>Those white Dolls...were only here to slow us down.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Ange...</color> +<color=#00CCFF>Did we fail the mission...?</color>
+()<Speaker></Speaker>||:...Ange stares at the remains of the black Doll and the pool of crimson fluid on the floor in silence.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:No, not yet... +We simply...haven't completed the mission yet. +No one is going to get left behind, I swear. +...
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+()||:I think I finished the entire story. I'm sure I didn't make any mistakes. +A heavy weight is lifted off my mind - I no longer have to fight against the truth serum. Of course, this also means I'm about to face something much worse...
+Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Room</BGM>:...Father. +The Griffin Commander has completed the statement. It tallies with our information.
+Nyto(0)<Speaker>Distorted voice</Speaker><通讯框>||:<color=#00CCFF>Finally spilled it all?</color> +<color=#00CCFF>It took you so long to interrogate a simple PMC employee. Just how useless are you?</color>
+Nyto(0)<Speaker>Nyto</Speaker>||:We are very sorry, Father. We did our best.
+Nyto(0)<Speaker>Distorted voice</Speaker>||<黑屏1>:<color=#00CCFF>I know. I never expected much from garbage like you. Now tell me what you learned. Keep it brief.</color>
+冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker><通讯框>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#00CCFF>...Commander.</color>
+()||<BIN>158</BIN><黑屏2>:Just then, I hear a voice in my ear. I hear hope.
+冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>Please check your restraints discreetly, but don't make a move. We've hacked into the system and deactivated them.</color> +<color=#00CCFF>Once you confirm this, feel around for the pistol hidden beneath the straps. If you can find it, please lower your gaze, look to the right, and blink twice. Then look straight ahead again.</color>
+()||:I can feel that the restraints have indeed been deactivated and I follow her instructions. +I can now move freely, but I know it isn't time yet.
+冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>Understood, Commander. We'll be there in the interrogation room right away.</color> +<color=#00CCFF>If these Nytos try to attack you before we get there, don't hesitate to fight back. They're only interrogator models and have no weapons or combat capabilities. I'm sure you can handle them.</color> +<color=#00CCFF>By the way, don't forget our code. To acknowledge, please lift your gaze, look to the left, furrow your brows, then pull the right corner of your mouth downward. Oh, and stick out your tongue.</color>
+()||:It's a bit challenging, but I do everything she asks...
+冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>A wonderful face. I've documented the image in retaliation for ruining my reputation in your story.</color> +<color=#00CCFF>Now, please wait patiently. We still need a little bit more time.</color>
+()||:I want to tell her I don't have much time left, but she's already ended the conversation. +On the other end of the Nyto's communicator, the owner of that male voice whose haughtiness is so apparent even through the digital distortion that he must be lying on a sofa right now, listening to a record player and staring at the ceiling. Then he'll casually read out my sentence. +What awaits me...what this "Father" wants to do to me...is quite obvious...
+电子处理的声音()<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>...So you're telling me, that there was no way for the Commander and all the other targets to have come into contact with Mastermind?</color>
+Nyto(0)<Speaker>Nyto</Speaker>||:Indeed. The evidence offers no contradiction from any aspect.
+Nyto(0)<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>Then we have no need for contradiction. Your work is over.</color>
+Nyto(0)<Speaker>Nyto</Speaker>||:What should we do with the commander?
+Nyto(0)<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>Do you have to ask? How many times have you done this already?</color> +<color=#00CCFF>Chop off the Commander's head and send it to me. Then destroy all evidence.</color> +<color=#00CCFF>Stand closer this time and put your back into the swing. Make it a clean cut and keep the head in good shape for my research.</color>
+Nyto(0)<Speaker></Speaker>||:Will my rescue not make it in time? The four Nytos are closing in with blades in hand! +I'm not sure other than the head, what other body parts would make effective targets. I must wait for them to come even closer so that I can get them all in the head in one go.
+Nyto(0)<Speaker>Commander</Speaker>||: +<c>What are you doing? <c>This isn't what we agreed! <c>This is your last chance. Got anything to say?
+Nyto(0)<Speaker></Speaker>||<黑屏1>:The four Dolls offer no response at all. They just keep walking towards me. +No...I can't make a move yet. They're not close enough. Just a bit closer! +Besides...I don't know which one...
+()||<BIN>9</BIN><黑屏2>:The moment the Nytos raise their blades—
+？？()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:"I've brought misfortune."
+()||<黑屏1><闪屏><duration>5</duration></闪屏><SE2>Gunfight</SE2>:...Bang! Bang, bang!
+()||<BIN>158</BIN><黑屏2>:...
+Nyto(0)<Speaker></Speaker>||:I aim my pistol at the last standing Nyto. +She gazes at me, but I don't pull the trigger because...
+Nyto(0)<Speaker>Commander</Speaker>||<BGM>BGM_stage1</BGM>:My motto has always been "treat ladies gently".
+Nyto(0)<Speaker>Nyto?</Speaker>||:I told you you didn't have to respond to my code phrase. +But I like that reply. Looks like you know who we are.
+Nyto(0)<Speaker>Commander</Speaker>||: +<c>It's been a while, UMP45. <c>Is everyone from Squad 404 here?
+Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||<分支>1</分支>:I'm very honored to take part in this mission, Commander.
+Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||<分支>2</分支>:416 is with me. Gr G11 and 9 are giving us off-site support. Don't worry, we'll get you out.
+Nyto(0)<Speaker></Speaker>||<分支>1</分支>:Somehow I doubt your sincerity.
+Nyto(0)<Speaker></Speaker>||<分支>2</分支>:I'm relieved to hear that. I suppose I can at least trust you as allies.
+Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||:I would very much like to smile in response to that, but simply hacking into this Nyto is taking up all my processing capacity. +I can't do much about the face or the voice. Hope you don't mind.
+Nyto(0)<Speaker></Speaker>||:The Nyto walks toward the entrance and studies the door.
+Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||:They seem to take you very seriously. To keep this interrogation room under wraps, the door can only be opened from within, and the only ones with access are these Nytos. +Of course, we could've blasted it open from outside, but I didn't want to blow you to bits as well.
+()||:The Nyto fiddles with some mechanism, and the door opens with a creak. +Then a T-Doll walks in.
+HK416(0)<Speaker>416</Speaker>||:...Looks like you're safe, Commander.
+HK416(0)<Speaker></Speaker>||:The calm T-Doll that has been corresponding with me was 416. Then the one in control of the Nyto...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Nicely done, Commander. +You managed to finish off three Nytos all by yourself under these circumstances. +Now, let me add the finishing touch.
+UMP45Mod(0)<Grey>;HK416(0)<Grey>||:
+()||:UMP45 executes the hacked Nyto with a bang.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Your suffering is over.
+UMP45Mod(0)<Grey>;HK416(0)<Grey>||:
+()<Speaker>Commander</Speaker>||: +<c>UMP45? ...Is that you? <c>We meet again, 416.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<分支>1</分支>:Like my new look? I don't think you get to see me too often.
+UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:Just give her some compliments. Who knows when we'll see each other again.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||<分支>1</分支>:The next time we meet, you'll probably have forgotten about me, or you won't dare remember me. +But I'll be happy so long as you remember our secret code. Now, let's get on with the job.
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:We've kept you waiting, Commander. Can you still move? +Your stories were a bit over-the-top, but you didn't deserve such punishment...
+HK416(0)<Speaker></Speaker>||<分支>2</分支>:416 walks up to me and looks a bit concerned. Either my mind is starting to get foggy, or the punishment really was that heavy...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:416, hold the Commander up. We're getting out of here.
+UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||:That's not going to be easy. Are they coming, 45?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Of course. They won't give up the Commander just like that. Let's go! We should find somewhere to hide first!
+()||<黑屏1>:...With the help of a brand new UMP45 and the same old 416, I stumble out of the interrogation room unsteadily. +At long last, I'm leaving this damn place, where I've spent god-knows-how many hours or days. But I can't help but look back at the remains of the Nytos in there... +...Remains? Or...? +I take in the fluid that looks exactly like blood and the body parts mangled by bullets.
+()||<BIN>9</BIN><黑屏2>:What on earth...are "they"? +With my brain still addled by chemicals, all kinds of notions tumble around uncontrollably inside my head. +UMP45's hack could only last for a minute at a time? +RO mentioned something about fluid leaking out of their bodies after they got shot...? +And the voice that sounded both real and hollow... +I can't think straight. The sounds of gunshots, artillery fire, and UMP45's calls overlap in my mind as I gradually slip into oblivion...
+()||<黑屏1><黑屏2>:What exactly have I achieved? Victory? Freedom? Or...an even deeper level of hell?

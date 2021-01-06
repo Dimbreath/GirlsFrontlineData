@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><BGM>BGM_Battle</BGM><黑屏2>:
+()||:A few hours later, 416 and SOP-II's team killed the black-clad Doll and her mysterious troops. Griffin's withdrawal is almost complete.
+HK416(0)<Speaker>416</Speaker>||:Commander, Kalina and the final batch of T-Dolls are about to withdraw on the last carrier. +SOP-II and I plus a few other T-Dolls and the HOCs have volunteered for this rescue mission. Our objective is to escort you safely off the battlefield.
+HK416(0)<Speaker>Commander</Speaker>||:...<c>The rescue target isn't me. <c>That isn't the last batch of T-Dolls, 416.
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:What? Not you? Then who could it be?
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:No? What do you mean, Commander?
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Ange? +You mean Ange is still alive?! Is that true? +...But...are you sure you want us to rescue her instead? The battlefield is filled with danger. We may even run into the military's main force.
+()||<黑屏2><BIN>9</BIN>:
+()<Speaker>416</Speaker>||<黑屏1>:I understand. We will designate Angelia as our priority target. +Please don't misunderstand, Commander. I don't have any misgivings about the mission. Deep down in my neural cloud, I was hoping you'd do it. +However, I don't want to regret not saving you. I hope there will still be a chance for that... +I'll go explain the plan to UMP9. The rescue mission will commence in ten minutes.
+()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...Ten minutes later, 416 and SOP-II lead their fellow T-Dolls on the way to rescue Ange. At the same time, they are briefed on the information the commander obtained from the communication and data transfer with Ange.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...Commander, is that what Miss Ange said? +She gave you all the information she'd collected before the dirty bomb went off? +Why...did she do that?
+SOPIIDamage(2)<Speaker>Commander</Speaker>||:...<c>To prepare for all contingencies in case anything happens to her. <c>The information contains her coordinates. With that, we can rescue her.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:She was prepared to sacrifice herself...again?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Ange finally learned. But in other words, she had known the dirty bomb would go off...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Commander, are you sure we should prioritize rescuing Miss Ange? +We're not sure if she's still alive or if she's left her last known location. +On the other hand...we're a lot more likely to succeed in rescuing you.
+SOPIIDamage(2)<Speaker>Commander</Speaker>||:...<c>I can't leave until I make sure everyone is safe. <c>Ange has helped me out a lot. I can't leave her behind.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Spoken just like the commander would, even though no one ever asks that of you.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Yeah...same here. I'll be very sad if we don't save her.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:So, let's rescue her! This time, we won't leave her behind!
+HK416(0)<Speaker>416</Speaker>||:Quick, set up their retreat route, Commander. Then we can guide her with a signal flare. +If we have to run all the way to them, we won't make it in time.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:For Ange's retreat, reaching the area where Cx4 and I withdrew from and following the route we took should be the quickest, and the enemies along the way should pose the smallest threat.
+HK416(0)<Speaker>416</Speaker>||:That won't work. The radiation keeps spreading; the contamination level has grown so severe the area is already flagged as a Red Zone.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:"Red Zone"?
+HK416(0)<Speaker>416</Speaker>||:Red Zones are areas with the highest level of contamination hazard. Exposure for T-Dolls can cause damage but isn't lethal. However, any human who enters will contract ELID and suffer from irreversible effects within a short period of time. +Ange is already infected. No matter how short the route is, it is highly unlikely for her to survive the trip. If she takes a detour, there's another viable route through the Yellow Zone, which has a lower contamination level.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:But she'll run into a lot more ELIDs and may even come under the military's attack! +Even in the Yellow Zone, radiation will still accumulate in Ange's body over time, right? She won't have the time to lie low and go around the enemies!
+HK416(0)<Speaker>416</Speaker>||:Both options are risky. Further argument will only be a waste of precious time. Commander, only you can decide where to guide them. +This is the last squad on the battlefield. It is also our final rescue target before we withdraw.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Where should we launch the signal flare? Over the Red Zone, where the route is shorter but the radiation is higher, or the Yellow Zone, where there are more enemies? Please make your decision ASAP!
+()||<BIN>10</BIN><黑点2>:

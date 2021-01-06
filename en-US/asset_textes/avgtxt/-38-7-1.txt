@@ -1,0 +1,51 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<白屏1>:Kalina inputs a few commands and our surroundings start fading to white. +After a blinding light, I feel the helmet being taken off my head.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<白屏2><BIN>8</BIN><黑屏1><BGM>BGM_Empty</BGM>:Welcome back, Commander. +You've returned to your very own "Vita". There are still new, unfound stories that await you.
+()||<黑屏2><BIN>8</BIN><BGM>GF_xGS2_27</BGM>:... +A few weeks later, at the Griffin base.
+NPC-Kalin(5)<Speaker>Kalina</Speaker>||:In the end, I did get an agonizing dressing-down from Miss Helian...
+()<Speaker>Commander</Speaker>||:Well, we did utilize all of our server's capacity to backup the Social Welfare Agency program. That's only to be expected, right?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Hey, I had to suffer through that all on my own! +Say, when are YOU going to keep up your end of the bargain?
+()<Speaker>Commander</Speaker>||:You're right. But we're setting off tomorrow, so why don't we wait until we come back from our 24-week physical training camp?
+NPC-Kalin(5)<Speaker>Kalina</Speaker>||:I don't wanna go! Why do I have to undergo physical training?
+()<Speaker>Commander</Speaker>||:Exercise is really good for you, you know. You'll even gain some muscles.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:But I don't want to look like a body builder...
+()<Speaker>Commander</Speaker>||:Then I can hold myself up to that promise right now — just ask, and I'll exempt you from the physical training.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:No way! +You damn hustler, I won't let you get away with this! +Once I make up my mind about what I want, you'll have to keep your word!
+()<Speaker>Commander</Speaker>||:Alright, alright... Well, at least you'll have a long time to think about it. +By the way, how are the kids doing?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We reconstructed the space on Level II, and now it's fully operational. It's now only using up a bit of our server's capacity so Miss Helian let it slide in the end. +Besides, our Dolls often pop in to visit the girls, and they all love the garden, so it's a win-win.
+()<Speaker>Commander</Speaker>||:All in all, a good ending. It was all worth it.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Don't you want to see it for yourself? +The equipment is still there, and I'd hazard a guess that they'd all like to see you again.
+()<Speaker>Commander</Speaker>||:You'd be right. In actuality, I received an invitation this morning.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:An invitation? To what?
+()<Speaker>Commander</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:If I must say, most probably a tea party organized by the girls?
+()||<黑屏2><BIN>259</BIN><BGM>GF_xGS2_25</BGM>:Upon returning here, I note a few changes in the familiar garden. +Kalina gave them edit access to this place and allowed the girls to modify the Agency's original virtual domain, while our Dolls were more than willing to assist them in their endeavour. +The building that once was the "Vita" is now a small villa, and the entire virtual space now has an exceptionally romantic flair to it. +During the process, the Dolls became very good friends with the girls. +When there were no combat missions, the Dolls would enter Level II to play around here, which cut down the pranks that the problematic Dolls pulled considerably, much to the approval of the logistics team. +In turn, the cyborgs lived their leisurely lives, taking part in the combat exercises with the Dolls on occasion, to relive the feelings of battle from their past. +They could do anything they wanted to at Level II, but after a few villas were blown to smithereens, fighting was forbidden without prior approval. +It's been a full month since the cyborgs came home with our Dolls, and so the girls are preparing for a celebratory tea party. +Hopefully, they'll put their guns away for this one...
+Rico(0)<Speaker>Rico</Speaker>||:What's taking the Commander so long?
+Angelica(0)<Speaker>Angelica</Speaker>||:Isn't it already time?
+Triela(0)<Speaker>Triela</Speaker>||:It is... +But the Commander is a big-shot, so who knows.
+Claes(0)<Speaker>Claes</Speaker>||:You sound like you're still angry with the Commander for posing as Signore Hillshire.
+Triela(0)<Speaker>Triela</Speaker>||:I'm not that petty!
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Hey, SPAS! You're gonna eat up all the macarons!
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:We're on Level II; I can eat all I want!
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:But the Commander isn't here yet. I knew this was gonna happen, that's why I prepared other snacks...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:There are other snacks?!
+SAT8(0)<Speaker>S.A.T.8</Speaker>||:Fine, come and help me fetch them.
+Carcano1938(2)<Speaker>Carcano M91/38</Speaker>||:Cappuccino tastes better with more sugar.
+Triela(0)<Speaker>Triela</Speaker>||:Haha... I prefer less sugar.
+Angelica(0)<Speaker>Angelica</Speaker>||:It's okay, Ceno. Have some of your favorite strawberry cake.
+Carcano1938(2)<Speaker>Carcano M91/38</Speaker>||:W-Who said I liked strawberry cake...
+Henrietta(4)<Speaker>Henrietta</Speaker>||:...
+Triela(0)<Speaker>Triela</Speaker>||:What's wrong, Henrietta? You've been really quiet.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Oh, I can hear the Commander!
+Angelica(0)<Speaker>Angelica</Speaker>||:Oh, me too! I can hear footsteps!
+Henrietta(1)<Speaker>Henrietta</Speaker>||<SE1>RunStep</SE1>:Oh, finally!
+Triela(0)<Speaker>Triela</Speaker>||:Wait, Henrietta! Don't run so fast!
+()<Speaker>Commander</Speaker>||<震屏>:Henrietta... It's been a while.
+()||:In the virtual garden, the girl standing in front of me looks up and smiles happily at me.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<黑点1>:Hello again, Commander! +Welcome to our tea party!
+()||<黑点2><BIN>266</BIN>:She takes my hand and leads me to a table covered in delicious food. +To this day, I still can't be certain if I made the right decision for them or whether these girls will be truly happy at Griffin. +Still...as long as I can see this smile, isn't there surely a meaning to what I did?
+()<Speaker>Rico</Speaker>||:Now that everyone is here, can we finally get cracking? I'm starving.
+()<Speaker>Claes</Speaker>||:Yes...we can.
+()<Speaker>Triela</Speaker>||:In that case...
+()<Speaker>Angelica</Speaker>||:Let our magical tea party...
+()<Speaker>Henrietta</Speaker>||:Begin!
+()||<黑屏1>:Gunslinger Girl Collaboration Event – END.

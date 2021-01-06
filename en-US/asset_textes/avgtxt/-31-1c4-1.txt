@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><BGM>BGM_Danger</BGM>:... + ...+M4 and AK-12 swiftly break through the enemy defense line and arrive at the door to the wall control room.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...The door's locked.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Hang on a bit, I'm hacking the internal control systems of the wall.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Hurry it up, there's no telling what the people inside are doing.
+M4A1Mod(0);AK12(2)<Speaker>AK-12</Speaker>||:I'm working as fast as I can. +After all, this equipment is intended to protect human lives, so obviously they'd be more careful about protecting it. +... +Alright, opening the door now.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:Understood.
+()||<黑点2><BIN>85</BIN>:AK-12 opens the electronic lock, and the two Dolls rush into the control room. +A soldier is operating the control panel in front of them.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:You've got nowhere to run. Surrender.
+()||:The rebel soldier ignores M4's warning and continues pressing the buttons on the control panel.
+AK12(2)<Speaker>AK-12</Speaker>||:This is bad! M4, he's planning to open the quarantine wall!
+()||:M4 quickly steps forward and points her gun at the rebel's back.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Stop what you're doing and raise your hands if you don't want to die.
+()||:The rebel soldier turns back and looks at M4 with a disdainful expression on his face. +A huge red warning message flashes on the monitor before him.
+Rebel Soldier()||:A mere puppet like you can't stop us!
+()||<BGM>BGM_Empty</BGM>:The rebel soldier quickly reaches a hand out to a button on the control panel.
+()||<SE1>Gunkill</SE1><闪屏><duration>10</duration><rate>20</rate></闪屏><BGM>BGM_Truth</BGM>:M4 shoots the rebel soldier square in the head, and the soldier collapses in front of the control panel like a sack of potatoes.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Is it over...?
+M4A1Mod(3)<Speaker></Speaker>||:M4 bites her lip as she looks at the human who now lies in a pool of blood.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>0,3</黑屏1>:(...Is this really alright?)
+OGAS()||<黑屏2><BIN>9</BIN>:You hesitated, M4A1. +Your indecision nearly put the entire city in danger. And here I thought you were already used to killing human beings.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:...Was there really no other way to stop him? Why does it always have to be a matter of life and death?!
+OGAS()||:You're naive, far too naive. Don't always think that you can reach a good outcome easily. +Only the victors get to live on. That was why you opened fire, isn't that right?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+OGAS()||<>:M4A1, we need to do the right thing. +That's the only way we can reach our destination...
+()||<BGM>BGM_Empty</BGM>:Just then, someone pats M4's shoulder.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>0,5</黑屏1>:?!
+AK12(0)<Speaker>AK-12</Speaker>||<黑屏2><BIN>85</BIN>:Talking to yourself again, M4? +Things aren't over yet.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:What?
+()||:AK-12 points to the communicator that has fallen beside the rebel soldier's body. +The faint sounds of a conversation can be heard through the device.
+???()||:<color=#00CCFF>Attention, the operation to seize the control room has failed...</color>
+???()||:<color=#00CCFF>Thus we have no choice but to enact the final plan.</color>
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM>:As I thought...
+()||<SE1>RunStep</SE1>:AK-12 and M4 exchange looks. +After that, M4 dashes out of the control room.
+AK12(0)<Speaker>AK-12</Speaker>||:I've finished pinpointing the message's source, I'll send you its location.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Roger. </color>+<color=#00CCFF>I'm on my way, delay them as long as you can.</color>
+()||:AK-12 picks up the communicator. +...A low male voice comes from it.
+Rebel Officer()||:<color=#00CCFF>Whoever's in the control room, you heard our conversation, right?</color>+<color=#00CCFF>Unfortunately, everything you did was for nothing!</color>
+AK12(0)<Speaker>AK-12</Speaker>||:You've already failed. If you want to keep your lives, I'd advise you to not act rashly.
+Rebel Officer()||:<color=#00CCFF>Failed? Hahahaha... To think it'd be a little girl who stormed the control room!</color>+<color=#00CCFF>Still, I'll tell you this. In order to ensure our plan went off without a hitch, our heroes have already rigged the load-bearing columns here with explosives while you fools were delayed by our comrades!</color>+<color=#00CCFF>And now, I hold the detonator.</color>+<color=#00CCFF>With just a press, this stupid quarantine wall will be blown to bits!</color>
+AK12(2)<Speaker>AK-12</Speaker>||:Why are you doing this? Weren't you originally garrison troops? +Your duty is to protect your people! +Can you face up to the badges you wear if you let infected creatures into the city?
+Rebel Officer()||:<color=#00CCFF>Of course we can! What we're doing is for the sake of peace and freedom!</color>+<color=#00CCFF>As for the people? (Snorts) ...They aren't even people!</color>+<color=#00CCFF>Our people are locked outside the wall! The real people are starving, bleeding, struggling on the edge of life and death!</color>+<color=#00CCFF>We use our blood to protect those maggots in the city, but what have they done?</color>+<color=#00CCFF>They simply live within the walls without a care in the world, allowing those thieves who live on high to steal the fruits that we protect with our lives!</color>+<color=#00CCFF>Let them bear the consequences of their weakness! Let them go to hell with the people up top!</color>
+AK12(2)<Speaker>AK-12</Speaker>||:Do you want to die?! +If you push that button, both you and the rest of your unit will perish!
+Rebel Officer()||:<color=#00CCFF>This is the battlefield, girl!</color>+<color=#00CCFF>Since we're here, we have no intention of going back alive!</color>+<color=#00CCFF>All our comrades came here prepared to die. How could soft and weak running dogs like you understand our lofty resolve?!</color>
+AK12(3)<Speaker>AK-12</Speaker>||:You... You're a bunch of madmen!
+Rebel Officer()||:<color=#00CCFF>That's right, we're mad! We're all mad!!!</color>+<color=#00CCFF>Everything's gone mad — hahahaha!!!!</color>
+AK12(2)<Speaker>AK-12</Speaker>||:M4! Look out! +These people are all insane!
+M4A1Mod(4)<Speaker>M4A1</Speaker><通讯框>;AK12(2)||<黑屏1>:<color=#00CCFF>Got it, I'll be right—</color>
+Rebel Officer()||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Let this mad world hear our cry!!!!!</color>
+()||<SE1>Explode</SE1><黑屏1>:BOOM!
+()||<SE1>Explode</SE1><黑屏2><黑屏1><BGM>BGM_Sad</BGM>:The purification tower collapses amidst a series of explosions. +The storm lashing the exterior of the walls quickly disperses the thick smoke generated by the blasts.
+()||<火花>:By the time the dust and smoke clear, Ange can see a horde of burning Infected by the light of the fires on the nearby wall. They pour in through the gap in the quarantine wall and rush downhill into the city.
+()||:Ange can hear many things. +She can hear screams, gunfire, explosions, and inhuman cries. +Those sounds of disaster blend into a chaotic mess and reach her ears over the communications channel. +The neat flow of cars on the streets near the wall seizes up, like a snake that's been cut into segments. +The thick smoke and firelight gradually spread outward along the streets. People flee in all directions, and Ange imagines she can hear their wails of despair. +Even Ange, who has witnessed countless tragic sights, cannot help but want to avert her eyes as she witnesses the horrific scene beneath her.
+Angelia()||<黑屏1><BIN>9</BIN>:Did your plan account for this too, K...? +It had better, otherwise the situation will be out of my control...

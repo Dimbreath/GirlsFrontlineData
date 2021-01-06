@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>GF_Memorial</BGM>:As the clock ticks on, M950A first gets in touch with the Fairies assigned to slow the enemy down. +Then she leaves Thunder in the repair bay of the temporary outpost.
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏2>:...950... Are you going?
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:Yeah. That Military team is moving faster than we imagined. +I must obliterate them before I can save the Commander.
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(8)||:On your own?
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:Yeah.
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(8)||:...
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:You're not gonna stop me?
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(8)||:No, because I know that's what you want to do the most. +...Please come back in one piece.
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:Okay.
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(8)||:...
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:W-What... Why are you staring at me?
+Thunder50(0)<Speaker>Thunder</Speaker>;M950A(8)||:...Your new getup...looks very cool.
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:Huh? +Th-Thanks...
+Thunder50(0);M950A(8)<Speaker></Speaker>||:M950A quickly looks away from Thunder's face.
+M950A(8)<Speaker>M950A</Speaker>||:Then I'll be going.
+Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Good luck.
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10256</BGM>:... +M950A soon finds the Military assault team that's looking for her.
+M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>All set.</color>
+()<Speaker></Speaker>||:M950A has deliberately left traces in the trench along their path and hidden herself among the pile of Doll bodies about 20 meters away from the trench. +A Military team comes into her view.
+()<Speaker>M950A</Speaker>||:<color=#A9A9A9>A team...comprised of human soldiers and Military mech units.</color> +<color=#A9A9A9>Four humans, six mechs.</color>
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||:Give the bodies here a sweep.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang bang...bang bang bang. +M950A observes the team while trying to keep still in the spray of bullets.
+NPC-Yegor(3)<Speaker>Assault Team Member</Speaker>||:Report - our scouts have discovered supplies and equipment left behind by Griffin Dolls.
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>;NPC-Yegor(3)||:Have the mech units march with us in a vertical line. Keep your eyes open.
+NPC-Yegor(3)<Speaker>Assault Team Member</Speaker>||:Yes, sir.
+()<Speaker></Speaker>||:M950A silently approaches the formation from behind.
+M950A(8)<Speaker></Speaker>||:She then takes out the EMP grenade she seized earlier and lobs it at the Military units in the back of the line.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Beep— Beep— +Two Military units start emitting a noise that alerts the soldiers to their compromised state.
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||:It's that goddamned Doll!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang bang. +Using the mech units as shields, the four human soldiers open fire as they advance toward M950A.
+M950A(8)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>They've taken the bait.</color>
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:M950A dives into the trench, forcing the Military team to follow her into the narrow tunnel.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang bang.
+M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:None of the bullets have hit her directly, but her body is being pummeled by the rocks blasted down by the gunfire.
+M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>One, two, three... Only three humans, though all the mechs are here.</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:The Military units and soldiers keep firing at M950A without a moment of respite.
+M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:M950A zigzags ahead. Her goal is simple - to lead the enemy into the bunker of the trench.
+M950A(8)<Speaker>M950A</Speaker><Shake>||:Ugh...!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang bang. +More gunfire - Three bullets hit M950A in the back, but thanks to her newly rebuilt body, the damage isn't too serious, though the force almost knocks her off-balance.
+M950A(9)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>I can't afford to fail here...!</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:M950A and the Military reach the bunker deep beneath the trench almost simultaneously. +The bunker is derelict and empty, with not a single bullet in sight.
+M950A(8)<Speaker>M950A</Speaker>||:...
+NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||:Humph, you did rig this place with explosives, we're not coming in. +Does this tin can from Griffin think it can bring us all down? +Open fire!
+()<Speaker></Speaker>||:The four Military mechs come dashing straight toward M950A while the human soldiers fire at her from the back to pin her down. +It's clear that even with her improved performance, M950A is still no match for a Military unit in a direct confrontation...let alone four.
+M950A(8)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:M950A draws her gun. But instead of aiming at the enemies... +She empties her mag into the only pillar supporting the bunker.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>DJMAX_FirstKiss</BGM>:Bang bang bang. The pillar crumbles in an instant.
+NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||:What?! Shit!
+()<Speaker></Speaker>||:Only then do the soldiers realize that the other pillars of the bunker have been damaged beforehand.
+()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:BOOM— Rocks come crashing down like an avalanche, burying M950A and the Military alike. +In the blink of an eye, everyone is trapped beneath the rubble.
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||<黑屏2><BIN>99</BIN>:Humph, you got us good. +Can't believe it cost us five good men and six mechs just to do you in. +But Griffin has still lost, because I've located your Commander.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Buzz, buzz— An alarm is suddenly triggered in the soldier's detector.
+NPC-Soldier(0)<Speaker>Assault Team Leader</Speaker>||:Tsk...!
+()<Speaker></Speaker>||:Enduring the massive weight of the rocks and the burning sensation of her neural cloud going into overdrive, driven by a searing rage against her enemy... +M950A claws her way out of the dirt in front of the assault team leader.
+M950A(10)<Speaker>M950A</Speaker>||:We Griffins never say die!
+M950A(10)<Speaker></Speaker>||<黑屏1>3</黑屏1><SE1>AVG_weapon_reload</SE1>:She reloads her gun and charges at the enemy with her only dagger in her mouth.
+()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2>3</黑屏2>:Our fight may never end. +We may have to say countless goodbyes.
+()<Speaker>M950A</Speaker>||<黑屏1>:But we will never surrender to fate, no matter how cruel it is.
+()<Speaker></Speaker>||<BIN>41</BIN><黑屏2>:...In the wreckage of the Griffin train.
+()<Speaker>Commander</Speaker>||:...I'm sorry, but the accident has left me blinded. +Could you tell me who you are?
+()<Speaker></Speaker>||:The present Dolls stare at each other. Then...they all step forward.
+()<Speaker>???</Speaker>||<黑屏1>:Just your Dolls.
+()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>3</黑屏1>:We still have a long journey ahead, and we will have a lot of choices to make. +That's why I'm going to do all that I can to protect every single person who walks this path with me... +Together we shall turn this misshapened world into a wide stage where everyone can live on with their happy memories.

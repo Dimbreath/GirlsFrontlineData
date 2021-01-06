@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:The time is 23:40. In the sewers under a certain alley in Belgrade.
+RO635(0)<Speaker>RO635</Speaker><Shake>||:W-What was that?!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hostiles?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:No...sensors aren't registering any individuals, but the reflection surface has enlarged all of a sudden...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Reflection? Enlarged? Explain it in a way that I understand!
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:Hush... That didn't sound like enemy reinforcements... +Hold on... The controls of the floodgates B2, G5, and K9 suddenly require higher clearance to operate?!
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO, look under our feet! Water! Water's coming in!
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Water?! +The floodgate that's stopping the current has been opened! They're trying to drown us!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Drown us?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Have you forgotten?! Our bodies are only equipped with the most rudimentary waterproof casings. If water manages to seep in, we'll definitely short out!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Uh... Can we make it?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:We can't possibly stay ahead of how quickly the water level is rising... +I see it! A platform just ahead! Can you jump up there, SOP-II?!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:No problem! Hah!
+()||<黑点2><BIN>164</BIN>:SOP-II and RO jump onto the platform.
+RO635()||:We can probably last a little longer here... +Just a second, I'm trying to regain access to the floodgate controls... +...Dammit, access denied! +I knew it was fishy – overriding their protocols was too easy! We've been lured into a trap!
+M4 SOPMOD II()||:Can't you override it again?
+RO635()||:It was so easy the first time only because they wanted us to fall for it. Now they've fired up their defenses... +On top of that, they've also refreshed the clearance codes of the other floodgate controls. If I don't put a stop to that— +SOP-II, keep me on my feet! This might take some time, but I need to force my way through on Level II. Don't let me fall into the water!
+M4 SOPMOD II()||:Gotcha! I'll hug you tight!
+RO635()||:Thanks. Commander, you still there?
+Commander()||:<color=#00CCFF>The firewalls found our trojan. I'm searching for a new entry route. </color>
+RO635()||:Thank you, Commander. +It's just as you said – it IS a trap... But we simply cannot give up such an important lead.
+RO635()||<黑点1>:I will try to retake control over the floodgates in Level II, but they might directly cut off external connections. +Considering the fact that they're operating off-site, I doubt they'd do that...and we can only hope I'm right... +To break through their defenses faster, please allow me to harness the computational capacity of more T-Dolls! Let's get started!
+<Speaker>M4 SOPMOD II</Speaker>()||<BIN>165</BIN><黑点2>:Sure, let's go! +Uh...don't you have to close your eyes...?
+<Speaker>RO635</Speaker>()||:They...
+<Speaker>M4 SOPMOD II</Speaker>()||:They?
+<Speaker>RO635</Speaker>()||:They've actually gone and cut off external connections...! So they have no intention of controlling the gates anymore?!
+<Speaker>M4 SOPMOD II</Speaker>()||:What?! +Then we really are done for!
+<Speaker>RO635</Speaker>()||:No...don't panic yet... There's still a way...
+<Speaker>M4 SOPMOD II</Speaker>()||:Are you sure?! The water is almost up to my thighs!
+<Speaker>RO635</Speaker>()||:It-It's going to be fine, SOP-II! D-D-Don't freak out! Maybe you're just too short!
+<Speaker>M4 SOPMOD II</Speaker>()||<黑屏1>:What?! How could you ever say that to me?!
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||<黑屏2><BIN>167</BIN>:<color=#00CCFF>RO, you still there?</color>
+RO635(0)<Speaker>RO635</Speaker>||:We're here! Are you alright?!
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>We're perfectly fine, but from what we can see, water is running through two of the floodgates. I'm guessing the enemies are trying to drown you?</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, duh!
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>Alright, alright, I know.</color> +<color=#00CCFF>Our reinforcements have arrived and the Commander has also located the enemies' command center. We're getting ready to clear them all out in one go.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Then you'd better hurry, or I'll have to stay out of the water by sitting on RO's head!
+()||<黑点2><BIN>10</BIN>:

@@ -1,0 +1,88 @@
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:Come to think about it, why did I even join Griffin in the first place? +If I had gone to work at a civilian firm, the worst that could have happened would be getting bullied for being a newcomer, right? +Humans, Dolls, I wouldn't be surprised by anything that the world could throw at us now.
+()||<SE2>Gunkill</SE2>:...Bangbang!
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑点1>:I accepted the Imprint and became a Tactical Doll in order to protect myself and to keep people from ever bullying me again. +But...why did things end up like this? +If I'd just gone and been a maid or a clerk, the worst thing that could've happened would be having a trash can dumped over me in the streets or something ... It'd still be better than dying in a place like this, right?
+BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||<BIN>99</BIN><黑点2><黑点1>:<color=#00CCFF>There's no point hiding, you Griffin trash.</color>
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑点2><黑点1>:In the end...I got swept up by everyone's feelings, didn't I? +I thought I could protect not just myself, but others too... +I guess I really got carried away. I'm not even suited for this sort of thing in the first place...
+BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||<BIN>99</BIN><黑点2><黑点1>:<color=#00CCFF>Goliaths, prepare to detonate.</color>
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑点2>:Still, at least I helped a lot of people. +My only regret...
+()||<BIN>9</BIN><SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:...Boom—!
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<黑屏1>:Is that today...will be the last day I work at Griffin.
+BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||<BIN>99</BIN><黑屏2>:<color=#00CCFF>So it turned out to be someone like you.</color>+<color=#00CCFF>Are you trembling?</color>
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;BOSS-1(0)||:I... I...
+Cx4Storm(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>I like the look on your face. </color>+<color=#00CCFF>Unfortunately, I don't have time to savor it.</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>Wipe them out! </color>
+()||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+()||<震屏><BGM>BGM_Empty</BGM>:...Boom—!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Reload</SE1>:Hold it right there!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏1>:—! +That Doll!
+()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Reverse</BGM>:For a moment, I thought she was a Sangvis ringleader. +At least, until she tore a Dragoon to shreds. That was when I realized... +That T-Doll, cobbled together from all matter of mangled parts... +I remember, she is... +An elite T-Doll from Griffin's ace team. +Why is she...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>99</BIN><黑屏2>:Hahahaha! +Is that all?! Is that all you have?! +Hide-and-seek is over, Sangvis scum! Show me a good time now that I've found you!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:...
+Cx4Storm(0);SOPIIDamage(0)||:
+()||:...SOP-II slaughters the surrounding S.F. units in moments.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Are you... +Are you one of us?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:...?
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:SOP-II turns, standing in front of Cx4 with filth all over her body and a drunken smile on her face.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;SOPIIDamage(0)||:Eeep!
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Ah...did I scare you?
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:SOP-II's expression returns to normal.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Um...that's okay, your signal ID's blue... +Uh, it's a little red, but it's mostly blue... +So...you're a Griffin T-Doll, right?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm M4 SOPMOD II, a member of Griffin's AR Special Operations Team.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Uhh... Ah, I'm Cx4 Storm, the leader of B Group's 17th Logistics Support Echelon... +Ah, I mean, FORMER logistics support echelon... The Commander sent all combat-capable T-Dolls to the frontline...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:B Group? You mean your echelon is under a different Commander? +Still, that's fine! That's wonderful! It doesn't matter who you are, I've finally found Griffin forces! +But I'm sorry, we'll have to talk later!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Huh?
+SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II connects to the public comms channel.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Your weather forecast for today is— totally screwed, Scarecrow! +It doesn't matter how many S.F. there are as long as I'm here! +How dare a mere recon ringleader like you try to set up such a huge encirclement!
+BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>Oh really?</color>+<color=#00CCFF>I for one think I'm lucky to have run into prey like you at the last moment.</color>
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Has Sangvis logic processing deteriorated so badly that you actually believe in luck? +After I send you back to the factory and they rebuild your body, they should replace the head with a block of wood! Cheap stuff like that suits you better!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>I'll remember your words and play them back after I pluck off YOUR head.</color>
+()||<SE1>Battlefield</SE1>:...Boom! Boomboom!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Sangvis reinforcements! +M4 SOPMOD II, this way!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:That's too long! Just call me SOP-II!
+()||<BIN>40</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BGM>SpecialActivity</BGM>:SOP-II, why are you here?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:How shall I put this... I was just passing through? +I wanted to wake up a friend of mine, and I passed through the area while looking for an auxiliary power source. +I happened to see Scarecrow attacking you guys, so I decided to lend a hand. I'm glad I made it in time.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:(Gasps) You actually took such a huge risk to save us?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I just thought...being able to do a little bit was better than standing aside and watching right?
+Cx4Storm(0)<Shake>;SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Ah! Wh-what's wrong?!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:(Sobs) +Thank...thank you so much!
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Oi oi, you don't need to get on your knees and hug my legs! I, I'm dirty, you know?+<color=#A9A9A9>(I'm not really used to interacting with Dolls I don't know...)</color>+I say, I'm not fully functional right now, and I'm not a command T-Doll, so don't expect me to be of too much help...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:It doesn't matter, I'm just glad someone was willing to help us!
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright, alright. +If you're the team leader, can you contact a Griffin commander? Any of them would do.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:I'm very sorry... the battlefield is in a mess now, and there's disruption sources nearby, so all our comms with HQ have been cut off. +Our echelon's been getting by through syncing up with the Zener Protocol... but compared to having the Commander here in person, our efficiency is... +Speaking of which, you said you didn't have a command module, SOP-II?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:No...but I've picked up a thing or two about tactics. +M4A1's past tactical plans and some of the Commander's mission records are saved in my neural cloud. Maybe we could refer to them when coming up with a battle plan...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:That's wonderful! +In the past, all we did was run logistics missions, and we're completely clueless as to what to do without a commander.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:So...can we count on you for leadership?
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:Eh?! But I've never been a leader before! Besides, aren't YOU the team leader?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:Technically speaking, yes...but I've got no experience, and I can't fight like you... +If you think about it, I'd probably end up leading everyone to an early grave, like just now...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:(Sighs) Alright then. I can't guarantee that I'll do a good job. After all, my neural cloud's computation capabilities aren't nearly as good as M4's and the others. +In that case, you'd best stay close to me, everyone. Without a command module I can't give orders via command access, so I'll sync our data up with the Zener Protocol. Just take action based on the data you get from me. +Still, you'd best prepare yourselves for this. Relaying messages this way is a lot more inefficient than giving direct orders. Our response time is going to be about half a beat behind S.F....
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:No problem! Everyone trusts you! Our response times were slow to begin with anyway!
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:You don't need to state that sort of thing so proudly...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:Well, at least we've solved the problem of leadership. +But we're too few in number. We can't even form a defensive line.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Why didn't you retreat earlier?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:Our mission was to rescue our trapped friends, then retreat to a Griffin base. +However, we lost contact with our commander just after we arrived. +S.F. attacked us, and we had no choice but to abandon the resupply point and run, but instead we ended up being surrounded and bottled up here... +If we could save our friends while S.F. is reorganizing their formation, we might be able to salvage our defensive line...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Do you know where the trapped Dolls are?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑点1>:Yep! I'll mark their coordinates on your electronic map, SOP-II!
+()||<黑点2><BGM>BGM_Empty</BGM>:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:So these places, then? +I'm...not too sure if I can do this...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:SOP-II?
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:Sorry...this is my first time taking the lead like this. +In a situation like this, I don't know...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:That's fine. I'm honored to be fighting by your side. +If this turns out to be my last battle, then nothing would suit me better.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Huh? You guys...you can't back up your neural clouds?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:It seems...something unexpected happened at Griffin HQ. +We haven't been able to upload our neural cloud backups since before we met you. +So this might be the only chance we have.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:You guys... +Then...are you really prepared for this?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:(Laughs) Frankly speaking, we're not... +But this might be a good thing too, the feeling of actually being remembered by someone, instead of being nothing but a set of cold, duplicated data...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Cx4...what does it feel like to be remembered?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:It may sound kind of strange, but at times... +I wonder if the fact that a Doll can't die is a bad thing after all... +It's like...a curse...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:A curse?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:As a logistics Doll, I often escort the operation teams into combat, and then see their bodies dragged back... +And while they appear before me the next day, good as new, they also...forget a lot of things... +Have you ever felt that way, SOP-II?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:I'm sorry... I can't backup my neural cloud, so I can't quite relate...
+()||<BIN>9</BIN><黑屏2><黑屏1>:I...I probably don't experience such feelings very often...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>40</BIN><黑屏2>:There's no need to apologize, SOP-II! I'm not complaining about the fact that I was manufactured, but sometimes I can't help but wonder... What are we? +If the only thing that proves who I am is a chain of memories, then what about the next me? Is it just a Doll of the same model, or is she "me"? +Maybe if I couldn't back myself up, I wouldn't feel so confused...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Cx4...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;SOPIIDamage(2)||:Oh...sorry, I went and got all sentimental! +In any case, we're going to take good care of our bodies and everyone else's, so we need to try our best to save everyone! 
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Cx4...you can't just try, you know.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Huh?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:What I mean is, you HAVE to do it!
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:While I didn't understand most of what you just said, I think the rough idea is that we're all the same now! +That definitely feels a bit more familiar to me, so that's all the motivation I needed! +Come on, let's go and save everyone!
+()||<黑点2><BIN>10</BIN>:

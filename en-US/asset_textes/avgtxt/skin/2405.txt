@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>8</BIN></黑屏2>:...At the Griffin command center.
+()||<BGM>BGM_Room</BGM>:After finishing their daily patrol missions, a team of T-Dolls drift off to either care for their equipment or rest in their dorms.
+()||:The sole exception is Gr MP7, who runs hastily to the Commander's office to turn in her printed mission records.
+MP7(0)<Speaker>Gr MP7</Speaker>||:Hey Caretaker, mission accomplished! +...Not in?
+()||:The Commander's office is empty save for a small mountain of reports which have been haphazardly piled up on the desk.
+MP7(0)<Speaker>Gr MP7</Speaker>||:Caretaker really is getting more and more disorganized! I some self-awareness too much to ask for? That'd save a genius like me the trouble of worrying so much. +Hmm...in any case, putting the report on the table should...
+MP7(0)<Speaker>Gr MP7</Speaker>||:...Hmm? What's this?
+()||:Just as Gr MP7 is about to deposit the report on the desk and leave, her attention is drawn to a document which is currently being vetted. +That document contains Gr MP7's picture and profile. There is also... +...an annotation written in red ink.
+MP7(0)<Speaker>Gr MP7</Speaker>||:Outstanding assessment results. First priority for inclusion in the employee trip... Note: Second in combat contributions.
+MP7(0)<Speaker>Gr MP7</Speaker><Shake>||<黑屏1>:...Second?!
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>162</BIN>:Much like a child who has been told what her Christmas present will contain ahead of time, Gr MP7 is not the slightest bit happy about knowing she was going to be rewarded. +On the contrary, her face is pinched in indignation. +MP7's brows remain deeply furrowed throughout the flight and even after reaching the beach. She radiates so much negativity... +...not even AA-12 is willing to sit in the same row as her.
+MP7(2)<Speaker></Speaker>||:Gr MP7 paces up and down the beach. While she is in her swimsuit and carrying a swim ring, she has not touched the water or even done anything besides kicking at the sand.
+MP7(2)<Speaker>Commander</Speaker>||<BGM>BGM_Hello</BGM>:My sixth sense as a Commander is telling me that you probably don't know how to swim. +How about it? Need a teacher? I can help.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Your jokes are becoming less and less funny, Caretaker.
+MP7(2)<Speaker>Commander</Speaker>||:Well, if they're not funny, then I ought to brush up on my sense of humor, shouldn't I? +You look unhappy; is something bothering you?
+MP7(2)<Speaker>Gr MP7</Speaker><Shake>||:I just... I can't let it go! I can't let go of it!
+MP7(2)<Speaker></Speaker>||<SE1>Rope</SE1>:Gr MP7 clenches her fists. She is so angry that her shoulders start trembling.
+MP7(2)<Speaker>Gr MP7</Speaker>||:I'm a genius, and I worked very hard, yet... I'm only...second in ranking... +This isn't right. You must have made a mistake somewhere, Caretaker!
+MP7(2)<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Crap, did she see the ranking list...? I was trying to hide it from her in the first place...)</color>
+MP7(2)<Speaker>Commander</Speaker>||:Ahem, uh, so you've learned how to sneak into my office then, Gr MP7? +That's not something a good girl should be doing, you know.
+MP7(2)<Speaker>Gr MP7</Speaker>||:I-it's not like that! It's just that you have a bad habit of leaving things lying around, Caretaker, and I accidentally saw...
+MP7(2)<Speaker>Commander</Speaker>||:Aha! +So you DID sneak into my office!
+MP7(2)<Speaker>Gr MP7</Speaker><Shake>||:(Panics) I didn't say that... A-a-and you're changing the subject! +In any case, it's unforgivable, Caretaker!
+MP7(2)<Speaker>Commander</Speaker>||:Well, if you can't forgive me, then so be it... The most distinguished T-Dolls in our company all tend to have their own quirks, anyway. +As for you, you tend to overthink things, both as a T-Doll and as an employee. Thinking too much isn't bad in itself, but throwing tantrums and walking yourself into a blind alley aren't behaviors befitting an elite T-Doll. +A true elite would get their job done with dispassionate professionalism. Ops are work, but rest and recreation is also part of your job.
+MP7(2)<Speaker>Gr MP7</Speaker>||:...
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>(But it still sounds like you're changing the subject!)</color>
+MP7(2)<Speaker>Commander</Speaker>||:(Puts on a serious face) Now that you mention it, I happen to have a mission which only you can accomplish, Gr MP7!
+MP7(2)<Speaker>Gr MP7</Speaker>||:Something that...only I can accomplish...?
+MP7(2)<Speaker>Commander</Speaker>||:Miss Persica was asking me if I could collect data on how T-Dolls perform in humid and hot environments with high concentration of salt... +Now look at all the T-Dolls here... They're either making a ruckus or playing with ferrets. You're the only one I can count on, Gr MP7!
+MP7(2)<Speaker>Gr MP7</Speaker>||:Well, someone else can do it better anyway!
+MP7(2)<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Oh boy...)</color>
+MP7(2)<Speaker>Commander</Speaker>||:Does contribution ranking really mean that much to you, Gr MP7?
+MP7(2)<Speaker>Gr MP7</Speaker>||:Of course!
+MP7(2)<Speaker>Commander</Speaker>||:So you've been mad this whole time just because you ranked second, and you're still sulking even at the sight of the ocean before you?
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>(Mutters) But I'm a genius. How could I only be second...</color>
+MP7(2)<Speaker>Commander</Speaker>||:And now there's a mission for you to prove that "Gr MP7 really is a genius! I really was wrong about her contribution level!", so won't you give it a try? +Are you never going to forgive me and give me the chance to apologize just because I don't have the habit of tidying up my documents, Gr MP7?
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>(Mutters) It's not like that either...</color>
+MP7(2)<Speaker></Speaker><Shake>||:I gently ruffle Gr MP7's hair.
+MP7(2)<Speaker>Commander</Speaker>||:Alright, don't be mad anymore. It doesn't make you look pretty. +How about I watch you swim from here? This is the sea, the sea which makes you forget everything that's bothering you!
+MP7(2)<Speaker>Gr MP7</Speaker>||:(Grumbles) Well, since you just won't shut up about it, Caretaker, then I might as well...
+()||:Gr MP7 keep grumbling to herself as she wades into the water. Perhaps it was the power of the Commander's words, but Gr MP7 really does feel her frustrations melting away into the sapphire waters. +Feeling better, she resurfaces to report the effects of the water, and sees that the Commander's figure has already receded far into the distance.
+MP7(2)<Speaker>Gr MP7</Speaker>||:You dummy! Stupid Caretaker, I'm humbling myself here to help you collect your stupid data or whatever! +You said you'd keep me company! I don't care about you any more!
+()||:With that, Gr MP7 petulantly sticks her head back underwater.
+()||:Bubble bubble.
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>Actually, Caretaker's not wrong. Being chosen for this reward is an honor in itself.</color>
+()||:Bubble bubble.
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>But I'm just...so hung up on pointless things and kicking up a fuss. In the first place, this is proof that my skills have been recognized...</color>
+()||:Bubble bubble.
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>But if I go back now and apologize to Caretaker again, it's gonna be... No! Don't overthink things! You'll get distracted again!</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>Now that I have a mission, I need to act like an elite...and finish the task before me!</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>This way... Even if I don't apologize to Caretaker's face...I'll be able to clear what I owe him!</color>
+()||:Having privately made up her mind in the depths of the sea, Gr MP7 floats lightly through the water and is eventually carried to the shore by the rising tide, swim ring and all. +It would seem the Griffin T-Dolls had gathered together and organised a beach volleyball match while she was away from the coast. +However, she sees someone sitting alone on the beach, far from the fired-up crowds, someone who seems just as unwilling as herself to blend in with the red-hot holiday spirit.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Her name should be...AA-12, I think? +If I'm not wrong, she hasn't been here long...
+AA12(2)<Speaker></Speaker>||:She has a formation of parasols planted into the ground around her folding chair to provide shelter. From the way she keeps fanning herself with her legs crossed and her tongue hanging out, she seems to be miserable and terribly bored at the same time.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Perhaps I look just as pitiful as her in Caretaker's eyes...
+()||:And so, Gr MP7 walks toward AA-12.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Hey, AA-12!
+AA12(2)<Speaker>AA-12</Speaker>||:...Hmm?
+AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(Man, it's hot. Who is this...?)</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>(What's with that attitude of hers...?)</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||:Oi, why are you hiding here by yourself? +Isn't it a shame not to go into the water now that you're at the beach? You're already in your swimsuit, so let's go swimming.
+AA12(2)<Speaker>AA-12</Speaker>||:...I refuse.
+AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(It's so hot,. I don't want to talk. She's so annoying...)</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||:Huh? You refuse? Do you know exactly whose invitation you're refusing?
+AA12(2)<Speaker>AA-12</Speaker>||:Who? Not yours, I hope? So what if I am?
+MP7(2)<Speaker>Gr MP7</Speaker>||:...Why you! +Hey, I came here to invite you to join me for a swim out of the kindness of my heart. Don't you think replying like that is too rude? +While a genius like myself doesn't need too many ordinary friends, I'm sure T-Dolls like you must feel sad without friends.
+AA12(2)<Speaker>AA-12</Speaker>||:Then you don't need to pay special attention to me. +I think that keeping a safe distance from each other counts as an excellent relationship.
+MP7(2)<Speaker>Gr MP7</Speaker>||:That's not how it is, is it? Weren't you chosen for this seaside trip as well? +That ought to be an honor, right? After all, the T-Dolls who came were chosen for their exceptional performance!
+AA12(2)<Speaker>AA-12</Speaker>||:Tsk... Why can't you get a clue? And why is this coming from you of all people? Weren't you keeping to yourself all this time too? +Don't you lot feel disgusted when you're on your high horse?
+MP7(2)<Speaker>Gr MP7</Speaker>||<BGM>BGM_Empty</BGM>:Say what?! You're not even showing the slightest hint of respect toward a senior, rookie... +...Huh? Wait, what are you doing?
+AA12(2)<Speaker>AA-12</Speaker>||<BGM>BGM_Battle</BGM><SE1>Select</SE1>:Just shut up already.
+()||<SE2>Gunkill</SE2>:With a sullen look on her face, AA-12 picks up the gun leaning against her folding chair and cocks it at Gr MP7.
+MP7(2)<Speaker>Gr MP7</Speaker><Shake>||<SE2>Gunkill</SE2>:Ehhh?! W-wait! Time out! Are you crazy?!
+()||<SE2>Gunkill</SE2>:A verbal disagreement results in a shoot-out, or rather, a one-sided pursuit. By exerting herself to her utmost, Gr MP7 manages to evade the hail of ten-odd shotgun shells.
+()||:After hearing the commotion, the Commander rushes over.
+()<Speaker>Commander</Speaker>||:What's going on? I heard a racket from over here...
+MP7(2)<Speaker>Gr MP7</Speaker>||:Uh, well... Actually, we're just having some communication difficulties! +It's fine, really! Just leave it to me, Caretaker!
+MP7(2)<Speaker>Commander</Speaker>||:Communication...difficulties? +Do those lead to a pile of shell casings on the beach...?
+MP7(2)<Speaker>Gr MP7</Speaker>||:(Hastily) That's interaction, the signs of the hard work we put into interacting with each other. +In any case, we're fine here, Caretaker! See, we're perfectly alright!
+AA12(2)<Speaker>AA-12</Speaker>||:(Silence) ... +Yeah, Commander, we were just interacting... It just wasn't going too smoothly.
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>(So she CAN speak like a normal person...)</color>
+MP7(2)<Speaker>Commander</Speaker>||:Ahh, well, there's no need to open fire even if you have difficulties communicating with each other. +Just look at Kalina and I; we sometimes have trouble getting our point across, but we always manage to settle our differences amicably. +Take your time and talk it out. There should always be a way to make things clear, right?
+MP7(2)<Speaker>Gr MP7</Speaker>||:...Ja, ja, we'll take our time discussing things, now hurry up and leave, Caretaker.
+()||<BGM>BGM_Empty</BGM>:... +At great length and after much convincing, Gr MP7 finally coaxes the Commander away.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Phew...that ought to be the end of it... +Look here, why did you suddenlyー
+AA12(2)<Speaker>AA-12</Speaker><Shake>||:Ugh...
+AA12(2)<Speaker></Speaker>||:AA-12 suddenly drops the gun she is holding and sinks to her knees while panting heavily. Gr MP7 is startled.
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:Ehhhhhh?! What's the matter with you? What happened?!
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:Urrrrgh don't come any closer... I...
+()||:While she's a little worried if AA-12 is going to start firing wildly again, Gr MP7 still takes a gulp and helps AA-12 back to her folding chair.
+()||:As she watches AA-12 dry-heaving, tears and snot flowing freely, Gr MP7 pats AA-12 apprehensively on the back and wipes her face with a towel, but she still can't get AA-12's strange bout of nausea to stop.
+MP7(2)<Speaker>Gr MP7</Speaker>||:(Don't tell me I really broke her somewhere? In that case, I'd better hurry and find Caretaker and Gr G36 so they can take care of this...)
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:Su-sugar... Do you have any sugar...? I feel terrible...
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:Sugar? Ah, I do! Butー
+()||:AA-12 snatches away the lollipop in Gr MP7's hand before she can finish speaking.
+MP7(2)<Speaker>Gr MP7</Speaker>||<BGM>BGM_Moon</BGM>:ーBut it's super sour...
+()||:AA-12 doesn't seem to hear what Gr MP7 added at the end, and so Gr MP7 can only look on helplessly. +Before long, AA-12 stops coughing and dry-heaving, and she gradually begins to settle down.
+MP7(2)<Speaker>Gr MP7</Speaker>||:Are you alright?
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:Mm... Thanks... You've done me a great favor...
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:...You scared me half to death. +I'll go get Gr G36 to help out and see what's going on with you. +(Grumbles) Honestly, I was the one who had it worse back then...
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:...There's no need. It doesn't concern you.
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:How does it not concern me?! You just (gesticulates wildly) did all that!
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:I was just...kinda grossed out...by the way I spoke so seriously to the Commander.
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:(Speaking in a decent way is gross? I don't quite understand, but...) +...It was my fault. You did warn me back then.
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:It was my fault too... I guess the Commander did have a point. +Also, I owe you a sweet... I'll return it to you later on.
+MP7(2)<Speaker>Gr MP7</Speaker>;AA12(2)||:Don't worry about it. Besides, I'm pretty sure the sour stuff I like wasn't to your taste.
+MP7(2);AA12(2)<Speaker>AA-12</Speaker>||:Actually... I didn't hate it.
+MP7(2)<Speaker></Speaker>||:Gr MP7 freezes for a moment, and then she laughs.
+MP7(2)<Speaker>Gr MP7</Speaker>||:So it turns out the two of us loners can actually have things in common? That's not too bad.
+MP7(2)<Speaker>Gr MP7</Speaker>||:<color=#A9A9A9>I didn't know taking care of other people can be so much trouble. I think I kinda appreciate the Caretaker a little more now.</color>
+MP7(2)<Speaker>Gr MP7</Speaker>||<黑屏1>:<color=#A9A9A9>Still...being a Caretaker who takes care of others feels pretty good too.</color>
+()||<黑屏2><BIN>162</BIN>:...
+()||:As I stand on the distant volleyball court and watch all this take place, I breathe a sigh of relief.
+()<Speaker>Commander</Speaker>||:Hmm...so those two actually became friends? I didn't expect that at all.
+()<Speaker>Commander</Speaker>||:I wonder what Gr MP7 would think if she knew that the person who pushed her combat contribution ranking down to second place was sitting beside her.
+()<Speaker>Commander</Speaker>||:...There's a lot of things which are best left unknown for the sake of one's mental health.
+()||<黑屏1>:

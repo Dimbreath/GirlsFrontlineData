@@ -1,0 +1,12 @@
+()||<BIN>7</BIN><BGM>BGM_Sneak</BGM>:Half an hour later.
+M16(3)<Speaker>M16A1</Speaker>||:The weather seems to have improved a bit, but visibility is still crap... +Can you see the heliport on your side, RO?
+RO635(4)<Speaker>RO635</Speaker>||:(Squints) No, I...can't...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Hey, I see it! It's over there! +But...I'm not seeing any aircraft or supplies...
+M16(3)<Speaker>M16A1</Speaker>||:That's not good. We're gonna run out of rations soon. +If we keep moving around in the open, we're gonna be immobilized soon...
+()||:Click.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:M16, are you still there? +What I was trying to say, is that the flurry is rendering a paradrop incredibly difficult. +Our drone can only make it to the heliport when the weather improves, and it'll have to withdraw immediately afterwards.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Helian(0)||:Which means we'll have to seize the window of opportunity to re-supply at the heliport, correct?
+M16(3);NPC-Helian(0)<Speaker>Helian</Speaker>||:Yes, I'll inform you of the intervals between flurries. Time your request for the supplies carefully. +Furthermore, another important T-Doll crashlanded in this area along with the freighter. +She's equipped with very valuable technical modules, so please get her out of there.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Helian(0)||:Copy that. Who exactly is this T-Doll?
+M16(3);NPC-Helian(0)<Speaker>Helian</Speaker>||:M1887, an elite T-Doll armed with a shotgun. +The last time we got in touch, she was in the shelter in the center of this area. +You'll have to enter through the southeastern route and go around the enemy's cannon blockade.
+M16(3)<Speaker>M16</Speaker>||<黑屏1>:Order confirmed. We'll set off for the shelter right away.

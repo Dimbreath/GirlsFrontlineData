@@ -1,0 +1,38 @@
+()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:Combat over. Right outside the factory.
+NEGEV(0)<Speaker>Negev</Speaker>||:We got here sooner than expected. That's some great improvement you've shown, Commander. +I knew I was right to choose you after the last operation with M4A1. +Now let's finish the last step.
+TAR21(0)<Speaker>TAR-21</Speaker><通讯框>;NEGEV(0)||:Negev, the Sangvis patrols will reach my position in 15 minutes. Can you draw them away?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:I don't have any hands to spare here.
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:If something happens to me, you're dead meat. You know that, right?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Sure I do, so just sit tight. +"They" should be back any minute now.
+AR(0)<Speaker>Galil</Speaker><通讯框>;NEGEV(0)||:Hey, Negev!
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:What the hell, so you did survive.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Ha, thanks to you. +But can't you send someone more reliable to my rescue next time?
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker><通讯框>||<震屏>:Hey, why are you being so picky about your savior? I didn't even get a proper "thank you"!
+AR(0)<Speaker>Galil</Speaker>;MicroUZI(0)||:Huh? If I hadn't helped you get rid of the pursuing Sangvis units, you would've been in pretty deep crap yourself.
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:I only had them on my tail because I had to come save your butt! Why did I have to take on such a thankless task the moment I reported back for duty?!
+AR(0)<Speaker>Galil</Speaker>;MicroUZI(0)||:Haha, well sorry, I'm not the kinda girl who grovels at somebody's feet in gratitude just because they did me a favor.
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:I know that. That's why I hate coming back! The whole squad is made up of unreasonable nutcases!
+NEGEV(0)<Speaker>Negev</Speaker>;MicroUZI(0)||:But you did come back. +Humph, guess you can't find anywhere more suitable for you.
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Tsk, that's entirely your fault. +Especially you, Negev! You're the craziest bastard of them all!
+NEGEV(0)<Speaker>Negev</Speaker>;MicroUZI(0)||:Doing everything perfectly isn't my strong suit. I can live with just winning.
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Seriously... Where the hell did you pick up this "get the job done no matter the cost" attitude?! +Aren't we all selfish cheapskates here?!
+NEGEV(0)<Speaker>Negev</Speaker>;MicroUZI(0)||:That's enough. Since you've passed the test, get started on the next task already.
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Hey, I didn't say-
+NEGEV(0)<Speaker>Negev</Speaker>;MicroUZI(0)||:Tavor has run into some trouble. Galil and Uzi, go make some noise and draw away the nearby patrols. +Get it done in ten minutes. Chop chop.
+AR(0)<Speaker>Galil</Speaker><通讯框>;MicroUZI(0)||:Ha, that's more than enough. Let me fix my hair first. The sandstorm...
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:Cut that crap! We've only got ten minutes! Get up!
+AR(0)<Speaker>Galil</Speaker>||:Hey! You-! +Wait, there's no rush-
+()||<BGM>BGM_Empty</BGM>:...Transmission ends.
+NEGEV(0)<Speaker>Negev</Speaker>||:Now that's settled. +All that's left is the Sangvis Ringleader... +The Dummy that haunts the factory like a ghost...
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:Oh my... Whose Dummy are you talking about, young lady?
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-11(0)||:...! +Dreamer... +According to my intel, you should be-
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Where should I be? I can be anywhere. +Especially when you need me to.
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-11(0)||:So you...are the formidable enemy that no one dares touch. +Have you been watching us the whole time? With your remote control Dummy?
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Well, this is my backyard. I can't let any outsiders sully it. +I could be wrong, but maybe you just happen to have stumbled in here by accident and now plan to run away with your tail between your legs?
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-11(0)||:Don't go causing new trouble on the battlefield. That's what my senior has taught me.
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:But somehow I get the idea that like me, you're not a very good girl.
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-11(0)||:Indeed. I've always let her down and been a burden to her... +That's why she'll never forget me, the bad student who's always full of surprises.
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:So am I also a surprise to you?
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-11(0)||:...No. +A part of you will be. I'll take my pick after the fight.
+NEGEV(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:Negev. That's your name, isn't it? +This is the first time we talked, but...I've already grown quite fond of you...
+<Speaker>Dreamer</Speaker>()||<BIN>9</BIN><黑屏2><黑屏1>:So...can I eat you?

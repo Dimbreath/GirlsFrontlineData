@@ -1,0 +1,78 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Pervaded</BGM><黑屏2><BIN>55</BIN>:...In the power plant district on the border of Tallinn.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Status report, 9.
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>(Grunts) Right, I'm in.</color> +<color=#00CCFF>It went more smoothly than I'd expected. There weren't too many obstacles in the underground sewers. </color> +<color=#00CCFF>We should be able to avoid most of the defenses on the way to the power plant by going through here.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Alright, then we'll come after you. 416, keep an eye on Gr G11 and bring up the rear.
+HK416Mod(0)<Speaker>416</Speaker>||:I may be decked with new equipment, but I'm still doing the same janitor's work...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Exactly. I'm going on ahead.
+HK416Mod(0)<Speaker>416</Speaker>||:Tsk... Hey, wake up!
+G11(3)<Speaker>Gr G11</Speaker><Shake>||:(Snores) ...Ow, that hurt! +What the heck?! What was that for? Isn't it Sunday today?
+HK416Mod(0)<Speaker>416</Speaker>||<黑点1>:Sleep has scrambled your head, huh... I don't have time for your nonsense. We're setting off!
+()||<黑点2><BIN>167</BIN>:UMP45 and 416, who's dragging Gr G11 along, gradually make their away towards the power plant, following the route that UMP9 scouted.
+UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Are you here yet?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:The access port is just a short distance ahead.
+()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:Right then, a gunshot muffled by a silencer comes from the end of the path.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>...I've been spotted! Stay away for now! The exit is being monitored by drones!</color>
+()||<SE1>Gunfight</SE1>:The gunshots grow more and more frequent and are soon accompanied by numerous blasts and tremors.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Whoa, I'm in real trouble! Automatic mortars, drones, sentry bots... It feels like half the city's defense system is after me, 45!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hold on and don't get killed. Give me 30 seconds. Change of plan - 416 and Gr G11 give suppressive fire to draw some attention away from 9 and cover me while I hack into the mortars to deactivate them!
+HK416Mod(0)<Speaker>416</Speaker>||:So you're sending Gr G11 and me to die with 9? How very like you!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I would love to watch a 416 with a reloaded neural cloud and no memory of this to die again for me. That would certainly be very entertaining, but if we all get killed here, no one will be left to resurrect you.
+HK416Mod(0)<Speaker>416</Speaker>||:Tsk. Gr G11, with me!
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>I'm moved to tears! We're helping each other out like a proper family! Whoaaa! Those shots almost got me...!</color>
+()||:UMP45 tears off a metal cover on the wall inside the underground sewer, exposing the disorganized cables within. She then plugs one of the cables into a port on her arm.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:Bingo, this does connect to the system... But there are more of them than I expected.
+HK416Mod(0)<Speaker>416</Speaker>||:Are you sure you can sort out the weapon platforms? If you can't do it, just admit it now. It isn't too late to abort the mission yet.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Don't worry. Considering you guys' track record of being unreliable, I've bought insurance beforehand.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:...Access clearance acquired. On the count of three.
+UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点2><BIN>159</BIN>:Jeez... All my bullets got deflected by their force...hmm?
+()||:All of a sudden, the defenses around the power plants shudder as if they were cold.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45... She really delivered on her promise!
+HK416Mod(0)<Speaker>416</Speaker>||:Now's the chance! Their force fields are down, fire!
+()||<SE2>MachineGunBurst</SE2>:The force fields stop functioning and the drones cease to make any evasive maneuvers. The turrets blow up one after the other under the hail of bullets.
+G11(0)<Speaker>Gr G11</Speaker>||<BGM>BGM_Empty</BGM>:Easy peasy. That's the way I like it.
+HK416Mod(0)<Speaker>416</Speaker>||:Are you okay, UMP9?
+UMP9Mod(3)<Speaker>UMP9</Speaker>||<BGM>BGM_Sneak</BGM>:I'm fine! Looks like it worked. Without the force fields, these defense mechanisms are about as strong as Sangvis cannon fodder.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's because these things ARE Sangvis products to begin with... The drones, the mortars, even the surveillance devices and alarm system. +Sangvis Ferri Industries had been manufacturing this military equipment even before the beginning of WWIII. They predate even the production of Dolls.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:There you are, 45! Your EW move really helped me out back there.
+HK416Mod(0)<Speaker>416</Speaker>||:I'm by no means an expert in electronic warfare, but... +Even with available pathways, isn't it normally impossible to hack a dozen mortars and drones at the same time?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's true, not to mention I needed to maintain surveillance on M4, so my processing capacity was stretched pretty thin. +However...as the AR Team had discovered, these defense mechanisms all operate within highly secure enclosed circuitry, but it's very convenient that the power and the data cables are in the same place. +I could still render them inactive for a second or two, though just barely. As for wiping them out within such a small window of opportunity - that was entirely on you. So well done on completing the objective so efficiently.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:We have really grown stronger, haven't we?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Of course, we didn't spend all that money for nothing.
+G11(0)<Speaker>Gr G11</Speaker>||:Since you're all so dependable, does that mean I can pack up and go home?
+HK416Mod(0)<Speaker>416</Speaker>||:Nope. You're getting paid, so don't slack on the job.
+G11(0)<Speaker>Gr G11</Speaker>||:Sigh... Why...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:Alright, let's get back to business. Hand out the explosives. 9 and I are going to blow up the power plant, while 416 and Gr G11 continue on in the sewers to secure our escape route.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2><白屏1><BIN>159</BIN>:Three, two, one...
+()||<SE1>Explode</SE1><BIN>183</BIN>:...Click. An ear-shattering blast resounds through the heavens.
+()||:Pillars within the power plant are blown apart by the cleverly rigged explosives. As the roof collapses, the transformer and the natural gas storage tanks explode in a chain reaction.
+()||<SE1>AVG_whitenoise</SE1><白屏1>:The blinding blue light sets the gloomy skies ablaze. The dazzling scene lasts for several seconds before the debris sent flying come crashing down one after the other.
+()||<白屏2><BIN>159</BIN>:After that, 416 pokes her head out from the sewers to survey their handiwork.
+HK416Mod(0)<Speaker>416</Speaker>||:...This thermal power station seems to be completely destroyed. We did a really thorough job. +That should paralyze at least half of the defense system.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM>:45, are you alright?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Brain</BGM>:(Groans)
+()||:UMP45 puts a hand against her forehead and leans unsteadily against the wall. UMP9 immediately tries to prop her up.
+HK416Mod(0)<Speaker>416</Speaker>||:What's wrong with 45?
+G11(2)<Speaker>Gr G11</Speaker>||:No idea... Her knees just buckled after the explosions...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm fine... It's just... There's suddenly a massive amount of signals...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:If we're conducting electronic warfare, I can help, 45.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:No, just now... +Several dozen...or maybe even several hundred signals were connecting with each other simultaneously.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:When the power plant was destroyed, it's as though the entire city suddenly came back to life. It feels as if we've resurrected something...
+()||<黑屏2><BIN>197</BIN>:
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:This is M4. AR Team, do you copy? Do you copy?!
+AR15Mod(2)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I cop...pzzzt...y!</color>
+AR15Mod(2)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>The interference suddenly got stronger...to a higher location...pzzzt...maybe...</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:What on earth is happening...?
+M4A1Mod(3)<Speaker>Clear Voice</Speaker>||:I was mistaken. There is more than one signal. They're coming.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I know. The ringing in my ears... No, the strange noise from deep within my neural cloud...is getting louder... +In any case, I should head to a more elevated location where reception is better, so that I can get back in touch with the others.
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:Be careful.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yeah...I know. +AR-15! SOP-II! RO635! Can you hear me? +We're currently under severe interference! It's possibly a temporary phenomenon caused by the electromagnetic waves from the power plant explosion... Assemble at the entrance of the train station!
+()||<BGM>BGM_Empty</BGM>:Having climbed to the rooftop of Tallinn City Station, M4 still struggles to re-establish communications with her teammates.
+()||<BGM>m_avg_labyrinth</BGM><黑点1>:Meanwhile, on the other side of the city...
+()<Speaker>???</Speaker>||<黑点2><BIN>196</BIN>:Is she here?
+()<Speaker>???</Speaker>||:Has the seal been broken?
+()<Speaker>???</Speaker>||:She's here? +The Savior is here?
+()||:Blurry figures emerge from the rubble one after the other. +They chatter excitedly with each other, buzzing with anticipation for what is about to happen.
+()||<黑屏1>:A girl gazes towards the station rooftop and studies M4A1.
+()||<黑屏2><BIN>9</BIN>:
+()<Speaker>???</Speaker>||<黑屏1>:A new body? +No...she is carnage; she is destruction. +No...not only that. Could she be the Chosen One? +Will I finally be able to leave this place? Will she be able to save me?

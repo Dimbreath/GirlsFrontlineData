@@ -1,0 +1,40 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>157</BIN><SE1>Gunfight</SE1><BGM>BGM_Danger</BGM><黑屏2><火花>:By a run-down building in the contamination zone.
+XM8(0)<Speaker>XM8</Speaker>||:Gr G36, do you copy?! I can't hold off much longer here! What should I do?!
+XM8(0);G36(0)<Speaker>Gr G36</Speaker>||:Enemy fire is too heavy... Let's retreat for now!
+Fairy()||:Warning! Enemy long-ranged assault units moving into position! +ETA 12 seconds...
+PSG1(0)<Speaker>Gr PSG-1</Speaker>;G36(0)||:Hold on! I can get a clear shot in a sec!
+PSG1(0);G36(0)<Speaker>Gr G36</Speaker>||:I repeat, Gr PSG-1! Retreat now!
+G36(0)<Speaker></Speaker>||:...
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||:Gr PSG-1 is playing deaf! +Your words aren't taken seriously on the field, Gr G36!
+XM8(0);G36(0)<Speaker>Gr G36</Speaker>||<黑屏1>:...
+()<Speaker></Speaker>||<黑屏2>:Meanwhile. +...BANG!
+PSG1(0)<Speaker>Gr PSG-1</Speaker>||<SE1>Gunkill</SE1>:Headshot. Retreating now...
+PSG1(0)<Speaker>???</Speaker>||:Get down!
+PSG1(0)<Speaker>Gr PSG-1</Speaker>||<震屏><黑屏1><BGM>BGM_Empty</BGM>:...?!
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><黑屏2><黑屏1><关闭火花>:...
+XM8(0)<Speaker>XM8</Speaker><通讯框>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Well...that's the story, Miss Kalina. +The others are mostly fine, but our squad leader... She's in a pretty bad state.
+XM8(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||:I see... Did the retreat go smoothly?
+XM8(0)<Speaker>XM8</Speaker>;NPC-Kalin(2)||:Thanks to Gr PSG-1's shot, we didn't have to worry about being pursued by their ground units. +See you around, Miss Kalina.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<BIN>160</BIN><黑点2>:Three hours later, at the Repair Bay.
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||<BGM>BGM_Room</BGM>:Things aren't looking good... In this weather, it'll take at least three days for the parts to arrive at the temporary base.
+NPC-Kalin(4);G36(0)<Speaker>Gr G36</Speaker>||:Miss Kalina...?
+NPC-Kalin(2)<Speaker>Kalin</Speaker><Shake>;G36(0)||:Ah, is your reactivation sequence complete?
+NPC-Kalin(2);G36(0)<Speaker>Gr G36</Speaker>||:Yes. Good morning.
+NPC-Kalin(4)<Speaker>Kalin</Speaker>;G36(0)||:Ahaha, morning...
+NPC-Kalin(4);G36(0)<Speaker>Gr G36</Speaker>||:Is something wrong? You seem rather troubled. +If there is anything I can do to help, please...
+NPC-Kalin(4)<Speaker>Kalin</Speaker>;G36(0)||:Thing is, Gr G36... You're gonna have to stay here at the base for the next two days.
+NPC-Kalin(4);G36(0)<Speaker>Gr G36</Speaker>||:Is that a tactical request?
+NPC-Kalin(4)<Speaker>Kalin</Speaker>;G36(0)||:You can say that. +You may be able to move your arms just fine, but your left arm can't take any stress for the time being.
+NPC-Kalin(4);G36(0)<Speaker>Gr G36</Speaker>||:...Not even holding my weapon?
+NPC-Kalin(6)<Speaker>Kalin</Speaker>;G36(0)||:That's right. The joints in your left arm are missing several screws. It's a miracle you can still move it. +The weather is terrible right now. You'll have to wait for the parts to get here in a few days before we can repair your arm or give you a new body...
+NPC-Kalin(6);G36(0)<Speaker>Gr G36</Speaker>||:Is that so...? My head also feels lighter.
+NPC-Kalin(6)<Speaker>Kalin</Speaker>;G36(0)||:Yeah... Your braid was shot off along with your arm. +You had to retreat on short notice so your teammates couldn't recover the damaged parts.
+NPC-Kalin(6);G36(0)<Speaker>Gr G36</Speaker>||:I understand... +I cannot be of much help out there, but at least I will not slow others down now...
+NPC-Kalin(6)<Speaker>Kalin</Speaker>;G36(0)||:...The Commander asked you to take it easy.
+NPC-Kalin(6);G36(0)<Speaker>Gr G36</Speaker>||:Understood... I will obey the order.
+NPC-Kalin(1)<Speaker>Kalin</Speaker>;G36(0)||:Then take a good rest. I'll be off.
+G36(0)||<BGM>BGM_Empty</BGM>:See you, Miss Kalina. Please do not over-exert yourself either.
+()||:Kalina closes the door behind her. +Gr G36 stares at her weapon leaning against her bed. She tries to pick it up slowly with her left arm. +The joints screech and groan with difficulty. The gun twitches, but remains where it is.
+G36(0)<Speaker>Gr G36</Speaker>||<黑屏1>:The maximum weight capacity is at 3kg. Looks like I will be out of action for a while... +Still, at least I can do something other than fighting...

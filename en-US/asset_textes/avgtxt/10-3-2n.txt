@@ -1,0 +1,76 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2><BGM>10256</BGM>:...StG44 arrives at the coordinates.
+STG44Mod(0)<Speaker>StG44</Speaker>||:Finally got here.
+()||:A dull crack comes again from the distance, followed by three successive gunshots.
+STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:She sounds a bit unnerved...
+STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_tele_connect</SE1><黑屏1>:Kar, what's your status? +Kar? Do you copy?
+()||<黑屏2><BIN>2</BIN><Night>:A few minutes ago...
+98k(0)<Speaker>Kar98k</Speaker>||:Tsk, she's even tougher than I thought. +I hit her, but looks like I need to get closer.
+98k(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Griffin only sent you to fight me? It would seem that you're not taking me seriously at all.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:A forced communication?
+98k(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>Oh? Unlike the other low-spec Dolls, you're coming towards me instead of running away.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:Is that your attempt at making a friendly gesture? In that case, I'd appreciate it if you don't just force your way into my comms channel.
+98k(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>Humph, all your teammates have run off, yet you dare face me alone.</color> +<color=#00CCFF>I suppose you do deserve a salute for your courage.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:You know... I dare because I'm fully capable of taking you on alone.
+98k(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>Boast all you want. You'll regret it.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:If you're so confident, why don't you attack me already?
+98k(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>I'm...</color> +<color=#00CCFF>...giving you a chance.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:What a lovely way to put it. +You're just afraid of an ambush.
+98k(0)<Speaker>Kar98k</Speaker>||:What if I tell you we've been waiting for you to fall into our trap?
+()||<黑屏1><SE1>AVG_rifle_finalshot_h</SE1>:Bang.
+BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2>:A bullet comes flying towards Gager from the side, but she blocks it with ease.
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like my reinforcements have arrived.</color>
+98k(0)<通讯框>;BOSS-7(0)<Speaker>Gager</Speaker>||:...Humph, empty bravado.
+BOSS-7(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:Bang. +Another shot is fired at Gager from a different direction.
+BOSS-7(0)<Speaker>Gager</Speaker>||:You have your Dummies spread out? You've bitten off more than you can chew.
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:Bang, bang, bang. +The first and second bullets make for Gager from two different directions almost simultaneously. Gager flips back out of reflex. +Then the third bullet lands right where she stood before the dodge.
+BOSS-7(0)<Speaker>Gager</Speaker>||:Griffin Dummies are horrible at making preemptive judgements. Am I supposed to be threatened by such ineptitude?
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||:<color=#00CCFF>...</color>
+98k(0)<通讯框>;BOSS-7(0)<Speaker>Gager</Speaker>||:Why have you gone all quiet?
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:<color=#A9A9A9>Is she plotting something else?</color>
+98k(0)<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#A9A9A9>This could work. Now's the time—</color>
+BOSS-7(0)<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><SE1>AVG_rifle_finalshot_h</SE1>:Bang— More sniping gunshots. Gager evades them while trying to locate their source.
+BOSS-7(0)<Speaker></Speaker>||:One last gunshot comes from the distance. This time, Gager chooses not to dodge. Instead, she simply remains where she is. +The bullet brushes past her right shoulder and flies into the ground. She glances at the bullet hole with great disdain and looks up.
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:I see.
+()<Speaker>Gager</Speaker>||<BIN>9</BIN><黑屏2>:Game over.
+98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>What?</color>
+()<Speaker></Speaker>||:Gager deftly raises her weapon...
+()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:And fires rapidly at four separate directions.
+()||<BIN>1</BIN><Night><黑屏2>:98k's obscured Dummies are vaporized before they can even react.
+BOSS-7(0)<Speaker>Gager</Speaker>||:Humph, classic parlor trick. +You were going to sneak up to me while I was being distracted by your Dummies, so that you could pierce my core with your antique weapon, weren't you?
+98k(0)<Speaker>Kar98k</Speaker>||:Tsk...
+BOSS-7(0)<Speaker>Gager</Speaker>||:Right now...you're hiding under the tree right in front of me. I could easily vaporize both you and your flimsy cover if I want to.
+()||:Gager points her weapon directly ahead at the location where 98k was about to conduct her ambush.
+98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>She got me.</color>
+BOSS-7(0)<Speaker>Gager</Speaker>||:Cat finally got your tongue?
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:Then would you like the know what chance I was trying to give you?
+()||<BIN>7</BIN><Night><黑屏2>:Meanwhile...
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_NightOPS</BGM>:Aren't you supposed to be fighting Gager with Fräulein Kar?
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:I'm no match for that kind of enemy. +My job now is to get you out of here.
+MP41(0)<Speaker>MP41</Speaker>||:We have numbers on our side, perhaps we can surround her—
+()||<SE2>Gunfight</SE2>:The sound of Gager's firing comes from the distance. Everyone looks anxiously in that direction.
+STG44Mod(0)<Speaker>StG44</Speaker>||:Those energy beams... +The signals of Kar's Dummies have disappeared.
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:Which ones?
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:All of them...
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:But isn't Fräulein Kar an elite Doll? How could all her Dummies be killed in an instant...
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Do you finally understand that a regular Doll like you doesn't stand a chance against these high-spec Sangvis units? +Sangvis ringleaders are extremely dangerous. Even Kar applied for this mission fully prepared to die! +No Doll on this base can survive a direct confrontation against Gager... +And we almost managed to draw that bastard into Kar's effective range!
+MP41(0)<Speaker>MP41</Speaker>||:<color=#A9A9A9>Don't tell me it was my fault...</color>
+MP41(0)<Speaker>MP41</Speaker><Shake>||:Ugh... N-no way...
+g43(0)<Speaker>G43</Speaker>||:Then...what do we do now?
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>StG44, do you copy?</color>
+98k(0)<通讯框>;STG44Mod(0)<Speaker>StG44</Speaker>||:Kar! What's going on?!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;STG44Mod(0)||:<color=#00CCFF>Even the final resort didn't work. Gager has also locked onto my position.</color>
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>It would seem that this mission...</color>
+MP41(1)<Speaker>MP41</Speaker>||:Sorry, Fräulein Kar... It was all my fault.
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;MP41(1)||:<color=#00CCFF>Don't blame yourself too much.</color> +<color=#00CCFF>This has been a highly risky mission to begin with.</color> +<color=#00CCFF>What you need to do now is escape with your friend and StG44.</color>
+98k(0)<通讯框>;MP41(1)<Speaker>MP41</Speaker>||:...
+MP41(1)<Speaker>MP41</Speaker>||:...
+g43(0)<Speaker>G43</Speaker>||:MP41? Are you okay?
+MP41(1)<Speaker>MP41</Speaker>||:Nein! I can't...
+MP41(1)<Speaker>MP41</Speaker>||<震屏><BGM>BGM_Empty</BGM>:I can't go yet...!
+STG44Mod(0)<Speaker>StG44</Speaker>||:What are you talking about?!
+MP41(1)<Speaker>MP41</Speaker>||:Fräulein Kar, I told you I would help you destroy that Sangvis ringleader! +I don't care if I'm doing this to make up for my mistake or just to get some recognition... +But I have an idea, so please trust me!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>Alright, I'm listening.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||:Kar!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>I'm not that keen on being vaporized just like that, so if there's any hope of victory...</color>
+MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:If there's a sliver of hope, then we must seize it...isn't that right, Fräulein Kar?!

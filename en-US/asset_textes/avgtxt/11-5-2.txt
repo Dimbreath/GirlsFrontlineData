@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Sneak</BGM><SE2>Gunfight</SE2>:Bang bang! Bang bang! +...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><黑点1>:That's much better. +I knew it. This isn't just a hard disk. It's connected to an even larger database.
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:Click! +...RO635 opens a door leading into a room. +...!
+()<Speaker>??</Speaker>||<黑屏1>:Please do not go any further.
+M1903(4)<Position>0,8000</Position>;RO635-NoArmor(0)<Speaker>RO635</Speaker><Position>-450,0</Position>||<BIN>22</BIN><黑屏2><Night>:Another wall...? You're just not going to make this easy for me, are you?
+M1903(4)<Speaker>??</Speaker>;RO635-NoArmor(0)||:...
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Why is it...you?
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:...
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:A backup of the maid's neural cloud...? That's a bit of an overkill as the final lock in the hard disk.
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:Anyone here whom I don't know is an enemy.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Looks like there's going to be another fight...
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:But I do know you, so you are not an enemy.
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:... +I've been uploaded into this database to await my other self. +I've been waiting for her to come and extract this piece of memory...so that she can do what she's meant to do. +However, it's apparent that she won't be coming.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:So this isn't the neural cloud I came across earlier... I suppose to avoid data leakage, she wouldn't have uploaded anything before she was destroyed. +So this is a backup...? +Um...Miss Maid, may I ask how you know me?
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:We are all merely executing our master's orders. +If this is what he desires, we'll have no regrets no matter the outcome. +Take it... As promised, this information is meant for you.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:For me? ...What's this?
+NPC-Maid(0)<Speaker>Maid</Speaker>;RO635-NoArmor(4)||:I hope it will prove useful to you. Now please go. You are about to trespass where you're not supposed to.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||<震屏><白屏1>:Uh, wait! I—
+()<Speaker></Speaker>||<BIN>9</BIN><白屏2><黑屏1><BGM>BGM_Empty</BGM>:... +......
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM><Night>:RO? Are you awake?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(3)<Speaker>RO635</Speaker>||:The maid shooed me away... Even the hard disk is destroyed...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(3)||<震屏>:Shooed? You sure your neural cloud isn't fried?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Of course not. And the neural module is in my chest. Why are you patting my head?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:I'm just worried about you! Well? Have you got something?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:There's a backup of the maid's neural cloud in there. She gave these files to me...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:That's...an activation code and a floor plan?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:It's the floor plan of this room. Look at the bottom.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:A secret passage! It's connected to the city's underground sewers?
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:That's right, and the entry switch should be here...!
+()||:RO walks to a corner and gives the base of the potted plant a tap, exposing a port. She plugs herself in.
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:The activation code seems to be correct. That should do it.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:Whoa!
+()||:The desk piled with equipment slides slowly to the side and reveals a small doorway that a person can barely fit through.
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<黑屏1>:Open sesame. Looks like we're finally getting closer to finding our target.

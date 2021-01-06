@@ -1,0 +1,43 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM><黑屏2>:...A month later, in the Griffin base. +At the Commander's office.
+指挥官()<Speaker>Commander</Speaker>||:How is it? Are you used to your new gear yet?
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Heehee, it's super cool! +Commander, do I look like a stylish adult now?
+指挥官()<Speaker>Commander</Speaker>||:Ha, yes, you look incredibly cool. +The fact is, I get many modification requests every day, but I didn't expect your application to be like this.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Huh? Like what? Is it different from everybody else's?
+指挥官()<Speaker>Commander</Speaker>||:How should I put this...? Your modification strikes me as being...very gentle.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Wait a minute — doesn't that contradict what you just said? +You agreed that I look cool...
+指挥官()<Speaker>Commander</Speaker>||:Well, it's the same thing. +At first, I thought you'd ask to increase your firepower, but it seems I simply didn't know you well enough.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Well, "destruction" isn't what I really want. +Holding a grenade launcher and whatnot is pretty scary. +I'm dedicated to carrying out Master's instructions! I'm happy enough just protecting everyone!
+指挥官()<Speaker>Commander</Speaker>||:Oh? So we have Thompson to thank for this.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Heehee, well, that's Master for you! +Although...uh...
+指挥官()<Speaker>Commander</Speaker>||:Hm?
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:The training curriculum after my modification...was your doing, wasn't it? Don't tell me you're the one who designed it!
+指挥官()<Speaker>Commander</Speaker>||:Indeed.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:Oof... This is terrible... It's way too hard... (Whimpers)
+指挥官()<Speaker>Commander</Speaker>||<黑点1>:Huh? +I don't think they're...actually that difficult?
+()<Speaker></Speaker>||<黑点2><BIN>73</BIN><回忆><BGM>BGM_Empty</BGM>:...Some time earlier.
+()<Speaker></Speaker>||:At the training ground.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:Boom—!
+XM8(0)<Speaker>XM8</Speaker>||<BGM>m_avg_casual</BGM>:Shorty! You're too slow! Move your ass!
+()<Speaker></Speaker>||:XM8's languid yet somewhat stern voice rings out amidst the sound of exploding grenades.
+MP5Mod(0)<Speaker>Gr MP5</Speaker><Shake>||:(Whimpers) Why did you bring your Dummies along for today's training...? +The sound of grenades exploding is super scary...
+XM8(0)<Speaker>XM8</Speaker>||:You mean you can't handle this little bit of suppressive fire after practicing in the simulator for so long?
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:I get the idea behind it... But how come you can keep using your skill over and over in live battle training...? +You're cheating, right? You've got to be cheating!
+XM8(0)<Speaker>XM8</Speaker>||:The enemy isn't going to take pity on you in combat and only fire a few shells your way. +Now quit standing around and MOVE!
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:I-I'm already dodging!
+XM8(0)<Speaker>XM8</Speaker>||:Too slow! +Honestly, you can make "takebacks" now, you know? You'll be wasting your modification if you don't make full use of it!
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:(Whimpers) I know that... +You must have been the one who came up with such a harsh training plan...
+XM8(0)<Speaker>XM8</Speaker>||:It wasn't me. I'm only training with you because the Commander asked me to.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:W-What?! +No way, the Commander would never do that to me! I don't believe it!
+XM8(0)<Speaker>XM8</Speaker>||:<size=30>Granted, I DID make some changes to its contents...</size>+<size=50>The Commander trusts you! That's why you're being put through this grueling training! Otherwise, how are you going to become Thompson's successor?</size>
+MP5Mod(0)<Speaker>Gr MP5</Speaker><Shake>||<黑点1>:G-Gah....! +I-I'll do this for Master's sake!
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Empty</BGM><黑点2><关闭蒙版>:...Back to the present.
+()<Speaker></Speaker>||:Inside the Commander's office.
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||<BGM>BGM_Hello</BGM>:That's roughly how it went... +I can't believe you arranged such tough training for me... You know, you don't have to rely on me all the time, Commander! Really!
+MP5Mod(0)<Speaker>Gr MP5</Speaker><Shake>||:I can grow slowly, there's no need to rush...
+指挥官()<Speaker>Commander</Speaker>||:<color=#A9A9A9>There's something wrong with this scenario somewhere, but leaving that aside for now...</color>+Well...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Just as the Commander is about to say a few words of comfort, Gr MP5's communicator buzzes. +After taking the call, XM8's face fills the entire image display.
+XM8(0)<Speaker>XM8</Speaker><通讯框>||:<color=#00CCFF>Hey shorty, what time is it? Don't tell me you're going to skip today's training?</color>
+MP5Mod(0)<Speaker>Gr MP5</Speaker>||:I-I'm giving the Commander my report on the situation! +I'll be there right away, okay?! Gosh, XM8 is so bossy... A bossy tape recorder...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:As Gr MP5 mutters to herself, she waves wildly in the Commander's direction before running out of the office.
+指挥官()<Speaker>Commander</Speaker>||<黑屏1>:For Master's sake...eh? +Still, I really get what Gr MP5 means when she says she wants to "protect" something. +Not "destroying" things... That'd be nice... wouldn't it...

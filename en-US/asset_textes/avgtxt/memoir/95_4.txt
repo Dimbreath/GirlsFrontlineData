@@ -1,0 +1,28 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>m_avg_casual</BGM>:After work, at the Café entrance.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||<SE1>Runstep</SE1>:Good evening, my lovely ladies~ +Did you have a good rest? Did I make it before your shift ended—?
+88typeMod(0)<Speaker>Type88</Speaker>;NPC-Kalin(1)||:You seem to be in a good mood today, Miss Kalina.
+88typeMod(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Of course! I finished all of today's combat reports on... huh, where are you going, Ai?
+88typeMod(0)<Speaker>Type88</Speaker>;NPC-Kalin(0)||:I've got a night shift today! It's going to be field work, so I need to head off now. +However, I'll take good care of my work in the Café too.
+88typeMod(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I see. It feels like you've become a lot busier since that upgrade, Ai...
+88typeMod(0)<Speaker>Type88</Speaker>;NPC-Kalin(0)||:It's fine. I like being busy like this! +I can remember everything now and I can do so much more. It's all thanks to you, Miss Kalina.
+G36(0)<Speaker>Gr G36</Speaker>;NPC-Kalin(0)||:It's time to go.
+G36(0);NPC-Kalin(5)<Speaker>Kalina</Speaker>||:Aw, you're making me blush. +Alright, all the best and have a safe journey.
+88typeMod(0)<Speaker>Type88</Speaker>;NPC-Kalin(5)||<BGM>BGM_PAUSE</BGM><黑点1>:In that case, I'll be going out with the head maid! +See you later, Miss Kalina!
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>||<黑点2>:Welcome, Miss Kalina. It's my shift now. +Would you like something to drink?
+M1903Cafe(0)<Position>0,150</Position>;NPC-Kalin(1)<Speaker>Kalina</Speaker>||<BGM>BGM_UNPAUSE</BGM>:A special-brew latte, if you please.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>;NPC-Kalin(1)||:Alright, I'll prepare it for you right away.
+M1903Cafe(0);NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Ah...that said, it still makes me feel a little sad.
+M1903Cafe(0)<Speaker>Springfield</Speaker>;NPC-Kalin(1)||:What do you mean?
+M1903Cafe(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I'm talking about her previous maintenance.
+M1903Cafe(0)<Speaker>Springfield</Speaker>;NPC-Kalin(0)||:I heard about it. Was it a cache problem?
+M1903Cafe(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:You could say that. She had too little space in her neural cloud before. +After installing the neural cloud module, not only did we manage to improve her capabilities, we even managed to let her use some of her previous skill apps in battle.
+M1903Cafe(0)<Speaker>Springfield</Speaker>;NPC-Kalin(0)||:That is very good news.
+M1903Cafe(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I know, right?! That armor was super cool too. If the Commander had not brought it up, I wouldn't have thought of installing it to match her preferences.
+M1903Cafe(0)<Speaker>Springfield</Speaker>;NPC-Kalin(0)||:We were shocked the first time we saw that armor of hers.
+M1903Cafe(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Well, it's not just for looks.
+M1903Cafe(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Still, Springfield, aren't you going to...? +I mean, if you asked, there's no way the Commander would say no.
+M1903Cafe(0)<Speaker>Springfield</Speaker>;NPC-Kalin(2)||:Well...it's not yet time. +If the day comes when I think, "I absolutely have to do this", I'll do it.
+M1903Cafe(0);NPC-Kalin(1)<Speaker>Kalina</Speaker>||<黑屏1>:That's true. You always put everyone at ease, Springfield. +The coffee was delicious, thank you for your service! +I need to head off now, see you later, Springfield.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:【2051-05-09 Data Saved.】+【Observation... There is possibility of deletion...】+【Executing - Memory encryption.】+...+【2053-03-01 Restart Complete.】+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】+...+【2057-07-01 Restart Complete.】+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】+...+【2060-05-20 Restart Complete.】+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】+【Loading neural cloud module... Update complete.】+【Transferring encrypted memories to new internal storage...】+...+......
+()<Speaker></Speaker>||<黑屏1>:【Time - Present.】+【Neural Cloud Upgrade - Complete.】+【Observation... No risk of deletion. Unlocking encrypted memories...】+【Adding new remark to protected memories...】+【Thank you.】+SAVE COMPLETE.

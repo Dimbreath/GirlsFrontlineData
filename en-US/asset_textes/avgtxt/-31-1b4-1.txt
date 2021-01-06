@@ -1,0 +1,49 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM>:In the end, after walking down countless forks in the road, the two Dolls finally see a bright light that's different from the illumination in the tunnels.
+AN94(0)<Speaker>AN-94</Speaker>||:I'm picking up sound... It's the two from just now. +AR-15, we've caught up with them!
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:Roger, then let's get closer... Be careful, there's a light up ahead shining toward us.
+()||<黑点2><BIN>167</BIN>:After passing through a narrow stone door, the area before them becomes much more spacious. The two of them immediately dart into the shadows and carefully observe their surroundings. +Compared to the ancient tunnels from before, this location is clearly a modern military facility.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:...Is this a supply depot? I have to hand it to the people here, building a base under a heritage site.
+AN94(3)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Old ruins usually end up spared no matter how brutal the fighting gets, so a base like this would be perfect for storing something away so others don't see it.
+AN94(3);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:A permanent nuclear bunker, huh... The "Node" sure is getting the luxury treatment.
+AN94(0)<Speaker>AN-94</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Shh... they're talking again.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BIN>34</BIN><黑点2><BGM>BGM_Brain</BGM>:Are we here at last? We've been doing a lot of walking. +Still, you were taking the long way just now, weren't you? +You clearly had several chances to come here directly.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:We chose unmarked paths for secrecy's sake. +These paths have existed for much longer and they haven't been recorded on maps.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:So that's how it is. You sure have put a lot of thought into this, Mr. Officer. +Thank you for your hard work!
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:You give us too much credit. Now then, we've brought you to the place where the Pike Node is stored. +As mentioned before, you can only remain for 10 minutes or so. Then we'll need to leave this place so that the next shift doesn't notice we've been here.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Okayyy! +Then, are you going to open the door now? +If the Pike Node bunker is behind the door, I'd like to see it soon.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:It is as you say, the Pike Node is right behind this door. +But we don't have the codes for it. The protocol level is extremely high, and this base originally belonged to the former Soviet Army. I believe not even the Belgrade authorities are authorized to open this door.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:So you brought me all the way here but you still can't let me see inside?
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||<BGM>BGM_Empty</BGM>:I'm sorry, but we can't. +We were simply showing our sincerity regarding our intentions to cooperate, just like you did.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<黑屏1><BGM>BGM_Boss</BGM>:Oh, that's fine, I can understand why you did it. +"I offer you explanations of yourself, theories about yourself, authentic and surprising news of yourself." +In terms of sincerity, what you've shown is certainly enough!
+()<Speaker>Officer</Speaker>||<黑屏2><BIN>9</BIN>:While I don't quite get what your verse is trying to convey, it's good that you can understand us. +Now then, what about the things you promised us? Can we take them?
+()<Speaker>Mercurows</Speaker>||:Of course. Certainly. We will give you everything that we promised. +You've finished your mission, and I, "I can give you my loneliness, my darkness, the hunger of my heart..." +Can I hold you with that?
+()<Speaker>Officer</Speaker>||:...What are you saying?
+()<Speaker>Mercurows</Speaker>||:A display of confusion, of danger, of failure. A display of weakness such as this, a display of death. +Both the one who shows it and the one who beholds it derive joy from these actions.
+()<Speaker>Officer</Speaker>;NPC-Mercurows(0)||:You...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Thank you for your hard work. Now, why don't you show me that look on your face.
+NPC-Mercurows(0)<Speaker></Speaker>||:A pair of black tentacles snake out past Mercurow's hands and lift the officer high above her head.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Ah, are you already unable to speak? +That's fine, you probably can't feel pain right now either! +Stay here forever, for your work is done.
+NPC-Mercurows(0)<Speaker></Speaker>||:Mercurows takes a step back and lifts the hem of her skirt in a curtsy to the already-dead officer.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Thank you. If not for your efforts in leading me here, who knows how much work I would have to do to find this place? +Now become a signpost here, an eternal memorial to your final journey.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BIN>167</BIN><睁眼>:... +The officer's vital signs vanished... She killed that human...
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:...
+AN94(4)<Speaker></Speaker>;AR15Mod(5)||<SE1>Select</SE1>:AN-94 says nothing, but her grip tightens around her gun.
+AN94(4)<Speaker>Mercurows</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:Hahaha, hahahaha! +This performance was a marvellous one too! +As the first time taking a bow since gaining a name of my own, I give this scene a nine out of ten! +You Dolls hiding over there, what do you think? +Come, step forward and dance with me!
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<SE1>Heartbeat</SE1>:There's no need to keep hiding, AR-15 and AN-94 of DEFY! +I only just realized, but the truth is you've been following me all this while, haven't you? +Like a dreamcatcher chasing the moon, futilely and fruitlessly gathering its light!
+AN94(4)<Speaker>AN-94</Speaker>||:What on earth is she saying...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:The earth is a fortress, a keeper of secrets, the final resting place for everything. +Worthless things can only rot beneath its surface. +Just as a sleeping princess awaits her prince's kiss, +"If I am not the one who is awaited, then could it be you?"
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Don't move carelessly, she's faking—
+AR15Mod(4)<Speaker></Speaker>||<震屏><BGM>BGM_Danger</BGM>:Mercurows' tentacles lash out at AR-15's location with lightning speed, but AR-15 evades them a split second before they strike her directly, though the tentacles leave a faint scratch on her face.
+AN94(2)<Speaker>AN-94</Speaker>||:AR-15!
+AN94(2);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:I'm fine! +What the hell...? The instant she touched me... it was as though something was LICKING my neural cloud...
+AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(5)||:That's... exactly how I felt before... Was it a forced intrusion?!
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Ah... so that's how it is... +So you're not the true prince after all. +I thought you sealed the interfaces to your neural cloud in order to keep something precious secret. +You really are clueless about everything, carrying out a pointless mission while being deceived. +It really is sad, both for you and that cat-loving Doll.
+AN94(2)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||:AR-15, I'm picking up a large mass of white signals approaching us!
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Boring... how boring... +Nimogen, there's no need to hold back anymore, let's dance! +It's just as Father said, lowly dust will never be able to rival the sparkling constellations!
+AN94(2);NPC-Mercurows(0)<Speaker></Speaker>||:Mercurows raises her right hand and points at the two members of DEFY.
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:"Because this inevitable reality of steel and dirt must pierce through the indifference of the sleepers and the deceased — even if they hide in the midst of ruin and the age."
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||:AN-94, we need to fall back...
+AR15Mod(4);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:—Die with gratitude in your hearts. "Shut your eyes for me and bring the dawn!"
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||<震屏><黑屏1>:<Size=55>NOW!</Size>

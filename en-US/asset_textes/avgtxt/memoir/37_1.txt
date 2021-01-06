@@ -1,0 +1,70 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>22</BIN><黑屏2>:In the T-Doll Repair Bay at Griffin.
+NPC-Kalin(1)<Speaker>Kalin</Speaker>||<BGM>BGM_Sunshine</BGM>:Phew, all done!
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:You can come out now, M14.
+NPC-Kalin(0)<Speaker>M14</Speaker>||:Okay, we're coming out!
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(0)||:Thank you so much, Miss Kalin!
+M14(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Heheh, you're welcome. Just be more careful next time. +Actually, you seem to be coming for repairs pretty frequently these days...
+M14(0)<Speaker>M14</Speaker>||:Sorry to have caused any trouble, but we'll watch it in the future! +We'll be off now. Thanks again, Miss Kalin!
+()||<SE1>RunStep</SE1>:M14 gives Kalin a deep bow, then bounces away.
+NPC-Kalin(3)<Speaker>Kalin</Speaker>||<黑点1>:...Will she really watch it? +Sigh, never mind. I'll leave this to whoever wants to worry about it.
+()||<BIN>82</BIN><黑点2>:In a Griffin dorm.
+M14(0)<Speaker>M14</Speaker>||:Hmm, why is the dorm completely empty...? +Where is everybody?
+???()||:OUTTA MY WAAAAAY!!
+M14(0)<Speaker>M14</Speaker>||:Huh?
+M14(0)<Speaker>M14</Speaker>||<震屏>:WHOA!
+()||:A T-Doll crashes right into M14 from behind. +M14 turns and sees M9 with a large box in her arms, stumbling to regain her balance.
+M9(0)<Speaker>M9</Speaker><Shake>||:Ouch, that hurt! I told you to get outta my way! +...Hmm? If it isn't M14. I remember you coming back in two halves last time. Didn't think you'd get out of the repair bay so soon.
+M14(0)<Speaker>M14</Speaker>;M9(0)||:All thanks to Miss Kalin, we're strong as an ox! +By the way, why isn't anybody in the dorm?
+M14(0);M9(0)<Speaker>M9</Speaker>||:Why else? They've all left on a mission.
+M14(0)<Speaker>M14</Speaker>;M9(0)||:Mission? But we weren't notified.
+M9(0)<Speaker>M9</Speaker>||:Of course you weren't notified lying around in a repair bay. +Right, I've got no time to chat. Our leader is still waiting for my rations.
+()||<SE1>RunStep</SE1>:M9 jogs off with the box.
+M14(0)<Speaker>M14</Speaker>||<黑点1>:We didn't even know there's a mission... +We can't miss out on it! We'll go look for our squad leader now!
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>83</BIN>:At the entrance of the Griffin Base.
+M14(0)<Speaker>M14</Speaker>||<BGM>BGM_Room</BGM>:Thompson! Thompsooooon!
+M1928A1(0)<Speaker>Thompson</Speaker>||:M14? Why are you here? +I'm pretty sure I didn't recruit you on this mission.
+M14(0)<Speaker>M14</Speaker>;M1928A1(0)||:There IS a new mission, right? Bring us along!
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:No.
+M14(0)<Speaker>M14</Speaker>;M1928A1(0)||:Huh? Why?
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Have you counted how many times you've entered the repair bay in the last two weeks?
+M14(0)<Speaker>M14</Speaker>;M1928A1(0)||:One...two...three...four...oh! Five times!
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Yeah. That's also the exact number of times we engaged enemy units in battle on our missions in the last two weeks. 
+M14(0)<Speaker>M14</Speaker>;M1928A1(0)||:Well...we-we'll do our best not to get hurt!
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:It's true that loss is inevitable in battle. +But that doesn't mean you can run amok recklessly in a fight. +If you can't promise you won't do that, then don't bother to come. I don't have the luxury to spare manpower on taking care of you if you're badly injured.
+M14(0)<Speaker>M14</Speaker>;M1928A1(0)||:But...but we're also part of the team! +We really want to be of help on the field!
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Do I have to spell it out? You're the one being helped on the field right now.
+M14(0)<Speaker>M14</Speaker><Shake>;M1928A1(0)||:Oh...
+M14(0);M1928A1(0)<Speaker>Thompson</Speaker>||:If you really want to be helpful, just stay put at the base. +Run some logistics if you're bored. Both we and Kalin would be very grateful.
+M14(0)<Speaker>M14</Speaker>||:We...understand.
+()||:M14 trudges off miserably.
+M1911(0)<Speaker>M1911</Speaker>||:Wasn't that a bit too much, Thompson?
+M1911(0);M1928A1(0)<Speaker>Thompson</Speaker>||:It's about time she calmed down and thought things through. Idiots with nothing but keenness will only end up dead here. +Metal scrap lying limp on the ground can never see the sights from high above... True victory belongs to the last person standing.
+M1911(0)<Speaker>M1911</Speaker>;M1928A1(0)||:You're right. +But we can't just shelf her indefinitely. We gotta think of a way to help her with her condition.
+M1911(0);M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>:She'll have help. +We have no shortage of keen idiots here.
+()||<BGM>BGM_Empty</BGM><BIN>82</BIN><黑屏2>:In the Griffin dorm.
+M21(0)<Speaker>M21</Speaker>||<BGM>BGM_Moon</BGM>:Why are you sitting here all alone, M14?
+M14(0)<Speaker>M14</Speaker>||:M21... +You're not on the mission either?
+M14(0);M21(0)<Speaker>M21</Speaker>||:This mission doesn't require sniper support so I'm on break. +What is it though? You look like the loan sharks are here to get you.
+M14(0)<Speaker>M14</Speaker>;M21(0)||:Thompson doesn't want us on missions...
+M14(0);M21(0)<Speaker>M21</Speaker>||:Huh? Why is that?
+M14(0)<Speaker>M14</Speaker>;M21(0)||<黑点1>:Because...
+()||<黑点2>:M14 repeats what Thompson said.
+M21(0)<Speaker>M21</Speaker>||:Oh... +Don't be too upset. I'm sure Thompson is only concerned about your safety...
+M14(0)<Speaker>M14</Speaker>;M21(0)||:But we don't want to be left behind on our own... +We want to fight side by side with our teammates! We don't wanna lose to anyone!
+M14(0);M21(0)<Speaker>M21</Speaker>||:You're not left behind on your own... I'm here with you, aren't I?
+M14(0)<Speaker>M14</Speaker>;M21(0)||:But you'll leave as well when you have a mission... +But we...we'll never get that chance again...
+M14(0);M21(0)<Speaker>M21</Speaker>||:Ah... Then we have to make the most of the time we spend together now... +Right, wanna hear a joke?
+M14(0)<Speaker>M14</Speaker>;M21(0)||:Will Thompson take us on missions after hearing it?
+M14(0);M21(0)<Speaker>M21</Speaker>||:Uh, well... Uh...haha...
+M14(0)<Speaker>M14</Speaker>;M21(0)||:We want to grow stronger... +We want to be strong enough so Thompson won't think we're a deadweight!
+M14(0);M21(0)<Speaker>M21</Speaker>||:Then...let me think... +You can't improve just sitting around... Why don't you ask Miss Kalin if there's any work you can help her with?
+M14(0)<Speaker>M14</Speaker>;M21(0)||:What?
+M14(0);M21(0)<Speaker>M21</Speaker>||:Even running logistics is a kind of training! +I'm sure everyone will be very glad to see a heap of supplies when they come back from the mission!
+M14(0)<Speaker>M14</Speaker>;M21(0)||:Logistics, huh... +But we still want to be part of the fight.
+M14(0);M21(0)<Speaker>M21</Speaker>||:You'll have to win Thompson's recognition before that though.
+M14(0)<Speaker>M14</Speaker>;M21(0)||:Then how can we win her recognition?
+M14(0);M21(0)<Speaker>M21</Speaker>||:If you can't join them in battle, you'll have to prove your mettle some other way! +There is a lot of work to do around the base, and you're always full of energy. You can do this, M14!
+M14(0)<Speaker>M14</Speaker>;M21(0)||:Hmm...you have a point. Then we'll give it a go! +Thanks a lot, M21!
+M14(0);M21(0)<Speaker>M21</Speaker>||:Heheh, don't mention it. +We're sisters. Don't hesitate to come to me for anything.
+M14(0)<Speaker>M14</Speaker>;M21(0)||<黑屏1>:We'll be off then! +We'll definitely convince Thompson to take us onto the battlefield again!

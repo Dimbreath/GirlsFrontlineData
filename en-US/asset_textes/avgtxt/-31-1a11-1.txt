@@ -1,0 +1,127 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Hello</BGM><BIN>82</BIN>:...Inside the Belgrade safe house.
+NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Commander, Miss Kalina, this way please.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:What is this place?
+NPC-Jason(0)<Speaker>K</Speaker>||:One of my safe houses. +You can set up your command post here for the duration of your operations in this city. +The equipment here will provide you ample transmission coverage to keep your HQ in contact with your Dolls throughout the city limits.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:I can't believe it... It's a Type 50 bidirectional low-frequency MSE-based transceiver system...and there're three of them!  +Closed-circuit signal jammers! Holy crap, every room's been fitted with them... +Can that Mr. K really throw around military-grade equipment like this so casually...?
+NPC-Jason(0)<Speaker>K</Speaker>||:As long as it helps the mission. +Let Marlohe know if you have any other requests. She is at your service. +If there's nothing else, we'll speak again at our next scheduled communication. +I'll leave the rest to you, Marlohe.
+NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Yes, Master.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Mr. K might be stingy with his information, but he's really generous in other areas...
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Miss Kalina, can I help you with anything?
+NPC-Kalin(1)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Ah, then, could you tell me about Ange?
+NPC-Kalin(1);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:No comment.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Ah...as I thought, it didn't work...+Eh, forget it. Miss Marlohe, please show us around this place, if you would.
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||<黑屏1>:Understood.
+()<Speaker></Speaker>||<黑屏2>:...
+NPC-Maid(0)<Speaker>Marlohe</Speaker>||:This is the ammunition storage room.+The toilet is ahead and to the right.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:There are just too few toilets here...not enough for everyone.
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:May I remind you that Dolls do not have the biological need to use the bathroom.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:...+...I know that! I'm talking about our logistics staff!
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:I would advise against letting too many people learn the location of this safe house. The other Griffin personnel can remain in the prior location.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Humph... Alright...
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Let us proceed to the next area.+This central room contains the MSE system hub, with a double-redundant emergency power supply here and here. You can observe the network from here, and I have already forwarded the interface and transmission network blueprints to you.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Huh...so you could install them like this... +Can I try modifying this equipment now?
+NPC-Kalin(0);NPC-Maid(0)<Speaker>Marlohe</Speaker>||<黑屏1>:Certainly. I can assist you.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2><BIN>85</BIN>:Alright! That way it'll be much more versatile!+Thank you, Miss Marlohe. I didn't expect your database to contain so many plans!
+NPC-Kalin(0);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Don't mention it.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:This way, the layout will be close to what it was in the base, which means it'll be easier for the Commander to use too.
+NPC-Kalin(0);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:If there is nothing else, I will enter standby mode.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Wait! Wait a minute! Let's have a chat!
+NPC-Kalin(2);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:A chat?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Yes, yes!
+NPC-Kalin(0);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:What shall we chat about?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Ah...er...um...
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:If there is nothing of great importance, I will enter standby mode.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Wait! +Ah, yes...that's right, Miss Marlohe, what is Mr. K usually like?
+NPC-Kalin(2);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:I don't quite understand what you mean.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:That is to say...what kind of person is he like most of the time? +For instance...do people usually visit him?
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Secrecy is our mantra. Nobody would come to our door.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Then does Mr. K speak with you?
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Master needs to spend a great deal of time every day on collecting and analyzing information. +He does not waste time on frivolous interaction.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Eh...but withdrawing from others isn't a good way to treat yourself... +Surely there must be a limit to how deeply you can immerse yourself in work, right?
+NPC-Kalin(3);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Thank you for your concern. +However, Master lives a very regimented life, and his health status is also strictly monitored.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Regimented?
+NPC-Kalin(2);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Master has arranged a schedule for himself. +He is very precise in his activities and daily life and does not leave any openings. Nor does he waste any time or energy. Everything must be kept at maximum efficiency.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:He can't be off, not even for a second?
+NPC-Kalin(2);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Not even for a second.
+NPC-Kalin(5)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:That feels a little frightening... +Don't tell me Mr. K is just an A-Doll who only knows how to work? +Ahaha... I was just kidding...
+NPC-Kalin(5);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Please take those words back.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:Huh?
+NPC-Kalin(2);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Even if Master controls his life with absolute precision, he is not an emotionless machine. +He simply acts in a way that will protect everyone, even if others do not understand his method. +Therefore I will not tolerate any criticism about the Master.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>;NPC-Maid(0)||:I...I'm sorry...
+NPC-Kalin(7);NPC-Maid(0)<Speaker>Marlohe</Speaker>||:Someday you will understand too. +If there is nothing else, please permit me to take my leave.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Al...alright...
+()<Speaker></Speaker>||:Marlohe leaves.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||<黑屏1>:Really... A misunderstood method... +Perhaps other than our standpoints, we're not so different after all...
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2><BIN>8</BIN>:Phew... +It took a bit of doing, but on the whole, this temporary command post looks pretty good.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:You've finished already?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I did my best to give this place the same functionality as the command room in our base. I also made some small changes so that we can communicate with the outside world in a more secure transmission mode.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:So you're saying we can talk to Persica?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I think you shouldn't contact Persica for the time being. She's probably under very heavy surveillance right now...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:How about the others?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM>:I've been negotiating with WAVE Corporation. While they're an information agency that Mr. Witkiny recommended, they seem a little suspicious. Still, it's not like we have any better choices right now...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||<BGM>BGM_Brain</BGM>:I reckon that means you're onto something.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Yes. In fact, I was looking for you to tell you about it. +WAVE helped us gather some information, and while it was pricey...it was worth it.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Hm, care to share?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Do you remember what Mr. Witkiny said before...about how this mission was given to us by a member of Statesec?+At first, I thought that Mr. K was a Statesec agent or something, but it was only after I looked through the information that I realized...we really are quite low on the food chain...+K isn't an employee of Statesec, at least not according to their personnel manifest. So to Statesec, we're just...subcontractors of a subcontractor.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:A glove over another glove, huh...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Ange aside, Statesec is also taking official action in this city. There's going to be a very important bilateral summit taking place in three days, so it's easy to see why Mr. K wants us to clear out the infiltration of the White Faction's Dolls...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:That was the meeting they were talking about on TV earlier, right...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Correct, but there's something weird about it all... +This operation in Belgrade - both the officially dispatched agents as well as the people liaising with K - didn't originate from the Bureau HQ, but the Sixth Directorate of Internal Security.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:The Sixth Directorate? +But if I'm not wrong, the Ninth Directorate is in charge of diplomatic protection work...right?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Precisely. Sixth Directorate mainly handles top secret cases involving cutting-edge technology and national-defense industries. +That's why it's so weird!+Why would they need to send people from the Sixth Directorate just to provide security for a summit? +Why is K in Belgrade, acting on the orders of a department that deals with top-secret technology? +And what does all of this have to do with Ange?
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:...+I'll remember this.+Did you find anything related to Ange?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Yeah... +But everything I could dig up didn't go into much depth. +Most of it was combat records from when she was seconded to Griffin as a commander in the past, except for this one...
+()<Speaker></Speaker>||:...Click. +The attempt to read the file fails.
+()<Speaker>Commander</Speaker>||:Is it...corrupted?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:It's not corrupted. Judging from the details, it looks like someone deleted the information.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:This time period...it's a log of Ange's activities from before and after Operation Butterfly...+Can you or WAVE recover the file?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I've already tried... +But since the information was deliberately destroyed, there's pretty much no way to restore it.
+()<Speaker>Commander</Speaker>||<黑屏1>:...
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:...In the middle of the night. +I'm sitting at my place,  contemplating Kalina's findings as well as everything about this city.
+()<Speaker>Commander</Speaker>||<黑屏1>:...+(K is the middleman between Statesec and us, which means K is on the same side as Statesec.) +(But does K truly know what Statesec's real objective is?) +(Or are we all nothing but pawns?)
+NPC-Ange(0)<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:What role did Ange play in all of this? +If everything was as K said and Ange is still carrying out the mission given to her by Statesec, then why did Statesec prepare a card like me?
+()<Speaker></Speaker>||<黑屏1>:Am I to assist her... +Or to monitor her? +And if Ange really does defy the orders given to her by Statesec... then what role does K play?
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:...Someone knocks on the door.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Not asleep yet, Commander?
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Oh, I'm almost about to. +Right now, it's just... I can't stop thinking about a few things.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:All-nighters are bad for your health, you know. +Here, I've warmed up some milk, drink it while it's hot!
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Mm...thanks.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Marlohe allowed me to query their database, so I've been searching for useful information all this while. +I rushed over because I stumbled upon something. +Still...you really were thinking about Ange after all, weren't you?
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:...Yeah, all of this is just weird, no matter how you slice it. +It feels like I'm missing a piece of the puzzle and I can't link it all together.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:It's all because K controls all the information and he won't reveal anything! +While he keeps saying he'll tell us more after we complete our mission, he's either been playing dumb or feeding us irrelevant things up till now. +I don't believe that he'll explain it all to us after we've finished everything!
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Even so, we need to play our part. +If he wants obedient tools, then we'll do as he says in principle.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:But even if we do that...
+()<Speaker></Speaker>||:...Kalina and I both fall silent.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Ugh, for now, let's set aside these problems we can't understand. +I also found more detailed information about the upcoming summit. +This is the local paper from last night.
+()<Speaker></Speaker>||:—"In light of the upcoming international summit, the municipal authorities have announced 17 new security ordinances in order to ensure the safety of the meeting's opening ceremony..."
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Belgrade... It's considered neutral territory on the European political map, so if there are bilateral talks, they'll be held here, and the Neo-Soviet Union and the United Nations will have ambassadors representing them. +This city is beyond the reach of either sides' influence, so a lot of thought must have gone into picking this place.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Neutral, huh... Trust is as hard to build as ever. Granted, they can avoid political pressure from both sides on neutral ground. However, the downside is that it's very easy for people who don't want the summit to infiltrate this place...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:That's true... +I also heard some rumors that there were some plans to join the United Nations on our side, but the idea of allying with old enemies was met with extreme backlash within the country. Perhaps people don't love peace as much as they say they do...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:It's not easy to shake hands with a mortal enemy. +And to some people, a world in conflict better serves their interests.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Ugh...it's so confusing...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Apart from that...did you find anything else?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Oh, I almost forgot! +Commander, take a look at this!
+()<Speaker></Speaker>||:...Kalina dumps a pile of documents on the desk.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Let me see... +Special columns and reviews... +The United Nations clarifies its anti-war stance...but the dates are all...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:They're from the event 2 years ago commemorating the 10th anniversary of the end of World War III.. +K dug up a lot of articles from that period. He always made special note of things like these that you could find anywhere.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:... +"Rossartrism".
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:That's right... They're all activities linked to Rossartrism.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:I've heard that the Rossartrists were behind the formation of the United Nations and they were even tied to the end of WWIII. +Still, there's nothing surprising about him collecting these. While K didn't go out and take part in political activities, it seems he has a political stance of his own. +That said, I don't understand why someone like him would choose to support such an extreme ideology.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I think I've found the reason why K chose us... take a look at this.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:This is...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:By May, 25 members of the United Nations will have declared their wish to embrace Rossartrism. +Public support of governments which practice Rossartrism is in excess of 70%. +A new common destiny will soon be born, and mankind will soon set foot into a new era of faith and mutual aid. +High-ranking officials of the United Nations have announced more initiatives to progress mankind, and to that end they have already prepared to become a cutting edge of a newer world.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Wait, what was that...?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Yeah... I was really surprised when I saw it too.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:"A newer world..."
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:"The cutting edge of a newer world." +That's the slogan of the Rossartrist movement. +They were using it long before Griffin did.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Spreading Rossartrism is prohibited within the nation, so we know almost nothing about it... +I have no idea why Mr. Kryuger would use this for Griffin's slogan...
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:... +Let's end it here for today.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh?
+NPC-Kalin(2)<Speaker>Commander</Speaker>||:Thinking about this won't help, and we still have a mission to carry out tomorrow. Let's call it a night.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:That...that's true. I'll go sleep, then. Goodnight, Commander.
+()<Speaker></Speaker>||:...
+()<Speaker></Speaker>||:...I had stopped the conversation in its tracks because the anxiety and uneasiness I felt was worse than when the Nytos were observing me on my sickbed.
+()<Speaker>Commander</Speaker>||:"The cutting edge of a newer world..." Huh.
+()<Speaker>Commander</Speaker>||<黑屏1>:What forces could have guided things to this juncture... +Perhaps all this is more complicated and more frightening than I can imagine.

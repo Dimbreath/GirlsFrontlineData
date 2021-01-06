@@ -1,0 +1,114 @@
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night><BGM>BGM_Sneak</BGM>:I'm back, and things don't look good at all... +I mean, that's still the Military's main force out there...
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Get to the point. What are the Military's current movements?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:Well... the Military's vanguard units are sweeping the contaminated areas, while the armored units are standing by at the perimeter. They'll probably catch up soon. +Still, even if their vanguards are just recon units, we're still no match for them.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:If we keep targeting the Military's repeater stations, we'll run into them sooner or later. +M4A1, I suggest we retreat.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...No, we still have a chance now, given that the main body of the military forces is still on the area perimeter. +Once the armored units roll in, it'll be too late to do anything. +AK-12, give me the route of advance for the Military's scouts. Our first priority is circling around them.
+AK12(0)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:Well, if it's just direction... +The Military's axis of advance is roughly headed this way. If you want to avoid them, the most effective route would be to go through this area. +After we make it through this location, we'll be in the radar blind spot of the military units.
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:What are the risks of taking that route?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...Things will become more troublesome if Sangvis Ferri decides to get in our way. After all, it's tight terrain. +But after considering the wide detection radius of the Military, I cannot recommend taking any other route.
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:Sangvis will always get in our way. It's the same wherever we go. +We'll head out, then. If you encounter any Sangvis units, destroy them quickly and move on.
+()||<BIN>7</BIN><Night><黑屏2><SE1>Gunfight</SE1>:...Task Force DEFY clashes with Sangvis units along the path that avoids the military units.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Are these Sangvis units standing guard with preprogrammed behavior patterns? +They crumble the moment we make contact with them. I'm not used to that.
+AR15Mod(0);AN94(0)<Speaker>AN-94</Speaker>||<BIN>7</BIN><Night>:Mastermind is handling the threat which the Military poses. Perhaps she's contracting her defense line.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:She must know that these trash are meaningless in the face of the Military... +It feels more like...they're trying to draw us in...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Cease advance. +AK-12, do you detect any abnormalities?
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Oh? Still worried that it's a trap? +Nyet, at least I'm not picking up any signals...
+()||<BIN>7</BIN><Night><SE1>Explode</SE1><BGM>BGM_Empty</BGM><震屏>:BOOM!
+()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM>:...Something crashes straight into AK-12's position, and a mighty explosion scatters the team.
+BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<BIN>7</BIN><Night>:...You just happened to have entered my firing range. +Was this the T-Doll who's been searching for our signals all this while? +It's not good to learn the names of the cast ahead of time, you know.
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>7</BIN><Night>:...!
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>7</BIN><Night>:A... +AK...12... +AK-12... AK-12...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Focus, AN-94. It's a Sangvis ringleader.
+BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>;M4A1Mod(0)||<BIN>7</BIN><Night>:We meet again, M4A1. I hope you weren't offended by my crude greeting.
+BOSS-4(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:... +Should you really be hanging around here when your Mastermind is about to be overcome by the Military?
+BOSS-4(0)<Speaker>Intruder</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:And what if those were the orders Mastermind gave me? +It's not like I'm a unit that's particularly hard to handle. You won't mind taking care of me, will you? +Or could it be...you were hoping that Mastermind would send someone more important to deal with you?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:... +AN-94, from now on you will take AK-12's place.
+AN94(0)<Speaker>AN-94</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:But... AK-12, she...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Get moving, AN-94!
+()<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:...I'm not dead yet, M4A1.
+AK12(3)<Speaker></Speaker>||<BIN>7</BIN><Night>:AK-12 walks out of the smoke.
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:AN-94 won't be able to take it if you give her too much stress at times like these.
+AN94(4)<Speaker>AN-94</Speaker>||<BIN>7</BIN><Night>:AK-12!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Is that...your true appearance?
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:What a shame, I really liked that cape... +Judging by your ID signal...you must be Intruder, am I right? +I honestly didn't expect you to fire from outside of detection range.
+BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<BIN>7</BIN><Night>:I apologize, but it's true that my lethality at this range is nowhere near that of my superior's. +Still, that's fine. The preparations for the signal jamming are complete. Next, I shall personally bid you farewell.
+()<Speaker></Speaker>||<BIN>7</BIN><Night>:...Click. +...Click! Click!
+AN94(2)<Speaker>AN-94</Speaker>||<BIN>7</BIN><Night>:M4A1, a large number of Sangvis signals have appeared in front and behind us.
+AN94(2);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:What?
+AK12(3)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:I didn't detect them because they were maneuvered into position while they were offline, following pre-planned routes. +Interesting...
+AK12(3);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:So we're surrounded AGAIN? +And why am I saying "again"? And there's a Sangvis ringleader here on top of it all.
+AK12(3)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>7</BIN><Night>:While scrapping her here isn't a problem... +The Military's recon units will find us here if we don't move fast.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Have you decided, M4A1? Are we going to fight or...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:... +Everyone, prepare to disengage. We've got no time to waste on her. +Everyone's top priority is to escort AK-12 to the repeater station. Anyone who can't make it, look for cover!
+AK12(3)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...You gave that order yourself.
+AK12(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:This is for everyone's sake. +Only you and AN-94 can hack the repeater station. We need to ensure your safety.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:What an honor. Let's go.
+BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<SE1>Gunfight</SE1><BIN>7</BIN><Night>:Leaving in the middle of the performance? I won't allow that. +Do you know what sort of script awaits you up ahead?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Hurry! Intruder's units are closing in! +Also, what are we going to do about the Sangvis forces ahead?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:All we can do is break through them ASAP! Don't stop!
+AN94(2)<Speaker>AN-94</Speaker>;M4A1Mod(0)||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:One moment, M4A1. The Sangvis forces ahead are fighting with another unit.
+AN94(2);AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Those are Griffin echelons. Friends of yours?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<BIN>7</BIN><Night>:It's our Commander, M4A1! I recognize several of the T-Dolls in there!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...!
+AK12(0)<Speaker>AK-12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:Not going to stop and say hi? +Or how about a pincer attack from behind as you meet your Commander?
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:It won't help the present circumstances much. +We're going to take this opportunity to pass through from the rear! AK-12, plot a new course!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:... +That certainly is an efficient decision, M4A1.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Are you mocking me?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:I'm mocking myself. +Now that you've become me, what should I become?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:I was just kidding. +After all, unlike you, I haven't started hating myself yet.
+AR15Mod(3);M4A1Mod(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:M4A1 chuckles.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:Yeah... +There's a lot of things we can't just do because we want to... +This is a battlefield, and the only thing we can do is complete our mission. +(Good luck, Commander.)
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...Task Force DEFY takes the opportunity to seize the repeater station. +The hacking begins.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM><BIN>34</BIN><黑屏2>0.6</黑屏2>:... +Miss AK-12.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:Speak, but be brief. I need to focus.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:Can I use the data links of this repeater station to keep an eye on the Commander and the Griffin forces' current condition?
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:... +Not possible. This place doesn't connect to anything related to battlefield conditions.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:AN-94 has already told me all about the uses of this repeater station. +So please tell the truth, AK-12.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:The truth? The truth is... +(Smiles bitterly) AN-94 really is a good, honest girl, isn't she? +So you've asked a question to which you already know the answer... +But the most important thing for this mission is to find the most critical data and send them back to Ange. Do you agree?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:I do not deny this.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:You're worried that after we contact Ange, you'll get a new set of orders right away and miss the chance to learn about them, is that it?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:... +Forget I asked.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<BIN>34</BIN>:AK-12, finding out about the Griffin units' present condition won't take long.
+AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:Et tu, AR-15? +Speak up for me, won't you, AN-94?
+AR15Mod(0);AN94(0)<Speaker>AN-94</Speaker>||<BIN>34</BIN>:We shouldn't distract ourselves with other things, so AK-12 is doing the right thing.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AN94(0)||<BIN>34</BIN>:Some things mean more to us than you can imagine. Don't keep being AK-12's yes-man, AN-94.
+AR15Mod(0);AN94(0)<Speaker>AN-94</Speaker>||<BIN>34</BIN>:I am merely stating a fact. +Given the present circumstances, there is no denying my statement. +Or perhaps your neural cloud has already surpassed mine, and you can calculate an answer beyond anything I can derive?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AN94(0)||<BIN>34</BIN>:You...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:That's fine, AR-15. Let it be.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>34</BIN>:(Shrugs) Roger that.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:I've already gotten what I want. It was quicker than I expected.
+AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...AK-12 glances at M4A1.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:Before I disconnect...I have to say that I myself am quite curious about how the Griffin forces are doing. +Taking a quick peek is well within our ability.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>7</黑屏1>:Is that so... +Then, AK12, I'd like—
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>7</黑屏2><SE2>Alarm</SE2>:...Psst...pssst... +————Whirrrrrr————
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:Urgh!
+AN94()<Speaker>AN-94</Speaker>||<BIN>9</BIN>:AK-12...
+AK12()<Speaker>AK-12</Speaker>||<BIN>9</BIN>:Shut down all wireless and transmission devices! +AN-94! Cut all Level II interfaces! NOW!
+AN94()<Speaker>AN-94</Speaker>||<BIN>9</BIN>:They're all cut!
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:What happened?!
+AK12()<Speaker>AK-12</Speaker>||<BIN>9</BIN>:The Military's activated a Class I active defense! Don't do anything unnecessary if you don't want your neural cloud to be burned to ash!
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏1>:At a time like this?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM><BIN>34</BIN><黑屏2>:Does...the Military need to use something like this?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:They might have run into a little...big problem. +While I know of their EW abilities, the sheer power on display here is frightening... We can't even access the Zener Network, so our Dummies are temporarily offline. +But a huge upheaval like this is bound to affect their own command systems too... Looks like the situation is really bad.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:Can you check to see what happened?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN><黑点1>:All frequencies are scrambled now, so our enemies shouldn't be able to do anything. +But we can't contact Ange either. There's nothing we can do except sit and wait.  +You go rest first, I'll try to fix this messed up network.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BIN>34</BIN><黑点2>:M4, do you regret what you did?
+AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:Why would I?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>34</BIN>:Whether it's not turning back to save the Commander just now, or not taking the repeater station immediately and getting new orders... +Are you really conscious of all the decisions you've made?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:If regrets could help anything, I'd do it. +I'm just too small relative to this battlefield. All I can do is pick the course of action I feel is best and carry it out, and then live with the outcome.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:...Is that so? +I think...
+AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...Click.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:Oh look, the entire comm net's back online.
+()||<BIN>34</BIN>:...M4A1 stands up and begins her transmission.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:Miss Ange, this is M4A1. We've taken the repeater station as planned. +AK-12 will send you the information she's obtained.
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<BIN>34</BIN>:Good, got it. +Looks like the Military encountered a situation beyond their imagination. Hopefully you weren't affected by the active defense just now.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:We finished hacking before that. We're now waiting for our next order.
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Don't rush, M4. +You've got an emergency rescue mission now... Boring for you, perhaps, but definitely much simpler.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Our targets?
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:It's Squad 404. They're pinned down by Sangvis' main force in a major Sangvis database. You're the only ones they can count on.  +I've marked their coordinates. Those are your present orders.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<黑点1><BIN>34</BIN>:Repeating mission objective — relieve friendly units at coordinate 20664-5ETK85. +Task Force DEFY, moving out.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN><黑点2>:M4A1 still hasn't given up on your MIA friend from the AR Team, AR-15. +Whether it's finding the missing AR Team member or meeting her Commander, she won't have many chances for either of them.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;AK12(0)||<BIN>34</BIN>:You'd think that because you clearly don't understand M4A1.
+AR15Mod(3);AK12(0)<Speaker>AK-12</Speaker>||<BIN>34</BIN>:Is that so? +Then I guess you don't understand...the 'present' M4A1 either.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>:...We'll know the answer soon enough.

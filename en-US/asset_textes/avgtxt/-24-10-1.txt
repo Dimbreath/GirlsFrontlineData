@@ -1,0 +1,26 @@
+()||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏1><黑屏2>:...Click.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Good afternoon.</color>+<color=#00CCFF>Although I don't know what time it is. You don't mind, do you?</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:So, have you come to surrender?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Scarecrow, I've come to bargain.</color>+<color=#00CCFF>Under the present circumstances, we need to quietly...</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:There is no value in allying with you.
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Allying? No, of course not! What are you thinking?!</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:...?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>I know you took our stuff. But that's fine, we don't need it. Except for one thing.</color>+<color=#00CCFF>I just want a single Griffin auxiliary power supply. Just one.</color>+<color=#00CCFF>Give it to me, and we'll let you go. We'll both withdraw. How about that? It's a good deal, right?</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:... +That's assuming you can be trusted.
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>I'll go to your base to get it, and I won't be armed.</color>+<color=#00CCFF>You know that they can't operate as an independent group if I'm not with them.</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:Of course I know that. They were just a disorganized rabble before. +Still, aren't you worried I'll take this opportunity to open fire and attack your position?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Then I'll guarantee this...</color>+<color=#00CCFF>Before you can open fire, I'll use your lackey's hand to rip off that ugly mask of yours and gouge out one of your eyes.</color>
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||<黑点1>:... +Then make it quick. Let's get it done before the Military attacks again.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>99</BIN><黑点2><震屏>:SOP-II, are you really going onto the battlefield? There's Military units everywhere!
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Their main force hasn't arrived yet. I'm confident I can pull this off, but I'll need the help of a few T-Dolls.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Our lives are yours. Take your pick.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Right! I want these ones. Everyone, pack up, we're moving out right away!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Will you be back? I mean...they're S.F., after all, and it's very likely that...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Scarecrow will keep her word, for her own sake and for her friends'. She has no choice.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Would Sangvis Ferri... do things for their friends, too?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yes, they do. Nobody in Griffin understands them better than me.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:(Chuckles) Did you learn that from torturing them?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We've made contact in various ways.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:I'm surprised you're a friend of ours.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:That's exactly why I'm a friend of yours. Cx4, hold the line for the time being. I'll be back right away! +Let's go, everyone. We're going to avoid the Military units and conduct peaceful negotiations with Sangvis Ferri! +Not every Griffin T-Doll gets the chance to do this, especially with me around, so come with me!
+()||<黑点2><BIN>10</BIN>:

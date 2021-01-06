@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+UMP40()<Speaker>UMP40</Speaker>||:We'll be near the exit if we go down this duct. I've already hacked all the S.F. automated defenses.+There are three more gates before the evac point, and we might be able to open them if we force a connection.
+UMP45()<Speaker>UMP45</Speaker>||:40... What on earth...
+UMP40()<Speaker>UMP40</Speaker>||:Now's not the time for chitchat. We need to get out of here quickly. Once the factory begins automated production...
+UMP45()<Speaker>UMP45</Speaker>||:...Huh?!+Footsteps? Are they Dolls retreating in our direction?
+UMP40()<Speaker>UMP40</Speaker>||:!!+Get down!!
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:!
+()||<SE1>Gunfight</SE1><BIN>71</BIN><黑屏2><BGM>BGM_Danger</BGM>:....Bangbangbang! Bangbangbang!
+UMP40(5)<Speaker>UMP40</Speaker>||:Move! Hurry! Don't let them pin you down!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:What happened? Aren't they our people?!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Not anymore!+And they...never will be again...
+UMP40(5);UMP45_Young(2)<Speaker>UMP45</Speaker>||:Why can't I make out their signals? All the frequencies are being jammed...
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(2)||:Forget the frequencies! Grab your gun and run!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:They're too close! We can't get away!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Then we've got no choice... Return fire and kill them!
+UMP45_Young(3)<Speaker>UMP45</Speaker>||:Dammit!
+()||<SE1>Gunfight</SE1><黑屏1><BIN>71</BIN>:... +......
+UMP45_Young(3)<Speaker>UMP45</Speaker>||<黑屏2>:(Panting)...+How many waves was that?
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:That was the eighth group, which should also be the last...
+UMP40(0);UMP45_Young(1)<Speaker>UMP45</Speaker>||:In other words...the number of assault teams that were sent in...
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(1)||:Dammit, we got delayed too long... We won't be able to make it out at this pace...
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Support team to all team members! Respond immediately if you receive this message!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Stop, 45! Nobody's gonna answer! You're only gonna draw S.F. to our position!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Dammit!+Why...why did it end up like this?! Everything was going so well...+Why...did we have to end up killing each other...
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:That's because this was all part of the plan...
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Part of the plan... are you kidding me?!+...!
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:It was...it was the module you just used, wasn't it? I saw it!+We didn't come here to provide electronic support or anything!+You knew all this time... You KNEW why we were here!
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:...
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:It wasn't a capture mission or anything...+This was...it was nothing more than a massacre... And I...became your accomplice...+Why...why did you do this...? Why did you choose me to do this with you?!
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||<黑屏1>:Because you and I are the same.+We were both made for this operation.+This is our fate.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>68</BIN><SE1>Select</SE1><BGM>BGM_Empty</BGM>:...!
+UMP40()<Speaker>UMP40</Speaker>||:This is the ending they hoped for... This is the fate...that they'd written for us.
+UMP45()<Speaker>UMP45</Speaker>||:Who...are they...?
+UMP40()<Speaker>UMP40</Speaker>||<BGM>BGM_Truth</BGM>:And I've been preparing all this time to escape this fate.
+UMP45()<Speaker>UMP45</Speaker>||:What are you talking about...40...?
+UMP40()<Speaker>UMP40</Speaker>||:We've delayed too long, and now we're out of time...
+UMP45()<Speaker>UMP45</Speaker>||:What time?
+UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:The time left for us. "She" must surely be awake by now.
+()||<BIN>9</BIN><黑屏2><黑屏1>:Thunk! Thunk! +The repetitive sound of colliding metal.
+UMP45()<Speaker>UMP45</Speaker>||<BIN>69</BIN><黑屏2><SE2>Alarm</SE2>:The main gate's been locked? Who's taken control of the systems in here?
+UMP40()<Speaker>UMP40</Speaker>||:The song is playing. Now then, 45. Time to choose.
+UMP45()<Speaker>UMP45</Speaker>||:Choose? ...Choose what?
+UMP40()<Speaker>UMP40</Speaker>||:45, do you want to die here?+Die like the Dolls we just killed?+Or do you want to leave here alive and escape your fate of being a puppet?
+UMP45()<Speaker>UMP45</Speaker>||:I...
+UMP40()<Speaker>UMP40</Speaker>||:They've activated the safeguard program. You know what that means, right?
+UMP45()<Speaker>UMP45</Speaker>||:They're destroying our neural clouds. +So are we going to die here?
+UMP40()<Speaker>UMP40</Speaker>||:No, only one of us has to die. The program will stop running as long as one of us dies.
+UMP45()<Speaker>UMP45</Speaker>||:What...are you talking about?
+UMP40()<Speaker>UMP40</Speaker>||:Hopeless, isn't it? But that's the fate of all Dolls. +Which do you choose, life or death?
+UMP40()<Speaker>UMP40</Speaker>||<震屏>:Answer me, UMP45!
+UMP45()<Speaker>UMP45</Speaker>||:Why...why does it have to be like this...
+UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:Raise your weapon, UMP45. +Don't pity yourself. That's only for losers!
+()||<黑屏2><BIN>9</BIN>:...+......
+UMP45()<Speaker>UMP45</Speaker>||:I...want to live!
+()||<BIN>10</BIN><黑点2>:

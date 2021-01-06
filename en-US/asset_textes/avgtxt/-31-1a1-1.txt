@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:...+A hacker. +A spy.+An information broker. +Or perhaps a middleman for "the big shots."
+()<Speaker>K</Speaker>||:<color=#00CCFF>Oh, and Commander? I know you're monitoring our conversation from your terminal.</color>+<color=#00CCFF>I don't know what you look like, but from the way you handled the situation, I understand why you are feared by many.</color>+<color=#00CCFF>However, while in this city, you won't want me as an enemy and vice versa - for the time being.</color>
+()<Speaker></Speaker>||:Perhaps he's one of those. +Or perhaps...he's all of them.
+()<Speaker>K</Speaker>||:<color=#00CCFF>In any case, I give my regards.</color>+<color=#00CCFF>Should I say..."A pleasure to meet you," or "Welcome to Belgrade"?</color>+<color=#00CCFF>I've been waiting for you.</color>
+()<Speaker></Speaker>||:I dislike dealing with such people. +They'll help you, for a high price. +But you'll never know when they'll betray you for an even higher one.
+()<Speaker></Speaker>||:...
+()<Speaker>K</Speaker>||<黑屏1><CGDelay>0.5</CGDelay>:Now then...+Angelia... Let me tell you about her adventures. +Where would you like me to start?
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM>:...The next day, in a secret Griffin safe house.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||<CGDelay>0.3</CGDelay>:Commander!
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Wake up, Commander!
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:Miss Kalina? Ah...still can't get the Commander out of the room?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;RO635(0)||:Yeah...it seems the Commander's still feeling down after that conversation with Mr. K yesterday.
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:I can understand how that feels, like it was all for nothing... +Even so, I took the briefcase as K asked. Should I begin analyzing the contents? +Or should we contact Miss Persica?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;RO635(0)||:The Commander asked us to put all activities on hold, so we probably shouldn't do anything until we get orders.
+RO635(0)<Speaker>RO635</Speaker>||:But it's almost time for the scheduled call with K. At this rate...
+()<Speaker></Speaker>||:...The door suddenly opens.
+()<Speaker>Commander</Speaker>||:Kalina, come to the comms room.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<黑屏1>:Er... Yes, Commander!
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||<黑屏2><BIN>8</BIN>:The signal's not too good... Ah, we're through! +Commander, we can engage in encrypted comms on channel B-3-5F, and we can maintain comms secrecy for three minutes.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Commander, you're late. Not a good habit for a PMC to have.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:...
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>What's the matter? The look on your face suggests that you're quite unhappy with me.</color>+<color=#00CCFF>According to my information, you've recalled all the Dolls you've dispatched to this safe house.</color>+<color=#00CCFF>Should I interpret this as a form of disobedience?</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:As far as I know, the orders I received were to look for Ange.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Do you still think so, even after what happened yesterday?</color>+<color=#00CCFF>"Find Ange"?</color>+<color=#00CCFF>If you really believe that, then I'll have to look for another candidate.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:Smuggling the HOCs and the Dolls past the border went too smoothly.+One would have to pay a huge price in order to make such a thing happen, and it's not something that money alone can cover. So there must be some reason why Griffin has to be here.+What that tells me is that you and your backers have no better choice than me. So you can either tell me more about Ange, or I can have my Dolls take a vacation until it's too late.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>You're smart, Commander.</color>+<color=#00CCFF>But I've already told you enough.</color>+<color=#00CCFF>"Ange is not your enemy."</color>+<color=#00CCFF>Just like I said yesterday.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Of COURSE we know Miss Ange isn't our enemy!+It's because she's not our enemy that we're so worried about her and want to find her!
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Ah, Kalina, Griffin's veteran logistics officer.</color>+<color=#00CCFF>You were an orphan and a drifter from a young age, which is why you place such great emphasis on money. Kryuger pitied you, and so he recruited you into Griffin despite you being underage at the time.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:...
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Normally, I'm not a fan of dealing with people who are too avaricious, because they'll sell themselves for the slightest bit of cash.</color>+<color=#00CCFF>Would you betray the Commander beside you for money?</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Of course not!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Mm. Compared to your fake smile from just now, I find your genuine anger a lot cuter.</color>+<color=#00CCFF>I believe that you won't, because everything has a price. In other words, a bargaining chip of commensurate value.</color>+<color=#00CCFF>It's just like how every bit of information I provide must be paid for by you providing something of equal value to me.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:You don't get to decide the equivalence of values all on your own. I'm not going to say this again. Griffin will not take any action before I gain more information.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Seeking mutual consensus is very good. It seems that on top of getting straight to the point, you're quite adept at negotiations, Commander. It would seem I will have to make a few concessions of my own.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Please stop going around in circles, Mr. K. Shouldn't we be working together?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Your opinion is very constructive, so I will add another piece of information.</color>+<color=#00CCFF>Ange the "traitor" is currently carrying out a mission not fitting of her "traitor" status. And as you know, she is currently in this very city.</color>+<color=#00CCFF>She is alone save for her Doll squad, and the mission she is carrying out is, as always, extremely risky. Severely outnumbered, it is very likely that she will be swamped by the enemy if she does not receive support. And the people who were supposed to provide said support are enjoying a vacation in a cozy cabin...</color>
+()<Speaker>Commander</Speaker>||:...
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||:...
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Here's another freebie. Her team contains Dolls who were once from the AR Team.</color>+<color=#00CCFF>If my information is correct, they once operated under you. Am I correct, Griffin Commander?</color>
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:M4...? They're in Belgrade too?
+()<Speaker>Commander</Speaker>||:... +What do you need us to do now?
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>I like that pragmatic nature of yours, Commander.</color>+<color=#00CCFF>I believe we will enjoy working together.</color>
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:...Inside Griffin's safe house in Belgrade.
+RO635(0)<Speaker>RO635</Speaker>||:We were insulted by humans...trapped...almost drowned...+And we didn't even manage to find the enemy's true hiding place... If this keeps up...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What are you talking about, RO?+Quit moping over there, the clothes we washed yesterday are dry now. I'll put them here, along with your gear.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...I really envy how you can be so relaxed in a situation like this.+Did you get a checkup afterwards? Did the water damage your body?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Nope! I was on your shoulders all the time so I didn't get any water on me~+When can we get fully waterproofed bodies, anyway?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:I don't think that's possible in the short term...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Then we'd better avoid the sewers from now on...+If the Commander's forces had arrived any later, we might really have gone to a watery grave.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Actually, what bothers me more is the "guardian angel" that Mr. K was talking about...+They managed to open a door that even I couldn't remotely operate...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So you're saying...someone else saved us yesterday?
+RO635(0)<Speaker>RO635</Speaker>||:I'm not too sure... Ah, hang on, there's an incoming transmission.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Still there, RO? Could you bring that briefcase to the comms room? Also, the Commander said to let SOP-II come along as well.</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Roger. Let's go, SOP-II. We've got a new mission.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>8</BIN>:What's this briefcase?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:We've activated it the way Mr. K told us to. What's this...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What the heck...it's just a holographic map and a bunch of coordinates.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:There are way too many coordinates, no matter how you slice it... Do we really have to dispatch Dolls to each of them?
+RO635(4)<Speaker>RO635</Speaker>||:We have to send someone to every one of them? That would pretty much scatter them across the entire city, isn't this a bit too...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Is that Mr. K's request? He's clearly treating us like tools! Does he want to turn us into walking security cameras?!
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:(Groans) That said, he does have information on Ange, and everything we are about to do will help her.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ehhh? You've got news about Ange?!
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:All we know is that "she's carrying out a mission in this city" and that she needs our help.
+RO635(3)<Speaker>RO635</Speaker>||:Ange...is also in Belgrade...?+So...our presence here isn't a coincidence...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:If Ange's here, then are M4 and AR-15 also...+...+But if they're here, then why didn't they contact us?+There are a lot of ways to communicate securely, right?
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Don't get worked up, SOP-II.+As long as we do what we are supposed to, we'll meet them eventually.
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I just feel like...+I haven't really thought about what I should say if I end up meeting the others again.
+RO635(0)<Speaker>RO635</Speaker>||:It's still too early to think about such things, SOP-II.+Also, what will we be doing next, according to Mr. K's plan?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Er...um...disguise yourselves as humans, and chill...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:So we're going to be walking security cameras after all!
+()||<黑屏2><BIN>166</BIN>:...
+P22(0)<Speaker>P22</Speaker><通讯框>||:<color=#00CCFF>Hailing Commander, our forces are in position.</color>+<color=#00CCFF>We're preparing for the infiltration.</color>
+Lewis(0)<Speaker>Lewis</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>We're in position too, haven't encountered any obstacles for the moment.</color>+<color=#00CCFF>Hehe, as I thought, humans don't go out of their way to give good-looking girls trouble.</color>+<color=#00CCFF>Still, are you sure we have to put away our weapons before entering the indicated district?</color>+<color=#00CCFF>It doesn't feel safe...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2><BIN>8</BIN>:The last two echelons are in position. That means everyone's reached their appointed coordinates, and their weapons have all been hidden away. What should we do next, Commander?
+()<Speaker>Commander</Speaker>||:We'll wait for K's next request.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Understood.+Still, why would Mr. K want us to go to these places?+They're all residential areas or shopping districts, it doesn't seem like there are any high-value targets there...
+()<Speaker></Speaker>||:...Click.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Commander, you moved faster than I expected.</color>+<color=#00CCFF>My opinion of Griffin has been favorably revised.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:No need to sweet-talk us at a time like this.+I'm sure what we're doing isn't as simple as having a bunch of Tactical Dolls stand by the side of the road, am I correct?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I like I.O.P. products very much. Having one next to you feels like being in the company of a real person.</color>+<color=#00CCFF>And sometimes, kindness can be a weapon in its own right.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:...Is that why you asked the Dolls to hide their weapons, in order to make them look more like ordinary human beings?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>That's because our enemy might be more human-like than us.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:So you're saying, the white enemies...are already lying in wait at those coordinates?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Commander, don't you need more information about Ange? Consider this operation the price for learning about her.</color>+<color=#00CCFF>Find those white bastards and wipe them out before it's too late.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:But if the enemy's already infiltrated these streets, doesn't that mean they're already among the humans and the civilian Dolls?+There's no way we can tell who's a hidden enemy under these conditions!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>The briefcase contains a database containing the White Faction signal markers we've encountered so far. Send it to your Dolls.</color>+<color=#00CCFF>Once you scan anyone who matches those markers, force a connection and fry their neural clouds.</color>+<color=#00CCFF>If you meet any tricky opposition, let RO and SOP-II handle it. They should have enough experience with that after yesterday.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:...+How did you know that RO and SOP-II have experience in picking out hidden enemies?
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>Oh, don't frown at me like that, Commander. Obtaining information is my job.</color>+<color=#00CCFF>Especially...information about you.</color>

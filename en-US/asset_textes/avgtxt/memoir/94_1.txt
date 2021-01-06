@@ -1,0 +1,42 @@
+97typeS(0)<Speaker>Type 97S</Speaker>||<BGM>BGM_Sunshine</BGM><BIN>18</BIN>:Hey, isn't that 64? Where are you going?
+64type(0)<Speaker>Type 64</Speaker>;97typeS(0)||<BIN>18</BIN>:Oh, nice to meet you, Miss Hawk. +I was just about to head to the kitchen.
+64type(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>18</BIN>:The kitchen? +Aiya...there's only one thing you could be after if you're going there...+Do you have goodies in that box of yours?
+64type(0)<Speaker>Type 64</Speaker>;97typeS(0)||<BIN>18</BIN>:Well...
+64type(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>18</BIN>:Quit beating around the bush! Hurry up and tell me! +I won't let you go until you do!
+64type(0)<Speaker>Type 64</Speaker>;97typeS(0)||<BIN>18</BIN>:Mm... +Do you remember the resupply we got several days ago? +This is some of the fresh meat that was left over after the supplies were allocated. +Class Rep asked me to make lapcheungs out of it so it would last longer.
+64type(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>18</BIN><震屏>:What?! It's one thing to make them into lapcheungs, but having you do it? +No way! +How could Class Rep make that decision on her own?! I'm going to find her!
+64type(0)<Speaker>Type 64</Speaker>;97typeS(0)||<BIN>18</BIN>:But Miss Hawk...
+64type(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>18</BIN><黑屏1>:Deciding how to handle leftover meat ought to be done through a democratic vote! +64, put the meat in the fridge first, we'll go find Class Rep together!
+97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Empty</BGM>:Class Rep! Class Reeeeeep!
+M99(0)<Speaker>M99</Speaker>;97typeS(0)||<BIN>82</BIN>:What's all this racket... +What's the matter, Hawk?
+M99(0);64type(0)<Speaker>Type 64</Speaker>||<BIN>82</BIN>:Class Rep, I tried my best to stop Hawk, but she insisted on looking for you...
+M99(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN>:Class Rep, is it true that you asked 64 to make lapcheungs?!
+M99(0)<Speaker>M99</Speaker>;97typeS(0)||<BIN>82</BIN>:Yes, I did. They'll keep for longer and they're more convenient to carry on missions. Is there a problem?
+M99(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN><BGM>BGM_Sneak</BGM>:64's lapcheungs are salty! How many people other than you and 64 like that taste? +Did you ask the rest of us when you made that decision? +Our squad agreed beforehand that we would vote on any issues which concerned the interests of the group!
+M99(0)<Speaker>M99</Speaker>;97typeS(0)||<BIN>82</BIN>:It's just some leftover meat, is it really such a big deal...?
+M99(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN>:What do you mean by "just some leftover meat"?! +It's MEAT, a rare provision we only get every fortnight!
+M99(0)<Speaker>M99</Speaker>;97typeS(0)||<BIN>82</BIN>:But you had a big meal just now, so why are you so hung up on that...
+M99(0)<Speaker>Type 64</Speaker>;97typeS(0)||<BIN>82</BIN>:Precisely, Miss Hawk... Please don't make things difficult for the Class Rep.
+M99(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN>:Class Rep, are you saying you intend to overthrow our democracy because of your selfish desire for salty lapcheungs?
+M99(0)<Speaker>M99</Speaker>;97typeS(0)||<BIN>82</BIN>:Is there a need to make such a mountain out of a molehill...?+And while I DO like salty lapcheungs, I only suggested that for the ease of preservation...
+M99(0);64type(0)<Speaker>Type 64</Speaker>||<BIN>82</BIN>:Since Miss Hawk's so adamant on it, why don't we gather everyone for a vote, Class Rep?
+M99(0)<Speaker>M99</Speaker>||<BIN>82</BIN><黑点1>:...Eh, sure.
+()||<BIN>82</BIN><黑点2>:One hour later.
+M99(0)<Speaker>M99</Speaker>||<BIN>82</BIN>:The results of the vote are an even split when you include mine.
+M99(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN>:We of the sweet sausage faction won't give in so easily.
+M99(0)<Speaker>M99</Speaker>||<BIN>82</BIN>:I just knew it'd end up this way... +Therefore, in keeping with our squad's traditions, we will settle this through a trial by combat.
+64type(0)<Speaker>Type 64</Speaker>||<BIN>82</BIN>:...A-a duel again?
+64type(0);97typeS(0)<Speaker>Type 97S</Speaker>||<BIN>82</BIN>:Hehe, backing out then, Milady?
+64type(0)<Speaker>Type 64</Speaker>;97typeS(0)||<黑屏1><BIN>82</BIN>:While I don't like exerting myself... +But since this is what Class Rep has decided, I'll do my best too!
+()||<BIN>73</BIN><黑屏2><BGM>BGM_Empty</BGM>:...That afternoon, all the Dolls take part in an exercise in the practice yard.
+64type(0)<Speaker>Type 64</Speaker>||<BIN>73</BIN>:...I'm so tired. +I'm not good at athletic endeavors after all.
+64type(0);M99(0)<Speaker>M99</Speaker>||<BGM>GF_Memorial</BGM><BIN>73</BIN>:64, are you alright?
+64type(0)<Speaker>Type 64</Speaker>;M99(0)||<BIN>73</BIN>:I'm fine, Class Rep. I'm just a little sore because I tripped and fell just now.+Is the exercise over?
+64type(0);M99(0)<Speaker>M99</Speaker>||<BIN>73</BIN>:Yes... +64, I'm sorry to be the bearer of bad news. +You won't be able to make salty lapcheungs this time...
+64type(0)<Speaker>Type 64</Speaker>;M99(0)||<BIN>73</BIN>:I see... Is it because our team lost? +If only I hadn't dropped out so early...
+64type(0);M99(0)<Speaker>M99</Speaker>||<BIN>73</BIN>:It's not your fault, 64. +Hawk's team was more hungry for victory this time round.
+64type(0)<Speaker>Type 64</Speaker>;M99(0)||<BIN>73</BIN>:Class Rep... I know I have great shortcomings. +At this rate, I might lose something far more important than just cooking privileges.
+64type(0);M99(0)<Speaker>M99</Speaker>||<BIN>73</BIN>:You-you're actually thinking that far ahead?+Well, you were always the melancholic type, 64...+Still, that's fine. You still have time to train yourself...+Don't lose to Hawk and the others next time!
+64type(0)<Speaker>Type 64</Speaker>||<BIN>73</BIN>:Yeah...my thoughts exactly. +Thank you, Class Rep.
+()||<BIN>73</BIN>:...
+64式()<Speaker>Type 64</Speaker>||<BIN>73</BIN><黑屏1>:This feeling...is it frustration? +I...I need to work harder!

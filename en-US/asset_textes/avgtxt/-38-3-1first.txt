@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>???</Speaker>||<黑屏2><BIN>98</BIN><BGM>BGM_Battle</BGM>:Commander? +What are you doing here? +Stay down; there are still some enemies left!
+()||:Someone grabs me by the shoulder and shoves me behind a half wall. +As the guns keep firing, I instinctively press my body as close to the ground as possible. +A few gunshots from next to me are followed shortly by grunts and yaps from some distance away, then the crossfire finally seems to abate. +As my vision is slowly restored, I realize I'm still at the same hotel – or more specifically, at the same location where the hotel used to be. +I'm absolutely certain I haven't moved from the spot, but everything around me is now a scene of utter desolation; the once sophisticated restaurant has been reduced to a pile of rubble. +Rico is nowhere in sight. Instead I'm looking at a familiar face—
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:It really is you, Commander! +How did you appear next to me out of nowhere?
+()<Speaker>Commander</Speaker>||:SPAS? +You changed your clothes?
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Huh? What are you talking about?
+()<Speaker>Commander</Speaker>||:Maybe it was just my imagination...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Anyway, are you here to get me out, Commander?
+()<Speaker>Commander</Speaker>||:Well...kind of?
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:I'm...so sorry! I will never steal ingredients from the kitchen ever again! +Can you please end the combat simulation already? I swear I'll repent! Please, I'll do anything!
+()<Speaker>Commander</Speaker>||:Sorry to disappoint. I also want this to be over, but unfortunately, this isn't a combat simulation.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:So it's true... +I was starting to get confused 'cuz these random enemies keep charging at me. It's already been an entire day. It's way too harsh even for my punishment...
+()<Speaker>Commander</Speaker>||:A day?
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Yeah, I've been fighting the whole time without eating anything... +Thank goodness I'm on Level II so I haven't run out of power yet. I've been able to keep going by scavenging for weapons and ammo from the enemies.
+()<Speaker>Commander</Speaker>||:So you've been holding them off this whole time?
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Yeah, there's no other way. +The enemies aren't particularly strong, but there are so many of them, and they keep yelling "Death to the Five Republics" or something. The whole thing is just so weird...
+()||:SPAS complains as she reloads her shotgun with 12-gauge shells.
+NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, do you copy?!</color>
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Is that Miss Kalina?!
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Oh, lovely. So you've met up with the Commander.</color>
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:I don't actually know how that happened. The Commander just appeared with a "boom".
+NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>"Boom"?</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>That's not important. What happened?</color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Right, let's get down to business.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>The thing is, I've run into some difficulty while trying to interfere with this virtual space. For some reason, I can't seem to cut off the Doll's processing power completely from out here.</color> +<color=#00CCFF>I'm trying to bypass the authorization restriction, but that's gonna take time.</color>
+()<Speaker>Commander</Speaker>||:I knew it. It won't be that simple as long as the subroutines are in place.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Interfere with the space? Subroutines? What's that all about, Commander?
+()<Speaker>Commander</Speaker>||:We're talking about how to get you out of here.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Oh...
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>So I'm still in the same simulation?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Yes, but I did manage to partially weaken the power stream, so that's probably why SPAS is now visible to you?</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>You mean she was hidden deliberately before?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Her neural cloud is the source of this simulation, after all. SPAS, do you remember how you ended up in there in the first place?</color>
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Hmm... I don't think so... The moment I came to my senses, the enemies were already charging at me. +I've been fighting since then, until the Commander suddenly appeared next to me.
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That proves my hypothesis. There's a connection between you and the Dolls, so you naturally re-materialized right next to SPAS when I meddled with the controls.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>But the place got burned down all of a sudden. What should we do now?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>With the simulation compromised, Rico must be disoriented. The operational logic of this place is disintegrating, that's why inexplicable things keep happening.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Like how a nice dream suddenly turns into a nightmare?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Exactly. I'll do my best to cut off the remaining computational support this simulation is getting ASAP. Then hopefully you'll be able to get out of there.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Understood. Make it as quick as you can.</color>
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Wait... Watch out!
+()||:While the Commander is busy talking with Kalina, SPAS suddenly notices that something is amiss and lets out a cry.
+()||<SE1>AVG_rifle_finalshot_n</SE1>:Bang!
+()||:A gunshot.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Oof...!
+()<Speaker>Commander</Speaker>||:Are you okay?
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:I'm fine. +Good thing I saw that...
+()||:SPAS raises her shield to show the new bullet dent on its surface. Then she raises her weapon and takes aim at a figure hiding in the shadow.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:Hold on!
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Huh?
+()<Speaker>???</Speaker>||:Why are you siding with the enemy, Signore Jean?
+()<Speaker>Commander</Speaker>||<BGM>GF_xGS2_17</BGM>:Ri...co?
+()||:The figure grows clearer. It's Rico, still in her waitress uniform. +However, instead of delicate drinkware, she is now holding a weapon. +Her expression also matches the description in the files. +This is Rico the Cyborg.
+()||:There is no trace of the innocence that she's shown before. Right now, her eyes are gleaming with sheer ruthlessness. +Her malice doesn't frighten me. All I feel is the wistfulness that her happy life has been completely shattered.
+()<Speaker>Commander</Speaker>||:Rico... Where did you get the gun?
+Rico(4)<Speaker>Rico</Speaker>||:Have you forgotten, Signore Jean? +No matter what I want, I can always have it in here.
+()<Speaker>Commander</Speaker>||:Why would you want such a thing...?
+Rico(4)<Speaker>Rico</Speaker>||:Wasn't it you who first put a gun in my hand, Signore Jean? +The moment I wrapped my fingers around this gun, I realized everything around me has been a farce. I have no place in here.
+()<Speaker>Commander</Speaker>||:I'm sorry, Rico...
+Rico(4)<Speaker>Rico</Speaker>||:Why are you apologizing? You did nothing wrong, Signore Jean. +You told me that I would always live a happy life. +I did hesitate when everything started falling apart, but then I understood – you would never lie to me. +Because now I've remembered what my true happiness is.
+()<Speaker>Commander</Speaker>||:What...
+Rico(4)<Speaker>Rico</Speaker>||:I felt empty because none of it was real. +The only thing that would make me happy is fulfilling your wish – eliminating all your enemies.
+()||:With that, Rico fires another round straight at SPAS' forehead. SPAS quickly ducks behind her shield, which is still thankfully quite robust.
+Rico(4)<Speaker>Rico</Speaker>||:I know this must be a mission. You're testing me, aren't you? +I remember you once told me I must kill whoever sees me while I am on duty.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||:Commander... What...what should we do...? +I can hear footsteps. Enemy reinforcements are approaching fast.
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Kalin, it seems we have no choice but to fight. Will our attacks harm Rico in here?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Yes, so you must NOT engage Rico in battle!</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>But it doesn't look like she'd let SPAS live.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Since the computational support is steadily weakening, her memories of this place are getting mixed up with her original memories. Like I said, her mind is in complete disarray!</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Then what should we do?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Wipe out everyone else who's trying to kill you and wait for me to shut it down!</color>
+()<Speaker>Commander</Speaker>||<黑屏1>:You heard that, SPAS! Brace your shield; we have a defensive battle to fight!

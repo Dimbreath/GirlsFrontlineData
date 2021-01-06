@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Danger</BGM>:...
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>Extermination complete. The last signal just disappeared.</color> +<color=#00CCFF>RO, do you copy?</color>
+()<Speaker>RO635</Speaker>||:I—(gurgle)—copy. Can you please—(gurgle)—open the—(gurgle)—floodgate?
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>There are no gate controls over here though?</color>
+()<Speaker>RO635</Speaker>||:Dammit... The control terminal—isn't at their command center? +At least re-establish the external connection now that they're wiped out—
+()<Speaker>M4 SOPMOD II</Speaker>||:Arghhh... Stop wriggling, RO! I'm gonna fall into the water!
+()<Speaker>RO635</Speaker>||:I can imagine a hundred different ways to die...but I never once expected to die from shorting out because of water... +I must ask Persica to make my next body super waterproof...
+()<Speaker>M4 SOPMOD II</Speaker>||<CGDelay>0.2</CGDelay>:Hey, don't give up just like that! You can backup your neural cloud if you short out, but unlike you, I can't get a new body!
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><BGM>BGM_Empty</BGM>:Suddenly, a floodgate in the distance slides open. Water starts flowing out immediately and the water level gradually falls.
+()<Speaker>RO635</Speaker>||<BGM>BGM_Truth</BGM>:Huh? The gate...opened on its own?
+()<Speaker>M4 SOPMOD II</Speaker>||:Has Mk46 found the switch? Ugh...the water stinks... I can't stand it. How do I switch off my olfactory system...?
+()<Speaker>RO635</Speaker>||:Can you climb off my head first...?
+()<Speaker>M4 SOPMOD II</Speaker>||:But the water isn't completely gone yet. Let me stay up here for a while!
+()<Speaker>??</Speaker>||:In the end, the problem was solved by annihilating all enemies. How characteristic of a certain famous Griffin Commander.
+()<Speaker>RO635</Speaker>||<CGDelay>0.3</CGDelay><黑屏1>:That voice... +Mr...K?
+NPC-Jason(0)<Speaker>K</Speaker>||<BIN>167</BIN><黑屏2>:Very good. At least you didn't call me "Mr. Informant" again.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:You have my thanks. +Was it you who saved us?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Me? No, I'm just a regular human being. +The floodgates can only be activated by either the control panels or an off-site hack. I can't be in two places at the same time, and electronic warfare isn't my strong suit.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Then who...?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Thank your guardian angel. You'd have been dead back in the alleys if it hadn't been for them.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Guardian...angel?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:As I said, we could have a proper chat if you survived. Now we can talk.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:I suppose that doesn't really matter right now... +Then...uh, do you know where Angelia is?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Are all Griffin Dolls so impatient? Shouldn't we start with the most immediate question?
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:...Then... How do you know the sewers so well, Mr K?
+NPC-Jason(0)<Speaker>K</Speaker>||:Marlohe, verify their remains.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Yes, sir.
+NPC-Jason(0)<Speaker>K</Speaker>||:I'll answer your questions on one condition. +I'd like to take some samples from the enemies you killed. That's what my information is worth. Well? Quite a bargain, don't you think?
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Commander...right... Okay, I accept your terms. Now, can you answer my previous question?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:The sewers are my escape route. I know them like the back of my hand, right down to where every single rat is. I've got to admire their persistence for chasing me this far. +I've been investigating these white things for a while now, that's why they were onto me. +I was going to draw them into the sewers and make a stealthy exit, but since you honored me with a visit, I might as well take it even further. After all, opportunities to obtain samples are hard to come by.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Who exactly...are those white enemies...?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:We'll have to ask their remains. Unlike you Dolls, there's some human – or should I say human parts – under all that machinery.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Human?!
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Of course, you don't have to feel guilty for firing at them. The human in there died long ago. They are driven by the power of their "faith".
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:F...faith...? I'm afraid I don't follow.
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:That's right, faith. At least that's what they proclaim. +Of course we all know that's a load of bullcrap, but it's practically a miracle to their followers.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Followers... You mean these "people" believe in something and start moving again after they die... Sounds almost like a cult...
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:To people beyond the wall, contracting the Eurosky Low-emission Infectious Disease is basically a death sentence. +Whoever claims to be able to cure the disease will be lauded by the truly desperate.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:ELID? I've seen those...
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:If a person in despair is shown a sliver of hope, their desire to live can give them extraordinary power. This extraordinary power can be very easily exploited. +As long as they can live another day, it doesn't matter if they get stuffed into a mechanical shell and forced to toil away even after they die.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:So...someone's been exploiting people's despair and formed a cult... +Then through the cult...they built their own army...?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Humph...cult, you say? I haven't really gotten to the bottom of it all, but I bet you aren't too far off. +No background, state-of-the-art weapons, soldiers who don't fear death. Doesn't that sound horrific?
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:...
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:A year ago, there was suddenly a drastic increase in the number of missing people in the Yellow Zone; at the same time, the outlying areas also saw increased violent gang activities. +Six months later, the number of missing people still showed no sign of decreasing, but gang activities started going down. +The PMC in charge of the security in the area was really pleased about that, but they didn't realize that signified the rise of a new syndicate.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:We fought them a few months ago, but I never thought they'd be an organization like that... Who exactly are they? What are they after...?
+RO635(0);NPC-Jason(0)<Speaker>K</Speaker>||:Oh, that incident. I'm honestly surprised you even survived that. +Still, you withdrew in such a rush, everything was neatly buried by the time it was over. +No one can tell what they're after. All I know – it is no coincidence that they're here in Belgrade, just as it is no coincidence that you're here.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Jason(0)||:It is no coincidence...that we're here...
+NPC-Jason(0)<Speaker>K</Speaker>||:Take this. My gift of goodwill to Griffin.
+RO635(0)<Speaker>RO635</Speaker>||:What's inside this briefcase?
+NPC-Jason(0)<Speaker>K</Speaker>||<CGDelay>0.2</CGDelay>:Something that may prove useful for your next operation.
+()<Speaker>K</Speaker>||<黑屏1>:Oh, and Commander? I know you're monitoring our conversation from your terminal. +I don't know what you look like, but from the way you handled the situation, I understand why so many fear you. +However, while in this city, you won't want me as an enemy, just as I don't want you as an enemy – for the time being.
+()||<黑屏2><BIN>9</BIN>:In any case, my regards. +Should I say... "A pleasure to meet you," or "Welcome to Belgrade"? +I've been waiting for you.
+()<Speaker></Speaker>||<黑屏2>:Now then... +Angelia... Let me tell you about her adventures. +Where would you like me to start?

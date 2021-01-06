@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:
+()||:...In the end, Task Force DEFY decided to give up on finding the mark left by the rescue party, but the withdrawal is still underway.
+AN94(3)<Speaker>AN-94</Speaker>||:The contamination index is significantly lower here. Though Ange is not entirely out of danger, her life is not under any immediate threat.
+AK12(4)<Speaker>AK-12</Speaker>||:Congratulations, Ange. You get to live a little longer.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I don't feel particularly good, but if that's the case...
+AN94(0)<Speaker>AN-94</Speaker>||:Since we cannot locate the rescue party's mark, our only choice is to proceed in the direction where the contamination is lower.
+AK12(0)<Speaker>AK-12</Speaker>||:Or find a chance to send a distress signal for the rescue party to get in touch.
+AN94(0)<Speaker>AN-94</Speaker>||:That is too dangerous right now. We are surrounded by military forces. +Not to mention the ELIDs, who are attracted by the slightest rustles. If reinforcements do not arrive on time, we will not be able to handle the situation with just the two of us.
+AK12(0)<Speaker>AK-12</Speaker>||:(Sighs) You're always so conservative, AN-94.
+AN94(0)<Speaker>AN-94</Speaker>||:When it is uncertain where the alternative will lead us, I prefer the current option.
+AK12(0)<Speaker>AK-12</Speaker>||:The choice isn't yours to make. Ange, take your pick.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I... Let me think...
+AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Wait, I hear something!
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Military units! They're heading straight toward us!
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:There is an abandoned trench just ahead. Get Ange in there first!
+()||<闪屏><duration>5</duration></闪屏>:
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2>:...Boom! Boom!
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Hurry, Ange! We're here!
+()||<BIN>157</BIN><黑屏2>:...Under the military's bombardment, Task Force DEFY dive hastily for cover.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:(Pants) Goddammit! +Looks like we don't have much of a choice. AN-94, launch the signal flare!
+AN94(2)<Speaker>AN-94</Speaker>||:Roger!
+AK12(2)<Speaker>AK-12</Speaker>||:How did they find us so soon? We shouldn't have left any traces!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:These maneuvers are planned...unlike before!
+()||:<color=#00CCFF>...Pzzt...pzzzzt.</color>
+()<Speaker>??</Speaker>||:<color=#00CCFF>Angelia...</color> +<color=#00CCFF>I knew you wouldn't disappoint me.</color>
+()||<SE2>Gunfight</SE2>:...Over the sound of gunfire and static, a male voice speaks clearly over the communicator's public channel.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>You survived the explosion...only to give me the chance to kill you with my own hands.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:Yegor... +You don't look much better yourself...
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>I am feeling tremendous. I just finished making the preparations, and there you are.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:You had it all planned?
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>There aren't many routes toward the Green Zone. If you're alive, you'll definitely show up here.</color> +<color=#00CCFF>You won't last much longer with that infection. Why not just give up?</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:Why don't YOU give up mourning for your zombie comrades?
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>Good. I'll make sure you don't die from artillery fire.</color> +<color=#00CCFF>Then I can find you and avenge my subordinates myself!</color>
+()||:...Ange closes the channel.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:He's sending in tanks! Hold out till the rescue party makes it here!
+AK12(2)<Speaker>AK-12</Speaker>||:Are you sure they'll come?
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker><Shake>||<黑屏1>:If not, then we'll just die! Hurry, cough! +Use whatever you can to hold this trench!
+()||<黑点2><BIN>10</BIN>:

@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>240</BIN><黑屏2><BGM>m_wv_title</BGM>:An hour later. +A lone MDR checks the time and starts making her way back to the church. +Right then, it starts raining heavily outside the mansion, and her investigation comes to a halt.
+MDR(0)<Speaker>MDR</Speaker>||<SE1>AVG_Rain2</SE1>:That was close. Damn, it's really pouring. Thank goodness it was still dry when we arrived. +Though I bet we'll still be dripping wet by the time we finish.
+MDR(0)<Speaker>MDR</Speaker>||:Detective game or not, it really feels like I'm in one. +A mysterious mansion on lockdown due to heavy rain... All we're missing is a murderer and a victim.
+MDR(0)<Speaker>MDR</Speaker>||:The more I find out about this place, the more fascinating it becomes. To be honest, this sense of intrigue is pretty irresistible.
+MDR(0)<Speaker>MDR</Speaker>||:The mansion shows no sign of being inhabited, but every single room is clean and well-cared for. +Come to think of it, it's such a waste! Maybe I should just move in myself.
+MDR(0)<Speaker>MDR</Speaker>||:I wonder how it's going for the others. If they can't find any residents either...this could actually be a haunted house. +Jokes aside, I gotta admit the existence of ghosts is pretty scary. +But that church really is something. If I could say my vows there...
+MDR(0)<Speaker>MDR</Speaker>||:Oh, I was just thinking if I'd be the first to come back here. Didn't expect you to beat me to it, Cap!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||<BGM>BGM_Empty</BGM>:Hush.
+MDR(0)<Speaker>MDR</Speaker>||<BGM>BGM_Room</BGM>:...Is something wrong?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:I'm glad you made it back in time, MDR. We've been waiting for you.
+MDR(0)<Speaker>MDR</Speaker>||:"We"? +...Damn, I didn't notice you two were here as well. +Turns out I'm the last, eh?
+56-1type(0)<Speaker>Type 56-1</Speaker>||:...
+G36C(0)<Speaker>Gr G36c</Speaker>||:...
+MDR(0)<Speaker>MDR</Speaker>||:Why are y'all looking so serious? And why are you standing so far away... +...in that formation? Is something not right with the church?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Type 56-1 heard an unnatural noise on her way back here. +We seem to have discovered some unwelcome guests while we were spread out doing our own investigation. +There are around four of them. We're not certain whether they're armed.
+MDR(0)<Speaker>MDR</Speaker>||:Could you identify them?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:We didn't have time. We've only just regrouped ourselves. +It's unwise to initiate contact before figuring out the situation.
+MDR(0)<Speaker>MDR</Speaker>||:So what are we gonna do now? Do we ambush them?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:No...we can't be absolutely sure that they're hostile. +They could just be civilians seeking shelter from the rain.
+MDR(0)<Speaker>MDR</Speaker>||:Then why don't I just walk in there and say hello? +I know it's not a bad thing to be cautious, but we'll never get the job done if we keep dragging our feet.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:True, it won't do to let this drag on. +Watch out for cover and your own safety. If you run into any trouble, retreat at once.
+MDR(0)<Speaker>MDR</Speaker>||:Alright, alright. +How strange. Most people would be really excited when they see such things. Their silence is honestly rather unsettli-
+()||:Click...
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Watch out!
+56-1type(0)<Speaker>Type 56-1</Speaker>||:Get down!
+()||<SE1>Explode</SE1>:BOOM!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:That's a grenade... Gr G36c!
+G36C(0)<Speaker>Gr G36c</Speaker>||:Enemy units detected.
+56-1type(0)<Speaker>Type 56-1</Speaker>||:They're exploiting our blind spot and have us surrounded... Smart, but not smart enough! +We've trained for this!
+()||<SE2>Gunfight</SE2>:With lightning-quick reflexes, Type 56-1 aims at the crack at the door, flares flashing from the muzzle of her gun. +The ones on the other side of the door return fire immediately, but are suppressed by Gr G36c's hail of bullets coming from the side.
+MDR(0)<Speaker>MDR</Speaker>||:Wait, wait, wait! +The hell are you doing? The mansion was in such good shape! Now you're trashing it!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Cease firing. +Gr G36c, Type 56-1, lower your weapons.
+56-1type(0)<Speaker>Type 56-1</Speaker>||:Huh?
+G36C(0)<Speaker>Gr G36c</Speaker>||:...
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:You're Tokarev, aren't you?
+()<Speaker>???</Speaker>||:That sounds like...
+()||:The attack from behind the door also stops.
+TT33(0)<Speaker>Tokarev</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:...Miss Lee Enfield?
+()||<BGM>m_wv_title</BGM><黑屏2>:...
+TT33(0)<Speaker>Tokarev</Speaker>||:I didn't know the Commander sent another team to investigate.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Same here. The Commander didn't say a word about you. +But if you're sent as reinforcements, it makes no sense to not mention us at all.
+TT33(0)<Speaker>Tokarev</Speaker>||:We were carrying out a mission in the area and only made our way here on short notice about an hour ago. +Thanks to that, we managed to stay out of the rain.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:What 56-1 said is correct. We have undergone this training before, so I deduce that the enemy is friendly. +Your anti-encirclement tactics are a fine example, as this kind of tactical formation is unique to Griffin & Kryuger. Furthermore, only you are able to perform it this magnificently among all the Griffin T-dolls.
+TT33(0)<Speaker>Tokarev</Speaker>||:Is that so.
+MDR(0)<Speaker>MDR</Speaker>||:Still, why would you throw a grenade? Are you outta your freakin' mind? We're indoors! +Dammit, I'm gonna roast you on the anonymous forum when this is over!
+StenMK2(0)<Speaker>STEN MkII</Speaker>||:What's the point of making it anonymous when you've already said it out loud in person... +And it's all because you guys were trying to hack the door with your sneaky electronic signals! You gave Papasha a real scare, of course she would think you were enemies!
+PPSh41(0)<Speaker>PPSh-41</Speaker>||:Wha...?! I did NOT!
+MDR(0)<Speaker>MDR</Speaker>||:So they ARE telling the truth when they say you're hot-headed!
+PK(0)<Speaker>PK</Speaker>||:Enough... It was our fault. +You see how Miss Lee Enfield kept her cool and held back the attack? +It was not nice of you to just lob a grenade over, Sten.
+StenMK2(0)<Speaker>STEN MkII</Speaker>||:I guess this spooky place is getting to me...
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Gr G36c?
+G36C(0)<Speaker>Gr G36c</Speaker>||:There's no signal connection here, I can't contact the commander.
+TT33(0)<Speaker>Tokarev</Speaker>||:Same here. We've lost all communication ever since we got here. +We can't even ask for our next directive.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:We noticed it started raining outside when we were scouting around. It's coming down hard and there's even thunder. +That could be the cause of the signal interference.
+()||<SE1>AVG_Rain2</SE1>:(Crash!)
+PPSh41(0)<Speaker>PPSh-41</Speaker>||:AAAACK!
+56-1type(0)<Speaker>Type 56-1</Speaker>||:Calm down, comrade!
+()||:Snap...
+MDR(0)<Speaker>MDR</Speaker>||:Whoa! We're having a blackout!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Don't panic. +The lightning probably caused an electrical outage. +Tokarev, take someone with you and we'll check the power distribution together. The rest of you, be on the lookout. +MDR, you're the most adept at electronic warfare. Try to figure out the situation while waiting for us to get in touch.
+MDR(0)<Speaker>MDR</Speaker>||<黑点1>:Okie-doke!

@@ -1,0 +1,78 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>214</BIN><黑屏2><BGM>BGM_Moon</BGM>:...In the Griffin base, outside Architect's room. +A Dinergate rushes in and jumps onto the desk before pushing the present it's been entrusted with through the supply port. +It runs off right after that, as though it has sensed the angry cries in the distance. +Architect curiously picks up the gift and examines it...
+()<Speaker>Architect</Speaker>||<黑点1>:Haha, you really do have a gift for me every year, my dear Lady Knight. +Unfortunately, I won't be able to give you a present in return this year either... +Still, Merry Christmas...
+()<Speaker></Speaker>||<BIN>7</BIN><黑点2><Night>:...Behind a shady corner near the Griffin base.
+BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>My plan succeeded, I'm heading over to the rendezvous point to wait for you.</color> +<color=#00CCFF>You've got 10 minutes to show up.</color>
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-7(0)<通讯框>||:What? Your plan succeeded?! +Wait a minute, I've lost contact with all my Dinergates...
+BOSS-6(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>An expected outcome.</color>
+BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>Hurry up and fall back. Griffin will find you if you stay there, and I trust you don't want to end up keeping that idiot company.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...The transmission ends.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||:B-but...
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Destroyer glances back and forth between the jet-black screen of her radar sensor and her chronometer.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||<BGM>GF_Memorial</BGM>:Ughhh... What should I do? +I'm out of time, and I don't have anything to show for a day's worth of hard work... 
+()<Speaker></Speaker>||:Destroyer flops down on the ground and starts crying loudly.
+()<Speaker>Commander</Speaker>||:Is someone crying?
+()<Speaker></Speaker>||<黑点1>:Destroyer hurriedly shushes herself and burrows into the nearest patch of vegetation.
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:She can hear the Commander's footsteps slowly approaching...
+BOSS-6(0)<Speaker>Destroyer</Speaker>||:Oh no... Is Griffin going to capture me too...? +I don't want to humiliate myself like Architect... +If Dreamer finds out, she'll make fun of me for years... +I might as well just blow myself up...
+()<Speaker></Speaker>||:The Commander's footsteps stop in front of a trembling bush that bulges in a strange way before smiling tiredly.
+()<Speaker>Commander</Speaker>||:Ahem. While I don't know where you're from, you sound like you haven't gotten a present. +As it happens, I have an extra one on me, so I'll leave it here. +Merry Christmas.
+()<Speaker></Speaker>||<黑点1>:Destroyer's eyes seem to blaze in the darkness, and she charges at the voice's source with a speed she's never shown before...
+()<Speaker></Speaker>||<黑点2><Night><BIN>7</BIN>:"Bonk—" +Destroyer's hard forehead collides with the Commander's chin, as the latter is kneeling in front of the bush...
+BOSS-6(0)<Speaker>Destroyer</Speaker>||:M-Merry Christmas!
+()<Speaker></Speaker>||<黑屏1>:While the Commander is still dazed from the collision, Destroyer takes advantage of this and speeds off with present in hand.
+()<Speaker></Speaker>||<BIN>161</BIN><黑屏2><Night>:...At the rendezvous point.
+BOSS-7(0)<Speaker>Gager</Speaker>||:And here I was thinking I wouldn't see you until after we captured the Griffin base.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-7(0)||:You should save your vivid imagination for making up an excuse to give to Agent.
+BOSS-6(0);BOSS-7(0)<Speaker>Gager</Speaker>||:... +So you managed to get that present you wanted so badly in the end? +Let's go. 
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-7(0)||:Yeah, but if we go back empty-handed after expending all these resources, won't Agent...
+BOSS-6(0);BOSS-7(0)<Speaker>Gager</Speaker>||:Don't worry.
+BOSS-7(0)<Speaker>Gager</Speaker>||:Besides, you won't remember anything once you wake up.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||<黑点1>:...
+()<Speaker></Speaker>||<BIN>7</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:...Near the Griffin base. The stricken Commander spends a long time in a daze before finally managing to get up.
+()<Speaker>Commander</Speaker>||:Which base was that Doll from, anyway? +Why does it feel like the whole world is out to get me today...
+()<Speaker></Speaker>||<BGM>m_19christmas_avg</BGM>:As the commander was halfway through muttering to himself, he hears Springfield call out from behind.
+()<Speaker>Springfield</Speaker>||:Commander?
+()<Speaker>Commander</Speaker>||<黑点1>:Hm?
+()<Speaker></Speaker>||<BIN>215</BIN><黑点2>:The Commander looks back and sees the T-Dolls all assembled in a lively gathering, with several of them under the Christmas tree—
+()<Speaker>Springfield</Speaker>||:Aren't you going to join us at the party? Everyone's waiting for you.
+()<Speaker>FAL</Speaker>||:Thanks for the scarf, Commander! +I like it a lot; I didn't expect you to have such good taste...
+()<Speaker>Gr G36</Speaker>||:Look, Commander! I love this—
+()<Speaker>SVD</Speaker>||:Don't move around, FAL. I'll cut off the tag for you. 
+()<Speaker></Speaker>||:The Commander smiles, then winces in pain before walking back to the others while cradling a swollen jaw. 
+()<Speaker>Commander</Speaker>||<黑屏1>:Alright, I'm coming.
+()<Speaker></Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:THE END.
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Inside the Command Center. +Kalina is double-checking the details of the base repair expenses with HQ.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||<BGM>BGM_Hello</BGM>:...+ Mm, bill it to Area S09's Commander. +Yes, it's still the same account.
+()<Speaker></Speaker>||:After putting down the phone, Kalina looks outside at the Commander, who's heading towards the base, and sighs from the bottom of her heart.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>|<黑屏1>||:Sorry about this, Commander...
+()<Speaker></Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:THE REAL END.
+()<Speaker></Speaker>||<BIN>81</BIN><黑屏2>:...At the lively Griffin base party. +As everyone is engrossed in opening and showing their presents off to each other, a sinister silhouette approaches the DVD player, which is currently looping some chill Christmas carols.
+KP31(2)<Speaker>Suomi</Speaker>||:I can't believe they're playing something so plain and boring even though it's Christmas. +A big event like this deserves music that's just as grand and spectacular!
+()<Speaker></Speaker>||:Suomi pulls out a death metal album with a black CD case from inside her coat, then gently slides it into the DVD player. +As she turns the volume all the way up and presses the play button, she can't help but whisper to herself—
+KP31(2)<Speaker>Suomi</Speaker>||<黑屏1>:Fire—!
+()<Speaker></Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:THE REAL REAL END
+()<Speaker></Speaker>||<Night><BIN>82</BIN><黑屏2>:...An explosion jolts Gr G11 awake from her dreams.
+G11(6)<Speaker>Gr G11</Speaker>||:Ugh... What's going on?
+()<Speaker></Speaker>||:Gr G11 rubs her eyes and climbs off the bed.
+G11(6)<Speaker>Gr G11</Speaker>||:Whoa— Where am I?
+()<Speaker></Speaker>||:Gr G11 squints and looks around.
+G11(6)<Speaker>Gr G11</Speaker>||:Um... isn't this the Commander's room? +Why am I sleeping here?
+()<Speaker></Speaker>||:Gr G11's eyes are drawn to the bill displayed on the monitor.
+G11(6)<Speaker>Gr G11</Speaker>||:What a long string of numbers... That's a lot of money! +That scary UMP45... Did she sell me to the Commander at last?
+()<Speaker></Speaker>||<黑屏1>:The abrupt sound of hasty footsteps outside the door startles Gr G11 so much she squeals and tries to flee through the window, only to crash into a warm embrace.
+()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN>:<color=#87CEFA>Where are you running, Gr G11?! You almost knocked me down!</color>
+()<Speaker>Gr G11</Speaker>||:Where did you guys go (sobs)—
+()<Speaker>UMP9</Speaker>||:<color=#FFA500>Hahaha, don't cry, take a look at this!</color>
+()<Speaker></Speaker>||:Gr G11 rubs her eyes and sees an out-of-print Undersea Zombie King action figure from "The Flying Dead"!
+()<Speaker>Gr G11</Speaker>||:Wooowww—
+()<Speaker>UMP45</Speaker>||:<color=#8B4513>This piece of merch costs as much as you'd make in ten lifetimes of working for me, not counting inflation and collectors' value. Which means, Gr G11—</color>
+()<Speaker></Speaker>||:Gr G11 doesn't wait for UMP45 to finish before she climbs onto 416's back.
+()<Speaker>Gr G11</Speaker>||:I know, I'll follow you forever...
+()<Speaker></Speaker>||:As everyone laughs, Gr G11 clings to 416's back, delighted with the figure in her hands...
+()<Speaker>Gr G11</Speaker>||<黑屏1>:Merry Christmas... Hehe...
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><白屏1><BGM>BGM_Empty</BGM>:THE REAL REAL REAL END.
+()<Speaker>???</Speaker>||<白屏2><BIN>142</BIN><BGM>BGM_Moon</BGM>:There really isn't anything else, Commander.
+()<Speaker>???</Speaker>||:You can stop tapping now.
+()<Speaker>???</Speaker>||:We're going to go celebrate Christmas—
+()<Speaker>???</Speaker>||<黑屏1>:Merry Christmas, dearest Commander!

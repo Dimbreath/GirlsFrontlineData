@@ -1,0 +1,57 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>：Twenty minutes later, M16 is at the connection terminal within the factory.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：Is the door still shut, M16?+Say...if it really doesn't work, can't you just use your arm as a bomb and blow the door open?
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||<BGM>BGM_Room</BGM>：So sorry, but I'm not a military Doll and am not equipped with such high-class parts.+But it shouldn't take too long to break the code with Sangvis access authorization.+Uh...I'm not sure why, but I just can't shake the feeling that I've done the same thing here before...
+M16(3);NPC-Persica(2)<Speaker>Persica</Speaker>||：So even T-Dolls get deja vus... Fascinating...+But do thank me. You have a much higher computational speed than military Dolls... Hacking through this kind of door should be a piece of cake.
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(2)||：Haha... Next time, I'd rather you make me dumber.+Then I wouldn't have second thoughts about heading to certain death...
+M16(0);NPC-Persica(0)<Speaker>Persica</Speaker>||：I didn't just make you to fight in battle.+Oh right, M16... I got in touch with RO and SOP-II.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Really...? That's great...+Go on. I'm listening.
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：They're in good physical condition, but emotionally...they're a bit dejected.
+M16(2)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：I know. Because I left them, and I deceived them.
+M16(2);NPC-Persica(0)<Speaker>Persica</Speaker>||：They haven't found out about the latter yet. RO is awake, and she's still waiting for you to come back.
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：(Sighs) You're SO good at cheering people up. Seriously, which of us is the T-Doll here...
+M16(0);NPC-Persica(3)<Speaker>Persica</Speaker>||：Sorry, M16... But do you like RO?
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：Compared to M4, she's more decisive, more ready for action, and more suited for the role of leadership in general.+She may be a bit headstrong, but nobody would fault her for that.
+M16(0);NPC-Persica(2)<Speaker>Persica</Speaker>||：I'm also very happy with this AI.+I don't plan on modifying her anymore. Let's just keep everyone on the AR Team the way they are.
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(2)||：Are you sure about that? SOP-II almost went berserk last time.
+M16(0);NPC-Persica(2)<Speaker>Persica</Speaker>||：That's...a necessary step along the way.+You don't hate her for that, do you?
+()||：M16 chuckles wistfully.
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(2)||：I'm just worried about her...+After all...there won't be much room for her to mess up from now on...
+M16(0);NPC-Persica(0)<Speaker>Persica</Speaker>||：Then do you want to leave them a message or something?
+M16(0)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：No, I have nothing more to say.+Just leave the rest to M4. I know she'll...
+()||：...Click!
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||<黑屏1>：Got it.+I'm going in, Persica.
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>：M16 wedges the door open and goes through cautiously.+...Then she gasps.
+Persica()<Speaker>Persica</Speaker>||：M16, what did you find?
+M16A1()<Speaker>M16A1</Speaker>||<黑屏1>：I'm not sure. Probably some sort of incubation facility...+To be honest, I won't be surprised no matter what I find in here.
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2><BIN>54</BIN><BGM>BGM_Boss</BGM>：The scene has been tidied up. Can't really tell what transpired here...+But...this place could've been used to raise...+A monster...? Nothing good, in any case.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：That's not important, M16.+Find the signal source. There must be something.
+ ()||：...M16 bends down and searches every corner of the incubation facility.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：I found the signal transmitter...+But I still can't discern the identification signature...+It's neither S.F. nor Griffin. My neural cloud contains no corresponding information about this.
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：So it's true... Someone HAS been there after the Butterfly Incident.+Check that transmitter.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：Sorry, I have given it a closer look, but it's just a normal transmitter.+There's nothing inside. I can't tell what this thing is for...
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：Which means...the key might be the room itself.
+ ()||：Persica ponders for a while.
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：M16, are there any monitoring devices in the room?
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Yes, but they're broken.
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：Then...could there be something to store the footages in?
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Give me a sec...+...Found it! There's an operation system in the corner with a large storage device underneath.+The system is off, but the indicator light is on, so it should still be functional.+If there are any CCTV footages, they'll most probably be in here...
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：There...must be recordings from that day...+Turn on the operation system and see if you can hack into it.
+ ()||：M16 brushes the dust away and turns on the operation system.+An electronic warning signal starts blaring from the system.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：It's not working. The system has been deadlocked by S.F. I can't read the content.+The authorization level is too high. I don't recommend breaking through with force.+If something goes wrong in the process, not only will we attract the enemy's attention, there's also a risk that the files would be destroyed.
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：As expected... The content is locked with the highest authorization code...+There's no other way, M16...+Looks like we'll have to resort to the backup plan...
+ ()||：...M16 takes out a transistor.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||<BGM>BGM_Empty</BGM>：You mean this?+Is it okay to inject it again? The last shot has already...made it really hard to control myself.
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||<BGM>BGM_Truth</BGM>：It may have been modified, but it's still the Parapluie virus after all...+The first shot you took in the database building only contains a minimal dosage of nanomachines.+They've only given you limited Sangvis authorization, and they're slow to rewrite your neural cloud.+If you can make it back in twelve hours, I can repair you...
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Why, thank you for formulating a plan that takes my wellbeing into consideration...
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：The virus was modified from the samples on AR-15.+Sangvis Ferri would notice you after the shot, but you'd still be pretty safe under the protection of the Commander's forces.+But this second shot...
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Humph... Won't be so mild, huh?
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：From what I've learned, the Parapluie virus was engineered with the purpose of rewriting T-Dolls' neural clouds and putting them under Sangvis control.+The damage to one's neural cloud, once inflicted, is irreversible.+Put it simply...the dosage contained in the second transistor is enough to turn you into a Sangvis T-Doll within a very short period of time.+Your personality, your memories, everything you possess now...will all disappear.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：And you want me to send you the data before I completely turn into a Sangvis.
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：...+I told you. From the moment this operation begins, there's no going back for you...+M16, you may live on after this, but you'll no longer be the "you" as you are now...
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：...+How much time will I have after the shot?
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：Twenty minutes.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：So...these are my last twenty minutes, eh...?
+M16(3);NPC-Persica(3)<Speaker>Persica</Speaker>||：M16A1, I only decided to go through with this operation after I made sure I was ready to pay the price.+What about you? Are YOU ready?
+M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(3)||：You should know what my answer is, Persica...+But just to confirm this one last time: are you certain that the content in this storage device can help restore M4's neural cloud?
+M16(3);NPC-Persica(0)<Speaker>Persica</Speaker>||：At least...this is definitely the last piece of the puzzle.
+M16(0)<Speaker>M16A1</Speaker>||<黑屏1>：Is that so...+Then it makes things much simpler.+So, shall we begin?

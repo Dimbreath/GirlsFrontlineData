@@ -1,0 +1,24 @@
+ ()||<BGM>BGM_Battle</BGM><BIN>3</BIN><Night>:Griffin troops arrived at a base.
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:Thompson, you've got a good field of vision over there. Have you picked your sniper?
+M1928A1(0)<Speaker>Thompson</Speaker>;M1911(0)||:M21, you're up. Give me some bullseyes.
+M1928A1(0);M21(0)<Speaker>M21</Speaker>||:Sure. But who should I aim for, the military or Sangvis Ferri?
+M1928A1(0)<Speaker>Thompson</Speaker>;M21(0)||:Now is not the time for jokes...+Still, seeing that you're a civilian T-Doll, occasional mistakes are unavoidable, aren't they?
+M1928A1(0);M21(0)<Speaker>M21</Speaker>||:Heheh. How about...raising the barrel by 1cm on the premise of not endangering the operation?
+M1928A1(0)<Speaker>Thompson</Speaker>;M21(0)||:As long as it's within permissible range of the contract, you can have all the fun you want.
+M1928A1(0);M9(1)<Speaker>M9</Speaker><通讯框>||<SE1>Battlefield</SE1>:Hello?! Thompson, are you listening?!+Um... They've started fighting over here all of a sudden! Where are you? Come and get me, quick!
+M1928A1(0)<Speaker>Thompson</Speaker>;M9(1)||:Hey... You said you'd be fine on your own.
+M1928A1(0);M9(1)<Speaker>M9</Speaker>||<SE1>Battlefield</SE1>:But the military opened fire without even a word! Even my base got hit by shells!+There are Sangvis everywhere! I can't hold on for much longer!
+M1928A1(0)<Speaker>Thompson</Speaker>;M9(1)||:It's no use asking me for help since I'm also on the field myself. Go and beg 1911.
+M1928A1(0);M9(1)<Speaker>M9</Speaker>||:(Sobs) ...1911, I'm sorry! You win this time!
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M9(1)||<黑屏1><SE1>Battlefield</SE1>:(Sighs) ...I never even thought of it as a competition.+Then time to move, backup team.
+ ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE2>Gunfight</SE2>:...
+M9(1)<Speaker>M9</Speaker>||:Huh? All the Sangvis...are destroyed?+A-Are you one of us?
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M9(1)||<BGM>BGM_Frontline</BGM>:SuperSASS, new recruit at Griffin. Glad to be of help, Miss M9.
+SuperSASS(0);M9(1)<Speaker>M9</Speaker>||:Th...Thank goodness...+You're my hero, Super...whatever!
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M9(1)||<黑屏1>:It's SuperSASS, Miss M9.+And you're squishing the breath out of me...
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏2><BIN>3</BIN><Night>:Phew, thank goodness you'd prepared for backup beforehand. Otherwise things wouldn't have ended pretty for M9.
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M1928A1(0)||:(Sighs) It only worked because it had quieted down where M9 was, Thompson.
+M1911(0);M1928A1(0)<Speaker>Thompson</Speaker>||:True. But SuperSASS is right on time. I was just thinking who to send this time.
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>;M1928A1(0)||:Hmm? Where to?
+SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker>||:To bring Griffin honor and glory, SuperSASS. The organization needs you.
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:Huh? What? ...Me?

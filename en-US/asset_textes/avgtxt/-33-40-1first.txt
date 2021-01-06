@@ -1,0 +1,40 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><黑屏2><BIN>98</BIN>:...
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:UMP45, are you done yet?! +More and more enemies are coming back!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We're on it, so stop rushing us!</color>+<color=#00CCFF>You think we're just doing some cable management in here? —9, screen the ports using the new parameters I just gave you. —You guys hang in there for a bit!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;UMP45Mod(0)||<SE1>Select</SE1>:We're almost out of ammo!
+M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Search the train for more; they must have some spare ammo!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)<通讯框>||<白屏1><SE2>Gunfight</SE2>:But where do we find the time to—
+()||<白屏2><SE1>Explode</SE1>:...BOOM!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Cough... That's some heavy smoke... Hey, the Military is sending in their second and third wave of armored troops! +Where are our HOC?!
+RO635(5)<Speaker>RO635</Speaker><通讯框>||:The HOC are currently finding a suitable location to launch their attack! Firing directly on the train roof would make them obvious targets for the enemy!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:UMP45, if this train doesn't start soon, we're all gonna die here!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>10 seconds.</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:What?
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>I can activate a part of it.</color>
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>45, it's exactly as you thought!</color>+<color=#00CCFF>I'm done here!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:<color=#00CCFF>Okay. Then let's try out these big guns!</color>+<color=#00CCFF>I've already set the cannons to grenade launching mode and turned over firing authorizations to everyone on the AR Team. Unleash your wrath.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>210</BIN><黑屏2><黑屏1>:Hurray! Then let's have a fireworks display!
+()||<震屏><黑屏2>0,5</黑屏2><BIN>209</BIN><SE1>Explode</SE1>:The main cannon on the armored train launches round after round, turning the enemy fortifications into a sea of fire.
+()<Speaker></Speaker>||<黑屏1><SE1>Battlefield</SE1>:Under the barrage, the military forces around the armored train have retreated for the time being. +Meanwhile, Griffin forces move promptly onto the armored train.
+()<Speaker></Speaker>||<BIN>202</BIN><BGM>BGM_Brain</BGM><黑屏2>:In the temporary command center on the armored train.
+指挥官()<Speaker>Commander</Speaker>||:How's the train doing?
+RO635(0)<Speaker>RO635</Speaker>||:We've already taken over all control authorizations of the train; it's ready to go anytime. +All cannons are functional aside from the ones previously damaged by the HOC.
+RO635(0)<Speaker>Commander</Speaker>||:Right, now we just have to wait for M4...
+RO635(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:An incoming transmission.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Bad news, Commander!</color>
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>Commander</Speaker>||:What is it?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>Look outside! Another armored train!</color>
+指挥官()<Speaker>Commander</Speaker>||<BIN>208</BIN><黑屏2><BGM>BGM_Boss</BGM>:I knew they'd send more than one. More are probably coming... +The enemy seems to be very well-prepared...
+()<Speaker></Speaker>||<震屏><SE1>Explode</SE1>:...BOOM!! +The other armored train starts attacking the one being occupied by Griffin with their own cannons.
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Commander, the armored forces that just retreated have started moving towards us again.</color>
+AR15Mod(0)<Speaker>Commander</Speaker>||<黑屏1>:Return fire with our remaining cannons! +All echelons, spread out within the range of our artillery! +Defend the train until M4 unlocks the quarantine wall!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:... +......
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:Griffin echelons exchange fire with the enemies that have the armored train surrounded.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Their attacks are getting stronger and stronger! +RO, can the Commander give us some suppressive fire?!
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:We don't have cannons to spare! They're all busy dealing with the other armored train! +Pull the defense line back a little for now! The Commander says the HOC are going to focus all their fire on our side!
+RO635(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What about the Commander?
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:The shields are operating at full capacity; they should hold for a while.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:But even so, we can't keep this up for long...
+()<Speaker></Speaker>||:ST AR-15 gazes into the distance. The tall, impregnable wall still shows no sign of budging. +She purses her lips and concentrates once again on countering their more immediate threat. She pulls her trigger decisively.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1>:M4...I will do whatever I can to defend the place where you belong. +So you'd better hurry up...

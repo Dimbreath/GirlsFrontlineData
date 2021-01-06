@@ -1,0 +1,120 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>97</BIN><Night><BGM>m_va_showtime</BGM><黑屏2>:
+Dorothy(0)<Speaker>Dorothy</Speaker>||:I... +Where am I... +And... +What am I doing...
+Dorothy(2)<Speaker>Dorothy</Speaker><Shake>||:Uwah! Why are my legs moving on their own! +Where is this place! What am I doing!?
+Stella(0)<Speaker>Stella</Speaker>;Dorothy(2)||:Keep it down, the White Knight mechs are about to find us! Focus on running! Hurry!
+Stella(0);Dorothy(2)<Speaker>Dorothy</Speaker>||:Stella??
+Stella(0);Dorothy(2)<Speaker>Dorothy</Speaker>||:What happened? Wasn't my mind taken over by my big sister?
+Stella(0)<Speaker>Stella</Speaker>;Dorothy(2)||:Anna suddenly released her control over you. I took advantage of the opportunity to hack into you and take over your body!
+Stella(2)<Speaker>Stella</Speaker>;Dorothy(2)||:...Dorothy, what's with you?
+Stella(0);Dorothy(5)<Speaker>Dorothy</Speaker>||:I-It's nothing...
+Stella(0);Dorothy(5)<Speaker>Dorothy</Speaker>||:I just feel like...I...I've...been...
+Stella(2)<Speaker>Stella</Speaker>;Dorothy(5)||:I don't know what happened on Anna's side of things, but this might be our only chance to escape.
+Stella(0);Dorothy(5)<Speaker>Dorothy</Speaker>||:Hacking...control... +To think...you could actually do something like this...
+Stella(2)<Speaker>Stella</Speaker>;Dorothy(5)||:Dorothy...? +You don't look quite right. I'm sorry if I hacked you for too long; it might have damaged your neural cloud. +I'll help you clear your cache afterward and cool off your overheated modules—
+Dorothy(5)<Speaker>Dorothy</Speaker><Shake>||:Uwaaahhh!—! +I can't take it anymore—!
+()||<SE1>Runstep</SE1>:...Dorothy suddenly breaks into a sprint!
+Stella(0)<Speaker>Stella</Speaker>||:Dorothy, wait! There's a—!
+Dorothy(5)<Speaker>Dorothy</Speaker>||:Hack me, Stella! Hack me hard like you've never hacked me before!!
+()||<震屏>:...Thump!
+Stella(2)<Speaker>Stella</Speaker>||:Er...Dorothy? Are you alright?
+Stella(2);Dorothy(2)<Speaker>Dorothy</Speaker>||:Uuu... +I ran into a wall, I need to do a self-test...
+Stella(0)<Speaker>Stella</Speaker>||:Get up quick, the White Knights are still behind us!
+()||:...Stella looks at the wall ahead of them.
+Stella(2)<Speaker>Stella</Speaker>||:...Dammit! Why is this a dead end? +I've seen the blueprint, there should be a path here...
+Stella(2)<Speaker>???</Speaker>||:That's because there is a secret tunnel here.
+Stella(2)<Speaker>Stella</Speaker>||:!? There's a voice from behind the wall... +And this voice is... +Sei! Is that you, Sei!?
+()||<SE1>AVG_door_elecport</SE1>:...The wall in front of Stella slowly opens up, and a female White Knight emerges.
+Sei(0)<Speaker>Sei</Speaker>||:Long time no see, Stella.
+Sei(0);Stella(0)<Speaker></Speaker>||<SE1>ClothingUp</SE1>:...Stella freezes for a moment, then rushes up to hug Sei.
+Sei(0);Stella(3)<Speaker>Stella</Speaker>||:Ah... +Why are you... +It's like...I'm in a dream... +I feel like I could die right now with no regrets.
+Sei(4)<Speaker>Sei</Speaker>;Stella(3)||:(Laughs) Then I'd have come all this way for nothing, Stella.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Uuu...I'm awake.
+Dorothy(5)<Speaker>Dorothy</Speaker>||:What are you doing, honeys! We'd best get out of here!
+Sei(2)<Speaker>Sei</Speaker>||<黑屏1>:Hello, Prime Minister Dorothy. +I'm Sei P. Asagiri of Unit 765, the Blitzkrieg Corps, at your service.
+()||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Sei drags the two of them into the secret tunnel and closes the door.
+()||<BGM>m_va_follow_the_trail</BGM><SE1>AVG_footsteps_cave</SE1>:...The three of them head downwards through the dark passage.
+Stella(3)<Speaker>Stella</Speaker>||:Thank goodness you came, Sei, I didn't think you'd...
+Sei(0)<Speaker>Sei</Speaker>;Stella(3)||:I heard all sorts of things along the way. About Prime Minister Dorothy, Anna, and you, Stella. +Then I rushed all the way here, and it seems I made it just in time.
+Sei(0);Dorothy(0)<Speaker>Dorothy</Speaker>||:There was actually a secret tunnel here? Even I didn't know about it!
+Sei(0)<Speaker>Sei</Speaker>;Dorothy(0)||:This is a secret escape tunnel of the White Knights. Only Captain-level members are authorized to use it. +Let's keep going. We'll be able to leave through the HQ's back door within about ten minutes.
+Sei(0);Stella(0)<Speaker>Stella</Speaker>||:But you're only a Vice-Captain, and a human at that.
+Sei(0)<Speaker>Sei</Speaker>;Stella(0)||:Yes, but Captain Jericho gave me the authorization anyway. +She said that natives needed it more, because we only lived once.
+Stella(2)<Speaker>Stella</Speaker>||:Sei... +What happened to Jericho?
+()||:...Sei sighs.
+Sei(3)<Speaker>Sei</Speaker>||:Stella, I can't believe you're asking how she is after you made me do something like that...
+Sei(3);Stella(2)<Speaker>Stella</Speaker>||:I'm sorry, but... +What I mean is...Dolls' neural clouds can be backed up... +And if you just... It would be like it never happened...
+Sei(3)<Speaker>Sei</Speaker>;Stella(2)||:I can't just pretend that it never happened, Stella! +Look at what you made me do! Jericho might forget, but what about me? I'll remember this forever!
+Sei(3);Stella(0)<Speaker>Stella</Speaker>||:I'm sorry for getting you involved in this... +I can try to fix it, like say, memory erasure surgery...
+Sei(2)<Speaker>Sei</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:I didn't kill Jericho.
+Sei(2);Stella(2)<Speaker>Stella</Speaker>||<BGM>m_va_hopes_and_dreams</BGM>:What?
+Sei(0)<Speaker>Sei</Speaker>;Stella(2)||:What happened was that she was hoping that I'd kill her, so I'd feel better about it. +I missed my first shot, and then, I just couldn't...finish the job. +I left her outside, where she could call for help... I believe that she'll survive, and I believe that after this, she'll be on our side.
+Sei(0);Stella(0)<Speaker>Stella</Speaker>||:I understand...and it doesn't matter now, anyway. +My original plan...was to use the Parapluie virus to take control of all the Griffin Dolls and then overthrow Dorothy to root out Anna, which would solve everything.
+Sei(0)<Speaker>Sei</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:How did you become...the supreme leader of S.F.?
+Sei(0);Stella(2)<Speaker>Stella</Speaker>||<BGM>m_va_troubling_news</BGM>:I once asked Alma...the best hacker on Earth, to look into S.F....+And then on the night when we were supposed to make an exchange, Alma was secretly arrested by the White Knights, which got me worried...
+Dorothy(2)<Speaker>Dorothy</Speaker><Shake>;Stella(0)||:I didn't know about that! It must have been my sister... She must have done it...
+Dorothy(2);Stella(2)<Speaker>Stella</Speaker>||:And so I stuck to the arrangement with Alma and went to the place where the Dolls who had gone on the mission would make the trade. +In the end, I didn't find Super-Shorty or IDW, but they still finished their mission... +...They had delivered the body of the S.F. Mastermind, Elisa, to the meeting point.
+Dorothy(2);Stella(2)<Speaker>Stella</Speaker>||:I didn't want to let their sacrifices be in vain, so I studied Elisa's internal structure and extracted her S.F. module for my own use. +And then I kept on researching the truth on S.F., the Earth Computer, and Anna...
+Sei(2)<Speaker>Sei</Speaker>;Stella(2)||:That certainly sounds like you, Stella.
+Sei(2);Stella(0)<Speaker>Stella</Speaker>||:I once swore an oath that I would pay any price to save Griffin City... +But now the situation is completely out of control. It's nothing like what I imagined...
+Sei(2)<Speaker>Sei</Speaker>;Stella(0)||:You can't control everything, Stella. +You've been like that ever since you were young, and while you are considerate of others, a lot of times...you're too harsh. +You're overly rational, and you keep thinking that you have to bear the entire burden by yourself, which is why you keep overlooking how others feel...
+Sei(2);Stella(0)<Speaker>Stella</Speaker>||:Because I've always thought...it would be a rational and correct course of action as long as it turns out for the best and the cost is acceptable.
+Sei(2)<Speaker>Sei</Speaker>;Stella(0)||:Perhaps you're right, but you can't be right all the time. You can't rely solely on yourself. +A lot of times, trust is more reliable than orders.
+Dorothy(0)<Speaker>Dorothy</Speaker>;Stella(0)||:That's right! If you had discussed things with me beforehand, both of us would have ended up in a better situation, at the very least.
+Dorothy(0);Stella(0)<Speaker>Stella</Speaker>||:B-But I did do something useful, right!? +At least I managed to find Anna, the last boss of this entire matter, right?
+Dorothy(4)<Speaker>Dorothy</Speaker>;Stella(0)||:Yeah, you did, but where is she now?
+Dorothy(4);Stella(0)<Speaker>Stella</Speaker>||:That's the problem, but I don't believe there's anyone in this world who doesn't exist.
+Sei(4)<Speaker>Sei</Speaker>;Stella(0)||:(Laughs) Is that some kind of tongue-twister? +But you might be right, Stella. You're the smartest human I've ever met. Surely you must have some clue, right?
+Sei(4);Stella(2)<Speaker>Stella</Speaker>||:I can't be sure....+Our enemy this time is completely beyond my frame of reference. She might actually be a "god"...
+Sei(3)<Speaker>Sei</Speaker>;Stella(2)||:Or she might just be a ghost, but it doesn't matter what she is, Stella. +Do you still remember what you said to me when I was surrounded by S.F. at the Apollo Trust Bank?
+Sei(3);Stella(0)<Speaker>Stella</Speaker>||:A person does not lose hope until the bitter end.
+Sei(4)<Speaker>Sei</Speaker>;Stella(0)||:Yeah, and then I jumped off the building and escaped with my life. +It's not the bitter end yet, Stella.
+Sei(4);Stella(3)<Speaker>Stella</Speaker>||:That's right... +You're still with me, so the worst hasn't come to pass yet... I still have hope. +But this time, I don't think I can rely entirely on myself... +Dorothy, can you think of anything about your sister? Any kind of clue would help.
+Dorothy(4)<Speaker>Dorothy</Speaker>;Stella(3)||:Hmm... +Do you know of the VA-11 bar? It's on a street corner in a residential district.
+Dorothy(4);Stella(0)<Speaker>Stella</Speaker>||:That bar... I went there a few times after seeing it on *Kira* Miki's blog. What about it?
+Dorothy(4);Sei(0)<Speaker>Sei</Speaker>||:VA-11 Hall-A??
+Dorothy(6)<Speaker>Dorothy</Speaker>;Sei(0)||:That's right, looks like you've all been there! I've been there a few times myself! +Anna often mentioned that place... +She once said...that it was the beginning of everything.
+Dorothy(6);Stella(0)<Speaker>Stella</Speaker>||:The beginning of everything? In a civilian district bar? +Is there anything special about it?
+Sei(0)<Speaker>Sei</Speaker>;Stella(0)||:I went there for the first time several hours ago at Captain Jericho's recommendation. +It was filled with the smell of soap and dog urine, and the boss there was a pretty interesting character, but it's just an ordinary bar. +Or perhaps...it was more ordinary than an ordinary bar. There were no sexily-dressed bartenders putting on extravagant mixing shows.
+Sei(0);Stella(0)<Speaker>Stella</Speaker>||:We'll have to check it out. Perhaps something may be hidden there.
+Sei(3)<Speaker>Sei</Speaker>;Stella(0)||:Won't it be dangerous? If Anna ends up being there too...
+Sei(3);Stella(0)<Speaker>Stella</Speaker>||:It's very likely that Anna won't be there. She just left Dorothy's body a moment ago, and she hasn't tried to take control again so far. I'm sure something must have happened. +However, you should send a message to Jericho just in case, Sei. Ask her to send Dolls from the White Knights to meet over there.
+Sei(3)<Speaker>Sei</Speaker>;Stella(0)||:Alright, but I'm not sure if she'll agree.
+Dorothy(4)<Speaker>Dorothy</Speaker>;Stella(0)||:All of Griffin City is in a mess now. We're not the only ones who want to save the world. I'm sure everyone must be on the move! +Of course, if we're heading to that bar, I'm sure there'll be a lot of problems to deal with along the way.
+Sei(3)<Speaker>Sei</Speaker>;Stella(0)||:We'll face those problems real soon. +Everyone, we're almost at the exit. There may be a dozen mechs waiting for us at the doorway.
+Sei(3);Stella(0)<Speaker>Stella</Speaker>||:Buy me some time. I'll do my best to get more Dolls under my control to help us.
+Sei(3);Dorothy(6)<Speaker>Dorothy</Speaker>||:Leave it to Dangerous Dorothy, then! My whole body was remodelled for this moment!
+Sei(3)<Speaker>Sei</Speaker>;Dorothy(6)||:Your hands are MIRD113s... That means...
+Sei(3);Dorothy(3)<Speaker>Dorothy</Speaker>||<SE1>AVG_weapon_reload</SE1>:I can fire Class 5 rounds from my fingertips! That's right, this is why I didn't need many bodyguards!
+Sei(2)<Speaker>Sei</Speaker>||<白屏1>:Are you prepared? Get ready!
+()<Speaker></Speaker>||<BIN>166</BIN><night><BGM>BGM_Empty</BGM><白屏2>:
+()||<BGM>m_va_digital_drive</BGM><SE1>AVG_door_storehouse</SE1>:...Sei raises her weapon and pulls open the exit door of the secret tunnel.
+()||<SE2>Gunfight</SE2>:...Bangbang! Bang!
+()||:...And then the three of them see a chaotic melee outside, with the wreckage of White Knight mechs littered all over the ground.
+NPC-Bodyguard1(0)<Speaker>Human Bodyguard</Speaker>||:Prime Minister Dorothy, are you alright?
+NPC-Jason(0)<Speaker>Human News Reporter K</Speaker>||:Hey, you guys finally showed up!
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Hahaha, I told you the natives are reliable!
+Sei(2)<Speaker>Sei</Speaker>;Dorothy(0)||:Earlier I asked the humans and the Dolls to buy us time so we could flee the building. +I didn't think...that they had held out for this long.
+Dorothy(6)<Speaker>Dorothy</Speaker>||:Stella, sometimes people will help you, even without the Parapluie virus.
+Stella(0)<Speaker>Stella</Speaker>||:So trust is more reliable than orders, huh...
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Hailing Stella. +...To your left.
+()||<SE1>AVG_rifle_finalshot_h</SE1>:...Bang!
+()||<SE2>AVG_weapon_reload</SE2>:A bullet pierces a mech rushing up from the side.
+Stella(0)<Speaker>Stella</Speaker>||:Hmph, you haven't run yet?
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:What are you saying? Who else could afford my services besides you?
+Stella(3)<Speaker>Stella</Speaker>||:I'll pay you double if you survive. +Everyone! We still have a sliver of hope, so please lend me your strength! +But this time, I won't use Parapluie. Instead, I hope you will choose to help us of your own free will!
+MP5(0)<Speaker>Gr MP5</Speaker>||:That...person is...
+MP446(0)<Speaker>Viking</Speaker>||:That's the suspicious native who bumped into Gr MP5! So this is all her doing—
+Dorothy(2)<Speaker>Dorothy</Speaker>||:Everyone in Griffin City! Please hear me out! +I made many mistakes in the past, and I ran away from many problems. +The facts have proven that I was wrong, and now I see you, every Doll, every human, every screw, and every living cell!
+Dorothy(2)<Speaker>Dorothy</Speaker>||:I've always known...that someone was pulling the strings behind everything in Griffin City from behind the scenes. +I thought that you were as cowardly and afraid as I was, that you couldn't handle the truth, so I did my best to hide the secret of this city and tried to tell everyone that all was well...
+Dorothy(0)<Speaker>Dorothy</Speaker>||:But today, you're fighting bravely! I underestimated your courage and the hope in all of your hearts! So...
+Dorothy(6)<Speaker>Dorothy</Speaker>||:I! The Dorothy Haze that everyone knows and loves! +I ask you to help us! For the sake of Griffin City...and Earth's last hope! I ask you to help me fight the cloaked enemy of Griffin City to the very end!
+MP446(0)<Speaker>Viking</Speaker>||:It's Prime Minister Dorothy! She finally came out and said the truth!
+NPC-Jason(0)<Speaker>Human News Reporter K</Speaker>||:Hmph, this is what a Prime Minister should sound like.
+MP5(0)<Speaker>Gr MP5</Speaker>||:W-We'll help too! +Turn your Imprint coefficient up to the max! We'll show them the power of Griffin Dolls!
+NPC-Bodyguard1(0)<Speaker>Human Bodyguard</Speaker><Shake>||:Ohhhhhhhh!
+NPC-Bodyguard2(0)<Speaker>Human Bodyguard</Speaker><Shake>||:Our hearts for Dorothy—!
+Sei(4)<Speaker>Sei</Speaker>||:Looks like you've really bolstered the morale.
+Stella(3)<Speaker>Stella</Speaker>||:I have to admit, you all have different ways of doing things from me, but they're all very effective.
+Dorothy(6)<Speaker>Dorothy</Speaker>||:We have different methods, but we're all trying to achieve the same goal! +Don't let your guard down. The city's filled with White Knight mechs, and we'll have to fight our way through them!
+Sei(4)<Speaker>Sei</Speaker>||<黑屏1>:Let's go! Our target is the VA-11 bar! I'll lead the way and take us there as soon as possible!

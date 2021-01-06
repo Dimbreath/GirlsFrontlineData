@@ -1,0 +1,82 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>167</BIN><黑屏2>:
+()||<BGM>BGM_Brain</BGM>:Below the city of Belgrade.
+()||:AR-15 and AN-94 keep receiving warnings regarding the red enemy signals that are registered all over their electronic map... +But they have no choice but to ignore these notifications and continue onward.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...Why are you siding with S.F., 16?
+AR15Mod(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I would've liked to ask you the same question — I wasn't the first deserter on the AR Team.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M16A1BOSS(0)||:I found myself under...special circumstances.
+AR15Mod(4);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I gathered as much. "Happy families are all alike; every unhappy family is unhappy in its own way."
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;M16A1BOSS(0)||:I don't recall you being so sentimental.
+AR15Mod(5);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Who knows? Time can change a lot of things - be it fine wine or Dolls. +You yourself are no longer the impulsive kid with a short fuse that you used to be.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Is that how you saw me...?
+AN94(2)<Speaker>AN-94</Speaker>||:Don't feed them information, 15! These S.F. must be up to something.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I know, that's why I need to...
+Beak_M16(0)<Speaker>Beak</Speaker>||:Hahaha, these Griffin nitwits are so funny! +You think running your mouth will buy you more time? You think you'll be spared if you don't tell us anything?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Come and have a go if you're so tough.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Relax. +If we had wanted you dead, we'd have killed you already. +You're still useful for now.
+()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:Suddenly, gunshots can be heard from up ahead.
+()||<BGM>BGM_Danger</BGM>:The Sangvis units around them all raise their weapons and go into alert.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Send in the decoys to draw their attention. We keep going.
+()||:Having received the command, the Sangvis units silently proceed down the underground passage and join the skirmish.
+()||:Meanwhile, M16 and the ringleader follow the two DEFY members as they turn into an adjacent cavern and walk on in the direction of the ancient fortress.
+()||<SE2>Gunfight</SE2>:The rapid sound of crossfire shows no sign of ceasing. The fight seems to be escalating in the confined labyrinth underground.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Hey, is this alright? Our forces are melting like butter.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:There must be more of them than we anticipated.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Their numbers have multiplied compared to the force that came after us. The white guys must've learned that S.F. is entering the fray.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Or maybe they're so determined to get their hands on the Pike Node they're pulling in more units to make sure nothing goes wrong. +It would seem...that a bear and a tiger have run into each other in the cave.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Looks like S.F. is in for a tough fight, as usual. +But this is a rare reunion between two old friends. Don't you want to see for yourself just how much I've improved?
+AN94(0)<Speaker>AN-94</Speaker><Shake>||:What are you doing, AR-15?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Interesting. I might just do that.
+Beak_M16(0)<Speaker>Beak</Speaker><Shake>||:Huh?!
+Beak_M16(0)<Speaker>Beak</Speaker>||:Are you so drunk you've forgotten which side you're on?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:These two came from the direction of that ancient fortress... In other words, they know the way back.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:If they lead the way, we can reach the Pike Node in the least possible amount of time.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:You have a point, but...
+M16A1BOSS(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:How can you be sure if we won't deliberately lead you into a trap?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Simple. As our guides, you'll be walking in front of us. +If you draw us into a trap, you'll be the first ones to get killed. +If you lead us into a deadend, then you let the white guys win.
+()||<SE1>Select</SE1>:AR-15 snickers in response and raises her weapon.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Oh, you honor me so. +Now the only question is whether you Sangvis trash can keep up with our pace.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Better stick close to our asses, scumbags!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Attention, AR-15 and AN-94 have been designated as Sangvis units. No one has permission to attack them until further notice. +Follow their route and proceed.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Beak, keep a close eye on them.
+Beak_M16(0)<Speaker>Beak</Speaker>||:...Tsk, this is pissing me off!
+()||<SE1>Runstep</SE1>:AN-94 stares at AR-15's back in confusion.
+AN94(0)<Speaker>AN-94</Speaker>||:What exactly are you doing, AR-15?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AN94(0)||:Just taking a chance and making it up as we go. +Trust me just this once.
+AR15Mod(0);AN94(0)<Speaker>AN-94</Speaker>||:Alright, at least now we are free to use our weapons...
+AR15Mod(0);AN94(0)<Speaker>AN-94</Speaker>||:Though we've practically become cannon fodder for Sangvis Ferri.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AN94(0)||:Neither of us can die before Ange's reinforcements arrive.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:At least not when we haven't achieved anything... No chance at all.
+()||<黑点2><SE2>Gunfight</SE2>:Rapid gunshots soon interrupt the conversation.
+()||:With the two Dolls in the lead, the Sangvis forces charge into the subterranean battlefield filled with White Faction units.
+()||<SE2>Gunfight</SE2>:These ancient tunnels are suddenly swarmed by an unprecedented amount of wayfarers, making it unusually clamorous.
+()||:The dank subterranean air is slowly heating up with bullets flying around and blasts going off everywhere.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Cover!
+AN94(2)<Speaker>AN-94</Speaker>||:Got it!
+()||:The two DEFY members in the forefront cut through the fight like honed spears.
+()||<SE2>Gunfight</SE2>:Advance, fire, halt, cover the other, and so on... +They work together as perfectly as two gears in a piece of clockwork.
+AN94(2)<Speaker>AN-94</Speaker>||:Cover!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AN94(2)||<SE2>MachineGunBurst</SE2>:Go!
+AR15Mod(5)<Speaker>ST AR-15</Speaker><Shake>;AN94(2)||<SE2>Gunfight</SE2>:...Ow!
+AN94(2)<Speaker>AN-94</Speaker>||:AR-15!
+()||:A bullet whizzes past AR-15 before she even sensed the white enemy attacking from behind.
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:Hearing a loud boom, she turns to find the white unit smashed into the wall by the wheel of a heavy motorcycle.
+Beak_M16(0)<Speaker>Beak</Speaker>||<BGM>bossbattle_loop</BGM>:You're telling me these are the most advanced elite Dolls created by IOP and the Military? +They can't even handle the small fry. Talk about being disappointed.
+AN94(4)<Speaker>AN-94</Speaker>||:Are you alright, AR-15?
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:I'm fine, but...what's the deal with her?
+Beak_M16(0)<Speaker>Beak</Speaker>||:Don't think I can't hear you just because you're whispering!
+()||<SE2>MachineGunBurst</SE2>:The Sangvis ringleader hops off her bike and fires into the side passage with a hidden trapdoor.
+()||<SE2>MachineGunBurst</SE2>:With every shot she fires, a spray of blood splatters onto the walls. The metallic odor of blood soon obfuscates the original smell of gunpowder.
+Beak_M16(0)<Speaker>Beak</Speaker>||:C'mon then, you pieces of junk.
+Beak_M16(0)<Speaker>Beak</Speaker>||:I have a LOT of pent-up anger waiting to be vented!
+()||<SE2>Gunfight</SE2>:As AR-15 watches the Sangvis ringleader mutilate the white unit with overwhelming power and speed, an idea occurs to her and she carefully asks...
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Griffin has no record of you. Are you really a Sangvis Doll?
+Beak_M16(0)<Speaker>Beak</Speaker>||:...How dare a Griffin riffraff question my pedigree?! +Say, aren't you hostages too full of yourselves?!
+AN94(0)<Speaker>AN-94</Speaker>||:If you aren't in S.F.'s basic model register...could you be...a new model developed independently by Sangvis Ferri? +Just how many cards does Mastermind have up her sleeve?
+Beak_M16(0)<Speaker>Beak</Speaker>||:It's obvious what you're doing. You'll have to try harder to trick me into giving things away. +Still, I'm not the first model to have been created by our own AI, nor will I be the last.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Sangvis Ferri has just as many cards up our sleeves as any rotten human. +Lead on, lackeys of human scum. Don't die so easily!
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Is it a good thing or a bad thing to have this Doll behind us...?
+AN94(3)<Speaker>AN-94</Speaker>||:...It's not entirely a bad thing. +Having observed her, I believe we might be able to...get along with her.
+()||:For some strange reason, seeing that faint smile on AN-94's lips, AR-15 can't help but grin back at her.
+()||:She knows that confident smile means there is hope in turning the situation around.
+()||<黑屏1>:

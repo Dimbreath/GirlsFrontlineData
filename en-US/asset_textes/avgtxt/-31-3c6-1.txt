@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Brain</BGM><BIN>159</BIN><黑屏2>:Beak, I'm leaving things to you.
+Beak_M16(0)<Speaker>Beak</Speaker>||:W...what?! What do you mean?! More and more Griffin Dolls are gathering this way!
+()||:...M16 pulls out her connection cable.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I can plug it in just like that?
+Low Female Voice()||:Your creator really does know about this. The port is a perfect match.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<白屏1>0,5</白屏1>:Humph, I knew it... Then let's begin.
+()||<白屏2>0,2</白屏2>:M16 inserts her cable firmly into the core. +Her body starts spasming as if she's been electrocuted, and the core clatters onto the ground. +Dropping to her knees and gripping the barrel of her gun, she silently bears the unspeakable pain.
+Low Female Voice()||:Good, I have what I wanted.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><Shake>||:Cough... (Pants)
+Low Female Voice()||:That thing is now useless. Just leave it.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...I've done what you asked, now keep your end of the bargain.
+Low Female Voice()||:You can now forget about the core and start retreating. +I'll support you in my own way.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Forget about the core?
+Low Female Voice()||:I have drained all the data stored in there. The core is nothing more than an empty box now. +I have also given you clearance to access these data. They should be enough to satisfy Sangvis Ferri.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Fine.
+()||:M16 kicks the core aside and opens her comms channel.
+Beak()||:<color=#00CCFF>Took you long enough, M16!</color> +<color=#00CCFF>Our forces are getting decimated here!</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:Sorry to have kept you waiting, Beak. I have finished my business here. Retreat.
+()||<黑屏2><BGM>BGM_Empty</BGM>:...In a certain district in Belgrade.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Battle</BGM>:RO, how are things on your end?
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>We're pushing forward! We're almost at the motorbike!</color>
+AR15Mod(0);RO635(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Outta the way, outta the waaaaaay!!!</color> +<color=#00CCFF>Never mind, I'm just gonna tear you all to pieces!!! Hahahahaha!!!</color>
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Hey, be careful of your surroundings, SOP-II!</color> +<color=#00CCFF>Jeez... AR-15, I'm going to cover SOP-II. I'm leaving the rest to you, AR-15!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4, what's the situation?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>You made it! Are you okay?!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:We're fine! AK-12 did some simple repairs on us so we can fight!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>Good to hear. I'm attacking from the flank while the Commander's forces are setting up an encirclement on the outer rim.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<黑屏1>0,5</黑屏1>:Alright, then let's regroup later by the motorbikes.
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:—Crackle.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>0,5</黑屏1>:What was that?!
+()||<黑屏2><BIN>159</BIN>:M4 suddenly senses a wave of powerful interference expanding across the whole battlefield. +Then the heavy gunfire ceases completely.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<BGM>BGM_Danger</BGM>:What happened? AR-15?!
+()||:No reply.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:SOP-II?! RO?! +Are you okay?! What is going on?!!
+RO635()||:<color=#00CCFF>M4...</color> +<color=#00CCFF>We...can't move...</color>
+()||:...The transmission gets cut off.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Dammit... +Even if I'm alone, I have to...
+Clear Voice()||:Calm down, M4.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:How can you tell me to keep calm at a time like this?! +Hold on... +No Sangvis unit here is capable of doing this... +Don't tell me it's your doing?
+Clear Voice()||:Of course not. I'd have done it long ago if I could.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Then what...?
+Clear Voice()||:It's taking up everything I have just to shield you from the interference. +Besides, who said no one from Sangvis Ferri is capable of this?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:You mean...
+()||:A motorbike engine comes to life. +M4 pulls her attention back to the present and runs after the sound, but can only watch as Beak and M16 recede rapidly into the distance.
+ST AR-15()||:<color=#00CCFF>What the hell was that?! M4, are you alright?</color>
+Clear Voice()||:The interference has disappeared. It's obvious who the culprit was.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:16... What on earth is going on with you...?
+()||<BGM>BGM_Empty</BGM><黑屏2>:...When the interference wears off... +The present Griffin Dolls resume their activity groggily, as if they've just woken up from a deep slumber.
+()||:...A broadcast through the comms channel.
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Attention all units, Sangvis Ferri is withdrawing. Do not stray too far in pursuit.</color> +<color=#00CCFF>Please secure the area and prepare for potential attacks from the remaining Sangvis forces and ELIDs!</color>
+Clear Voice()||<黑点2>:Go and regroup with your friends M4. +They're all waiting for you.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:You don't...have to tell me that.
+()||<BGM>BGM_Empty</BGM>:M4A1 hesitates for a second, then she walks over to the group of Griffin Dolls. +... +......
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Wake</BGM>:OGAS...
+Clear Voice()||:What is it?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Did I...win? +Was that actually a victory?
+Clear Voice()||:What do you think?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I don't understand... 16... In the end, I wasn't able to stop her... +If I had been more powerful...
+Clear Voice()||:So are you finally starting to accept me?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:I'm just starting to accept the truth. +I need to be more powerful - powerful enough to keep everyone safe from harm. +By then...16 will surely be able to come back...
+Clear Voice()||<黑屏1><BIN>9</BIN>:... +I sure hope so.

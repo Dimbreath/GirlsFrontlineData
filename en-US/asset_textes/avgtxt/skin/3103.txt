@@ -1,0 +1,67 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>80</BIN><BGM>GF_Memorial</BGM><黑屏2>:...Inside the Griffin base.
+G36(0)<Speaker>Gr G36</Speaker>||:Now then, is there something I can help you with?
+G36C(0)<Speaker>Gr G36c</Speaker>||:Nein, uh... How should I tell you this, Gr G36...? It's actually about...
+()||:Finding it hard to touch on the subject, Gr G36c hands a publicity pamphlet to Gr G36.
+G36(0)<Speaker>G36</Speaker>||:The wedding dress fashion exhibition, I see. Congratulations on being chosen as one of Griffin's public faces.
+G36(0);G36C(0)<Speaker>Gr G36c</Speaker>||:I didn't think that...the Commander would actually assign me a task like this. +I remember you took part in a similar assignment last year as well, big sis, so I'm hoping you could tell me if there's anything I need to pay attention to.
+G36(0)<Speaker>Gr G36</Speaker>;G36C(0)||:There isn't.
+G36(0);G36C(0)<Speaker>Gr G36c</Speaker>||:Huh...?
+G36(0)<Speaker>Gr G36</Speaker>;G36C(0)||:Since the Commander asked for you by name, then all you need to do is show up at the designated location for the duration of the mission. +After that, all you need to do is follow the directions of the venue staff.
+G36(0);G36C(0)<Speaker>Gr G36c</Speaker>||:Then, I mean...is there anything I need to prepare beforehand?
+G36(0)<Speaker>Gr G36</Speaker>;G36C(0)||:Nein. The exact details might be slightly different, but in my experience... +The staff members are all extremely professional and thoroughly prepared. They will take care of everything.
+G36(0);G36C(0)<Speaker>Gr G36c</Speaker>||:If you say so... But not knowing what to do is more frustrating than knowing what to do. +To me, missions like this which I know nothing about are far more difficult than combat. +I don't think I can handle this... Should I tell the Commander that I'm not a suitable choice?
+G36(0)<Speaker>Gr G36</Speaker>||:There's no need to think too much about it. We're not the ones who decide whether we can or cannot handle a task. Leave that to the professionals. +It's not as big of a deal as you make it out to be, and besides...
+()||:Gr G36 can't help but smile wistfully as she sees the frown on Gr G36c's face.]
+G36(0)<Speaker>Gr G36</Speaker>||:It's very hard for us Tactical Dolls to gain non-combat experience beyond our employment prior to joining Griffin. +A civilian request like this is an unusual opportunity. Do your best to learn something from it.
+G36C(0)<Speaker>Gr G36c</Speaker>||<黑屏1>:Do my best, huh.
+()||<BGM>BGM_Empty</BGM><BIN>82</BIN><黑屏2>:...Several days later, in the backstage preparation room.
+()<Speaker>Makeup Artist</Speaker>||<BGM>BGM_Hello</BGM>:Don't move, hold this position, that's right...
+()<Speaker>Gr G36c</Speaker>||<BGM>BGM_Hello</BGM>:... +Huh...? Commander?
+()||G36C(2)<Speaker></Speaker>||:The first thing I see when I open the door is a blinding expanse of white. +Every part of Gr G36c's form — the pure-white silk of her wedding gown, her silver hair, and her crystal-clear skin — all of it reflects the warm lighting inside the dressing room. +I can't help blinking as I try to make out the vision before me.
+G36C(2)<Speaker>Gr G36c</Speaker>||:P-Please don't look! I'm not ready yet...
+Makeup Artist()||:It's done.
+G36C(2)<Speaker>Gr G36c</Speaker>||:Ehh?
+Makeup Artist()||:While we've already fitted you for your clothes during the makeup test, we might need to make some slight alterations depending on the actual circumstances. +Would you mind standing up and moving around?
+G36C(2)<Speaker>Gr G36c</Speaker>||:A-Alright.
+Makeup Artist()||:Please try to move your body as best as you can within the room. If you find the dress uncomfortable in any way, please let us know. +Now, I have something else to attend to. Please excuse me.
+()||<BGM>BGM_Empty</BGM>:The makeup artist quickly packs up her tools of her trade and hurries on to the next location, leaving me alone in the room with Gr G36c.
+G36C(2)<Speaker>Commander</Speaker>||<BGM>GF_Memorial</BGM>:Gr G36c... <c>You're beautiful. <c>Your dress is very pretty.
+Commander()||<分支>1</分支>:You're beautiful.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>1</分支>:That's...that's all thanks to the designer and the makeup people.
+Commander()||<分支>1</分支>:The model herself is very important too.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>1</分支>:Commander...
+()||<分支>1</分支>:Gr G36c bows her head slightly, and her cheeks flush a faint shade of red.
+Commander()||<分支>2</分支>:Your dress is very pretty.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>2</分支>:Ja, when I first saw the ad in the catalogue, I wondered if they had gone too far when describing it... But when I put it on, I realized that "making every bride's dream come true" isn't an exaggeration at all.
+Commander()||<分支>2</分支>:So, have your dreams come true?
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>2</分支>:I... I haven't really thought about this sort of thing. But I'm quite happy...
+G36C(2)<Speaker>Gr G36c</Speaker>||:Oh right, Commander, what are you doing here?
+G36C(2)<Speaker>Commander</Speaker>||:This mission is very important to the company's image, after all, and you're the ones going on stage. It's only natural that I should be present to witness the entire process. +This should be your first time taking part in a mission like this. How do you feel about preparing to take the stage in brand new clothes?
+G36C(2)<Speaker>Gr G36c</Speaker>||:The people here are all very professional and serious, just like my sister said. They helped me sort out just about every detail. +But I just can't shake of the feeling that I'm inadequate in some way... To tell you the truth, I'm really worried about it.
+G36C(2)<Speaker>Commander</Speaker>||:There are things that you can improve with effort, and things that you can't improve with hard work alone.
+G36C(2)<Speaker>Gr G36c</Speaker>||:But...
+G36C(2)<Speaker>Commander</Speaker>||:Working is like being in love. You can't expect good results with just the hard work of one person. A successful romance requires both people to get close to each other, not just wishful thinking on the part of either side. +If this mission succeeds, it's because of the combined efforts of Griffin and the client. If it fails, they'll share the blame as well. +There's no need to overthink things. All you need to do is gather up your courage and take a step forward. That's enough.
+G36C(2)<Speaker>Gr G36c</Speaker>||:...Danke, Commander. +I'm grateful that you took the time out to tell me all this.
+G36C(2)<Speaker>Commander</Speaker>||:Go, then. Let all your previous hard work bear fruit. I'll be watching you put on a good show from the audience. 
+()||<黑屏1>:Gr G36c nods and leaves the dressing room.
+()<Speaker></Speaker>||<黑屏2><BIN>136</BIN>:Shortly afterwards, the fashion show officially begins. +Garbed as she is in her lily-white wedding dress, every step Gr G36c takes is accompanied by the light of countless flashbulbs. Her form is so brilliant that I have trouble making it out.
+Commander()||<黑屏1>:The way you look when you do your best is quite surprising, Gr G36c...
+()||<BIN>97</BIN><黑屏2>:...+After the show is over, I'm just about to head to the backstage when Gr G36c skips up to me, bouquet in hand.
+G36C(2)<Speaker>Gr G36c</Speaker>||<BGM>BGM_Moon</BGM>:Did you see me, Commander? What did you think of my performance today? Was it good enough?
+G36C(2)<Speaker>Commander</Speaker>||:To be honest, I just can't bring myself to say "you've gotten better." 
+G36C(2)<Speaker>Gr G36c</Speaker>||:Oh... I guess I got carried away... I'm sorry, please forgive me.
+G36C(2)<Speaker>Commander</Speaker>||:I think you misunderstood. To me, you've always been excellent to begin with.
+G36C(2)<Speaker>Gr G36c</Speaker>||:...Is that so? I keep thinking that I didn't work hard enough, so at first I didn't have much confidence in how I did.
+G36C(2)<Speaker>Commander</Speaker>||:Even when it comes to things that you can improve with effort, the amount you need to put in to go from 80 to 90 percent is different from what you need to go from 90 to 100 percent. +If you feel frustrated, that just proves you've reached the point where further improvement is difficult. +Seeing you continue to step forward regardless and watching you venture into the unknown so courageously make me feel that choosing you for this mission was a wise decision.
+G36C(2)<Speaker>Gr G36c</Speaker>||:I'm relieved to hear you say that... Vielen Dank, Commander. +Ah, I have one more thing to ask you.
+G36C(2)<Speaker>Commander</Speaker>||:Hm? Go ahead.
+G36C(2)<Speaker>Gr G36c</Speaker>||:Commander, between the way I am now and the way that I usually am...which do you prefer? Could you tell me?
+G36C(2)<Speaker>Commander</Speaker>||:I think... <c>You look more beautiful in a wedding dress. <c>You show your true brilliance in the battlefield. <c>You're the best in my heart, always.
+Commander()||<分支>1</分支>||:You look more beautiful in a wedding dress.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>1</分支>:(Gasps)... I didn't expect that...
+Commander()||<分支>2</分支>||:You show your true brilliance in the battlefield.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>2</分支>:I think so too. That stage is best suited to me.
+Commander()||<分支>3</分支>||:You're the best in my heart, always.
+G36C(2)<Speaker>Gr G36c</Speaker>||<分支>3</分支>:Commander, you really are...terribly sly.
+G36C(2)<Speaker>Gr G36c</Speaker>||<黑屏1>:Still, no matter what, I've learned a great deal from you today, Commander. +Please continue leading us forward from this day on. I'll try to keep pace with you!

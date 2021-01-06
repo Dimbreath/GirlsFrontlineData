@@ -1,0 +1,14 @@
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN><BGM>BGM_Sneak</BGM><黑点2>:Even with that stirring pep talk, we alone won't be able to stop the Military's main forces.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:That's true... We don't stand a chance until we get the airdropped package.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So by sending out M4, you're hoping the Sangvis Mastermind will take the bait?
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Something like that. After all, we need to prepare a backup plan, but I'm personally more for settling things myself.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So what should we do next? We don't have any weapons on hand that can counter armored units. 
+NPC-Ange(0)<Speaker>Ange</Speaker>||<黑点1><BIN>99</BIN>:Now that things have gotten this far, it looks like we'll have to owe the Griffin Commander a favor.
+()||<黑点2><BIN>10</BIN>:...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:...Ah, Griffin Commander? Do you copy?
+NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||<BIN>10</BIN>:Ah! It's that whatsherface who saved you from before!
+NPC-Kalin(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:I have nothing but the utmost respect for your courage in staying behind, Commander, and I believe you understand the situation that Griffin is in. +The AR Team and I are doing everything we can to prevent the worst from coming to pass, but the Military's armored units are already headed towards them. 
+NPC-Kalin(2)<Speaker>Kalin</Speaker>;NPC-Ange(0)||<BIN>10</BIN>:Eh?! Not Sangvis Ferri, but the Military?!
+NPC-Kalin(2);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:I know this is a very unreasonable request to make, but I would like you and your forces to delay the military units for as long as possible, in order to buy the AR Team some time. +Whether or not they can complete their mission depends on how long you can waylay the enemy. +My team and I will be supporting you from the sides. Best of luck to the both of us. 
+NPC-Kalin(2)<Speaker>Kalin</Speaker>||<BIN>10</BIN>:Why are they giving us another huge problem like this...? +We've been here for a full day and night without rest... +Commander, if we engage the Military now...
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BIN>10</BIN>:Yeah, you're right. If it's for the AR Team...then we have to keep fighting!

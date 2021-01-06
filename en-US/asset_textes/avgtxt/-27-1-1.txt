@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>9</BIN><黑屏2><SE1>Alarm</SE1>:...
+Nyto(0)<Speaker>Nyto</Speaker>||<黑屏1><黑屏1>:We have confirmed that the Griffin Commander has escaped the interrogation room. At the same time, the building is currently under attack by Griffin T-Dolls. Initiate the backup plan immediately. +Attention, all Nytos. Kill all hostile units attempting to leave the building and destroy all hostile forces approaching the facility.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BIN>159</BIN><黑屏2>:<color=#00CCFF>Miss Kalina, we've successfully rescued Commander, but the entire building's on maximum alert.</color>+<color=#00CCFF>More enemies are approaching the building, and my squad alone will not be enough to make it out of this facility.</color>+<color=#00CCFF>We need you to wipe out the enemies ASAP and give us a chance to escape!</color>
+NPC-Kalin(9)<Speaker>Kalin</Speaker>||<BGM>BGM_Frontline</BGM>:Griffins, the enemy leader has shown herself. Move out!
+NPC-Kalin(9);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:We're in position! Ready to intercept at any time!
+Mk12(0)<Speaker>Mk 12</Speaker>;Cx4Storm(0)||:Defense line established! I won't let them get near this building!
+Mk12(0);Python(0)<Speaker>Python</Speaker>||:Signal conditions are clear. You won't have to worry about losing reception.
+A91(0)<Speaker>A-91</Speaker>;Python(0)||:We're defending the HOCs, don't worry!
+M82A1(0)<Speaker>M82A1</Speaker>;Python(0)||:Can we start now? This is my first overt mission, so I'll obey directions.
+M82A1(0);M870P(0)||<黑屏1>:Let's fuck 'em up! This is the Highway to Hell!
+NPC-Kalin(9)<Speaker>Kalin</Speaker>||<黑屏2><黑屏1>:Alright! Everyone, it's time to bring Commander home! +Keep the enemies away from the building at all costs! Ensure UMP45 and the others can escort the Commander back! +The battle will be a long one, but we'll be the winners! +Everyone, hold the line, for Griffin and the Commander!
+()||<黑点2><BIN>10</BIN>:

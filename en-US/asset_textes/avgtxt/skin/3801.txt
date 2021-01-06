@@ -1,0 +1,129 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>73</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:In the Griffin base, at the firing range.
+QBU88(0)<Speaker>QBU-88</Speaker>||:Say what—?!
+QBU88(0)<通讯框>;KSVK(4)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>Those who never give anything will never receive anything. There is no escaping this principle during tonight's activities.</color>+<color=#00CCFF>Among the prizes which this year's organizers have furnished is a 20%-off discount coupon, valid at all supermarkets.</color>
+QBU88(0)<Speaker>QBU-88</Speaker>;KSVK(4)||:No way! I've never heard of anything like that before!+There's no way I'd miss out on that if it were true... But I didn't sign up for the event!
+QBU88(0);KSVK(4)<Speaker>KSVK</Speaker>||:<color=#00CCFF>There are always surprises in life, so become a surprise in your own right.</color>+<color=#00CCFF>I have relayed what I should pass on. Now, what awaits is the choice you make...</color>
+QBU88(0)<Speaker>QBU-88</Speaker>;KSVK(4)||:I'll go! How could I possibly miss out on a deal like that?!
+QBU88(0);KSVK(4)<Speaker>KSVK</Speaker>||:<color=#00CCFF>Do your best, then, chosen one. Claim the crown tonight, and may you obtain glory and what's rightfully yours.</color>
+QBU88(0)<Speaker>QBU-88</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:But if I join halfway... KSVK? Hello? She sure hung up fast. Ah, forget it, how could I let anyone else get their hands on such a huge discount?+Heh heh heh, don't underestimate my skills.
+()<Speaker>QBU-88</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:As it happens, I can make my outfit from the cloth I stockpiled earlier.+...There doesn't seem to be enough material for the skirt, so I'll make it a mini.+I can just use paper from the Yellow Pages that I found in the city to make a talisman, and I can string these panda dolls up with fishing line and use them. As long as nobody's using IR lenses, I'll be able to dangle them in front of people from behind!+The plan's perfect! Let's go!
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:Screams and laughter fill the air after the test of courage begins.+QBU-88 sneaks in after making sure her preparations are complete.
+m45(2)<Speaker>m45</Speaker>||<BGM>m_avg_casual</BGM>:Things are getting really intense... Where's Gr PSG-1, she said she would be here soon...
+QBU88(4)<Speaker>QBU-88</Speaker>;m45(2)||:Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...+Then I'll go NOM and chomp off your head!！
+QBU88(4);m45(2)<Speaker>m45</Speaker><Shake>||:Aieee...! +But your mouth is so small, how can you bite off my head?
+QBU88(4)<Speaker>QBU-88</Speaker>;m45(2)||:Don't judge me by my size! Jiangshis are really strong, you know. +So what's it going to be, handing over the candy or having your head chomped off? Choose!
+QBU88(4);m45(2)<Speaker>m45</Speaker>||:I'm sorry, I don't any candy with me. Could I give you these snacks instead?
+QBU88(4)<Speaker>QBU-88</Speaker>;m45(2)||:Snacks? Snacks are fine too! What kind of snacks? Hurry up and show me! I'm still going to eat you if they're not good enough!
+QBU88(4);m45(2)<Speaker>m45</Speaker>||:I just made them.
+QBU88(4)<Speaker>QBU-88</Speaker>;m45(2)||:They smell great! Mmm, you pass. You can go!
+QBU88(4);m45(2)<Speaker>m45</Speaker>||:Thank you, Miss Jiangshi.+And thanks for your hard work. After all, you put a lot of effort into...hm...scaring people.
+QBU88(4)<Speaker>QBU-88</Speaker>;m45(2)||:Of course! Take care on the way back. Don't let the other monsters eat you.
+m45(2)<Speaker>m45</Speaker>||<黑点1>:Well, this is the first time I've met such a caring jiangshi. I won't have to worry about being scared if everyone's like you...+That's strange, Gr PSG-1 isn't up there. Did she take the lift down?
+QBU88(4)<Speaker>QBU-88</Speaker>||<黑点2>:Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...
+QBU88(4);MG3(4)<Speaker>MG3</Speaker>||:You're good at catching people by surprise, but I'm not going to be scared since I'm working here.
+QBU88(4)<Speaker>QBU-88</Speaker>;MG3(4)||:Ah, I see...
+QBU88(4);MG3(4)<Speaker></Speaker>||:MG3 can't help but laugh after seeing the crestfallen look on QBU-88's face.
+QBU88(4);MG3(4)<Speaker>MG3</Speaker>||:Well, if you want candy, I brought some along.+Here, this is for you.
+QBU88(4)<Speaker>QBU-88</Speaker>;MG3(4)||:I'll take it, then! Thank you, MG3. +I didn't expect to get candy during this test of courage, lucky me♪+Yup, time for the next objective!
+MG3(4)<Speaker></Speaker>||:QBU-88 hops and skips off, and as MG3 watches her leave, she suddenly realizes something.
+MG3(4)<Speaker>MG3</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:... +Wait a minute, she's not on the list of participants.+Did she sneak in here?+<color=#00CCFF>Type 97S, I've got something to tell you...</color>
+QBU88(4)<Speaker>QBU-88</Speaker>||<BIN>1</BIN><黑屏2><BGM>BGM_Sneak</BGM><Night>:Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker>||:Help...help me, I can't run any more...
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(5)||:... +Did you fall and hurt yourself? +I mean, your clothes are in tatters. This is such a mess.
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker>||:I didn't tear my clothes when I fell, it's just... +Are...you here to scare people too?
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(5)||:Yep. Still, let's leave that aside for now. Did you twist your ankle? Can you still stand?
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker>||:Yeah, I think I twisted it...
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker><Shake>||:Owwwwww! It hurts! Don't...!
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(5)||:It must have been dislocated because you fell down a flight of stairs. Alright, I've popped it back in.
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker>||:It... really did stop hurting so much...
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(5)||:Of course. All you need is to fix the position of the bones.+Here, lean on me as you stand up.
+QBU88(4);G36C(5)<Speaker>Gr G36c</Speaker>||:...I don't know what I would have done if it wasn't for you. Thank you, Miss Jiangshi. You're very good at this.
+QBU88(4)<Speaker>QBU-88</Speaker>||:Hehe, well, you pick a few things up when you enter the workforce. You could say nursing is my stock in trade...
+97typeS(2)<Speaker>Type 97S</Speaker>||<BGM>BGM_Empty</BGM>:She's the one who broke the rules and snuck in! We've got her!
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:I can't believe even a test of courage would have its rule breakers. Honestly, can't they just give it a rest?
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||<震屏><BGM>BGM_Danger</BGM>:...Whoa! +Wait a minute, why are you grabbing me?!
+97typeS(2)<Speaker>Type 97S</Speaker>||:That would be YOU! You're the one who snuck into the venue without registering! +How dare you run wild in a test of courage that I'm hosting! You're under arrest, QBU-88! Your crimes include trespassing into this place, extortion of the participants and bullying Gr G36c! Time to pay the price!
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:Okay, so sneaking in here was on me, but I didn't extort anything from anyone and I didn't bully Gr G36c!+Ugh...You're tying me up too tightly, my clothes...
+QBU88(5);97typeS(2)<Speaker>Type 97S</Speaker>||:And you're STILL trying to talk your way out of it! I knew you were a greedy little miser, but I didn't expect that you'd go so far as to steal Gr G36c's outfit!
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:What the heck are you talking about?!
+G36C(5)<Speaker>Gr G36c</Speaker>;97typeS(2)||:Ah, she wasn't trying to steal my clothes... I was the one who...
+G36C(5);97typeS(2)<Speaker>Type 97S</Speaker>||:Don't make excuses for her, Gr G36c! I know exactly what she did!
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:What did I do to deserve getting tied up like this?! I was HELPING her!+I only noticed her just now because she twisted her ankle, otherwise I would have just asked her for candy!
+QBU88(5);97typeS(2)<Speaker>Type 97S</Speaker>||:Oh, that's a good one, extortion of an injured person. I'm taking that as a formal confession, QBU-88!
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:But I didn't do it!
+QBU88(5);97typeS(2)<Speaker>Type 97S</Speaker>||<BGM>BGM_Empty</BGM>:That just makes it ATTEMPTED extortion. +You know, this isn't the first time you've gotten yourself into big trouble while chasing small gains, right? +Didn't I have to rescue you from those human traffickers several days ago? Can't you give it a rest!
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||<BGM>BGM_Hello</BGM>:I only went because he said there was a free holiday in store for me.+And he didn't realize I was a Doll, that just means I did a good job...
+QBU88(5);97typeS(2)<Speaker>Type 97S</Speaker>||:Oh, grow up already. There's no such thing in this world as a free lunch! Do you think everyone's as kind as the Commander?+It's one thing to go with anyone who offers you a free vacation, but who knows what godforsaken place you might have been sold to if Miss Kalina hadn't found out in time and sent me after you? And you'd still be thinking that you got a bargain out of it, am I right?
+QBU88(5)<Speaker>QBU-88</Speaker><Shake>;97typeS(2)||:...Being sold off... How-how can you say a free vacation is like being sold off? And you said the Commander was a kind person who would take me on holidays and vacations, what if other people were like that too?!
+G36C(5)<Speaker>Gr G36c</Speaker>;97typeS(2)||:So Miss 88...was kidnapped by human traffickers who didn't realize that she was a Doll?+How could this be...
+G36C(5);97typeS(2)<Speaker>Type 97S</Speaker>||:Yes, that's how is. It's hard to believe, but that's what she did.+When I worked my way inside, she was surrounded by several people, and she still thought she was going through customs. She even offered to help them count their money after being sold! That's the kind of person she is.
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:... +Oh fine, have it your way! Besides, it doesn't matter what I say, does it?
+G36C(5)<Speaker>Gr G36c</Speaker>;97typeS(2)||:I can hardly believe it...but still, my fall wasn't her fault, Type97S. Gr PSG-1 scared me and I accidentally fell down the stairs. +If it hadn't been for Miss 88, I might have been stuck here until Big Sis came...
+G36C(5);97typeS(2)<Speaker>Type 97S</Speaker>||:Oh? Is that true?+...Alright then, it seems I falsely accused you. Sorry about that.
+QBU88(5)<Speaker>QBU-88</Speaker>;97typeS(2)||:Humph.
+G36C(5)<Speaker>Gr G36c</Speaker>;97typeS(2)||:I'm so sorry about this, you went out of your way to help me but then...+Does your hand hurt?
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:It's not so bad.
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:So why did you sneak in, anyway? There was no excuse to not register, right? It's free.
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:I came because KSVK said there was a discount coupon up for grabs! The winner's going to get it and there's no way I'm going to let such a huge discount pass me by!
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:Huh? A discount coupon? What do you mean by discount...
+QBU88(4);97typeS(2)<Speaker>???</Speaker>||<震屏><BGM>BGM_Empty</BGM>:Aaaaaaaaaaaaaahhhhhhhhhhh—!
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:Looks like another person's been frightened.+That's strange, why hasn't KSVK broadcast the updated score yet?
+QBU88(4);97typeS(2)<Speaker>???</Speaker>||<震屏><BGM>BGM_Empty</BGM>:Someone help meeeeeeeeeeeeeeeeeee!
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||<BGM>BGM_Brain</BGM>:She sounds like she's in pain!+No wait, Type 97S, she sounds like she's in trouble!
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:I need to head over there and take a look! Follow me, QBU-88!
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:Why do I have to go with you?! My hand is still hurting and so are my legs!
+G36C(5)<Speaker>Gr G36c</Speaker>;97typeS(2)||:Then I'll...
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||<黑屏1>:...I was exaggerating, it's not that bad. You go rest and wait for your sister to come. We'll head over first!+If she's hurt too, I might be able to help...
+97typeS(2)<Speaker>Type 97S</Speaker>||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Empty</BGM>:... If you'd told us earlier, you could have worked security too.
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:Do the security staff get paid?
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:Nope.+...Ah, MG3's here too. Is that person on the ground the victim?+What happened, MG3?
+QBU88(4);MG3(4)<Speaker></Speaker>||:MG3 shrugs.
+QBU88(4);MG3(4)<Speaker>MG3</Speaker>||<BGM>BGM_Hello</BGM>:Huh, your Halloween outfit is pretty special, M870.
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:So you were screaming because it was so round that you couldn't stand up?
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:Was that you crying for help just now?
+QBU88(4);M870P(2)<Speaker>M870</Speaker>||:Quit chatting over there! Hurry up and get me out of this!
+QBU88(4);97typeS(2)<Speaker>Type 97S</Speaker>||:Easier said than done. Now that you're stuck so tightly in there, how are we going to free you?
+QBU88(4);M870P(2)<Speaker>M870</Speaker>||:I don't care how you do it! Just get me out of here!
+QBU88(4)<Speaker>QBU-88</Speaker>;M870P(2)||<黑屏1><BGM>BGM_Empty</BGM>:Don't worry. Let me see how we can get you loose.+<color=#A9A9A9>This hollowed-out pumpkin looks kind of familiar.</color>+<color=#A9A9A9>Wasn't Gr G36c carrying something like this just now?</color>+<color=#A9A9A9>Do the participants in this test of courage get jack o' lanterns?</color>
+()<Speaker></Speaker>||<BIN>96</BIN><黑屏2><BGM>GF_Cafe</BGM>:...
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:So, although you discharged your weapon without consent, you rescued M870, while QBU-88 has been recorded as a participant and is eligible for a special prize. Is that it?
+NPC-Kalin(1);97typeS(2)<Speaker>Type 97S</Speaker>||:Those are the facts. It's not like QBU-88 did anything particularly wicked. Although, she ought to register with me next time!
+QBU88(4)<Speaker>QBU-88</Speaker>;97typeS(2)||:What's so fun about Halloween, anyway... Still, it's a different matter if there's free candy.
+QBU88(4);G36C(4)<Speaker>Gr G36c</Speaker>||:Ah, there you are, Miss 88! +Here, this is for you.
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(4)||:What's this? ...An ice cream?
+QBU88(4);G36C(4)<Speaker>Gr G36c</Speaker>||:I'm so sorry I didn't have any candy or snacks ready... Big Sis told me to give this to you as a token of appreciation.
+QBU88(4)<Speaker>QBU-88</Speaker>;G36C(4)||:Wow, this is sweet. I mean, she helped me fix my clothes, so she didn't need to stand on ceremony... +Alright, I'll join next year's Halloween, then.
+G36C(4)<Speaker>Gr G36c</Speaker>||:Ja, let's come again next year!
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:...Now then, that was the list of the Dolls who won a prize. +Please come up and collect your prizes from me!+Thank you all for participating. See you next year!
+QBU88(4)<Speaker>QBU-88</Speaker>||:Kalina, I'm here for the 20%-off supermarket discount coupon.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? But we don't have a prize like that...
+M870P(2)<Speaker>M870</Speaker>||:Kalina, give me my soda first!
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:We don't have a prize like that either...
+M870P(2)<Speaker>M870</Speaker>||:...
+QBU88(4)<Speaker>QBU-88</Speaker>||:...
+M870P(2)<Speaker>M870</Speaker>||:Where the hell is KSVK?! I'm going to stuff her into a pair of speakers and blast her with death metal all night long!
+QBU88(4)<Speaker>QBU-88</Speaker>||:I can't believe KSVK tricked me...and I worked so hard to scare everyone too...
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<黑屏1>:KSVK? What are you talking about?+Someone knocked KSVK out and she's still unconscious.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>87</BIN><黑屏2>:...
+QBU88(0)<Speaker>QBU-88</Speaker>||<BGM>BGM_Hello</BGM>:You must be kidding me, right? KSVK was hosting the radio broadcast! She must have been pretending to be knocked out, then she came out to scare us!
+QBU88(0)<Speaker>Commander</Speaker>||:Er...+<c>This sounds just like a ghost story.<c> Looks like everyone was scared pretty badly.
+QBU88(0)<Speaker>QBU-88</Speaker>||<分支>1</分支>:I know, right? I worked so hard, but in the end I got tricked and frightened!
+QBU88(0)<Speaker>QBU-88</Speaker>||<分支>2</分支>:Things were a real mess back then...
+QBU88(0)<Speaker>QBU-88</Speaker>||:I really was scared pretty badly back then. I only managed to calm down after running back to the dorm. +Now that I think about it, there's no way gods or devils could exist in this world!+If they did exist... Well, there's no difference between spirits who didn't answer prayers and ones who don't exist.
+QBU88(0)<Speaker>Commander</Speaker>||:This isn't like you at all.
+QBU88(0)<Speaker>QBU-88</Speaker>||:You understand, right, Commander? I used to be a caretaker before I came to work with Griffin. I saw so many people lying on their sickbed and praying for their families to visit them, but...
+QBU88(0)<Speaker>Commander</Speaker>||:But?
+QBU88(0)<Speaker>QBU-88</Speaker>||:... Forget it, I shouldn't be talking about such things on a happy occasion!+It's getting too late tonight, so I'll make sure I settle the score with KSVK tomorrow. How dare she trick me with something as important as a discount coupon! I'll make sure I drive her credit rating into the dirt!
+QBU88(0)<Speaker>Commander</Speaker>||:It wasn't KSVK. It was one of her Dummies that went rogue.
+QBU88(0)<Speaker>QBU-88</Speaker>||:You mean, as in Dummy-linking?+Are there even Dolls out there who can't manage their Dummies?
+QBU88(0)<Speaker>Commander</Speaker>||:It was probably an accident.
+QBU88(0)<Speaker>QBU-88</Speaker>||:Yeah, in that case, I can...
+QBU88(4)<Speaker>Another QBU-88</Speaker>||:...Do this too.
+QBU88(4)<Speaker>Commander</Speaker>||<震屏>:...Ahhhhh!
+QBU88(4)<Speaker>Another QBU-88</Speaker>||:I didn't expect to see a look like that on your face, Commander. That means I'll be able to scare KSVK.
+QBU88(4)<Speaker>Commander</Speaker>||:This is...
+QBU88(0)<Speaker>QBU-88</Speaker>||:One of my Dummies. Since I went to all the trouble to make these clothes, I can't let them go to waste, can I? They're still usable if I fix them up. +My plan is to use it to scare KSV... Commander? Why are you patting my head all of a sudden?
+QBU88(0)<Speaker>Commander</Speaker>||:I think you shouldn't prank KSVK.+While there's no 20%-off discount coupon, I need to get some household supplies this weekend. +Would you like to go shopping with me?
+QBU88(0)<Speaker>QBU-88</Speaker>||<黑屏1>:You've got the right Doll, Commander! There are lots of places offering discounts this weekend, so what do you want? The clothes in this store are cheaper but also kinda bland. The discounts only apply to clearance goods, but you might still be able to find something decent. The shop sells really good food ingredients and things don't go on sale too often! And then there's this...
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:QBU-88 immediately comes to life the moment shopping comes up. She talks excitedly about the shopping plan until late at night before leaving in satisfaction.+Yeah... although this year's Halloween wasn't a peaceful one, I was looking forward to this weekend's excursion.+At that time, I had not considered that my plans to go out for the weekend would soon be ruined in a few short hours...

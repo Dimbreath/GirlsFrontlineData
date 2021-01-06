@@ -1,0 +1,216 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>m_avg_casual</BGM><BIN>8</BIN><黑屏2>:... +...In the command room.
+()||:The Commander is reading the latest combat report. +A Doll comes barging in.
+CBJMS(0)<Speaker>C-MS</Speaker>||<SE1>AVG_door_elecport</SE1>:Commander, come and have a water gun battle with me!
+CBJMS(0)<Speaker>Commander</Speaker>||:Oh, C-MS. What's this sudden interest in water guns?
+CBJMS(0)<Speaker>C-MS</Speaker>||:Gee, summer is almost over! You know what that means? +If we don't play with water guns now we'll have to wait till next year!
+CBJMS(0)<Speaker>Commander</Speaker>||:Oh right, summer is almost over... +You have a point, C-MS.
+CBJMS(0)<Speaker>C-MS</Speaker>||:Heheh, then—
+Z62(2)<Speaker>Z-62</Speaker>||<SE1>AVG_door_elecport</SE1>:Commander, may I come in?
+CBJMS(0);Z62(2)<Speaker>Commander</Speaker>||:You already did... +What is it?
+CBJMS(0);Z62(2)<Speaker>Z-62</Speaker>||:I would like your help in choosing a swimsuit. What do you think about this one?
+CBJMS(0)<Speaker>C-MS</Speaker>;Z62(2)||:(...I came first, you know.) +(...!) +(I never paid attention, but damn, she's got things to show off...)
+CBJMS(0);SPS(2)<Speaker>Serdyukov</Speaker>||<SE1>AVG_door_elecport</SE1>:Is anybody in? I'm coming in! +Hmm? Things look quite lively in here. +Commander, I've just sent you the security plans for the location.
+CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:(...How do they just keep coming? I was here first!) +(This one's got a nice figure too... I also want to... Never mind.) +Hey, how come you're in a swimsuit as well?
+CBJMS(0);SPS(2)<Speaker>Serdyukov</Speaker>||:Didn't Kalina tell you? We're about to go searching for mermaids.
+CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:Oh, that... I thought it was a scam. +After all, that woman is always eyeing my bonus pay...
+CBJMS(0)<Speaker>Commander</Speaker>||:Don't let Kalina hear that... +Z-62, I'll help you with your swimsuit when I have time. +And thanks for the security plan, Serdyukov. +I looked through it briefly and it seemed okay. I'll give you more detailed feedback later.
+()||:C-MS glowers at the other two Dolls.
+CBJMS(0)<Speaker>Commander</Speaker>||:C-MS, I like your idea about the water gun battle. Maybe you can organize it on the beach.
+CBJMS(0)<Speaker>C-MS</Speaker>||:... +Right.
+CBJMS(0)<Speaker>Commander</Speaker>||:Why are you so indifferent all of a sudden...?
+CBJMS(0)<Speaker>C-MS</Speaker>||:... +...Humph, I'm going!
+<Speaker>Commander</Speaker>()||<黑屏1><SE1>AVG_door_elecport</SE1>:Huh...?
+<Speaker>C-MS</Speaker>()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:The Commander addressed the girls in the swimsuits first! +Even though I outrank them and had been waiting for an answer before they were even there...! +Those bastards...with their dirty tricks... +Fine, I'm gonna drop the pretense as a pure and chaste Doll! I also have a swimsuit! +...
+<Speaker>C-MS</Speaker>()||<黑屏1>:N-no, this is way too embarrassing... +Dammit! I can't wear this!
+()||<BIN>162</BIN><黑屏2>:...The mermaid investigation has commenced.
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Hello</BGM>:(Darn, I ended up wearing it...)
+CBJMS(4)<Speaker>Commander</Speaker>||:That swimsuit really suits you. +But the jacket seems a bit oversized. Should I come with you to pick one that fits you better? +That'll make it easier to move around.
+CBJMS(4)<Speaker>C-MS</Speaker><shake>||:...N-none of your business! +More importantly, how dare you put me on the reserve team?! +I'm the boss, so shouldn't I be giving out orders on the beach chair?!
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:<size=35>Um, C-MS...</size>
+CBJMS(4)<Speaker>C-MS</Speaker>||:Whatever. Since you're my trusty subordinate, I guess I'll humor you for now.
+()||:The Commander chuckles helplessly and hands C-MS and Z-62 a set of commands.
+CBJMS(4)<Speaker>C-MS</Speaker>||:What's this...?
+()<Speaker>Commander</Speaker>||:Your job is to help out the other teams. +Unexpected things tend to happen very often in investigations, which makes the reserve team the most indispensable. +If you two run into any trouble, feel free and come to me.
+Z62(2)<Speaker>Z-62</Speaker>||:<size=35>R-right...</size>
+CBJMS(4)<Speaker>C-MS</Speaker>||:Fine, I suppose I'm the only one who can handle such an important job. +Wait, you said "you two"...? There's someone else on the team?
+CBJMS(4)<Speaker>Commander</Speaker>||:...She's standing right next to you.
+()||:C-MS looks around and finally notices the dainty Doll standing next to her.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Oh...
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:...Hello, C-MS.
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:Nice to meet you, new subordinate of mine.
+Z62(2);CBJMS(4)<Speaker>Commander</Speaker>||:C-MS, you met Z-62 back in the command room.
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:Did I?
+Z62(2);CBJMS(4)<Speaker>Commander</Speaker>||:If you think of her as your subordinate, at least remember her face...
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:It's okay, we have time to get to know each other... +<size=35>After all, I know I don't make much of an impression...</size>
+<Speaker>Commander</Speaker>()||:Then the arrangement is settled.
+CBJMS(4)<Speaker>Commander</Speaker>||:C-MS, take Z-62 around and keep an eye out for anyone who needs help. +That's it, now start your mission.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Tsk, ordering me around as if I were the subordinate... How presumptuous. +You'd better give me a shoulder massage when I'm back!
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:Um...the Commander is already gone...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:What?!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏2>:The Commander asked us to help people out, but nobody seems to need any help. +So why don't we have a water gun battle instead, New Subordinate?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:... +"Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to..."
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:Hello?
+()||:Curious, C-MS leans over to take a closer look at Z-62's book.
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:You have the habit of reading novels out loud?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:No, it's just that I never managed to finish this one, so I thought if I... +Whoa!
+()||:Z-62 snaps the book shut in panic.
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:C...C-MS, is something the matter?
+CBJMS(4)<Speaker>C-MS</Speaker>||:Don't tell me you're slacking off...?
+Z62(2)<Speaker>Z-62</Speaker>||:No...I'm not... +I just want to finish this book soon...
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:This won't do. If the Commander finds out you're slacking...
+CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:...Eep!
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:You don't want that, do you? +Then from now on, do exactly as I say.
+CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:But...
+CBJMS(4)<Speaker>C-MS</Speaker>||:Where's your answer?
+Z62(2)<Speaker>Z-62</Speaker>||:YES, SIR!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:<color=#A9A9A9>(Heheh, easy-peasy... Free labor, acquired!)</color>
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+()||<黑屏1>:An hour later...
+()||<BIN>162</BIN><黑屏2>:Z-62 is about to return to C-MS.
+CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:The mint-flavored ones are sold out...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>How...could that be?!</color> +<color=#00CCFF>So this one I'm having is the last one they had?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:Surely you've had enough... It's already the 20th... +The shop owner probably recognizes me already...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>Alright, alright.</color> +<color=#00CCFF>Take a break for now and prepare for your next job.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:I have a question... +Um...well... Does what I've been doing...help in the search for mermaids?
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>Of course. Buying popsicles was a test to see how good you are at conducting searches.</color> +<color=#00CCFF>Now...the investigation truly begins.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:S-so...the thing from before...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>What thing?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:You know...the thing...about me slacking off...?
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>You slacked off?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:So it's already deleted from her neural cloud...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>No idea what you're talking about.</color> +<color=#00CCFF>Keep up the good work and you'll become an outstanding subordinate.</color> <color=#00CCFF>As your next task...bring me a local watermelon.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||<黑屏1>:R-roger that! +<color=#A9A9A9>(This is the first time someone's had such high hopes for me... I have to work hard!)</color>
+CBJMS(4)<Speaker>C-MS</Speaker><BIN>9</BIN>||<黑屏2>:(Come to think of it, what's her name again...?) +(Phew...never mind, I'm getting sleepy.)
+()||:...
+()||<黑屏1>:Soon afterwards, a groggy C-MS receives a transmission from Z-62.
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏2><BIN>162</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Um...I've bought the watermelon.</color> +<color=#00CCFF>Is there anything else you'd like me to do?</color>
+CBJMS(4)<Speaker>C-MS</Speaker>||:Zzz...
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||:<color=#00CCFF>C-MS?</color>
+CBJMS(4)<Speaker>C-MS</Speaker>||:The watermelon...zzz...is only good...zzz...if it's chilled...zzz...
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Huh? Ch-chilled watermelon? Okay... Um, C-MS, where are you now?</color> +<color=#00CCFF>Huh? Hello? C-MS...?</color>
+<Speaker>C-MS</Speaker>()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:...ZzzzZzzz...
+()||<黑屏1>:...
+<Speaker>Commander</Speaker>()||<BIN>162</BIN><黑屏2>:Why, you...
+CBJMS(4)<Speaker>C-MS</Speaker><眨眼>||:... +Ugh...five more minutes...
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Moon</BGM>:...Commander?
+CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:Commander, what are you doing here?!
+CBJMS(4)<Speaker>Commander</Speaker>||:So you're finally awake. +I can't believe the capable C-MS I know would actually abandon her mission and snooze here on her own.
+CBJMS(4)<Speaker>C-MS</Speaker>||:...N-no, that's not true! +It's just really boring here!
+CBJMS(4)<Speaker>Commander</Speaker>||:...Didn't you say you wanted a water gun battle? If you're done with your job, then go and have some fun with the others.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Humph, I was just about to do that.
+()||:Click, click, click. +A message comes through the Commander's communicator.
+CBJMS(4)<Speaker>Commander</Speaker>||:Actually, I just received a request for help from another team. +Why don't you go in my place?
+CBJMS(4)<Speaker>C-MS</Speaker>||:No, I want to play with water guns.
+CBJMS(4)<Speaker>Commander</Speaker>||:You can play all you want after the mission... +Right, take Z-62 along with you as well.
+CBJMS(4)<Speaker>C-MS</Speaker>||:(How dare a mere subordinate give me orders... Just you watch as I complete this mission in flying colors...)
+CBJMS(4)<Speaker>Commander</Speaker>||:C-MS?
+CBJMS(4)<Speaker>C-MS</Speaker>||:Alright! +I'm going!
+CBJMS(4)<Speaker>Commander</Speaker>||:I was going to come with you too, but there's something else I must attend to right now. +I'll spend some time with you when I'm back.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Humph, don't forget the shoulder massage... +... +Gone again! +Never mind. I'll see what the others want first.
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Say, who's Z-62 again?
+4type(3)<Speaker>4 Shiki</Speaker>||<黑屏2>:It's over! It's all over. +Oh dearie... Our manuscript...
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:Hey, did you send the message?
+CBJMS(4);4type(3)<Speaker>4 Shiki</Speaker>||:Help is here! +C-MS! Let me explain the situation...
+()||:...4 Shiki spends ten minutes ranting non-stop.
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:Your drafts all got soaked? That's a shame.
+CBJMS(4);4type(3)<Speaker>4 Shiki</Speaker>||:What am I going to do now...?
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>m_avg_casual</BGM>:(Slowly draws her water gun) Yeah, I wonder.
+4type(3)<Speaker>4 Shiki</Speaker>||:What...what's wrong? Why art thou taking out thy gun? Did we do something wrong?
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:You kept talking about your manga, which means...you haven't been searching for the mermaid, have you?
+CBJMS(4);4type(3)<Speaker>4 Shiki</Speaker>||:Huh? Well...
+CBJMS(4)<Speaker>C-MS</Speaker>||:You've gone astray, 4 Shiki. +...It is my duty to put you back on track.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:A gunshot. +4 Shiki collapses in a puddle of water. +C-MS squats down and smacks her softly on the face but gets no reaction.
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:It actually scared this Doll so much she just passed out. +This gunshot simulator MDR recommended is pretty good.
+Lewis(2)<Speaker>Lewis</Speaker>||<黑屏2>:What do you think about this sunscreen?
+CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:It works pretty well. +But you asked me to come all this way to put sunscreen on you?
+CBJMS(4);Lewis(2)<Speaker>Lewis</Speaker>||:Yeah, actually, I was going to ask the Commander. +After all, there are so many spots I can't reach on my own.
+CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:You want the Commander to do such things...? What about your mission?
+CBJMS(4);Lewis(2)<Speaker>Lewis</Speaker>||:Physical appeal is a Doll's best advantage, you know? +The mermaid can wait.
+CBJMS(4)<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:Bang, another gunshot. +Lewis also collapses in a puddle of water. C-MS blows lightly at the muzzle of her water gun. 
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:Even Lewis has fallen to depravity. +Now let me see, who's next?
+SPS(2)<Speaker>Serdyukov</Speaker>||<黑屏2>:QJY-88, hang in there! The Commander will be here soon!
+Type88(5)<Speaker>QJY-88</Speaker>||:Hmm...
+CBJMS(4)<Speaker>C-MS</Speaker>||:The Commander isn't coming.
+SPS(2)<Speaker>Serdyukov</Speaker>||<震屏>:Wha—!
+()||:Bang, the gunshot...didn't happen. +Only a squirt of droplets hit Serdyukov in the face.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Huh? Is it out of battery?
+CBJMS(4);SPS(2)<Speaker>Serdyukov</Speaker>||:C-MS...you're the one that's been causing trouble, aren't you?
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:N-no, I just want to play...I mean, help you guys.
+CBJMS(4);SPS(2)<Speaker>Serdyukov</Speaker>||:Didn't you just say you wanted to play? +Madam Sakamoto, get her!
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:Madam what? Who's that?
+CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:Whoaaaaaaaa what's going on?! Ahhhhh!
+()||:A crow lunges at C-MS's face.
+SPS(2)<Speaker>Serdyukov</Speaker>||:I can always count on my capable partner, Madam Sakamoto.
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:I'm sorry, okay? Please let me go?
+CBJMS(4);SPS(2)<Speaker>Serdyukov</Speaker>||:Nope, you're coming with me to apologize to everyone.
+CBJMS(4)<Speaker>C-MS</Speaker>||:... +Humph, now's the time—
+()||:C-MS throws out her unfinished popsicle, drawing Madam Sakamoto's attention away.
+SPS(2)<Speaker>Serdyukov</Speaker>||:Hey!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:Smell ya lateeer!
+4type(2)<Speaker>4 Shiki</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>No sign of thee in the west.</color>
+Lewis(2)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>No sign of her in the east either.</color>
+SPS(2)<Speaker>Serdyukov</Speaker>||<黑屏1>:She must be hiding from me. Just you wait... +I'm going to catch you.
+()||<BIN>163</BIN><黑屏2>:...In a small villa by the sea.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Finally, a place to hide... +How did things turn out like this? +I just wanted to help them correct their disobedient ways, gee...
+()||:All of a sudden, C-MS hears a set of fast-approaching footsteps.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Who's there?!
+Z62(2)<Speaker>Z-62</Speaker>||:It's me, C-MS.
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:You are...? +Never mind, whoever you are, just help me look outside and see if Serdyukov is gone.
+Z62(2)<Speaker></Speaker>||:Z-62 sighs.
+Z62(2)<Speaker>Z-62</Speaker>||:Fine... +Give me the water gun.
+CBJMS(4)<Speaker>C-MS</Speaker>||:Hmm? Why?
+Z62(2)<Speaker>Z-62</Speaker>||:That's your "murder weapon", isn't it? +I'm going to draw Serdyukov away with it.
+()||:Z-62 pushes her glasses up her nose at the end of that sentence.
+CBJMS(4)<Speaker>C-MS</Speaker>||:I see, I see! +Take it. But the gunshot simulator seems to be out of battery, so it's just a regular water gun now.
+()||:Z-62 takes the water gun. She considers what C-MS just said for a second, and her lips curl up into a faint smile.
+Z62(2)<Speaker>Z-62</Speaker>||:In other words... No one would find out even if I shoot you with it, right?
+CBJMS(4)<Speaker>C-MS</Speaker>||:Yeah. +... +Huh?
+Z62(2)<Speaker>Z-62</Speaker>||:Remember my name! I am Z-62! +You keep calling me your subordinate, but what kind of good-for-nothing boss would leave their subordinate in the sea for an entire day?! +Stupid C-MS!
+()||:Squirt, squirt, squirt. Z-62 keeps shooting at C-MS, each drizzle of water hitting her smack in between her eyes.
+CBJMS(4)<Speaker>C-MS</Speaker>||:H...help...!
+()||:C-MS runs out from the villa and right into⁠—
+SPS(2)<Speaker>Serdyukov</Speaker>||:Finally, gotcha.
+CBJMS(4)<Speaker>C-MS</Speaker>||<SE1>AVG_Punch</SE1><BGM>BGM_Empty</BGM>:Eep...!
+()||<黑屏1>:C-MS cowers on the ground with her head buried in her arms.
+()<Speaker>Commander</Speaker>||<黑屏2><BGM>GF_Memorial</BGM>:C-MS, you really shouldn't have done that. +You could've simply helped everyone.
+CBJMS(5)<Speaker>C-MS</Speaker>||:They all looked like they were playing around! And they all have such nice figures!
+CBJMS(5)<Speaker>Commander</Speaker>||:Why, you...
+SPS(2)<Speaker>Serdyukov</Speaker>||:Commander, just leave her here to reflect on her own behavior.
+4type(2)<Speaker>4 Shiki</Speaker>;SPS(2)||:We agree with Serdyukov. +Oh yes, Commander... There are only a few slices of watermelon left...so...
+CBJMS(5)<Speaker>Commander</Speaker>||:Yeah, I'll go cut some more.
+4type(2)<Speaker>4 Shiki</Speaker>||:How shameful. We wouldn't have to trouble you if our hands were as nimble as a human's.
+()<Speaker>Commander</Speaker>||:It's fine, I brought you all here to wind down and relax anyways. +Besides, you have your own mission.
+CBJMS(5)<Speaker>Commander</Speaker>||:C-MS, think long and hard about what you have done. +If you behave, I might give you some watermelon later.
+CBJMS(5)<Speaker>C-MS</Speaker>||:...Humph!
+()||:Once the Commander and the others have left, Z-62 sneaks over with two slices of watermelon.
+Z62(2)<Speaker>Z-62</Speaker>||:C-MS...
+CBJMS(5)<Speaker>C-MS</Speaker>||:What now?
+Z62(2)<Speaker>Z-62</Speaker>||:I have some watermelon here. Want a slice?
+()||:C-MS mumbles a ‘yes' and takes it.
+Z62(2)<Speaker>Z-62</Speaker>||:Are you angry, C-MS?
+CBJMS(5)<Speaker>C-MS</Speaker>||:Huh? Why would I be angry?
+()||:Z-62 smiles at her reply.
+Z62(2)<Speaker>Z-62</Speaker>||:Well... +I only did that because I want you to remember me... +After all, as you said, I'm your subordinate.
+CBJMS(5)<Speaker>C-MS</Speaker>||:Pff. Pfft...
+()||:C-MS spits out a few watermelon seeds by her feet.
+CBJMS(5)<Speaker>C-MS</Speaker>||:This watermelon has a lot of seeds. +But it tastes pretty good. Thanks.
+Z62(2)<Speaker>Z-62</Speaker>||:So... +You don't mind at all...? I suppose I worry too much... +Actually, I'm very happy to be on the same team as you today. +Because...no one has ever given me so many orders... +I'll go get you more watermelon.
+CBJMS(5)<Speaker>C-MS</Speaker>||:Hmm... What did you say? +Hmm? She's gone already?
+()<Speaker>Commander</Speaker>||:C-MS, have you been reflecting on your behavior? I've brought you some watermelon. +Hmm? All these seeds on the ground... Did someone sneak you some?
+CBJMS(5)<Speaker>C-MS</Speaker>||:It's that girl. What's her name again...?
+CBJMS(5)<Speaker>Commander</Speaker>||:...
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:C-MS...what did you just say...?
+()||<BGM>BGM_Empty</BGM>:Clang... The pearly white fruit platter and the crimson watermelon slide off Z-62's hands. +Everything falls onto the ground with a crash.
+CBJMS(5)<Speaker>C-MS</Speaker>||:...W-what is it? Did I say something wrong?
+()||:A sudden breeze blows past, rustling the leaves in the trees.
+())<Speaker>Commander</Speaker>||:I was going to tell you to treasure this day... +But it looks like I don't need to.
+CBJMS(5)<Speaker>C-MS</Speaker>||:Hey, w-why are you taking out your gun?!
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:My name is Z-62... My name is Z-62... My name is Z-62...
+Z62(2);CBJMS(5)<Speaker>C-MS</Speaker>||:Commander, save me! She's making a scary face!
+Z62(2)<Speaker>Z-62</Speaker>||:Listen well – I am Z! Sixty! Two! +Can you still not remember my name?!
+CBJMS(5)<Speaker>C-MS</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:My bad, my bad...!
+()||<BGM>BGM_Moon</BGM><黑点2>:In the clear moonlight, the sound of C-MS and Z-62's bickering fills the entire beach. +The Commander gazes upon this precious scene...
+()<Speaker>Commander</Speaker>||:I just hope they can always be happy like this, although such peaceful days...
+()||<黑屏1>:The Commander silently makes a promise... +Even though it is uncertain when they will get to experience this summertime bliss again... +If they will ever get to experience it again at all.

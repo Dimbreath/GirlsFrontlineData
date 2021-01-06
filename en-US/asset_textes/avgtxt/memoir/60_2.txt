@@ -1,0 +1,79 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><黑屏1>:After the three little bears finished their walk, they found that their warm and cozy home was completely unrecognizable.+Cups and plates were scattered all over the table, the chairs were lying on the floor in broken pieces, and the footprints of intruders were everywhere. Papa Bear and Mama Bear scarcely dared believe their eyes.+But what hurt Baby Bear the most was...
+()||<BIN>7</BIN><BGM>BGM_Sneak</BGM><黑屏2>:While she had been prepared for the possibility that she might never wake up again, it would seem the worst had not come to pass.+When AS Val crawls out of the wreckage, her Misha is still safe and sound in her arms.
+ASVAL(0)<Speaker>AS Val</Speaker>||:(Groans) That hurts... +Ah, at least Misha's still around... How about the others?
+()||:Looking around, AS Val finds that she's in a snowfield.+The wreckage of the helicopter and the Tactical Dolls which have been flung out of the cabin are scattered near the crash site. Some of the Dolls are starting to get up.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Is anyone there? Sound off if you're still alive!
+ASVAL(0)<Speaker>AS Val</Speaker>||:I'm here!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Is that you, AS Val?! Thank goodness...
+ASVAL(0)<Speaker>AS Val</Speaker>||:Is everyone alright? Are they all in one piece?
+9A91(0)<Speaker>9A-91</Speaker>||:It seems the helicopter managed a crash landing right at the end, so most of the Dolls are still alive. +...Can't really say they're all in one piece, though.
+()||:9A-91 has gathered Dolls with broken limbs and who are just barely hanging on to life near the crashed helicopter, while AK-74U has gone to search the surrounding area for Dolls who were tossed out of the chopper during the crash.
+AK74U(0)<Speaker>AK-74U</Speaker>||:It seems we're the only ones who aren't hurt. Lucky us?
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:We got onto the last evac chopper but got shot down halfway...that hardly counts as lucky, even if we survived.+The others are going to laugh at us when we get back to base.
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:Don't the humans say that "one who survives a great disaster is destined for good fortune" or something?+I did a headcount. AS Val should be the last of them. Everyone on the chopper is here.
+ASVAL(0)<Speaker>AS Val</Speaker>;9A91(0)||:How were we shot down?
+ASVAL(0);9A91(0)<Speaker>9A-91</Speaker>||:Might have been anti-aircraft guns, might have been anti-air missiles.+Regardless, we need to contact HQ and have them send help.+Fortunately, the helicopter's wreckage is still largely intact. The radio might still be operational.
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:Let's divide up the tasks, then. 9A-91 will stay in the chopper and fix the comms equipment.
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:...Why do I have to fix it?
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:Because you were the one who brought it up. Also, you were hurt during the previous battle, so you won't be able to fight at full strength anyway.+It's your fault for giving us needless hope, so be a good girl and take responsibility for it.
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:Then what about the two of you?
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:AS Val and I will be keeping an eye out for trouble on the north and south flanks of the crash site. If we were shot down...that means there might be enemies nearby.
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:And if we run into the enemy...what should we do?
+AK74U(0)<Speaker>AK-74U</Speaker>;ASVAL(0)||:While I really hope that doesn't happen...if it does, we'll just have to fight. +After all, we can't backup our neural clouds right now. If our friends on the chopper are destroyed, they'll die for real. 
+AK74U(0);9A91(0)<Speaker>9A-91</Speaker>||:That said, you guys shouldn't push yourselves too hard.
+AK74U(0)<Speaker>AK-74U</Speaker>;9A91(0)||:Got it, we'll let you handle anyone who slips past. +We'll split up from here on in.
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:Um... 
+AK74U(0)<Speaker>AK-74U</Speaker>;ASVAL(0)||:AS Val, see you at the base.
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:...Da, see you when we get back.
+()||<BGM>BGM_Room</BGM><黑点2>:AS Val heads for a patch of high ground near the helicopter, holding Misha and her gun. +As she trudges through the snow, she considers the situation that they're facing.
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(Can we...really hold out until help arrives?)</color>+<color=#A9A9A9>(The radio might not be usable...)</color>+<color=#A9A9A9>(We might not be able to take out the enemy...)</color>+<color=#A9A9A9>(But the two of them had an unspoken agreement not to shatter this fragile hope... They didn't even bring up the possibility that they could fail, and pretended that there was a chance to get through this.)</color>+...+9A-91 and AK-74U...they really know me well.
+()||<SE1>Select</SE1>:After reaching the hillock she's been assigned to defend, AS Val takes up her gun, places Misha close to her heart, and mutters to herself.
+ASVAL(0)<Speaker>AS Val</Speaker>||:You understand that too, don't you, Misha? On the first day I reported for duty at Griffin, I didn't have any friends beside you. They were the first ones to reach out to me.
+ASVAL(0)<Speaker>AS Val</Speaker>||:(Sighs) If I had a say on who could go back safely, I'd like it to be them. +...Why? If I die, then you're the only one who'd have to be sad for me. +But if it were them...if they died, then many people would be sad. +Da, that's right, that's it.
+ASVAL(0)<Speaker>AS Val</Speaker>||:You really are the best, Misha. I can talk to you about all kinds of things that would be too embarrassing to bring up in front of them... Huh?
+()||:A movement from afar draws AS Val's eye, and she subconsciously presses herself flat against the ground. +A large group of Military automatons come into view, far more than a few T-Dolls can handle.
+ASVAL(0)<Speaker>AS Val</Speaker>||:...9A-91, is the radio fixed yet?
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||<SE2>AVG_tele_connect</SE2>:<color=#00CCFF>I just finished checking the battery startup system, I'm still reading the manual.</color>
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>Dammit, why did they have to make its design so complicated?!</color>
+AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>What's the matter, AS Val? Why'd you bring that up all of a sudden? Was there movement on your side?</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:There's a large number of Military automatons on the north side... +They don't have any heavy units, but there's a lot of them. They're approaching us, and it looks like they want to search the crash site.
+ASVAL(0);AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>Roger. I'll head over right away...</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:There's no need. I'll draw them away and buy you as much time as I can.
+AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>You...!</color>
+()||<BGM>BGM_Empty</BGM><SE2>AVG_tele_disconnect</SE2>:AS Val cuts the transmission and stuffs Misha into her breast pocket.
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Danger</BGM>:I want to help my friends too. +Let's go, Misha!
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:AS Val takes a deep breath, then jumped down from the cover of the slope and opens fire at the search party of Military automatons.
+()||<SE1>Gunfight</SE1>:The suppressed rounds bring down several Military automatons, but the others soon deduce the origin and returne fire at AS Val.
+ASVAL(0)<Speaker>AS Val</Speaker>||:I knew it... +Without a human to command them, these automatons prioritize combat over search orders.
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:AS Val knows she doesn't have enough firepower to wipe out all her enemies, so she ducks behind cover after every few shots.
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:Every time the Military Dolls lose their target, she darts out again and continues taking pot shots at them...
+()||<SE1>Gunfight</SE1>:...And before long, the unit of automatons has been lured away from the helicopter.
+ASVAL(0)<Speaker>AS Val</Speaker>||:Good...they're coming over! +As long as I can pull them far away enough, all I need to do is head back and meet up with the others...
+()||<SE1>Gunfight</SE1>:—Bangbangbang!
+ASVAL(0)<Speaker>AS Val</Speaker>||:They're here too? Urgh!
+()||<SE1>ClothingUp</SE1>:A shot from an unexpected direction hits AS Val. She wobbles, then goes prone to avoid a barrage of gunfire.
+ASVAL(0)<Speaker>AS Val</Speaker>||:My knee joint's damaged, I can't stand up and move... I guess there's no escape for me now. +In that case, all I can do is thin their ranks as much as possible!
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:Even as the tide rapidly turns against her, AS Val calmly, carefully takes aim at her enemies on the horizon and opens fire.
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(Have I helped everyone?)</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(Even until the end, I won't be leaving this world by myself. After all, I still have Misha.)</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(Dying like this...it's not a bad dream.)</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>Explode</SE1><黑屏1>:However, an explosion jars AS Val awake.
+ASVAL(1)<Speaker>AS Val</Speaker>||<SE1>AVG_tinnitus</SE1><黑屏2>:(Coughs) Is that a rifle grenade? Good thing it wasn't a direct hit...ah.
+()||:As AS Val checks herself for damage from the previous attack, her eyes stop on Misha, who's tucked into her breast pocket...
+()||<BGM>BGM_Sad</BGM>:Or rather, they stop on the wad of shredded cotton that had once been Misha.
+ASVAL(1)<Speaker>AS Val</Speaker><Shake>||:Ahhh... Aaaarrghhhhh...
+()||:AS Val's gun falls from her suddenly paralyzed fingers. +She holds the cotton in trembling hands, terrified that even a single scrap will fly away.
+ASVAL(1)<Speaker>AS Val</Speaker>||:Misha... I need to fix him quick... Misha...
+()||:AS Val's steely calm and fighting spirit have been shattered in an instant.
+ASVAL(1)<Speaker>AS Val</Speaker>||:If I don't have Misha... +Then doesn't that mean I... +I can only...wait here for the end by myself...?
+()||<SE1>Gunfight</SE1>:Tears fill her vision, and a deafening gunshot drowns out all other sounds. +In the midst of this crushing despair, AS Val quietly mutters to herself.
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:...But I...still don't want to die.
+()<Speaker>AK-74U</Speaker>||<黑屏2>0,5</黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:Pick up your gun if you want to live!
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:Huh...?
+AK74U(0)<Speaker>AK-74U</Speaker>||<BGM>BGM_stage3</BGM><BIN>7</BIN><黑屏2>:What the hell are you doing, AS Val?! How can you die here?! +Everything's over if you lose your neural cloud! Get up and fight! I'll settle things with you when we get back!
+()||:At some point, AK-74U had reached AS Val's side and started yelling at her. +Is this an illusion? Or did her heart conjure up a new imaginary friend now that Misha is gone?
+()||:AS Val numbly scoops up the cotton scraps in her hand and stuffs them into her coat pocket.
+()||<黑屏1>:Then she picks up her abandoned weapon once more.
+()||<SE1>Select</SE1><BIN>9</BIN>:...
+()||<SE1>Gunfight</SE1><黑屏1>:The sound of gunfire continues, until the beating of helicopter rotors draws near.

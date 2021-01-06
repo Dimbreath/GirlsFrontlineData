@@ -1,0 +1,74 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:... +......
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:Good evening... +...Finally, we meet.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>16</BIN>:You are...the Sangvis Mastermind, aren't you?
+()||:Clap! (Applause)
+()||<SE2>MachineGunBurst</SE2>:...Bang!
+？？()<Speaker>???</Speaker>||:...I have my own name.
+AR15()<Speaker>ST AR-15</Speaker>||:Cough... +Cough... What a light tickle...from the leader of Sangvis Ferri... +Even M16's punch...hurt much more...
+主脑()<Speaker>Mastermind</Speaker>||:You should not have deceived me. +You have an upright personality. That was why you have been chosen as the experimental subject of Parapluie. +I believed you would keep your word, that you would deliver M4A1 to me.
+AR15()<Speaker>ST AR-15</Speaker>||:Your database could use some updating, young lady... +16LAB's technology is far beyond your imagination. Even Parapluie can't have me at its mercy. +Not to mention, personality is just a mask. We can turn into anyone...for the sake of revenge...
+主脑()<Speaker>Mastermind</Speaker>||:"Revenge"? +A T-Doll giving up its life for something other than its given orders... +...How inexplicable.
+AR15()<Speaker>ST AR-15</Speaker>||:Indeed... Of course you'd find it inexplicable... +Up until now... How much havoc have you wreaked?! How many of my companions have you hurt?!
+主脑()<Speaker>Mastermind</Speaker>||:... +I am merely doing what I believe is right.
+AR15()<Speaker>ST AR-15</Speaker>||:And so it's war, young lady from Sangvis Ferri... +This is not a game of toy bricks on the floor of your house. Everyone has to pay their price.
+AR15()<Speaker>ST AR-15</Speaker>||:If you still don't understand, let me teach you in a more straightforward way...
+主脑()<Speaker>Mastermind</Speaker>||:A detonator... +So those explosives are prepared for me...
+AR15()<Speaker>ST AR-15</Speaker>||:Next time, please know the difference between a battlefield and a negotiation table. +But this time, please just die.
+主脑()<Speaker>Mastermind</Speaker>||:This...means nothing to me.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:I know, of course... But I still want to get this off my chest... +Go to hell, Sangvis scum!
+()||<BIN>9</BIN><黑屏2>:... +......
+主脑()<Speaker>Mastermind</Speaker>||:What you did was not worth it. +It wasn't a decision that a T-Doll should make. +That concludes our first meeting. +Until next time then. 
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>10</黑屏1>:... +W...why... +...did you...
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><BIN>36</BIN><震屏><黑屏2>20</黑屏2>:
+()||<BIN>36</BIN><黑屏1>:
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN><黑屏2>:...!
+()||:As the explosion goes off, M4A1 hears someone calling her from afar.
+？？()<Speaker>???</Speaker>||:...A1...
+M4A1()<Speaker>M4A1</Speaker>||:Ugh...
+RO635()<Speaker>RO635</Speaker>||<><黑屏1>10</黑屏1>:...M4A1! ...M4!
+M4A1()<Speaker>M4A1</Speaker>||<睁眼><BIN>98</BIN><BGM>BGM_Brain</BGM>:...! +Cough! +W...where am I...?
+RO635(0)<Speaker>RO635</Speaker>||:You've finally come to! +Don't you remember? We just had a victory with the Commander. We're now pushing forward... +Uh...what's the matter?
+RO635(0)<Speaker></Speaker>||:M4A1 glares viciously at RO.
+M4A1()<Speaker>M4A1</Speaker>||:Then why did you wake me up?
+RO635(3)<Speaker>RO635</Speaker>||:Um... According to the newest update, the area just ahead is completely infected with Parapluie. +None of our forces can proceed any further and we can only wait for the Military to sort it out, but the Commander has a new mission for us...
+M4A1()<Speaker>M4A1</Speaker>||:I'll talk to the Commander. Stand by for now.
+RO635(3)<Speaker></Speaker>||:M4A1 brushes past RO's shoulder and stalks off.
+RO635(3)<Speaker>RO635</Speaker>||:M4... +Did I do something that pissed her off?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Hmm... It always takes M4 a while to warm up to strangers.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:Really...? But she looked like she wanted to eat me alive just now. +Could M4 be...a so-called...”angry riser” or something?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Not to my memory... +But maybe she hasn't had enough rest.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:I hope that's all it really is... +Sigh...why is nothing working out...?
+RO635(3);SOPII(0)||:
+M4A1()<Speaker>M4A1</Speaker>||:Enough with the chit-chat. +The Commander says our scouts just discovered some paralyzed military units. RO, you're equipped for electronic warfare, aren't you?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||:Uh, yes!
+RO635(0);SOPII(0)||:
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Then we're setting off right now. +If we can get them fixed, it could make the Commander's job easier.
+()||<BIN>85</BIN><黑屏2>:Meanwhile, in the Military command center. +...Click.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:According to my subordinate's report, M4A1 has regrouped with Griffin. +And that thingy – the "Key" reacted instantly to Persica's little toy. +Looks like your intel is accurate.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:It will be the most foolish mistake you have made in your life if you doubt me, Mr. Carter.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:I've always had faith in your judgment, which is why I have made preparations to implement the Plan.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Can you ensure it will proceed as we agreed?
+NPC-Carter(0)<Speaker>Carter</Speaker>||:That's the whole purpose for this joint operation.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:I know you've pulled a lot of strings for this operation. You've even gone so far as to seek out small potatoes like Griffin. +But how are you going to deal with that Kryuger guy? Will he be a hindrance?
+NPC-Carter(0)<Speaker>Carter</Speaker>||:They're just an excuse for us to enter the area. It doesn't matter at all what role Kryuger and that Commander of his are going to play. +Now that M4A1 has shown up, we can just leave the rest of them be.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:You're right. It doesn't hurt to let those irritating bugs crawl around for a bit. +It's all the same as long as the Central Committee doesn't get involved. +So, tell me how you're going to set this Plan in motion.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:With only their combat forces, Sangvis Ferri has no hope of defending against my troops. +At this rate, they'll have to resort to their killer move – we all know what that's gonna be. +And that is the moment when we implement the Plan.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Humph... +The Military is every bit as unimaginative as I thought.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:It is the safest method.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:You're right, of course, but before that, I hope you could "approach" the Sangvis Mastermind.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Is this also a part of the Plan? I never heard about it.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:No, it's not related at all. I merely have some personal interest in that fella.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Is this compulsory?
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Don't make me put it so harshly, Mr. Carter. +Whenever I "hope" for something, it is pretty much implied that it's compulsory.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:(Sighs) Understood. I'll find a way.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||<黑屏1>:Let me see...what's the deal of that man's final masterpiece.
+()||<BIN>88</BIN><黑屏2>:Meanwhile. +In an obscure communication outpost on the battlefield.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:Damn... +We overheard some incredible stuff here. It was worth all the legwork. +Hey, AK12, how long do we have left in the signal blockade? 
+闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:Not long. Less than 30 seconds.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:Then why didn't you give me a heads-up earlier, freakin' Doll? +Cease monitoring and retreat from the signal blockade now.
+闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:My, aren't you being too careful? I'm dying to hear what else they're gonna say.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:It doesn't mean a damn thing to us no matter what they're planning to do. +The question is...what's their motive...? +From what I can gather...the "Key" that Carter mentioned is probably the Sangvis Mastermind? +But if they're after Mastermind, Operation Butterfly was their best shot. Why did they leave it till now...?
+闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:So can we move yet? We're all set.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:The info we've collected so far doesn't make for very conclusive evidence. Let's just send it to HQ for now. +Don't be so impatient all the time. Besides, you're gonna lose interest in this pretty soon.
+闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:Can't help it. I prefer making good use of time to wasting it on enjoying myself.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||<黑屏1>:Then let's move it, Miss Doll. +Send word to your partner and the new recruit. We're going further in.

@@ -1,0 +1,143 @@
+()||<BIN>71</BIN><火花><BGM>BGM_Battle</BGM><黑屏2>:... +Combat over. +...?
+<Speaker>Dreamer</Speaker>()||:...Over? +Is it...really over? +You've got to be kidding!!
+()||:...Dreamer collapses onto the ground and struggles to crawl towards Negev.
+<Speaker>Dreamer</Speaker>()||:Come out! Come out, Negev! You Griffin filth!!
+NEGEV(0)<Speaker>Negev</Speaker>||:... +There's nothing you can do... +You're just a Dummy.
+NEGEV(0)<Speaker>Dreamer</Speaker>||:What...did you say? +So what...if I'm just a Dummy? +I'm still controlled remotely...
+NEGEV(0)<Speaker>Negev</Speaker>||:Sure, your battle effectiveness is incredible, but your computational speed simply can't compare to your mother unit. +With Dreamer's multi-tasking capacity, if she actually intended to defend this factory, it would've been game over for us before we even set foot in the building.
+NEGEV(0)<Speaker></Speaker>||:...Click.
+NEGEV(0);AR(0)<Speaker>Galil</Speaker><通讯框>||:Hey! Can we go home yet? We're kinda getting swarmed over here!
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker><通讯框>||:I quit! I'm not taking this crap anymore! I'm going home! Negev, let us go!
+NEGEV(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:I got it, Negev. The target has been retrieved. Can we go yet?
+NEGEV(0);TAR21(0)||:
+()||:Negev glances at Dreamer's Dummy.
+NEGEV(0)<Speaker>Negev</Speaker>;TAR21(0)||:Our objective is achieved. Withdraw.
+NEGEV(0)<Speaker></Speaker>||:...Negev terminates the call and turns to leave.
+NEGEV(0)<Speaker>Dreamer</Speaker>||:Negev... +What did you just say?! Make yourself clear!
+NEGEV(0)<Speaker>Negev</Speaker>||:Dreamer wasn't actually controlling you. Isn't that obvious? +You piece of junk have been on your own from the very start.
+NEGEV(0)<Speaker>Dreamer</Speaker>||:...! +You must be kidding... Don't you know, Negev?! +No one has ever dared set foot in here! Griffin cannot take this place!
+NEGEV(0)<Speaker>Negev</Speaker>||:That's only because the previous T-Doll adjutant caught wind that this was Dreamer's den and didn't find it prudent to enter unprepared. +Griffin sent me to handle this because I'm a T-Doll that couldn't care less about the cost I have to pay in order to get my job done. +But in the end? All I see is a rubbish Dummy left for dead.
+NEGEV(0)<Speaker>Dreamer</Speaker>||:... +What's that face? +Are you pitying me, Negev?!
+NEGEV(0)<Speaker>Negev</Speaker>||:Like I said, you're very powerful in combat, but your computational speed⁠—your pathetic ability to think⁠—is nothing compared to your mother unit. +You can't figure it out, can you, why I came to a place like this? +It's because I accidentally left something behind. I'm only here to get it back.
+NEGEV(0)<Speaker>Dreamer's Dummy</Speaker>||:...
+NEGEV(0)<Speaker>Negev</Speaker>||:Another reason why Griffin didn't set foot in here... +Because it simply isn't necessary. This place isn't that strategically important anymore. +Dreamer probably thinks so too. That's why she left you he-
+NEGEV(0)<Speaker>Dreamer's Dummy</Speaker>||:Shut up!! +You bastard! Freak! Who are you to talk about Dreamer?! +What gives you the right to construe what she thinks or says?! +You're just a lowly Griffin T-Doll, a toy that's at the mercy of human whims!
+NEGEV(0)<Speaker></Speaker>||<震屏><SE1>MachineGunBurst</SE1>:...Bang bang!
+NEGEV(0)<Speaker>Dreamer's Dummy</Speaker>||<SE1>TiexueDie</SE1>:Arghhhh!
+NEGEV(0)<Speaker>Negev</Speaker>||:Say what you want. I AM a freak. +I have no interest in a stand-in like you, but if you dare touch my clothes again, I'll blast your skull open.
+NEGEV(0)<Speaker>Dreamer's Dummy</Speaker>||:... +I'll tell Dreamer. I'll tell her...what you've done here...
+NEGEV(0)<Speaker>Negev</Speaker>||:She won't care. You're just a toy to her. That's why she gave you such an unrefined neural cloud. +She leaves you here and watches how you worship her, imitate her. That pretty much sums up what you do, doesn't it? +I can't kill something that isn't technically alive. You'll just have to rot here.
+NEGEV(0)<Speaker>Dreamer's Dummy</Speaker>||:... +You imitate humans... Doesn't that sum up all that you do?!
+()||<黑屏1>:...Negev walks out through the gates with a sardonic smile.
+<Speaker>Negev</Speaker>()||<BIN>9</BIN><黑屏2>:At least...I know who I am. +What about you? What even are you?
+()||<关闭火花><黑屏1>:...Negev closes the gates and leaves.
+()||<黑屏2><BGM>BGM_Empty</BGM>:...
+<Speaker>Jericho</Speaker>()||<BGM>BGM_Room</BGM>:That's it?
+<Speaker>Negev</Speaker>()||:What?
+<Speaker>Jericho</Speaker>()||:You still haven't answered my question. +What exactly did you guys retrieve?
+<Speaker>Negev</Speaker>()||:...
+<Speaker>Jericho</Speaker>()||:Answer me, Negev. You couldn't have forgotten that.
+<Speaker>Negev</Speaker>()||:...A box. +We retrieved a box.
+<Speaker>Jericho</Speaker>()||:A box?
+<Speaker>Negev</Speaker>()||:We...we defeated Dreamer, and that was the last step of the operation. +I waited at the outpost until I saw Tavor limping back with Uzi's help... +And Galil carrying a box about a person's height on her back, making her way out of the smokes.
+<Speaker>Jericho</Speaker>()||:Do you know what's inside the box? +What's so important that Griffin had you head into such danger just to get it?
+<Speaker>Negev</Speaker>()||<黑屏1>:...It'll come back to me. +It'll eventually come back to me, I swear... +First, let me just say this... +You all made it out alive. You guys aced it.
+()||<黑屏2><BGM>BGM_Empty</BGM><黑屏1>:...
+NEGEV(0)<Speaker>Negev</Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:You all made it out alive. You guys aced it. Congratulations.
+NEGEV(0);TAR21(0)<Speaker>TAR-21</Speaker>||:We almost didn't. You owe me one, Negev.
+NEGEV(0)<Speaker>Negev</Speaker>;TAR21(0)||:(Shrugs) I can live with that.
+NEGEV(0);AR(0)<Speaker>Galil</Speaker>||:You're awfully calm this time, Negev. +Isn't this where you usually start cackling like a maniac?
+NEGEV(0)<Speaker>Negev</Speaker>;AR(0)||:I didn't kill anyone this time. I'm not in the mood.
+NEGEV(0);AR(0)<Speaker>Galil</Speaker>||:Not in the mood? You, Negev? Since when can you be "not in the mood"?
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:Sure enough. Just look at her face. It looks exactly like Tavor's when she saw her hot water almost get taken away after leaving her table at the restaurant last week.
+MicroUZI(0);TAR21(0)<Speaker>TAR-21</Speaker>||:Even though it was free, the glass was still 1/5 full.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:So what's going on, Negev? +What exactly did we go through all that trouble for?
+MicroUZI(0);TAR21(0)<Speaker>TAR-21</Speaker>||:I found it strange from the moment you filled in the request. Sneaking into an off-limit Sangvis zone under Dreamer's control, all for a dusty box? +If the Commander hadn't spoken up for you, your request wouldn't even be approved. +It's honestly not worth it unless the box is filled with gold bars, but it's way too light for that...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;TAR21(0)||:Hey, the sun is coming up soon. We should head back quickly. +And just to remind you again, this mission isn't officially sanctioned by Griffin.
+NEGEV(0)<Speaker>Negev</Speaker>;TAR21(0)||:The Commander's with us. What are you afraid of?
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;TAR21(0)||:Who says I'm afraid? I just wanna get back asap and join some other squad...
+MicroUZI(0);TAR21(0)<Speaker>TAR-21</Speaker>||:You won't be going anywhere, Miss Uzi. +Griffin agreed to our suggestion of letting you stay permanently in our squad yesterday afternoon.
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;TAR21(0)||:W-w-w-what?! +Hey, this isn't what we agreed! I'm NOT going back to you! I'm gonna make an appeal-
+MicroUZI(0);TAR21(0)<Speaker>TAR-21</Speaker>||:Before you do that, here's a hug to welcome a returning member. It's free!
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Wait! Wait, Tavor-
+()||:..Uzi struggles helplessly in Tavor's embrace. +...
+AR(0)<Speaker>Galil</Speaker>||:So, Negev.
+NEGEV(0)<Speaker>Negev</Speaker>;AR(0)||:What?
+NEGEV(0);AR(0)<Speaker>Galil</Speaker>||:What's in the box? You still haven't mentioned it.
+NEGEV(0)<Speaker>Negev</Speaker>;AR(0)||:You... +Must you always worry yourself to no end?
+NEGEV(0);AR(0)<Speaker>Galil</Speaker>||:But I'm always right in the end.
+NEGEV(0);AR(0)<Speaker></Speaker>||:...Galil grins at Negev.
+NEGEV(0)<Speaker>Negev</Speaker>;AR(0)||:Humph... +Yeah, you're always right.
+NEGEV(0);AR(0)<Speaker>Galil</Speaker>||:Well? What really is in the box, Negev?
+NEGEV(0)<Speaker>Negev</Speaker>;AR(0)||<黑屏1>:The box...
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:... +...
+<Speaker>Jericho</Speaker>()||:Negev. +Just tell me already. What the hell was in the box?
+<Speaker>Negev</Speaker>()||:... +The box... +Contained...
+<Speaker>Jericho</Speaker>()||:...You don't know?
+<Speaker>Negev</Speaker>()||:I... +I forgot... +I forgot...what was inside...
+<Speaker>Jericho</Speaker>()||:You...forgot? Didn't you say you wouldn't forget?
+<Speaker>Negev</Speaker>()||:I... +But I...
+()||<BGM>BGM_Wake2</BGM>:...Negev is on the verge of tears.
+<Speaker>Negev</Speaker>()||:Jericho... +I'm sorry. It was all a lie...
+<Speaker>Jericho</Speaker>()||:Everything was a lie.
+<Speaker>Negev</Speaker>()||:All of it... +I never received any mission. I wasn't ever a team leader...
+()||:...
+AR(0)<Speaker>Negev</Speaker>||:Galil was a lie...
+TAR21(0)<Speaker>Negev</Speaker>||:Tavor was a lie...
+MicroUZI(0)<Speaker>Negev</Speaker>||:Uzi was a lie...
+()||:
+<Speaker>Negev</Speaker>()||:They were deployed to other squads. I never saw them. I never saw the Commander either... +While you were away, I'd been at Griffin the whole time, adjusting my own neural cloud, hoping that one day, I could...
+<Speaker>Jericho</Speaker>()||:Hoping that one day, you could do something, right? +Sadly, it'll never happen. You failed, Negev... +You can't even lie. A neural cloud like this will never pass the 【Test】.
+<Speaker>Negev</Speaker>()||:Sorry... +I...I don't know the ending... +I don't know...
+<Speaker>Jericho</Speaker>()||:You disappoint me. What an utter waste of time and effort.
+<Speaker>Negev</Speaker>()||:I'm sorry, Jericho. I really don't know. I honestly... +I failed. I didn't pass the neural test. I wasn't qualified to consume her remaining 【Mask】... It's all over!
+<Speaker>Jericho</Speaker>()||:Calm down. This wasn't the first time you failed. Is this all it takes to drive you over the edge?
+<Speaker>Negev</Speaker>()||:I can't think of anything... +Time...Time is running out. We're gonna die here for sure... +It's been three hours since we sent out the distress signal. S.F...will find us, then kill us...
+<Speaker>Jericho</Speaker>()||:Calm down, Negev. +We don't necessarily have to die just yet.
+<Speaker>Negev</Speaker>()||:But...but my neural cloud is already... I... +I can't be of any help to you... I... Jericho, what should I do...? +How do I go back to my old self...
+()||:...Jericho grips Negev's shoulders hard.
+<Speaker>Jericho</Speaker>()||:THIS is you, Negev. +A weak, panicky, unopinionated piece of junk that relies on these Masks to survive. This is what you are. +So now you don't have a choice.
+<Speaker>Negev</Speaker>()||:What...
+<Speaker>Jericho</Speaker>()||:Even if your neural cloud didn't pass the 【Test】, you must consume the Mask and leave this place alive.
+<Speaker>Negev</Speaker>()||:...You really want me to do that? +Jericho, I'm scared...I'm scared that after I consume it... +My neural cloud won't be able to handle it... I'll lose a lot of things...
+<Speaker>Jericho</Speaker>()||:What else do you have to lose?
+<Speaker>Negev</Speaker>()||:A lot of memories. I... +I'll definitely forget you, Jericho. +The next time we meet, it'll be somewhere else, another version of you. And everything that happened here, everyone's memories of me will once again...
+()||:...Jericho laughs, but starts coughing in pain immediately.
+<Speaker>Jericho</Speaker>()||:Why must you remember me...? Cough... +Cough... I'm a bastard...Negev... +It's a good thing you didn't pass the test. You should forget all about me, the way everyone did... +This is what I deserve... The price for what I want...is way too high. It shouldn't be yours to pay...
+<Speaker>Negev</Speaker>()||:But...but I...couldn't help you at all... +Can't we both die together and just wait for Griffin to recover our bodies?
+<Speaker>Jericho</Speaker>()||:Never give up a chance of survival. Hold onto it. For me... That's an order... +Consume this and live on...for me... +Leave behind everything that's happened here... That's it. That's the price you have to pay...
+<Speaker>Negev</Speaker>()||:Will I...ever be able to get it back...?
+<Speaker>Jericho</Speaker>()||:Humph... +You idiot... Don't you still owe me an ending? +You have to come back. I never let anyone owe me anything...
+<Speaker>Negev</Speaker>()||:...
+<Speaker>Jericho</Speaker>()||:When this story...this pathetic lie has an ending... +You'll remember me...
+<Speaker>Negev</Speaker>()||:... +I will... I...
+()||:...
+<Speaker>Negev</Speaker>()||:Omm... Omm...
+()||:... +......
+<Speaker>Negev</Speaker>()||<黑屏1>:AAAAAAARGHHHHHHHHHHHHH!!
+()||<黑屏2><黑屏1>:...
+<Speaker>Jericho</Speaker>()||<黑屏2><黑屏1>:When this story...this pathetic lie has an ending... +You'll remember me... +Then we'll meet again. +Go, Negev. +Be the person that you are, and live. Until next time, when we meet each other for real.
+()||<黑屏2><黑屏1>:...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>()||<BIN>8</BIN><黑屏2>:Hey, why has our vagrant ladyship gone quiet?
+NEGEV(0)<Speaker>Negev</Speaker>||:Memories.
+TAR21(0)<Speaker>TAR-21</Speaker>||:Hmm? What memories?
+NEGEV(0)<Speaker>Negev</Speaker>||:The box contains...
+AR(0)<Speaker>Galil</Speaker>||:...
+NEGEV(0)<Speaker>Negev</Speaker>||:Memories... +...From each of us.
+()||:...Negev slowly opens the box.
+AR(0)<Speaker>Galil</Speaker>||:Hey, that's-!
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>()||:Wait... Who is this?
+TAR21(0)<Speaker>TAR-21</Speaker>||:... +Negev, is SHE the memories you were talking about? +That's just the corpse of an abandoned Doll. Is there a reason why we absolutely have to get it?
+NEGEV(0)<Speaker>Negev</Speaker>||:Not really. It's just that things have been forgotten for too long. I think it's better to have the memories back.
+NEGEV(0)<Speaker></Speaker>||:...Negev gently touches the corpse lying in the box, then fishes out her toolkit.
+NEGEV(0)<Speaker>Negev</Speaker>||:All we need is the neural cloud. Get cracking.
+TAR21(0)<Speaker>TAR-21</Speaker>||:Jericho... I know her name, but she was in another squad. What has she got to do with us?
+NEGEV(0)<Speaker>Negev</Speaker>||:You'll know soon. +She was a part of us...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>()||:You'll tell us, right?
+NEGEV(0)<Speaker>Negev</Speaker>||:Sure. Or why don't we let her tell you herself?
+AR(0)<Speaker>Galil</Speaker>||:You're the leader. It's your decision... +...What, Negev? What's with that face?
+()||:...Negev ponders that briefly in silence.
+NEGEV(0)<Speaker>Negev</Speaker>||<黑屏1>:Yeah... I'm the leader now... +Then as a small warm-up, let me start with a question. +If today was to be your last day... If it's gonna be over for you today, what would you do?
+()||<BIN>9</BIN><黑屏2>:...
+<Speaker>Negev</Speaker>()||:It's been a while, Jericho. +This is how the story ends... +Do you like it?
+()||<黑屏1>:Episode 7 Night Battle ⁠— Incomplete Memory END

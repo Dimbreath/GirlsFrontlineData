@@ -1,0 +1,120 @@
+()<Speaker></Speaker>||<BIN>82</BIN><BGM>BGM_Empty</BGM>:
+()||<BGM>GF_Memorial</BGM>:In the Griffin dorm.
+()||:CZ52 is sitting at her desk and poring over an old booklet.
+CZ52(0)<Speaker>CZ52</Speaker>||:"In the middle of the little pond/ stands a pavilion of green/ and white porcelain." +"Like the back of a tiger arches/ the jade bridge/ over to the pavilion." +"Friends sit in the little house/ well dressed, drinking, chatting,/ some writing verses."
+CZ52(0)<Speaker>CZ52</Speaker>||:This describes a group of friends drinking and writing poetry at a picturesque place... +What a lovely scene...
+()||:CZ52 reads on and continues picturing the exquisite scene depicted in the poem. +She is so engrossed she is utterly oblivious to the knocking on her door.
+???()||:CZ52, are you there?
+CZ52(0)<Speaker>CZ52</Speaker>||:"Like a half-moon is the bridge/ its arch upturned"... I'd love to see such a view myself. +But there are some parts that I don't quite understand. I'll need to ask Type 95 one of these days...
+???()||:Huh, the door isn't locked? +Um, sorry... I'm coming in, okay?
+()||:The door opens. +CZ52 jumps at the noise and turns abruptly toward the door.
+CZ52(0)<Speaker>CZ52</Speaker>||<BGM>BGM_Empty</BGM>:Who's there?!
+???()||<BGM>BGM_Hello</BGM>:E-eep!!
+Type88(0)<Speaker></Speaker><Position>1000,0</Position><Shake>||:The Doll who just entered darts behind the cabinet by the door. +All CZ52 can see is two long ears shuddering from behind the piece of furniture.
+CZ52(0)<Speaker>CZ52</Speaker>||:Sorry... Did I startle you?
+Type88(0)<Speaker></Speaker><Position>1000,0</Position>||:The pair of ears grow still.
+()||:Then the person those ears are attached to shows herself before CZ52.
+Type88(0)<Speaker>QJY-88</Speaker>||:Hello... I am QJY-88. I'm in charge of this year's Spring Festival celebrations... +You seemed to be reading something and didn't hear me knock, so I just let myself in... Sorry about that...
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:That's alright. I was too caught up in my reading. +Wait, you say you're in charge of the...Spring Festival celebrations? You mean the New Year in the Orient?
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:Yes...I've been assigned to organize it this year. +I've come to you to ask for some help...
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:Really? What would you like me to do?
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:Uh, so you agree to help?
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:Yeah, I'm very interested in this festival. +We're going to hang up lanterns and have a lavish feast together, right? +Oh right, I remember we also made decorations for the windows and the walls last year. I can do that!
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:Um...someone else is already doing that... +I'm here to invite you to take part in our New Year visits...
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:New Year visits?
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:It's a very old tradition in the East when celebrating Spring Festival.
+()||:QJY-88 relays all relevant information regarding the tradition to CZ52.
+CZ52(0)<Speaker>CZ52</Speaker>||:Oh...I see. So basically, we call on our neighbors one by one and wish them well in the coming year?
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:Uh, more or less. +Would you like to come?
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:Sure.
+CZ52(0);Type88(0)<Speaker>QJY-88</Speaker>||:...That's great. I didn't think you'd be interested.
+CZ52(0)<Speaker>CZ52</Speaker>;Type88(0)||:Why do you think that?
+Type88(0)<Speaker>QJY-88</Speaker>||<黑点1>:Because it's such an old tradition, and... +Uh...it's a bit hard to explain. You'll understand when you're there.
+()||<黑点2>:... +After giving some further detail, QJY-88 takes her leave. +CZ52 returns to her desk and goes back to reading the tattered booklet.
+CZ52(0)<Speaker>CZ52</Speaker>||:"A bird sings in the tree. I ask him if it's spring already;" +"To me it's as if I'm in a dream." +... +I bet this eastern festival is going to so much fun. +Even though I can't go traveling, it's great to learn more about their local culture.
+CZ52(0)<Speaker></Speaker>||:CZ52 closes her booklet and nods solemnly.
+CZ52(0)<Speaker>CZ52</Speaker>||<黑屏1>:This kind of opportunity doesn't present itself very often. I must prepare everything I can.
+()||<BGM>BGM_Empty</BGM><黑屏2>:...A few days later.
+()||<BGM>GF_Memorial</BGM>:CZ52 beholds herself in her new outfit at the mirror.
+CZ52(2)<Speaker>CZ52</Speaker>||<黑点1>:It is their custom to wear new clothes on New Year's Day. +It's made in their traditional style, but I don't know if I'll stick out like a sore thumb... +In any case, I should meet up with the others as planned.
+()||<黑点2><BIN>18</BIN>:She leaves the dorm and finds QJY-88 with the other participants.
+CZ52(2)<Speaker>CZ52</Speaker>||:What a crowd...
+Type88(2)<Speaker>QJY-88</Speaker>||:You're here, CZ52.
+CZ52(2)<Speaker>CZ52</Speaker>||:I didn't know the New Year visits involve so many people.
+Type88(2)<Speaker>QJY-88</Speaker>||:Actually, not everyone has shown up yet...
+M99(4)<Speaker>M99</Speaker>||:QJY-88, it's almost time. +I just got in touch with the missing Dolls. They're held up by something and will join us later.
+Type88(2)<Speaker>QJY-88</Speaker>||<黑点1>:Alright, then let's set off...
+()||<黑点1><BIN>9</BIN>:The grand procession of Dolls make their way toward the dormitories. +Then...
+()||<黑点2><BIN>82</BIN><BGM>BGM_Empty</BGM>:...In the Griffin dorm.
+56-1type(4)<Speaker>Type 56-1</Speaker>||<BGM>BGM_Hello</BGM>:Happy New Year! We're here to wish you well! +May your Spring Festival be joyous, and may all your wishes come true in the coming year!!
+59type(2)<Speaker>Type 59</Speaker>||:Happy New Year! Here, have some sweets!
+ART556(2)<Speaker>ART556</Speaker>||:Aren't there any snacks? They say there's food when we visit people! +Oh right, Happy New Year!!!
+CZ52(2)<Speaker>CZ52</Speaker>||:Why is everyone yelling...
+M99(4)<Speaker>M99</Speaker>||:New Year is all about the hustle and bustle! Hmm? Someone's stuck out there? +Guys, walk further into the room so everyone can come inside!
+CZ52(2)<Speaker>CZ52</Speaker>||:...
+59type(2)<Speaker>Type 59</Speaker>||:You have to greet people, CZ52. Come and wish everyone a happy new year!
+CZ52(2)<Speaker>CZ52</Speaker>||:...Happy New Year.
+Type88(2)<Speaker>QJY-88</Speaker>||:Um...CZ52, why are you staying by the door? +Let me make some space for you...
+CZ52(2)<Speaker>CZ52</Speaker>||:Don't worry, I'm alright here... I don't think I can fit in there either.
+Type88(2)<Speaker>QJY-88</Speaker>||<黑点1>:Okay...
+()||<黑点2><BIN>18</BIN>:... +...... +The visits continue, and the crowd repeats the process of packing into a dorm then filing out. +After a couple of rounds, CZ52 stops QJY-88.
+CZ52(2)<Speaker>CZ52</Speaker>||:QJY-88, I'm feeling a bit tired...
+Type88(2)<Speaker>QJY-88</Speaker>||:Huh? But we're not even halfway through...
+CZ52(2)<Speaker>CZ52</Speaker>||:...I'm going back for a rest.
+()||<BGM>BGM_Empty</BGM><黑屏1>:With that, she turns around and leaves.
+()||<黑屏2><BIN>82</BIN>:...Back in CZ52's dorm. +CZ52 sits sullenly at her desk.
+CZ52(2)<Speaker>CZ52</Speaker>||<BGM>GF_Memorial</BGM>:Is this what festivities in the East are like? It's so noisy and disorderly - exactly like Halloween... +Is that what the East is really like?
+CZ52(2)<Speaker></Speaker>||:CZ52 recalls her impression of a few eastern Dolls in her head.
+CZ52(2)<Speaker>CZ52</Speaker>||:Look at Type 95, so gentle and refined. Isn't that what real eastern charm is supposed to be like? +Maybe that's why she didn't take part in the New Year visits.
+CZ52(2)<Speaker></Speaker>||:CZ52 glances at the booklet that she hasn't yet finished.
+CZ52(2)<Speaker>CZ52</Speaker>||<黑点1>:"What to me is spring? Let me be drunk!" +...I guess I'm just going to stay in today.
+()||<黑点2>:... +After a while, CZ52 hears the commotion outside her door. +The incessant chatter is drawing closer and closer, much to her annoyance.
+CZ52(2)<Speaker>CZ52</Speaker>||:Looks like there's no avoiding it even in here, but they'll definitely see me if I go out now... +What should I do?
+()||<BGM>BGM_Empty</BGM>:As CZ52 is paralyzed in her uncertainty, the boisterous procession arrives at her door.
+QJY-88's voice()||:CZ52, we're here to visit you...
+CZ52(2)<Speaker>CZ52</Speaker>||:...
+QJY-88's voice()||:Let me see... Uh, the door is locked... +...She said she wanted to take a rest, so she should be in.
+M99's voice()||:Should we visit another dorm first and come back later?
+Gentle voice()||:She might be busy with something. Let's give her some time.
+CZ52(2)<Speaker>CZ52</Speaker>||:That voice...!
+Gentle voice()||:CZ52, are you there? +I'm Type 95. We would like to offer our New Year wishes.
+CZ52(2)<Speaker>CZ52</Speaker>||:Type 95 is actually doing this as well...but why?
+()||:CZ52 walks toward the door. She hesitates for a second, but opens the door in the end.
+All T-Dolls()||<BGM>BGM_Hello</BGM><震屏>:Happy New Year!!!
+CZ52(2)<Speaker>CZ52</Speaker><Shake>||:Uh, oof! Please don't mob...
+()||:With a chorus of well wishes, the visiting Dolls come piling into CZ52's dorm, pushing her to the center of the room.
+59type(2)<Speaker>Type 59</Speaker>||:88 said you weren't feeling well. Are you okay? +Here, have some sweets! Here's more!
+CZ52(2)<Speaker>CZ52</Speaker>||:I'm fine, um...
+56-1type(4)<Speaker>Type 56-1</Speaker>||:Don't just make CZ52 stand here! Let her sit down somewhere!
+()||:The Dolls sit her down on a chair, then they start making random chit-chat.
+CZ52(2)<Speaker>CZ52</Speaker>||<黑屏1>:<color=#A9A9A9>(How did this happen...?)</color> +<color=#A9A9A9>(Still...I'm not as irritable as I was...)</color>
+()||<黑屏2>:... +The group soon leaves for the next dorm. As the hubbub fades into the distance, CZ52 realizes someone has stayed behind.
+CZ52(2)<Speaker>CZ52</Speaker>||<BGM>BGM_Moon</BGM>:Oh...Type 95. Aren't you going with the others?
+95type(4)<Speaker>Type 95</Speaker>||:I'll catch up later. +CZ52, do you like eastern culture?
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:How do you know? ...Did QJY-88 tell you?
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:She did mention it, but even if she hadn't, I could tell from your decor.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:O-oh right... I totally forgot about that...
+()||:CZ52 glances first at the paintings projected onto her wall, then at the ceramic cup in her hand. She lowers her head in embarrassment.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:I'm sure it all looks incredibly crude to you... Sorry if it offends you.
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:Not at all, CZ52. +I'm very happy that you take interest in our culture. +Just now, I thought you didn't like our Spring Festival...
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:No, I find your festivities extremely fascinating. I was just...taken by surprise.
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:Surprise?
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:Yes, these New Year visits are rather different from what I imagined. +I'd always thought eastern culture is all about grace and serenity, like the impression that you give me...
+()||:CZ52 picks up the booklet on the desk and shows it to Type 95.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:I found this in the ruins of a human settlement on a mission before. It seems to be some poetry originated from the Orient. +I am entranced by all the imagery...which is what sparked my interest in your culture. +I don't exactly dislike your festival. It's just that the way you celebrate it...is not how I imagined it to be.
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:I see...
+()||:Type 95 seems to sigh in relief. She flips through the booklet then returns it to CZ52 with a smile.
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:I was worried QJY-88 did something to upset you... After all, it's the first time she's organized an event like this. +There are many facets to eastern culture. You'll find genteel gatherings at green pavilions like the one depicted in the poetry you came across, you'll also find lively and bustling scenes that you experienced today.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:Is that so? Then I'm still very lacking in my understanding. +I've been too narrow-minded and only cared about how I felt...
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:Haha, don't worry about it. +Actually, a few days ago when we asked QJY-88 to organize the event, she was very unwilling. +She kept saying it was "too much trouble" and "very old-school and lame".
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:Huh? Even she thought so?
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:It's very hard to understand things that we don't usually pay attention to, and that goes the same for us. +Ever since we joined Griffin, we've also experienced a lot of incredible customs and traditions... We've all gone through what you just did. +But I think...whenever we come across something unfamiliar, rather than rejecting and avoiding it, it's better to learn more about it with an open mind.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:... +<color=#A9A9A9>(She's right. I saw an aspect of eastern culture that contradicts what I imagine it to be and buried my head in the sand.)</color> +<color=#A9A9A9>(But if I keep doing that, I'll never truly understand what eastern culture actually is.)</color> +I see that now, 95. +Thank you for sharing your thoughts with me. I'm feeling much better.
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:That's alright. +Since you are so interested in our culture, you're very welcome to discuss anything with me.
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:Really? That's great! +There are certain parts in this anthology that I don't quite understand. Could you explain them to me?
+95type(4)<Speaker>Type 95</Speaker>;CZ52(2)||:Gladly. But the New Year visits are still going on... Why don't we leave this till after everyone receives their New Year blessing?
+95type(4);CZ52(2)<Speaker>CZ52</Speaker>||:Sure. +...95, may I come along with you?
+95type(4)<Speaker>Type 95</Speaker>||:Of course.
+CZ52(2)<Speaker>CZ52</Speaker>||:Then...please give me a second.
+()||<黑屏1>:CZ52 gently places the booklet back onto her bookcase and leaves the dorm with Type 95.
+CZ52()||<黑屏2><黑屏1><BIN>9</BIN>:Today is the first day of the eastern New Year... Today, I experienced eastern traditions first-hand. +Then for my New Year's wish... I hope I'll get to travel in an eastern country this year!

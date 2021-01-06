@@ -1,0 +1,62 @@
+()||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM>:M4A1 confirms that the signal is of Griffin origin, then opens the door cautiously... +...and finds an unfamiliar T-Doll staring back at her.
+M4A1(2)<Speaker>M4A1</Speaker>||:May I ask...
+xm3(0)<Speaker>Serious-looking T-Doll</Speaker>||:All checks out. You ARE Miss M4A1, correct?
+M4A1(0)<Speaker>M4A1</Speaker>||:And you are...?
+xm3(0)<Speaker>XM3</Speaker>||:Griffin Tactical Doll XM3, a colleague of yours. Do you not have my record?
+M4A1(0)<Speaker>M4A1</Speaker>||:I've been away for a while and haven't updated my database yet.
+xm3(0)<Speaker>XM3</Speaker>||:That's alright. It's the Commander's fault for not informing me beforehand. +In any case, the Commander sent us to pick you up.
+M4A1(2)<Speaker>M4A1</Speaker>||:The Commander...sent you for me? ALL of you?
+xm3(0)<Speaker>XM3</Speaker>||:Why not? You're an important T-Doll. I know you're worth it.
+M4A1(2)<Speaker>M4A1</Speaker>||:Ugh... But how does the Commander know I'm here?
+xm3(0)<Speaker>XM3</Speaker>||<黑屏1>:The Commander received intel regarding your whereabouts and made it a priority to retrieve you. +We'll have time to talk on the way. Let's get in the vehicle.
+()||<BIN>9</BIN><黑屏2>:Ten minutes later, the freighter train is traveling along the tracks.
+M4A1(0)<Speaker>M4A1</Speaker>||:Where are we going?
+xm3(0)<Speaker>XM3</Speaker>||:Wait, you came here without a clue about what's happening? +We're heading toward the frontline. The Commander will be the vanguard in our joint operation with the Military as we track down Sangvis Ferri's Mastermind. +I just sent you the details.
+M4A1(0)<Speaker>M4A1</Speaker>||:...Got it. I was just worried I was on the wrong track. Looks like I'm not. +Do you know where SOP-II is right now?
+xm3(0)<Speaker>XM3</Speaker>||:Give me a second to consult the mission logs. +The AR Team...should be out on another mission. They've been away for a while now so they should be returning soon.
+M4A1(0)<Speaker>M4A1</Speaker>||:"They"?
+xm3(0)<Speaker>XM3</Speaker>||:M4 SOPMOD-II and RO635. Is there a problem?
+M4A1(2)<Speaker>M4A1</Speaker>||:Uh, not at all... +(RO...635? Does the AR Team have a new member?) +What is the Commander doing?
+xm3(0)<Speaker>XM3</Speaker>||:The Commander is currently providing support for the Military in the upcoming operation, and was very surprised to learn of your return. That's why we were sent to rendezvous with you.
+M4A1(0)<Speaker>M4A1</Speaker>||:You didn't come all the way from the frontline, did you?
+xm3(0)<Speaker>XM3</Speaker>||:Of course not. We just happened to be running some logistics in the area and were dispatched here instead.
+M4A1(0)<Speaker>M4A1</Speaker>||:Sorry for making you take a detour.
+xm3(0)<Speaker>XM3</Speaker>||:It's only right that we do whatever we can to aid you. +But I'm amazed you dared to come in all alone. This place is more dangerous than any of the areas under Griffin jurisdiction.
+M4A1(2)<Speaker>M4A1</Speaker>||:I apologize for barging in thoughtlessly and causing you trouble.
+xm3(0)<Speaker>XM3</Speaker>||:It's not your fault. But if the Commander didn't order you to come, who was it that gave you such an outrageous mission?
+M4A1(0)<Speaker>M4A1</Speaker>||:No one... I came here on my own volition.
+xm3(0)<Speaker>XM3</Speaker>||:Your own volition? What's a...volition?
+()||:XM3 looks confused.
+M4A1(2)<Speaker>M4A1</Speaker>||:Uh... Let me see... +My team has always been searching for a way to eliminate Sangvis Ferri permanently. +So naturally, it is my objective to participate in the hunt for Mastermind.
+xm3(0)<Speaker>XM3</Speaker>||:A target of such high priority? You have a tough job.
+M4A1(0)<Speaker>M4A1</Speaker>||:It's alright. I'm just fighting for everyone's sake. +(Mutters) Even if it's only for them, I can't miss this...
+xm3(0)<Speaker>XM3</Speaker>||:As expected of a special ops team leader. If only everyone were as eager as you. +This is the largest operation in Griffin's history. A lot of T-Dolls on duty are working beyond their capacity, but some rubbish ones are scared crapless. +I say "in Griffin's history", but it's really only been two years...
+M4A1(0)<Speaker>M4A1</Speaker>||:(She may look serious, but she does have a sharp tongue...) +You seem pretty fit yourself though.
+xm3(0)<Speaker>XM3</Speaker>||:All the training I've gone through is for the sake of this day. +I just got here but I already have the opportunity to achieve unimaginable glory. Isn't that a fortunate thing?
+M4A1(0)<Speaker>M4A1</Speaker>||:Aren't you afraid of what most T-Dolls fear? +Like...falling in battle and losing your memories?
+()||:XM3 falls silent for a moment.
+xm3(0)<Speaker>XM3</Speaker>||:...At least I'll still be remembered.
+M4A1(2)<Speaker>M4A1</Speaker>||:Huh?
+xm3(0)<Speaker>XM3</Speaker>||:Is losing your memories that scary? Isn't that a privilege of being a T-Doll?
+M4A1(2)<Speaker>M4A1</Speaker>||:A privilege?
+xm3(0)<Speaker>XM3</Speaker>||:A human dies for good if they get shot, but for us T-Dolls, that's just a part of life, isn't it? +We don't experience true death. Falling in battle is just part of our growth, and I've come to terms with it.
+M4A1(2)<Speaker>M4A1</Speaker>||:(A part of a T-Doll's life, huh...) +(Then I guess I'm really not like you...)
+xm3(0)<Speaker>XM3</Speaker>||:Is something wrong?
+M4A1(0)<Speaker>M4A1</Speaker>||:No... You'll make a fine team leader, XM3. +Is the Commander online? I want to get in touch.
+xm3(0)<Speaker>XM3</Speaker>||<BGM>BGM_Empty</BGM>:Sure, but you'll have to link up with me first. +All the channels have been encrypted. Our original communication modules aren't able to...
+()||<SE1>Explode</SE1><震屏>:BOOM!!
+M4A1(3)<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:The first carriage was hit! We're under attack! We have to get off now!
+()||<SE1>Explode</SE1><BGM>BGM_Danger</BGM><震屏>:Boom! Boom!!
+M4A1(0)<Speaker>M4A1</Speaker>||:Are you alright, XM3?
+xm3(0)<Speaker>XM3</Speaker>||<SE2>Gunfight</SE2>:Cough... Still alive. I can fight! +We're still far from the frontline. How did they get here? And why didn't anyone notice them?!
+M4A1(3)<Speaker>M4A1</Speaker>||<黑屏1>:Leave it for now and contact the Commander! +Have all your T-Dolls prepare for battle. We're fighting back!
+()||<BIN>2</BIN><黑屏2><SE2>Gunfight</SE2>:Five minutes later.
+M4A1(3)<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:What's the situation?
+xm3(0)<Speaker>XM3</Speaker>||:I talked to the Commander, but our forces are stationed too far from us so they can't come to our aid!
+M4A1(3)<Speaker>M4A1</Speaker>||:Then we're on our own! But with the T-Dolls we have...
+xm3(0)<Speaker>XM3</Speaker>||<SE2>Gunfight</SE2>:The Commander has notified the Military forces in this area! +They'll be lending us a hand so we have to join up with them!
+M4A1(3)<Speaker>M4A1</Speaker>||:The Military... It's better than nothing, I suppose!
+xm3(0)<Speaker>XM3</Speaker>||:The Commander has also transferred my command authorizations to you! You have a command module, right? Give the order then!
+M4A1(0)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Thank the Commander for me! +Listen, all of you! Gather around me! We're fighting our way out!
+xm3(0)<Speaker>XM3</Speaker>||<黑屏1><SE1>Battlefield</SE1>:Follow M4A1's orders and prepare to attack!
+()||<黑点2><BIN>10</BIN>:

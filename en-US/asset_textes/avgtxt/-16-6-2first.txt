@@ -1,0 +1,28 @@
+()||<BIN>34</BIN>:...Click.
+AN94(0)<Speaker>AN-94</Speaker>||<BGM>BGM_Sneak</BGM><BIN>34</BIN>:I've received a comms request from AK-12. She's broadcasting in clear. Shall I put her through?
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Oi, didn't I tell her not to do stupid things like that with Parapluie around...
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:If I devote all my neural capacity to defense, I can hold the connection under the Parapluie virus interference for 10 seconds.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Do it.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>;NPC-Ange(0)||<BIN>34</BIN>:Ange, are you listening?
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:I'm here. You should have received your mission. Gather at point β.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:While this really isn't the best timing, uh... +Well...we kinda ran into some trouble.
+AK12(0)<Speaker>ST AR-15</Speaker>;NPC-Ange(0)||<BIN>34</BIN><SE1>Gunfight</SE1>:Just get to the point! +Ange, we're pinned down by Sangvis' main forces and we need support!
+NPC-Ange(0)<Speaker></Speaker>||<BIN>34</BIN>:...Pssst...pssst...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Don't expose yourselves for too long! Hang on until we can get there!
+NPC-Ange(0)<Speaker>ST AR-15</Speaker>||<BIN>34</BIN>:Ange, another thing—
+NPC-Ange(0)<Speaker></Speaker>||<BIN>34</BIN>:...Psst...pssst...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:And what is M4A1's condition? +AR-15?
+()||<BIN>34</BIN>:...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:AR-15? AK-12? +Tsk, goddammit...
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Ugh...Ange... +I'm sorry, that was my limit. +I...I should have been able to do better...
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:You've already done very well for a combat-type. AK-12 and AR-15 are currently pinned down by the Sangvis main force.
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Your orders, then; are we going to rescue them?
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Correct. Prepare to have AK-12 owe you one.
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:This has nothing to do with owing anyone anything. It is my duty to keep her safe.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN><黑点1>:(Shrugs) Whatever works, as long as you're happy.
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>10</BIN><黑点2>:I managed to glean some data on the enemy forces within the area during the previous scan. This is the map of the combat zone where Task Force DEFY is currently located. +There will be many enemies along our axis of advance and there is an elite ringleader among the Sangvis forces surrounding AK-12.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>9</BIN>:Executioner...So even a Sangvis unit like that is insanely powerful, huh?
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>9</BIN>:In any case, breaking through will not be easy.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>9</BIN>:So...do you want me to abandon AK-12 and AR-15?
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>9</BIN>:You have but to give an order and I will fulfil it with all my might.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>9</BIN><黑屏1>:Then let's head out! They're waiting for us!

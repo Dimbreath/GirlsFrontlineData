@@ -1,0 +1,31 @@
+()||<BIN>85</BIN><BGM>BGM_Room</BGM>:...
+NPC-Ange(0)<Speaker>Ange</Speaker>Ange</Speaker>||<BIN>85</BIN>:...Right, orders received. +Yes, we'll get it done by tonight. The night is very handy for hiding us. +...Yes. +We will definitely stop the Military from taking Mastermind. Definitely.
+()||<BIN>85</BIN>:...The transmission ends.
+NPC-Ange(0)<Speaker>Ange</Speaker>Ange</Speaker>||<BIN>85</BIN>:Members of Task Force DEFY, we've got a new job. +First off, you're the team leader, M4A1.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:Eh? Me?
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>安洁</Speaker>||<BIN>85</BIN>:You're the most experienced commander here. I trust you.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:I...
+M4A1Mod(0)<Speaker></Speaker></Speaker>||<BIN>85</BIN>:M4A1 glances at AR-15, who nods.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>85</BIN>:I understand. I will lead everyone in completing the mission.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<BIN>85</BIN>:Looking forward to your performance, new leader.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<BIN>85</BIN>:Well, someone's sitting back and watching the fireworks.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>85</BIN>:Might as well take the opportunity to see how our seniors do things. +Right, AN-94?
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>85</BIN>:Yes... welcome, Miss M4A1.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:Right, now for your orders. +The Military's current objective is very clear-cut - they want the Sangvis Ferri Mastermind.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>85</BIN>:...!
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:The objective of this operation is to stop them, and then to figure out why they want to do this.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:In any case, we're going to be throwing a monkey wrench into the Military's plans, right?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:That's "DEFY" for you...
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:Your current mission is to infiltrate a military-controlled transmissions repeater station. +After taking it over by force, AK-12 will do the hacking. +This is the only way we can further eavesdrop on the Military.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>85</BIN>:Acknowledged.
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>85</BIN>:Will you be alright by yourself over here, Miss Ange?
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:I won't be taking part in any direct combat on my end, so don't worry.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:Miss Ange... +While completing the mission is a given... +May I have your permission to look for a missing T-Doll?
+M4A1Mod(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:SOP-II, huh... +Sorry, but completing this mission is your top priority. +I'll authorize you to take independent action depending on the situation after that.
+M4A1Mod(2)<Speaker>M4A1</Speaker>||<BIN>85</BIN>:Understood... I will carry out my orders. +Give us a while to sort out our gear.
+()||<BIN>85</BIN>:...M4A1 leads everyone away.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:AK-12. +What do you think of M4A1's performance so far?
+AK12(0)<Speaker>AK-12</Speaker><通讯框>;NPC-Ange(0)||<BIN>85</BIN>:She strikes me as being... a lot more proactive than her data indicates. +However, I feel that this is due to the influence of her neural cloud. Her thought processes tend towards risk-taking and she lacks a clear sense of purpose. + It's as though... she was controlled by something other than her orders.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN>:I understand. +As a new model of elite T-Doll, it must grate on you to have to take orders from other Dolls, huh.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:Personally, it's not so bad if those orders are interesting enough. Also... +Observing the interesting things they do is  a hobby of mine.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>85</BIN><黑屏1>:That's just like you. Go, and take care of AN-94.

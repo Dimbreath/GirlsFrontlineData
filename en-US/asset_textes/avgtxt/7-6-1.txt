@@ -1,0 +1,14 @@
+()||<BIN>8</BIN><SE1>Battlefield</SE1><BGM>BGM_Empty</BGM>：Five minutes after sabotaging the Sangvis communication outpost.
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||：Commander, we're being hailed on a public channel!+It bears the identification of Sangvis Ferri. Most probably the Ringleader behind this attack.+What do we do? Should I answer the call?
+()||<BGM>BGM_Boss</BGM>：...Sangvis call accepted.
+BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||：Good morning, Griffin Commander.+I don't know how exactly you located my communication outpost. Someone's probably been cheating.+But then again, it's dull to strategize by the rules. Variables like this are what makes things fun.+So...allow me to join in on this little game...
+NPC-Kalin(2)<Speaker>Kalin</Speaker>||：Commander! Massive amount of Sangvis unit signals incoming at 4 o'clock position from the detention center!
+BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||：I'm targeting that detention center. Make no mistake, I'm much more lethal than the little bugs from before...+I'll kill every single Griffin T-Doll in sight with my own hands.+Well? Would you like some time to come up with a countermeasure?
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||：What do we do, Commander?+If we intercept Dreamer, we won't be able to defend the detention center.+Besides, we don't even know what's going on inside the establishment. We have no way of breaking in to get them out...
+RO635(0)<Speaker>RO635</Speaker><通讯框>;NPC-Kalin(4)||：Commander, Miss Kalin, please leave the mission to me.+I have already reached the detention center and am about to infiltrate the building.+I shall follow the preset stratagem and rescue all trapped T-Dolls, including M4A1.
+RO635(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||：Can it be done, RO?+But...signal is completely jammed by Parapluie within the detention center.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Kalin(2)||：Parapluie isn't the cause of the jam. It's something much more terrifying.+But don't worry. I've brought a device to neutralize the threat.+I'm also equipped with a basic command module, which enables me to issue simple commands in the building.
+RO635(0);NPC-Kalin(4)<Speaker>Kalin</Speaker>||：Should I transfer all control of the detention center to her?
+RO635(0)<Speaker>RO635</Speaker>||：...
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Thank you for your recognition, Commander.+Please concentrate on intercepting Dreamer, and leave the rescue of the AR Team and the others to me.+Rest assured, it shall be done.
+BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>10</BIN>：Time is running out. Have you gathered your wits and forces to stop me...?+...Splendid. Then let the game begin...+I look forward to your warm reception, Lord Commander ♪.

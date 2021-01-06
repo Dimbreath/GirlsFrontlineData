@@ -1,0 +1,151 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Truth</BGM>:
+()<Speaker>Angelia</Speaker>||<BIN>9</BIN><黑屏2><SE1>Heartbeat</SE1>:It took me two minutes... +...to regain my consciousness.
+()<Speaker>Angelia</Speaker>||:I spent ten minutes... +...groveling on the ground, crawling on all fours, leaning against cover, and doing some feeble first-aid on myself - but it's better than nothing.
+()<Speaker>Angelia</Speaker>||:I spent a minute... +...thinking. +...Trying to figure out if I was alive or dead.
+()<Speaker>Angelia</Speaker>||:Then it took me ten seconds to arrive at the conclusion...
+()<Speaker>Angelia</Speaker>||<黑屏1>:I'm still alive, but I'll be dead soon.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<BIN>157</BIN><睁眼>:Cough... +Cough... +This is unbearable... my body isn't working properly... +M4A1... +AK-12... +Can you hear me? What's your situation? And the mastermind? Did you intercept her?
+()<Speaker></Speaker>||:... +...There is only static in the channel.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:Tsk... this place is too saturated with radiation for comms to work. I must...get out of here... +I don't know if this body...can even handle a fight...
+NPC-AngeDamage(2)<Speaker></Speaker>||:...Ange shoves her communicator into her pocket with great difficulty.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I can't say I don't care about my physical appearance at all, so I have no desire to find out what my face looks like right now. +But judging by my hands...I must look like a proper monster. +I will eventually succumb to death...and something worse...
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏>:Cough! Cough!
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I know what that is...
+()<Speaker>??</Speaker>||:GUARGHHHHH!!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:...!
+()<Speaker></Speaker>||:...Blood-curdling howls can be heard from afar.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1>0,0.7<黑屏1>:...It's them. I know these ominous howls. The stuff of nightmares from even before WWIII. +My wheezing and coughing will draw them this way. I have to leave this place...soon!
+()<Speaker></Speaker>||<BIN>157</BIN><BGM>BGM_Empty</BGM><黑屏2>:Later... Ange hides behind cover and the communicator suddenly comes to life.
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Ange! Ange, are you alright?! You didn't answer for so long! I thought you'd...</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Persica(1)||<BGM>BGM_Room</BGM>:Cough...I won't turn into what you thought so easily...
+NPC-AngeDamage(0);NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>Ange, I knew you'd be alright—</color> +<color=#00CCFF>Haha, that's a lie. I was certain that you died, but you actually survived. This is the second time you surprised me.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(0)||:Sorry for defying your expectations and not dying. Let's compare notes. I'm still within the contamination zone but I can't get in touch with Task Force DEFY. +If they didn't complete the mission, we must have a back-up plan for the back-up plan... +I know you don't really give a damn about whether I live or die, Havier, but it doesn't hurt to ask - can you give us any kind of support? I'll take anything.
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>You know I can't bypass Statesec's authority to lend you aid. Why don't you ask your chief?</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:You must be joking! +I even detonated that freaking dirty bomb! NOW you're telling me you can't bypass some goddamn authority?!
+NPC-AngeDamage(3);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>Calm down, young lady. Getting worked up will accelerate the infection.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:...You know I'm infected?
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>Anyone inside the irradiation zone of a Collapse Fluid dirty bomb is definitely going to be affected by Eurosky Low-Emission Infectious Disease. Whether you can make it out alive depends entirely on your endurance. At least, judging by your reaction, your current physical condition seems to be alright.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:Well, thanks for the praise...
+NPC-AngeDamage(0);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Don't be hasty, Ange. Havier has been coordinating reinforcements the whole time. Let him finish, okay?</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:Fine...cough...I guess...
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>Sorry, let's cut to the chase. I will try to get in touch with your Chief Zelinsky.</color>+ <color=#00CCFF>But I know even you can tell that the chances of him sending in reinforcements are close to nil. That's why you haven't contacted him yourself, isn't that right?</color>
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:Indeed, I won't put my hopes on them. Especially since I set off the dirty bomb, I've effectively aligned myself against the chief...
+NPC-AngeDamage(2);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>However, I won't let him hinder our efforts, which is why Persica and I have already come up with a solution for you.</color> +<color=#00CCFF>Rather than relying on others, why not solve the problem yourself? Explain away, Persica.</color>
+NPC-AngeDamage(0);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Sorry, Ange. You said before that with their current armaments, T-Dolls cannot fight the military on even ground. It got me thinking...</color> +<color=#00CCFF>You remember that the Griffin Commander once captured a Sangvis Ringleader?</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:You mean...the Doll...known as "Architect"?
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>I applaud your memory. She is a fantastic technological sample. Very willing to cooperate, too.</color> +<color=#00CCFF>Persica has collected a lot of data from her and her weaponry and created some new stuff out of them.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:You developed weapons using the enemy's anatomy?
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>Don't worry. We didn't thank her.</color> +<color=#00CCFF>Persica has been conducting related research on her. Theoretically speaking, T-Dolls can be equipped with some sort of heavy weaponry, which will make them more powerful. Naturally, the cost of research and development will be quite considerable. After all, programming an AI capable of allowing multiple T-Dolls to control complex weapons isn't exactly cheap.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:Control heavy weapons? But doesn't this go against the terms and conditions regarding armaments of PMCs?
+NPC-AngeDamage(0);NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>It's expensive, dangerous, and illegal. This kind of stuff doesn't sell at all. Theoretically, as an investor, I should stop Persica from pouring resources into this research.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(0)||:But you're exactly the kind of guy that likes playing with such dangerous things...
+NPC-AngeDamage(0);NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>"Boring weapons are worthless!" You'd better thank me for being exactly the kind of guy that might just save you.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(0)||:Cough... You have my deepest gratitude... +Still, you're wrong about one thing, Havier - the likelihood of me escaping successfully is infinitesimal. +The one I want you to aid is the Griffin Commander. Hand those expensive, dangerous, and illegal toys of yours to the Commander, and Griffin's forces might just get out of this...
+NPC-AngeDamage(0);NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>What? But you need help the most...!</color>
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;NPC-Persica(1)||:Me? What else can I do...? I'm taking my last breaths in the epicenter of the irradiation zone. I can't pursue the mastermind, nor do I have any T-Dolls with me to fight off the military... +Even if you send your heavy weapons over, they'll only be dealing with some ELID zombies... Havier, I'm sure you won't invest in something unprofitable, right?
+NPC-AngeDamage(2);NPC-Havel(1)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-AngeDamage(2);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But...</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:I'm merely stating facts. You know I only ever consider the consequences when planning my moves.
+NPC-AngeDamage(3);NPC-Havel(1)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>Are you certain? You honestly think this commander is worth trading your life for?</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:It's not a trade, but one's choice... and I don't plan on giving up on myself just yet... +The fact is that I'm in no shape to supervise the situation. Giving them to the commander might still give us a chance. +Besides, this commander's mettle has already been tested during the fight against the military. If DEFY needs help, the commander won't just sit back and do nothing... +Not to mention even if the mission fails...at least Griffin will survive.
+NPC-AngeDamage(3);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>Should I be touched on Griffin's behalf?</color>
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:I was part of them for a while. I liked it there... +Hurry up. If you tarry any longer, even Griffin will be lost.
+NPC-AngeDamage(2);NPC-Havel(1)<Speaker></Speaker>||:...Havier lets out a heavy sigh on the other end of the call.
+NPC-AngeDamage(2);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>You know I won't abandon you, but I also understand where you're coming from.</color> +<color=#00CCFF>I know the commander you speak of, but I don't have the coordinates.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:If Griffin hasn't switched position yet, the commander should still be at the temporary command post. +The base is a fair bit of distance away from Ground Zero. There should be other T-Dolls and employees who survived as well. On top of giving them reinforcements, I hope you can also help them evacuate...
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>I'd like to help, but you're the only one with a satellite communicator. We can't get in touch with the Commander.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Havel(1)||:I'll try to find a base where I can set up a comms channel...but I'm not sure if I can do that...
+NPC-AngeDamage(0);NPC-Havel(1)<Speaker>Havier</Speaker>||:<color=#00CCFF>You'd better hurry. Do that, and you could still be cured of your infection.</color> +<color=#00CCFF>I'll be away for a while to get clearance for the mobilization of transports. I hope you'll stay alive till then.</color>
+NPC-AngeDamage(0)<Speaker></Speaker>||:Havier leaves the conversation.
+NPC-AngeDamage(0);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Since you know Griffin's location, if you can withdraw to their security zone...</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:I know. That's my last chance. But do as I say first... I'll try my best to get myself over... +The ELIDs are getting close. I gotta move. Talk to you later.
+NPC-Persica(3)<Speaker>Persica</Speaker>||:<color=#00CCFF>Ange, wait! We'll do everything we can to—</color>
+()<Speaker></Speaker>||:...Ange terminates the transmission.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:If you had seen my face, you'd know there's nothing you can do. +Of course, there is the possibility that I won't even have this face for long...
+NPC-AngeDamage(2)<Speaker></Speaker>||:...Ange leans against the wall and sighs.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:What a drag... I don't wanna move at all...
+()<Speaker></Speaker>||:...The footsteps and howling are getting closer and closer.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:Tsk, they've noticed me... +I might not have long to live...but dying here is too pathetic... +C'mon, Ange. Just go a bit farther...
+()<Speaker></Speaker>||<BIN>157</BIN><黑点2><BGM>BGM_Empty</BGM>:...Ange dashes over to the next cover object. The monstrous howls follow her like a shadow.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<BGM>BGM_Sad</BGM>:I'm almost at my limit... +Is my body finally giving out...?
+()<Speaker>??</Speaker>||<震屏>:GUARGHHHHH!!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Where is it...? +It's closing in... +Where the hell is it?!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker><Shake>||:...! +From behind!
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Ange spins around and shoots the monster with her pistol! +...Her aim was true, but...!
+()<Speaker>??</Speaker>||<震屏>:GUARGHHHHH!!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:That didn't kill you? +As expected of an...
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏><SE2>MachineGunBurst</SE2>:E!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏><SE2>MachineGunBurst</SE2>:L!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏><SE2>MachineGunBurst</SE2>:I!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏><SE2>MachineGunBurst</SE2>:D!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<震屏><SE2>MachineGunBurst</SE2>:IN! FECT! ED!
+()<Speaker></Speaker>||:...
+()<Speaker></Speaker>||<震屏>:...The monster flops onto the ground.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:(Pants) +(Pants) +Cough... +So...they CAN be killed.
+()<Speaker>ELID</Speaker>||<震屏>:GUARGHHHHH!!
+()<Speaker></Speaker>||:...More ELIDs come creeping en masse!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Did the gunfire attract them?
+()<Speaker></Speaker>||:...Ange pulls the trigger again, but she's out of ammo.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:I knew it...
+()<Speaker></Speaker>||:...Ange drops the pistol and steps out with open arms.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Fine, this place it is. I hope no one sees me.
+()<Speaker>ELID</Speaker>||<震屏>:GUARGHHHHH!!
+()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:My...you've even got your last words figured out, eh?
+()<Speaker>??</Speaker>||:Sorry, we came too early.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1><CGDelay>0.4</CGDelay>:You two...
+()<Speaker>Angelia</Speaker>||<BIN>9</BIN><黑屏2>:Sort this out while I still have the will to change my mind.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><黑屏1>:...
+()<Speaker></Speaker>||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:How did you find me...?
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:You kept hailing us. We couldn't communicate, but it helped us lock onto your coordinates. +We thought you weren't going to last long, but you were surprisingly quick on your feet. We've been killing these things and running after you the whole time.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:Tsk, so my instinct of not wanting to move was right.
+AK12(0)<Speaker>AK-12</Speaker>||:Who would've thought these things actually do exist? And here I thought some of that training would never come in useful.
+AK12(0)<Speaker></Speaker>||:...AK-12 flips an ELID corpse over with her foot.
+AK12(0)<Speaker>AK-12</Speaker>||:Still, they're nothing more than disgusting and pathetic monsters.
+AN94(0)<Speaker>AN-94</Speaker>||:So this is a person infected by the Eurosky Low-Emission Infectious Disease...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:We usually just call them ELIDs. Is this the first time you've seen them? They are quite rare after WWIII. +Most people with lower endurance will die directly to the radiation, but this is what happens to the healthier ones when the infection worsens. The flesh undergoes silication, the mind deteriorates, and they become highly aggressive before they truly die. +Be glad that the explosion only happened a short while ago. The longer they stay within the irradiation zone, the more fearsome these humans become.
+AK12(0)<Speaker>AK-12</Speaker>||:Are these ELIDs all soldiers from the military caught in the explosion of the Collapse Fluid dirty bomb detonated by M4A1?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Yes. It hasn't been long, so only those in areas close to Ground Zero have turned so far. +But the radiation is spreading, and the humans who didn't retreat in time will soon join them... +...Like me.
+AN94(0)<Speaker>AN-94</Speaker>||:Not for the time being. I am administering some simple treatment on you. Please hang in there.
+AK12(0)<Speaker></Speaker>||:...AK-12 picks up the pistol on the ground.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:It's out of ammo.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:At least make it easier for me to identify your corpse.
+NPC-AngeDamage(0)<Speaker></Speaker>||:...Ange laughs and winces in pain. She takes the firearm.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Cough... It's not efficient to identify corpses from the weapon they carry.
+NPC-AngeDamage(0);AN94(0)<Speaker>AN-94</Speaker>||:Keep still, Ange. I am still disinfecting your wounds.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AN94(0)||:It won't work. Cough... This is Collapse Fluid radiation... The surface of the skin will fester then silicate. Disinfecting it is no use at all... +The muscles and blood vessels will also gradually harden... The pain is unimaginable to you T-Dolls... +I was lucky to last long enough for you to show up. I thought you'd gone after M4A1...
+NPC-AngeDamage(0);AN94(0)<Speaker>AN-94</Speaker>||:M4A1 is pursuing Mastermind, who was brought onboard the military's Intercontinental Railway.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:AR-15 went off with her. We couldn't stop her.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AK12(0)||:Then you should've followed them. I told you, that was your mission.
+NPC-AngeDamage(3);AN94(0)<Speaker>AN-94</Speaker>||:We did our job by giving them cover as they got onboard. The train departed, and there was nothing else we could do. +Our mission is over. What matters now is you.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AN94(0)||:Me? There might still be hope for you if you leave me behind. Take the communicator and get in touch with Persica, then follow her instructions and withdraw.
+NPC-AngeDamage(3);AK12(4)<Speaker>AK-12</Speaker>||:You're giving up already? Ange, since when are you so pessimistic?
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AK12(4)||:Are you confident you can prop me up with one arm and shoot at enemies with the other? +On top of dealing with these zombie movie extras, there's still the military. They won't be completely paralyzed by just an explosion. +If Yegor is still alive, he'll only have one objective - to seek revenge. In other words, to do us in......
+NPC-AngeDamage(3);AN94(0)<Speaker>AN-94</Speaker>||:Then we withdraw. Leave this place behind. +There may still be Griffin Dummies for us to use along the way. We can make it.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:All signals are jammed in the contamination zone. Comms and all navigation systems are down. I don't even know where to go. +How about this...? I'm getting tired... I need some sleep...
+AK12(3)<Speaker>AK-12</Speaker>||:Ange!
+()<Speaker></Speaker>||<震屏>:Smack! +AK-12 slaps Ange hard on the face.
+AK12(3)<Speaker>AK-12</Speaker>||:You asked us to take the communicator and contact Persica, which means we do have a plan. So long as we can find our way out of the contamination zone, we can withdraw, am I right?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:...
+AK12(3)<Speaker>AK-12</Speaker>||:I know you're in great pain, but it's not like you at all to give up just like that. +I remember you still owe us a drink. If you want an easy way out, then let me do you a favor and send you off painlessly.
+()<Speaker></Speaker>||<SE1>Select</SE1>:AK-12 aims her weapon at Ange's head.
+AN94(2)<Speaker>AN-94</Speaker>||:12...nyet...!
+()<Speaker></Speaker>||:The very air seems to freeze. A good few seconds have passed.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><Shake>||:Hnng...pfft... +Hahahahahaha...
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker><Shake>||:Ow, ow, ow... +Dammit. Shouldn't have laughed so hard...
+AK12(3)<Speaker></Speaker>||:AK-12's arms are trembling slightly.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Just rejecting my command is almost overloading your neural module, eh? If you have a neural meltdown here, there's no one left to get me out.
+NPC-AngeDamage(0);AK12(4)<Speaker>AK-12</Speaker>||:Looks like bluffing doesn't work on you.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(4)||:I programmed your IFF codes myself. I must say, I'm surprised you even dared point your gun at me.
+NPC-AngeDamage(0);AK12(4)<Speaker>AK-12</Speaker>||:We're called "DEFY". Just living by the name, I guess? You ought to know we're different than your past subordinates.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(4)||:Humph...thanks for the reminder. I almost forgot that utterly insignificant detail. +AN-94, cease the treatment. We're setting off now.
+NPC-AngeDamage(0);AN94(4)<Speaker>AN-94</Speaker>||:But I have not finished dressing the infected wounds...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AN94(4)||:Save it. It does no good anyway; we might as well start moving.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:Aren't you gonna jauntily brief us on the plan first, as usual?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:Plan? The plan is to move north in a straight line and go as far as we can.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:Why north? And are you sure about moving in a straight line? There are still loads of ELIDs out there. Won't it be safer to take a more evasive route?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:The only security zone still in one piece is in the north. We humans are taught when we're kids that the shortest distance between two points is always a straight line. Now is the time to place my bet on that.
+AK12(2)<Speaker>AK-12</Speaker>||:If you say so. 94, there are approximately 20 ELIDS in the immediate vicinity. Prepare for battle. +I'll forge the way. You stick with Ange like glue.
+AN94(0)<Speaker>AN-94</Speaker>||:Understood. I will guard her carefully.
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Then let's get moving!
+()||<BIN>10</BIN><黑点2>:

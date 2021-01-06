@@ -1,0 +1,45 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><黑屏2><BGM>BGM_Brain</BGM>:...SOP-II runs through the battlefield.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hey, Scarecrow!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:What about your friends?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I left them behind. It's only you and me here.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:And your weapons?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:...<c> I'm unarmed. <c> (Lie) I have them.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||<分支>1</分支>:You're lying!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||<分支>2</分支>:Are you serious?
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:I really am unarmed! Otherwise I could have killed you ten times already at this range, three of them with my bare hands!
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:I was joking. You know that, right? Why on earth would I break my own rules?
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:You really are insane, SOP-II.
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh, you haven't seen me when I really go mad.
+BOSS-1(0);SOPIIDamage(0)||:
+()||:...Scarecrow doesn't answer. She simply signals behind herself.
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:...?
+BOSS-1(0);SOPIIDamage(0)||:
+()||:...A Sangvis Dinergate drags a box up to SOP-II.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;SOPIIDamage(0)||:This is the backup power supply you wanted.
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:You're not asking me why I want it?
+SOPIIDamage(0)<Speaker></Speaker>||:...Scarecrow turns and leaves.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I don't care. I don't need it now.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:So, that's it?
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:We're already withdrawing. Hurry up and get out of here.
+()||:...SOP-II opens the box. It is indeed a Sangvis backup power supply.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:(Shouts) You know I wasn't willing to do this, right? I'd rather talk to your severed head than you!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I only agreed to this negotiation purely out of practical considerations. There won't be a next time.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Then can you run, Scarecrow? You do know the Military is going to prioritize pursuing you, right?
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Why do you care?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:You're excellent bait for us! We'll be sad if you die.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I'll run as far as I can so that you won't have to shed tears on my behalf.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I know you're planning to escape from the Helipad with your tails between your legs, but the Military won't let you off. You won't make it out; their units are much faster than you!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:That's none of your business.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:You're right. I'm just trying to thank you for this auxiliary power supply while I still have the chance. You have no idea how important it is to me! +Of course, you'd better not take that "thank you" to heart.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:After you die, I'll forget what you said.
+()||:...Scarecrow vanishes behind the outpost facilities.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><通讯框>||:<color=#00CCFF>SOP-II! The Military's on the move! Did you get what you wanted?</color>
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I did. I'm on the way back now! +Hang in there! We'll start withdrawing once I return!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>The Military has us surrounded. The only clear routes have us falling back towards S.F. territory.</color>+<color=#00CCFF>SOP-II, you need to find a safe route that avoids Sangvis defense strongholds!</color>
+Cx4Storm(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Got it! +I'll think of a plan along the way!
+Cx4Storm()<Speaker>Cx4 Storm</Speaker>||<BIN>9</BIN><黑屏2>:Hurry... please hurry, SOP-II!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:We've come so far, we mustn't let everyone die here! +Check your map and consult the plans M4A1 and the Commander left behind to see which one is applicable to a situation like this!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Hang on... wouldn't Sangvis-controlled territory make things more interesting?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:M16... I think I understand what you were talking about...
+()||<黑屏1>:...
