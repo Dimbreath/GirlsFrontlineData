@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:23時40分、ベルグラードにある下水道の中にて。
+RO635(0)<Speaker>RO635</Speaker><Shake>||:な、何の音！
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:敵？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:いや……センサーが信号を捕捉していない、でも反射面積が急に大きくなった……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:反射？面積？私にも分かるように説明してよ！
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:しっ……この方向からの音、敵の増援ではなさそう……+待って……B2、G5、そしてK9の防水ゲートのアクセス権限が急に上げられた？！
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO！足元！水！水が入ってきたよ！
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:水！？+防水ゲートが開かれた？！わたしたちを溺れさせる気か！
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:溺れる？私たちが？
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:忘れたのか！今の素体は最低限の防水機能しかついてないから、水に浸かったら間違いなくショートする！
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え……じゃあ今から間に合うの？
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:さすがにこの水の上昇速度には……+見えたわ！前に足場がある！SOP II、そこへ跳べそう？
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:問題ないよ！ヨイッショ――！
+()||<黑点2><BIN>164</BIN>:SOP IIとROは一緒に足場の上に跳んだ。
+RO635()||:ここなら少し持ちそう……+待って、今ゲートの権限を奪い返してみる……+……ダメだ、アクセスが拒否されてる！+やっぱり、さっきあんなに簡単に権限を書き換えれたこと自体がおかしかった！これはわたしたちを誘い込む罠！
+M4 SOPMOD II()||:さっきのように権限を奪え返せないの？
+RO635()||:さっきは敵がわざとこっちに権限を奪わせたの、今はファイヤーウォールのレベルが上げられて……+しかも他のゲートのコントロール権も更新されている！それも阻止しないと――+SOP II、わたしをしっかり掴んで！もう一度セカンダリレベルで突破してみる――少し時間かかるから、わたしを水の中に落とさないように！
+M4 SOPMOD II()||:分かった！しっかり掴んでおくね！
+RO635()||:ありがとう。指揮官、まだいますか？
+指揮官()||:<color=#00CCFF>バックドアがファイヤーウォールに検知された、今新しい侵入ルートを探している。</color>
+RO635()||:ありがとうございます、指揮官。+やっぱりこれは罠……でもこの重要な手がかりを見逃すわけにはいきません。
+RO635()||<黑点1>:セカンダリレベルからゲートのコントロール権を奪い返してみます。相手も直接外部からの接続を切る可能性がありますが……+そっちも遠隔で操作しているのなら、理論上そんなことはしないはず……そうしないように願うしかありません……+相手の防御をより早く突破できるように、他の人形の演算リソースをこちらに回してください！では、始めましょう！
+<Speaker>M4 SOPMOD II</Speaker>()||<BIN>165</BIN><黑点2>:よし！やっちゃえ！+えっと……今回は目を閉じなくてもいいの……？
+<Speaker>RO635</Speaker>()||:あいつら……
+<Speaker>M4 SOPMOD II</Speaker>()||:あいつら？
+<Speaker>RO635</Speaker>()||:あいつら接続ポートを全部切った……！もうゲートを操作する気がないってこと？！
+<Speaker>M4 SOPMOD II</Speaker>()||:ええええ！！+じゃあもう本当にお終いじゃない！
+<Speaker>RO635</Speaker>()||:いや……慌てるな……きっとまだ方法が……
+<Speaker>M4 SOPMOD II</Speaker>()||:本当に？！もう太ももが水に浸かってるよ！
+<Speaker>RO635</Speaker>()||:だ、大丈夫だ、SOP II、そそそそう焦るな、これはただSOP IIがチビだからかもしれない！
+<Speaker>M4 SOPMOD II</Speaker>()||<黑屏1>:ええええ？！ROにそんなこと言われたくないよ！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||<黑屏2><BIN>167</BIN>:<color=#00CCFF>RO、まだいるか？</color>
+RO635(0)<Speaker>RO635</Speaker>||:いる！そっちは大丈夫か？
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>大丈夫だが、水を流している排水口を二つほど確認している。もしかして敵の水攻めか？</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:そうよ！それ以外ないでしょ！
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>はいはい、分かった。</color>+<color=#00CCFF>増援の部隊はすでに到着した。指揮官も敵司令部の位置を把握している。これから一気にあいつらを叩くよ。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:じゃあ急いで！これ以上はもうROの頭に乗っかって水を避けるしかない！
+()||<黑点2><BIN>10</BIN>:

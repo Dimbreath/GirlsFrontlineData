@@ -1,0 +1,16 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:AR小隊が司令室に入った。+…………
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:（室内に人間がいる。）
+M4A1()<Speaker>M4A1</Speaker>||:……（ええ。）+（突入用意、3、2、1……）
+()||<BIN>22</BIN><SE1>Explode</SE1><震屏>:……バンッ！
+M4A1(3)<Speaker>M4A1</Speaker>||:そこの人間！手を挙げて、こちらを向きなさい！
+？？()<Speaker>？？</Speaker>||:……
+M4A1(3)<Speaker>M4A1</Speaker>||:最後の警告です。//n手を挙げなさい。さもないと撃ちますよ！
+？？()<Speaker>？？</Speaker>||:お前たちにそんな権限はないぞ……
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>||:……私に対してはな。
+M4A1(3)<Speaker>M4A1</Speaker>;NPC-Kyruger(0)||<BGM>BGM_Sad</BGM>:……！！+大変失礼しました、クルーガーさん！
+M16(3)<Speaker>M16A1</Speaker>;NPC-Kyruger(0)||:無礼ながら申し上げますが、クルーガーさん。+これは私たちが引き受けた任務と内容が異なっているように思います。+それに、敵の区域で敵味方識別装置をつけていないのは、非常に危険です。
+M16(3);NPC-Kyruger(0)<Speaker>クルーガー</Speaker>||:もし識別装置が鉄血側の認証を通らなかったら、それこそもっと危険だろう。+新しい装置にはまだ欠陥があるな。//n16LABに改良するよう催促せねば。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||:もしかしてここに来たのは……新しい装置を試すためなんですか？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||:わたしたちは特殊作戦部隊であって、警備部隊とかじゃないんですよ！
+M4A1(3)<Speaker>M4A1</Speaker>;NPC-Kyruger(0)||:SOP II、落ち着いて！
+M4A1(3);NPC-Kyruger(0)<Speaker>クルーガー</Speaker>||<黑屏1>:……+私は変わらずお前らを信用しているぞ。+ここのデータを集め終えたら、新しい任務をお前らの指揮官に言い渡すとしよう。

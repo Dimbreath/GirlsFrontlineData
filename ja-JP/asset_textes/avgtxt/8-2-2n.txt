@@ -1,0 +1,39 @@
+()||<BIN>1</BIN><Night><BGM>BGM_Sneak</BGM>:……作戦が終わり、砲台は停止した。+……貨物を回収するためのヘリは無事着陸した。
+IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:ウェルロッドさん、鉄血の砲台の接続はすでに解除しました。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker><通讯框>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:前のドアにいた敵も先ほど殲滅したところです、今は重要な荷物をヘリに積みこんでいます。+あなた方は今どこに？
+Welrod(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:他にどんな危険が潜んでいるかわかりませんので、ここであなたたちが離脱するまで援護しています。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||<BIN>1</BIN><Night>:了解です、感謝します。//nこれは、あなた達の揺らぎない信念がもたらした勝利です。
+()||<BIN>1</BIN><Night>:……通信終了。
+IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:やった……わたくしたちやりましたよ！+しかもウェルロッドさんがわたくしたちを褒めてくれましたよ！
+Glock17(0)<Speaker>G17</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:ははっ、雪辱を果たせたね！掲示板のやつらもやっと休めるね。
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:掲示板？
+Glock17(0)<Speaker>G17</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:あっ……まずい……
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:掲示板にわたくしたちのことが……？+わたくしも探していましたが、一度も見ていませんよ？
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:とっ、とにかくもうそれはいいじゃん！//n今はもうみんなメンタルを改めるしかないんだからさ！
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:……+「3月15日になったぞ、スプリンナ」。+カエサルは暗殺されたその日、預言者にそう言っていたそうよ。
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:「3月15日になりはしたが、まだ終わってはいない」……+ですが、この話が一番最初に記載されたのは野史で、作り話だという可能性もあります。
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:私はただ任務がまだ終わってないことを善意で教えてあげただけよ。
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:分かってます……ウェルロッド小隊の荷物の回収が終わったら、今度はわたくしが皆さんを連れて帰る番です……+わたくしはもう二度と、皆さんを前回のような目に遭わせたりはしません！
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:何も覚えていないのに、よくそんなに過去の失敗に拘れるわね。
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:覚えていないからこそ、気を休めるわけにはいかないのです。
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:それでもしも、何かどうすることもできない不測の事態が起きたら、しばらくまた自分を責めるんでしょうね。+自惚れない方がいいわよ。//n貴方は皇帝でも、ましてや神様でもないのだから。
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:ですが、わたくしはあなた方の隊長です。これはわたくしが尽くすべき義務なんです。
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:肩の荷は軽くなったと思っても、時間と共にまた重くなってくるものよ。
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:二人とも、ちょっと聞いて……SSGがいないみたいなの……+砲台を停止させた後から見てないんだけど、偵察に行ってるの？
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:彼女は別にやることがあって、近くをちょっと回らなくちゃいけないの。
+IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:それをなぜわたくしに報告していないのですか？+そのやることとは、AUG、あなたが彼女に命じたのですか？
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:否定はしないわ。
+IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:どうしてわたくしに隠してSSGだけに別の命令を？+ここが十分危険であることは、あなたもよく分かっているはずです！
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:私のことを信頼しているといったのは貴方よ、そして今がそれに応える時なの。+SSGの能力に関しては十分理解しているし、彼女も行動の目的が今の任務よりも重要なことを理解してくれているわ。
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:到底容認できません、もし万が一の事態になったらどうするんですか！+SSG、応答してください。//n今どちらに、応答を！
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:理解に苦しむわ。貴方望みは一体何なの？
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:もう二度と任務達成目前で仲間を失わないことです、もう二度と！
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:盲目的な執着は失敗を招くだけよ。
+IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:わたくしとあなたは違います、AUG。//nなぜなら、わたくしには放っておけない理由があるからです、わたくしは――
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:みんな……とりあえず……
+()||<BIN>1</BIN><Night>:……ピー……
+SSG69(0)<Speaker>SSG 69</Speaker><通讯框>||<BIN>1</BIN><Night>:た……隊長……？IWSさん……？
+SSG69(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:SSG、あなた今どこに？危険な目に遭っていませんか？
+SSG69(0)<Speaker>SSG 69</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:こっちは安全よ……+それで、アタシたちが前回残した残骸はもう見つけたんだけど……
+SSG69(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS2000</Speaker>||<BIN>1</BIN><Night>:残骸？そんなものを見つけて何を？
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:ここ……なんだかおかしいの……みんなすぐに来てもらえない？

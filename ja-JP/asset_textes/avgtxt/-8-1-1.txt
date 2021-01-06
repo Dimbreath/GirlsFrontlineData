@@ -1,0 +1,70 @@
+()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night>:S09地区、鉄血との戦闘地帯にて……
+FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:……FNC、応答せよ、FNC。
+()||<BIN>2</BIN><Night>:……通信機から咀嚼音が聞こえてくる。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:もぐ……もぐ……
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:ハァ……口の中のもの飲み込んでからしゃべってよね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:もぐ…！もぐ！もぐもぐもぐもぐ―！+ごっくん！//nいいよ！どうしたのFAL？
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:どうしたのじゃないわよ……状況報告に決まってるじゃない。+もう目標地点にはついたんでしょ？//nおかしな鉄血の信号は見つけられたの？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:まだ見つからないよ……ちらほらいる鉄血の偵察部隊以外は。
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:49は？//n別の場所で偵察を行ってるんでしょ？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:たくさん報告はきてるよ。//nあいつ……少しでも何かあったら、すぐ報告してくるから。+その中でも1つ気になるのがあって、まあ鉄血とは全然関係ないんだけど……
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:何？//n聞かせて。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:天気だよ。//n今日の天気、なんか普通じゃないというか……+風も強いし、気圧も低いし、空もおかしな感じで。
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:……頭が邪魔よ、ちょっと空を見せて。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:ほら……+あの真っ黒な雲、渦巻きみたいになってるでしょ？+あんなの、天気予報のエフェクトでしか見たことないよ。+まるで怒り狂った綿あめみたいな、いつ爆発してもおかしくない感じ……
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:……確かに。//nでも鉄血は……まだ気象兵器なんて持っていないはずでしょ。+警戒すべき……？//nそれとも考えすぎかしら……+FNC、次はやっぱり……
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:ザー……
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:え？……FAL？//nなんて言ったの？
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:ザザー……
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:もう、こんな時に限って……+FALってホントに話が長いんだから、重要なことをかいつまんで先に話せばいいのに！+どうすればいいのかなぁ……まず49に連絡したほうがいいよね、うん、そうしよう！
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:…………FNCがFN49を呼び出した。+……ピー。+……ピー……ピー……ピー。+ザー……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night><BGM>BGM_Empty</BGM>:FNC……もしもし……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:んー……こっちも通信状況よくないみたい……+それとも……私のほうに問題があるのかな……+まさか…天気のせい……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night>:FNC……気を……付けて……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:えっ……49！//nなんて言ったの？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>2</BIN><Night>:……イントゥルー……+奴が戻って……気を付けて！
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:通信が乱れてて何言ってるのかわかんないよ……
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:………………ザー……ザー。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>2</BIN><Night>:もうっ、通信切れちゃったじゃん！//nこのクソ天気！
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏1>2</黑屏1>:……FNCが空を見上げる。
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN><BGM>BGM_Danger</BGM><黑屏2>:……！
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:これは……どういうことなの……
+()||<BIN>58</BIN>:黒雲が渦を描きながら一か所に集まり、その渦の中心が激しく光り輝き始めた……
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:…………+これって……CGとか、でしょ……？
+()||<BIN>58</BIN>:まるで……「亡霊」がそこから湧いて出てくるかのような——
+FN-FNC()<Speaker>FF FNC</Speaker>||<BIN>58</BIN>:……！！
+()||<BIN>58</BIN><SE1>Explode</SE1><震屏><黑屏1>:
+()||<BIN>8</BIN><黑屏2>2,0</黑屏2>:時を同じくして、S09地区グリフィン司令部にて。
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:もしもし！FNC？//n応答して！+通信が突然途切れたけど、まさか敵が……+57、ちょっと回線の状況を見てきてちょうだい。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:こちらの回線は問題ないわ。+そう言うと思って予め調べておいたの。
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:57、そんなこざかしいことで、取り立ててもらえるなんて思わないことね。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:ハイハイ、くどくどとご苦労なことね……+とにかく、これってFNCの報告と関係あると思わない？
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:天気のこと？//n何とも言えないわね。+私たちの回線がそう簡単にやられるはずはないし、鉄血がそれらしい兵器を使った形跡もないわ。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:ただ万が一、鉄血の仕業じゃないとしたら。+つまり、この天気が、ほかの第三勢力により引き起こされているものだったら。+もちろん、突拍子もない考えだとは思うけどね……
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:そうね、突拍子もないと思うわ。//nでも……全く可能性がないわけじゃない。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:あら、アンタが同意してくれるなんて珍しいわね。
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:戦場に長くいればいるほど、直観やら運を頼るようになるものよ。+だからあなたを助手にしてるってわけ。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:それは褒めてるってことでいいのよね？+アンタも、たまには素直になったらいいのに……
+FAL(0);FN57(0)<Speaker></Speaker>||<BIN>8</BIN><SE1>Explode</SE1><震屏>:ドカーン！——
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:わぁっ！
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:こっ……この強烈な揺れは……！
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:北西からよ！//n……任務目標地点の方向ね！
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:ここまで揺れがくるなんて……いったい何が……
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:衝撃の原因は今のところ不明よ……//n待って、通信回線がつながったわ！
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:だっ……だれ……か…誰かいるの？！
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:FNC！//nそっちで何が起きているの！
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:よかったぁ……ようやく繋がったよ！+さ……さっきね、イントゥルーダーに出くわしたんだよ！
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:……！+さっきの揺れはそいつの仕業なの？
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:わかんない……//nそれで、そのあと……空から雷が落ちてきたの！
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:……えっ？
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:とっても大きな雷だよ！//n爆弾みたいにここ一帯を吹き飛ばしちゃったんだから！
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:雷って……そこまでの威力があるものだっけ？
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:私のところは無事だからよかったけど……+そのあとイントゥルーダーは消えちゃったから、いつ戻ってくるかは分かんないよ。+あっ、そうだ。//nあと近くで昏睡状態の人間の女性を発見したよ。
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:……人間の女性？
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:金髪で……変な服を着てて、現地の人じゃなさそう。+とにかく、さっきの騒ぎのせいで鉄血部隊も動き始めちゃってたから、今すごくまずい状況なんだよ！
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:……支援に向かうから、あなたは今すぐ49と合流して。+ついでにその女性も保護しておいてね。+敵に見つからないように行動して、私たちと合流したら撤退しましょ。
+FAL(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BIN>8</BIN>:わ、分かったよ！
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:……指揮官、どうやら私たちも出撃しないといけないようね。
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:ふわぁ～、やっとここでボーっと待ってる必要がなくなったわけね。+にしても、さっきの雷がもし鉄血の兵器だったら、かなりまずいんじゃないの？
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN><黑屏1>:この件に関してはへリアンさんに報告しておいて。+今回の件……私たちの想像以上かもしれないわ。+それじゃ、いきましょうか。//nFN小隊も再結集の頃合いよ。
+()||<BIN>10</BIN><黑点2>:

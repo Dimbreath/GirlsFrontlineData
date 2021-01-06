@@ -1,0 +1,26 @@
+()||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏1><黑屏2>:……ピッ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>おはよう。</color>+<color=#00CCFF>あ、今何時なのか分からないけど、気にしないよね？</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPIIDamage(0)||:……それで、降参でもしに来たのかしら？
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>交渉よ、スケアクロウ。</color>+<color=#00CCFF>今の状況で、わたしたちに必要なのは……</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPIIDamage(0)||:君と手を組み価値はありませんわ。
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>手を組む？いやいや違うよ。何を考えてるの？</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPIIDamage(0)||:……？
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>あんたがこっちの物資を奪ったことは知ってるよ。//nでもいいの、わたしたちも別にいらないから、ただ一つだけ除いてね。</color>+<color=#00CCFF>グリフィンの予備電源を一個、一個だけでいいの。</color>+<color=#00CCFF>それをくれたら、わたしたちはあんたらを見逃して、お互い干渉せずに撤退する、これでどう？</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPIIDamage(0)||:……+君の話が信用できれば。
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>わたしが自ら、あんたの拠点に取りに行く。しかも武器は持って行かない。</color>+<color=#00CCFF>分かってるでしょう、わたしがいなければ、彼女たちだけでは組織的に行動できない。</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>;SOPIIDamage(0)||:もちろん知っている、さっきまで動きがバラバラだったので。+しかし、わたしがこの隙に君たちの陣地を攻撃したらどうするつもりかしら？
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>そんなことしたら……</color>+<color=#00CCFF>あんたが動くより先に、わたしがこの手で、あんたの醜いマスクと目を引き裂いてやる！</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||<黑点1>:……+なら急ぐことね。軍が攻撃を始める前に。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BIN>99</BIN><黑点2><震屏>:SOP II、本当に行くの？あっちこっち軍の人形だらけなんだよ！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:軍の主力部隊はまだ来てない。自信はあるけど、手伝ってくれる人形もいたら嬉しいな。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:もう私たちの命を預けているつもりですから、好きに選んで！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うん！じゃあ何人かわたしについてきて、すぐ出発するから！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:ちゃんと、戻ってくるよね？その……相手は鉄血だから……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:スケアクロウは約束を守ってくれるよ。自分のためにも、仲間のためにも、他に選択肢はないの。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:鉄血も……仲間のために何かをするの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:するよ、グリフィンでわたしより鉄血に詳しい人なんていないでしょ？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:もしかしていたぶっている時に知ったとか？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:色々とやり合ってきたからね。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:それで私たちの仲間だなんて、本当に不思議。
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:だからわたしはあなたたちの仲間なんだよ。//nCx4、わたしがいない間の防衛ラインは任せたよ、すぐ帰ってくるから！+みんな行こう！軍を避けて、鉄血と交渉するぞ！+グリフィンにいてもなかなか体験できないことだし、その上でわたしと一緒なんだからね！ちゃんとついてきて！
+()||<黑点2><BIN>10</BIN>:

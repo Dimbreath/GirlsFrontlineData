@@ -1,0 +1,11 @@
+()||<BIN>5</BIN><BGM>BGM_Sneak</BGM>:味方部隊の援護を受け、M4A1は無事合流地点に到着した……
+M4A1(3)<Speaker>M4A1</Speaker>||:AR15、SOP II。//nこちらM4A1、目標地点に到着。そちらは？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(3)||:ここだよ、M4！+あはははは！よかったよかった！+ずっと心配でたまらなかったよ！
+SOPII(0);M4A1(0)<Speaker>M4A1</Speaker>||:ふぅ……あなたも元気そうでよかったわ。AR15は？
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||:AR15は……
+SOPII(2);M4A1(0)<Speaker>M4A1</Speaker>||:……え？AR15はどうしたの？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||:M4、落ち着いて聞いてね。+実は、わたしたちの通信が鉄血ボスに盗聴されていたの。//nどうやったのかは知らないけど……+それで相手の追跡を食い止めるため、AR15は時間稼ぎにいってしまったの。
+SOPII(3);M4A1(3)<Speaker>M4A1</Speaker>||:時間稼ぎって……どういうこと？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(3)||:奴らは……もう出発したんだよ。//nM4たちの司令部に向かって。
+SOPII(3);M4A1(3)<Speaker>M4A1</Speaker>||:え？奴らって……鉄血が？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(3)||<黑屏1>:そう、この区域の鉄血ボスが動き始めたの。+とにかく急いで戻ろう、話はあとで説明するから！

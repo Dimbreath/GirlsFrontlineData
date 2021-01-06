@@ -1,0 +1,107 @@
+()||<BIN>83</BIN><BGM>BGM_Hello</BGM>:……
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:キッチンにも……電波塔にも……倉庫にもいなかった……+女王様は一体どこに行っちゃったんだ……？//nどうして見つけられないんだろう……
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:これだけ探しても見つからないとなると、//n勇士妖精が真面目に探していなかったってことになるね！
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:はぁ！？なんでそうなるんだ！//nならお前がやればいいだろー！
+G3(0)<Speaker>Gr G3</Speaker>||:もう……喧嘩はそこまでです……+ちょうど他に用事があったのでしょうか？
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:その可能性もあるけど、それにしては長すぎるんだよね……+ずーっと人形宿舎の屋根裏にいたってくらいの引きこもりなんだよ、女王様は。
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:元々はそこにいたんですね……+ん？人形宿舎？
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:あの玉座にいるようになったのは、指揮官が女王様を探そうとしたからなの。
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:女王様に会える日は指揮官に訪れるのでしょうか……？
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:指揮官よりも自分たちの心配をしたほうがいいぞ……+まったく、どうしてこんなことに……
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:ひょっとして指揮官の時と同じように……私たちの事を避けているとか……？
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:私たちがいるんだから、そんなはずないよ！+だからそうねえ……+G3さんが「女王様おねがい、出てきて～！」って叫んでみるのはどう？+叫べばきっと女王様の耳に届くんじゃないかな。
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:え……？+大声で叫ぶなんて……そんな事できません！
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:たしかに、大きな声で叫べば//n会いたいって事が女王様に伝わるかもしれないな。
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:で、ですが……+こんな人の多い所で叫ぶなんて……怖くて出来ません。
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:大事の前の小事とも言うでしょ？それともなに？//nあなたの女王様に会いたいって気持ちはその程度だったってこと？
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:お願いごとがあるんだろ？だったら覚悟を決めるんだ！
+G3(0)<Speaker>Gr G3</Speaker>||:ですが、みんなに聞こえてしまいます……+叫べば必ず来てくれる保証があるわけでもないですし……
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:わざと避けてるんじゃないなら、きっとあんたを試してるんだ！
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:そう、絶対そう！女王様はあなたを待ってるんだと思う！
+G3(0)<Speaker>Gr G3</Speaker>|||:だからって……+いきなり叫ぶなんて事……出来るわけ……
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:ここ最近、G3さんが毎日メンテナンスをしに来てくれてたのは、//n女王様を見つけるためじゃなかったのか！？+今までの努力を無駄にする気か！？
+G3(0)<Speaker>Gr G3</Speaker>||:私は……はあ……+わかりました。
+()||<BGM>BGM_Empty</BGM>:G3は息を吸い……
+()||:……
+G3(0)<Speaker>Gr G3</Speaker>||<震屏>:<size=60>ど……どうか出てきてください！妖精の女王様ーー！</size>
+()||:……
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:……
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:……
+G3(0)<Speaker>Gr G3</Speaker>||:…………
+()<Speaker>グリフィン人形</Speaker>||:G3さん、どうかしたのかしら……？
+()<Speaker>グリフィン人形</Speaker>||:さあ……？毒電波でも受信しちゃったんじゃない？
+()<Speaker>グリフィン人形</Speaker>||:聞いてみたほうが……いえ、やっぱり見なかった事にしておきましょう。
+G3(0)<Speaker>Gr G3</Speaker>||:…………
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:おぉ～、本当に叫んじゃったぞ。
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:この大きさなら、正門にも届いてるはずだね。+あれ？G3さん顔が真っ赤だけど、もしかして酸欠？
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:……大丈夫です……人形は酸欠にはなりませんから。+それよりも……女王様は現れましたか？
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||<BGM>BGM_Hello</BGM>:それが……
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:ぷっ……クスクス……
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:え……？
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:あ、バカ！我慢しろよ、挑発妖精！
+G3(0)<Speaker>Gr G3</Speaker>||:……どういうことなのか、説明してくれますか？
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:うぅ……
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:えっと……
+()||:……妖精たちはホログラムのスイッチを切った。
+()<Speaker>勇士妖精</Speaker>||:妖精の女王様なんて本当はいないんだ。
+G3(0)<Speaker>Gr G3</Speaker>||:え、えええええええ？
+()<Speaker>挑発妖精</Speaker>||:妖精の女王様の伝説は、わたし達妖精の間でささやかれてる冗談だったの。
+G3(0)<Speaker>Gr G3</Speaker><Shake>||:では……私がこれまで格納庫の整頓をしてきた日々は……+私がいま叫んだ事も全部……
+()<Speaker>勇士妖精</Speaker>||:最近G3さんがメンテナンスに来てくれるようになって、みんな喜んでるよ。
+G3(0)<Speaker>Gr G3</Speaker>||:……+喜んでる……？
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:そうそう、わたしたちを避けようとする人たちと違って……+わたしたちによく構ってくれるのなんて、G3さんくらいだったから。
+G3(0)<Speaker>Gr G3</Speaker>||:……+……あなた達の言う喜びというのは……//n自分さえ楽しければいいというものなんですか？
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:そんなわけないじゃん。G3さんだって楽しかっただろ？+必死に女王様を探してるときのG3さんの顔、//nとっても楽しそうに見えたけど？
+G3(0)<Speaker>Gr G3</Speaker>||<震屏>:いい加減にしてください！+最初からからかわれていたなんて思いませんでした！
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:ひっ――
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:G3さんが怒っちゃった……どうしよう……どうしよう……
+G3(0)<Speaker>Gr G3</Speaker>||:私は……+はあ……こんなふうに怒ってしまうなんてダメですよね。+ごめんなさい……
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:G3さん……
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:今日はもう帰らせてください……それとも、まだ何かあるんですか？
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:妖精の女王様がなんでも叶えてくれるのは本当だよ。//nG3さんが心の底から会いたいって思っているのなら。
+G3(0)<Speaker>Gr G3</Speaker>;FairyWarrior(0)<Position>0,250</Position>||:でもあなた達はさっき、いないって……
+G3(0);FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:しばらく姿を現さなくなったってだけで、昔は本当にいたんだ。
+G3(0);FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:人形宿舎で猫ちゃんの攻撃を受けてから、姿を消しちゃったんだけど……+姿を消す前に、彼女を見つける方法を私たちに教えてくれたの。
+G3(0)<Speaker>Gr G3</Speaker>;FairyTaunt(0)<Position>0,250</Position>||:はあ……でも私、あなた達をどう信じたら……
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:具体的にどうするかは言ってなかったけど、//n会うにはその人の心が決意に満ち溢れている必要があるって、//nたしかにそう言ってた。+大きな声で叫ぶことがそれに入るかはわからないけど、//n多分大丈夫じゃないかな。
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||<黑屏1>:最後に一回だけ、戻って見に行ってみようよG3さん。+あたしたちも妖精の女王様には会いたいし。
+()||<BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:……
+G3(0)<Speaker>Gr G3</Speaker>||:最初に来た時と……何も変わっていないように見えますが……？
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:ううん、天井の窓が開いてる！
+G3(0)<Speaker>Gr G3</Speaker>||:誰かが外に出たくなって開けたんじゃないですか……？
+()<Speaker>？？？</Speaker>||:天窓はいいわよねえ、モコモコした生き物が寄り付いて来ないんですもの。
+G3(0)<Speaker>Gr G3</Speaker>||:え……ええ？
+()||:……見たこともない妖精が天窓の上からゆっくりと降り、//n空の棚の上に止まった。
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||<BGM>BGM_Hello</BGM>:運命より導かれし啓示が、あなたの心を決意で満たす。+H&KG3……私を探していたのはあなたね？
+FairyWarrior(0)<Position>0,250</Position><Speaker>勇士妖精</Speaker>||:女王様が帰ってきたぞ！
+FairyTaunt(0)<Position>0,250</Position><Speaker>挑発妖精</Speaker>||:女王様が帰ってきた！早くみんなに知らせなきゃ！
+()||:……二人の妖精が勢いよく入り口から飛び出していく。
+G3(0)<Speaker>Gr G3</Speaker>||:あなたが……妖精の女王様ですか？
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:叫ばれたときはビックリしたけど、逆にあなたに興味が湧いてきたわ。+あの二人が連れてきたからには、あなたにもあるんでしょう？//n叶えたい願いというのが。
+G3(0)<Speaker>Gr G3</Speaker>||:その……+本当に……なんでも叶えられるのですか？
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:この世に知恵とお金で解決できないものはないわ。
+G3(0)<Speaker>Gr G3</Speaker>||:ですが、私のはなんというか……
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:口に出すだけでも決意の表れになるんだし言ってみなさい。//n必ず叶えたげるわ。+私を大きな声で呼んだ時みたいにほら。
+G3(0)<Speaker>Gr G3</Speaker>||:私、妖精たちにもっと大人になってほしいです。
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:あ、それは無理。
+G3(0)<Speaker>Gr G3</Speaker>||:……+あの……えっ？
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:無理なものは無理よ。
+G3(0)<Speaker>Gr G3</Speaker>||:……でも今、なんでも叶えてくれるって……
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:いやあ、それがちょっと難しい相談でね。+要は妖精たちの精神年齢をもっと上げてほしいってことよね？
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:その通りです……ですから……
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:そこが難しいって言ってるのよ。成長っていうのは、//nたくさんの苦難や欺瞞、それに喪失に満ちているものだけど……+私じゃ、あの子達にそれらを与える事は出来ないわ。
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:ですが、幼いにも程があります……+仲良くしようとすることはもちろん、//nメンテナンスひとつするだけでも一苦労で……
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:そう言われてもねえ……あの子たち、自分の周りで起きている//n複雑な環境について知る術なんて持ち合わせていないもの。//nだからこそあれだけ楽しそうに出来ているわけでもあるんだけど。+あの子たちの世界では、お金や知恵の大切さについて知る必要はないし、//n誰かとの交友関係について悩む必要もないの。
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:そうですか……+では私からはそれだけです。+ありがとうございました、妖精の女王様。
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:他にまだありそうって顔してるけど？+この私の前にいるんだ、隠さず言っちゃいなよ。
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:……+私は気になるのです……+私は、他の人に言われて妖精のメンテナンスを始め、//n妖精たちに言われて、あなたに会うことにもなりました。+他の皆さんだったら、こういう時どうするのでしょうか……
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:面倒事から自分を遠ざける方法は、誰しも持ってるものだからねえ。//nあなたがこうして誰もやりたがらないことをやらされてる上に、//nあの二匹のおバカちゃんに、ここまで連れて来られているのは――+面倒事から自分を遠ざける方法やそれを断る術を知らず、//nみんなの言いなりになってるからよ。
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:では……女王様……+もし私が、誰の言いなりにもならないための方法を//n知りたいと言ったら……叶えてくれるのですか？
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:さっきのと比べりゃよっぽどマシよ。+あなたみたいに気弱で物腰が柔らかい人はね、//n嫌なことがあった時に大声で叫べばいいの。+わざわざ我慢する必要なんてないでしょ？
+G3(0)<Speaker>Gr G3</Speaker>;FairyGold(0)<Position>0,250</Position>||:先ほどは、あの二人へ怒鳴ってしまいましたが……+いい気分には……ならなかったです……
+G3(0);FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:それでも、必要なことよ。+妖精が相手なら尚更ね。
+G3(0)<Speaker>Gr G3</Speaker>||:ですが、出来ればそういった方法は取りたくないです。+誰が相手であろうと……
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:それについても問題ないわ。言いたいことを言い出すだけの自信が、//nただあなたに足りてなかったってだけ。+少し時間はかかるかもしれないけど、大きな問題ではないわ。
+G3(0)<Speaker>Gr G3</Speaker>||:ですが……
+FairyGold(0)<Position>0,250</Position><Speaker>黄金妖精</Speaker>||:「ですが」は禁止！+それともなに？他人に都合のいい存在みたいに扱われて、妖精にいじめられている現状がいいって言うの？+私は全能の妖精の女王なの。//nあなたの願いは必ず叶えてみせるわ！
+G3(0)<Speaker>Gr G3</Speaker>||<黑屏1>:……はい！+わかりました、女王様。//nどうしたらいいか、教えてください！

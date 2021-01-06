@@ -1,0 +1,58 @@
+帕斯卡()<Speaker>ペルシカ</Speaker>||<BIN>9</BIN><BGM>BGM_Room</BGM>:本当に……もう出発するの？
+M4A1()<Speaker>M4A1</Speaker>||:うん。
+帕斯卡()<Speaker>ペルシカ</Speaker>||:機能のデバックがまだ途中よ。//n外の状況もよくないし……
+M4A1()<Speaker>M4A1</Speaker>||:行かないわけにはいかないの。+どうしても引き留めるなら、リンクを切って、私の機能を停止させることね。
+帕斯卡()<Speaker>ペルシカ</Speaker>||:……分かったわ。考えは変わらないようね。+屋上に私のヘリコプターを停めてある。//nあとは指揮官が前線の座標を教えてくれるわ……
+M4A1()<Speaker>M4A1</Speaker>||:ありがとう……ペルシカさん。
+()||<黑屏1>:…………戦術人形M4A1は去った。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||<BIN>22</BIN><黑屏2>:思った通り、制限を解いてから、彼女のメンタルに変化が現れ始めたわね……+でも、今はそれよりやることがあるわ。
+NPC-Persica(0)<Speaker></Speaker>||:…………ペルシカが接続を開始した。
+NPC-Persica(0)<Speaker>アナウンス</Speaker>||:……接続成功。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:…………
+NPC-Persica(0)<Speaker> </Speaker>||:めずらしいわね、かのペルシカ様がまさか私に連絡をくれるなんて。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:しらばっくれないでちょうだい。//n鉄血のデータベースにビーコンを残したのはあなたでしょ。
+NPC-Persica(0)<Speaker> </Speaker>||:はは、バレちゃってたか。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:アドレスを知ってるということは、とっくに足を運んでるんでしょ。
+NPC-Persica(0)<Speaker> </Speaker>||:ビーコンを残したのは借りを返すため。//nこれ以上訊いても何も出ないわよ。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:私のこと、今でも信用してないのね？
+NPC-Persica(0)<Speaker> </Speaker>||:昔話がしたいなら、悪いけど時間がないわ。
+NPC-Persica(0)<Speaker>ペルシカ</Speaker>||:……話を変えるわ。+例の監視ファイルを見つけた。+ただ、輸送していたドローンが撃墜され汚染区域に落ちてしまったから、回収をあの小隊にお願いしたいのだけれど。
+NPC-Persica(0)<Speaker> </Speaker>||:そんなのAR小隊にやらせればいいでしょ？
+NPC-Persica(3)<Speaker>ペルシカ</Speaker>||:そうなんだけど、クルーガーが人形をすべて異動させちゃったのよ……
+NPC-Persica(3)<Speaker> </Speaker>||:……すべて？+グリフィンの次の一手が楽しみね……
+NPC-Persica(3)<Speaker>ペルシカ</Speaker>||:それで、手伝ってくれるのかくれないのか、どっちよ。
+NPC-Persica(3)<Speaker> </Speaker>||:監視ファイルを開かなくとも、何が起こったか見当はついているんじゃないの？
+NPC-Persica(3)<Speaker>ペルシカ</Speaker>||:…………+それでも……この目で確かめなきゃ……+分かるでしょ。
+NPC-Persica(3)<Speaker> </Speaker>||:ふん……+いいわ。//nただ先に言っておくけど、報酬はきっちりいただくわよ。//nこっちも生活がかかってるんだから。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||<黑屏1>:ファイルさえ手に入れてくれれば、いくらでも出すわ。
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:【何があっても、あんたは生き残らなきゃならないの】+【人形だって、自分のために生きることが許されてもいいはずよ】+【他人じゃなく、自分のために】
+UMP45()<Speaker>UMP45</Speaker>||:…………+またこのログだわ……
+稚嫩的女声()<Speaker>幼い女性の声</Speaker>||:キャッシュメモリ更新完了。メンタルデータベースのシークエンスを最適化。メンタルの意識をセカンダリレベルまで回復。+古い暗号内蔵ファイルを検出しました。バックアップ、転送、或いは削除を行いますか？
+UMP45()<Speaker>UMP45</Speaker>||:いいえ。
+稚嫩的男声()<Speaker>幼い男性の声</Speaker>||:こんな古ぼけたもの、メンタルに残してても邪魔なだけでしょ。いっそ消してあげようか！
+UMP45()<Speaker>UMP45</Speaker>||:やめて。勝手なことしたら手足をもいでキャタピラにするわよ。
+稚嫩的女声()<Speaker>幼い女性の声</Speaker>||:ほら、デールもやめなさい。そろそろメンテナンスが終わりますよ。
+稚嫩的男声()<Speaker>幼い男性の声</Speaker>||<黑屏1>:ちぇっ。シーアがそう言うなら……+分かったよ。//n意識をプライマリレベルに移行したから、もう体を動かせられるよ。
+UMP9(0)<Speaker>UMP9</Speaker>||<BIN>70</BIN><黑屏2><BGM>BGM_Sneak</BGM>:やっと終わったの？+今回のメンテナンス、結構時間かかったね。//n45姉、調子はどう？
+UMP45(0)<Speaker>UMP45</Speaker>||:問題ないわ。体も少し軽くなったかな。
+HK416(0)<Speaker>416</Speaker>||:はぁ…………+毎回この汚らしい地下室で目覚めるんじゃ、気分も乗らないわね……
+G11(0)<Speaker>Gr G11</Speaker>||:416はいつでも気分乗ってなさそうじゃん……あたしはぐっすり眠れてよかったよ。
+NPC-Seele(0)<Speaker>シーア</Speaker>||:ごめんなさい……滅多に人が来ない、このカフェの地下室しか場所がなかったので……
+NPC-Seele(0);NPC-Deele(0)<Speaker>デール</Speaker>||:ふんっ、シーアが謝る必要なんてないよ！+お前らみたいな違法の人形にメンテナンスしてやってるんだから、それだけでも感謝しろよな！
+UMP9(3)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:あれれ？416、もしかしてグリフィンの広くて明るいメンテナンスルームが恋しいわけ？
+UMP9(3);UMP45(0)<Speaker>UMP45</Speaker>||:あんまりからかっちゃだめよ、9。//nグリフィンのメンテナンスルームじゃ、416の華奢な体には対応できないんだから。
+UMP9(3);HK416(0)<Speaker>416</Speaker>||:ふん……どうせ私に選択権はないわ。
+UMP9(0)<Speaker>UMP9</Speaker>;HK416(0)||:分かったから拗ねないでよ～。//nそれより、わたしのジャケット見なかった？
+UMP9(0)<Speaker></Speaker>;HK416(0)||:…………ピピピ。
+UMP9(0);NPC-Seele(0)<Speaker>シーア</Speaker>||:あ、少々お待ちを……通信が入りました。
+G11(2)<Speaker>Gr G11</Speaker>;NPC-Seele(0)||:えぇ……まさかメンテナンス明けからいきなり仕事……？
+G11(2);NPC-Seele(0)<Speaker>シーア</Speaker>||:新たなアクセスポートプロトコルのアップデートキットが転送されました。//n現在ダウンロード中です……+あの……404小隊は全員インストールするようにと、ご主人様が。
+HK416(0)<Speaker>416</Speaker>;NPC-Seele(0)||:あの変人……今度は私たちに何をさせるつもり……？
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:いつも通り、インストールが終わるまで内容は教えてくれないんでしょ？
+NPC-Deele(0)<Speaker>デール</Speaker>;UMP45(0)||:はいはい、文句を垂れずにおとなしく横になってよ。メンタルの意識をセカンダリレベルに戻すから。
+NPC-Deele(0);UMP9(3)<Speaker>UMP9</Speaker>||:よかったねG11、また寝れるよ！
+G11(2)<Speaker>Gr G11</Speaker>;UMP9(3)||:うーん……なんか悪い夢を見そうな気がする……
+G11(2);NPC-Seele(0)<Speaker>シーア</Speaker>||<黑屏1>:意識転移、準備完了。3・2・1、開始。
+德尔()<Speaker>デール</Speaker>||<BIN>9</BIN>:それじゃ、いつも通り、ゲームを楽しんでね！
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:分かったわ……
+()||<BIN>10</BIN><黑点2>:

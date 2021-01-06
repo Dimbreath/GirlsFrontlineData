@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><SE2>Gunfight</SE2><BIN>167</BIN><BGM>BGM_Boss</BGM>:……バンッバンッ！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ダメ！分割される！+Mk46、そっちは大丈夫？
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>こっちは暫く持つよ、でも敵はそっちの方へ向かってる！</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:なんとかする！とりあえず手分けして行動しよう！包囲されないように注意してね！
+Mk46(0)<Speaker>Mk46</Speaker>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>いや……お前らをほっとくわけにはいかないだろ！</color>
+Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:こっちはエリートだからそう簡単には捕まれないよ！むしろそっちの方が危ないかも！
+Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>……よし分かった！</color>+<color=#00CCFF>じゃあ目的地点で待ってるぞ！絶対に生き残れよ！分かったか！</color>
+()<Speaker></Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:これで残りは私たちだけ……少なくともあの子たちはもう安全のはず……+RO！RO聞こえてる？敵はゲートの向こうにいるよ、早くゲートを閉めて！なにをしているの！
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:今このゲートのアクセスルートを探している！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:さっきまで自信満々だったじゃないの？！
+M4 SOPMOD IIMod(0);RO635(5)<Speaker>RO635</Speaker>||:このゲートのアクセスルートがこんなごちゃごちゃしているなんて思わなかったのよ！もう少し待って！+1番と4番ゲート……ダメ、衝突している……じゃあ5番は……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:私は待てるけど、敵は待ってくれないよ！早くしないとくい止めれなくなるよ！
+RO635(3)<Speaker>RO635</Speaker>||:2番と3番は？ダメ、通らない、じゃあ7番から――
+()<Speaker>？？</Speaker>||:<color=#00CCFF>G序列のゲートは7番と14番のルートからアクセス命令を出せ。同時に信号を偽装してシステムに手動操作と認識させる必要がある。</color>
+RO635(5)<Speaker>RO635</Speaker>||:誰？誰が話しているの？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:またあの情報屋！？
+RO635(5)<Speaker>RO635</Speaker>||:情報屋？+今どこにいる――
+()<Speaker>？？</Speaker>||:<color=#00CCFF>言う通りにやれ。</color>+<color=#00CCFF>それと二つのルートから同時に信号を出すな、システムが水流操作の命令と認識してしまう。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:言う通りにやって！そろそろ持たないよ！
+RO635(5)<Speaker>RO635</Speaker>||:じゃあ……！
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><震屏><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:――ゴーン！+ゲートは重たい声と共に迅速に落とされ、敵はゲートの外側に閉じ込められた。そして、すべてが静かになった。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:言ってることが本当だった……
+RO635(4)<Speaker>RO635</Speaker>||:……さすがは情報屋さんね。+で、もう姿を見せてくれてもいいんじゃない？
+()<Speaker>？？</Speaker>||<BGM>BGM_Room</BGM>:<color=#00CCFF>情報屋か、人聞きの悪い呼び方だな。</color>+<color=#00CCFF>もしこれから平和に話し合いたければ、オレのことは「K」と呼んでくれ。</color>
+RO635(4)<Speaker>RO635</Speaker>||:K？
+()<Speaker>K</Speaker>||:<color=#00CCFF>そう、Kだ。</color>
+RO635(4)<Speaker>RO635</Speaker>||:では……Kさん、もう姿を見せてくれてもいいですか？+もし本当に色々と知っているのなら、わたしたちがずっとあなたを探しているのも知っているはずです。
+()<Speaker>K</Speaker>||:<color=#00CCFF>お前はさっきゲートを落として敵を閉じ込めた。</color>
+RO635(4)<Speaker>RO635</Speaker>||:はい……？今はゲートの話をする場合じゃないでしょ？
+()<Speaker>K</Speaker>||:<color=#00CCFF>それはいい選択だった。しかし、情報を的確に分析すれば、いい選択も場合によっては悪い選択になる。</color>+<color=#00CCFF>肝心なのは、どの角度から情報を分析し、論証することにある。</color>
+RO635(4)<Speaker>RO635</Speaker>||:それはどういう意味……
+()<Speaker>K</Speaker>||:<color=#00CCFF>お前は暫く敵をくい止めたが、忘れるな、ゲートのコントロールシステムはまだやつらの手の中にある。</color>
+RO635(4)<Speaker>RO635</Speaker>||:！！
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay>:<color=#00CCFF>もしそこから生き延びたら、またゆっくり話し合おう。</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:ゴゴゴゴゴゴゴ――
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:な、何の音！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:敵？
+RO635(4)<Speaker>RO635</Speaker>||:いや……これは多分……
+()<Speaker></Speaker>||:遠くから激流の轟く音が聞こえてきた。
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:下水道でしか起こりえない……一番ヤバイこと……

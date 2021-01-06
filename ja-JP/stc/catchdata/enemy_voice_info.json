@@ -1,0 +1,29 @@
+{
+    "enemy_voice_info": [
+        {
+            "id": "1",
+            "code": "_APPEAR1_",
+            "trigger_parameter": "0"
+        },
+        {
+            "id": "2",
+            "code": "_DEAD1_",
+            "trigger_parameter": "0"
+        },
+        {
+            "id": "3",
+            "code": "_PROVOCATIVE1_,_DEAD2_",
+            "trigger_parameter": "70,5"
+        },
+        {
+            "id": "4",
+            "code": "_PROVOCATIVE2_,_DEAD2_",
+            "trigger_parameter": "70,5"
+        },
+        {
+            "id": "5",
+            "code": "_PROVOCATIVE1_,_PROVOCATIVE2_",
+            "trigger_parameter": "70,40"
+        }
+    ]
+}

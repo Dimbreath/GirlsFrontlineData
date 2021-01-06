@@ -1,0 +1,19 @@
+()||<BIN>2</BIN><BGM>BGM_Battle</BGM><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:……S06地区の哨戒所前にて、404小隊とハンターによる戦いが幕を開けた。
+HunterElite(0)<Speaker>ハンター</Speaker>||:小賢しい404のやつらめ、やはり現れやがったな。+卑劣な策に出やがって……こちらが対策を立ててないとでも思ったか！+来るがいい。//n無様に逃げ惑い、わたしに背を向け倒れる姿を見せてもらうぞ。
+()||<SE1>Battlefield</SE1>:……その頃、404小隊の陣地にて。
+HK416(3)<Speaker>416</Speaker>||:G11、ちゃんと当てたの？！
+G11(2)<Speaker>Gr G11</Speaker>;HK416(3)||<SE2>Gunfight</SE2>:4発も当てたんだよ！//nでもこれじゃ話が違うよ、だってまだ動いてるもん！
+G11(2);HK416(2)<Speaker>416</Speaker>||:あのなんとか改造ってやつも大したものね。//n鉄血にはあといくつ切り札が残されてるっていうの……？
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||<SE1>Battlefield</SE1>:右側からまた敵だよ、このままじゃ囲まれちゃう！
+UMP9(4);UMP45(2)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:作戦中止よ、残存の火力で何とか制圧するわよ。
+HK416(3)<Speaker>416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1>:制圧開始！G11！
+G11(2)<Speaker>Gr G11</Speaker>;UMP45(2)||<SE2>Gunfight</SE2>:い……いまやってるよ。
+UMP9(4)<Speaker>UMP9</Speaker>;UMP45(2)||:発煙弾発射！
+UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1><黑屏1><SE2>Gunfight</SE2>:今よ！みんな、早く逃げるわよ！
+HunterElite(0)<Speaker>ハンター</Speaker>||<SE1>Battlefield</SE1><黑屏2><BGM>BGM_Empty</BGM>:チッ……
+Weaver(0)<Speaker>ウロボロス</Speaker><通讯框>;HunterElite(0)||:ハンターよ、なぜ追いかけない。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:あの白髪のガキに機動装置をやられた。//n修復が完了するまで、高速での移動は無理だ。
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||<BGM>BGM_Boss</BGM>:そんな理由で諦めるのか？//n獲物に対する執着心は人一倍だと思っていたが。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:やつらはまた戻ってくる。//nジャミング装置を見つけるために、きっとまた会いに来るさ。+お前の手助けさえあれば、やつらのゲリラ戦法を打ち破れる。
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||:……分かった。増援が向かうまで哨戒所は頼んだぞ。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||<黑屏1>:任せておけ……+本物のハンターは、息を潜めて獲物を待つものさ。

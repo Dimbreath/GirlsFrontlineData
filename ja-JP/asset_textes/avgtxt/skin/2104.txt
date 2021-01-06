@@ -1,0 +1,106 @@
+()||<BIN>79</BIN><BGM>BGM_Hello</BGM>:任務当日。+……パーティー会場にて。
+()||<BIN>79</BIN>:私が彼女を見つけた時、彼女はゲストと何やら熱く語り合っているようだった。+彼女は手を振る私に気が付くと、残念そうな顔でゲストに会釈をし、こちらに向かってきた。
+指挥官()<Speaker>指揮官</Speaker>||<BIN>79</BIN>:やあ、話が弾んでたね。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:はい、珍しくセンスの合う人間に会えたので。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:そうなんだ。それにしても今日はとっても綺麗だね。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:ありがとうございます。次は指揮官もおしゃべりに誘いますね。+そういえばこの会場、少し問題があるのでは？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:え、どんな問題？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:グリフィンの他の人形たちが居ましたよ。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:ん？それがどうかした？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:どうかしたって、指揮官……+彼女たちは私たちの小隊のメンバーではあ・り・ま・せ・ん・よ・ね？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:あ、そうなんだ……はは……
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:指揮官？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:か、彼女たちは私が臨時で増員した警備担当の人形だよ……
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:本当に？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:あんなにおっきな宝石だからさ、人手は多いほうが安心でしょ……？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:……まぁいいでしょう。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:(ふぅ……やり過ごせたか？)
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:結論から言えば、差支えがあるわけではありませんし。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:え……っと、それはつまりZasはそういう細かい事には拘らず、任務に集中してくれる……+ってことかな？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:その通りです。//n指揮官の理解力は凄まじい速度で向上しているようですね。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>79</BIN>:ど、どうも……+とにかく、任務頑張ってね。会場は君たちに任せたよ。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>79</BIN><黑点1>:ご安心を、指揮官。
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>2.5</黑屏1>:……一時間半後。+ホテルの廊下にて。
+()||<BIN>97</BIN><Night><黑屏2>2.5</黑屏2><Night><SE2>Gunfight</SE2>:パンパンッ！
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night>:ゴホッ……ゴホッゴホッ……+あなたって、なかなか手ごわいのね……+ゲホッ……次の任務はあなたと組ませてもらおうかしら。
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:ふふっ、一人で残ってたことを後悔しているのかしら？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:何を言っているのか分からないわ。
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:そう……+でも、私も貴方がまだ全力を出していないのは分かっているのよ？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:それは私が考え事をしているからよ。+考えているの。わかる、DSR？
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:うん？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night><黑屏1>:そして、その結論は「分からない」よ。+あなたとの戦っている時の感触、あまりにおかしいもの。+(そう。今回は頭からつま先まで、何もかもがおかしい……)
+()||<BIN>9</BIN><边框>2</边框><BGM>BGM_Room</BGM><黑屏2><黑屏1>:……30分前。
+()||<BIN>139</BIN><边框>2</边框><黑屏2>:火災警報で会場がパニックになっている最中、IDWはコルトを引きとめ、決闘を始めようとしていた。+ウェルロッドはグリズリー、Zas M21と共にコルトの後ろを抜け、気付かれないように宝石を運び出した。
+Welrod(2)<Speaker>ウェルロッドMkⅡ</Speaker>||<BIN>139</BIN><边框>2</边框>:くっ！なぜコルトが！
+Welrod(2);ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框>:作戦は順調だけど……この違和感は一体……
+Welrod(2)<Speaker>ウェルロッドMkⅡ</Speaker>;ZastavaM21(4)<Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框>:違和感？
+Welrod(2);ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框><黑屏1>2.5</黑屏1>:……いえ、考えすぎね。+急ぎましょう。
+ZasM21()<Speaker>ZasM21</Speaker>||<BIN>9</BIN><边框>2</边框><BGM>BGM_Empty</BGM><黑屏2>2.5</黑屏2>黑屏1>2.5</黑屏1>:(もしそうなら、パーティー会場にいた他の人形たちも……)
+()||<BIN>97</BIN><Night><黑屏2>2.5</黑屏2><SE2>Gunkill</SE2>:バンバンッ！+DSRの放つ弾丸がZasの体を掠めていく。
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:お嬢さん？戦闘中にほかのことを考えるのは失礼に当たると思うけど？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:……DSR、あなた、本当に怪盗なの？
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:それ以外なんだって言うの？//n私はこの後すぐにEVO3と合流して宝石を持ち去らなきゃいけないの、ふふっ♪
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:納得いかないわ、あなたはグリフィンの人形なのよ。+指揮官が宝石を守るよう命令したのに、どうして宝石を盗むの？
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||:DSR-50は突然攻撃の手を止め、興味津々なまなざしでZas M21を見つめた。+この行動に不意を突かれ、Zas M21も動きを止める。
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:この間、カフェに置いてある自由帳に、貴方が超現実主義者って書かれてるのを目にしたのだけど。+どうやら私が読み違えていたようね。+それはあなたの考えることが現実を超越してるって意味だったのかしら？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:……あそこに自由帳を置く意味が分からないわ、私には。
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:くーっくっく。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:……え？いまなんか変な声出さなかった？
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:えー、知らないの？+敵役はこういう風に笑うんだって、T91が教えてくれたのよ。//n貸してもらった漫画にもそう描かれていたわ。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:それはなんの冗談のつもり？+……！
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||<SE2>Gunfight</SE2>:バンバンッ！+DSRがまた攻撃を始めた。攻撃の勢いは先ほどを上回っている。
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night><BGM>BGM_Room</BGM>:貴方は直観を信じるタイプだと思っていたけど、ここまで辻褄の合う合わないにこだわる人形だったなんて。+いいでしょう、ならその辻褄は私が合わせてあげるわ。+けど……貴方にはもう一つ選択肢があるのよ？ここで私に倒されるっていう。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:ぐっ……くそ……+やられて、たまるもんですか！
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||<黑屏1>5</黑屏1><SE2>Gunfight</SE2>:続く射撃にZas M21は一歩も前に出ることが出来ず、掩体の後ろから出れずにいた。
+()||<BIN>9</BIN><SE1>Explode</SE1><黑屏2>5</黑屏2>:ドォーン――
+DSR50()<Speaker>Gd DSR-50</Speaker>||<BIN>9</BIN>:次は私と組みたいんでしょ？ならもう少しは積極的になったらどう？！
+()||<BIN>9</BIN>:突如轟音が鳴り響き、暗闇が廊下を包んだ。//n同時に銃声が止んだかと思うと、すでにDSRは姿を消していた。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>9</BIN><黑点1>:床のあれは……シャンデリア……！+まずい！グリズリー！
+()||<BIN>88</BIN><黑点2>:……15分後。+倉庫内にて。
+()||<BIN>88</BIN>:Zas M21は床に倒れていたグリズリーを抱き上げると、強く彼女を揺すった。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>88</BIN>:グリズリー！起きて！
+()||<BIN>88</BIN><黑点1><SE2>Gunfight</SE2>:グリズリーが一向に目を覚まさない中、Zas M21の聴覚モジュールはそう遠くない場所で鳴った銃声を拾った。+Zas M21は少しの間何かを考えると、グリズリーを地面に寝かせ倉庫を出た。//n銃を構えながら、壁を背にしつつその場所へと向かう。
+()||<BIN>97</BIN><Night><黑点2>:廊下の曲がり角に着いた。+その先でDSRが誰かと戦っているのが見える。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night>:(彼女が攻撃しているのは……見たこともない人形……)+(そしてその人形から宝石を奪った。)+(まさか……)
+ZastavaM21(4)<Speaker></Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night><黑屏1>:角からその人形を見つめていたが、その後Zasはその場から離れることを選んだ。
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><黑屏1>:……任務が終わって、深夜。
+()||<BIN>8</BIN><黑屏2><Night>:グリフィン指令室にて。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><BGM>GF_Memorial</BGM><Night>:……はい。その見知らぬ人形を見た後、私は撤退しました。//nそのあとグリズリーとEVO3を回収したんです。+それで……二人は目を覚ましましたか？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:うん。もう大事無いよ。+二人とも何が起こったのか思い出せないって言ってる。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:ならよかった……+でも、指揮官。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:どうしたの？ほかにも報告することが？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:今回の件、あまりに辻褄が合いません。+それを合わせるとするなら……+宝石はわざと盗ませたもので、「404怪盗団」なるものも或いは本当に存在しない、ということになります。+そしてそれらすべてを……あなたは知っていた、そうですね？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><震屏><Night>:ゲフッ！……ゴホッゴホッ！
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:指揮官、ものすごく怪しいですよ？
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:そ……そうかな？コーヒーが器官に入っただけだよ？+(Zasを見くびっていた……)
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:……グリズリーとEVO3が倒れてしまって、深く考えすぎてしまっただけです。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:その点は安心して、彼女たちにケガはないよ。後方支援よりも心配はいらないさ。+でも、Zasがまさかここまで他の人形を気にかけるとはね。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:……はぁ、なにバカなこと言ってるんですか？+仲間が居なくなってしまったら、これまで連携してきた経験が無駄になってしまうじゃないですか。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:そんな風にばっかり考えてちゃだめだよ。+たまには思いやりの気持ちを彼女たちに伝えてあげないと。
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:そうでしょうか？思いやりも嫌悪も、人形には必要のない感情ですよ。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:君はそう捉えているの？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:私にとって、みんなはカンヅメのようなものです。//n違う基地に行って、違う部隊に編成されて、違うメンバーたちと仕事をすることになろうと、違いは何もありません。+新しい街のコンビニで新品のカンヅメを買って、何口か食べた後に捨てることと大差ないのです。+まぁどのみち……私たちが何を成し、何を見るかを決めるのは、全てあなたたち次第なわけなのですが。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:Zas……
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:すみません、少し問い詰めすぎてしまったようです。+この任務の真相も……私が知るべきではないのかもしれないのに。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:いやいや、謝るべきは私だよ……+私がもっと……
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:すみません。//n先ほどはただの社交辞令として謝っただけです。+でもよかったです……人間にも反省の余地が残されていたようで。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:Zas……もしかして機嫌でも悪いのかい？+私に出来ることがあれば……
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:いえ、ただ忘れたいことがあるだけです。+考えてはいけないことですから。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:な、ならどうしよう？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:さてどうしましょうか、聡明な指揮官サマ？+何か他のものに私の目を向けさせたほうがいいんじゃないでしょうか？
+ZastavaM21(4)<Position>0,-100</Position><Speaker></Speaker>||<BIN>8</BIN><Night>:……Zas M21は自身の指を見せてきた。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:えっ？ま、まさか！
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:このブランドの、新発売のマニキュア。
+ZastavaM21(4)<Position>0,-100</Position><Speaker></Speaker>||<BIN>8</BIN><黑屏1>4</黑屏1><Night>:私のことなど何も気にしていないであろうZas M21の笑顔を見ながら、胸にズキズキとした痛みが走るのを感じた。
+()||<BIN>9</BIN><黑屏2>4</黑屏2><黑屏1>4</黑屏1>:もしもっと素直に……いや、もう少し素直になったとしたら……
+指挥官()<Speaker>指揮官</Speaker>||<BIN>8</BIN><黑屏2>4</黑屏2><Night><Night>:私そういうの選ぶの得意じゃないんだって！
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:ふふふっ、あなたの思う私の知りたいことなら何時でも知ることができるんですよ、私は。
+ZastavaM21(4)<Position>0,-100</Position><Speaker>指揮官</Speaker>||<BIN>8</BIN><Night>:分かったよ……+なら……週末どこか、選ぶのについてきてもらえる？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><黑屏1>4</黑屏1><Night>:期待して待っています。
+()||<BIN>9</BIN><黑屏2>4</黑屏2><黑屏1>4</黑屏1>:人形同士の付き合いや私と彼女の付き合いが、もっと上手くいくようになるのかも知れない……+もしそうなったとしたら……
+指挥官()<Speaker>指揮官</Speaker>||<BIN>9</BIN><Night>:先に聞いておきたいんだけど、どれを選ぶとかは決めてある？
+ZastavaM21(4)<Speaker>ZasM21</Speaker><Position>0,-100</Position>||<BIN>9</BIN>:はい。全色が入っているオールインワンのものです、シンプルでしょう？
+()||<BIN>9</BIN><黑屏1>:……+そうなったとしたら……きっと私のサイフもきっと救われることだろう……

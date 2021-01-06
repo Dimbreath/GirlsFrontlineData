@@ -1,0 +1,49 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:……殲滅行動を始めてから三日目。
+()<Speaker></Speaker>||:……ピッ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>しきかーーーん！</color>+<color=#00CCFF>ねー、いつになったら終わるの？</color>
+M4 SOPMOD IIMod(0)<Speaker>指揮官</Speaker>||:終わるって、何が……？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>だってこのところ、ずーっとスキャンして……位置を特定して……敵を燃やして……そしたらまたスキャン……特定……燃やす……そればっかりなんだもん。敵も弱っちいしさ……</color>+<color=#00CCFF>おんなじことの繰り返しじゃ、さすがに退屈だよ。</color>
+M4 SOPMOD IIMod(0)<Speaker>指揮官</Speaker>||:こっちも毎日スクリーンとにらめっこで、眼が痛くてしかたないよ。+君のいる44番地区はもうすぐ終わりそうだよ、ROと手分けして……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>ROだって、もうクタクタだよ！</color>+<color=#00CCFF>さっきも「44番が終わったって、どうせ54と64が待ってるんでしょ」って、ROが……</color>+<color=#00CCFF>あ！ちょっと、引っぱんないでよ、RO！</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>そ、そんなこと、ひとっことも言ってませんから！</color>
+()<Speaker>指揮官</Speaker>||:まぁまぁ、落ち着いて。+Kの情報によれば、潜伏していた敵はほぼ掃討し終えたみたいだから。+あとは奴の連絡を待っ……
+()<Speaker></Speaker>||:……ピッ。
+()<Speaker>指揮官</Speaker>||:ほらね。+RO、SOP、セーフハウスに戻っていいよ。
+RO635(0)<Speaker>RO635</Speaker><通讯框>|||:<color=#00CCFF>終わった……？</color>+<color=#00CCFF>えっ、本当に終わったんですか？</color>
+()<Speaker></Speaker>||:……
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>オレの予想よりも8時間早かったな。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:もう任務を達成したのか？+各小隊からの報告は、まだみたいだけど。
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>保安局のエージェント部隊からの報告だ。</color>+<color=#00CCFF>お前たちに渡す情報は全て裏が取れている。安心して受け取るといい。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:ここまで正確に把握できるんだったら、//nそのエージェントとやらに掃討をお願いしたらどうなんだ。
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>前にも言ったはずだ。彼らは偵察を担当し、お前たちは殲滅を担当する。これがルールだ。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:そのエージェント部隊が、あなたの言う代替プランか？
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>代替プランのひとつだ。 </color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:それはそれは、耳寄りな情報をどうも。+そんなことより、アンジェの状況はどうなってる？
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>そう急がずとも、彼女とはすぐ会えるさ。</color>+<color=#00CCFF>オレからの連絡を待て。</color>
+()<Speaker></Speaker>||:……通信終了。
+()<Speaker>指揮官</Speaker>||:……
+NPC-Kalin(1)<Speaker>カリーナ</Speaker>||<震屏>:指揮官さま！最新情報です！+残りの4部隊から、白い勢力の殲滅が完了したとの報告がありました！+これでもう、この一帯は安全ですよ！
+()<Speaker>指揮官</Speaker>||:うん、Kに聞いたよ。
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:えっ……知ってたんですか……？
+NPC-Kalin(3)<Speaker>指揮官</Speaker>||:各小隊に帰還して休憩をとるよう伝えて。//nそれと、待機中の予備部隊を監視に回してくれるかな。+気は抜かないで、まだ何が起こるかわかったものじゃないからね。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:了解しましたぁーー！
+()<Speaker></Speaker>||:……カリーナは立ち去った。
+()<Speaker>指揮官</Speaker>||:（終わった……のか？）+（結局、白い勢力は一度も抵抗するそぶりを見せなかった……//nROに捜索範囲を広げさせてみたけど、これといった収穫はなし……//n奴ら、本当に何の手も打たなかったのか？）
+()<Speaker></Speaker>||:……私は白い勢力の痕跡をさらうべく、//n目の前にある何十という監視カメラの映像に視線をすべらせた。+だがそれは不可能に近い。//nベルグラードの街は安寧そのものだ。+街中は車が流れ、幸せそうな表情の人たちであふれている。+私服警官の数ならいざしらず、//n誰が白い勢力の人形なのか、私には皆目見当がつかない。//n……そんなことを考えていると、ふいに、見覚えのある人影が喧噪の中に現れた。
+()<Speaker>指揮官</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:あれは……
+NPC-Nimogen(0)<Speaker></Speaker><通讯框>||<BIN>9</BIN><黑屏2>:……私の良く知るその少女は、顔を上げ、//nレンズに向かってわずかに微笑んだ。+……そして往来の人混みへと姿を消した。
+()<Speaker>指揮官</Speaker>||<黑屏1>:ネイ……
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Brain</BGM><黑屏1>:……あの表情。あの全てを掌握したかのような笑い。+私たちの作戦は全て筒抜けだったのか？+やはりそうなのか？あの人形たちは単なるカモフラージュで、//n私たちは真の脅威に気づいてすらいなかった？+いや、ありえない。//nもしそうなら、Kと保安局が反応しないわけがない。+今のは目の錯覚か？果たしてそんなことが？+私は、背筋が根元からきしきしと凍りついていくのを感じた。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……ピッ。
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay><黑屏1>:<color=#00CCFF>アンジェの情報を出し渋っていることに、お前が不満を感じているのはわかっている。だが、彼女もこれまでこの件のために多くのものを費やしてきた。オレたちはその努力を無駄にするわけにはいかない。</color>+<color=#00CCFF>次の、そして最後の任務を言い渡す。これこそが、グリフィンを選んだ本当の理由だ。</color>+<color=#00CCFF>手はずは整っている。全てを終えた時、お前は晴れてアンジェと対面できる。</color>
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:……
+()<Speaker>指揮官</Speaker>||:保安局は、私たちに何をさせようと？
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>お前たち民間軍事会社にとって、これほど適した任務もそうあるまい。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:前菜が片づいたってことは、お次はメインディッシュか。+和平会議の保安任務に就いて欲しいんだろう、違うか？
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>もうお見通しか、指揮官。</color>+<color=#00CCFF>だが図に乗るなよ、お前たちは所詮、バックアップに過ぎないのだからな。</color>
+NPC-Jason(0)<Speaker>指揮官</Speaker>||:なるほど。//nそれで、保安局は我が国の大使を、//n私たちにどう守ってもらいたいんだ？
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>我が国の大使？</color>+<color=#00CCFF>図に乗るなと言っただろう、聞こえなかったのか？お前たち程度で大使の護衛とは、勘違いにも程がある。</color>+<color=#00CCFF>今回のクライアントの資料は……これだ。</color>
+()<Speaker></Speaker>||:……ピッ。
+()<Speaker>指揮官</Speaker>||:……+ちょっと待て、この人は……
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>我らの大使に関しては心配無用だ。</color>+<color=#00CCFF>そして彼女こそが……グリフィンのエスコートを必要としてる人物さ。</color>

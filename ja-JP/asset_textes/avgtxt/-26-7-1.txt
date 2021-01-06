@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>||<BGM>BGM_Sneak</BGM><BIN>157</BIN><睁眼>:私……まだ生きてるのか？
+NPC-AngeDamage(2);AK12(0)<Speaker>AK-12</Speaker>||:そうよ。私たちみんな生きてる。
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>;AK12(0)||:なぜだ？
+NPC-AngeDamage(2);AN94(0)<Speaker>AN-94</Speaker>||:希望が現れたからですよ。
+NPC-AngeDamage(2);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:アンジェさん――
+NPC-AngeDamage(2)<Speaker>アンジェリア</Speaker>;SOPIIDamage(0)||:SOP II？+SOP II……なのか？
+NPC-AngeDamage(2);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:あれ？アンジェさんわたしのこと知ってるの？
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;SOPIIDamage(0)||:そうね……でも色々変わったような……それに肩の……
+NPC-AngeDamage(0);RO635(6)<Speaker>RO635</Speaker>||:あ、わたしのことは気にしなくていいです。とにかく友軍ということで。こんばんは、アンジェリアさん。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;RO635(6)||:こんばんは……しかしなんだか見覚えのある色合いで……それに声も……
+NPC-AngeDamage(0);HK416(0)<Speaker>416</Speaker>||:悪いけど、汚染エリアではジャミングがひどいから、信号を特定できなかったわ。だから直接来て探すしかなかったの。+汚染エリアも拡大し続けているし、放射線による感染も広まっている。ここにいる限り、いつ感染者と遭遇してもおかしくないわ。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;HK416(0)||:416……あなたまで……
+NPC-AngeDamage(0);HK416(0)<Speaker>416</Speaker>||:何か変？
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;HK416(0)||:他の404のメンバーは？
+NPC-AngeDamage(0);HK416(0)<Speaker>416</Speaker>||:UMP45は重傷、他のメンバーはその介護で先に撤退したわ。挨拶できなくて悪かったわね。
+NPC-AngeDamage(0)<Speaker>アンジェリア</Speaker>;HK416(0)||:大丈夫よ。来てくれたのはありがたいけど、あなたたちだけじゃ軍の戦車の相手はできないわ。
+NPC-AngeDamage(0);HK416(0)<Speaker>416</Speaker>||:わかっているわ。だから指揮官は重装部隊を派遣して、火力支援を提供している。
+AN94(0)<Speaker>AN-94</Speaker>;HK416(0)||:しかしそれだけでは足りない。先ほどの戦いで、私たちだけでは軍の攻撃を暫く食い止めることしかできないのは明白です。
+AN94(0);HK416(0)<Speaker>416</Speaker>||:それと通信設備を持ってきたわ。調整には時間かかるけど、指揮官と連絡を取ることができる。あとは軍に気づかれるのが問題ね。
+AK12(2)<Speaker>AK-12</Speaker>;HK416(0)||:間に合わないわ。+エゴールは軍の残存部隊をすべて集結して私たちを殺しにくる。もうすぐこのセーフハウスも包囲されるはずよ。
+AN94(0)<Speaker>AN-94</Speaker>;HK416(0)||:そう、もうすぐ軍の次の攻撃が始まる。その対応策を考えないと。
+AN94(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:それじゃもう今すぐ包囲を突破するしかないでしょ？+包囲網がまだ完成してないうちに、目の前にいる敵を全部倒そう！
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(3)||:危険よ、軍の後続部隊もすぐ到着するわ。+ここは隠密行動をとって、軍の偵察部隊を避けながら慎重に離れるべきよ。
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>;SOPII(3)||:包囲を突破するのなら、敵の増援も含めて可能な限り殲滅していかなければならない……+偵察部隊を回避して隠密行動をとっても、軍の偵察設備を考えると発見される可能性も十分にある――
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker><Shake>||:コホッ……コホッコホッ！ゴホッゴホッ！
+AK12(2)<Speaker>AK-12</Speaker>||:アンジェ！
+AN94(2)<Speaker>AN-94</Speaker>||:先ほどの爆発の影響で、感染症が悪化しています！もう時間がない！
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker><Shake>||<黑屏1>:ならもう行かないと……コホッ！+なんとしても、ここから離れないと……コホッ！+ゴホッゴホッ――――！
+安洁莉娅()<Speaker>アンジェリア</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:クソ……体が……もう……+まだ……諦めるな！+ここまで来て……きっとなにか方法が！
+()||<BIN>55</BIN><黑屏2><Night>:……
+()||:……同じ時、エゴールはアンジェたちの隠れ場を観察していた。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>||<BGM>BGM_Danger</BGM>:あの女は建物の中に逃げたか。あいつは感染を受けている、必ず汚染レベルの低いエリアへ逃げようするはずだ。+今のあいつにある切り札はさっきの重火力部隊。だがこっちの主力部隊が到着すれば、そんなものも取るに足らないだろう。
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の上等兵</Speaker>||:大尉、報告です。主力部隊の到着は予定よりも15分ほど遅れるとのことです。
+NPC-YegorDamage(0)<Speaker></Speaker>;NPC-Yegor(3)||:……エゴールは振り向く。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:15分？なぜそんなにかかる？敵に遭遇したのか？
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の上等兵</Speaker>||:主力部隊は途中で感染者と遭遇し、戦闘を避けたいとのことで、迂回を検討している模様です。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:言ったはずだ、感染者と遭遇した場合は全て殲滅するようにと。急いでこっちへ向かわせろ。
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の上等兵</Speaker>||:大尉、分かっていると思いますが、あの感染者たちは――
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker></Speaker><Shake>||:……エゴールは一気に部下の襟を掴んだ。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:分かっているさ、上等兵！
+NPC-YegorDamage(0)<Speaker></Speaker>;NPC-Yegor(3)||:……エゴールは歯を食い縛った。感染症の痕が顔に蔓延しているせいか、彼の表情はより一層獰猛に見える。+そしてエゴールが手を離すと、物資箱の上に腰を下ろし、大きくため息を吐いた。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:分かっているさ。あれは仲間だ、戦友たちだ。+その中にはオレと一緒に十数年も戦ってきた者もいる。//n世界大戦の核兵器ですらオレたちを殺せなかった……オレたちは、正真正銘の地獄から這い上がってきた者だ。+だがそれも今日……あのイカれた女のせいですべて終わった。//nあの女はオレたちの邪魔をするために、コーラップス液爆弾を使った。
+NPC-YegorDamage(0)<Speaker></Speaker>;NPC-Yegor(3)||:……エゴールは周りにいる兵士たちを見渡した。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:分かっているさ。戦争には栄誉などない、感情もない。//nだがお前たちにも分かっていて欲しい、あの感染者たちを一番殺したくないのは、この命令を下した……このオレだ！+そして、お前たちも見たはずだ、このコーラップス液による汚染を……//nだからこそ、こうしてはっきりと教えてやれる――あいつらはもうダメだ、オレたちでは救うことができない！+今のオレたちにできることはただ一つ――復讐だけだ！//n一分でも遅れれば、オレたちはそのチャンスすら失うかもしれない……+だからだ、上等兵、もう一度聞こう。//n主力部隊はいつ到着する？
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>軍の上等兵</Speaker>||:……大尉、主力部隊は予定通りに到着します。
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker></Speaker>||:……上等兵は通信機を取り出し、そして通話の向こうからすぐ爆発の音が伝わってきた。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>;NPC-Yegor(3)||:彼らの魂は今夜で安らかになるだろう……そしてオレたちは、その罪を犯した張本人に復讐を果たす！
+NPC-YegorDamage(0)<Speaker></Speaker>||:……エゴールは立ち上がった。
+NPC-YegorDamage(0)<Speaker>エゴール</Speaker>||<黑屏1>:主力部隊が到着次第、速やかに包囲網を敷け！//n砲火がこの場所を平地に変えるまで、やつらを一歩も外へ出すな！+最後のチャンスだ、ここでやつらを全滅させるぞ！
+()||<黑屏1><黑屏2>:<color=#fff775>当該戦役のそれぞれの任務目標を完成することで、違うルートに進むことができます。任務目標を完成した後、他の未プレイルートに進むことができません。リセットを行うことで、再びルートを選択することができます。</color>
+()||<黑点2><BIN>10</BIN>:

@@ -1,0 +1,24 @@
+()||<BGM>BGM_Battle</BGM><BIN>3</BIN>:……鉄血の司令部にて。 
+AR15(0)<Speaker>ST AR-15</Speaker>||:ひどいザマね、ハンター。
+BOSS-3(0)<Speaker>ハンター</Speaker>||:わからん。なぜだ……
+AR15(0)<Speaker>ST AR-15</Speaker>||:私が鉄血の内部からあんたの命令を書きかえて、今回の混乱を引き起こしたのよ。
+BOSS-3(0)<Speaker>ハンター</Speaker>||:バカな、なぜお前にそんな権限が！
+AR15(0)<Speaker>ST AR-15</Speaker>||:知らないうちに手に入れた能力だけど、結構使えるみたいね。+私は本当に特別なのかもね。そう思わない？ハンター。
+BOSS-3(0)<Speaker>ハンター</Speaker>||<黑屏1>:……+まさか……わざと捕まったのか。
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2><黑点1>:……+言ってたよね。本物のハンターは、黙って獲物を待つものだって。+もちろんあんたは今から、永遠に黙ることになるけどね。 
+()||<BIN>5</BIN><黑点2><BGM>home_formation_factory</BGM>:1時間後、集合地点にて。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:見て見て！AR15だよ！やっと戻って来たよ！  
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(0)||:二人とも遅すぎるわ。//nあてにしていたらいつ出られたことか。 
+AR15(2);M4A1(0)<Speaker>M4A1</Speaker>||:AR15……無事で良かった。
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4。//n今回の混乱がなかったら、本当に自分の身を引き渡すつもりだったの？
+AR15(0);M4A1(2)<Speaker>M4A1</Speaker>||:それは……分からない……
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(2)||:どうするつもりだったかは知らないけど、M4A1。//nあなたは私たちのリーダーなのよ。バカな真似はしないで。
+AR15(0);M4A1(2)<Speaker>M4A1</Speaker>||:でも、私……
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(2)||:みんなそれぞれ責任を背負っているのよ、M4A1。//nだからときには選択の余地がないこともある。+それにM16はまだ救助を待っているわ。
+AR15(0);M4A1(0)<Speaker>M4A1</Speaker>||:うん……次は慎重に考えるわ。
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:あれー。//nAR15ったら、急に格好いいこと言っちゃって。 
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(0)||:……ちょっと来なさい、話があるから。
+AR15(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:待ってよ！まだ何も言ってないでしょ！
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(2)||:言わなくていいわ、今から永遠に黙らせてあげるから。
+AR15(2);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:M4！指揮官！助けてぇ～！
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:……ふぅ+残るは、M16姉さんだけ……

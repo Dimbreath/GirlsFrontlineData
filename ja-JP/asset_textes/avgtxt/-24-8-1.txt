@@ -1,0 +1,88 @@
+Cx4Storm()<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:そういえば、私はなんでグリフィンに来たのだろう？+もし他の民間会社に行っていたら、新人の私はきっといじめられてばかりいたよね？+人間にしろ、人形にしろ、今の世界じゃ何が起きてもおかしくない。
+()||<SE2>Gunkill</SE2>:……バン！バン！
+Cx4Storm()<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑点1>:自分を守るために、自分がいじめられないようにするために、私は【スティグマ】を受けて、戦術人形になった。+でも……なんでこんなことになったのだろう？+もし大人しくメイドとか職員とかをやっていたら、或いは道端で人間にゴミ箱を被せられても……こんなところで死ぬよりはマシでしょ？
+BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||<BIN>99</BIN><黑点2><黑点1>:<color=#00CCFF>隠れても無駄ですよ、グリフィンのゴミども。</color>
+Cx4Storm()<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑点2><黑点1>:結局……みんなの雰囲気に染まっちゃったのかな？+自分で自分を守れて、他の人も守れるって勘違いして……+本当、すっかり調子乗ってたよね……もともとこんなの柄じゃないし……
+BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||<BIN>99</BIN><黑点2><黑点1>:<color=#00CCFF>ゴリアテ、爆破の準備を。</color>
+Cx4Storm()<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑点2>:でも、それでも私は色んな人を助けることができた。+ただ一つ残念なのは……
+()||<BIN>9</BIN><SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:……ドーン――！！
+Cx4Storm()<Speaker>Cx4 ストーム</Speaker>||<黑屏1>:今日が……私がグリフィンで働く最後の日になるのかな。
+BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||<BIN>99</BIN><黑屏2>:<color=#00CCFF>こんなやつでしたの？</color>+<color=#00CCFF>震えているのかしら？</color>
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker><Shake>;BOSS-1(0)||:私は……私は……
+Cx4Storm(0);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>今のあなたの表情は好きですけど、ゆっくり楽しむ時間はないようですね――</color>
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>始末しなさい！</color>
+()||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+()||<震屏><BGM>BGM_Empty</BGM>:……ドーン――！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Reload</SE1>:やめろ！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<黑屏1>:――！+あの人形は……
+()<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Reverse</BGM>:一瞬、あれは鉄血のボス人形かと思った。+素手でドラグーンを引き裂いたところを見て、私はようやく気付いた……+あれは色んな残骸部品を組み合わせた人形……+そこで私はようやく思い出した、彼女は……+例のグリフィンのエース小隊のエリート。+どうして彼女がここに……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>99</BIN><黑屏2>:はははははは！+これだけなの！この程度なの！+かくれんぼは終わりよ、鉄血のクズども！//n精々隠れて、わたしを楽しませろ！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:……
+Cx4Storm(0);SOPIIDamage(0)||:
+()||:……SOP IIはたちまち周囲の鉄血を倒した。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:あなたは……+仲間なの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:……？
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIは振り返って、殺戮に溺れ、汚れ切った笑顔でCx4の前に立った。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker><Shake>;SOPIIDamage(0)||:……うわぁ！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:あ……びっくりさせちゃった？
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIの表情は普通に戻った。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:えっと……大丈夫です、信号パターン青……+あ、すこし赤が混ざっていますけど、ほとんどは青なので……+あなたは……グリフィンの人形、ですよね？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:M4 SOPMOD II、グリフィンAR特別作戦小隊のメンバーだよ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:え……あっ、私はCx4ストーム、B組第十七後方支援部隊の隊長です……+あっ、元後方支援部隊というか……指揮官は戦える人形を全部前線に向かわせたので……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:B組？同じ指揮官の部隊じゃないの？+まぁそんなのどうでもいいか、とにかくよかった！やっとグリフィンの部隊と会えたよ！+でもごめん、話は後ね！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:え？
+SOPIIDamage(0)<Speaker></Speaker>||:……SOP IIはオープンチャンネルを起動した。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:今日のお天気は――最悪だったね、スケアクロウ！+わたしがいれば、鉄血がいくら来ても同じ！+たかが偵察隊のボスのくせに、こんな大掛かりな包囲網を仕掛けるんだ？
+BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>そうかしら？</color>+<color=#00CCFF>最後に君みたいな獲物と出会えるなんて、むしろ幸運です。</color>
+BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:鉄血の演算ユニットはもう運気を信じるほど劣化してるの？+今度工場に戻ったら、木製の頭に付け替えてこいよ！ああいう安物の方があんたに似合うよ！
+BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>覚えておきます。そして、君の頭をねじ外したら、もう一度リピートしてあげましょう。</color>
+()||<SE1>Battlefield</SE1>:……ドーン！ゴーーーン！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:鉄血の援軍です！+M4 SOPMOD II、こっちです！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:その呼び方長いよ、SOP IIでいいから！
+()||<BIN>40</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BGM>SpecialActivity</BGM>:SOP IIは、どうしてここにいるの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:なんていうか……通りかかっただけ？+仲間を呼び起こさなければいけないから、予備電源を探している途中でここを通ったの。+それでちょうどスケアクロウに襲われてるところを見て、助けに来た。間に合ってよかったね！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:あわぁ……そんな危険を冒してまで、私たちを助けに？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うーん……なんかできることがあるわけなんだし、ただ隣で見ているだけよりはマシでしょ？
+Cx4Storm(0)<Shake>;SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:あれ？急にどうしたの？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:ううう……+ほ、本当にありがとうございます！
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ちょっとちょっと！そんな足に抱きつかなくてもいいんでしょ！汚れるよ！+<color=#A9A9A9>（やっぱり慣れないな、知らない人形と話すの……）</color>+あの、今のわたしは完全な状態じゃないし、指揮人形でもないから、そんなに助けにならないと思うよ……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:それでも、助けてくれる人がいて本当に良かったです！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:もう……分かったよ。+あなたが隊長なら、今グリフィンの指揮官と連絡とれる？誰でもいいから。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:ごめんなさい……今戦場の状況がひどくて、付近にジャミングもあるから、本部との通信は全部切れてるのです。+部隊の中でもなんとかツェナープロトコルで同期してるだけで……指揮官がいる時と比べたら全然――+そういえばSOP II、さっき指揮モジュールがないって言ったの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ないよ……でも戦術指揮は少しだけできるかもしれない。+今までのM4の作戦プランや、指揮官の命令記録とか、全部メンタルに残ってるから、参考になるかもしれない……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:それは本当に良かった！+私たちは後方支援の任務しかやったことないですから、指揮官がいないとどうすればいいのか全然分からなくて。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:だからその……指揮をお願いしてもいい？
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:えっ！？わたし指揮なんかしたことないよ！それに隊長はあなたでしょ！？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:そうですけど……私には経験がないし、SOP IIみたいな戦闘能力もないし……+私が指揮するときっとみんなを危険な目に遭わせるから……さっきのように……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:そう……でも正直ちゃんとできるかどうか分からないよ、わたしの演算能力じゃM4たちと比べられないから。+とりあえず、みんなわたしの近くに来て、指揮モジュールがないから、指揮権限で命令を出すことはできないの。//nだからツェナープロトコルで情報を同期して、同期した情報に従って行動しよう。+ただ、こういうやり方は直接命令を出すことよりも効率悪いから、鉄血より動きが遅れるかもしれない……ちゃんと心の準備をしてね。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:大丈夫です！みんなSOP IIのことを信じてるから！それにこっちの動きは元々遅れているし！
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:そういうのは自信満々に言わなくていいよ……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:とにかく、指揮の問題は解決したけど……+あとは人手の問題ね。//n今の人数じゃ、防衛ラインすら組めないよ。
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:それならなんで撤退しなかったの？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:私たちの任務はここで囲まれた仲間を助けて、グリフィンの基地に撤退することです。+でもここについた途端、指揮官との連絡を失って……+そして鉄血に襲われて、それで拠点を捨てて逃げるしかなかったけど、結局私たちも同じように囲まれて……+もし、鉄血の隙を突いて仲間を救出できたら、まだ防衛戦をやれるかもしれない……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:囲まれた人形たちのいるところは分かるの？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<黑点1>:はい！電子マップにマークしておくね！
+()||<黑点2><BGM>BGM_Empty</BGM>:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ここら辺なの？+よく分からないけど……ちゃんとできるかな……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:SOP II？
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:ごめん……こういう単独行動はわたしも初めてだから。+今の状況もよくわからなくて……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:大丈夫です、SOP IIと一緒に戦えてとても嬉しいです。+もしこれが私の最後の戦闘なら、これ以上にいい結末はないのです。
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:え？あなたたち……メンタルをバックアップできないの？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:グリフィンの本部に……何かあったらしくて。+SOP IIと会う前から、私たちはもうメンタルをアップロードすることができないようになっていたのです。+だから、今回は本当に最後なのかも。
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:あなたたち……+本当に……いいの？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:正直よくないですけど……+これはこれでいいかも。//n冷たいデータの複製じゃなくて、本当の意味で、誰かに覚えられたような感じで……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Cx4……覚えられた感じってなに？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:うーん、ちょっと変かもしれないですけど、時々なんだか……+人形が死ねないことってよくないことだと思っちゃうんです……+まるで……呪いみたいで……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:呪い？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(2)||:後方支援の人形として、私はよく作戦小隊の人形たちを護送していたけど、その彼女たちが残骸になって戻ってくることもよくあって……+そして日が変わると、また元気になって私の前に現れるけど……色んなことを忘れたりすることもあって……+そういうところ、何か感じたことはないの、SOP II？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:ごめん……わたしはメンタルをバックアップできないから、そういうのはよく分らなくて……
+()||<BIN>9</BIN><黑屏2><黑屏1>:わたしは……わたしには、そういうのはないかな……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BIN>40</BIN><黑屏2>:SOP IIが謝る必要ないよ！別にそういう感じに造られたことに文句を言ってるわけじゃないです！ただ時々思っちゃうんです……私たちは一体何なんだろうって。+もし連続する記憶でしか今の自分を証明できないんなら、次の私って何だろう？//nただの同じ型番の人形？それとも同じ「自分」なの……？もしバックアップとかがないんなら、こういうことに悩まなくてもいいのかもしれない……
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Cx4……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker><Shake>;SOPIIDamage(2)||:あ……ごめんなさい、急に一人で感傷に浸っちゃって！+とにかく、今は自分たちの素体を大事にしなくちゃいけないのです、だから頑張って全員を助けましょう！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Cx4……頑張るだけじゃダメなんだよ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:え？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:絶対、やり遂げるんだ！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:さっき言ってたことはよく分からないけど、今のわたしたちはほとんど同じってことなんでしょ！+なんだか昔に戻ったような感じで、やる気が出てきた！+よし、みんなを助けるぞ！
+()||<黑点2><BIN>10</BIN>:

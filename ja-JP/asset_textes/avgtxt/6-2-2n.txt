@@ -1,0 +1,51 @@
+()||<BGM>BGM_Sneak</BGM><Night><BIN>1</BIN>:…………護送任務終了から2時間後。
+FN49(0)<Speaker>FF FN49</Speaker>||:うぅ……ここは寒いですね……+FNC、そちらはどうです……？
+FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>;FN49(0)||:こっち？こっちは平気……+はっくしょ～～ん！
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:FNC、大丈夫ですか？！+ホットチョコはまだ残ってます？//n持って行きましょうか？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:だめよ、私たちの任務はここにいること。//nだから絶対に持ち場を離れちゃいけないの！+絶対任務を遂行して、あいつを見返してやるんだから！+それにホットチョコはまだ残っているから大丈夫。//n今回はちゃんと計算しているんだから。
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:ふふ、FNCもついに食欲を抑えることができるようになったんですね……+いいことです、その調子でそのまま続けてください。//n私が見ててあげますからね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:フンっ、大丈夫よ！//nFALにバカにされ続けるわけにいかないんだから！+それより、49は怖くないの？//n一人でそこにいて……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:大丈夫です……//nここは明かりもありますし、FNCの声も聞こえますし……+あなたが我慢できるのなら、私も一人に慣れなきゃ……+あら……？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:……ハッ！！誰？！
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||:どうしたの、49？！+ねえ！49——！
+FN49(0)<Speaker>FF FN49</Speaker>||:だ、大丈夫、味方です……たぶん……
+()||:…………相手が静かにするよう、ハンドサインを打った。
+T91(0)<Speaker>T91</Speaker>||:落ち着いて。//nグリフィンの人形ね？
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:は、はい、グリフィンの戦術人形FN49です。//nあなたは……
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:T91、あなたの同僚よ。+ずっと秘密任務に携わってきたから、私のことを知らないのも無理ないわ。+FN49、ここに来たのはみんなを救出するため？
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:あ、そうです……//n敵のボスを捕まえるため、隊長が私を囮としてここに……
+()||:ぷっ……
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:あ、ゴメンゴメン、思わず笑っちゃった。+なかなか可愛らしい作戦なのね。//nどこの小隊？
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:私たちですか？FN小隊です。//n今回は人形失踪事件を調査しにここへ……
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:FALの小隊……どうりで無茶するわけだ……+でも無駄足だったわね。//nアルケミストはエリート人形が狙いなの。+あなたたちの隊長に作戦を変更してもらって。//nなんなら私が囮になってもいいわよ。
+T91(0);FN49(0)<Speaker>FF FN49</Speaker>||:え？いいんですか？
+T91(0)<Speaker>T91</Speaker>;FN49(0)||:あはは、むしろアルケミストに目を付けられている私の方が適任ね。//nだから絶えず移動し続けているんだけどね。+その代わり、あなたたちの部隊に私の身を守ってほしいの。//n他の人形も助け出したいからね。+戦場ではお互い助け合うもんでしょ？//nどう、この案は？
+FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>;FN49(0)||:よかったね、49！//nアルケミストも捕まえられるし、私たちもこれで帰れるよ！
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||:そうですね……//nでもまず、FALさんに聞いてみないことには……
+FNFNC(0)<通讯框>;FN49(0)||<黑屏1>:問題ないよ！//nあいつがどんなに冷血でも、この作戦のほうが割に合ってるって分かるはずだもん。
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:…………同時刻、FALの司令室にて。
+FN57(0)<Speaker>Five-seven</Speaker>||:……FAL？
+FAL(0)<Speaker>FAL</Speaker>||:どうしたの？
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<BGM>BGM_Room</BGM>:もう2時間になるけど、敵に特別な動きはないようね。
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:まだ2時間よ、待ちましょ。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:正直言って、アンタのあの二人に対する扱いはひどすぎると思うわ。//nいくら……
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:いくらあの二人がFN小隊の正式メンバーじゃないからって？//nそれは時間の問題よ。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:え？本当にあの二人を招き入れようと考えてるの？
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:仕事の範囲を広げるなら、今のメンバーでは足りないわ。+それに、あの二人は性能こそ私たちに劣るとはいえ、戦場での経験は豊富だから使いどころはあるわ。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:「あの人形」みたいに？+好きにすればいいわ。//nアンタにこき使われる子が増えたほうが、アタシも楽だもの。
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:あなたも副官でいたいのなら、もっと努力することね。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:ふんっ……+ただ自分の地位を守りたいだけじゃないって、分かってるでしょ。
+()||:…………ピー。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:あら？//nFN49からの通信だわ。
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:獲物が釣れたわけじゃなさそうね。
+()||:…………57は通信を繋ぎ、FN49の報告を聞く。+…………報告が終わり、57が通信を切った。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:……だから言ったでしょ、FAL。//nあなたの作戦は独断的すぎるって。
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:私は「勇気ある挑戦」と呼んでいるけどね。//n少なくともこれで新たな手がかりが得られたわ。
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||:それで、T91の作戦案を採用するつもり？
+FN57(0);FAL(0)<Speaker>FAL</Speaker>||:…………
+FN57(0)<Speaker>Five-seven</Speaker>;FAL(0)||<黑屏1>:ちょっと、FAL。//n真面目に考えているんだったら、まず雑誌を置きなさいよ。
+FAL()<Speaker>FAL</Speaker>||<黑屏2><BIN>9</BIN>:57。T91はさっき、エリート人形だけがアルケミストの獲物だって言ったわよね？
+FN57()<Speaker>Five-seven</Speaker>||:ええ。//nだから囮に選ぶなら、今のところT91が候補として最適ね。
+FAL()<Speaker>FAL</Speaker>||:いいえ、もっと適任の人形がいるわ。
+FN57()<Speaker>Five-seven</Speaker>||:…………何が言いたいの？
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:57、あなたもエリート人形でしょ？

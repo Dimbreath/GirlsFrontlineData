@@ -1,0 +1,53 @@
+()||<BIN>98</BIN><BGM>BGM_Sneak</BGM>:……指揮官の部隊は鉄血の襲撃を食い止め、同時にAR小隊は目標地点に到達した。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:軍のくれたルートのおかげで、危険な目に合わずに済んだね。
+M4A1()<Speaker>M4A1</Speaker>||:きっと、軍が敵のほとんどを片付けてくれたおかげね。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:ですが……うまくいきすぎではありませんか？+この先は本当に戦場なんでしょうか、いくら何でも動きがなさすぎです。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:この先は霧も出てるし、スキャンで敵を探知するしか……+もしかして軍は、鉄血をもう全部片付けて先に進んじゃったのかな。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:だとすれば、合流ポイントを伝えてくれるはずです。+なにかがおかしい……
+SOPII(0);RO635(0)||:
+M4A1()<Speaker>M4A1</Speaker>||:指揮官、報告です。//nこちらはエゴール大尉の指定した前線区域に到達しました。+ですが……軍の部隊はいません……+交戦どころか、敵の姿すら……+……了解です、捜索を続けます。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:奇妙ですね……軍も鉄血も信号が検知できませんし、銃声すら全く聞こえてきません……+M4、わたしたちが軍と直接連絡を取るれよう、指揮官にお願いしてもらえますか？
+M4A1()<Speaker>M4A1</Speaker>||:分かったわ。指揮官も承諾してくれたし、いま回線を繋ぐ……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Empty</BGM>:おかしい……
+SOPII(3);RO635(0)<Speaker>RO635</Speaker>||:SOP II、どうしたの？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||<BGM>BGM_Danger</BGM>:いや……やっぱりそうだ！！鉄血だよ！みんな気を付けて！！
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:鉄血！？けれど、そんな信号はないわよ！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:でも気配がするの！すぐ近くで！
+SOPII(3);RO635(5)||:
+？？()<Speaker>？？</Speaker>||<黑屏1>:バレたか。//nなら仕方ない、攻撃だ！
+()||<黑屏2><SE1>Gunfight</SE1><BIN>9</BIN>:……バンバン！
+M4A1()<Speaker>M4A1</Speaker>||:敵襲！全員伏せて！
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:くっ！四方からの攻撃！？//nでも、どうして敵の信号がスキャンできないの！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:銃声を聞く限り囲まれてるよ、これ！
+RO635()<Speaker>RO635</Speaker>||:また――！？
+M4A1()<Speaker>M4A1</Speaker>||:人数が違いすぎるわ！完全に包囲される前に撤退を！
+BossJustice(0)<Speaker>ジャッジ</Speaker><通讯框>||:そうはさせない。
+M4A1()<Speaker>M4A1</Speaker>||:！！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:またあのチビか！
+M4A1()<Speaker>M4A1</Speaker>||:新しいボス！？
+RO635()<Speaker>RO635</Speaker>||:前に一度会いました！奴はあなたを探していたのです！+手ごわい相手です、距離を取って下さい！
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:好きに逃げ回ればいい。いくら時間を稼いだところで結果は同じだ。+ただわたしもあまり時間がない。今回は手加減なしだ！
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:みんな、早くさっきの拠点に撤退して！+RO、回線は繋いだわ、エゴールに支援を要請して。//n指揮官は私から連絡するわ！
+RO635()<Speaker>RO635</Speaker>||:M4、軍のチャンネルから応答がありません！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:またジャミングエリアに入っちゃったの？
+M4A1()<Speaker>M4A1</Speaker>||:いいえ、指揮官との連絡はできるわ、まずは場所を変えましょう！
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:M4A1、逃げても無駄だ。//nそれにお前を傷つけたくはない。+武器を捨て、わたしたちの主と会うだけでいい。
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:お前らの要塞はいまにも潰されそうだってのに、偉そうに！
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:それがどうした？わざとの可能性は考えなかったのか？
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:なに……
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:わたしたちは人間ではない、居場所を求めることがわたしたちの存在意義ではない。+わたしたちが求めるのはM4A1、お前だ。
+()||:
+RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:M4！前を見て走ってください！早く！
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:あーもう！まるで動きを完全に読まれてるみたいで、全然振り切れないよ！+軍の人形はどこ！このままじゃ持たないって！
+M4A1()<Speaker>M4A1</Speaker>||:慌てないで、指揮官の増援はもう来ているわ！守りながら、指揮官の部隊のほうに撤退し……――
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1><SE1>m4a1_013a</SE1><BGM>BGM_Empty</BGM>:――……！
+()||<黑屏2><BIN>9</BIN>:……M4A1は突如めまいに襲われた。
+？？()<Speaker>？？</Speaker>||<黑屏1>:あたしが今からすることは……+AR15にはできなかったこと……+そして、あなたが答えられなかったこと……
+M4A1()<Speaker>M4A1</Speaker>||<BIN>16</BIN><BGM>BGM_Truth</BGM><黑屏2>:くっ！+また……この感覚……+ダメ、あいつに近付かれちゃ！+みんな！早く！あいつらから離れて、早く――！
+()||:……
+BossJustice(0)<Speaker>ジャッジ</Speaker><通讯框>||:軍の邪魔もないし、楽な仕事だ。+しかし、この距離で問題ないのか、ご主人？
+主脑()<Speaker>エルダーブレイン</Speaker>||:もう少し近づいて。+M4A1に手は出さないで、残りは……
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:……ああ、分かってる。+ただこれでは、わたしも迂闊に攻撃できない。
+主脑()<Speaker>エルダーブレイン</Speaker>||:あんまり彼女を刺激しないように、ゆっくり近付いて。//n後はあたしが行くのを待ってて。
+BossJustice(0)<Speaker>ジャッジ</Speaker>||:了解した、ご主人。+他の人形たちも呼び戻すか？
+主脑()<Speaker>エルダーブレイン</Speaker>||<黑屏1>:キミがいれば十分。+彼女も逃げ足はそんなに速くない。すぐに済むよ。

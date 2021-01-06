@@ -1,0 +1,18 @@
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:司令部の一角にて……+……ピー。
+AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:聞こえますか、M4。//nこちらAR15。
+M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||:聞こえるわ！AR15、そっちは大丈夫？
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:わたしのことは聞いてくれないの？M4。//n心配してたのに！
+M4A1(3)<Speaker>M4A1</Speaker>;SOPII(0)||:SOP II！あなたもそこにいるの？
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:わたしたちなら大丈夫。//nそちらの信号を受け取ったらすぐに合流できるよ。
+M4A1(0)<Speaker>M4A1</Speaker>;SOPII(0)||:分かった。M16姉さんはまだ道中だから、とりあえずそちらを迎えにいくね。+AR15、合流地点はここでいい？
+M4A1(0);AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:……
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:AR15？
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:……うん、じゃあそうしましょ。オーバー。
+M4A1(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:ちょちょちょちょちょ！まだ言いたいこ………
+()||<黑点2><BIN>3</BIN>:AR15の潜伏先では……
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:AR15ったらもう！やっとM4と連絡がついたのに！
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||:黙って。会ってから話せばいいでしょ。+それに今は……通信している場合じゃないわ。
+AR15(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:え？+AR15……もしかして……
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(3)||:そうよ……盗聴されている。+面倒な奴に……目をつけられてしまったわ……
+AR15(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:待って！AR15、どこへ行くの？
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||<黑屏1>:ついてこないで、SOP II。+あなたはM4と合流するという……任務があるでしょ。+私は……片をつけなきゃならないことがあるの。

@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>83</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:グリフィンの新基地にて。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:わぁ――――！RO！+見て見て！ここ、昔の基地よりもずっと広いよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:まだそんなにはしゃぐ気力があったの？+ちょっと！急に跳ねたりしないで！+……ああ落ちる！バカSOP！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:崖っぷちの戦場から逃げ出してここまで来たんだよ！まるで天国みたいじゃん！+ROは嬉しくないの？
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:今はそんな気分じゃないわよ。+早く新しい体に移ることしか考えられない……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:安心しなよRO！+この新しい基地でなら、すぐなんとかなるって！
+()||:……ピッ。+……通信が入った。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:これは……カリンさん！
+SOPIIDamage(0);NPC-Kalin(1)<Speaker>カリーナ</Speaker><通讯框>||:ハハ、SOP IIさんは相変わらず元気ですね！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(1)||:うんうん！わたしもROも元気だよ！
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(1)||:全然元気じゃないわよ！
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:まぁ、今は忙しいので、用件だけ手短に伝えますね。+ペルシカさんが呼んで――
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(0)||:ペルシカさんもいるの？+やった――RO！これで新しい体をもらえるね！
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(0)||:はは……本当にそうだといいんだけど……
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:――ゴホン、SOP IIさん、とりあえず宿舎の座標を送りますので、そこで休んでいてください。+ペルシカさんはまだ設備の調整をしていますので、終わりましたらまた声を掛けます。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:分かった！ありがとうカリンさん！
+()||<黑点1>:……通信終了。
+()||<BIN>82</BIN><黑点2>:SOP IIはROと一緒にカリーナに指定された部屋へ向かった。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ここがわたしたちの新しい宿舎だ！+いい感じだね！昔と変わらない……いや、昔よりも広いよね！+ああこのベッドもとっても気持ちよさそう――よいっしょっと！
+()||:SOP IIは勢いよくベッドに飛び乗り、枕を抱いてゴロゴロし始めた。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:う～ん！ベットも昔のよりふかふか……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:SOP II！ベッドにあがるなら先に言ってよ！+ああ！立てないよ！このベット柔らかすぎるって！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:プッ――ハハハハハ！立たせてあげるから大丈夫だよ！
+()||<SE1>ClothingUp</SE1>:SOP IIはベットに腰を掛け、ROを抱き上げた。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:いいなぁ、新しい宿舎……他のみんなも一緒に住めれたらよかったのに。+RO……いつになったらみんな戻ってくるの？+M16や……M4……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:すぐ探しに行けるよ。ペルシカさんが直してくれて、わたしも新しい体をもらえる。+その時になったら、また一緒に探しに行こう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||<黑点1>:うん、そうだね！早くペルシカさんに直してもらいたいな！そうすればまたみんなを探しに行けるのにね！
+()||<黑点2>:30分後。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:うーん……連絡来ないな……+ペルシカさん遅い……
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:まだ30分でしょう？+ゆっくり待ちましょう。いっそ、今のうちにメモリを整理してみたら？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:いつまでもここで横になってるのはいやだよ。+そうだ、新基地の中を探検してみようよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:いや。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:えー！新しい基地なんだよ！+きっと美味しいものとか楽しいところがたくさんあるし、先に調査をしておこうよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:こんな姿で外に出れるわけないでしょ……！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:大丈夫大丈夫、みんな忙しそうだし、きっと気づかないよ！+ほら、行こう！
+RO635(6)<Speaker>RO635</Speaker>||<黑点1>:ちょっと！勝手に決めないでよ！+ちゃんと人の話を聞きなさい！SOP II――！
+()||<黑点2><BIN>18</BIN>:SOP IIはROを連れて新基地のホールまで来た。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:宿舎以外も色々新しい施設が増えたね！+あっ、あっちのは火力支援小隊の人形みたいだね、あいさつしておこうかな……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:……早く戻ろう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:もう少し待ってよ、RO、一回カフェを見てからにしようよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:誰か来たよ、早く戻ろ……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:え？なにか危ない人？+でも変な信号もなさそうだし……
+PM(0)<Speaker>マカロフ</Speaker>||<BGM>BGM_Empty</BGM>:AR小隊のSOPMOD II……無事だったみたいね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:あっ……えっと確か、マカロフだ！
+SOPIIDamage(0);PM(0)<Speaker>マカロフ</Speaker>||<BGM>BGM_Moon</BGM>:覚えてくれていて嬉しいわ。+あの、少し時間をもらってもいい？聞きたいことがあるわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:うん、いいよ。
+SOPIIDamage(0);PM(0)<Speaker>マカロフ</Speaker>||:あんたたちの小隊……戻ってきたのは一人だけなの？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:えっと、それは……
+SOPIIDamage(2);PM(0)<Speaker>マカロフ</Speaker>||:ROが無事なのかを確認したいだけよ。+あんたたち以外にも、彼女を心配している人がいるから。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うん、分かってるよ……+（RO！なんか言ってよ！）
+RO635(6)<Speaker>RO635</Speaker>||:……
+PM(0)<Speaker>マカロフ</Speaker>||:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:（マカロフもROのことを心配してるんだし、がっかりさせるわけにはいかないよね……）+（どう伝えればいいんだろう……）+ROはね……その……
+SOPIIDamage(2);PM(0)<Speaker>マカロフ</Speaker>||:どうなったの？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:ROは怪我をしてしまったから、今はペルシカさんのところで修理してもらってるよ！+ああでも、メンタルには全然問題なかったよ！直ったらまた連絡するように言っておくね！
+SOPIIDamage(0);PM(0)<Speaker>マカロフ</Speaker>||:……そう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:本当だよ！+ROのメンタルはわたしが引っ……えっと、持ち帰ったんだから！
+PM(0)<Speaker></Speaker>||:マカロフはSOP IIを見て少ししわを寄せた。
+PM(0)<Speaker>マカロフ</Speaker>||:……分かったわ……ROが無事ならそれでいい。+ありがとう、SOPMOD II。このことはちゃんと他のみんなに伝えるわ。+それと、その戦利品面白いわね。
+()||:マカロフは去っていった。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO、大丈夫？早くなんか言ってよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:……言ってどうするのよ？話聞かないし。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:ふぅ……びっくりした、また壊れたのかと思った。
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:びっくりしてメンタルがもっと大人になれたらいいのに。+……で、なんでマカロフに本当のこと言わなかったの？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:ちゃんと本当のことを言ったよ？
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:わたしがダイナーゲートの中にいるっていうこと。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:うーん……+わたしはただ、もしそう教えたら……ROをまた嫌な気分させちゃうかなって思って。
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:そうね、さすがにこんな姿を見せたくないし、特に相手はマカロフだし。+そこを気遣ってくれるなんて……少しは成長してるみたいね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:あはは……そうなの？+自分じゃ分かんないや。+やっと安全なところに戻れたんだし、ROにももう少し楽しくいて欲しいだけだよ……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:せっかく褒めたんだから、素直になりなさい。+ほら、カフェに行くんでしょ？終わったらさっさと宿舎に戻るわよ……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うん！それじゃあ探検の続きを――
+()||:……ピッ。+……通信が入った。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>||:久しぶり、といったところかしら、SOP IIにRO？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:ぺ、ペルシカさん！
+SOPIIDamage(0);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:探検は一旦中止よ、SOPMOD II。+ラボの方に来て、なるべく早めにね。+運が良ければ、晩御飯の前に何とかなるわね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:分かった！今すぐ行く！
+()||:通信終了。
+RO635(6)<Speaker>RO635</Speaker>||:やっとこの体とさよならできるのか……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:あと少しの辛抱だよ、RO！+もうすぐ、元の姿に戻れるよ！

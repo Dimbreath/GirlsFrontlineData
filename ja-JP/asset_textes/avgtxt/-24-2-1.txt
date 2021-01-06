@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏2>:……+コーラップス液爆弾起爆より22時間前……+……
+？？()<Speaker>？？</Speaker>||:<color=#00CCFF>……M4 SOPMOD II。</color>+<color=#00CCFF>まだ生きているか？</color>
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:……
+？？()<Speaker>？？</Speaker>||<BIN>99</BIN><黑屏2>:<color=#00CCFF>SOP II、聞こえるか？</color>
+()||:<color=#00CCFF>ザッ……ザッ……</color>
+？？()<Speaker>？？</Speaker>||:<color=#00CCFF>まだ……ザザッ……なら……ザァッ……ろ。</color>
+()||:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:痛い……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:何が起きたの……+みんな……なんで……動かないの……+信号も……全然検知できない……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><黑屏2>:そうだ……！あの時……軍の部隊が……！+わたしたちを撃って……それで……
+SOPIIDamage(2)<Speaker>？？</Speaker>||:<color=#00CCFF>お前たちは裏切られた。彼らの計画通りに。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:この声……強制通信？+……！再起動信号に……ハッキングされてる！？
+SOPIIDamage(3)<Speaker>システム</Speaker>||:<color=#00CCFF>【直ちに指定の修復ポイントにて、検査を行ってください。強制再起動はパーツの寿命に大きな影響を与えます。申請を許可しますか？】</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:体が……動かない……
+SOPIIDamage(3)<Speaker>？？</Speaker>||:<color=#00CCFF>お前の損傷は激しすぎる。こうでもしないと再起動はできない。少し我慢しろ。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:分かった……強制再起動を許可する……
+()<Speaker>システム</Speaker>||:<color=#00CCFF>【コマンド、認証。強制再起動を開始します。】</color>
+()<Speaker></Speaker>||<黑屏1>:……SOP IIの電子神経が呼び起され、激しい感覚がメンタルモデルに流れ込んだ。
+()||<闪屏><duration>5</duration></闪屏><BIN>99</BIN>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:グッアアアァァァ――！！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:せ……成功した……？+さっきの声は……M16？//n生きているの！？
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>ある意味では、まだ生きているな。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:よかった！+……え、待って！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:……信号パターン赤……鉄血！？
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>……</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:どういうことなの！？M16！
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:<color=#00CCFF>それは気にするな。今は強制接続してるから、そう長くは続かない。</color>+<color=#00CCFF>いくつかの座標を送った、何とかしてそこへ行け。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑点2>:M16が……鉄血に……+わたし……信じていいの……？
+()||<黑屏1>:<color=#00CCFF>当該戦役のそれぞれの任務目標を完成することで、違うルートに進むことができます。任務目標を完成した後、他の未プレイルートに進むことができません。リセットを行うことで、再びルートを選択することができます。</color>+<color=#00CCFF>飛行場に向かい修復を行うか、鉄血の司令部に攻め込むか、選択してください。</color>+<color=#00CCFF>選択した行動によって、ストーリーの進行は変化します。十分にご注意ください。</color>
