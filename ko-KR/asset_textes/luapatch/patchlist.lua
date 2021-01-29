@@ -435,6 +435,12 @@ patch2060=
 "2060/FormationController",
 "2060/CutinSceneController",
 "2060/CommonPicController",
+"2060/HomeEventController",
+}
+patch2070=
+{
+"2070/MissionData",
+"2070/ParticleScaler",	
 }
 --[[
 -- va11

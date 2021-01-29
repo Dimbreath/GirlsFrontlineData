@@ -5065,7 +5065,7 @@
     },
     {
         "id": 3792,
-        "formula": "@armor*sbuffidtier(713801)"
+        "formula": "@armor*sbuffidtier(713801)*(1-#def/#maxdef)"
     },
     {
         "id": 3793,
@@ -5233,7 +5233,7 @@
     },
     {
         "id": 3841,
-        "formula": "sbuffidtier(7176)>0?sbuffidtier(717602):0"
+        "formula": "sbuffidtier(7176)>0?(#formation>1?sbuffidtier(717602)*2*(1-#def/#maxdef):sbuffidtier(717602)*(1-#def/#maxdef)):0"
     },
     {
         "id": 3842,
