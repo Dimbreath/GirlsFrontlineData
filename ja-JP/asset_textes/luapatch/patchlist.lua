@@ -435,6 +435,25 @@ patch2060=
 "2060/FormationController",
 "2060/CutinSceneController",
 "2060/CommonPicController",
+"2060/HomeEventController",
+}
+patch2070=
+{
+"2070/AVGTrigger",
+"2070/BattleController",
+"2070/BattleSimulatorController",
+"2070/MissionData",
+"2070/ParticleScaler",
+"2070/OPSPanelBackGround",
+"2070/DeploymentSpotController",
+"2070/DeploymentPlanModeController",
+"2070/TargetTrainMultiSettingItem",	
+"2070/Live2DModelController",
+"2070/CommonLive2DFairyController",
+"2070/MallSkinDisplayListController",
+"2070/LoginController",
+"2070/GashaSkinDisplayRightController",
+"2070/SquadDataAnalysisPerformanceItemController",
 }
 --[[
 -- va11

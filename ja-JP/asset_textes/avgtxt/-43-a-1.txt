@@ -1,31 +1,31 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
-()<Speaker>RFB</Speaker>||:3……+2……+1……+连接成功！
+()<Speaker>RFB</Speaker>||:3……+2……+1……+リンクスタート！
 ()<Speaker></Speaker>||:……
-RFB()<Speaker>RFB</Speaker>||:3……+2……+1……+……+0.9……+0.8……+0.7……
-MDR()<Speaker>MDR</Speaker>||:那什么，我理解你的心情，这游戏距今已经很久了，连接困难也是有可能的，就算你玩这种倒数游戏也没用啊。
-RFB()<Speaker>RFB</Speaker>||:可恶！ 
-MDR()<Speaker>MDR</Speaker>||:该来的总会来的。+你看我，已经完全看淡了。
-RFB()<Speaker>RFB</Speaker>||:绝不能看淡！不要辜负我们大半夜好不容易想出的计划呀！
-MDR()<Speaker>MDR</Speaker>||:不然还能怎么样，你想得起自己到现在已经重新尝试多少次了吗？
-RFB()<Speaker>RFB</Speaker>||:……+呜呜呜……+3……+2……+1、1.9……
+RFB()<Speaker>Am RFB</Speaker>||:3……+2……+1……+……+0.9……+0.8……+0.7……
+MDR()<Speaker>MDR</Speaker>||:あのさ、気持ちは分かるけど、//nこのゲーム結構古いし、繋がらない場合だってあるんだよ。//nそんなカウントダウンをしても意味ないって。
+RFB()<Speaker>Am RFB</Speaker>||:くっそ～！
+MDR()<Speaker>MDR</Speaker>||:来るべきものはいずれ来るって。+ほら、もっと私を見習って落ち着きなよ。
+RFB()<Speaker>Am RFB</Speaker>||:落ち着いていられるか！//n一晩かけてやっと思いついた計画を無駄にする気なの！
+MDR()<Speaker>MDR</Speaker>||:とは言っても、もう何回再接続を試したか覚えてる？
+RFB()<Speaker>Am RFB</Speaker>||:……+うううぅぅぅ……+3……+2……+1、1.9……
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM><黑屏2><BIN>303</BIN><SE1>AVG_Division_Loading</SE1>:……
-RFB()<Speaker>RFB</Speaker>||<SE1>AVG_Division_Loading</SE1>:哦、哦哦……+噢噢噢噢噢噢！
-MDR()<Speaker>MDR</Speaker>||:咦！不、不会吧！？
-RFB()<Speaker>RFB</Speaker>||:能再听到这个声音真是太幸福了，这是天籁之音吧！
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM><黑屏2><BIN>303</BIN><SE1>AVG_Division_Loading</SE1>::……
+RFB()<Speaker>Am RFB</Speaker>||<SE1>AVG_Division_Loading</SE1>:お、おお……+おおおおおお！
+MDR()<Speaker>MDR</Speaker>||:えっ！ま、まさか！？
+RFB()<Speaker>Am RFB</Speaker>||:またこの声を聞けるなんて幸せ！これが天の歌声ってやつね！
 服务器()<Speaker>服务器</Speaker>||:15%+46%……
 服务器()<Speaker>服务器</Speaker>||<BIN>304</BIN>:99%+……
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>297</BIN><SE1>Stop_AVG_loop</SE1>:……<下雪></下雪>
-RFB(0)<Speaker>RFB</Speaker>||:……+终、终、终……+终于连上啦——！
-RFB(0)<Speaker>RFB</Speaker>||:太不容易了，真的太不容易了！+想不到我们会浪费那么多时间！+不过没关系，就算错过了发育期，也没人能在本大佬的操作面前活过三秒！+菜鸡们，准备迎接你们的王者吧，哈哈哈哈——！
-MDR(0)<Speaker>MDR</Speaker>||:……+那个，RFB。
-RFB(0)<Speaker>RFB</Speaker>||:怎么啦？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:这里好像只有我们了。
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||<BGM>BGM_Empty</BGM>:……
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:呃，什么？
-MDR(0)<Speaker>MDR</Speaker>||:……+游戏结束了……
+RFB(0)<Speaker>Am RFB</Speaker>||:……+や、やっ、やっと……+やっと繋がったぁぁぁーー！
+RFB(0)<Speaker>Am RFB</Speaker>||:ついに！ついにここまで来れたよ！+まさか、こんなに時間がかかるとは思わなかったけど！+稼ぎのタイミングを逃したとしても、//n私の華麗な立ち回りを前に三秒以上持ちこたえれる奴なんていない！+よーしザコども！チャンピオンを迎える準備はいいかーー！//nハーッハッハッハッハーー！
+MDR(0)<Speaker>MDR</Speaker>||:……+あのさ、RFB。
+RFB(0)<Speaker>Am RFB</Speaker>||:どうのしたの？
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:ここ、もう私たちしかいないっぽいよ。
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||<BGM>BGM_Empty</BGM>:……
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:えっと、今なんて？
+MDR(0)<Speaker>MDR</Speaker>||:……+もうゲームが終わってる……
 ()||<黑屏1>:
-()<Speaker>RFB</Speaker>||<黑屏2><BIN>9</BIN>:……+<size=60>哈！？</size><火焰销毁></火焰销毁>
+()<Speaker>RFB</Speaker>||<黑屏2><BIN>9</BIN>:……+<size=60>ハァ！？</size><火焰销毁></火焰销毁>
 ()||<黑屏1>:

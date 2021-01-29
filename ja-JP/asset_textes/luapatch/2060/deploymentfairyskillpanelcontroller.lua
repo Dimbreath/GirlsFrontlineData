@@ -48,8 +48,15 @@ local OnSelectTeam = function(self,team)
 		self:RefreshPanel();
 	end
 end
+
+local UpdateSinglePanelInfo = function(self)
+	self:UpdateSinglePanelInfo();
+	self.textSkillConsumption.rectTransform.sizeDelta = CS.UnityEngine.Vector2(30,30);
+	self.textSkillConsumption.rectTransform.anchoredPosition = CS.UnityEngine.Vector2(35,0);
+end
 util.hotfix_ex(CS.DeploymentFairySkillPanelController,'UpdateAllFriendlyFloatingTeamInfo',UpdateAllFriendlyFloatingTeamInfo)
 util.hotfix_ex(CS.DeploymentFairySkillPanelController,'OnClickSwitchGlobalSkillAuto',OnClickSwitchGlobalSkillAuto)
 util.hotfix_ex(CS.DeploymentFairySkillPanelController,'ShowSinglePanel',ShowSinglePanel)
 util.hotfix_ex(CS.DeploymentFairySkillPanelController,'HideSinglePanel',HideSinglePanel)
 util.hotfix_ex(CS.DeploymentFairySkillPanelController,'OnSelectTeam',OnSelectTeam)
+util.hotfix_ex(CS.DeploymentFairySkillPanelController,'UpdateSinglePanelInfo',UpdateSinglePanelInfo)
