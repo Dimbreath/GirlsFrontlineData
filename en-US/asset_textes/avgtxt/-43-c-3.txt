@@ -1,117 +1,117 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
-()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:0点19分 莱辛顿大道。+此刻，春田小队对地标boss的狩猎已经到了尾声。+看着闪着金光的高大人影轰然倒下，AA12收起枪，和97式一起靠近去收缴物资。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>很好，特工。</color>+<color=#00CCFF>保持这个势头前进吧，充足的准备和慎重的态度，会让你们更接近成功。</color>
-MP7(0)<Speaker>MP7</Speaker>;NPC-Dima(1)||:春田说留下弹药，但是这些装备留下被别的玩家捡到的话，只会是我们的威胁。
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:那就都带上好啦，反正春田也不会来翻我们的背包。
-MP7(0);AA12(0)<Speaker>AA12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我们这里的boss已经消灭了，你们那边状况如何？</color>
-MP7(0)<Speaker>MP7</Speaker>;AA12(0)||:我这边的敌人消灭了，按春田之前说的，装到背包快满出来为止。+那么约个地方，我们会面？
-MP7(0);M1903(10)<Speaker>春田</Speaker><通讯框>||:<color=#00CCFF>呼……虽然还有一个地区boss没有找到，但是我们的确差不多该进去了。</color>+<color=#00CCFF>根据推测，最后一个boss附近刚好就能进入暗区。我把坐标发给你们，就在这个位置会合吧。</color>
-MP7(0)<Speaker>MP7</Speaker>;M1903(10)||<黑屏1>:收到，待会儿见。
-()||<黑屏2><BIN>296</BIN><BGM>BGM_Empty</BGM>：几分钟后，春田小队的四人在约定的地点碰了面。
-M1903(12)<Speaker>春田</Speaker>||<BGM>GF_xDivision_Scene2</BGM>:再等一分钟，如果boss还没有出现，我们就直接进暗区。已经不能再拖了。
-M1903(12);97type(0)<Speaker>97式</Speaker>||:那不如我们就用这一分钟在周围转转吧？+万一谁遇到了，就立刻开火吸引其他人过去。
-M1903(10)<Speaker>春田</Speaker>;97type(0)||:好主意。
-M1903(10);97type(0)<Speaker>97式</Speaker>||:那就待会儿见啦！+……诶，等等。大家先别走！+看看那边，那边那堆东西……我没看错吧？
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:……虽然不敢置信，但你应该没看错呢。+怎么会有这么多爆炸物放在这里？
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:要是炸开的话情况会很不妙啊。+就算是堆到最高级别的装等，也会在一秒内就登出游戏吧？
-M1903(12)<Speaker>春田</Speaker>;97type(0)||:太危险了。
-M1903(12);97type(0)<Speaker>97式</Speaker>||:确实太危险了……春田，你怎么还要去啊？
-M1903(12)<Speaker>春田</Speaker>;97type(0)||:这些东西放在这里可能会危害到其他人，我们得把这些都收好才行！
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:放在这里总归不好，能带走多少就带走多少吧。+万一有其他人在这附近，只要一枪就能把所有人都轰上天。
-M1903(12)<Speaker>春田</Speaker>;97type(0)||:你说得对，尽量都带上吧。
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:<color=#A9A9A9>轻易地说服了春田啊，MP7。</color>
-AA12(0);97type(0)<Speaker>97式</Speaker>||<黑点1>:好耶！让我们来一场大扫荡……咳，大扫除吧！
-()||<黑屏2>：达成了共识，大家迅速展开了整理和收纳的行动。
-97type(0)<Speaker>97式</Speaker>||:嗯……背包剩下的地方不多了啊。+就算挂在身上也拿不完……
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:我把一部分燃烧弹放下了。
-AA12(0);97type(0)<Speaker>97式</Speaker>||:也是，这可比燃烧弹好使多了！那我也丢几个装备吧。
-AA12(0);97type(0)<Speaker></Speaker>||:这里的地形并不平整，被97放在地上的燃烧弹咕噜噜滚了出去。
-AA12(0);97type(0)<Speaker>？？？</Speaker><同时置暗>||:什么动静……谁，谁在附近？+是谁，报上名来！
-AA12(0);97type(0)<Speaker>97式</Speaker>||:诶，这儿还有别人？
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:我们都是从东边过来的，西边墙后面要是有人的话，我们的确看不到。
-AA12(0);97type(4)<Speaker>97式</Speaker>||:雪狼之眼也看不见吗？！
-MP7(0)<Speaker>MP7</Speaker>;97type(4)||<黑屏1>:墙隔得太厚了，看不见。+不管怎么说，做好战斗准备吧。
-()||<黑屏2><BIN>299</BIN><SE1>RunStep</SE1>：高跟鞋踩在地面的声音频繁而清脆，不过几秒钟，气势汹汹的金发人形就出现在春田小队的视野中。
-A91(0)<Speaker>A91</Speaker>||:你们……你们在干什么？！+这些是我的东西，给我放下！全部放下！
-A91(0);97type(0)<Speaker>97式</Speaker>||:你也太蛮横了吧，说是你的就是你的啊？+我还说是我们先发现的呢，乱七八糟摊一地，和被人炸过似的。
-A91(0)<Speaker>A91</Speaker>;97type(0)||:哈？
-A91(0);M1903(13)<Speaker>春田</Speaker>||:等等，这件事让我来处理吧。
-A91(0);97type(0)<Speaker>97式</Speaker>||:<Size=25>一枪干掉不就好了……</Size>
-A91(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:虽然嘟囔着，但97式仍然和另外两人一起退后几步，让春田来处理目前的事件。+看到春田出现，A91犹豫了一下，稍微松开了扣着扳机的手。
-A91(0);M1903(10)<Speaker>春田</Speaker>||<BGM>BGM_Brain</BGM>:请放松一点。这些爆炸物摆得太乱了，我们在帮忙整理，仅此而已。
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:帮忙整理？你们是笨蛋，还是你们当我是笨蛋？
-A91(0);M1903(10)<Speaker>春田</Speaker>||:抱歉，但我们没有敌意。+不过，你的装备看起来不太好呢。这样的装备要进入暗区的话，反而会增加风险。
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:你想说什么？
-A91(0);M1903(10)<Speaker>春田</Speaker>||:我们来做一次物资交易吧。我们这里有很充足的药品和食物，装备盈余也不少。+我想用这些能维系生命的物资和你换一些爆炸物，你觉得怎么样？
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:我觉得不怎么样。这些都是我先发现的，凭什么给你们？+而且，大家都是来杀人的，我凭什么相信你是互惠互利？
-A91(0);M1903(10)<Speaker>春田</Speaker>||:嗯……的确很难相信呢，我能理解你的想法。+但是，如果我们想要做的话，偷袭你不是更好的做法吗？
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:那是因为我够警戒！
-A91(0);M1903(10)<Speaker>春田</Speaker>||:同时也是因为我们没有想过要蓄意袭击你。+真正的战斗在暗区里，如果在这里互相消耗的话，最重要的游戏内容就体验不到了。
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:最重要的游戏内容……的确，要是不去暗区的话……
-A91(0);M1903(10)<Speaker>春田</Speaker>||:我们不是敌人，至少在这里不是。+求胜是最重要的，不是吗？现在还不到我们拼尽全力战斗的时候。活下去才是最重要的。
-A91(0)<Speaker>A91</Speaker>;M1903(10)||:……+哼，就算这样……
-A91(0);M1903(10)<Speaker>春田</Speaker>||<黑点1>:你可以考虑一下，但是时间已经不多了。+如果不能尽快进入暗区的话，我们的发育速度都会被影响。再拖下去对我们都没有好处。
-()||<BGM>BGM_Empty</BGM><黑点2><BIN>296</BIN>：在春田与A91进行谈判时，另一边抱着物资呆站的三人也有点站不住了。
-MP7(0)<Speaker>MP7</Speaker>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>这个距离下，一枪击杀她的可能性有多大？</color>
-MP7(0);97type(0)<Speaker>97式</Speaker>||:<color=#00CCFF>很难，不开镜的话可能得一梭子才能干掉她。</color>
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:<color=#00CCFF>那不是很好吗，你怎么不上去给她一梭子了？</color>
-MP7(0);97type(0)<Speaker>97式</Speaker>||:<color=#00CCFF>我又不是傻。她身上有榴弹啊，这附近都是爆炸物，一发搞不定的话，我们跑不出去就全完了。</color>+<color=#00CCFF>春田肯定是想到这个才去谈的。</color>
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:<color=#00CCFF>难怪你能活到现在，低估你了。</color>
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:<color=#00CCFF>但是我觉得这个人不像是能听进去人话的样子……我决定了，谈不成我就立刻投降，东西还给她转头就走。</color>
-AA12(0);97type(0)<Speaker>97式</Speaker><Shake>||:<color=#00CCFF>那怎么行！</color>
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:<color=#00CCFF>我想先进暗区，不想在这里玩了。</color>
-AA12(0);97type(0)<Speaker>97式</Speaker>||:<color=#00CCFF>确实有点晚了。不如这样，AA12，你过来一点，把我挡住。</color>
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:<color=#00CCFF>要做什么？</color>
-AA12(0);97type(4)<Speaker>97式</Speaker>||:<color=#00CCFF>趁着春田拖时间，我偷偷先带一点走。</color>+<color=#00CCFF>这样就算你们放弃物资，我们也还是赚的。</color>
-MP7(0)<Speaker>MP7</Speaker>;97type(4)||:<color=#00CCFF>会被发现的吧，笨蛋。</color>
-MP7(0);97type(4)<Speaker>97式</Speaker>||:<color=#00CCFF>试试嘛！</color>
-AA12(0)<Speaker>AA12</Speaker>;97type(4)||:<color=#00CCFF>好吧，我挡着你一点。</color>
-97type(4)<Speaker>97式</Speaker>||:<color=#A9A9A9>好！拜托了，春田，再拖一会儿……</color>
-97type(4)<Speaker></Speaker>||:趁着A91被春田的话术牵制住，97式把怀里的爆炸物又抱紧了一些，转头轻手轻脚地往暗区方向撤离。+然而就在这时，她忽然觉得一道锐利的目光落在身上，A91的怒吼声随之响起。
-A91(0)<Speaker>A91</Speaker>||<BGM>BGM_Empty</BGM><震屏>:那边那个双马尾的！把我的物资给我放下！
-97type(5)<Speaker>97式</Speaker><Shake>||<BGM>BGM_Danger</BGM>:啊，被发现了！怎么会，我明明已经很小心了啊？
-A91(0)<Speaker>A91</Speaker>;97type(5)||:你以为我看起来醉醺醺的就发现不了你的小动作了吗？+这才是我正常的工作状态！越是沉迷于酒精，我的感知就越敏锐。
-97type(0)<Speaker>97式</Speaker>||:可你手里的明明就是水吧？
-MP7(0)<Speaker>MP7</Speaker>||:又不是摆出一副鬼鬼祟祟的样子就真的不会被人看到……唉。+我们有四个人，就算正面打起来也一定会赢。
-A91(0)<Speaker>A91</Speaker>||:放下我的东西滚远一点，我还可以放过你们。
-MP7(0)<Speaker>MP7</Speaker>||:且不说谁的物资问题，你在这里堆这么多爆炸物做什么？送自己上天？
-A91(0)<Speaker>A91</Speaker>||:杀人的时候不掏武器，难道你用背包杀人吗，笨蛋。
-MP7(0)<Speaker>MP7</Speaker>||:杀人？杀谁？
-A91(0)<Speaker>A91</Speaker>||:不是你，庆幸吧。
-M1903(12)<Speaker></Speaker>||:春田皱起眉头，往前走了一步，眼神暗示MP7停下来。但MP7并没有接收到信号，只是盯着A91。
-MP7(0)<Speaker>MP7</Speaker>||:有想杀人的心，总也要有陷阱被拆掉的觉悟吧。
-A91(0)<Speaker>A91</Speaker>;MP7(0)||:轮得到你教育我吗？搞清楚，现在是谁在掌握主导权！
-A91(0);MP7(0)<Speaker>MP7</Speaker>||:你是不是搞错了什么？+就算开战，你也一定会比我们先死。
-M1903(12)<Speaker>春田</Speaker>;MP7(0)||:MP7！不要刺激她。
-A91(0)<Speaker>A91</Speaker>;MP7(0)||<震屏>:啊——？！你们觉得人多我就会怕了吗？+没弄死那家伙之前，我是绝对不会走的！这是我绝地翻盘的资本，休想拿走一分。
-AA12(0)<Speaker>AA12</Speaker>;MP7(0)||:……麻烦了啊。
-M1903(12)<Speaker>春田</Speaker>;MP7(0)||:但我们又怎么能保证，如果我们放下这些物资，你就一定会放我们走呢？+就像你说的，我们天然在这个陷阱里，不是吗？
-A91(0)<Speaker>A91</Speaker>;MP7(0)||<震屏>:所以你还想和我谈条件？我就是这里的主宰！+我是绝对的伏特加之神！
-MP7(0)<Speaker>MP7</Speaker>||:AA12说对了，这个人像个醉鬼，根本不讲道理。
-97type(0)<Speaker>97式</Speaker>||:总觉得没法好好谈嘛，不然还是……+诶，你们看A91后面……雾里面的那个是什么？
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:好像是我们之前没找到的那个地标boss……我现在去把它解决掉吧。
-A91(0)<Speaker>A91</Speaker>;97type(0)||:那个熬夜十天的，给我站住！你想带我的物资去哪儿？
-AA12(0)<Speaker>AA12</Speaker>;97type(0)||:后面有敌人啊，你喝水喝醉了吗？
-AA12(0)<Speaker></Speaker><同时置暗>||:眼看着敌人逐渐接近，春田也不得不严肃起来。
-M1903(12)<Speaker>春田</Speaker>||:A91，请听我说……这次我们都在你正面，没有人离开你的视野，对吗？+现在boss过来了，我们先放下矛盾，杀掉这个boss，然后再来内部争论，好吗？
-A91(0)<Speaker>A91</Speaker>||:哈？你把我当笨蛋吗？谁知道你们队到底有多少人？+刚刚就用这种伎俩调开我，现在谁会相信你的鬼话！
-A91(0);M1903(10)<Speaker>春田</Speaker>||:但是他真的要走到你背后了，你听脚步声……+他拿着燃烧弹，在这个地方很危险。
-A91(0);97type(0)<Speaker>97式</Speaker>||<BGM>BGM_Empty</BGM>:燃烧弹？按照情报，这附近的那个Boss没有配备燃烧弹啊。
-A91(0);97type(5)<Speaker>97式</Speaker>||<BGM>BGM_Boss</BGM>:……等等，是我刚才丢下的？！
-A91(0);MP7(0)<Speaker>MP7</Speaker>||:这次出去我一定要揍你，97式，就算95来了也拦不住。+啧，准备战斗！
-A91(0)<Speaker>A91</Speaker>;MP7(0)||:粉头发的，你给我把枪放下！+你敢再用枪对着我，我立刻就引爆这堆东西！
-AA12(0)<Speaker>AA12</Speaker>;MP7(0)||:糟糕了，前有狼，再前面有虎……+能强攻吗？
-AA12(0);97type(5)<Speaker>97式</Speaker>||:这个女人根本不可理喻，强攻的话她就立刻引爆……
-AA12(0);97type(5)<Speaker></Speaker><同时置暗>||:在争论之间，敌人靠近了。沉重的脚步声回荡在街道上，敲击着每个人形的耳膜。+A91显然也察觉到了不对，但顾忌着面前的四个人，她不敢挪开目光。
-AA12(0);MP7(0)<Speaker>MP7</Speaker>||<SE1>AVG_weapon_reload</SE1>:笨蛋，我警告你最后一遍。先休战，打完这东西再吵物资是谁的！
-A91(0)<Speaker>A91</Speaker>;MP7(0)||:你说谁是笨蛋？！
-A91(0)<Speaker></Speaker>||<SE1>Explode</SE1>:仿佛为了响应MP7的话语，红色的爆炸圈出现在A91脚下。尽管A91立刻往旁边躲去，她仍然被炸掉了大半条血。+看着骤跌的HP条，A91浸泡在酒精中的神经终于彻底断线。
-A91(1)<Speaker>A91</Speaker>||:AK47把我……嗝……丢在这里，那家伙还让我丢脸……你们拿低级的招数忽悠我，就连敌人也故意欺负我！+我没有游戏体验，你们也休想有！全给我上天吧！
-M1903(11)<Speaker>春田</Speaker>||:等等，我们可以分出补……
-A91(1)<Speaker>A91</Speaker>;M1903(11)||:闭嘴！老娘不玩了！
-A91(1)<Speaker></Speaker>||<SE2>Gunfight</SE2>:不等春田再说什么，A91悍然开火。春田匆忙闪避，子弹全数打在了她身后堆积着的爆炸物上。
-M1903(11)<Speaker>春田</Speaker>||:糟糕……
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:春田小队转头就跑，然而为时已晚。
-A91(1)<Speaker>A91</Speaker>||:全给我上天吧！！
-AA12(0)<Speaker>AA12</Speaker>||<SE1>AVG_The_Division_Camera</SE1><黑屏1>:啊，算了，截个图留念吧。
-()<Speaker>系统</Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2><黑屏1>：x 蜂蜜松饼 死于爆炸+x 连环冲锋八十一 死于爆炸+x 闪耀驯鼠师 死于爆炸+x 糖果炮台 死于爆炸+x 绝对伏特加 死于爆炸
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:00:19AM, Lexington Avenue. +Squad Springfield has just finished hunting down the landmark bosses. +After watching the collapse of the tall figure shining with golden light, AA-12 puts her gun away and approaches it with Type 97 to gather the spoils.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Very good, Agents.</color>+<color=#00CCFF>Carry on at this pace. Ample preparations and a careful attitude will bring you closer to success.</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Dima(1)||:Springfield told us to leave the ammo, but if other players pick up the gear we leave behind, it'll be a threat to us.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:We'll take it all, then. Besides, it's not like Springfield will go through our backpacks.
+MP7(0);AA12(0)<Speaker>AA-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We've taken out the boss over here. How are things on your end?</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;AA12(0)||:I've gotten rid of the enemies over here. Currently stocking up until my backpack is full, like Springfield said.+Shall we pick a place to meet up?
+MP7(0);M1903(10)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Hm... We haven't found one of the local bosses yet, but I think we ought to go on in.</color>+<color=#00CCFF>From what I can tell, there happens to be an entrance to the Dark Zone near the last boss. I'll send you the coordinates, so let's meet there.</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;M1903(10)||<黑屏1>:Roger. See you later.
+()||<黑屏2><BIN>296</BIN><BGM>BGM_Empty</BGM>:Several minutes later, the four members of Squad Springfield meet at the appointed location.
+M1903(12)<Speaker>Springfield</Speaker>||<BGM>GF_xDivision_Scene2</BGM>:We'll wait another minute. If the boss hasn't turned up by then, we'll just enter the Dark Zone. We can't delay any longer.
+M1903(12);97type(0)<Speaker>Type 97</Speaker>||:Why don't we use this minute to stroll around the surroundings, then? +If we run into it, we'll open fire right away to get everyone's attention.
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:That's a good idea.
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:See you later, then! +...Er, wait! Don't go yet, guys! +Look over there. That pile of stuff... Am I seeing things?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:...I can't quite believe my eyes, but you're onto something. +Why is there such a big pile of explosives over here?
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:It would be very bad if they went off.+Even with maxed out gear, it'd still be game over, right?
+M1903(12)<Speaker>Springfield</Speaker>;97type(0)||:It's just too dangerous.
+M1903(12);97type(0)<Speaker>Type 97</Speaker>||:Yes, it's very dangerous... Springfield, why are you still going over there?
+M1903(12)<Speaker>Springfield</Speaker>;97type(0)||:Someone might get hurt if we left these things over here. We need to clear them up!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Just leaving it there is bad. We should take away as much as we can carry. +If there were anyone else nearby, a single shot could blow us all up.
+M1903(12)<Speaker>Springfield</Speaker>;97type(0)||:You're right. We should take as much as we can.
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:<color=#A9A9A9>You managed to persuade Springfield easily enough, Gr MP7.</color>
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||<黑点1>:All right! Time to clean things out... I mean, clean things up!
+()||<黑屏2>:Having reached a consensus, everyone starts to organize and gather the items.
+97type(0)<Speaker>Type 97</Speaker>||:Hm... I'm running out of backpack space. +I can't take all of it even if I hung it all over me...
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I'm ditching some of the Molotovs.
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||:Makes sense, these are way handier than the Molotovs. I'll ditch a few pieces of gear myself.
+AA12(0);97type(0)<Speaker></Speaker>||:The terrain here is uneven. The Molotovs that 97 puts down roll across the ground.
+AA12(0);97type(0)<Speaker>???</Speaker><同时置暗>||:What was that... Who-who's there? +Who is it? State your name!
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||:Huh? Is someone else here?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:We came from the east. If there's someone behind the west wall, we wouldn't have seen her.
+AA12(0);97type(4)<Speaker>Type 97</Speaker>||:Has the Eye of the Snow Wolf failed us?!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(4)||<黑屏1>:The wall was too thick, so we couldn't see through it. +In any case, prepare for a fight.
+()||<黑屏2><BIN>299</BIN><SE1>RunStep</SE1>:The crisp sound of high heels treading across the ground approaches. Within seconds, a blonde-haired Doll storms up and stands before Squad Springfield.
+A91(0)<Speaker>A-91</Speaker>||:You... What are you doing?! +That's my stuff! Put it down! Put it ALL down!
+A91(0);97type(0)<Speaker>Type 97</Speaker>||:Who do you think you are? You think something is yours just because you say it is? +We found it first, and it was all over the ground, like someone had been blown up.
+A91(0)<Speaker>A-91</Speaker>;97type(0)||:Hah?
+A91(0);M1903(13)<Speaker>Springfield</Speaker>||:Hang on, let me handle this.
+A91(0);97type(0)<Speaker>Type 97</Speaker>||:<Size=25>Why don't you just shoot her...</Size>
+A91(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Despite her grumbling, Type 97 nevertheless falls back with the other two and lets Springfield handle the situation. +Upon seeing Springfield, A-91 hesitates, and her finger eases off the trigger of her gun.
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||<BGM>BGM_Brain</BGM>:Please relax. These explosives were a mess, so we were simply helping you tidy them up.
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:You were tidying them up? Are you idiots or do you think I'm an idiot?
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:My apologies, but we have no hostile intent. +However, your equipment doesn't seem to be very good. Entering the Dark Zone like this might be risky for you.
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:What are you trying to say?
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:I propose a trade. We have plenty of medicine and food here, as well as a fair bit of excess gear. +I wish to exchange these vital resources with you for some of these explosives. What do you think?
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:I don't really care. I found them first, so why should I give them to you? +Plus, we're all out to kill each other here, so why should I believe you're proposing a fair trade?
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:Hm... It does seem quite hard to believe. I understand how you must feel. +However, if we really wanted to, wouldn't it have been better for us to simply ambush you?
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:It wouldn't because I'm alert and on my guard!
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:It is also because we honestly had no intention of attacking you in the first place. +The real battle is in the Dark Zone. If we wear each other down here, we won't be able to experience the most important content of the game.
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:The most important content... True, if I don't enter the Dark Zone...
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:We are not enemies, at least not out here. +Winning is the most important thing, is it not? Now is not the time for us to fight with all our might. We need to survive.
+A91(0)<Speaker>A-91</Speaker>;M1903(10)||:... +Humph, even so...
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||<黑点1>:You can think about it, but there isn't much time left. +Our progression speed will be affected if we don't enter the Dark Zone as soon as possible, so dragging this out is no good for us.
+()||<BGM>BGM_Empty</BGM><黑点2><BIN>296</BIN>:As Springfield is negotiating with A-91, the other three are starting to get restless.
+MP7(0)<Speaker>Gr MP7</Speaker>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>What are the chances we can take her out in one hit from this distance?</color>
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:<color=#00CCFF>Not high. Without using a scope, I might have to dump an entire mag to be sure.</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:<color=#00CCFF>Isn't that a good thing? Why don't you go up and do just that?</color>
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:<color=#00CCFF>I'm not dumb, you know. She's carrying grenades and there are explosives everywhere. If we don't take her out in one shot, we'll be dead before we can even begin to run.</color>+<color=#00CCFF>Springfield must be negotiating with her because she thought about that.</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:<color=#00CCFF>No wonder you managed to survive until now. I've underestimated you.</color>
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:<color=#00CCFF>Still, I don't think she's the type who'll listen to reason... Right, I've decided. If the negotiations don't work out, I'll give up right away, return her stuff and walk away.</color>
+AA12(0);97type(0)<Speaker>Type 97</Speaker><Shake>||:<color=#00CCFF>How can you do that?!</color>
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:<color=#00CCFF>I want to enter the Dark Zone and not fool around here.</color>
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||:<color=#00CCFF>True, it's getting a little late. Tell you what, come over and give me some cover, AA-12.</color>
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:<color=#00CCFF>What are you up to?</color>
+AA12(0);97type(4)<Speaker>Type 97</Speaker>||:<color=#00CCFF>I'm going to steal some of the items while Springfield is dragging things out.</color>+<color=#00CCFF>That way, even if we abandon the supplies, we'll come out on top.</color>
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(4)||:<color=#00CCFF>You'll get caught, you idiot.</color>
+MP7(0);97type(4)<Speaker>Type 97</Speaker>||:<color=#00CCFF>You won't know until you try!</color>
+AA12(0)<Speaker>AA-12</Speaker>;97type(4)||:<color=#00CCFF>Fine, I'll block you for a bit.</color>
+97type(4)<Speaker>Type 97</Speaker>||:<color=#A9A9A9>Sweet! Please, Springfield, delay her for just a little longer...</color>
+97type(4)<Speaker></Speaker>||:While A91 is being distracted by Springfield's words, Type 97 clutches the explosives she's holding tightly to her chest and begins tiptoeing off towards the Dark Zone. +However, she suddenly feels a keen gaze fall on her, and a shout from A-91 soon follows.
+A91(0)<Speaker>A-91</Speaker>||<BGM>BGM_Empty</BGM><震屏>:You, Twintails! Put my stuff down!
+97type(5)<Speaker>Type 97</Speaker><Shake>||<BGM>BGM_Danger</BGM>:Ah! She spotted me! But how? I was really careful, wasn't I?
+A91(0)<Speaker>A-91</Speaker>;97type(5)||:Did you think I wouldn't notice your little stunt just because I look drunk? +This is my normal working state! The more drunk I am, the keener my senses are.
+97type(0)<Speaker>Type 97</Speaker>||:But that's water you're holding, right?
+MP7(0)<Speaker>Gr MP7</Speaker>||:Just because you're acting all sneaky and stuff doesn't mean people really won't notice you... (Sighs). +There's four of us. We'll win if it comes to a straight fight.
+A91(0)<Speaker>A-91</Speaker>||:Put my stuff down and leave and I might let you off.
+MP7(0)<Speaker>Gr MP7</Speaker>||:Also, why do you have so many explosives piled up here? Are you going to blow yourself up?
+A91(0)<Speaker>A-91</Speaker>||:Do you not take out your weapons to kill someone? Or do you beat them to death with your backpack, you moron?
+MP7(0)<Speaker>Gr MP7</Speaker>||:Kill someone? Who?
+A91(0)<Speaker>A-91</Speaker>||:Not you. Be glad.
+M1903(12)<Speaker></Speaker>||:Springfield frowns. She takes a step forward and shoots Gr MP7 a glance, telling her to back off. However, Gr MP7 doesn't get the message and keeps glaring at A-91.
+MP7(0)<Speaker>Gr MP7</Speaker>||:If you're prepared to kill someone, then you should be prepared to have your trap taken down.
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||:What, you're going to lecture me? Think about who has the upper hand now!
+A91(0);MP7(0)<Speaker>Gr MP7</Speaker>||:Are you sure you're not misunderstanding something? +If it comes to a fight, you'll die before us.
+M1903(12)<Speaker>Springfield</Speaker>;MP7(0)||:Gr MP7! Don't provoke her.
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||<震屏>:Oh?! You think I'm scared just because there's more of you? +I won't go before I get rid of her! These are the components for the trap I'm setting up. Don't even think of getting away with any of them.
+AA12(0)<Speaker>AA-12</Speaker>;MP7(0)||:...What a pain.
+M1903(12)<Speaker>Springfield</Speaker>;MP7(0)||:But how can we be certain that you'll let us go if we put down those items? +Like you said, we've already stepped into your trap, haven't we?
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||<震屏>:You know this and you STILL want to talk terms with me? I am the ruler of this place! +I am the Absolut god of vodka!
+MP7(0)<Speaker>Gr MP7</Speaker>||:AA-12 was right, she's a total drunkard and impervious to reason.
+97type(0)<Speaker>Type 97</Speaker>||:If only there was a way to talk this over... +Hey, look, behind A-91... What's that in the fog?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:It looks like the landmark boss we didn't find earlier... I'll head over to take care of him now.
+A91(0)<Speaker>A-91</Speaker>;97type(0)||:Hey, that super insomniac over there! Where the hell do you think you're going with my stuff?!
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:There's an enemy behind you! Are you drunk on water or something?
+AA12(0)<Speaker></Speaker><同时置暗>||:As the enemy approaches, even Springfield's expression grows severe.
+M1903(12)<Speaker>Springfield</Speaker>||:A-91, please listen to me... Right now, we're all in front of you and nobody is out of your sight, right? +There's a boss coming behind you. Let's put our differences aside for now and kill the boss before we continue this discussion, okay?
+A91(0)<Speaker>A-91</Speaker>||:Really? Do you think I'm an idiot? Who knows how many people you have in your team? +And why should I believe a word of what you're saying when you tried a trick like that on me just now?!
+A91(0);M1903(10)<Speaker>Springfield</Speaker>||:But he really IS walking up behind you, listen to the footsteps... +He's holding a Molotov cocktail. It's dangerous to stay here.
+A91(0);97type(0)<Speaker>Type 97</Speaker>||<BGM>BGM_Empty</BGM>:A Molotov? According to my intel, the nearby boss doesn't have Molotovs.
+A91(0);97type(5)<Speaker>Type 97</Speaker>||<BGM>BGM_Boss</BGM>:...Wait a minute, was it the one I dropped just now?
+A91(0);MP7(0)<Speaker>Gr MP7</Speaker>||:I am SO going to beat the crap out of you when we get out of here, Type 97. Not even 95 will stop me. +Tsk! Get ready to fight!
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||:You there, the pink-haired one! Put your gun down! +If you point it at me again I'll set everything off!
+AA12(0)<Speaker>AA-12</Speaker>;MP7(0)||:Crap, there's a devil up ahead and the deep blue sea beyond... +Can we try for an assault?
+AA12(0);97type(5)<Speaker>Type 97</Speaker>||:There's no reasoning with this woman, if we try to launch an attack, she'll set everything off...
+AA12(0);97type(5)<Speaker></Speaker><同时置暗>||:While they have been arguing, the enemy has drawn close. The sound of heavy footfalls echoes up and down the street, resounding in everyone's eardrums. +A-91 hears it too, but she's too focused on the four people in front of her to look away.
+AA12(0);MP7(0)<Speaker>Gr MP7</Speaker>||<SE1>AVG_weapon_reload</SE1>:You idiot, this is the last time I'm going to warn you. Let's put our differences aside for now and take care of that guy before we argue about what belongs to who!
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||:Who are you calling an idiot?!
+A91(0)<Speaker></Speaker>||<SE1>Explode</SE1>:A red blast circle appears below A-91's feet, as if to prove Gr MP7's words. Although A-91 takes cover immediately, she still loses a big chunk of HP. +As she watches her HP bar shrink, A-91's alcohol-soaked patience finally snaps.
+A91(1)<Speaker>A-91</Speaker>||:AK-47 (hic) abandoned me here and put me in a humiliating situation, then you tried to pull a cheap stunt on me, and now even the enemy's bullying me! +If I can't enjoy the game, then neither will you! Time to die!
+M1903(11)<Speaker>Springfield</Speaker>||:Wait, we can give you...
+A91(1)<Speaker>A-91</Speaker>;M1903(11)||:Shut up! I'm not playing this stupid game anymore!
+A91(1)<Speaker></Speaker>||<SE2>Gunfight</SE2>:A-91 opens fire without letting Springfield finish. Springfield throws herself aside, and the bullets all strike the explosives piled up behind her.
+M1903(11)<Speaker>Springfield</Speaker>||:Oh no...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:Squad Springfield turns and flees, but it is already too late.
+A91(1)<Speaker>A-91</Speaker>||:DIE!
+AA12(0)<Speaker>AA-12</Speaker>||<SE1>AVG_The_Division_Camera</SE1><黑屏1>:Meh, might as well screenshot this too.
+()<Speaker>System</Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2><黑屏1>:X Honey Muffin died from an explosion.+X Chain Charge 81 died from an explosion. +X Dazzling Mouse Tamer died from an explosion. +X Candy Cannon died from an explosion.+X Absolut Vodka died from an explosion.

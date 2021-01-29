@@ -1,30 +1,30 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>：
-()||：一周后，咖啡厅。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,120</Position>||:谢谢帮忙，这是你的工资。
-P38(0)<Speaker>P38</Speaker>||:啊，谢谢！这样数目就足够了！
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,120</Position>||:不客气，听说你们最近很努力呢。+咖啡厅，宠物中心，物资押送……打了好几份工吧？
-P38(0)<Speaker>P38</Speaker>||:嘿嘿……你都知道了啊，春田小姐。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,120</Position>||:很难不知道哦，这样的阵仗。+是在做什么很需要钱的事吗？
-P38(0)<Speaker>P38</Speaker>||:是的，最近有件事比较缺钱。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,120</Position>||:我能问问原因吗？
-P38(0)<Speaker>P38</Speaker>||:是秘密！但我保证，春田小姐一定能在一周后看到我光芒四射的成果。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,120</Position>||:那我就期待着了。
-P38(0)<Speaker>P38</Speaker>||<黑点1>:嗯！
-()||<黑点2><BIN>18</BIN>：造星室前。
-P38(0)<Speaker>P38</Speaker>||:我已经攒够了！
-HK45(0)<Speaker>HK45</Speaker>||:我也是。现在就等斯捷奇金来了……
-SpectreM4(0)<Speaker>幽灵M4</Speaker>||:怎么不问我啊？我也已经攒够了！
-HK45(0)<Speaker>HK45</Speaker>||:我相信你们。好的，那我要接通斯捷奇金的通讯了哦。
-P38(0)<Speaker>P38</Speaker>||:好紧张……
-HK45(0)<Speaker>HK45</Speaker>||:喂，是斯捷奇金吗？+你要求的出场费数额，我们已经凑齐了。
-APS(0)<Speaker>斯捷奇金</Speaker><通讯框>||:<color=#00CCFF>哇，说一周就真的在一周内攒齐了啊？</color>+<color=#00CCFF>看来你们的决心不小呢。</color>
-SpectreM4(0)<Speaker>幽灵M4</Speaker>||:我们可是很认真的！
-APS(0)<Speaker>斯捷奇金</Speaker><通讯框>||<黑点1>:<color=#00CCFF>好吧好吧，我见识到了。</color>+<color=#00CCFF>把钱打到我账上来吧！这笔钱就当做你们的学费好了。</color>+<color=#00CCFF>到账之后，我就会为你们请来那位厉害的前辈哦。</color>
-()||<黑点2><BGM>BGM_Empty</BGM>清空BGM：十分钟后，皮鞋敲击地面的声音从走廊尽头传来了。
-()||<SE1>AVG_footsteps_cave</SE1>：清脆的脚步声，一下一下地敲在偶像预备役们的心上。
-P38(0)<Speaker>P38</Speaker>||:<color=#A9A9A9>HK45好像已经猜到了，但就是不告诉我们。</color>+<color=#A9A9A9>到底会是谁呢……</color>
-SpectreM4(0)<Speaker>幽灵M4</Speaker>||:<color=#A9A9A9>完全想不到是怎样厉害的人……</color>
-()||：终于，那声音靠近了转角……
-()||：那个人的身影，也出现在众人面前。
-DesertEagle(0)<Speaker>沙漠之鹰</Speaker>||<黑屏1>:HK45，P38……+还有幽灵M4。+你们三位，就是想要接受指导的人吗？
+()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:
+()||:A week later, in the café.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||:Thanks for helping out, these are your wages.
+P38(0)<Speaker>P38</Speaker>||:Ah, thank you! That should be enough to cover what I need!
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||:You're welcome. I've heard you've all been working hard recently. +Apparently you've been working several part-time jobs... Here at the café, at the Pet Center, and delivering supplies too?
+P38(0)<Speaker>P38</Speaker>||:Hehe... Nothing escapes you, Miss Springfield.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||:Well, it would be very difficult to not find out. +Are you doing something that needs a lot of money?
+P38(0)<Speaker>P38</Speaker>||:Yeah, we've been kind of short on cash recently.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||:May I ask what it's all about?
+P38(0)<Speaker>P38</Speaker>||:It's a secret! But I promise that you'll see me shine in a week's time, Miss Springfield.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||:I'll be looking forward to it, then.
+P38(0)<Speaker>P38</Speaker>||<黑点1>:Yup!
+()||<黑点2><BIN>18</BIN>:In front of the Star Chamber.
+P38(0)<Speaker>P38</Speaker>||:I've saved up enough!
+HK45(0)<Speaker>Gr HK45</Speaker>||:Me too. Now to wait for Stechkin to arrive...
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:Why didn't you ask me?! I raised my share too!
+HK45(0)<Speaker>Gr HK45</Speaker>||:I believe in all of you. Right, I'm going to call Stechkin now.
+P38(0)<Speaker>P38</Speaker>||:The suspense is killing me...
+HK45(0)<Speaker>Gr HK45</Speaker>||:Hello? Is that Stechkin? +We've gathered the sum you asked for.
+APS(0)<Speaker>Stechkin</Speaker><通讯框>||:<color=#00CCFF>Wow, you actually managed to do it in a week?</color>+<color=#00CCFF>Looks like you're all pretty determined about this.</color>
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:We're super serious, you know!
+APS(0)<Speaker>Stechkin</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Yes, yes, I can see that.</color>+<color=#00CCFF>Send the money over to my account! Consider it a tuition fee.</color>+<color=#00CCFF>Once I receive it, I'll introduce you to that amazing veteran.</color>
+()||<黑点2><BGM>BGM_Empty</BGM>清空BGM:Ten minutes later, the sound of leather shoes clacking against the floor comes from the end of the corridor.
+()||<SE1>AVG_footsteps_cave</SE1>:The crisp footsteps seem to pound on the hearts of the idols-to-be.
+P38(0)<Speaker>P38</Speaker>||:<color=#A9A9A9>I think Gr HK45 guessed who it was, but she's not telling us.</color>+<color=#A9A9A9>Who could it be?</color>
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:<color=#A9A9A9>I have no idea who this amazing person is...</color>
+()||:Finally, the footsteps turn the corner...
+()||:And that person appears in front of them.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑屏1>:Gr HK45, P38... +And Spectre M4. +Are you the ones who require my guidance?

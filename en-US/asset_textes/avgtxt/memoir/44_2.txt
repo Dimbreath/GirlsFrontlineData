@@ -1,39 +1,39 @@
-()||<BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><火花>:枪弹横飞。+曳光弹与枪口炎成为夜色中仅存的照明。
-()||<BIN>1</BIN><Night><关闭火花>:唯一可知的是，铁血的数目远比预估要来得多。
-AK47(0)<Speaker>AK47</Speaker>||<BIN>1</BIN><Night>:唷，头儿，这可不得了！咱们可真是中大奖啦！
-OTs14(0)<Speaker>OTs14</Speaker>||<BIN>1</BIN><Night>:蛆虫们多起来也很令人头痛呢。+这次就先撤退，以后会让它们加倍奉还的。+SV98、SVD听到了吗？虽然比预定的稍早，但现在我们要开始撤往着陆区。+撤离路径使用B计划，我们背后要拜托你们照顾了。自己也别忘记撤退的时机。
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:了解！就交给我吧！
-SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:哼哼，求之不得。+越是危急关头，才越能体现出精英的实力啊。
-SV98(0)<Speaker>SV98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:B计划使用的撤离路径是……+嗯，这样可以在六号狙击点覆盖整个区域。我们走！
-()||<BIN>1</BIN><Night>:SV98与SVD一起行动，来到狙击点架起武器，将枪口对准了远处的撤退路径点。
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:距离七百米，西风十米，湿度60%，重装甲铁血，前置量……好。
-()||<BIN>1</BIN><SE1>Explode</SE1><Night>:……砰！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night><SE1>Select</SE1>:命中。这种距离的话，完全没问题。
-SV98(0)<Speaker></Speaker>||<BIN>1</BIN><Night>:在大型抑制消声器掩护下，SV98的开火声光几乎被完全遮掩。+随着她扣下的每次扳机，远方的铁血追兵就会确实地被减员。
-SV98(0);OTs14(0)<Speaker>OTs14</Speaker><通讯框>||<BIN>1</BIN><Night>:就是这样，继续开火！
-SV98(0);OTs14(0)<Speaker>OTs14</Speaker>||<BIN>1</BIN><Night>:AK47，机会来了，我们趁现在撤。
-()||<BIN>1</BIN><SE1>Explode</SE1><Night>:……砰！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:命中。
-()||<BIN>1</BIN><SE1>Explode</SE1><Night>:……砰！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:命中。
-()||<BIN>1</BIN><SE1>Explode</SE1><Night>:……砰！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:命中。
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:（看到了吗，SVD……）+（正是因为有过事前的万全准备，才能达到一颗子弹消灭一个铁血的精度！）+（这样一来队长她们背后的追兵就全都解决掉……）
-SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:注意侧面，OTs，你的三点钟方向！
-OTs14(0)<Speaker>OTs14</Speaker><通讯框>;SVD(0)||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:……碍事的家伙！+AK47，小心！有埋伏！
-OTs14(0);AK47(0)<Speaker>AK47</Speaker><通讯框>||<BIN>1</BIN><Night>:不妙啊，这下真的很不妙啊！
-OTs14(0)<Speaker>OTs14</Speaker>;AK47(0)||<BIN>1</BIN><Night>:火力完全被压倒……AK47先找掩护！+那边能够进行狙击支援吗，SV98！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:咦，怎么会……
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:从那种地方，这不在计算之内啊。+无法直接瞄准！被山丘挡住了！+我确认一下新的狙击点，得花点时间转移过去……
-SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Empty</BGM>:啧，没有我果然不行呢。
-SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:SV98，我去去就回来，待在这里警戒其他方向！
-SV98(0)<Speaker>SV98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:啊？稍等一下……
-()||<BIN>1</BIN><Night>:SVD从狙击点山丘滑下，飞快地奔向山丘另一端。
-()||<BIN>1</BIN><Night><SE1>Gunfight</SE1>:战斗十分激烈，但都发生在SV98的视线所不能及的另一端。
-()||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:……没过多久，枪声逐渐平息下来。
-AK47(0)<Speaker>AK47</Speaker>;SVD(0)||<BIN>1</BIN><Night>:得救啦～好险好险。
-SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:看到没有，这就是精英的实力哦。
-OTs14(0)<Speaker>OTs14</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Truth</BGM>:虽然不想承认，但的确是帮了大忙呢。+但现在不是庆祝的时候，铁血的数量可不只这么点。+所有人继续朝撤离点前进，SV98也快跟上！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:是、是的！
-SV98(0)<Speaker>SV98</Speaker>||<BIN>1</BIN><Night>:（我居然犯下那样的错误……没能料到从那种地方出现铁血……）+（要不是有SVD救场的话……要是我能从一开始就考虑更多的话……）
-()||<BIN>1</BIN><Night>:直到坐上撤离点的直升机时，SV98都还在重复地询问着自己，却得不出明确的答案。
+()||<BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><火花>:Bullets fly through the air. +Muzzle flashes and tracer rounds are the only thing lighting up the night.
+()||<BIN>1</BIN><Night><关闭火花>:The one thing that's certain is that there are far more S.F. than anticipated.
+AK47(0)<Speaker>AK-47</Speaker>||<BIN>1</BIN><Night>:Yo, boss, this is really something, isn't it? Looks like we hit the jackpot!
+OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night>:Even maggots can be annoying when there are a whole bunch of them. +We'll retreat for now and pay them back in spades next time. +Did you hear that, SV-98, SVD? It's a bit earlier than expected, but we'll be falling back to the LZ now. +We'll use Plan B for our withdrawal route, so please cover our rears. And don't miss your chance to fall back too.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Roger! Leave it to us!
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:Hehe, I couldn't ask for anything more. +A dire situation is where the elite can truly show their strength.
+SV98(0)<Speaker>SV-98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:The withdrawal route for Plan B is... +Mm, we'll be able to use Location 6 to cover the entire area. Let's go!
+()||<BIN>1</BIN><Night>:SV-98 moves with SVD and they set up at the sniping spot, pointing their muzzles at the distant withdrawal route.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Range is 700 meters. Wind is 40m from the west. Humidity 60%. Targeting armored S.F. units, their numbers... good.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Select</SE1>:Hit target. This distance isn't a problem at all.
+SV98(0)<Speaker></Speaker>||<BIN>1</BIN><Night>:The sound of SV-98's shooting is almost completely muffled by the huge suppressor on her weapon.。+The number of S.F. pursuers decreases with every pull of her trigger.
+SV98(0);OTs14(0)<Speaker>OTs-14</Speaker><通讯框>||<BIN>1</BIN><Night>:That's the way, keep firing!
+SV98(0);OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night>:AK-47, this is our chance. We'll pull back now.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:(Do you see now, SVD?) +(I can take out a S.F. unit with every shot because of elaborate planning!) +(And with that, the units pursuing Leader and the others have all been eliminated...)
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:OTs, your three!
+OTs14(0)<Speaker>OTs-14</Speaker><通讯框>;SVD(0)||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Ah, what a pain! +AK-47, look out! Ambush!
+OTs14(0);AK47(0)<Speaker>AK-47</Speaker><通讯框>||<BIN>1</BIN><Night>:Oh, this is bad, this is really bad!
+OTs14(0)<Speaker>OTs-14</Speaker>;AK47(0)||<BIN>1</BIN><Night>:We're being completely suppressed... Get to cover, AK-47! +Can we get some sniper support, SV-98?
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Huh, but how...
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:I didn't calculate for that region... +I can't target them directly! The hills are in the way! +It'll take time for me to find and move to a new location.
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Empty</BGM>:Tsk. Guess you can't do without me.
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:I'll be back, SV-98. Stay here and keep an eye on the other directions while I'm gone!
+SV98(0)<Speaker>SV-98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:Huh? Wait...
+()||<BIN>1</BIN><Night>:SVD slides down the slope from the sniping point and sprints to the other side of the hill.
+()||<BIN>1</BIN><Night><SE1>Gunfight</SE1>:The fighting is intense, but it all takes place on the other side of the hill where SV-98 can't see.
+()||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Before long, the sound of gunfire gradually dies down.
+AK47(0)<Speaker>AK-47</Speaker>;SVD(0)||<BIN>1</BIN><Night>:We're saved~ That was close.
+SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:See that? That's the strength of the elite.
+OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Truth</BGM>:I don't want to admit it, but you did help us out a lot. +Still, now's not the time to celebrate. There's more where they came from. +Everyone, carry on to the evac point. You keep up too, SV-98!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:R-right!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:(I can't believe I made a mistake like that... I didn't expect S.F. troops to show up there...)  +(If not for SVD's rescue... If only I'd planned more...)
+()||<BIN>1</BIN><Night>:SV-98 questions herself over and over again until she gets onto the evac chopper, but she just can't find a clear answer.

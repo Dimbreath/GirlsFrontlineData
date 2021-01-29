@@ -1,53 +1,53 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>9</BIN><黑屏1><BGM>BGM_Wake</BGM>:……次日傍晚。
-()||<BIN>82</BIN><黑屏2><Night>:人形宿舍内。
-()||<黑屏1><Night>:M249SAW一个人坐在床上，一声不吭，也没有嚼口香糖，只是安安静静地坐着。+M60和Mk48两人站在门口，你看看我，我看看你，谁也不知道这个时候要说些什么。+或者，要不要说些什么。
-()||<BIN>9</BIN><黑屏2>:黑暗中。
-LWMMG(0)<Speaker>LWMMG</Speaker>||:……修不好也无所谓啊，我死掉的话，复制一下心智云图就可以了。
-LWMMG(0);M249SAW(0)<Speaker>M249SAW</Speaker>||:……你……你说什么？
-LWMMG(0)<Speaker>LWMMG</Speaker>;M249SAW(0)||:我死掉的话，复制一下心智云图就可以了。+反正，也会有新的我来补位。
-M249SAW(0)||<黑屏1>:住口……+<size=65>住口啊！</size>
-()||<BIN>1</BIN><黑屏2><BGM>BGM_Empty</BGM>:……当天早上。+模拟训练场内。
-()||<BGM>BGM_Battle</BGM><SE2>Gunfight</SE2>:LWMMG、Mk48和M249SAW在战火中行进。
-Mk48(0)<Speaker>Mk48</Speaker>||<震屏>:啧……技术部的人到底都在干什么啊！+我怀疑这个模拟训练系统已经八百年没有更新维护了！
-Mk48(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:好了，Mk48，留着力气先想想怎么全身而退吧。
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:好麻烦啊……+拉姆都怪你啦，你的战术布置不都是最完美的吗，怎么会这样了啦……
-M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:嗯，我确实没有考虑到系统校准有偏差的情形，下次会更完善。+还有，作战中请不要叫这个名字。
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:不要，你的全名那么拗口。
-Mk48(0)<Speaker>Mk48</Speaker>;LWMMG(0)||:总之，我们接下来要做什么？
-LWMMG(0)<Speaker>LWMMG</Speaker>||:马上我们会进入随机点，大概率会有炮击。+我来掩护，你们趁机穿过这个范围，后面到达补给点就可以下线了，请大家小心行事。
-M249SAW(0)<Speaker>M249SAW</Speaker>||:<color=#A9A9A9>（……又是这种说法，真窝火。）</color>
-()||:LWMMG快步向前，先一步进入随机点，加强火力，向敌方的炮台开火。+与此同时，MK48和M249SAW撤离。+经过LWMMG身边的时候，M249SAW看到她举枪的姿态，似乎……有些吃力。
-M249SAW(0)<Speaker>M249SAW</Speaker>||<白屏1>0,5</白屏1><BGM>BGM_Empty</BGM>:我说拉——
-()||<BIN>9</BIN><白屏2>0,5</白屏2><闪屏><duration>5</duration><rate>10</rate><delay>15</delay></闪屏><SE1>Explode</SE1>:轰——！
-()||<BIN>9</BIN><黑屏1>:爆炸声。+耳鸣声。+一瞬间的黑暗。
-()||<BIN>1</BIN><黑屏2>:M249SAW感觉自己似乎被人用力推了一下。紧接着出现在她眼前的，是LWMMG残破不堪的身体。
-LWMMG(1)<Speaker>LWMMG</Speaker>||:Mk48，模拟系统判定我为阵亡，我们可以脱离战斗了。
-Mk48(0)<Speaker>Mk48</Speaker>||:……嗯。
-M249SAW(1)<Speaker>M249SAW</Speaker>||<黑点1>:……拉姆，为什么……
-()||<BIN>73</BIN><黑点2><BGM>BGM_Sneak</BGM>:……三分钟后。+模拟作战室中。
-()||:M249SAW拦住正要去维修室检查集体性能的LWMMG，LWMMG回头看她，表情仍然没有什么明显的变化，只是稍微有一些疑惑。
-M249SAW(0)<Speaker>M249SAW</Speaker>||:拉姆！你跟我说清楚，刚刚为什么要那样！
-M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:那样？+哦，经验而谈，出声提醒，你再去闪避的话，会比直接推开你慢很多。
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:我不是问你这个！+刚刚……如果不是模拟战的话，你知不知道你现在已经重创到无法修了啊！
-M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:嗯，所以下次也请你不要在作战中开小差了。
-LWMMG(0)<Speaker>LWMMG</Speaker>||:Mk48你也是。
-()||:LWMMG话锋一转，让在旁边看吵架看得津津有味的Mk48一下子有点措手不及。
-Mk48(0)<Speaker>Mk48</Speaker>||:啊？这次只是个例啦……好好好，是是是。
-()||:LWMMG准备离开。
-M249SAW(0)<Speaker>M249SAW</Speaker>||:拉姆你……你，你不可理喻！
-()||:LWMMG停住脚步。
-LWMMG(0)<Speaker>LWMMG</Speaker>||:（声音稍重）SAW，我根本不明白你在气什么，你这样我没办法和你沟通。
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:……你、你！+到底是谁没办法和谁沟通？
-M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:只是推开你而已，和之前无数次帮你善后一样，我到底做错了什么要被你说是<color=#FFB6C1>不可理喻</color>？
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:……作战中开小差是我不对，但是，你对我们就没有一点歉意吗？你这样做会重创啊！你会死啊！+什么叫这和帮我善后是一样的？为什么你就能这么冷静地无视这个问题？
-M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:歉意？我为什么要有歉意？+修不好也无所谓啊，我死掉的话，复制一下心智云图就好了啊。
-Mk48(0)<Speaker>Mk48</Speaker>;LWMMG(0)||:喂喂，这话有些过了啊……
-Mk48(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:反正，也会有新的我来补位。
-M249SAW(0)<Speaker>M249SAW</Speaker>;LWMMG(0)||:……
-LWMMG(0)<Speaker>LWMMG</Speaker>||:如果你对我的解释没有异议，那我就先去维修室了。+虽说是模拟作战，但考虑到系统存在校准偏差，加上刚刚的爆炸，也许对身体还是有——
-M249SAW(0)<Speaker>M249SAW</Speaker>||<BGM>BGM_Empty</BGM><震屏>:<size=65>LWMMG！你这个笨蛋！大笨蛋！</size>
-()||:M249SAW突然爆发的带着哭腔的怒吼让LWMMG一时间有些发怔。+她看着转身跑掉的M249SAW，张了张嘴，但又发不出什么声音。
-Mk48(0)<Speaker>Mk48</Speaker>||:喂喂……你还真是出乎我意料的状况外啊。
-()||:说完，Mk48也快步离开，追去M249SAW离开的方向。
-LWMMG(0)<Speaker>LWMMG</Speaker>||<黑屏1>:SAW刚刚……没有叫我<color=#FFB6C1>拉姆</color>……吗？
+()||<BIN>9</BIN><黑屏1><BGM>BGM_Wake</BGM>:...The next evening
+()||<BIN>82</BIN><黑屏2><Night>:Inside the dorms.
+()||<黑屏1><Night>:M249SAW is sitting alone on her bed, not saying anything or even chewing her gum. She's simply sitting there in silence. +M60 and Mk48 are standing at the doorway, looking at each other. Neither of them knows what to say. +Or rather, whether they should say anything at all.
+()||<BIN>9</BIN><黑屏2>:In the darkness.
+LWMMG(0)<Speaker>LWMMG</Speaker>||:...It doesn't matter if they can't fix me. If I die, just make a copy of my neural cloud.
+LWMMG(0);M249SAW(0)<Speaker>FF M249SAW</Speaker>||:...You... Say that again?!
+LWMMG(0)<Speaker>LWMMG</Speaker>;M249SAW(0)||:If I die, just make a copy of my neural cloud. +In any case, a new me will take my place.
+M249SAW(0)||<黑屏1>:Shut up...+<size=65>SHUT UP!</size>
+()||<BIN>1</BIN><黑屏2><BGM>BGM_Empty</BGM>:...That morning. +At the simulation training ground.
+()||<BGM>BGM_Battle</BGM><SE2>Gunfight</SE2>:LWMMG, Mk48 and FF M249SAW are moving under fire.
+Mk48(0)<Speaker>Mk48</Speaker>||<震屏>:Tsk... What the hell is the technical department doing?! +I'm starting to think this training system hasn't been maintained for 800 years!
+Mk48(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:That's enough, Mk48. Save some strength to figure out how to get out of here in one piece.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:Aw, what a pain... +It's all your fault, Lem, aren't your tactics always flawless? How did this happen...?
+M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:Mm, you're right, I didn't consider there might be a mistake in the system's calibration. I'll remedy that next time. +Also, don't call me that while we're on ops.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:No way, your full name is such a mouthful.
+Mk48(0)<Speaker>Mk48</Speaker>;LWMMG(0)||:In any case, what are we going to do now?
+LWMMG(0)<Speaker>LWMMG</Speaker>||:We're going to reach a random node soon, and it's likely that there'll be an artillery bombardment. +I'll cover you, so take this opportunity to get through the firing radius. Once you get to the resupply node in the rear you should be able to log off. Please be careful, everyone.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>||:<color=#A9A9A9>(...There she goes again. It really pisses me off.)</color>
+()||:LWMMG moves up quickly and enters the random node. She steps up her firepower and opens fire at the enemy cannon emplacement. +At the same time, Mk48 and FF M249SAW withdraw. +As they pass LWMMG, FF M249SAW notices something about the way LWMMG is holding her gun. She looks... strained.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>||<白屏1>0,5</白屏1><BGM>BGM_Empty</BGM>:Hey, Le—
+()||<BIN>9</BIN><白屏2>0,5</白屏2><闪屏><duration>5</duration><rate>10</rate><delay>15</delay></闪屏><SE1>Explode</SE1>:Boom!
+()||<BIN>9</BIN><黑屏1>:There is a thunderous explosion. +Her ears are ringing. +Everything goes dark for a moment. 
+()||<BIN>1</BIN><黑屏2>:FF M249SAW feels a forceful shove. The next thign she sees is LWMMG's hideously mangled body.
+LWMMG(1)<Speaker>LWMMG</Speaker>||:Mk48, the simulation system has ruled me KIA. We can leave combat now.
+Mk48(0)<Speaker>Mk48</Speaker>||:...Right.
+M249SAW(1)<Speaker>FF M249SAW</Speaker>||<黑点1>:...Lem, why...
+()||<BIN>73</BIN><黑点2><BGM>BGM_Sneak</BGM>:...Three minutes later. +Outside the training ground. 
+()||:FF M249SAW blocks LWMMG as the latter heads to the repair bay for an overall check-up. LWMMG turns to look at her. Her face remains largely impassive save for a hint of confusion.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>||:Lem! Tell me, why did you do that just now?!
+M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:Do what? +Oh, that was from experience. Shouting a warning to you and waiting for you to respond would have been much slower than simply pushing you out of the way.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:I'm not talking about that! +If...if that hadn't been a simulated battle, you'd have been damaged beyond repair, do you know that?!
+M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:Yeah, so next time, please don't slack off during ops again.
+LWMMG(0)<Speaker>LWMMG</Speaker>||:The same goes for you, Mk48.
+()||:As the thrust of LWMMG's words changes, Mk48 — who has been watching the argument with great interest — is taken completely by surprise.
+Mk48(0)<Speaker>Mk48</Speaker>||:What? That was just ONE TIME... Alright, alright, I get it, I get it.
+()||:LWMMG prepares to leave.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>||:Lem, you...you're utterly unreasonable!
+()||:LWMMG freezes in place.
+LWMMG(0)<Speaker>LWMMG</Speaker>||:(Evenly) SAW, I have no idea why you're so angry. You are making it impossible to communicate.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:...Why, you! +Who exactly is making communication impossible here?!
+M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:I simply pushed you aside. It's the same as how I cleared up the countless messes you made in the past. What exactly have I done to make you think that I am <color=#FFB6C1>utterly unreasonable</color>？
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:...It was my fault for screwing up during the op, but don't you feel like you owe us an apology? You could have been critically damaged! You could have died! +How is this the same as cleaning up after me? How could you overlook your problem so calmly?
+M249SAW(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:Apologize? Whatever for? +It doesn't matter if they can't fix me. If I die, just make a copy of my neural cloud.
+Mk48(0)<Speaker>Mk48</Speaker>;LWMMG(0)||:Oi, that's a bit over the line...
+Mk48(0);LWMMG(0)<Speaker>LWMMG</Speaker>||:In any case, a new me will take my place.
+M249SAW(0)<Speaker>FF M249SAW</Speaker>;LWMMG(0)||:...
+LWMMG(0)<Speaker>LWMMG</Speaker>||:If you have no objections to my explanation, then I'll be heading to the repair bay. +While it was just a simulated battle, the system miscalibration and that explosion just now might have had an effect on—
+M249SAW(0)<Speaker>FF M249SAW</Speaker>||<BGM>BGM_Empty</BGM><震屏>:<size=65>LWMMG! You dumbass! You massive dumbass!</size>
+()||:LWMMG is taken aback by FF M249SAW's sudden outburst. SAW's voice was breaking. +She stares as SAW turns and runs off. She opens her mouth but doesn't know what to say.
+Mk48(0)<Speaker>Mk48</Speaker>||:Wow, I really wasn't expecting that.
+()||:With that, Mk48 also marches off after FF M249SAW.
+LWMMG(0)<Speaker>LWMMG</Speaker>||<黑屏1>:Just now... SAW did not call me <color=#FFB6C1>Lem</color>, did she?

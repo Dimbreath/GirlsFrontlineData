@@ -1,82 +1,82 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><Night><BGM>GF_xDivision_Scene2</BGM>:——曼哈顿•哈德森难民营。<下雪></下雪>
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>你的ISAC看起来还没出故障，不如在出发之前检查一下自身的情况。</color>+<color=#00CCFF>我会在必要的时候为你提供更多的信息支持，特工，祝你好运。</color>
-NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:这就是指挥官说的那个NPC吗？
-NPC-Dima(1);K5(0)<Speaker>K5</Speaker>||:除她以外也没有别人了……+原来如此，她好像可以根据我们的游戏进程来提供适当的教程和建议，是个很有用处的NPC呢。+不过，看起来不是个走好运的面相。
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>谢谢你的评价，我会铭记在心的。</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:噗嗤，这个NPC好像能对我们说的话做出准确回应呢。
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:看来是相当高端的人工智能，那个年头的科技能达到这样的水平吗？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:有没有达到这样的水平不说，有的玩家的确需要这样的NPC来活跃气氛呢。+看看旁边那个小家伙，从她跟着上线到现在已经开始瑟瑟发抖了。
-PP90(0)<Speaker>PP90</Speaker>||:诶，我在发抖吗？
-PP90(0);K5(0)<Speaker>K5</Speaker>||:虽然强打精神，但对这里的不适应还是写在脸上了，90。
-PP90(0)<Speaker>PP90</Speaker>||:……虽然是很不习惯在这么拟真的环境下玩射击游戏，但我也不至于瑟瑟发抖。+只要是简单点的任务的话……对吧Vivi？
-Vector(0)<Speaker>Vector</Speaker>||:……
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:被无视了呢。
-PP90(0)<Speaker>PP90</Speaker>||:快、快说点什么呀！
-()<Speaker></Speaker>||:被催促的Vector没有作任何应答，而是在三个人形的注视下默默地在掩体上倚靠一下，又接着站起来再倚靠……+最后她抬起枪来，准确命中了远处的几个啤酒瓶和空罐头盒。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>干得好，特工。</color>+<color=#00CCFF>现在大街小巷都变成了杀戮的战场，希望你的加入能给这座城市带来一线希望。</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:……这是在学习新手教程吗？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:如果要列举有谁能在任何时候都严格按照规则来行动的人形，那肯定要有Vivi一份了。
-K5(0);PP90(0)<Speaker>PP90</Speaker>||:你们刚才没有学吗？
-K5(0)<Speaker>K5</Speaker>||:我全跳过了！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:不要在队长面前一脸自豪地说这种话啊！
-PP90(0)<Speaker>PP90</Speaker>||:话说回来，为什么你们也来玩游戏了，而且还管Vivi叫“队长”？+我们又不是一个队伍的！
-K5(0)<Speaker>K5</Speaker>||:因为指挥官说如果帮忙赢了比赛，就会把钱分一部分给我们。 
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:而且这游戏好像每个人都是自由状态，也就是说可以自发组队的。+所以既然目标都是帮指挥官赢，那大家一起合作不就能增加战斗力了嘛。
-PP90(0)<Speaker>PP90</Speaker>||:明明就是动机不纯……Vivi只要有我这样可靠的队友就足够了。
-Vector(0)<Speaker>Vector</Speaker>||:如果不是指挥官非要给我安排人手，我以为我一个人就够了。+不过，既然有这么多玩家参赛，激烈的竞争不会少吧……+多一个同伴就多一分照料，既然是指挥官的意思，我姑且接受这样的组队。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:嘿嘿，别说的那么勉强嘛，那么Vivi小队正式成立了~！+请多指教啦，小90！
-PP90(0)<Speaker>PP90</Speaker>;R93(0)<Position>0,-100</Position>||:你得感谢Vivi的慷慨……哇，别拽我的头发！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:话说回来，Vivi队长有没有针对比赛做好什么万全的准备呢？+来说说你是怎么打算的吧？
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:蒂玛刚才已经给过建议了不是吗？+在赢得胜利之前，我们得先解决取暖问题，之后是保障健康，一些物资也需要在这座城市里搜索获得……
-K5(0)<Speaker>K5</Speaker>||:听起来几乎都是人类的生存所需呢。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:我懂我懂，就是那种完全可以无视的外部因素，毕竟作为人形，这其中的大部分因素在平时都不值得担心……
-()<Speaker>系统</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:玩家“粉红喵喵拳”死于低温。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE1>AVG_The_Division_ISAC_Off</SE1>:诶？“粉红喵喵拳”是谁啊！？+而且死于低温什么的，难道她是人类？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:指挥官不是说参加游戏的基本都是人形吗？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>看来已经有特工小队因为无法适应环境而减员了。</color>+<color=#00CCFF>现如今曼哈顿的气温已经下跌到了零下二十五度，有些地方甚至低于零下三十度。</color>+<color=#00CCFF>如果不谨慎对待的话，下场也不会比那些减员的特工好到哪里去吧。</color>+<color=#00CCFF>特工，请务必注意保暖问题。</color>
-NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:明明什么感觉都没有，就、就真的能冻死吗？
-Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:毕竟游戏被架设在了二级平层，为了能兼容数据，我们模拟出来的个体在算法上跟这个“世界”保持了一定的平衡。+这样有好也有坏，我们可以自由地使用武器，但恶劣的环境的确也会产生影响，尤其是从来不曾感受过人类生存需求的我们更容易出差错。+为了避免陷入危险境地，我们最好进行周密的计划，然后步步为营。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:听起来好难啊，K5，你之前说过我们有几率会赢的对吧？？
-K5(0)<Speaker>K5</Speaker>||:我觉得还是别在游戏刚刚开始的时候就听天由命比较好。+而且认真想一想，这样游戏过程不也蛮有趣的嘛~！+对了，我们要不要找个什么敌人来试试枪？
-PP90(0)<Speaker>PP90</Speaker>||:我们要主动出击吗？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:如果像Vivi说的那样需要做复杂的前期准备，那应该不会碰到什么人形玩家才对，除非真的有谁能笨到什么都不做就直接杀过来……
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:哒哒哒哒哒——
-？？？()<Speaker>？？？</Speaker>||:为了伏特加——！！！
-？？？()<Speaker>？？？</Speaker>||:乌拉——！！！
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:哒哒哒哒——哒哒哒哒——
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:……呃。
-PP90(0)<Speaker>PP90</Speaker>;R93(0)<Position>0,-100</Position>||:哇，真的打过来了！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:看来你有当预言家的潜质呢。
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:这种潜质我才不要！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:不过也正如我所料，既然来了，那我们也反击好啦，冲啊！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:这……队长，K5要冲上去了，我们打吗？
-Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:不，我们后撤。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:后、后撤？
-K5(0)<Speaker>K5</Speaker>||:诶——！为什么？
-Vector(0)<Speaker>Vector</Speaker>;K5(0)||:在这座城市里，一切都是按照游戏规则运行的，也就是说我们没办法侦测周边还有没有其他的人形存在。+就算能打赢眼前的对手，也很难说不会有坐收渔翁之利的家伙在等着。这里先回避锋芒吧。
-K5(0)<Speaker>K5</Speaker>||:哎——这也太可惜了，根据我的占卜，这一波肯定能赢来着！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:之前是谁说不要在游戏刚刚开始的时候听天由命的！？
+()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><Night><BGM>GF_xDivision_Scene2</BGM>:—Hudson Refugee Camp, Manhattan.<下雪></下雪>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
+NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Was that the NPC the Commander was talking about?
+NPC-Dima(1);K5(0)<Speaker>K5</Speaker>||:There's nobody else but her, right...+I see, it looks like she provides tutorials and suggestions depending on our game progression. Seems like a pretty useful NPC. +However, she has an unlucky face.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>Thank you for your feedback. I will take it to heart.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Pffft, this NPC can respond appropriately to our comments.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:She seems to be a pretty high-end AI. Was the technology of that era this advanced?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Whichever the case, some players do need NPCs like this to liven up the mood.+Look at that shorty over there, she's been all nervous and jittery ever since she logged on with us just now.
+PP90(0)<Speaker>PP-90</Speaker>||:Huh? I'm trembling?
+PP90(0);K5(0)<Speaker>K5</Speaker>||:You're trying to put on a strong front, 90, but you're not used to this place and it's written all over your face.
+PP90(0)<Speaker>PP-90</Speaker>||:...Granted, I'm not very used to playing shooting games in simulated environments like this, but that's hardly enough to make me tremble.+I mean, as long as our mission isn't too difficult... Right, Vivi?
+Vector(0)<Speaker>Vector</Speaker>||:...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:She's ignoring you.
+PP90(0)<Speaker>PP-90</Speaker>||:C-come on, say something!
+()<Speaker></Speaker>||:Vector remains unresponsive to PP-90's prompt. Instead, she leans against a nearby piece of cover, then stands up and leans over it again...+Finally, she raises her gun and accurately hits several beer bottles and empty cans in the distance.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done, Agent.</color>+<color=#00CCFF>The streets are now fields of slaughter. Hopefully your participation will bring a ray of hope to this city.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...Is she going through the newbie tutorial?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Well, if we were to list the Dolls who always follow instructions to a tee, Vivi would have to be one of them.
+K5(0);PP90(0)<Speaker>PP-90</Speaker>||:Didn't you go through the tutorial as well?
+K5(0)<Speaker>K5</Speaker>||:I skipped it all!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Don't proclaim that so proudly in front of your squad leader!
+PP90(0)<Speaker>PP-90</Speaker>||:Speaking of which, how come you're also playing the game? And why are you calling Vivi your leader?+We're not even on the same squad!
+K5(0)<Speaker>K5</Speaker>||:Well, the Commander said we'd get a share of the prize money if we won.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Also it seems like this game is a free-for-all, which means we can team up among ourselves.+Since we're all here to help the Commander win, we'll have a better chance if we work together, right?
+PP90(0)<Speaker>PP-90</Speaker>||:Your motives are so impure... All Vivi needs is a reliable squadmate like me.
+Vector(0)<Speaker>Vector</Speaker>||:I think I could have handled this on my own without the extra manpower the Commander arranged for me.+Still, with this many players, I'm sure the competition will be intense...+Every extra companion will be someone else to look out for, but since this is what the Commander wants, I will accept this grouping.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Hehe, don't sound so grudging. In any case, Squad Vivi is officially founded!+Let's all do our best then, 90!
+PP90(0)<Speaker>PP-90</Speaker>;R93(0)<Position>0,-100</Position>||:You should thank Vivi for her generosity... Hey, quit pulling my hair!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Speaking of which, did you make any special preparations for this tournament, Vivi? +Do you have some sort of game plan?
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:Dima just gave us a suggestion, didn't she?+Before we can win, we need to solve the problem of keeping ourselves warm. Then we need to stay healthy, and we have to procure supplies within the city...
+K5(0)<Speaker>K5</Speaker>||:Those sound like human survival needs.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Yes, yes, I know, they're the sort of external factors that we can normally disregard because we're Dolls...
+()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Player "Pink Nyan Nyan Punch" has died of hypothermia.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Ehhh? Who's "Pink Nyan Nyan Punch"?!+And how did she die of hypothermia, is she human or something?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Didn't the Commander say that all the players were Dolls?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like a squad of agents has taken casualties because they couldn't adapt to the environment.</color>+<color=#00CCFF>The current temperature in Manhattan is -25 degrees centigrade, going as low as -30 in some places.</color>+<color=#00CCFF>If you're not careful, you'll meet the same fate as that fallen agent.</color>+<color=#00CCFF>Please make sure you keep warm, Agents.</color>
+NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I don't feel anything though. Can we really freeze to death?
+Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:Well, the game is played on Level II, after all. Our virtual avatars probably share certain algorithms with this world in order to maintain data compatibility.+There are advantages and drawbacks to this, of course. We can use weapons freely, but it also means poor conditions will affect us, especially since we aren't used to taking human survival needs into consideration.+In order to avoid danger, we should plan carefully and tread lightly.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:That sounds tough. K5, what did you say about our chances of winning earlier?
+K5(0)<Speaker>K5</Speaker>||:I think we shouldn't rely so much on fate when the game's just begun.+Also, when you think about it, this kind of playstyle is pretty fun, isn't it?+Oh yeah, why don't we find some enemies for target practice?
+PP90(0)<Speaker>PP-90</Speaker>||:We're going on the offensive?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well, if we need to prepare so much beforehand like Vivi says, then we probably won't run into any Doll players just yet, unless there really are idiots out there who'll just charge in without second thought...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:Bang bang bang bang bang—
+？？？()<Speaker>???</Speaker>||:For vodka—!!!
+？？？()<Speaker>???</Speaker>||:YPAAAAAAAAA—!!!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:Bang bang bang bang bang — bang bang bang bang—
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...Er.
+PP90(0)<Speaker>PP-90</Speaker>;R93(0)<Position>0,-100</Position>||:Whoa, they really are charging over!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Looks like you have potential as an oracle.
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I don't want that kind of potential!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Still, I expected this. Since they're here, let's shoot back! Get them!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Uh... Leader, K5's charging out. Should we follow her?
+Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:No, we're falling back.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:F-falling back?
+K5(0)<Speaker>K5</Speaker>||:Ehhhh—! But why?
+Vector(0)<Speaker>Vector</Speaker>;K5(0)||:Everything in this city goes according to the rules of the game, which means we have no way of detecting the presence of other Dolls nearby.+In other words, even if we beat our current opponents, we won't know for sure that there aren't any opportunists lurking in the shadows and waiting for a chance to pick off the survivors. So let's avoid a confrontation for now.
+K5(0)<Speaker>K5</Speaker>||:Aw— Well, that's a shame. My divination was telling me that we'd definitely be able to beat this wave!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Weren't you the one who said we shouldn't rely on fate so much early on in the game?!
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><Night>:哈德森难民营内……
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:一个敌人被精准爆头之后倒在了地上，紧接着，由K5带头，Vector临时组成的“Vivi”小队快速穿过了封锁线，深入到了营地内部。
-PP90(0)<Speaker>PP90</Speaker>||:Vivi，这里……不太对劲吧。+总觉得还有别人在……
-PP90(0);Vector(0)<Speaker>Vector</Speaker>||:敌人应该不会那么快就消灭干净的，保持警惕是好事，不过……+可以不要搂着我不放吗？
-PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:这样我比较有安全感~
-PP90(0);Vector(0)<Speaker>Vector</Speaker>||:但要是被突然袭击，我们就全都不安全了。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特工，这里已经被大量敌人占据了，请务必小心。</color>
-NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:这种事情我们早就知道了！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:队长，这些家伙看起来都很难对付，里面的恐怕更不好惹，还要继续往前走吗？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:这些敌人被设计出来就是要被我们解决的，为什么不呢？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:怕的是有个万一……
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:放心好了，我有种能置死地而后生的预感！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:唔……具体怎么做，还是让队长来决定吧。
-Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:啊……
-Vector(0)<Speaker>Vector</Speaker>||:我只考虑了自己单独行动的计划。
-PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:Vivi……多少为我着想一下好不好！
-K5(0)<Speaker>K5</Speaker>;Vector(0)||:还有我还有我！
-Vector(0)<Speaker>Vector</Speaker>||:唔……
-Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:咱们的队长大概还不适应这么多人协同合作吧？
-Vector(0)<Speaker>Vector</Speaker>||:……这里的环境相对封闭，如果吸引追兵到这里来，也许能被这些敌人给拖住。+这样不管是一个人还是多个人，都不会被她们给缠上了。+如果你们能跟上我的步伐的话……
-K5(0)<Speaker>K5</Speaker>||:哦！只要跟在Vivi队长屁股后面就行了对吧，这太简单了！
+()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><Night>:Inside the Hudson Refugee Camp...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:An enemy's skull explodes from a well-placed shot. Immediately after that, Squad Vivi passes through the perimeter with K5 in the lead, moving deep into the camp's interior.
+PP90(0)<Speaker>PP-90</Speaker>||:Vivi... Something's not right.+I have a feeling that someone else is around...
+PP90(0);Vector(0)<Speaker>Vector</Speaker>||:The enemy probably won't have been wiped out so soon, so it's good that you're staying alert. Although...+Could you please stop hugging me?
+PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:But I feel safer this way~
+PP90(0);Vector(0)<Speaker>Vector</Speaker>||:But if we get ambushed, neither of us will be safe.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this location is being held by a large number of enemies. Please be careful.</color>
+NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:We knew that already!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Leader, they look like pretty tough customers, and things look even worse inside. Are you sure you want to continue onward?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:These enemies are designed to be killed by players, so why shouldn't we go ahead?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:You never know...
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Relax, I've got a feeling that we'll make it out in one piece even if we're in dire straits!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ugh... Just let Leader decide what to do.
+Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:Ah...
+Vector(0)<Speaker>Vector</Speaker>||:I was only thinking about how to operate on my own.
+PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:Vivi...spare a thought for me, won't you?
+K5(0)<Speaker>K5</Speaker>;Vector(0)||:And me!
+Vector(0)<Speaker>Vector</Speaker>||:Ugh...
+Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I guess our leader isn't too used to working with so many people, huh?
+Vector(0)<Speaker>Vector</Speaker>||:...The terrain here is comparatively enclosed. If we can lure our pursuers here, we should be able to bog them down.+That way they won't be able to keep chasing us, whether they're one or many.+If you can keep up with me...
+K5(0)<Speaker>K5</Speaker>||:Ohhh! So all we have to do is stick to your ass, right? Piece of cake!
 ()||<黑点1><BIN>10</BIN>:

@@ -1,45 +1,45 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>288</BIN><BGM>m_avg_tension</BGM><SE2>Alarm</SE2>:交火的声音在暗区愈发激烈，但巡逻在街道上的敌人并不为这喧嚣所警觉——+依照设定，他们仅会在“看见敌人”的时候才展开行动。因此在面对这些被设定好行动准则的敌人时，毫不犹豫地扣下扳机是最佳选择。
-()||<SE1>Select</SE1>：但再次面对Vector，HK416却感觉到很大的不同——因为上次和Vector交手的时候，对方看起来更像是游戏里的NPC敌人。+不过，这种违和感在当下却并没有值得细细琢磨的余地。
-()||<SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1>：子弹连续扫射在地面上，溅起一线尘土与泥水——+它紧追着向前奔跑的那个目标，直到对方滑铲躲进了路边的汽车后方才停止。
-()||<SE1>AVG_weapon_reload</SE1>：换好新弹匣的HK416此时终于捕捉到了Vector的射击间隙，但探头准备射击的时候，一枚高爆手雷却落在了附近。
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>Explode</SE1>:啧！
-HK416Mod(0)<Speaker></Speaker>||:这里已经是HK416最后能依靠的掩体了。+尽管朝一旁做出翻滚动作就能避开高爆手雷的伤害，可代价却是自身彻底暴露在了Vector的射击范围内。
-HK416Mod(0);Vector(0)<Speaker></Speaker><同时点亮>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:此时此刻，双方的交火距离已在咫尺之间，离开掩体的HK416已经能看到Vector处于战斗状态的模样，而她手中的武器似乎已经做好了收割战果的准备。+即便如此，HK416还是找到了一线生机——介于自己和Vector之间的路面上还存在着一个闪烁着感应器灯光的行李炸弹，而HK416毫不迟疑地选择了朝它开火。
-HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE2>Gunfight</SE2>:须臾之间，HK416明显能感觉到自己的身体被数枚子弹命中，但对方的射击却在这之后戛然而止。
-HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE1>RunStep</SE1>:对方的子弹已经耗尽了。+如此判断的HK416在视觉影像开始泛起红光的时刻，冲破了因爆炸而产生的烟尘并举起武器对准了Vector的眉心。
-HK416Mod(0);Vector(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1>:同样的，因来不及更换弹匣而选择使用自卫武器的Vector也将枪口抵在了HK416的左眼上。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-Vector(0)<Speaker>Vector</Speaker>||:……
-()<Speaker></Speaker>||<白屏1>:在先手即胜的当下，旗鼓相当的两者却都没有扣动扳机——她们似乎都从彼此凝视的目光里察觉到了相同的疑惑。
-()<Speaker></Speaker>||<BIN>287</BIN><BGM>BGM_Frontline</BGM><SE1>AVG_The_Division_Flare_Gun</SE1><白屏2>:短暂的沉默被一道尖锐的声响所打破，城市尽头的夜空中，升起了一枚红色的信号弹。+那是向直升机传达撤离点位置的标识。
-()<Speaker>系统</Speaker>||:已呼叫“aaaa”来执行特工撤退。+距特工撤退直升机抵达还有9:59:62
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特，特工！信号弹已经发射，赶紧过来集合——！</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:着急的话就自己去吧，我现在还有更重要的事情。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:你还真的死咬不放啊？
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:也不看看是拜谁所赐。
-Vector(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>你们之后打个天昏地暗我都不管，但是现在真的不是时候啊——呜哇！</color>
-Vector(0)<Speaker>Vector</Speaker>||:蒂玛小姐？你那里出什么事了？
-Vector(0)<Speaker>ISAC</Speaker>||:侦测到大量威胁信号。
-HK416Mod(0)<Speaker>HK416</Speaker>||:这种时候……
-HK416Mod(0)<Speaker></Speaker>||<SE1>Explode</SE1>:ISAC的警告之后，HK416和Vector几乎同时感觉到视觉信号遭到干扰。+紧跟着，当她们听到周边出现了轻微的金属碰撞声后，身体下意识地向两边躲闪——而原本她们所在的位置立刻发生了连续的爆炸。+这是数枚高爆手雷所引起的，源自信号弹升起的方向，叛变特工再次出现。
-HK416Mod(0)<Speaker>HK416</Speaker>||:这个数量……未免也太夸张了点？
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<size=25><color=#00CCFF>现在不仅仅是发现了你们的敌人，连周边的敌人也全被吸引到了撤离点附近。</color></size>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)<通讯框>||<BGM>BGM_Empty</BGM>:难道是因为45呼叫了直升机的缘故吗？+——话说，你的声音怎么突然变小了？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>先别管我的事，关注眼前，特工！</color>+<color=#00CCFF>你们有麻烦了……</color>
-()<Speaker>？？？</Speaker>||<BGM>BGM_Danger</BGM>：——准备好……赴死了吗？+——在……一切都要……结束的时候……
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>完了……</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<SE2>Gunfight</SE2>:等等，这声音是……？
-HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:在附近爆炸的手雷打断了HK416的思绪——叛变特工已经包围了过来。+HK416躲藏好之后检查了一下弹匣，并再次确认了Vector所在的位置。
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:那家伙也成这些敌人的目标了吗？
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>应该是这样……</color>+<color=#00CCFF>等等，你想干嘛？</color>
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||<SE1>RunStep</SE1>:不再理会蒂玛，HK416趁着Vector被叛变特工稍稍压制的空档，转身跑进了小路。
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>喂！别一个人跑啊！你想把她丢下吗？</color>+<color=#00CCFF>不合作的话，不管是你还是她都很难单独干掉这些敌人的啊！</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:你可真啰嗦……就算正在吵架中，我的同伴也照样是UMP45，我才不会跟格里芬的人合作。+我的同伴已经呼叫救援直升机了，药品也都在那边。+我不去跟她汇合，还要理那个疯子？
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>但、但是……</color>
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:蒂玛的声音和她说话的方式都出现了某种诡异的变化。+尽管416并不想用这种说法，但……+她觉得蒂玛就好像活了过来。
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>比起那边的那位，我更看好你们两个啊。</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:哈？
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:枪声紧追而来。
-HK416Mod(0);NPC-Dima(1)<Speaker>蒂玛</Speaker>||:<color=#00CCFF>咦？她，她好像赶上来了！</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<黑屏1><SE1>AVG_weapon_reload</SE1>:啧……前有狼后有虎，麻烦死了。+别想阻拦我！
+()||<黑屏2><BIN>288</BIN><BGM>m_avg_tension</BGM><SE2>Alarm</SE2>:The sounds of gunfire in the Dark Zone grow more and more intense, but the enemies patrolling the street are not alarmed by it—+They act as their programming dictates - they will only make a move once they "see" their enemies. Therefore, when facing these enemies, whose action priorities are predetermined, the best course of action is to pull the trigger without any hesitation.
+()||<SE1>Select</SE1>:However, 416 feels that there is a big difference when she faces off against Vector once more — that is because the last time she fought Vector, her opponent felt more like an NPC adversary.+That said, her present circumstances give her no time to dwell on the strangeness of this.
+()||<SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1>:Bullets sweep across the ground, throwing up a trail of dust clouds and sprays of muddy water—+They race after their sprinting target, until said target slides behind a car by the roadside.
+()||<SE1>AVG_weapon_reload</SE1>:As 416 reloads, she sees Vector exposed for a moment between her rounds of shooting, but just as she leans out to take a shot, a HE grenade lands nearby.
+HK416Mod(0)<Speaker>416</Speaker>||<SE1>Explode</SE1>:Tsk!
+HK416Mod(0)<Speaker></Speaker>||:This is the last piece of cover available to 416.+While she manages to evade the damage of the grenade with a dodge roll, she is left completely exposed to Vector's shooting in turn.
+HK416Mod(0);Vector(0)<Speaker></Speaker><同时点亮>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:At this point, both sides are practically within arms' reach. As she leaves her cover, 416 can see Vector in full combat mode, while the weapon in her hands looks like it's been upgraded by the spoils of war.+Even so, 416 manages to find a slim lifeline; there is a suitcase bomb between herself and Vector, its sensor LED flashing. 416 opens fire on it without any hesitation.
+HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE2>Gunfight</SE2>:For a brief moment, 416 feels herself being struck by multiple bullets, but then the shooting stops almost as abruptly as it began.
+HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE1>RunStep</SE1>:Her enemy is out of rounds.+Having come to that conclusion, 416's vision begins to turn red. She charges through the smokescreen thrown up by the explosion and points her gun's muzzle squarely between Vector's eyes.
+HK416Mod(0);Vector(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1>:Similarly, Vector has her sidearm — she was unable to reload her primary weapon in time — out and pointed at 416's left eye.
+HK416Mod(0)<Speaker>416</Speaker>||:...
+Vector(0)<Speaker>Vector</Speaker>||:...
+()<Speaker></Speaker>||<白屏1>:The first to act will win, and both sides are on equal footing. Yet neither side pulls their respective triggers — they appear to have seen the same confusion they are feeling mirrored in each other's eyes.
+()<Speaker></Speaker>||<BIN>287</BIN><BGM>BGM_Frontline</BGM><SE1>AVG_The_Division_Flare_Gun</SE1><白屏2>:The brief silence is broken by a screeching noise. A red signal flare climbs into the air above the city's skyline, far in the distance.+It is the landing beacon for the extraction chopper.
+()<Speaker>System</Speaker>||:"aaaa" has called for Agent extraction.+9:59:62 until evac chopper arrives.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A-Agents! Someone's launched the evac signal flare! Please hurry here and meet up ASAP!</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:If you're so worried, you can go yourself. I've got more important things to take care of.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:You're really not going to let it go?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:Whose fault do you think it is, anyway?
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>Hey, I don't care if you want to fight all day afterwards, but now is really not the time— Whoa!</color>
+Vector(0)<Speaker>Vector</Speaker>||:Miss Dima? What's happening on your side?
+Vector(0)<Speaker>ISAC</Speaker>||:Detecting large numbers of hostile signals.
+HK416Mod(0)<Speaker>416</Speaker>||:At a time like this...
+HK416Mod(0)<Speaker></Speaker>||<SE1>Explode</SE1>:Right after ISAC's warning, 416 and Vector both feel their vision distorting almost simultaneously.+Right after that, they hear the quiet sound of metal clinking, and throw themselves away from each other in a reflexive dodge — and the place they had occupied just a moment ago is promptly engulfed in a series of explosions.+The blasts were caused by several HE grenades, coming from the direction of the signal flare. The rogue agents have appeared once more.
+HK416Mod(0)<Speaker>416</Speaker>||:Aren't these numbers a bit much?
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<size=25><color=#00CCFF>All the surrounding enemies are converging on the extraction point, in addition to the ones who have already spotted you.</color></size>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)<通讯框>||<BGM>BGM_Empty</BGM>:Was it because 45 called the evac chopper?+—Come to think of it, how come your voice is so soft now?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Don't worry about me for now, focus on what's in front of you, Agents!</color>+<color=#00CCFF>You guys are in a spot of trouble...</color>
+()<Speaker>???</Speaker>||<BGM>BGM_Danger</BGM>:—Are you ready...to die?+—The moment...when everything ends...
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>We're doomed...</color>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||<SE2>Gunfight</SE2>:Wait a minute, that voice is...
+HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:A nearby explosion from a grenade interrupts 416's train of thought — the rogue agents have surrounded them.+After finding a hiding place, 416 checks her mag and verifies Vector's position.
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:So the enemy is targeting her too?
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>I think so...</color>+<color=#00CCFF>Wait a minute, what are you up to?</color>
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||<SE1>RunStep</SE1>:416 ignores Dima. She waits for a moment when Vector is being pinned down by the rogue agents before turning and fleeing down an alley.
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>Hey! Don't run off by yourself! Are you going to abandon her?</color>+<color=#00CCFF>If you don't work together, both of you will have a hard time dealing with all these enemies by yourselves!</color>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:You're so damn naggy... We might be quarreling, but my partner is still 45. There's no way I'd work with someone from Griffin.+My friend has already called the evac chopper, and the medicine is over there too. +Why should I not meet up with her and waste my time on that madwoman instead?
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>B-but...</color>
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:There seems to be a disturbing change in the way Dima is speaking.+Though 416 doesn't want to describe it that way...+It feels as though Dima has come to life.
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I have higher hopes on the two of you than the other one.</color>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:What?
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:The sound of gunfire closes in.
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>Huh? It-it looks like she's catching up!</color>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||<黑屏1><SE1>AVG_weapon_reload</SE1>:Tsk, caught between a rock and a hard place. What a pain. +Get out of my way!

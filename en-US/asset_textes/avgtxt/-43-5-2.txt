@@ -1,138 +1,138 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1>:……+凛冽的风雪没能冻结燃烧着直升机的火焰，但联合国广场上的战斗却已迎来了尾声。
-HK416(7)<Speaker>獠牙</Speaker>||<黑屏2><BIN>288</BIN>:唔——！+不应该……是这样的！
-Vector(7)<Speaker>Vector</Speaker>||:这就是……我的救赎……吗？
-HK416Mod(0)<Speaker>HK416</Speaker>||:呼……还真是难缠的家伙。+不过总算结束了。
-Vector(0)<Speaker>Vector</Speaker>||:R93，K5，PP90……
-()||<BGM>m_avg_casual</BGM>:“HK416”与“Vector”的倒地代表着最终的敌人也被消灭了，与之相对的两人也总算放松下来。+她们原本可以在火光之中交换相互认可的眼神，但此时破坏气氛的聒噪却从原本一直端着的“德尔”那里传来。
-NPC-Dima(0)<Speaker>德尔？</Speaker>||:耶——！赢了！总算总算总算总——算赢了啊！
-HK416Mod(0)<Speaker>HK416</Speaker>||:……+那边那个家伙好像很高兴啊。
-Vector(0)<Speaker>Vector</Speaker>||:……不过倒是提醒了我事情还没完。
-NPC-Dima(0)<Speaker>德尔？</Speaker>||:嘎——啊，咳咳咳！+不、不好意思，那个什么，是我太兴奋了……等等，干嘛又拿枪瞄我！？
-NPC-Dima(0);HK416Mod(0)<Speaker>HK416</Speaker>||:别忘了，咱们还有笔账要算呢。
-NPC-Dima(2)<Speaker>德尔？</Speaker>;HK416Mod(0)||:哎，有、有吗？
-NPC-Dima(2);HK416Mod(0)<Speaker>HK416</Speaker>||:还想继续装傻吗？
-NPC-Dima(2);Vector(0)<Speaker>Vector</Speaker>||:我懂了，你就是那种“不见棺材不落泪”的人吧？
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:既然如此……
-NPC-Dima(3)<Speaker>德尔？</Speaker>||:我坦白！我坦白！
-HK416Mod(0)<Speaker>HK416</Speaker>||:早这样不就完了。
-NPC-Dima(2)<Speaker>德尔？</Speaker>||:呃，其实……其实最开始我也没想到会变成这个样子。+那是一个冬天的下午，一如往常宁静的时光……
-HK416Mod(0)<Speaker>HK416</Speaker>||:给我好好说话！
-NPC-Dima(0)<Speaker>德尔？</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:哎哟！
-()||<黑屏2><回忆><BIN>302</BIN><BGM>BGM_Battle</BGM>:几天前，《全境封锁》游戏内……
-HK416Agent(0)<Speaker>特工416</Speaker>||<SE2>Gunfight</SE2>:敌人已消灭。
-NPC-Dima(0)<Speaker>德尔</Speaker>;HK416Agent(0)||:好、好厉害！+本来这游戏一个人玩还挺难的，现在反而如有神助！+应该说真不愧是人形吗……以前偷偷备份的心智还能在这里派上用场，只要稍微修改一下游戏数据就能把她们变成同伴角色，真是太棒了！
-NPC-Dima(0);HK416Agent(0)<Speaker>特工416</Speaker>||:偷偷乐个什么劲呢，还不快点呼叫撤离！？
-NPC-Dima(0)<Speaker>德尔</Speaker>;HK416Agent(0)||:……但也没想到连性格也一并保留了，要是416的脾气再柔和一些该多好啊。+唉，本来也把G11的心智录入进来了，但没想到上来就给冻死……唔，大概是意外吧？
-NPC-Dima(0)<Speaker>德尔</Speaker>||<SE1>AVG_Division_Flare_Gun</SE1>:干脆下一局调整她的参数，变得更强一点吧？
-()<Speaker>直升机驾驶员</Speaker>||:回收直升机正在接近。
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:警告，已侦测到高威胁性目标。
-NPC-Dima(0)<Speaker>德尔</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:来了来了，这次找来人形帮忙，看你们还能把我怎么样，啊哈哈哈哈——
+()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1>:...+The cold wind and snow cannot freeze the blazing remains of the helicopter wreckage, but the battle at the UN Plaza has come to an end.
+HK416(7)<Speaker>Fang</Speaker>||<黑屏2><BIN>288</BIN>:Ugh—! +It shouldn't... It shouldn't be like this!
+Vector(7)<Speaker>Vector</Speaker>||:Is this...my salvation?
+HK416Mod(0)<Speaker>416</Speaker>||:Whew... Those guys were tough. +Still, it's over now.
+Vector(0)<Speaker>Vector</Speaker>||:R93, K5, PP-90...
+()||<BGM>m_avg_casual</BGM>:With "416" and "Vector" collapsed on the ground, the last of the enemy have been wiped out. Their opponents allow themselves to relax at last.+They are about to exchange looks of mutual approval amidst the firelight when "Dier" ruins the mood.
+NPC-Dima(0)<Speaker>Dier?</Speaker>||:Yaaay—! You won! At long last, you won!
+HK416Mod(0)<Speaker>416</Speaker>||:... +That chap over there seems very happy.
+Vector(0)<Speaker>Vector</Speaker>||:...That reminds me, I need to take care of some unfinished business.
+NPC-Dima(0)<Speaker>Dier?</Speaker>||:(Chokes and coughs)+S-sorry about that, I just got too excited... Wait a minute, why are you pointing your gun at me?!
+NPC-Dima(0);HK416Mod(0)<Speaker>416</Speaker>||:Don't forget, we've still got a score of our own to settle.
+NPC-Dima(2)<Speaker>Dier?</Speaker>;HK416Mod(0)||:Huh? D-do we?
+NPC-Dima(2);HK416Mod(0)<Speaker>416</Speaker>||:Still going to play dumb?
+NPC-Dima(2);Vector(0)<Speaker>Vector</Speaker>||:I get it. You're the kind who doesn't realize how badly they've screwed up until it's rubbed into their face, right?
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:In that case...
+NPC-Dima(3)<Speaker>Dier?</Speaker>||:Okay! I'll talk! I'll talk!
+HK416Mod(0)<Speaker>416</Speaker>||:Should have done that from the start.
+NPC-Dima(2)<Speaker>Dier?</Speaker>||:Er, actually... At first, I didn't expect things to end up like this.+It was a winter afternoon, a peaceful, quiet time as always...
+HK416Mod(0)<Speaker>416</Speaker>||:Get to the point!
+NPC-Dima(0)<Speaker>Dier?</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Owie!
+()||<黑屏2><回忆><BIN>302</BIN><BGM>BGM_Battle</BGM>:Several days ago, inside "The Division"...
+HK416Agent(0)<Speaker>Agent 416</Speaker>||<SE2>Gunfight</SE2>:Enemies eliminated.
+NPC-Dima(0)<Speaker>Dier</Speaker>;HK416Agent(0)||:A-amazing! +Playing this game solo is hard, but now it's like I've got god mode activated!+I have to say, Dolls are amazing... To think I could use my secret backups of their neural clouds here. All I need to do is to make some slight adjustments to the game data and I can turn them into ally characters. This is great!
+NPC-Dima(0);HK416Agent(0)<Speaker>Agent 416</Speaker>||:What are you giggling about? Call the chopper already!
+NPC-Dima(0)<Speaker>Dier</Speaker>;HK416Agent(0)||:...Still, I didn't expect her personality to be duplicated as well. If only 416 were a little nicer.+(Sighs) I actually had a copy of Gr G11's neural cloud as well, but who'd have thought she'd freeze to death right after I uploaded her to the game... Hm, that was an accident, I guess?
+NPC-Dima(0)<Speaker>Dier</Speaker>||<SE1>AVG_Division_Flare_Gun</SE1>:Might as well tweak her data. How about making her stronger?
+()<Speaker>Helicopter Pilot</Speaker>||:Evac chopper approaching.
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning, high-threat targets detected.
+NPC-Dima(0)<Speaker>Dier</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Here it comes, here it comes! Now that I've got a Doll to help me out, let's see what you can do to me, ahahahaha—
 ()||<SE2>Gunfight</SE2>:
-()<Speaker>系统</Speaker>||:x 蒂玛被一名NPC杀死。+玩家已全部阵亡，游戏将在三十秒后重新开始……
-NPC-Dima(3)<Speaker>德尔</Speaker>||:咦咦咦咦咦咦！？
-NPC-Dima(3);HK416Agent(0)<Speaker>特工416</Speaker>||:德尔，你在搞什么鬼！？
-NPC-Dima(2)<Speaker>德尔</Speaker>;HK416Agent(0)||:我……我只是……！
-NPC-Dima(2);HK416Agent(0)<Speaker>特工416</Speaker>||:只是？如果你只是打算解释自己有多菜就不要浪费那点口水了。
-NPC-Dima(2)<Speaker>德尔</Speaker>);HK416Agent(0)||:才、才不是，都怪那个叛变特工搞突然袭击我才……
-NPC-Dima(2);HK416Agent(0)<Speaker>特工416</Speaker>||:出现了，德尔最喜欢的甩锅绝技。
-NPC-Dima(3)<Speaker>德尔</Speaker>);HK416Agent(0)||:咕……！
-NPC-Dima(3);HK416Agent(0)<Speaker>特工416</Speaker>||:比起在这里狡辩，不如尽早下线去玩点过家家之类的游戏怎么样？！
-NPC-Dima(2)<Speaker>德尔</Speaker>);HK416Agent(0)||:区、区区一个复制的AI竟然如此毒舌！
-NPC-Dima(2);HK416Agent(0)<Speaker>特工416</Speaker>||:菜就是菜，不爽不要玩。
-NPC-Dima(2)<Speaker>德尔</Speaker>);HK416Agent(0)||:呜……
-NPC-Dima(2);HK416Agent(0)<Speaker>特工416</Speaker>||:干什么？
-HK416Agent(0)<Speaker>特工416</Speaker>||:想哭鼻子了？
-NPC-Dima(3)<Speaker>德尔</Speaker>||<黑点1>:我才没哭呢！
-()<Speaker>系统</Speaker>||<黑点2><BIN>70</BIN>:已离线。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:真可恶，玩个游戏还要被416的AI复制品毒舌……+难道她知道我会拿来玩游戏所以保留了个性数据？
-NPC-Deele(0)<Speaker>德尔</Speaker>||:唔，总之先试着把416个性这部分的参数调整一下，起码变得温柔一点……
-NPC-Deele(0)<Speaker>德尔</Speaker>||:这样……然后这样……嗯，好像行得通！+嘿嘿，就算你嘴巴再厉害，不还是没办法阻挡我修改参数嘛！+可不要小看了天才人类后勤官的技术力啊，416！+游戏启动！
-()<Speaker>系统</Speaker>||:警告，参数不兼容。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:诶！？怎么回事？+游戏启动！
-()<Speaker>系统</Speaker>||:警告，参数不兼容。
-NPC-Deele(0)<Speaker>德尔</Speaker>||:为什么会不兼容啊！？个性温柔的416就连系统都难以接受吗！？+游戏启动！
-()<Speaker>系统</Speaker>||:警告……
-NPC-Deele(0)<Speaker>德尔</Speaker>||:少废话，看招！
-()||:德尔似乎忘记刚才对自己的称赞，挥动着扳手把心智调整终端用力地敲打了一番。
-()<Speaker>系统</Speaker>||:警告，硬件故障，启动紧急安全模式。
-NPC-Deele(0)<Speaker>德尔</Speaker>||<SE1>AVG_whitenoise</SE1>:哎呀糟糕……哇！
-()||<SE1>Stop_AVG_loop</SE1>:发现情况不对的德尔伸手想要关掉设备电源，但早就佩戴在头上的虚拟头盔里却传来了疑似HK416的声音——
-()<Speaker>特工416</Speaker>||:这是……数据流紊乱？难道是病毒攻击！？+不对，这种感觉是……
-NPC-Deele(0)<Speaker>德尔</Speaker>||:等等，416你怎么了？
-()<Speaker>特工416</Speaker>||<SE1>AVG_whitenoise</SE1>:寒冷的冬天……被抛弃的城市和武装部队……+谁……我是谁？+我是……幸存者？
-NPC-Deele(0)<Speaker>德尔</Speaker>||<SE1>Stop_AVG_loop</SE1>:幸存者？难、难道416的心智被融合进了游戏里？+糟了，必须赶快……啊——！
-()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:一种可怕的想法涌上了德尔的心头，但他没有办法采取什么行动来阻止这一切的发生——+突如其来的电流带走了他的意识后，一切又恢复到了平静……
-NPC-Dima(0)<Speaker>德尔</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_tension</BGM><关闭蒙版><黑屏2><BIN>288</BIN>:结果嘛，就是我被困在了游戏里，因为终端启动了安全模式的缘故，我没办法通过正常手段下线。+从以往发生过的案例来看，如果强制断开的话，我这么多年的游戏存档可就全没了！+诡异的是，我录入的心智数据不知为何就被改写了。+就像你们看到的那样，416变成了幸存者军队阵营的“獠牙”。+她是安全模式持续运行的主因，想关闭安全模式就必须得通关游戏，然后把她吸引出来消灭掉，但是……一个人通关游戏实在是太难了！+我前两天想方设法才向外界发送信息，吸引了两个人形来帮我玩，我则扮演NPC指引她们，但继承了416战斗数据的獠牙太强了，这点力量完全不够……
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-NPC-Dima(2)<Speaker>德尔</Speaker>||:你、你这是什么眼神？
-HK416Mod(0)<Speaker>HK416</Speaker>||:谁允许你拿我的备份心智胡闹了！
-NPC-Dima(3)<Speaker>德尔</Speaker>||:哇！禁止暴力！禁止暴力！
-Vector(0)<Speaker>Vector</Speaker>||:事情我大概明白了，但为什么我的AI也在游戏里？+难道你黑入了我们的总服务器？
-NPC-Dima(2)<Speaker>德尔</Speaker>||:啊，不是的！+因为后来突然来玩的人形变多了，而这里面Vector的表现一直很出众，我就偷偷地复制了她的数据创造了“特工Vector”。+但谁知道獠牙那个家伙就像“木马”一样，把特工Vector也吸纳成了净化者阵营的地狱火。+也就是说，我要想离开游戏就必须得消灭这两个敌人才行……
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:……不可原谅。
-NPC-Dima(0)<Speaker>德尔</Speaker>||:等等，我在游戏里其实是“管理员”的身份，如果把我干掉的话，游戏又要重新开局了！
-HK416Mod(0)<Speaker>HK416</Speaker>||:我该说你什么好，早点出来解释清楚，就没有后面这么多烦心事了不是吗！？
-NPC-Dima(3)<Speaker>德尔</Speaker>||:早点说，不就被人知道我在玩女号了吗！？
-HK416Mod(0)<Speaker>HK416</Speaker>||:……这是值得在意的东西吗！？
-NPC-Dima(0)<Speaker>德尔</Speaker>||:当然了！之所以现在坦白，也是因为只有你们两个知道，所以拜托了，不论如何也不要告诉第三个人了！
-HK416Mod(0)<Speaker>HK416</Speaker>||:该怎么办呢？
-Vector(0)<Speaker>Vector</Speaker>||:我无所谓，反正我也根本不认识你。
-NPC-Dima(0)<Speaker>德尔</Speaker>||:帮我保守秘密！下次我搞到最新的配件八折……五折装给你！
-HK416Mod(0)<Speaker>HK416</Speaker>||:早点这样不就没事了吗？+好吧，反正我也没兴趣跟人聊女装变态的故事。
-NPC-Dima(0)<Speaker>德尔</Speaker>||<黑屏1>:非，非常感谢——！
-()||<黑屏2><BIN>8</BIN>:……+格里芬本部。
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:……
-()<Speaker>指挥官</Speaker>||:……
-()<Speaker>众人形</Speaker>||:……
-()||:现场，陷入了死一般的寂静之中。+噗呲。+不知道是由谁率先开始的，但就仿佛滴在水面上的波纹一般，笑声开始迅速扩散。
-()<Speaker>姐控人形A</Speaker>||:噗……哈哈，G36姐姐，你看那个NPC，他好像个变态喔。
-()<Speaker>厨房禁入人形B</Speaker>||:恶，恶心死了！+谁会跟这种有女装癖的宅男小鬼合作啊！
-()<Speaker>不会游泳鲨鱼人形C</Speaker>||:哈哈哈哈哈哈哈！笑死我了！+喂！VHS！你看到了没有！
-()<Speaker>不高兴人形D</Speaker>||:……呵。
-()<Speaker>指挥官</Speaker>||<黑屏1>:<color=#A9A9A9>虽然不知道你是哪位……不过，我想大概你已经失去了很珍贵的东西了，德尔先生。</color> 
-()||<黑屏2><BIN>70</BIN>:……+404的巢穴内。
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:呜哇！真的假的！居然是德尔吗！
-G11(0)<Speaker>G11</Speaker>||:呜欸……讲真的，有点恶欸。
-()||<SE1>AVG_Door_Hit</SE1>:嘭！
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:欸？45姐！你走那么急要去哪里啊？+喂——45姐！你别光拿折凳啊！枪！枪在这里！
-()||<黑屏2><BIN>288</BIN>:……+游戏内，暗区。
-HK416Mod(0)<Speaker>HK416</Speaker>||:别一副事情都结束了的样子！我们还没完呢！+幺蛾子也整了，屁股也擦了，就算是奖金到手我也不能那么简单地放过你！
-NPC-Dima(3)<Speaker>德尔</Speaker>||:唔啊！奖金？什么奖金？
-Vector(0)<Speaker>Vector</Speaker>||:什么奖金……就是这次游戏的官方举办的竞技比赛，难道你不是为了这个才来玩的吗？
-NPC-Dima(0)<Speaker>德尔</Speaker>||:我只是因为喜欢这个游戏才来玩的，但从来没听说过有什么奖金活动啊？
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-()||:HK416回头看了一眼同样震惊的Vector，接着深吸了一口气，再次端起枪顶着德尔的脑门向前推，直到他的身体撞在了铁丝防护网上。
-NPC-Dima(0)<Speaker>德尔</Speaker>||:等、等一下！请再给我一次机会！
-HK416Mod(0)<Speaker>HK416</Speaker>||:我已经没什么耐心了！
-NPC-Dima(2)<Speaker>德尔</Speaker>||:对了对了！下次的维修费我给你最大的优惠，这可是所有人形都没享受到的究极待遇哦！
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-NPC-Dima(3)<Speaker>德尔</Speaker>||:九八折——九七——九折——三折啦！！
+()<Speaker>System</Speaker>||:X Dima was killed by an NPC. +All players have been killed. The game will restart in 30 seconds...
+NPC-Dima(3)<Speaker>Dier</Speaker>||:Eeeehhhhhhhh?!
+NPC-Dima(3);HK416Agent(0)<Speaker>Agent 416</Speaker>||:Dier, what the hell are you doing?!
+NPC-Dima(2)<Speaker>Dier</Speaker>;HK416Agent(0)||:I...I just...!
+NPC-Dima(2);HK416Agent(0)<Speaker>Agent 416</Speaker>||:You just what? You can skip the explanation if all you're going to do is make excuses for how much you suck.
+NPC-Dima(2)<Speaker>Dier</Speaker>);HK416Agent(0)||:T-that's not true, I only died because that rogue agent ambushed me...
+NPC-Dima(2);HK416Agent(0)<Speaker>Agent 416</Speaker>||:Here we go again, Dier's favorite - pushing the blame to someone else.
+NPC-Dima(3)<Speaker>Dier</Speaker>);HK416Agent(0)||:Grrr...!
+NPC-Dima(3);HK416Agent(0)<Speaker>Agent 416</Speaker>||:Instead of quibbling here all day, why don't you just log off and play something more suited to a noob like you?
+NPC-Dima(2)<Speaker>Dier</Speaker>);HK416Agent(0)||:Y-you're just an AI replica! Where do you get off dissing me like that?!
+NPC-Dima(2);HK416Agent(0)<Speaker>Agent 416</Speaker>||:You just suck. Either get good or get lost.
+NPC-Dima(2)<Speaker>Dier</Speaker>);HK416Agent(0)||:(Sniffles)
+NPC-Dima(2);HK416Agent(0)<Speaker>Agent 416</Speaker>||:Now what?
+HK416Agent(0)<Speaker>Agent 416</Speaker>||:Are you going to cry?
+NPC-Dima(3)<Speaker>Dier</Speaker>||<黑点1>:I'm not crying!
+()<Speaker>System</Speaker>||<黑点2><BIN>70</BIN>:Logged off.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Dammit, why did I have to take that crap from a copy of 416's AI while playing a game...?+Did she preserve her personality data because she knew I'd use her neural cloud for something like this?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Hm, in any case, let's try adjusting 416's personality data. To begin with, I'll make her kinder...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Like this... And like this... Yep, looks like it's gonna work!+Hehe, no matter how sharp your tongue is, it's useless against the power of program editing!+416, don't look down on the technical skills of this genius human engineer!+Game start!
+()<Speaker>System</Speaker>||:Warning, data not compatible.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Ehhh?! What's wrong? +Game start!
+()<Speaker>System</Speaker>||:Warning, data not compatible.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Why isn't it compatible? Don't tell me the system can't accept a kind and gentle 416?!+Game start!
+()<Speaker>System</Speaker>||:Warning...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Shut up, now take this!
+()||:Dier seems to have forgotten all about his self-proclaimed technical genius and bashes the neural cloud adjustment terminal with a wrench.
+()<Speaker>System</Speaker>||:Warning, hardware malfunction, initiating emergency safe mode.
+NPC-Deele(0)<Speaker>Dier</Speaker>||<SE1>AVG_whitenoise</SE1>:Oh crap crap crap... Whoa!
+()||<SE1>Stop_AVG_loop</SE1>:Upon realizing something is wrong, Dier reaches out to cut the backup power, but a voice that sounds like 416 is talking through the VR helmet—
+()<Speaker>Agent 416</Speaker>||:The data flow...is in disarray? Could this be some kind of virus attack?! +No, this feels...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Wait a minute, what's wrong with you, 416?
+()<Speaker>Agent 416</Speaker>||<SE1>AVG_whitenoise</SE1>:A cold winter day...an abandoned city and an armed unit...+Who...who am I?+Am I...part of the Last Man Battalion?
+NPC-Deele(0)<Speaker>Dier</Speaker>||<SE1>Stop_AVG_loop</SE1>:The Last Man Battalion? D-don't tell me 416's neural cloud has merged with the game data?+Oh no, I need to hurry and...ahhhh—!
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:A terrifying notion dawns on Dier, but he is powerless to stop anything from happening—+As a sudden electrical current sweeps away his consciousness, everything is calm again...
+NPC-Dima(0)<Speaker>Dier</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_tension</BGM><关闭蒙版><黑屏2><BIN>288</BIN>:So in the end, the terminal activated safe mode, I couldn't log off normally, and I got stuck in the game.+From past experience, if I tried to forcibly break the connection, I'd end up losing years of game files!+And the worst part is, the neural cloud data I entered into the game was rewritten for some reason.+As you can see, 416 became "Fang" from the Last Man Battalion.+She was the main reason why safe mode kept running. In order to turn off safe mode, I'd have to beat the game and lure her out to defeat her, but...trying to beat the game by myself was way too hard!+A couple of days ago, I found a way to send a message to the outside world and got two Dolls to help me out while I pretended to be an NPC to guide them, but Fang, who had inherited 416's combat data, was way too strong, and they just weren't enough...
+HK416Mod(0)<Speaker>416</Speaker>||:...
+NPC-Dima(2)<Speaker>Dier</Speaker>||:W-why are you looking at me like that?
+HK416Mod(0)<Speaker>416</Speaker>||:Who gave you permission to mess around with my neural cloud backups?!
+NPC-Dima(3)<Speaker>Dier</Speaker>||:Uwah! I'm against violence! No violence allowed!
+Vector(0)<Speaker>Vector</Speaker>||:I think I understand what's going on now, but why was my AI in the game too? +Did you hack into our main server?
+NPC-Dima(2)<Speaker>Dier</Speaker>||:Oh, no!+It's just that a lot of players suddenly joined and I noticed your exceptional performance so I secretly copied your data and made "Agent Vector".+But I didn't expect Fang to be like a trojan; she absorbed Agent Vector and turned her into Hellfire of the Cleaners.+In other words, now I have to take out the two of them to leave the game...
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:...Unforgivable.
+NPC-Dima(0)<Speaker>Dier</Speaker>||:Wait, I'm actually an admin in the game, if you kill me, the game will restart!
+HK416Mod(0)<Speaker>416</Speaker>||:You know, if you had just come out and told us this earlier, it would have saved us all that troublesome crap!
+NPC-Dima(3)<Speaker>Dier</Speaker>||:But if I told you earlier, you'd know I was posing as a girl online, right?!
+HK416Mod(0)<Speaker>416</Speaker>||:...Is that really something worth worrying about?!
+NPC-Dima(0)<Speaker>Dier</Speaker>||:Of course it is! I'm coming clean here because only the two of you know! So please, don't tell anyone else no matter what!
+HK416Mod(0)<Speaker>416</Speaker>||:What should we do?
+Vector(0)<Speaker>Vector</Speaker>||:I don't care. I don't even know you anyway.
+NPC-Dima(0)<Speaker>Dier</Speaker>||:Please help me keep it secret! If I get any new parts, I'll give them to you at a 20... no, 50% discount!
+HK416Mod(0)<Speaker>416</Speaker>||:Now why didn't you say so earlier? +Fine, it's not like I'm into gossiping about your crossdressing fetish anyway.
+NPC-Dima(0)<Speaker>Dier</Speaker>||<黑屏1>:Th-thank you very much—!
+()||<黑屏2><BIN>8</BIN>:... +In Griffin HQ.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:...
+()<Speaker>Commander</Speaker>||:...
+()<Speaker>Gathered Dolls</Speaker>||:...
+()||:The room is dead silent.+Pfffft.+Nobody knows who started it, but like ripples from a drop of water, laughter begins to spread through the room.
+()<Speaker>Siscon Doll A</Speaker>||:Pffffhahahaha... Big Sis Gr G36, look at that NPC, he's a total perv.
+()<Speaker>Kitchen Verboten Doll B</Speaker>||:That...that's disgusting! +Who'd want to work with this crossdressing otaku brat anyway?!
+()<Speaker>Shark That Can't Swim Doll C</Speaker>||:Hahahahaha! Oh this is hilarious! +Hey, VHS! Did you see that?
+()<Speaker>Unhappy Doll D</Speaker>||:...Heh.
+()<Speaker>Commander</Speaker>||<黑屏1>:<color=#A9A9A9>While I don't know who you are... I believe you have lost something very precious, Mr. Dier.</color>
+()||<黑屏2><BIN>70</BIN>:... +Inside 404's lair.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:Holy, seriously?! So it was actually Dier?!
+G11(0)<Speaker>Gr G11</Speaker>||:(Groans) Seriously, it's kind of gross.
+()||<SE1>AVG_Door_Hit</SE1>:Pomf!
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:Huh? 45! Where are you going in such a hurry? +Hey! 45! Don't just take the folding chair! Your gun! Your gun's here!
+()||<黑屏2><BIN>288</BIN>:... +Inside the game, in the Dark Zone.
+HK416Mod(0)<Speaker>416</Speaker>||:Don't act like everything's over! We're not finished yet! +We may have sorted everything out and cleaned up your mess, but I'm not going to let you off this easily even if I do get the prize money!
+NPC-Dima(3)<Speaker>Dier</Speaker>||:Huh? Prize money? What prize money?
+Vector(0)<Speaker>Vector</Speaker>||:What prize money...? It's the reward for winning this officially-sponsored tournament. Aren't you playing to get it?
+NPC-Dima(0)<Speaker>Dier</Speaker>||:I just started playing the game because I liked it, but I haven't heard anything about a tournament or reward...?
+HK416Mod(0)<Speaker>416</Speaker>||:...
+()||:416 looks back and sees Vector, who's as stunned as she is. She takes a deep breath before pressing her gun muzzle into Dier's forehead and driving him backward until he's pressed against the chain link fence.
+NPC-Dima(0)<Speaker>Dier</Speaker>||:W-wait! Please give me a chance!
+HK416Mod(0)<Speaker>416</Speaker>||:My patience has run out.
+NPC-Dima(2)<Speaker>Dier</Speaker>||:Wait, wait, I know! I'll give you a big discount on your repairs next time! This is premium treatment that no other Doll gets to enjoy!
+HK416Mod(0)<Speaker>416</Speaker>||:...
+NPC-Dima(3)<Speaker>Dier</Speaker>||:I'll give you a 2—no, 3—no, 10... Alright, a 70% discount!!
 ()||<SE1>AVG_rifle_finalshot_n</SE1><黑屏1>:
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:——格里芬指挥室，早上。
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:早~上好——！
-()<Speaker>指挥官</Speaker>||:早。+你今天精神状态不错嘛？
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:因为昨天举办的活动太成功了！
-()<Speaker>指挥官</Speaker>||:啊，这个活动是真的没想到……+一场根本不存在的活动促成了另一场成功的活动什么的。
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:啊哈哈，刚才我路过宿舍的时候大家还在探望Vector，好像因为这件事挺受打击的。
-()<Speaker>指挥官</Speaker>||:嗯，这件事谁都没想到，不过我之后会好好安慰她的。
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:但值得高兴的是我这边赚了个盆满钵满！+指挥官，以后还是经常举办这种比赛吧？
-()<Speaker>指挥官</Speaker>||:这个，就算赫丽安小姐不反对，人形们也没那么多钱可以花在这上面的。
-NPC-Kalin(3)<Speaker>格琳娜</Speaker>||:哎，那真是可惜。
-()<Speaker>指挥官</Speaker>||:你今天不会只有这件事要汇报吧？
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:啊，对了对了。+我今天收到了一封匿名的道歉信来着。
-()<Speaker>指挥官</Speaker>||:道歉信还匿名？+同步到这边的终端上吧。
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:好的！
-()||:……+邮件信息已同步，正在读取中……+……
-NPC-Seele(1)<Speaker></Speaker>||:致歉信+To格里芬的各位+由于在下管束不严，让某个家伙惹闹出了大乱子，给格里芬的各位添麻烦了，我代表那个笨蛋向各位致以深深的歉意。+随信附赠一份心意作为礼物，请务必收下。+希望各位大人不记小人过，原谅他的错误。+谢谢！
-()||:……
-()<Speaker>指挥官</Speaker>||:这……完全查不到邮件的来源吗？
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:是的，查不到。+不过这邮件的风格让我想起了404……大概是我的错觉吧？
-()<Speaker>指挥官</Speaker>||:不过要说接受道歉，我们昨天有什么损失吗？
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:没有啊，不如说这次大家都玩得很开心！+最最重要的是，因为这次大赚一笔，之前苦恼的财政赤字已经完全补上了！
-()<Speaker>指挥官</Speaker>||:那些家伙，到底在昨天砸进去了多少钱？
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:反正就是拼上了全部咯~！+皆大欢喜皆大欢喜！
-()<Speaker>指挥官</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:这样啊……那就皆大欢喜好了。
-()||<黑屏2><BIN>9</BIN><BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:……+……
-()<Speaker>服务器</Speaker>||:与在线服务连接中。+15%+46%+99%+——连接成功。
-()||<黑屏1>:【暗金潮 END】
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:—Morning, in the Griffin command room.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:Good~ Morning!
+()<Speaker>Commander</Speaker>||:Morning. +You're in a good mood today, aren't you?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:That's because yesterday's event was a great success!
+()<Speaker>Commander</Speaker>||:Ah, I truly didn't expect that... +To think a nonexistent tournament could spark a successful event.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Ahaha, I checked in on Vector when I was passing by the dorms just now. She seems to be taking the whole thing pretty hard.
+()<Speaker>Commander</Speaker>||:Yeah, nobody could have expected this to happen. I'll go console her in a bit.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:But the good news is, I made an absolute mint! +Commander, should we organize things like this more often?
+()<Speaker>Commander</Speaker>||:Well, even if Miss Helian approves, the Dolls don't have that much money to spend on this.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Aw, that's a shame.
+()<Speaker>Commander</Speaker>||:That's not the only thing you have to report, right?
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Oh, right. +I received an anonymous apology letter today.
+()<Speaker>Commander</Speaker>||:An anonymous apology letter? +Sync it over to my terminal.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Okay!
+()||:... +Message forwarded. Extracting... +...
+NPC-Seele(1)<Speaker></Speaker>||:LETTER OF APOLOGY +To everyone in Griffin.+A certain someone ended up causing a huge fiasco which greatly inconvenienced everyone in Griffin due to my negligence in disciplining him. I humbly apologize on behalf of that moron.+This letter includes a token of our sincerity. Please accept it.+I hope you can all find it in yourselves to forgive his mistakes.+Thank you!
+()||:...
+()<Speaker>Commander</Speaker>||:...And you say you have no idea where the email came from?
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Nope, couldn't find anything. +Still, the style of this letter reminds me of 404... But I guess I'm imagining things, huh?
+()<Speaker>Commander</Speaker>||:They asked us to accept their apology, but what losses did we actually take yesterday?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:None at all. Rather, everyone had lots of fun playing the game!+And most Importantly, thanks to the huge sum we earned this time round, we've made up for all the red in our ledgers!
+()<Speaker>Commander</Speaker>||:How much money did they put into the pot, anyway?
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Let's just say everyone went all in~ +Now everyone's happy!
+()<Speaker>Commander</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:I see... Then all's well that ends well, I suppose.
+()||<黑屏2><BIN>9</BIN><BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:... +...
+()<Speaker>Server</Speaker>||:Connecting to online server. +15%. +46%. +99%. +—Connection Complete.
+()||<黑屏1>:【Bounty Feast - END】

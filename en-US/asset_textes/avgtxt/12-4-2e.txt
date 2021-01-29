@@ -1,47 +1,47 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:那之后感觉过了很久很久……+那个时候我已经几乎放弃了，放弃AR小队还可以团聚的希望。
-AR15Mod(0)<Speaker>AR15</Speaker>||:幸好你的放弃只是“几乎”，我们大家终究都回到了一起。
-()<Speaker>指挥官</Speaker>||:所以你们直到贝莱格莱德的行动时才露面……
-AR15Mod(0)<Speaker>AR15</Speaker>||:是的，我们花了好久才登上忤逆的飞机，之后在安洁的身体恢复前我们也得不到任何情报。+直到404通知我们说营救行动很成功，我们才放下心来。+在听到在贝莱格莱德会和格里芬合作时，我们立马就赶了过去。
-RO635(0)<Speaker>RO635</Speaker>||:所以那个时候……在下水道里帮助我们的也是M4么？
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:抱歉，我当时能做到的只有这些了。
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我就说RO你没那么厉害嘛~
-RO635(0)<Speaker>RO635</Speaker>||:那种情况换谁都没法从内部解开锁死的系统好么！
-()<Speaker>指挥官</Speaker>||:不过没想到，丹德莱你竟然可以入侵涅托？
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||:404小队可以做到，我没理由不能做到吧？+虽然那之后帕拉蒂斯加强了那些异构体的脑部干扰，这具素体当时我就无法直接入侵。
-AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(4)||:所以在地下时你要M4和我去射击涅托们头部的阻断器。
-AR15Mod(0);NytoIsomer(4)<Speaker>丹德莱</Speaker>||:是的，这些素体并不是用无线电或者什么协议来传递信息，而是仅仅通过思考就可以做到。
-AR15Mod(0);NytoIsomer(4)<Speaker>指挥官</Speaker>||:思考？
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||:是的，所以我才能感觉到涅托的共鸣，只要她们在思考，我就能感知到她们的存在，她们的情绪，甚至是她们的思想。
-NytoIsomer(4)<Speaker>指挥官</Speaker>||:你把我弄糊涂了……这是怎么做到的？
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||:我也不清楚，我只是遵循着本能这么做而已。+我的目的不就是为了弄清楚这些问题的原因么？
-NytoIsomer(4)<Speaker>指挥官</Speaker>||:好吧……
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||:不管怎么说，终于我们都离自己的目标又近了一步。+我想我也已经表现出了足够的真诚来让大家理解我的存在并不是有害的了吧？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:你的存在只是暂时因为你能够提供帮助，我会紧紧地盯着你的一举一动。
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||:对我来说足够了。
-()<Speaker></Speaker>||:咚咚，有敲门的声音。
-()<Speaker>UMP45</Speaker>||:看来感人的叙旧已经结束了，我们可以进来了么？
-()<Speaker>指挥官</Speaker>||:请进吧。
-G11(0)<Speaker>G11</Speaker>||:哇，这个房间好暖和，一会我可以不到冷得要死的外面去么？
-HK416Mod(0)<Speaker>HK416</Speaker>||:我在你身上点把火你就不觉得冷了。
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:指挥官看着呢，你们别闹了！ 
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:啊，404小队的大家来了，信息荚现在如何了？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:已经解决了。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:信息荚？
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:刚才我们收到了疑似是安洁发来的通讯，虽然破损严重，但是45小姐花了几分钟解决了。
-RO635(0)<Speaker>RO635</Speaker>||:这么说，安洁的联络终于来了么？
-RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:你们看了就知道了，不过里面的内容可能并不能让你们满意。+格琳娜小姐，已经发送给你了。
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>;UMP45Mod(0)||:非常感谢，我这边已经收到恢复的文件了。
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:指挥官，直接放在大屏幕上可以么？
-()<Speaker>指挥官</Speaker>||:现在播放吧。
-()<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>忤逆小队呼叫格里芬的指挥官。</color>+<color=#00CCFF>这里是RPK16，也许您还没有见过我，不过没有关系，我们很快就会见面。</color>+<color=#00CCFF>我方已经控制了进入帕尔迪斯基潜艇基地的隔离墙入口，但与安洁莉娅以及忤逆小队其他成员失去联系。</color>+<color=#00CCFF>现道路已经打开，我方会坚守坐标阵地，等待格里芬方面接应。</color>+<color=#00CCFF>完毕。</color>
-()<Speaker>指挥官</Speaker>||<SE1>AVG_tele_disconnect</SE1>:的确和我想象中的信息不太一样……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:看来安洁应该碰到了什么麻烦了。
-M4A1Mod(0)<Speaker>指挥官</Speaker>||:看来我们的最优先目的地已经确定了。
-M4A1Mod(0)<Speaker>指挥官</Speaker>||<BGM>BGM_Empty</BGM>:RO，推演完成了么？
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||<BGM>BGM_War</BGM>:是的指挥官，已经推演完毕了。+隔离门已经被控制对我们来说是个好消息，不过我们无法确定隔离墙的控制权一直在忤逆小队那名新人形手里，虽然需要尽快与她汇合。+另外，推演显示岸防炮和军方的装甲列车对我们都有极高的威胁程度，如果我们的梯队处在岸防炮和装甲列车的火力范围内，在任何位置都可能会遭受严重的火力打击。+鉴于之前的行动我们已经损失了不少的兵力，这样的可能性尽可能要避免出现。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:所以最好的方式是兵分三路，各梯队分别负担拖延军方行动、解除岸防炮火力和进入基地联络安洁的任务。+完成这些目标后，我们再考虑如何应对基地内的未知威胁，最终完成控制基地的战略目的。
-()<Speaker>指挥官</Speaker>||:看来大家又不得不分头行动了。+我明白这又是一个艰巨的任务，但站在我面前的各位也早就今非昔比了。+作战方案已经同步给了大家，我也不再浪费时间多说废话了。+希望大家能尽快完成任务，然后平安回来。+开始行动吧！
-()<Speaker>AR小队众人形</Speaker>||:是！
-()<Speaker>404小队众人形</Speaker>||:明白！
-NytoIsomer(4)<Speaker>丹德莱</Speaker>||<黑屏1>:归乡的旅程终于开始了，接下来会怎么样呢？真是让人期待啊。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:It feels like ages have passed since then... +Back then I had almost completely given up hope of ever reuniting with the AR Team.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Thank goodness it was only "almost". We did end up finding each other again.
+()<Speaker>Commander</Speaker>||:That's why you only showed yourselves during the operation in Belgrade...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:That's right. It took us a long time to finally board Task Force DEFY's transport, and we had no source of information while Ange's body was still recovering. +We couldn't relax until Squad 404 finally told us your rescue mission was successful. +When we learned that Griffin would be operating in Belgrade, we set off at once.
+RO635(0)<Speaker>RO635</Speaker>||:So that time... Was it also you who helped us out in the sewers?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Sorry, that was all I could do.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I knew you couldn't have done something so impressive, RO~
+RO635(0)<Speaker>RO635</Speaker>||:No one would've been able to crack that deadlocked system from within, okay?!
+()<Speaker>Commander</Speaker>||:I didn't know you could even hack a Nyto, Dandelion.
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:If Squad 404 can do it, why can't I? +Still, Paradeus has since strengthened the interference within the Isomers' brains, so I couldn't seize control over this body directly back then.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||:So that's why you wanted M4 and I to shoot the blocking devices on the Nytos' heads.
+AR15Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Yes, these bodies do not transmit messages and signals through radio waves or any kind of network protocol. They just have to think.
+AR15Mod(0);NytoIsomer(4)<Speaker>Commander</Speaker>||:Think?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Exactly. That's why there's a resonance between the Nytos and me. When they're thinking, I can sense their presence, their emotions, and even their thoughts.
+NytoIsomer(4)<Speaker>Commander</Speaker>||:I'm a bit puzzled here... How exactly do you do that?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I'm not too sure either. It's practically some kind of instinct. +My objective is to figure out the answers to all these questions, haven't I told you?
+NytoIsomer(4)<Speaker>Commander</Speaker>||:Right...
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:In any case, we're finally one step closer to our goal. +I believe I have also demonstrated my sincerity to convince you that my existence poses no threat to you?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Your existence is temporarily tolerated because you are of strategic value to us. I'll be watching your every move.
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's good enough for me.
+()<Speaker></Speaker>||:Knock knock – it's the door.
+()<Speaker>UMP45</Speaker>||:Looks like your emotional reunion is over. Can we come in?
+()<Speaker>Commander</Speaker>||:Please.
+G11(0)<Speaker>Gr G11</Speaker>||:Wow, this room is so warm. Must I head out to the freezing cold outside later?
+HK416Mod(0)<Speaker>416</Speaker>||:You won't feel cold if I set you on fire.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:The Commander is standing right there! Stop fooling around, you two!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Ah, Squad 404 is here. How's the file?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:All sorted.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:File?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We just received what we suspect to be a transmission from Ange, but the file was severely corrupted. Miss 45 fixed it up in just a few minutes though.
+RO635(0)<Speaker>RO635</Speaker>||:So Ange finally got in touch?
+RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:You'll just have to watch it, but I don't think you're gonna like it. +Fräulein Kalina, I just sent it to you.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;UMP45Mod(0)||:Many thanks. Received.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Should I just play it on the big screen?
+()<Speaker>Commander</Speaker>||:Go ahead.
+()<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Task Force DEFY to Griffin Commander.</color> +<color=#00CCFF>This is RPK-16. I haven't had the pleasure of meeting you yet, but don't worry, we'll meet very soon.</color> +<color=#00CCFF>We are now currently in control of the entrance of the quarantine wall just outside the Paldiski Submarine Base, but we've lost contact with Angelia and our other teammates.</color> +<color=#00CCFF>The path to the base is clear. We will stay and defend this position and await Griffin reinforcements.</color> +<color=#00CCFF>RPK-16 out.</color>
+()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:That's certainly not quite what I expected...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ange seems to be in trouble.
+M4A1Mod(0)<Speaker>Commander</Speaker>||:But looks like our priority is now certain.
+M4A1Mod(0)<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:RO, are the simulations ready?
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||<BGM>BGM_War</BGM>:Yes, Commander, I've completed the simulations. +It's good news that the entrance is under friendly control, but we can't be sure how long that will remain true, so we must rally to this new DEFY member as soon as possible. +Also, the simulations indicate that the coastal defense artillery and the military armored trains are both enormous threats to us. If our echelons come within the range of either threat, they will be targets of intense barrage. +Given the fact that we've already suffered considerable casualties in the previous operation, we must do our best to avoid that possibility.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:So the best strategy is to launch a three-way attack and handle the following objectives at the same time – slow down and distract the Military, eliminate the threat posed by the coastal defense artillery, and enter the base to find Ange. +Once these objectives are completed, we'll think about what measures to take against the unknown threats within the base and ultimately fulfill our mission by occupying the facility.
+()<Speaker>Commander</Speaker>||:Looks like we'll have to split up again. +I know that this is another grueling mission, but you have all come a long way. +You now have access to the battle plan, so I won't waste any more time. +Godspeed and return safely. +Move out!
+()<Speaker>Members of the AR Team</Speaker>||:Yes, Commander!
+()<Speaker>Members of Squad 404</Speaker>||:Understood!
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||<黑屏1>:I'm finally on my journey home. What's going to happen next? I can't wait to find out.

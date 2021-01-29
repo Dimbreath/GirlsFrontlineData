@@ -1,219 +1,219 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN>:……
-()<Speaker></Speaker>||:——曼哈顿•美国。
-()<Speaker></Speaker>||<黑屏1>:危机爆发之后，黑夜与暴风雪笼罩了这座处在崩溃边缘的孤城……
-()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:………………<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:枪声与弹头拖拽出的火光穿透了风雪。+逐渐混乱的气流将雪花卷成一片飞舞的螺旋之后，缓缓飘落在了冰冷的水泥路障表面上。+——两名少女模样的身影相继用手撑着身体翻越了路障，又回身倚靠在了路边的警车一侧，其中一人关上了半开的驾驶位车门，车窗玻璃中映出了她的倒影。
-RFB(0)<Speaker>RFB</Speaker>||<SE1>Select</SE1>:嘿嘿嘿，总算又回到这里来了。
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特工，看来距离任务完成仅剩一步之遥了，我们按计划在汇合点见面，祝你好运。</color>
-MDR(0)<Speaker>MDR</Speaker>||:这些话我已经听得耳朵里起茧子了。
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:哈哈哈，人形怎么会起茧子……+喂！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:干嘛？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:别对着车窗玻璃摆苦瓜脸了，来把机枪塔扔到那边去，老地方！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:话说这都第几次了？+我们就不能换个方向进攻吗？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:不管从哪边走，结果都是一样的，毕竟对方也不是省油的灯嘛。+让我想想……对了，找个时机包抄他们好了，这样绝对能赢！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:你是说咱们两个包抄对面一群？
-RFB(0)<Speaker>RFB</Speaker>||:呃，只要再争取到一点时间的话……
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特工，已经没有时间了，联合作战部队的直升机已经处于待命状态，请尽快使用信号弹给他们标记位置，完成回收撤离行动！</color>
-RFB(0)<Speaker>RFB</Speaker>||:不要当场把我的想法堵死啊！
-MDR(0)<Speaker>MDR</Speaker>||:可恶，这个女人光在无线电里说说话，也不嫌腰疼……噫！
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:敌对一侧的火力倾泻在了她们躲藏的警车车身，溅起了许多火花。MDR条件反射地扔出了一枚追踪地雷，它在地面启动后，快速地从车底滚了过去。
-RFB(0)<Speaker>RFB</Speaker>||:很熟练了嘛MDR！
-MDR(0)<Speaker>MDR</Speaker>||:所以我是最该被心疼的那个，说真的，这可是最后一次了！
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Explosion</SE1>:趁着爆炸的瞬间，MDR偷偷瞄了一眼警车对面的街道，那里已经出现了几个身材高大的武装人员。+他们佩戴着散发血红色光芒的腕表，行动统一且迅速，而这一切正由他们身后的某个敌人指挥着。+同一时刻，RFB和MDR的肩头上传来了机械般的声音——
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:已侦测到高威胁性目标。
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>好像有些“大麻烦”到你那边去了，务必要小心！</color>
-MDR(0)<Speaker>MDR</Speaker>||:是啊，来的很准时！
-RFB(0)<Speaker>RFB</Speaker>||:先集中火力攻击一个目标！+如果逐个消灭的话，应该有机会……
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:警告：生命迹象显示可能已受到感染。
-MDR(0)<Speaker>MDR</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:嘁！又来……暗区这边的感染率也太高了吧？+还有药吗？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:现在哪有时间吃药，对面就快压过来了！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:不不不，上次当场病死的事情又不是没发生过，这次不能在同一个地方翻车两遍……
-RFB(0)<Speaker>RFB</Speaker>||:哇！小心燃烧弹！
-()<Speaker></Speaker>||<SE1>Explode</SE1>:砰！+一声爆炸响起，紧跟着烧起的一团火焰点燃了MDR的身体，后者直接从掩体中跳了起来。
-MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake>||:哇——！烫烫烫烫烫！
-RFB(0)<Speaker>RFB</Speaker>||:MDR！等等，别乱跑！
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:浑身燃起火焰的MDR根本无心听取RFB的劝告，当她从掩体中跳出去的瞬间，警车对面的火力就全部集中在了她的身上。
-MDR(0)<Speaker>MDR</Speaker>||:呜哇——！+RFB！我被击倒了，快、快救我！
-RFB(0)<Speaker>RFB</Speaker>||:你倒下的位置也太远了吧。+再、再过来一点点……+咦！？
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:眼看着就能够到MDR的手，RFB却突然听到身后传来了沉重呼吸声，反应过来的她立刻转身，但对方已将黑洞洞的枪口指向了自己。
+()<Speaker></Speaker>||<BIN>9</BIN>:...
+()<Speaker></Speaker>||:—Manhattan, USA.
+()<Speaker></Speaker>||<黑屏1>:After the crisis erupted, this isolated city on the verge of collapse has been engulfed by storms and the darkness of night...
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:......<下雪></下雪>
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:The sounds of gunfire and the glint of bullets cut through the wind and snow.+The chaotic air currents churn the snowflakes into a whirling vortex which then slowly settles back down onto the icy-cold concrete roadblocks.+The silhouettes of two girls vault over a roadblock in rapid succession, then turn around to press their backs against the police car by the side of the road. One of them closes the half-opened driver-side door, and her form is reflected in the window's glass.
+RFB(0)<Speaker>Am RFB</Speaker>||<SE1>Select</SE1>:Hehehe, we're back here again.
+NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, looks like you're close to completing the mission. We'll meet at the rendezvous point as planned. Best of luck.</color>
+MDR(0)<Speaker>MDR</Speaker>||:I've heard those words so many times that I feel like they've worn a groove into my neural cloud.
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hahaha, how would you even put a groove into a neural cloud... +Hey!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Quit making frowny faces at the car window and deploy the turret over there, at the usual place!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Come to think of it, how many times has it been already?+Can't we attack from a different direction?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it'll be the same no matter where we go. After all, the opposition are a bunch of pretty tough customers.+Let me think... Got it, we'll look for an opportunity to flank them. That way we'll win for sure!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:You want the two of us to flank that horde of enemies we're facing?
+RFB(0)<Speaker>Am RFB</Speaker>||:Erm, well, if we had a little more time...
+NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, we're out of time. The JTF chopper is standing by; please inform them of your location with your signal flare and complete the recovery!</color>
+RFB(0)<Speaker>Am RFB</Speaker>||:Don't just call up to shoot down my ideas, dammit!
+MDR(0)<Speaker>MDR</Speaker>||:All that bloody woman does is talk over the radio, she doesn't know what the hell we're going through out here... Eeeek!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:A torrent of enemy fire rains down on the cop car which they're using as cover and throws up a shower of sparks. MDR reflexively throws out a seeker mine, which activates and swiftly rolls out from under the vehicle.
+RFB(0)<Speaker>Am RFB</Speaker>||:Nicely done, MDR!
+MDR(0)<Speaker>MDR</Speaker>||:I mean, I'm the one suffering here. Seriously, that was my last one!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Explosion</SE1>:The moment it explodes, MDR glances at the street opposite the cop car and spots several burly, heavily-armed men there.+They're wearing wristwatches that glow blood red, their movements are swift and coordinated, and all this is being directed by an enemy behind them.+In the same moment, a mechanical noise comes over Am RFB and MDR's shoulders—
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. High-threat hostile detected.
+NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>Looks like there's "big trouble" headed your way. Be careful!</color>
+MDR(0)<Speaker>MDR</Speaker>||:Oh yes, just in time too!
+RFB(0)<Speaker>Am RFB</Speaker>||:Focus your fire on a single target!+If we take them out one after the other, we ought to have a chance...
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. Vital signs indicate possibility of infection.
+MDR(0)<Speaker>MDR</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Tsk! Not again... Aren't the chances of infection in the Dark Zone way too high?+Do you still have medicine?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Who's got time for that now? They're about to overrun us!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:No no no, I still remember how I got sick and died last time. I don't want to go down in the same place again...
+RFB(0)<Speaker>Am RFB</Speaker>||:Whoa! Look out! Incendiary!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:Boom!+There is an explosion, followed immediately by a mass of flames that ignites MDR's body. She immediately jumps up from behind her cover.
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake>||:Owww hot hot hot hot hot!
+RFB(0)<Speaker>Am RFB</Speaker>||:Wait, MDR, don't run around!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:However, the burning MDR completely ignores Am RFB's words. The moment she leaps out from behind cover, all the firepower pouring down on the cop car focuses on her.
+MDR(0)<Speaker>MDR</Speaker>||:Uwaaaaaah!+Am RFB, I'm down! Quick, save me!
+RFB(0)<Speaker>Am RFB</Speaker>||:You're too far out.+Try getting a little closer...+Eh?!
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:Just as she's about to reach out for MDR's hand, Am RFB hears the sound of heavy breathing from behind her. She instinctively whirls around to face it, but the muzzle of her opponent's gun is already pointed at her.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:……<火焰销毁></火焰销毁>
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>很遗憾，特工，你失败了。</color>+<color=#00CCFF>希望你可以重整旗鼓，再接——</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:……
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:...<火焰销毁></火焰销毁>
+NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Unfortunately, Agents, you've failed.</color>+<color=#00CCFF>Hopefully, you'll regroup and try—</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:——格里芬宿舍，凌晨4点36分。
-RFB(0)<Speaker>RFB</Speaker>||<震屏3>:<size=55>为什么还是这个结果啊啊啊啊啊啊啊——！</size>
-()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:从二级平层离线的RFB发出了懊恼的惨叫。+而回应惨叫的，是隔壁难忍噪音，敲墙抗议的“咚咚”声。
-隔壁被吵醒的人形()<Speaker>隔壁被吵醒的人形</Speaker>||<SE1>AVG_doorknock_wood</SE1>:喂，大半夜不睡觉你喊什么喊？闹ELID吗！？
-RFB(0)<Speaker>RFB</Speaker>||:咕……！
-()<Speaker></Speaker>||:自知吵到别人的RFB乖乖闭上了嘴，但她清楚地记得自己再次失败时，“那个女人”嫌弃她能力不足的声音。+一向以老玩家自居的RFB感到十分不爽，但还没等再次进入二级平层，某个摆着一副苦瓜脸的家伙便大步闯进了她的房间。
-MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>我们换个游戏吧！</size>
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:诶？这就放弃了？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:谁知道《全境封锁》玩起来居然这么难。
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:有点难度其实很正常啊，不然还怎么享受游戏的乐趣？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:享受乐趣？+这本来就是匿名版发布的很有年代的古老游戏，只是心血来潮玩一下刷刷成就，结果我们从晚上九点打到凌晨四点半，一到关底就团灭。+乐趣有没有享受到我是不清楚，但自己素体零件的寿命倒是快没了！
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:反正最近都没有派遣什么任务，打发时间嘛。
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:你得知道最近才有个民用人形因为硬件老化导致活动不便，结果失足掉进熔炉的传说……
-RFB(0)<Speaker>RFB</Speaker><Shake>0.1</Shake>;MDR(0)||:<size=55>啊——！啊！啊！别给我讲这种恐怖故事！</size>
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:那就赶紧换游戏！
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:真拿你没办法，既然不擅长挑战高难度玩法，那按照正常的方式来总行了吧？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:正常的方式？什么意思？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:既然两个人玩的难度很大。+那再多叫一些人来玩不就容易些了吗？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:能叫很多人来吗？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:当然了，可是能最多支持24个玩家一起参与的！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:……+搞半天是你自己强行给游戏增加难度吗！？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:啊，当、当然也不能那么说嘛！+刚开始的时候就想试试水而已……
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:唉……所以？你打算怎么召集另外的22名玩家？+要知道咱们这里爱玩游戏的本来就没多少，而且这游戏也有些年头了，就算真的去邀请，她们也不一定会感兴趣吧？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:这个简单，只要有利可图的话！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:有利可图？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:你不是说她们经常去匿名版刷帖子吗，只要用“那招”的话，她们绝对会踊跃参加的！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:什么那招这招的？
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:具体来说的话，把耳朵凑过来……+（耳语耳语耳语）
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:嗯……+嗯……+哦哦！+好、好像很有趣的样子！
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:嘿嘿，只要发送这样一封邮件到匿名版上，用不了多久，游戏里肯定会比现在更加热闹！
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:而且，这样一来也能在游戏里给这些菜鸡们展现一下咱们的实力了，想想还真有点期待呢，哈哈哈哈！
-RFB(0)<Speaker>RFB</Speaker>||:毕竟有我这个老玩家在，那是当然的啦，哈哈哈哈！
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:咚！咚咚！
-隔壁被吵醒的人形()<Speaker>隔壁被吵醒的人形</Speaker>||:<size=60>吵死啦——！！！</size>
-()<Speaker></Speaker>||:感受到隔壁传来的怒火，原本正在劲头上的两个人形赶紧拿食指抵在唇前相互噤声，但还是相互比了个拇指——开始了她们的计划。
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:—4:36AM, in the Griffin dorms.
+RFB(0)<Speaker>Am RFB</Speaker>||<震屏3>:<size=55>Not agaaaaiiiiiiiiin—!</size>
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:Am RFB wails in despair as she disconnects from Level II.+The response to this cry is an angry banging on the wall that connects to her neighbor's room.
+隔壁被吵醒的人形()<Speaker>Doll Who Got Woken Up</Speaker>||<SE1>AVG_doorknock_wood</SE1>:Oi! What the hell are you shouting about this late at night! Are the ELIDs attacking?!
+RFB(0)<Speaker>Am RFB</Speaker>||:Urgh...!
+()<Speaker></Speaker>||:Knowing that she's inconvenienced the other Doll, Am RFB decides to just keep her mouth shut, but the voice of "that woman" scorning her for failing again resounds clearly in her mind.+Am RFB has always taken pride in her skills as a pro gamer, and the very thought of it pisses her off, but before she can reconnect to Level II, someone storms into her room with a huge scowl.
+MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>Let's play another game!</size>
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Huh? You're giving up already?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Who would have thought The Division would be so hard.
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it's only natural for games to be a bit challenging. Otherwise, what would be the fun in playing them?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Fun?+In the first place, it was a very old game circulating on Griff-chan. I decided to go play it to unlock all the achievements because it seemed interesting, but instead we've been dying right before the mission finished, over and over again, from 9:30 PM to 4:30 AM.+I don't know if this is fun or not, but the lifespan of my parts is quickly running out!
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it's not like we've been on missions recently anyway, so what's wrong with killing some time?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Have you heard that urban legend recently about a civilian Doll who had mobility issues because her parts got old and she ended up slipping and falling into a furnace ...
+RFB(0)<Speaker>Am RFB</Speaker><Shake>0.1</Shake>;MDR(0)||:<size=55>Aaaaaahhhhh! Ahh! Ahhh! Don't tell me about it!</size>
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Then hurry up and play a different game!
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Honestly, what am I going to do with you. Since you can't handle a challenge, why don't we play on Normal?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Play on Normal? What does that mean?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, if it's difficult to play with just two people...+Then wouldn't it be easier if you had more people helping you?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Can we really get that many people to help?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Of course we can! This game supports up to 24 players at once!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:... +So you're saying you were just making the game harder for yourself?!
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Ah, well, you can't really say that!+We were just starting out, so I wanted to test the waters...
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:(Sighs) So, how are you going to get another 22 players to join us?+I mean, we gamers aren't exactly numerous to begin with, and this is a pretty old game too. Even if we went and asked people, they might not be interested, you know?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Oh, that's simple. We'll just have to offer them an incentive!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What incentive?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Didn't you say something about them browsing Griff-chan regularly? If you use "that", they'll be jumping at the chance to take part.
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What is "that", anyway?
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, to be precise, come a bit closer...+(Whisper whisper whisper)
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Hm...+Mhm...+Ohhhh! +That...that sounds really fun!
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hehe, all we need to do is post something like that on Griff-chan and the game will fill up in no time!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Plus, we'll get to show off our skills to those noobs. I'm kind of looking forward to it now, hahaha!
+RFB(0)<Speaker>Am RFB</Speaker>||:Well, it's only to be expected since we're pros, hahahaha!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:Bang! Bang bang!
+隔壁被吵醒的人形()<Speaker>Doll Who Got Woken Up</Speaker>||:<size=60>SHUT THE HELL UP!!!</size>
+()<Speaker></Speaker>||:The two Dolls are swiftly silenced by the wrathful voice from next door, and they shush each other with index fingers held in front of their lips. However, they give each other a thumbs-up with their free hands...and so begins their plan.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
-()<Speaker></Speaker>||:是夜，一封邮件出现在了格里芬匿名版上……
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...
+()<Speaker></Speaker>||:Late at night, a post shows up on Griff-chan...
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:——格里芬总部。+早晨，和煦的阳光从天窗一侧照了下来。+走廊上现在还很安静，不时有三两个人形从这里经过，当她们靠近资料室的时候，似乎是被什么东西给吸引了，驻足观望一阵之后，纷纷走了进去。
-()<Speaker></Speaker>||:走进资料室，人形们已经围在了最里面房间的门口。
-指挥官()<Speaker>指挥官</Speaker>||:看什么好东西呢？
-路过的人形()<Speaker>路过的人形</Speaker>||:啊，指挥官早上好……+是格琳娜小姐，她看起来不太对劲。
-()<Speaker></Speaker>||:顺着人形所指的方向朝里面看去，格琳娜正趴在办公桌上一动不动。+大概是因为浑身散发着不可靠近的气场，人形们才相信她并不是因为生病才这样。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:啊……指挥官，早上好……
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:呃，看这脸色也是够呛……+你还好吧？
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:啊……嗯！
-()<Speaker></Speaker>||:格琳娜用力拍了拍双颊，抖擞精神之后，状态看起来总算好了一些。+……大概。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:抱歉，昨天半夜做了一期加长版的深夜电台……+又因为纠结非常恼人的事情，所以一直没有睡觉。
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:所以就熬夜了吗？+这可不算是好习惯，不过既然是这个原因，你还是回去补个觉比较好。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:这、这怎么行？
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:再不行也比累垮了身体要好，放心吧，今天只有财务结算的工作，所以就算明天再做也来得及。+而你说的什么恼人事情也等明天再想吧。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:……呜，我纠结就是财务结算！
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:……财务结算怎么了？
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:是这样……我昨天核算了一下我们到上一个季度的财务收支，发现除了下拨的资金以外，今后就算把每一次任务的抽成也算进来，也没办法填补我们日常的开支空缺。+最可怕的是，由此产生的收支差距还在增大！
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:等等，也就是说……？
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:嗯，我、我们没钱了。+虽然还没到一毛钱都不剩的程度，但不久之后也是差不多的结果。
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:最近的确因为各种原因导致没有办法承接委托和派遣任务，但应该也不至于到这种地步。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:不，居然让部门财务陷入赤字，这绝对是我职业生涯里的污点！
-NPC-Kalin(12)<Speaker>指挥官</Speaker>||:你也不要自责，这件事我会跟赫丽安小姐沟通的，在那之前，你先好好休息。+你们几个来照顾一下格琳娜，我去指挥室一趟。
-()<Speaker>围观的人形</Speaker>||:好的！
-()<Speaker></Speaker>||:把一切都安排妥当后，指挥官转身正要走出资料室，却没想到跟另外两个人形碰了个对脸。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:咦，指挥官刚好也在！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:早~上好~！
-K5(0)<Speaker>指挥官</Speaker>;R93(0)<Position>0,-100</Position>||:看你们的意思是找我有事？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:啊……主要是找格琳娜小姐，也许她会感兴趣。
-K5(0);R93(0)<Speaker>指挥官</Speaker><Position>0,-100</Position>||:格琳娜昨天熬了个通宵，现在正在休息，我建议你们先不要打扰她比较好。
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:这样啊，真可惜。
-K5(0)<Speaker>指挥官</Speaker>;R93(0)<Position>0,-100</Position>||:具体发生了什么事，能说给我听吗？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:就是刚才有同伴在匿名版上看到了这个。
-()<Speaker></Speaker>||:也许是早就准备好给格琳娜观看的缘故，R93示意我查看自己随身携带的数据终端，此时终端上显示着来自R93的连接请求.+确认同意后，一封邮件在面板上直接被展开，而上面有个螺旋状的LOGO被印在了落款处。
-指挥官()<Speaker>指挥官</Speaker>||:“……大型活动——《全境封锁》生存竞赛？”+怎么，你们想找格琳娜玩游戏？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:倒也不是，这封邮件的重点在于活动奖励——最后的赢家能获得一千万奖金，一千万哦！
-R93(0)<Speaker>指挥官</Speaker><Position>0,-100</Position>||:这种夸张的表述一般都是诈骗信息，没什么可信度。
-K5(0)<Speaker>K5</Speaker>||:您看起来好像很有经验呢？
-K5(0)<Speaker>指挥官</Speaker>||:很久以前的和平年代，这种事情就没少发生过，更不要说现如今的世界……+算了，这种事情你们应该也明白的。
-K5(0)<Speaker>K5</Speaker>||:不过，我刚才占卜了一下，今天的确有非常大的财运，不管怎么看都和这场游戏活动有关，+真的不考虑一下吗？！
-K5(0)<Speaker>指挥官</Speaker>||:就算你这么说，也不会有人对这种搞不清真假的信息感兴趣的……
-()<Speaker>格琳娜的声音</Speaker>||<震屏3>:一千万在哪里！？
-()<Speaker></Speaker>||:……+……也许刚才的结论下得太早，毕竟感兴趣的人还真就有那么一位。
-K5(0)<Speaker>K5</Speaker>||:啊，格琳娜小姐！
-指挥官()<Speaker>指挥官</Speaker>||:你怎么突然这么有精神，身体不要紧了吗？
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:我已经好了！
-NPC-Kalin(0)<Speaker>指挥官</Speaker>||:虽然脸色看起来好很多，但毕竟整晚没休息，就别对这种不知真假的消息上心了。
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:等等，指挥官，不管是不是真的，这可是一千万呐！+如果真能把它拿到手，那我们的财政赤字马上就能迎刃而解了！
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:呃，你先别这么激动。
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:很、很难不激动，这可是避免我在副官圈子里被当成“财务黑洞”来嘲笑的关键！
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:……原来副官也有圈子的吗？
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:R93，这封邮件是投放在格里芬匿名版上了吗？
-NPC-Kalin(8);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:诶？是、是啊？
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>;R93(0)<Position>0,-100</Position>||:很好，那今天的主要任务就是参加这场活动，然后赚到一千万！
-NPC-Kalin(8)<Speaker>指挥官</Speaker>;R93(0)<Position>0,-100</Position>||:等等，今天可不是休假……
-NPC-Kalin(8);K5(0)<Speaker>K5</Speaker>||:但我们最近也没什么委派的任务了哟！
-NPC-Kalin(8);K5(0)<Speaker>指挥官</Speaker>||:……我倒是忘记了。
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>;K5(0)||:所以您就会明白这件事有多么重要，没有一千万的话，我们以后就只剩下休假了。+唯独今天，希望您也能帮我一起解决财务危机，拜托了！
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:真打算靠玩游戏来解决财务危机吗？+……没办法，那就仅限今天吧。
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:太好了！
-NPC-Kalin(1)<Speaker>指挥官</Speaker>||:我做这个决定只是希望你不至于那么苦恼，但你也得清楚，这不是真正解决财务危机的办法。+如果最后拿不到这一千万，我还是要跟赫丽安小姐做检讨的。
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:没问题！那我现在就去安排喽！
-()<Speaker></Speaker>||:格琳娜一扫之前颓靡的状态，以更加饱满的精神冲出了宿舍。
-指挥官()<Speaker>指挥官</Speaker>||:……+虽然有点不放心，但能让她打起精神来也不错。
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:—Griffin HQ.+It's morning, and the warm sunlight shines in through the skylight.+The corridors are still quiet. Groups of two or three people walk by every now and then, but when they pass by the Data Room, something seems to catch their attention. After stopping and watching for a while, they enter.
+()<Speaker></Speaker>||:Inside the Data Room, a large group of Dolls have congregated outside the door of the innermost room.
+指挥官()<Speaker>Commander</Speaker>||:What's so interesting?
+路过的人形()<Speaker>Doll Passerby</Speaker>||:Ah, good morning, Commander...+It's Miss Kalina, something seems to be wrong with her.
+()<Speaker></Speaker>||:The Doll points inside the room, where Kalina is sprawled motionless on her desk.+The Dolls don't think she's ill, probably because she's radiating an aura of unapproachability.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Ah... Good morning, Commander...
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:Ugh, you look terrible...+Are you alright?
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Uh... Yeah...
+()<Speaker></Speaker>||:Kalina forcefully slaps her cheeks, and after recovering her spirits, she seems a little better.+...Probably.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Sorry, I had a really long session of Radio Kalina last night...+And I haven't been able to sleep because something's been bothering me lately...
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:So you pulled an all-nighter?+This isn't a good habit, but if that's the reason, then you'd better go catch up on your sleep.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:But-but how could I do that?
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:It's better than you wearing yourself out. Relax, the only thing that needs doing today is the accounting, and you can do that tomorrow.+Leave whatever's been bothering you till tomorrow as well.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:...Ugh, the accounts ARE what's bothering me!
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:...What's wrong with the accounts?
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Here's the thing... I was checking our income and expenditure for the previous quarter and I found that even after factoring in the funds we've been allocated and adding in all the commissions for all our future assignments, we won't be able to break even.+And the worst part is that the discrepancy is only going to grow as time goes on!
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:Wait a minute. So you're saying...
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Yes, we're out of money.+We're not penniless yet, but it's only a matter of time before we get there.
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:We haven't been able to accept commissions and fulfill contracts for various reasons recently, but that alone shouldn't be enough to put us into such a state.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:No, it's a stain on my professional career for allowing our finances to dip into the red!
+NPC-Kalin(12)<Speaker>Commander</Speaker>||:Well, you don't need to be so hard on yourself. I'll talk to Miss Helian about this. Before that, you should go get some rest.+You girls, take care of Kalina. I'm heading to my office for a bit.
+()<Speaker>Surrounding Dolls</Speaker>||:Sure thing!
+()<Speaker></Speaker>||:After sorting out everything, the Commander turns around and is about to leave the office before coming face to face with a couple of Dolls.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Huh, the Commander's here!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Good morning~
+K5(0)<Speaker>Commander</Speaker>;R93(0)<Position>0,-100</Position>||:Let me guess, looking for me?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well...we were mainly looking for Miss Kalina. It seemed like her sort of thing.
+K5(0);R93(0)<Speaker>Commander</Speaker><Position>0,-100</Position>||:Kalina burned the midnight oil and she's resting now. I'd advise you not to disturb her for the time being.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:I see. Well, that's a shame.
+K5(0)<Speaker>Commander</Speaker>;R93(0)<Position>0,-100</Position>||:What exactly happened? Can you tell me about it?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well, a friend just saw this on Griff-chan.
+()<Speaker></Speaker>||:R93 seems ready to demonstrate and gestures for me to check my personal data terminal. It shows a connection request coming from R93 herself.+After clicking "accept", a message expands to fill the tablet's screen. There is a spiral-shaped logo on it.
+指挥官()<Speaker>Commander</Speaker>||:..."New major event — 'The Division' Survival Tournament"?+What's this, were you going to invite Kalina to play?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Not really. The important part is the reward — the winner gets a prize of 10 million dollars! 10 million!
+R93(0)<Speaker>Commander</Speaker><Position>0,-100</Position>||:Offering that kind of money is typically the lead-in to a scam of some sort. Sounds very sketchy to me.
+K5(0)<Speaker>K5</Speaker>||:You sound pretty familiar with this sort of thing?
+K5(0)<Speaker>Commander</Speaker>||:Things like this were common enough back in the peaceful days. And when you consider the state of the world now...+You get my drift.
+K5(0)<Speaker>K5</Speaker>||:But I did a quick reading just now and my financial luck is going to be great today. No matter how you look at it, it all seems related to this game tournament.+Are you really not going to consider it?!
+K5(0)<Speaker>Commander</Speaker>||:Well, you say that, but I'm sure nobody would be interested in a dubious message like...
+()<Speaker>Kalina's Voice</Speaker>||<震屏3>:Did somebody say 10 million bucks?!
+()<Speaker></Speaker>||:...+...Perhaps I spoke too soon, because someone actually IS interested in it.
+K5(0)<Speaker>K5</Speaker>||:Ah, Miss Kalina!
+指挥官()<Speaker>Commander</Speaker>||:How come you're suddenly so full of energy? Are you alright?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I'm perfectly fine!
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:You look much better now, but you didn't sleep at all last night, so maybe you shouldn't take this kind of suspicious news so seriously.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Wait a minute, Commander. Whether it's real or not, it's still 10 million dollars!+If we can get our hands on that prize money, all our financial woes will be solved!
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:Uh, maybe you should calm down a little.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:How can I stay calm after hearing that? This is my ticket to not being known as "the financial black hole" among the adjutant set!
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:...Do base adjutants actually have their own social scene?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:R93, this message was posted on Griff-chan, right?
+NPC-Kalin(8);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Huh? Y-yeah, but why?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;R93(0)<Position>0,-100</Position>||:Very good, then our mission for today will be to take part in this event and win 10 million dollars!
+NPC-Kalin(8)<Speaker>Commander</Speaker>;R93(0)<Position>0,-100</Position>||:Wait a minute, we're not on vacation today...
+NPC-Kalin(8);K5(0)<Speaker>K5</Speaker>||:But we haven't been deployed on any missions recently!
+NPC-Kalin(8);K5(0)<Speaker>Commander</Speaker>||:...Right, I forgot about that part.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;K5(0)||:Therefore, I'm sure you understand just how important this is. Without that 10 million, we'll have nothing to do BUT go on vacation.+So please, just for today, help me solve our financial problems!
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:You're seriously going to solve our financial crisis by playing games?+...Oh well. But only for today.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:You're the best!
+NPC-Kalin(1)<Speaker>Commander</Speaker>||:I'm only doing this because I don't want you to be so frustrated, but you should know that this isn't the right way to solve your financial woes.+And if we don't get that 10 million, I'll still have to consult Miss Helian about the matter.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:No problem! I'll go arrange things right away!
+()<Speaker></Speaker>||:Kalina's previous fatigue is swept away, and she rushes out of the room, brimming with energy.
+指挥官()<Speaker>Commander</Speaker>||:...+This is a little worrying, but it's good that she's all cheered up now.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>302</BIN>:……<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:——曼哈顿•美国。
-NPC-Kalin(11)<Speaker>格琳娜</Speaker>||:……这、这里就是纽约吗？+虽然在网上看过照片，但没想到有人能把这么大一座城市放进游戏里，真是太了不起了！
-NPC-Kalin(11)<Speaker>指挥官</Speaker>||:且不说这个，为什么只有我们两个人来玩？
-NPC-Kalin(13)<Speaker>格琳娜</Speaker>||:玩游戏这种事情很简单的啦，只要拿着枪打败敌人，胜利就是我们的！
-()<Speaker>ISAC</Speaker>||:警告：已侦测到感染。
-NPC-Kalin(11)<Speaker>格琳娜</Speaker>||:诶？
-NPC-Kalin(11)<Speaker>指挥官</Speaker>||:感染……听起来有种坍塌粒子辐射的感觉。
-NPC-Kalin(9)<Speaker>格琳娜</Speaker>||:当、当然不会是那种东西啦，应该是别的什么疾病吧？
-()<Speaker>ISAC</Speaker>||:核心体温已降至低于理想状态。
-NPC-Kalin(11)<Speaker>格琳娜</Speaker>||:游戏要素这么丰富的吗！？
-NPC-Kalin(11)<Speaker>指挥官</Speaker>||:毕竟下着这么大的雪……不过这游戏模拟了相当恶劣的环境，大概是比绿区还要糟糕的程度吧。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特工，这里是蒂玛。</color>+<color=#00CCFF>看来你那边的情况不算太糟糕，不管怎么说，眼下还是任务要紧，请尽快前往暗区取得药品并撤离！</color>
-NPC-Kalin(11)<Speaker>格琳娜</Speaker>;NPC-Dima(1)||:我们的任务是获取药品吗？+话说回来，这个叫蒂玛的人是……？
-NPC-Kalin(11);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>国土战略局特工“蒂玛”。</color>+<color=#00CCFF>虽然只是早几天被唤醒，但从现在起，就由我来协助你们完成这次的任务。</color>
-NPC-Kalin(11);NPC-Dima(1)<Speaker>指挥官</Speaker>||:原来如此，是游戏里的NPC，她应该会引导我们如何进行游戏。
-NPC-Kalin(11);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>你的ISAC看起来还没出故障，不如在出发之前检查一下自身的情况。</color>+<color=#00CCFF>我会在必要的时候为你提供更多的信息支持，特工，祝你好运。</color>
-NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:【通讯中断】
-NPC-Kalin(11)<Speaker>格琳娜</Speaker>||:ISAC，就是刚才那个人工智能一样的声音吗……？
-ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:电子智能解析系统启动，全部的ISAC系统确认都已上线。+请操纵武器以开始验证……
-指挥官()<Speaker>指挥官</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:瞧，是新手指南。
-NPC-Kalin(13)<Speaker>格琳娜</Speaker>||:哼哼，这也需要指南吗？ 
-()<Speaker></Speaker>||:格琳娜冲这边眨了眨眼睛，露出一副自信的表情。
-指挥官()<Speaker>指挥官</Speaker>||:虽然目标只是获取药品，但路上恐怕会遇到很多麻烦，要小心应对。
-NPC-Kalin(13)<Speaker>格琳娜</Speaker>||:放心好了，本来平时就没有多少机会，现在到了游戏里，也该我一展身手了~！
-()<Speaker></Speaker>||:以特工身份加入游戏的两个人，就这样有说有笑地朝着街道深处走去。
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>302</BIN>:...<下雪></下雪>
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:—Manhattan, America.
+NPC-Kalin(11)<Speaker>Kalina</Speaker>||:...Is this New York?+I've seen pictures of it on the Net, but I didn't think they could put such a huge city into a game. This is amazing!
+NPC-Kalin(11)<Speaker>Commander</Speaker>||:Leaving that aside for now, why are we the only two playing the game?
+NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Aw, playing games is easy! Just shoot the enemy until they die and you win!
+()<Speaker>ISAC</Speaker>||:Warning. Contamination detected.
+NPC-Kalin(11)<Speaker>Kalina</Speaker>||:Huh?
+NPC-Kalin(11)<Speaker>Commander</Speaker>||:Contamination... Sounds like there's ELID infection in the area.
+NPC-Kalin(9)<Speaker>Kalina</Speaker>||:S-surely it can't be that. It should be some other kind of disease, right?
+()<Speaker>ISAC</Speaker>||:Warning. Core temperature has fallen below ideal levels.
+NPC-Kalin(11)<Speaker>Kalina</Speaker>||:Is the game THAT realistic?!
+NPC-Kalin(11)<Speaker>Commander</Speaker>||:I mean, it's snowing really heavily... Though I have to say, the conditions this game is simulating are pretty harsh. Seems worse than the Green Zones.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this is Dima.</color>+<color=#00CCFF>Things don't seem too bad on your end, but the mission takes priority no matter what. Enter the Dark Zone, obtain the medicine, then withdraw!</color>
+NPC-Kalin(11)<Speaker>Kalina</Speaker>;NPC-Dima(1)||:So our mission is to recover medicine?+Speaking of which, who is this Dima person anyway?
+NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I am Agent Dima of the Strategic Homeland Division.</color>+<color=#00CCFF>I was only awakened several days ago, but from now on, I will be assisting you in completing this mission.</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>Commander</Speaker>||:I see, so she's an in-game NPC. She'll probably teach us how to play the game.
+NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
+NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:【Transmission ends.】
+NPC-Kalin(11)<Speaker>Kalina</Speaker>||:By ISAC, was she referring to that AI-like voice?
+ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Intelligent System Analytic Computer is activated. All ISAC systems are confirmed online.+Please begin weapons check....
+指挥官()<Speaker>Commander</Speaker>||:See, this is the tutorial for new players.
+NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Hehe, do we even need such a thing?
+()<Speaker></Speaker>||:Kalina winks at me, a confident look on her face.
+指挥官()<Speaker>Commander</Speaker>||:Well, our objective is just recovering medicines, but we'll probably run into a lot of trouble on the way, so we'd best be careful.
+NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Don't worry. I don't get a chance to do this very often, but now that I'm in the game, I ought to show my stuff!
+()<Speaker></Speaker>||:And so the pair — who have entered the game as agents — chatter cheerfully as they walk down the streets.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……<火焰销毁></火焰销毁>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:不久，从逐渐蔓延的雾气中传来了一阵清脆的枪声。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>……</color>+<color=#00CCFF>很遗憾……</color>
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...<火焰销毁></火焰销毁>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Soon, the sound of crisp gunshots wafts out through the fog.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>Unfortunately...</color>
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:——指挥室。
-()<Speaker>指挥官</Speaker>||:……
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:指挥官，格琳娜小姐……你们这么快就结束了？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:不用说，有指挥官一起，肯定是赢了对吧？
-K5(0)<Speaker>指挥官</Speaker>||:咳，看看这位就知道了。
-NPC-Kalin(12)<Speaker>格琳娜</Speaker>||:啊……？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:那我收回刚才的话……
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:讨厌啊！游戏里除了我们居然还有别的玩家！
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:悬赏千万奖金的游戏，参与者自然不在少数。
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:不，这些都不重要，关键是为什么对面能在一瞬间就把我们全部干掉？+这简直就像……就像那个什么来着？话到嘴边说不出来了——
-NPC-Kalin(8)<Speaker>指挥官</Speaker>||:你是说……有人在搞鬼？
-NPC-Kalin(8)<Speaker>格琳娜</Speaker>||:对对对！+肯定是对面在搞鬼！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:其实，会不会是另一种可能？+因为这次活动被放在了匿名版上，所以上线的玩家可能是……
-K5(0)<Speaker>K5</Speaker>||:战术人形……吧？
-K5(0)<Speaker>指挥官</Speaker>||:这倒是真的有可能。
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:原来人形也可以参加比赛吗？
-NPC-Kalin(2)<Speaker>指挥官</Speaker>||:至少邮件上没说不行。+安装了火控系统的人形在战斗上有着碾压性的优势，作为人类玩家的我们肯定是没有办法在游戏里取胜的……+不过，这样一来，事情反而更好办了。
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:—In the Commander's office.
+()<Speaker>Commander</Speaker>||:...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Commander, Miss Kalina... You've finished already?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Let me guess, with the Commander around, it must've been an easy victory, right?
+K5(0)<Speaker>Commander</Speaker>||:Ahem, see for yourself.
+NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Huh...?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I take back what I just said...
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Dammit! I can't believe there were other players in the game besides us!
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:Well, the game's offering a prize of 10 million dollars. Obviously there'd be lots of people competing for it.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:No, that's not the issue here. The point is - how is possible that the opposition could kill us all in an instant?!+It's like they're using p...what do they call those again? It's at the tip of my tongue—
+NPC-Kalin(8)<Speaker>Commander</Speaker>||:You mean... Someone was messing around?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Yes, you're absolutely right!+That's got to be it!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Actually, what if it's something else?+I mean, the event is publicized on Griff-chan, so it's possible that you were going up against...
+K5(0)<Speaker>K5</Speaker>||:Tactical Dolls... I think?
+K5(0)<Speaker>Commander</Speaker>||:That's actually quite likely.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:So Dolls can take part in this tournament too?
+NPC-Kalin(2)<Speaker>Commander</Speaker>||:Well, the message didn't specify.+Dolls with fire control cores have an overwhelming advantage in combat. There's no way that we, as humans, could beat them in the game...+Still, that actually makes things easier for us.
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:与此同时，游戏内……
-RFB(0)<Speaker>RFB</Speaker>||:话说是不是已经有玩家上线了？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:你要是指刚才被咱们干掉的那两个菜得像人类的家伙，那大概就是了。
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:嘿嘿嘿，果然就算是人形，也会被金钱打动呢。+来一场压倒性的猎杀怎么样？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:当然可以，不过想出这个点子的你可真是坏透了。
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:哪里哪里，接下来更会让你刮目相看呢，哈哈哈哈！
-MDR(0)<Speaker>MDR</Speaker>||:哈哈哈哈哈……
-()<Speaker></Speaker>||<BIN>290</BIN>:……
-MDR()<Speaker>MDR</Speaker>||:咦……？
-RFB()<Speaker>RFB</Speaker>||:<size=55>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！</size>
-MDR()<Speaker>MDR</Speaker>||:怎、怎么就没了！？
-RFB()<Speaker>RFB</Speaker>||:快点连接，快点连接！
-MDR()<Speaker>MDR</Speaker>||:啊，不要紧不要紧，这才刚刚开局，应该还来得及！
-RFB()<Speaker>RFB</Speaker>||:可是这样会错过前期发育的……赶紧赶紧！
+()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:Meanwhile, in the game...
+RFB(0)<Speaker>Am RFB</Speaker>||:Speaking of which, are we getting new players to join in already?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:You mean those two scrubs that we just slaughtered? Yeah, we're getting new players alright.
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hehehe, as I thought, even Dolls are motivated by money.+Why don't we go on a stomping spree?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Of course we can, but I have to hand it to you for coming up with this plan. You're so evil.
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Oh please, just wait until you see what comes next, hahahaha!
+MDR(0)<Speaker>MDR</Speaker>||:Hahahahaha...
+()<Speaker></Speaker>||<BIN>290</BIN>:...
+MDR()<Speaker>MDR</Speaker>||:Huh...?
+RFB()<Speaker>Am RFB</Speaker>||:<size=55>AHHHHHHHH!!!!</size>
+MDR()<Speaker>MDR</Speaker>||:W-what just happened?!
+RFB()<Speaker>Am RFB</Speaker>||:Quick, reconnect, reconnect!
+MDR()<Speaker>MDR</Speaker>||:Ah, don't worry, the game's just started, so we should still have enough time!
+RFB()<Speaker>Am RFB</Speaker>||:But we'll lose our early-game progress... Hurry, hurry!
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:……
-RFB(0)<Speaker>RFB</Speaker>||:呼~+总算又登录上来……
-()<Speaker></Speaker>||<BIN>290</BIN>:……
-RFB()<Speaker>RFB</Speaker>||<震屏3>:<size=60>NOOOOOOOOOOOO！！！！</size>
+()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:...
+RFB(0)<Speaker>Am RFB</Speaker>||:Whew~+We managed to sign in again...
+()<Speaker></Speaker>||<BIN>290</BIN>:...
+RFB()<Speaker>Am RFB</Speaker>||<震屏3>:<size=60>NOOOOOOOOOOOO!!!!</size>
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||:唉，这些人形真能靠得住吗？
-()<Speaker>系统</Speaker>||:——游戏内剩余玩家：20人。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...
+NPC-Dima(1)<Speaker>Dima</Speaker>||:(Sigh) Can I really count on these Dolls?
+()<Speaker>System</Speaker>||:20 players remaining.
 ()||<黑屏1>:

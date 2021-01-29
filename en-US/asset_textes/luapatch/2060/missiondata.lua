@@ -54,8 +54,14 @@ local CheckSpotAction = function(self,jsonSpotAction)
 		end
 	end
 end
+
+local AddDieEnemyCount = function(self,enemyteam,addnum)
+	self:AddDieEnemyCount(enemyteam,addnum);
+	self.allDieEnemyNum = self.allDieEnemyNum + addnum;
+end
 util.hotfix_ex(CS.BuildingAction,'get_CanUseActiveMissionSkill',MissionAction_CanUseActiveMissionSkill)
 util.hotfix_ex(CS.MissionInfo,'get_useWinStep',MissionInfo_useWinStep)
 util.hotfix_ex(CS.MissionInfo,'get_useWinType',MissionInfo_useWinType)
 util.hotfix_ex(CS.MissionInfo,'get_squadLimitTeam',get_squadLimitTeam)
 util.hotfix_ex(CS.MissionAction,'CheckSpotAction',CheckSpotAction)
+util.hotfix_ex(CS.MissionAction,'AddDieEnemyCount',AddDieEnemyCount)

@@ -1,56 +1,56 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><BGM>GF_xDivision_Battle1</BGM><Night><SE2>Gunfight</SE2>:……<下雪></下雪>
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>敌人被消灭了，特工，看来你很有潜质！</color>
-K5(0)<Speaker>K5</Speaker>||:有潜质能管什么用，这不还是走到死路了嘛！
-PP90(0)<Speaker>PP90</Speaker>;K5(0)||:应该还有别的路可以走吧，我到前面去看看！
-PP90(0);Vector(0)<Speaker>Vector</Speaker>||:你一个人去不要紧吗？
-PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:呼呼呼，能被Vivi这样关心着就足够了。
-PP90(0);Vector(0)<Speaker>Vector</Speaker>||:不，我只是担心你能不能完成任务……
-PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:放心吧Vivi，我会尽快回到你身边的！
-Vector(0)<Speaker>Vector</Speaker>||:所以说不是……+跑得还真快……
-K5(0)<Speaker>K5</Speaker>||:啊！等等，我也要去！
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:你就别跟着凑热闹了！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:为什么？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:别的不说，我反正挺害怕因为你胡乱跑动结果让90也跟着倒霉的。
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:我？乱跑？没有吧？+虽然这么说是有点不尊重，但这不是Vivi队长决定的路线吗？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:我们全程可是被你拖着跑的！+而且拜你所赐，从刚才开始虽然避开了敌人，但也走了不知多少条死路，有些地方甚至路过了两次。
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:也、也没那么严重吧？
-Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:虽然不知道后面的人为什么拖拖拉拉的，但还是小心为好。
-Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:拖拖拉拉是一回事，我们耽搁太久的话还是会被追上的。+我可不想队伍的运气因为人为因素变得极差……
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:好吧，既然你有这份担心，我也不是不能理解……嘿咻！
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:你又打算干什么？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:放心~既然带路不是我的强项，那就从我擅长的地方入手……+来占卜一下该走哪条路好了！
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:……你刚才口口声声说不要在游戏开始的时候就听从命运安排果然是骗人的。
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:此一时彼一时嘛。
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:就算此一时彼一时，这里不也没有塔罗牌嘛，你打算怎么占卜？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:笑~话！这种程度的占卜哪里用得着塔罗牌？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:难、难道你还有更厉害的方法！？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:扔鞋啊。
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:……
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:K5，你有没有看到队长刚才嘴角抽了一下，看到了吧！？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Vivi队长觉得不妥吗？
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:我不太想被指挥官知道我们是死于扔鞋。+而且你们能不能别在这种事情上浪费时间？
-K5(0)<Speaker>K5</Speaker>||:放心吧，马上就会好了，R93你也老实一点，乖•乖•把•鞋•交•出•来！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:诶，为什么是我！？+噫，等等，你、你不要过来啊！！！
+()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><BGM>GF_xDivision_Battle1</BGM><Night><SE2>Gunfight</SE2>:...<下雪></下雪>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Enemy eliminated, agents. Looks like you've got a lot of potential!</color>
+K5(0)<Speaker>K5</Speaker>||:Screw potential, we're stuck in a dead end now, aren't we?
+PP90(0)<Speaker>PP-90</Speaker>;K5(0)||:There ought to be other routes we can take. I'll take a look up ahead!
+PP90(0);Vector(0)<Speaker>Vector</Speaker>||:Will you be alright going by yourself?
+PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:(Smirks) It's enough that you're concerned about me, Vivi.
+PP90(0);Vector(0)<Speaker>Vector</Speaker>||:No, I'm just worried that you won't be able to complete the mission...
+PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:Relax, Vivi, I'll come back to you ASAP!
+Vector(0)<Speaker>Vector</Speaker>||:Look, it's not...+She sure runs fast...
+K5(0)<Speaker>K5</Speaker>||:Oh! Wait for me, I'm coming too!
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Don't just follow her to look for excitement!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Why can't I?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I'm actually kind of afraid that you'll run around and get 90 in trouble as well.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Me? Run around? I didn't, did I? +I mean no disrespect, but it was Leader Vivi who has chosen this route, right?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:You were the one dragging us along the whole way!+And thanks to you, we did avoid the enemy but we also ended up running into lots of dead ends. We even retraced our own path a few times.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:No way, it's not that bad, is it?
+Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:While I don't know why the people behind us are dragging their feet, it's best to be careful.
+Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:They might be dragging their feet, but they'll catch up to us eventually if we waste too much time.+I don't want the squad's luck to go bad because of avoidable mistakes...
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Alright then, it's not like I don't understand why this worries you... Oof!
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What are you up to now?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Relax~ Since leading the way isn't my forte, I'll contribute with my specialty... +Let's do a divination to decide on which way to go!
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...I knew it - all that stuff you said about not leaving things up to fate was a load of bull.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:That was then, this is now.
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Even so, it's not like you have a tarot deck here. How exactly are you going to divine the answer?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Don't be ridiculous! Why would I need a tarot deck for a petty divination like this?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Y-you mean, you've got an even more powerful method in store?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:I'm going to throw shoes.
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:...
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:K5, did you see Leader's mouth twitch just now? You saw it, right?!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Do you not approve, Leader?
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:I don't really want the Commander to find out we died because we were throwing shoes around. +Also, could you not waste time on things like this?
+K5(0)<Speaker>K5</Speaker>||:Don't worry. It'll be over right away! Now be a good girl, R93, and hand! Over! Your! Shoes!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ehhhhh?! Why me?!+Hey! Wait, noooo, stay back!!!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:——
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:哎，有枪声！+停一下……快停一下，别脱了！
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:干嘛！
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:这个声音……是后面那些敌人开始交火了！
-K5(0)<Speaker>K5</Speaker>;Vector(0)||:诶，也就是说我们成功了吗？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:肯定是成功了……吧！+真是的，差点把我鞋子给献祭掉……喂，别再盯着它看了！
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:全员，检查一下身上携带的道具和装备，等90回来之后我们就撤离。
-K5(0)<Speaker>K5</Speaker>;Vector(0)||:哎？这就要走吗？
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:你就那么想过一次占卜的瘾吗？
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:我只是在想虽然我们的速度已经很慢了，但对面看起来更加慢吞吞的，你们不好奇在后面追的到底是谁吗？
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:我们没必要把时间浪费在追兵身上，等90回来我们就立刻撤离。
-PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:我回来了！刚才Vivi是不是发出了需要我的声音？
-Vector(0)<Speaker>Vector</Speaker>||:并没有……+找到出路了吗？
-K5(0)<Speaker>K5</Speaker>||:找不到的话也没关系，我还有……唔——唔！
-PP90(0)<Speaker>PP90</Speaker>||:咦，怎么我不在的这段时间，你们两个关系变得这么好了？
-PP90(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:完全没有！赶紧说正事吧！
-PP90(0)<Speaker>PP90</Speaker>||:好的好的~+Vivi，我找到了可以离开这里的滑索，刚才试了一下，从那里可以离开难民营。+然后在离开的时候，我发现地图上标注的藏身处距离很近的样子。
-PP90(0);Vector(0)<Speaker>Vector</Speaker>||:藏身处吗？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>藏身处的话，可以作为很好的休整地点，如果资源充沛，还可以制作在暗区当中不可或缺的防毒面具。</color>
-Vector(0)<Speaker>Vector</Speaker>||:很好，我们就从那里撤离，然后开始搜索物资，90，前面带路。
-PP90(0)<Speaker>PP90</Speaker>||:嗯！
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:Huh? I hear gunshots!+Wait a minute... I said wait, let go of my shoes!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:What the heck!
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:Listen to that... The enemies behind us are exchanging fire!
+K5(0)<Speaker>K5</Speaker>;Vector(0)||:Huh, so you're saying we did it?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:That's got to be it...right?+Jeez, you nearly sacrificed my shoes for nothing... Hey, quit eyeing them!
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:Everyone, gear check. We'll leave once 90 returns.
+K5(0)<Speaker>K5</Speaker>;Vector(0)||:Huh? We're just going to leave?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Do you really want to do a divination so badly?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:I'm just thinking that we might be pretty slow, but they seem even slower. Don't you want to see who's coming after us?
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:We don't need to waste time on our pursuers. Once 90 returns, we'll leave immediately.
+PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:I'm back! Did you just say you needed me, Vivi?
+Vector(0)<Speaker>Vector</Speaker>||:Not really... +Did you find a way out?
+K5(0)<Speaker>K5</Speaker>||:It's okay if you didn't, I can still mmpphh!
+PP90(0)<Speaker>PP-90</Speaker>||:Hm? How come the two of you suddenly became such good friends while I was gone?
+PP90(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Not at all! Hurry up and get to the point!
+PP90(0)<Speaker>PP-90</Speaker>||:Kay~ +Vivi, I found a zipline that'll get us out of here. I tried it and it took me out of the refugee camp.+Also, I realized that the safe house marked on the map is not too far from here.
+PP90(0);Vector(0)<Speaker>Vector</Speaker>||:A safe house, you say?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Safe houses are excellent places to rest and regroup. If you have adequate supplies, you can craft gas masks there, which are essential in the Dark Zone.</color>
+Vector(0)<Speaker>Vector</Speaker>||:Excellent. We'll pull out now and begin searching for resources. 90, lead the way.
+PP90(0)<Speaker>PP-90</Speaker>||:Sure!
 ()||<黑点1><BIN>10</BIN>:

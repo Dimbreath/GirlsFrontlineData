@@ -1,206 +1,206 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>GF_Halloween_Wind_loop</SE1>:0:12，Vector头上的“饥饿”标识已经消失，她缓缓从地上站起来，耳边只有萧瑟的风声。
-Vector(0)<Speaker>Vector</Speaker>||:……+P……
-Vector(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>……特工。</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<SE1>Stop_AVG_loop</SE1>:……是你啊。
-Vector(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>PP90已经退出了游戏，我为你的损失感到抱歉，特工。</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:PP90……
-Vector(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>刚刚春田小队经过了这里。</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<通讯框>||:她们也是朝着暗区方向前进的吗？
-Vector(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>是的。</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>现在幸存的队伍应该都在前往暗区了。</color>
-Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:好，那我先去车站跟R93她们汇合吧。
-()||<黑屏2><BIN>55</BIN><Night><BGM>BGM_Empty</BGM>:……被高楼大厦包围的布莱恩特公园。
-M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Scene1</BGM>:呼……呼……+这群胆小如鼠的蠢蛋，全身的技能点都点在逃跑上了吗？！
-VSK(0)<Speaker>VSK94</Speaker>||:呼……呼……
-()||:盛怒之下，M870拎起了路人的衣领。
-M870P(0)<Speaker>M870</Speaker>||:喂，你有没有看见几个贼眉鼠眼的人形经过这里？
-()<Speaker>路人1</Speaker>||:……
-()<Speaker>路人2</Speaker>||:……
-()||:两位路人保持着原来的神态，没有对M870做出回应。
-M870P(0)<Speaker>M870</Speaker>||:……瞪着那么大的眼睛，却看不见大哥我站在你们面前？
-()<Speaker>路人1</Speaker>||:……
-M870P(0)<Speaker>M870</Speaker>||:跟我杠是不是？
-VSK(0)<Speaker>VSK94</Speaker>||:算了吧，M870，这些路人是无法交互的。
-()||:M870恶狠狠地在两位路人的身上贴了几张罚单。
-M870P(0)<Speaker>M870</Speaker>||:P7，ART556，你们俩去那边侦查下，看能不能找到她们的轨迹。
-()||:……
-M870P(0)<Speaker>M870</Speaker>||:P7？ART556？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:她们没有跟上……
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:所以我最讨厌跟身高不达标的人形合作了！+每次都在关键的时刻消失，不是掉进下水道，就是卡在什么奇怪的地方……
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:我们得回去找到她们。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:干嘛跟天天守在幼儿园门口的老妈子一样？+放心啦，P7和ART556又不是小朋友，能照顾好自己的。
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:谁、谁天天守在幼儿园门口？+我刚刚试着联络她们，但是根本联系不上，她们的信号被屏蔽了。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:别着急，待会就会有绑匪打电话来要赎金了。
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:……
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:我就是开个玩笑缓和下气氛，你别当真啊。+她们可能进暗区了吧，刚刚不一直在弹系统提示吗？+什么特工已进入暗区之类的？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:那情况不是更危急了吗？+只靠她们俩很难应付暗区的危险情况的。
-M870P(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>没错，仅靠她们很难在暗区存活的。</color>
-M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<通讯框>||:喂——不要突然弹通讯框啊！很吓人的！
-M870P(0);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>抱歉，特工。</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>但是我建议你们立刻前去支援。</color>
-M870P(0)<Speaker>M870</Speaker>||:好了好了，你可以闭麦了。
-VSK(0)<Speaker>VSK94</Speaker>||:我们得立刻去暗区。
-M870P(0)<Speaker>M870</Speaker>||:……知道啦，那我们朝暗区走吧。
-()||<黑点1>:看着VSK94的眼神，M870知道这次没那么好敷衍过去，只好暂时同意。
-()||<黑点2>:朝着暗区行进的Vector经过了布莱恩特公园。+在寂静肃杀的氛围中，两个人形正在有条不紊地清点各自的物资。
-Vector(0)<Speaker>Vector</Speaker>||:看上去像是格里芬的战术人形。+原来格里芬也有这样安静的家伙吗？
-()||:Vector调整了一下面部表情，朝着两个人形走去……
-VSK(0)<Speaker>VSK94</Speaker>||:另外，M870，我有个建议。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:什么建议？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:由我们俩共同决定抓捕的对象。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:决策权当然是我这个队长来掌控啊，怎么？你想篡位？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:不是，我没有这种想法。
-VSK(0)<Speaker>VSK94</Speaker>||:我只是认为你的部分决定有些冲动。
-M870P(0)<Speaker>M870</Speaker>||:啊哈？我冲动？
-()||:两个人形突然爆发的争论让Vector的脚步停滞。
-Vector(0)<Speaker>Vector</Speaker>||:……+光听这几句争吵，我就已经想翻白眼宕机了。+还是算了，我这种讨嫌的人形就不要勉强自己去社交了吧。
-()||:Vector悄无声息地改道，准备绕开M870和VSK94。
-VSK(0)<Speaker>VSK94</Speaker>||:我没有针对你的意思。+最开始，罚AK47她们酒驾，我没有异议。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:你接着说。
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:刚刚遇到的春田小队，明明她们只是搜集物资而已，并且配合调查的态度也非常好。+但是你却暴力恐吓她们，甚至逼得她们逃跑。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:那明明是畏罪潜逃！
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:在抓捕春田小队的过程中，由于事先没有做好沟通，导致P7和ART556没有跟上我们。+我们的人员本就紧缺，这下就更难以开展我们的工作了。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:啰嗦死了，干嘛要对我进行说教啊？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:我没有说教你，我只是在想办法避免不必要的损失。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:你只是个新人，我才是队长！+别以为你是新人，我就会一直让着你。+国有国法，家有家规，在我M870的地盘活动就要按我M870的法律行事。+你要还想继续跟着大哥我混，就好好遵守我的规矩！
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:……+所以你的意思是，决定继续按照刚刚的方式来维护正义？
-VSK(0)<Speaker>VSK94</Speaker>||:看来我们对正义的理解出现了无法消除的分歧。
-()||:不知从哪飞来的石头砸向M870，所幸她闪躲及时，没有造成伤害。
-M870P(0)<Speaker>M870</Speaker>||:谁啊？光天化日之下就敢袭警？+那边那个人形！是你吗？+那个银色头发的，就是你，给我站住！
-()||:Vector下意识停住了脚步。
-Vector(0)<Speaker>Vector</Speaker>||:<color=#A9A9A9>……或许我应该直接跑？</color>
-()||:在Vector思考决策时，M870已经拽着VSK94来到她身边。
-M870P(0)<Speaker>M870</Speaker>||:犯罪嫌疑人，报上你的ID来。
-Vector(0)<Speaker>Vector</Speaker>||:战术人形Vector。
-M870P(0)<Speaker>M870</Speaker>||:不是吧？这都什么年代了，还有人形用真名当网名的？+纳甘上网（就是在网上冲浪的意思）都知道取些花里胡哨的网名……
-Vector(0)<Speaker>Vector</Speaker>||:嘲笑我的网名就算了，你这个括号是什么意思？
-VSK(0)<Speaker>VSK94</Speaker>||:你别在意，她就是这样满嘴跑火车的人形。
-M870P(0)<Speaker>M870</Speaker>||:说谁呢？！我还在边上听着的诶。
-Vector(0)<Speaker>Vector</Speaker>||:那个，我还有事先走了……
-()||:被吵得头痛的Vector迫不及待地想要逃离现场。
-M870P(0)<Speaker>M870</Speaker>||:等等！
-()||:M870敏捷地拦住了Vector的去路。
-M870P(0)<Speaker>M870</Speaker>||:我看你不对劲！
-Vector(0)<Speaker>Vector</Speaker>||:……
-VSK(0)<Speaker>VSK94</Speaker>||:你又要干什么？
-M870P(4)<Speaker>M870</Speaker>||:你不是指责我乱给人定罪吗？+我现在就让你看看，我的定罪流程是多么清晰准确……
-()||:M870仔细打量起了Vector。
-M870P(4)<Speaker>M870</Speaker>||:犯罪嫌疑人，回答我的问题！
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:……+该不会是在跟我说话吧？
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:就是你！“战术人形”Vector！+刚刚你企图抓住我和新人讨论案情的空隙，偷偷袭警然后溜走，是吗？！
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:不要这么自恋，我只是单纯路过而已。
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:我不信！+说吧，你有什么阴谋？
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:……
-M870P(4);VSK(0)<Speaker>VSK94</Speaker>||:审讯犯人是这么直接的吗？！
-M870P(4)<Speaker>M870</Speaker>;VSK(0)||:新人，不要插话，我正在为你演示标准的定罪流程。
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:我正在执行指挥官委派给我的任务，赢得这场游戏的胜利。
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:有什么证——
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:如果你一定要证明的话，我只能开枪毙了你，让你回到现实中去问指挥官了。
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:你这是袭警未遂之后企图再次袭警！
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:如果你说的袭警，是指在心智云图中模拟枪毙你的情境的话，没错，我已经进行上千次袭警犯罪了。
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:……+哼，嘴巴很厉害嘛。+等等，指挥官只派了你一个人吗？
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:我还有2个队友，没跟我一起行动而已。+警官大哥，还有什么问题吗？
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:你们为什么不一起行动？
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:可能因为我比较讨人厌吧。
-M870P(0)<Speaker>M870</Speaker>;Vector(0)||:哈哈哈哈哈，我喜欢你这样清醒的家伙！
-M870P(4)<Speaker>M870</Speaker>||:<size=25>可惜被人讨厌不能当做罪名啊……</size>
-VSK(0)<Speaker>VSK94</Speaker>||:……
-M870P(4)<Speaker>M870</Speaker>||:咳——那你接下来打算去哪？
-Vector(0)<Speaker>Vector</Speaker>||:暗区。
-M870P(4)<Speaker>M870</Speaker>||:……
-()||:M870的审讯陷入了僵局。+她皱着眉头仔细观察着Vector，想要发现一点能用来定罪的蛛丝马迹……
-Vector(0)<Speaker>Vector</Speaker>||:我可以走了吧？
-VSK(0)<Speaker>VSK94</Speaker>||:抱歉耽误你了，你可以离开了。
-()||:M870诧异地看向VSK94，从新人的脸上，她看见了毫不掩饰的鄙夷和无奈。+一种“如果再不挽回，就要失去她了”的预感油然而生。
-M870P(0)<Speaker>M870</Speaker>||:等一下！
-()||:M870再一次拦住了Vector。
-Vector(0)<Speaker>Vector</Speaker>||:……+能不能干脆点？+想打架直接动手就好，单挑群殴我都行。
-M870P(0)<Speaker>M870</Speaker>||:哼，不管你如何掩饰，都瞒不过我这双犀利的眼睛。+我已经知晓你的罪行了，战术人形Vector！
-Vector(0)<Speaker>Vector</Speaker>||:哈啊？
-()||:M870迅速瞥了一眼VSK94，新人的眼中流露出一丝疑惑。+M870知道，自己的挽救已经成功了一步。
-M870P(0)<Speaker>M870</Speaker>||:无需多言，我的心中已经有了答案。+“把一切可能都排除后，剩下的唯一可能就是真相！”
-Vector(0)<Speaker>Vector</Speaker>||:……
-M870P(0)<Speaker>M870</Speaker>||:而“真相只有一个！”
-Vector(0)<Speaker>Vector</Speaker>||:你的技能发动需要吟唱这么久吗？
-M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_Empty</BGM>:那就是——+你犯下了——
-M870P(0)<Speaker>M870</Speaker>||<震屏>:<size=50>非法持有枪支罪！！！</size>
-Vector(0)<Speaker>Vector</Speaker>||:……
-VSK(0)<Speaker>VSK94</Speaker>||:……
-()||:……空气顿时凝滞。
-VSK(0)<Speaker>VSK94</Speaker>||<BGM>m_avg_casual</BGM>:……+<size=50>非法持有枪支？你的心智被苏打水泡过吗？！</size>
-M870P(0)<Speaker>M870</Speaker>||:你干嘛凶我啊！有没有搞清楚你的阵营？！
-VSK(0)<Speaker>VSK94</Speaker>||:我对你的忍耐已经到达了极限。
-()||:VSK94迅速背好自己的包裹准备离开。
-M870P(0)<Speaker>M870</Speaker>||:喂——你要去哪啊？
-VSK(0)<Speaker>VSK94</Speaker>||:我要去救回ART556和P7。
-Vector(0)<Speaker>Vector</Speaker>||:……那个，我可以走了吧？
-M870P(0)<Speaker>M870</Speaker>||:我不准你走！
-Vector(0)<Speaker>Vector</Speaker>||:啊？
-VSK(0)<Speaker>VSK94</Speaker>||:开什么玩笑，你以为你有能力阻挡我吗？
-M870P(0)<Speaker>M870</Speaker>||:哼，那你就来试试啊！+看看没有我的允许，你走不走得掉！
-Vector(0)<Speaker>Vector</Speaker>||:不是在跟我说话啊……+那我先——
-()||:M870将自己的背包甩到Vector的怀里。
-M870P(0)<Speaker>M870</Speaker>||:来啊，跟我决斗吧！+输了的一方要无条件服从胜利的一方，你敢吗？
-VSK(0)<Speaker>VSK94</Speaker>||:我只怕你会哭着向我求饶。
-()||:VSK94卸下自己的背包塞给Vector。
-Vector(0)<Speaker>Vector</Speaker>||:……+虽然我知道我有些讨人嫌，但也不必这样吧……
-()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:M870先发制人，朝着VSK94开了一枪。+VSK94踏上公园长椅，灵活地避开了攻击。+完美落地之后，她开始朝公园深处跑去……
-M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Battle1</BGM>:想拉开间距，远距离击杀我吗？门都没有！
-()||<黑点1>:M870立刻跟上。+Vector叹了口气，拎着两个沉重的包坐在了长椅上。
-()||<黑点2><BIN>1</BIN><Night>:被枪声惊吓，附近的鸟类全部飞走，只剩下一个寂静无声的小树林。+VSK94的身影早已消失不见，铺满落叶的小径也没有留下她的痕迹。+M870深知此刻的情形对自己不利，只能放缓脚步，更加警惕地搜索着VSK94的踪迹。
-M870P(0)<Speaker>M870</Speaker>||:……
-()||<SE1>AVG_wind_grass</SE1>:……一阵清风拂过，捋下了几片落叶。+M870敏锐地转身，面向发出声响的方向。
-M870P(0)<Speaker>M870</Speaker>||:……什么嘛，吓我一跳。
-()||:在她稍微放松警惕的一瞬，侧面树上的杀气瞬间沸腾。
-()||<SE1>AVG_rifle_finalshot_3h</SE1>:M870举盾防护的同时，立刻朝着树上开枪。+VSK94见自己的袭击落空，也在同一时间闪身转移地点。+M870惊魂甫定，但还是嘴硬地呛了几句。
-M870P(0)<Speaker>M870</Speaker>||:喂喂喂，新人你也太狠了吧！怎么对我的袭击都是直奔要害的！+多少也是大哥我把你从一堆酒鬼里捞出——
-()||<SE1>AVG_rifle_finalshot_h</SE1>:又是一发来自枝杈深处的致命袭击。+M870险险擦过，HP条也被擦去了大半。+M870不敢再嘴硬，她翻身躲在树干后面，开始思考对策。
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>这样下去，肯定是我先输……</color>+<color=#A9A9A9>我得先打破现在的僵局，引诱她现身，再近距离攻击。</color>+<color=#A9A9A9>先卖惨弱化一下她的攻击欲，再假装认输，附和一下她的观点，不知道提那两个小破孩有没有用……</color>
-()||:M870假装疼得龇牙咧嘴地一阵挣扎，撞得树叶簌簌乱摇，VSK94果然没有朝这个方向开枪。
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>哼哼，第一步计划顺利。</color>
-()||:M870将枪扔出树后的隐蔽范围，开始大声求饶。
-M870P(0)<Speaker>M870</Speaker>||:呜啊——好痛啊！VSK94，别打我！+我不打了！你看，我把枪都扔出去了！
-()||:M870故意让手在VSK94的可攻击范围内出现。+VSK94没有开枪。
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>嘿嘿，果然，VSK94的心理活动规律已经被我掌握了！</color>+<color=#A9A9A9>接下来，我再——</color>
-()||:M870小心翼翼从树后伸出头……+一个黑洞洞的枪口正好抵在她的额头上。
-VSK(0)<Speaker>VSK94</Speaker>||:你输了。
-()||:VSK94冷冷地看着她，脚下死死踩着M870扔出来的枪。
-M870P(0)<Speaker>M870</Speaker>||:等等！怎么会这样？！
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:还不认输吗？那我就——
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:别别别！等一下，有话好说！+我知道，你是因为我不管那两个小家伙的事在跟我置气。+这样吧，我们一起回去找那两个小家伙怎么样？
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:……
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:你不也说了吗？仅靠两个人形是难以应付暗区里的危险的。
-M870P(0)<Speaker>M870</Speaker>||:如果只剩你一个人形的话，胜算更低了！我们俩的话多少还有些可能……
-VSK(0)<Speaker>VSK94</Speaker>||:你真的愿意？
-()||:抵在M870额头上的枪口稍微松开了些。
-M870P(0)<Speaker>M870</Speaker>||:当然啊！+我们快走吧，那两个小家伙要是真的进了暗区，我们越早找到她们越好！+再为这些没意义的争吵耽误的话，她们就——
-()<Speaker>系统</Speaker>||:x 7号助理警长被一名NPC杀死。+x 556号助理警长被一名NPC杀死。
-M870P(0)<Speaker>M870</Speaker>||:……
-VSK(0)<Speaker>VSK94</Speaker>||:……
-()||:M870感觉自己的额头快被VSK94的枪口戳烂了……
-M870P(0)<Speaker>M870</Speaker>||:你冷静一点……+那个……就算没有这两个小家伙了，我们也还可以找些其他的小朋友嘛……
-VSK(0)<Speaker>VSK94</Speaker>||:呵呵……
-()||:VSK94眼中燃起两簇火苗，M870恐慌的脸在其中熊熊燃烧。
-M870P(4)<Speaker>M870</Speaker>||:……+实在不行，我也可以做你的小朋友啊……
-VSK(0)<Speaker>VSK94</Speaker>||<SE1>AVG_weapon_reload</SE1>:……
-()||:M870知道自己的计划已经全面破灭，但她并不甘心就在这里停下。+M870燃尽所有的演技，扮出温驯纯良如小狗般的眼神望向VSK94，同时她的手悄悄伸向被VSK94踩在脚下的枪……
-VSK(0)<Speaker>VSK94</Speaker>||:我已经看穿你了，M870。
-()||:VSK94狠狠地踹开了M870的枪。+但她没想到，M870居然趁这个空隙向她扔出了手榴弹。
-M870P(0)<Speaker>M870</Speaker>||:嘿嘿♪大哥我可是深不可测的！
-VSK(0)<Speaker>VSK94</Speaker>||:……
-()||:M870灵活地向边上翻滚开。+VSK94见来不及躲闪，索性直接朝空中的手榴弹扑了上去，再顺势死死压住了M870。
-M870P(0)<Speaker>M870</Speaker>||:你、你要干什么？！
-()||<SE1>Explode</SE1>:砰——+爆炸的巨响惊飞了鸟群，也惊醒了正在公园门口的长椅上休眠的Vector。
-()<Speaker>系统</Speaker>||:x 曼哈顿分局警长击杀我真的不是人贩子。+x 曼哈顿分局警长被手榴弹炸死。
-Vector(0)<Speaker>Vector</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:唔……刚刚发生了什么？
-()||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:……格琳娜的直播间。
-()<Speaker>人形A</Speaker>||:可恶！！！我血本无归了！！！
-()<Speaker>人形B</Speaker>||:VSK！！！枉我这么看好你！！！
-()<Speaker>人形C</Speaker>||:哈哈哈哈哈哈……笑死我了！
-()<Speaker>人形D</Speaker>||:V宝放心冲！V5永相随！
-()||<BIN>294</BIN>:听着人形们的哭喊，格琳娜看着不断上涨的数字露出了满意的笑容。
-()<Speaker>格琳娜</Speaker>||:哈哈哈哈哈哈……想不到M870也有认怂的时候！
-()<Speaker>指挥官</Speaker>||:赛况越来越有意思了。
-()<Speaker>格琳娜</Speaker>||:来来来！让我们把注意力放在接下来的赛况上，还有好几只队伍呢！+不要为已经失去的钱财落泪，这只会让你错过接下来的发财机会！+买起来啊！说不定你买的下一支队伍就能让你翻身！！！
-()||<黑屏1>:指挥官看了看格琳娜眼中闪动的金光，悄悄将钱包捂得更紧了些。
+()||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>GF_Halloween_Wind_loop</SE1>:00:12AM. The "Hungry" icon on top of Vector's head has vanished. She slowly rises to her feet, and the only sound in her ears is the harsh whistling of the wind.
+Vector(0)<Speaker>Vector</Speaker>||:... +P...
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Agent.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<SE1>Stop_AVG_loop</SE1>:...Oh, it's you.
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>PP-90 has left the game. I am sorry for your loss, Agent.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:PP-90...
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Springfield's team passed through here just now.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<通讯框>||:Were they also headed toward the Dark Zone?
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Yes.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>All the surviving teams should be headed toward the Dark Zone now.</color>
+Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:Alright. I'll go meet R93 and the others at the train station, then.
+()||<黑屏2><BIN>55</BIN><Night><BGM>BGM_Empty</BGM>:...In Bryant Park, which is surrounded by tall buildings.
+M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Scene1</BGM>:(Pants heavily) +Did those cowards spend all their skill points on running speed just so they can flee?!
+VSK(0)<Speaker>VSK-94</Speaker>||:(Pants heavily)
+()||:In the throes of her anger, M870 grabs a couple of bystanders by their collars.
+M870P(0)<Speaker>M870</Speaker>||:Hey you, did any shifty-eyed Dolls pass through this place?
+()<Speaker>Passerby 1</Speaker>||:...
+()<Speaker>Passerby 2</Speaker>||:...
+()||:The two bystanders remain as they are and do not respond to M870.
+M870P(0)<Speaker>M870</Speaker>||:...Why are your goddamn eyes open if you can't see the Boss standing in front of you?
+()<Speaker>Passerby 1</Speaker>||:...
+M870P(0)<Speaker>M870</Speaker>||:Trying to be a tough guy?
+VSK(0)<Speaker>VSK-94</Speaker>||:Leave it, M870. You can't interact with these bystanders.
+()||:M870 savagely pastes several traffic tickets on the two bystanders.
+M870P(0)<Speaker>M870</Speaker>||:P7, ART556, you two go check over there and see if you can find any trace of them.
+()||:...
+M870P(0)<Speaker>M870</Speaker>||:P7? ART556?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:They didn't catch up with us...
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:That's why I HATE working with those vertically-challenged Dolls! +They always vanish during critical moments, either they fall into the sewers or get stuck in weird places...
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:We need to go back and find them.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:What are you, a helicopter parent hovering outside a daycare? +Relax, P7 and ART556 aren't kids. They can take care of themselves.
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:W-what do you mean by hovering around outside a daycare? +Anyway, I tried contacting them just now, but I couldn't get through. Their signals have been jammed.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Don't worry. A kidnapper's going to call and demand ransom soon.
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:...
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:I was just KIDDING. You know, to lighten the mood and all that? Don't go taking it so seriously. +They might have already entered the Dark Zone. Remember those system messages that kept coming up? +What was it, "Agents have entered the Dark Zone" and all that?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:Doesn't that make things worse? +They'll have a hard time dealing with the dangers of the Dark Zone by themselves.
+M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Correct. It will be very difficult for them to survive by themselves in the Dark Zone.</color>
+M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<通讯框>||:Oi! Don't suddenly butt in like that! Are you trying to scare me or what?!
+M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>My apologies, Agent.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>However, I would still advise you to go to their aid immediately.</color>
+M870P(0)<Speaker>M870</Speaker>||:Fine fine, you can shut up now.
+VSK(0)<Speaker>VSK-94</Speaker>||:We need to go to the Dark Zone right now.
+M870P(0)<Speaker>M870</Speaker>||:...Fine, I get it. Let's head over there.
+()||<黑点1>:After looking at VSK-94's eyes, M870 knows that she won't be easily swayed from her course, so she has no choice but to agree for now.
+()||<黑点2>:Vector ends up passing by Bryant Park on her way toward the Dark Zone. +A pair of Dolls are calmly taking stock of their supplies amidst the grim, silent atmosphere.
+Vector(0)<Speaker>Vector</Speaker>||:Those look like Griffin Tactical Dolls. +Did Griffin have such quiet people among them?
+()||:Vector makes sure her face is a smooth blank before heading towards the two Dolls...
+VSK(0)<Speaker>VSK-94</Speaker>||:Also, I have a suggestion, M870.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:What suggestion?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:The decision to arrest people should be made jointly.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:The team leader decides policy. Got a problem with that? You want to overthrow me?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:No, that was not my intention.
+VSK(0)<Speaker>VSK-94</Speaker>||:I simply feel that some of your decisions are impulsive.
+M870P(0)<Speaker>M870</Speaker>||:What? Me? Impulsive?
+()||:The sudden argument stops Vector in her tracks.
+Vector(0)<Speaker>Vector</Speaker>||:... +Just hearing that bit of their argument makes me want to roll my eyes so hard that I crash. +Forget it, I'm not a likable Doll, I shouldn't force myself to socialize.
+()||:Vector silently changes course and prepares to go around M870 and VSK-94.
+VSK(0)<Speaker>VSK-94</Speaker>||:I don't intend to make things difficult for you. +In the beginning, I had no objections to your fining AK-47 and the others for drunk driving.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Go on.
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:When you encountered Squad Springfield just now, they were simply collecting resources and they were very cooperative. +Yet you intimidated them with force and drove them to flee.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:They were running because they had guilty consciences!
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:While attempting to apprehend Squad Springfield, a lack of prior communication caused P7 and ART556 to be left behind. +We were low on manpower to begin with. Now it will be even harder for us to do our job.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Yadda yadda yadda, where do you get off lecturing me, anyway?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:This is not a lecture. I simply wish to avoid unnecessary losses.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:YOU'RE the newcomer, I'M the team leader! +Don't think I'll keep letting you have your way just because you're a newbie. +When in Rome, you jolly well do as the Romans do, and if you want to operate on M870's turf, you play by M870's rules. +If you want to keep hanging with me, you'd better respect my authority!
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:... +So you insist on enforcing justice with your previous methods?
+VSK(0)<Speaker>VSK-94</Speaker>||:It seems we have an irreconcilable difference in our interpretation of justice.
+()||:A stone flies at M870 from nowhere. Fortunately, she ducks in time, and no harm is done.
+M870P(0)<Speaker>M870</Speaker>||:Who did that? Who has the balls to assault an officer in broad daylight?! +You, that Doll over there! Was it you? +Yes, you, the one with the silver hair! Hold it right there!
+()||:Vector unconsciously comes to a halt.
+Vector(0)<Speaker>Vector</Speaker>||:<color=#A9A9A9>...Should I just run?</color>
+()||:While Vector is deciding what to do, M870 has already dragged VSK-94 up to her.
+M870P(0)<Speaker>M870</Speaker>||:State your username, suspect.
+Vector(0)<Speaker>Vector</Speaker>||:Tactical Doll Vector.
+M870P(0)<Speaker>M870</Speaker>||:Wait, seriously? What year is this, do Dolls actually use their real names as their usernames? +When Nagant goes surfing (online, that is) she picks all kinds of flowery nicknames for herself...
+Vector(0)<Speaker>Vector</Speaker>||:It's one thing to laugh at my username, but what was that in the brackets just now?
+VSK(0)<Speaker>VSK-94</Speaker>||:Don't mind her, she's the sort of Doll who lets her mouth run away with her.
+M870P(0)<Speaker>M870</Speaker>||:Says who?! I just heard it from somewhere.
+Vector(0)<Speaker>Vector</Speaker>||:Well, uh, I have something to do so I'll be off.
+()||:Vector is getting a headache from the exchange and can't wait to flee the scene.
+M870P(0)<Speaker>M870</Speaker>||:Wait!
+()||:M870 nimbly blocks Vector's path.
+M870P(0)<Speaker>M870</Speaker>||:There's something fishy about you!
+Vector(0)<Speaker>Vector</Speaker>||:...
+VSK(0)<Speaker>VSK-94</Speaker>||:What now?
+M870P(4)<Speaker>M870</Speaker>||:Just now, you said I was throwing out charges randomly, right? +I'm going to prove to you that my charging process is transparent and accurate...
+()||:M870 sizes Vector up.
+M870P(4)<Speaker>M870</Speaker>||:Answer my question, suspect!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:... +Are you talking to me?
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:Yes, you! "Tactical Doll Vector!" +Just now, while I was discussing case details with the rookie, you tried to assault an officer and sneak away, right?!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:Don't think the entire world revolves around you. I was simply passing by.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:I don't believe you! +Talk! What kind of evil scheme did you have in mind?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:...
+M870P(4);VSK(0)<Speaker>VSK-94</Speaker>||:Are you always this direct when questioning suspects?!
+M870P(4)<Speaker>M870</Speaker>;VSK(0)||:Don't butt in, rookie, I'm demonstrating proper procedure for you.
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:I am on a mission given by the Commander to win this game.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:What proof—
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:If you want proof, I will kill you right now so you can ask the Commander yourself.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:So you're trying to assault an officer again after attempting and failing to do so before?!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:If your definition of assaulting an officer includes simulating ways to kill you in my neural cloud, then yes, I am guilty of several thousand counts of assaulting an officer.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:Humph, you've got quite the mouth on you. +Wait a minute, are you the only one the Commander sent out for this?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:I have two other teammates. They aren't with me now. +Is there anything else, Officer?
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:Why aren't you traveling with them?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:I guess it's because I'm not likable.
+M870P(0)<Speaker>M870</Speaker>;Vector(0)||:Hahahaha, I like people who are straight to the point like you!
+M870P(4)<Speaker>M870</Speaker>||:<size=25>Too bad being unlikable isn't a crime...</size>
+VSK(0)<Speaker>VSK-94</Speaker>||:...
+M870P(4)<Speaker>M870</Speaker>||:(Coughs) So, where are you going now?
+Vector(0)<Speaker>Vector</Speaker>||:The Dark Zone.
+M870P(4)<Speaker>M870</Speaker>||:...
+()||:M870's questioning has stalled. +She frowns and studies Vector, trying to look for something she can use to pin a charge on her.
+Vector(0)<Speaker>Vector</Speaker>||:Can I go now?
+VSK(0)<Speaker>VSK-94</Speaker>||:Sorry for delaying you. You may leave.
+()||:M870 looks at VSK-94 in surprise. Open disdain and exasperation are written all over the rookie's face. +It suddenly occurs to M870, "If I don't do something about this now, I'll lose her."
+M870P(0)<Speaker>M870</Speaker>||:Hold it!
+()||:M870 blocks Vector once more.
+Vector(0)<Speaker>Vector</Speaker>||:... +Can you just get on with it already? +If you want to fight, then fight. I don't care if it's one-on-one or in a group.
+M870P(0)<Speaker>M870</Speaker>||:Humph, I know what you've done, Tactical Doll Vector! +You can try to hide it, but you can't deceive my eyes.
+Vector(0)<Speaker>Vector</Speaker>||:Pardon?
+()||:M870 glances at VSK-94 and sees a look of doubt in her eyes. +M870 knows that she's a step closer toward redeeming herself.
+M870P(0)<Speaker>M870</Speaker>||:Say no more. I know the answer already. +"Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth!"
+Vector(0)<Speaker>Vector</Speaker>||:...
+M870P(0)<Speaker>M870</Speaker>||:Also, "There can only be one truth!"
+Vector(0)<Speaker>Vector</Speaker>||:How long of an incantation do you need to activate your skill, anyway?
+M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_Empty</BGM>:And that is— +You are guilty of —
+M870P(0)<Speaker>M870</Speaker>||<震屏>:<size=50>ILLEGAL POSSESSION OF FIREARMS!!!</size>
+Vector(0)<Speaker>Vector</Speaker>||:...
+VSK(0)<Speaker>VSK-94</Speaker>||:...
+()||:...The air grows still.
+VSK(0)<Speaker>VSK-94</Speaker>||<BGM>m_avg_casual</BGM>:...+<size=50>ILLEGAL POSSESSION OF FIREARMS? DO YOU HAVE SODA WATER ON THE BRAIN?!</size>
+M870P(0)<Speaker>M870</Speaker>||:Hey, why are you shouting at me?! Whose side are you on, anyway?!
+VSK(0)<Speaker>VSK-94</Speaker>||:I have had it up to here with you.
+()||:VSK-94 slings her backpack over her shoulder and prepares to leave.
+M870P(0)<Speaker>M870</Speaker>||:Hey! Where are you going?
+VSK(0)<Speaker>VSK-94</Speaker>||:I'm going to save P7 and ART556.
+Vector(0)<Speaker>Vector</Speaker>||:...In that case, can I go now?
+M870P(0)<Speaker>M870</Speaker>||:I forbid you to leave!
+Vector(0)<Speaker>Vector</Speaker>||:Oh?
+VSK(0)<Speaker>VSK-94</Speaker>||:You're kidding, right? Do you think you can stop me?
+M870P(0)<Speaker>M870</Speaker>||:Humph, then be my guest! +Let's see if you can go without my permission!
+Vector(0)<Speaker>Vector</Speaker>||:Oh, so you're not talking to me... +Well, I'll be—
+()||:M870 tosses her backpack into Vector's arms.
+M870P(0)<Speaker>M870</Speaker>||:Come on, fight me! +The loser has to obey the winner, no questions asked! Do you have the guts for it?
+VSK(0)<Speaker>VSK-94</Speaker>||:My gut tells me you'll be weeping and begging for mercy.
+()||:VSK-94 takes off her backpack and hands it to Vector.
+Vector(0)<Speaker>Vector</Speaker>||:... +Look, I know I'm not that likable, but you don't have to do this, right?...
+()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:M870 strikes first and fires at VSK-94. +VSK-94 steps up onto a park bench and nimbly evades the attack. +After a perfect landing, she begins running deeper into the park...
+M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Battle1</BGM>:Trying to get away so you can kill me from range? Don't even think about it!
+()||<黑点1>:M870 immediately gives chase. +Vector sighs and sits down on the bench, still holding the heavy backpacks.
+()||<黑点2><BIN>1</BIN><Night>:Startled by the sudden sound of gunfire, the nearby birds all take to the skies, leaving behind nothing but a silent patch of trees. +VSK-94 has long since vanished, and there is no trace of her on the leaf-strewn paths. +M870 is keenly aware that the present circumstances are very unfavorable for her, so all she can do is slow down and carefully search for VSK-94's trail.
+M870P(0)<Speaker>M870</Speaker>||:...
+()||<SE1>AVG_wind_grass</SE1>:...A cool breeze blows, dislodging several leaves, which fall to the ground. +M870 turns sharply toward them.
+M870P(0)<Speaker>M870</Speaker>||:...What the hell, scared the crap out of me.
+()||:The moment she relaxes, there is a surge of killing intent from the branches of the tree opposite her.
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:M870 raises her shield to protect herself while also firing at the tree.+VSK-94 sees that her sneak attack has failed and promptly repositions herself.+Though she is briefly shocked, M870 recovers in short order and mutters a few words.
+M870P(0)<Speaker>M870</Speaker>||:You're being way too vicious, rookie! How come you're aiming straight for my vitals? +I mean, I DID save you from a pack of alcoholics—
+()||<SE1>AVG_rifle_finalshot_h</SE1>:Another lethal shot erupts from the depths of the branches. +Somehow, M870 survives it, but she loses a huge chunk of her HP. +M870 doesn't dare mouth off anymore. Instead, she rolls behind a nearby tree trunk and begins thinking about countermeasures.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>I'm going to lose at this rate...</color>+<color=#A9A9A9>I need to break this deadlock, bait her into showing herself, then attack at close range.</color>+<color=#A9A9A9>I'll start by feigning weakness to take the edge off her aggression, then fake a surrender and pretend to go with what she says. I wonder if those brats will come in handy...</color>
+()||:M870 squirms around, teeth clenched in feigned pain and knocking leaves off the trees she hits. As expected, VSK-94 doesn't press the attack.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>Hehe, step one is a success.</color>
+()||:M870 throws her gun out from behind the tree and begins wailing for mercy.
+M870P(0)<Speaker>M870</Speaker>||:(Squeals) It hurts! Don't hit me anymore, VSK-94! +I give up! See, I've thrown my gun away!
+()||:M870 deliberately exposes her hand to VSK-94's fire. +VSK-94 does not shoot.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>Hehe, I know how VSK-94's mind works now.</color>+<color=#A9A9A9>Next, I'm going to—</color>
+()||:M870 nervously sticks her head out from behind the tree... +A hollow gun muzzle is pressed against her forehead.
+VSK(0)<Speaker>VSK-94</Speaker>||:You lose.
+()||:VSK-94 glares coldly at her, one foot firmly planted on the gun M870 tossed out.
+M870P(0)<Speaker>M870</Speaker>||:Wait! How did things end up like this?!
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:Not going to give up? Then I'll—
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:No, no, don't! Wait, just listen to me! +I know, you're mad because I didn't care about those two. +How about this, why don't we go back together to look for them?
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:...
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:I mean, you said so too, right? A pair of Dolls are going to have a hard time dealing with the dangers of the Dark Zone.
+M870P(0)<Speaker>M870</Speaker>||:And if you were the only one left, your chances would be even worse! Now, if it were the two of us, then maybe...
+VSK(0)<Speaker>VSK-94</Speaker>||:Are you really willing to do that?
+()||:The gun barrel pressed against M870's forehead pulls away.
+M870P(0)<Speaker>M870</Speaker>||:Of course! +Come, let's go! If those two have really entered the Dark Zone, then the sooner we find them, the better! +If we keep getting delayed by pointless arguments, they'll—
+()<Speaker>System</Speaker>||:X Deputy No. 7 was killed by an NPC. +X Deputy No. 556 was killed by an NPC.
+M870P(0)<Speaker>M870</Speaker>||:...
+VSK(0)<Speaker>VSK-94</Speaker>||:...
+()||:VSK-94 shoves her gun barrel back into M870's forehead so hard she can practically poke right through it....
+M870P(0)<Speaker>M870</Speaker>||:Look, why don't you calm down a little... +Uh... Well, even without those two brats, we can find more little friends too, right...
+VSK(0)<Speaker>VSK-94</Speaker>||:Hehe...
+()||:A pair of flames suddenly blaze up in VSK-94's eyes, and M870's panicked face burns within them.
+M870P(4)<Speaker>M870</Speaker>||:... +And if that doesn't work out, maybe I could be your little friend...
+VSK(0)<Speaker>VSK-94</Speaker>||<SE1>AVG_weapon_reload</SE1>:...
+()||:M870 knows her scheme is in tatters, but she isn't content to just give up like that. +Drawing on the fullest extent of her acting skills, she flashes VSK-94 a pair of adorable puppy-dog eyes, while her hand secretly reaches for the gun under VSK-94's foot...
+VSK(0)<Speaker>VSK-94</Speaker>||:I already know what you're planning, M870.
+()||:VSK-94 savagely kicks M870's gun away. +However, she doesn't expect M870 to take the opportunity to throw a grenade at her.
+M870P(0)<Speaker>M870</Speaker>||:Heheh! ♪ You can't predict the Boss!
+VSK(0)<Speaker>VSK-94</Speaker>||:...
+()||:M870 nimbly rolls to the side. +VSK94 can't dodge in time, so she throws herself at the grenade that's heading her way, then proceeds to pin M870 beneath her.
+M870P(0)<Speaker>M870</Speaker>||:W-what are you doing?!
+()||<SE1>Explode</SE1>:BOOM— +The massive explosion startles more birds into flight, and it also awakens Vector, who has dozed off on a bench at the park entrance.
+()<Speaker>System</Speaker>||:X Manhattan Sheriff killed I'm Really Not A Kidnapper. +X Manhattan Sheriff died from an explosion.
+Vector(0)<Speaker>Vector</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:(Groans) What just happened?
+()||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:...In Kalina's streaming room.
+()<Speaker>Doll A</Speaker>||:Dammit!!! My bet's gone!!!
+()<Speaker>Doll B</Speaker>||:VSK!!! I had such high hopes for you!!!
+()<Speaker>Doll C</Speaker>||:Hahahahaha... Stop please, I'm dying here!
+()<Speaker>Doll D</Speaker>||:Just go V-baby! V5 forever!
+()||<BIN>294</BIN>:As she listens to the weeping and wailing of the Dolls, Kalina looks at the snowballing numbers and smiles in satisfaction.
+()<Speaker>Kalina</Speaker>||:Ahahahahaha... Who'd have thought there'd be a day when M870 would admit defeat!
+()<Speaker>Commander</Speaker>||:The tournament's getting more and more interesting.
+()<Speaker>Kalina</Speaker>||:Come one, come all! Let's not dwell on the past, there are still many teams left! +Don't weep for the money you lost, that'll just blind you to future opportunities to get rich! +So come, place your bets! Who knows, the next team you bet on might let you get everything back!!!
+()||<黑屏1>:The Commander looks at the golden gleam in Kalina's eyes and subconsciously tightens their grip on their wallet.

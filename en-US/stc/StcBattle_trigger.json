@@ -2840,6 +2840,30 @@
         "is_buff_type": 0
     },
     {
+        "id": 190301,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 4290,
+        "is_buff_type": 0
+    },
+    {
+        "id": 190401,
+        "type": 7,
+        "target": 1,
+        "parameter": "5",
+        "buff_id": 3300,
+        "is_buff_type": 0
+    },
+    {
+        "id": 190402,
+        "type": 6,
+        "target": 1,
+        "parameter": "5",
+        "buff_id": 3300,
+        "is_buff_type": 0
+    },
+    {
         "id": 200102,
         "type": 6,
         "target": 1,
@@ -3099,7 +3123,7 @@
         "id": 200428,
         "type": 8,
         "target": 1,
-        "parameter": "10043,10044,10045,10046,10047,10048,10049,10050",
+        "parameter": "10043,10044,10045,10046,10047,10048,10049,10050,10106,10108",
         "buff_id": 0,
         "is_buff_type": 0
     },
@@ -5760,6 +5784,70 @@
         "is_buff_type": 0
     },
     {
+        "id": 411401,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 4283,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411403,
+        "type": 2,
+        "target": 1,
+        "parameter": "30",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411407,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 4283,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411503,
+        "type": 18,
+        "target": 1,
+        "parameter": "1607",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411505,
+        "type": 2,
+        "target": 1,
+        "parameter": "70",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411506,
+        "type": 2,
+        "target": 1,
+        "parameter": "40",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411507,
+        "type": 2,
+        "target": 1,
+        "parameter": "10",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 411603,
+        "type": 2,
+        "target": 1,
+        "parameter": "50",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
         "id": 500001,
         "type": 6,
         "target": 1,
@@ -7859,7 +7947,7 @@
         "id": 801106,
         "type": 6,
         "target": 1,
-        "parameter": "5",
+        "parameter": "4",
         "buff_id": 712,
         "is_buff_type": 0
     },
@@ -12456,11 +12544,1195 @@
         "is_buff_type": 0
     },
     {
+        "id": 50113459,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3940,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113460,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3941,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113465,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3943,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113466,
+        "type": 6,
+        "target": 1,
+        "parameter": "3",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113467,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113468,
+        "type": 7,
+        "target": 1,
+        "parameter": "3",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113469,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113470,
+        "type": 7,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113471,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3944,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113472,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3945,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113473,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3952,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113474,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3955,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113475,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3972,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113476,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3972,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113477,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3971,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113478,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3971,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113479,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3984,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113480,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3984,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113481,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3985,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113482,
+        "type": 18,
+        "target": 1,
+        "parameter": "3719",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113483,
+        "type": 18,
+        "target": 1,
+        "parameter": "3723",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113484,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3976,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113485,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3976,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113486,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3977,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113487,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3978,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113488,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 397701,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113489,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3979,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113490,
+        "type": 18,
+        "target": 1,
+        "parameter": "3745",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113491,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3979,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113492,
+        "type": 18,
+        "target": 1,
+        "parameter": "3746",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113493,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3988,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113494,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3988,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113495,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3986,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113496,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3986,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113497,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3989,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113498,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3989,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113499,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3993,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113500,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3951,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113501,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 395101,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113502,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 395102,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113503,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3994,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113504,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3997,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113505,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3997,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113506,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 399501,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113507,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 399502,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113508,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 399502,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113509,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 399503,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113510,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710201,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113511,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710302,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113512,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710302,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113513,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 710303,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113514,
+        "type": 7,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 710303,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113515,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7106,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113516,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710804,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113517,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7108,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113518,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7110,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113519,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7110,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113520,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7107,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113521,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7107,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113522,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710804,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113523,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7106,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113524,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7112,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113525,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7114,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113526,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 711002,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113527,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 711003,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113536,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7125,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113537,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712501,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113538,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712502,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113539,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712503,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113540,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712504,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113541,
+        "type": 7,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 712504,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113542,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712504,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113543,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 712504,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113544,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712505,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113545,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7123,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113546,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712506,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113547,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712507,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113600,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7137,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113601,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7138,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113602,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 713901,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113603,
+        "type": 6,
+        "target": 1,
+        "parameter": "8",
+        "buff_id": 7143,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113604,
+        "type": 7,
+        "target": 1,
+        "parameter": "8",
+        "buff_id": 7143,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113605,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7139,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113606,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7142,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113607,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7140,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113608,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 714201,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113609,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7141,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113610,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 714202,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113611,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7146,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113612,
+        "type": 6,
+        "target": 1,
+        "parameter": "4",
+        "buff_id": 7147,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113613,
+        "type": 7,
+        "target": 1,
+        "parameter": "4",
+        "buff_id": 7147,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113614,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712508,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113615,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712506,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113616,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 712509,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113617,
+        "type": 7,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 712509,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113618,
+        "type": 18,
+        "target": 1,
+        "parameter": "3805",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113619,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712510,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113620,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712511,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113621,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712512,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113622,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712513,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113623,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 712514,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113624,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 3951,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113625,
+        "type": 6,
+        "target": 1,
+        "parameter": "3",
+        "buff_id": 3951,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113626,
+        "type": 6,
+        "target": 1,
+        "parameter": "2",
+        "buff_id": 395101,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113627,
+        "type": 6,
+        "target": 1,
+        "parameter": "3",
+        "buff_id": 395101,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113628,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 395103,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113629,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 395104,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113630,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7150,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113631,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715301,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113632,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715302,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113633,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7152,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113634,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7153,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113635,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7153,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113636,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7156,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113637,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7156,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113638,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715601,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113639,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715601,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113640,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7155,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113641,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 714301,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113642,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 500005,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113643,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 500006,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113644,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7158,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113645,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715801,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113646,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715901,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113647,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 715902,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113648,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7158,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113649,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3958,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113650,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 395801,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113651,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 1201,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113652,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7161,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113653,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7161,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113654,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7162,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113655,
+        "type": 6,
+        "target": 1,
+        "parameter": "4",
+        "buff_id": 712,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113656,
+        "type": 7,
+        "target": 1,
+        "parameter": "4",
+        "buff_id": 712,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113657,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7167,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113658,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7168,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113659,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7171,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113660,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7176,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113661,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 717603,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113662,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 717605,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113663,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7176,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113664,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 716301,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113665,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 716302,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113666,
+        "type": 18,
+        "target": 1,
+        "parameter": "383601",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113667,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 3994,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113668,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7179,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50113669,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 718301,
+        "is_buff_type": 0
+    },
+    {
         "id": 50114001,
         "type": 7,
         "target": 1,
         "parameter": "1",
         "buff_id": 1341,
+        "is_buff_type": 0
+    },
+    {
+        "id": 50213666,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 717005,
         "is_buff_type": 0
     },
     {
@@ -12548,6 +13820,78 @@
         "type": 18,
         "target": 2,
         "parameter": "1060",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113487,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 397801,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113528,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 711501,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113529,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 711501,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113530,
+        "type": 7,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 710806,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113531,
+        "type": 18,
+        "target": 1,
+        "parameter": "377709",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113532,
+        "type": 6,
+        "target": 1,
+        "parameter": "1",
+        "buff_id": 7123,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113533,
+        "type": 18,
+        "target": 1,
+        "parameter": "3782",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113534,
+        "type": 18,
+        "target": 1,
+        "parameter": "3783",
+        "buff_id": 0,
+        "is_buff_type": 0
+    },
+    {
+        "id": 51113535,
+        "type": 18,
+        "target": 1,
+        "parameter": "3784",
         "buff_id": 0,
         "is_buff_type": 0
     },

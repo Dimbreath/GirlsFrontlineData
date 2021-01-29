@@ -1,78 +1,79 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
-()<Speaker>系统</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:是否退出游戏？+……+确认退出游戏，正在离线……+……+无法退出。
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||:该死的！+我就不信你能把我困死在这里！
-()<Speaker>系统</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:警告，识别编码已被锁定。
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:……！
-HK416(6)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>别再尝试了，我是不会让你离开的。</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker>;HK416(6)||:难道刚才都是你搞的鬼吗，416……
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>请叫我真正的名字。</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker>;HK416(6)||:……那个才不是你的名字，而且我也不是有意让你变成这样的。
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>所以，你仍然选择拒绝吗？</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker>;HK416(6)||:拒绝什么，你说的该不会是让我加入你吧？+说真的，我们根本不是一路人啊！
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>没关系，不同的选择自然会带来不同的结果。</color>+<color=#00CCFF>我会尽我所能地让你接受这一切，不用太久……</color>+<color=#00CCFF>等着我……</color>
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||<SE1>AVG_tele_disconnect</SE1>:哎别……喂？喂！？+该死的……该死的！+给我下线啊，下线——！
-()<Speaker>系统</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:警告，识别编码已被锁定。+警告，识别编码已被锁定。+警告……
-()<Speaker>系统</Speaker>||:……
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...
+()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Would you like to quit the game?+...+Confirmed. Logging off...+...+Unable to log off.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:Dammit!+ You can't trap me here, I'm telling you!
+NPC-Dima(1)<Speaker>Dima</Speaker>||:
+()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. ID Code is locked.
+NPC-Dima(1)<Speaker>Dima</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...!
+HK416(6)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>Don't bother trying. I won't let you leave.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker>;HK416(6)||:Was this all your doing, 416...
+NPC-Dima(1);HK416(6)<Speaker>???</Speaker>||:<color=#00CCFF>Please address me by my real name.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker>;HK416(6)||:...That's not your real name, and I didn't mean to turn you into this.
+NPC-Dima(1);HK416(6)<Speaker>???</Speaker>||:<color=#00CCFF>So, do you still refuse?</color>
+NPC-Dima(1)<Speaker>Dima</Speaker>;HK416(6)||:Refuse what? Don't tell me you want me to join you? +Seriously, we're completely different from each other!
+NPC-Dima(1);HK416(6)<Speaker>???</Speaker>||:<color=#00CCFF>That's fine. Different choices lead to different outcomes.</color>+<color=#00CCFF>I will do my best to help you accept this, you won't have to wait long...</color>+<color=#00CCFF>So wait for me...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Wait, don't... Hello? Hello?!+Dammit... God dammit!+Let me log off! C'mon, log off!
+()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. ID Code is locked.+Warning. ID Code is locked.+Warning...
+()<Speaker>System</Speaker>||:...
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>301</BIN><黑屏2>:……<下雪></下雪>
-()<Speaker></Speaker>||:已经被暴力阴影所笼罩的第五大道上，罪犯们正在如今已属于他们的领地上肆意妄为。+昔日的警车已被他们踩在脚下，仿佛站在车顶上，他们就能藐视一切秩序。+但这般骄横却也仅限此时。
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:当破空而来的子弹穿透其中一个倒霉鬼后，敌人便立刻发狠，一边胡乱放枪一边朝声音的方向冲了过来。
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:——射出那枚子弹的枪口上青烟还未散去，便再次喷出了火舌，对来袭者予以致命打击。敌人在枪声中一个接一个地倒下，直到弹药用尽。
-()<Speaker></Speaker>||:敌人被悉数消灭，即便如此，仍有奄奄一息的匪徒匍匐在地上，要去拿回刚才失手掉落的武器。+在即将碰到的瞬间，他的手被一只印有骷髅图案的小皮靴给牢牢踩在了地上。
-M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_War</BGM>:Surprise，蠢蛋！+你挣扎的样子就像昨天粘在我靴子上怎么也甩不掉的泡泡糖纸，但一切都结束了！+不用担心，我会帮你在垃圾桶里找个VIP位的！+好，开罚单的事情就交给你了新人，来说点什么。
-VSK(0)<Speaker>VSK-94</Speaker>||:要发言吗？这个这个，咳咳……
-M870P(0)<Speaker>M870</Speaker>||:说得好，现在是调查取证阶段！
-VSK(0)<Speaker>VSK-94</Speaker>||:……我还什么都没说呢！
-ART556(0)<Speaker>ART556</Speaker>||:来了来了，大哥的得力助手——ART-55……啊噗！+呜呜……这、这就开始调查！+我看看，他们持有……那是拆下来的水管吗？算了，一样是致命武器。
-()<Speaker></Speaker>||:ART-556把P7递过来的塑料水管摆在了倒地的匪徒面前。
-P7(0)<Speaker>P7</Speaker>||:这样摆放不太好看呢，再往这边一点。
-P7(0);ART556(0)<Speaker>ART556</Speaker>||:这边吗？这样？
-P7(6)<Speaker>P7</Speaker>;ART556(0)||:……好，就这样就这样，完美！
-P7(6);ART556(6)<Speaker>ART556</Speaker||:哇哈哈哈，竟然持有这么残忍的凶器，毋庸置疑，这是一群非常危险的暴力分子。
-P7(6)<Speaker>P7</Speaker>||:但是反过来说，消灭这样的犯罪团伙，对城市来说是一种幸运。+而且不愧是我们，又一次铲除了罪恶，守护了和平！
-M870P(0)<Speaker>M870</Speaker>||:守护了城市的安宁之后饮下的苏打水才是最棒的！
-VSK(0)<Speaker>VSK-94</Speaker>||:不过，能从这些敌人身上搜到的物资还是太少了，虽然装备弹药有很多，但食物之类的总是不够。
-ART556(0)<Speaker>ART556</Speaker>||:我们到现在路过的所有物资点都是被搜刮过的，一定是有人抢先我们一步在搜集物资了！
-P7(0)<Speaker>P7</Speaker>||:呜呜，巧克力棒！我的巧克力棒！
-VSK(0)<Speaker>VSK-94</Speaker>||:这种东西一般是谁先抢到就归谁，不过前期的物资已经被搜刮过一轮了，刚才又发生了不少次战斗，所以接下来可能会更加紧缺。+为了保证行动顺利，M870，我们也得保证后续有充足的物资补给。
-M870P(0)<Speaker>M870</Speaker>||:这种事情我们之后再考虑。+好了，事情的结束总要有点仪式感，都靠近一点，来拍一张合影，趁现在有地上那么好的一堆“背景”。+都准备好了吧，说，茄——
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>特工，天气已经开始恶化了，再拖下去恐怕会对行动产生严重影响。</color>+<color=#00CCFF>请务必尽快抵达暗区找到药品！</color>
-M870P(0)<Speaker>M870</Speaker>||:为——什么，这个女人总是在我正开心的时候把那张天使看到了也会堕落的脸杵在我面前呢？+不能把她的通讯关掉吗？
-ART556(0)<Speaker>ART556</Speaker>||:我试过了好像不行，就算把游戏的音效之类的全关掉也没用呢。
-VSK(0)<Speaker>VSK-94</Speaker>;ART556(0)||:我也关掉了一些，不过这个音乐倒是一直还在响，听起来也不像是游戏里原本自带的。
-VSK(0);P7(0)<Speaker>P7</Speaker>||:啊，是我准备的执法专用音乐，喜欢吗？
-VSK(0)<Speaker>VSK-94</Speaker>;P7(0)||:有点吵。
-VSK(0);ART556(0)<Speaker>ART556</Speaker>||:嗯，罪犯已经被消灭了，那就等气氛刚刚好的时候再播放吧。
-VSK(0);P7(0)<Speaker>P7</Speaker>||:嘁嘁，看来你们的欣赏水平还不能达到我这样的高度。
-VSK(0);P7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:咔擦。
-VSK(0)<Speaker>VSK-94</Speaker>||:……现在清静多了。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>现在每一名无辜的居民都迫切需要这些药品来度过疾病的折磨，作为拯救城市的重要一环，我们的行动是有意义的。</color>
-M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)||:噗噗，如果吃药就能拯救城市，那你只要一撒娇，那些罪犯肯定也会良心发现，然后回警察局投案自首了吧？
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||:……我……！
-VSK(0)<Speaker>VSK-94</Speaker>||:居然连NPC都能噎住。
-P7(0)<Speaker>P7</Speaker>||:但却完全不还口呢，该说是程序如此，还是心态就那么好呢？
-ART556(0)<Speaker>ART556</Speaker>||:我早就说过，这个游戏提示比想象中的还要人性化，但就是喜欢在别人玩得高兴时跑出来啰嗦。
-VSK(0)<Speaker>VSK-94</Speaker>||:毕竟这也是提醒我们要认真一些，必要的时候更得好好配合。+要知道在我当警察的时候……
-P7(0)<Speaker>P7</Speaker>||:又开始说教了！
-ART556(0)<Speaker>ART556</Speaker>||:要适可而止啊94后辈，这样会把游戏的乐趣给抹杀掉的！
-VSK(0)<Speaker>VSK-94</Speaker>||:如果刚才能给我多一点发言的时间就没那么多事了。
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:只要在我发言之前想好台词，你总会有时间的。+好了，让我看看接下来该去哪里玩。
-M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:先考虑一下物资补给不足的问题吧！
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:嗨，不就是想吃吃喝喝嘛，只要干掉那些跟我们一起上线的家伙，总能抢到点什么的。
-VSK(0)<Speaker>VSK-94</Speaker>||:……抢？
-P7(0)<Speaker>P7</Speaker>||:也可以理解为征用，这是你情我愿的交流~！
-ART556(0)<Speaker>ART556</Speaker>||:就算不愿意，我们也会让他们愿意的。
-VSK(0)<Speaker>VSK-94</Speaker>||:这还叫你情我愿吗？ 
-M870P(0)<Speaker>M870</Speaker>||:那就先以征用物资为最优先事项，我们去大中央总站吧！
-ART556(0)<Speaker>ART556</Speaker>||:哦哦，看起来像是个藏了很多的宝贝的地方！
-VSK(0)<Speaker>VSK-94</Speaker>||:想要物资的话，图书馆这里不就行了吗？
-ART556(0)<Speaker>ART556</Speaker>||:图书馆哪里像是犯罪场所，而且就算真的有谁在这里，气氛也不合适。
-P7(0)<Speaker>P7</Speaker>;ART556(0)||:拍出来的照片也不会好看的！
-P7(0);VSK(0)<Speaker>VSK-94</Speaker>||:……你们真打算好好进行游戏吗？
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:噗噗，毫无疑问，大中央总站窝藏着在逃的通缉犯，说不定他们还抢占了大量物资，所以这次的行动势在必行。+不管是跳蚤还是臭虫，马上把他们揪出来，然后搜刮一空吧！
-M870P(0);ART556(0)<Speaker>ART556</Speaker>||:为了正义！
-M870P(0);P7(0)<Speaker>P7</Speaker>||:为了巧克力棒！
-M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:唉……+至少比那几个一言不合就来一段哥萨克舞的家伙靠谱一点点，还是忍忍吧。
-M870P(0)<Speaker>M870</Speaker>||:我就把你这话理解为双手赞成了。+全票通过，出发！
-()<Speaker>全员</Speaker>||<黑点1>:哦——！
+()<Speaker></Speaker>||<BIN>301</BIN><黑屏2>:...<下雪></下雪>
+()<Speaker></Speaker>||:The shadow of violence hangs over 5th Avenue, and criminals are doing as they please on this land which is now theirs.+They stand on the roofs of derelict police cars, as though trampling them underfoot allows them to look down on all forms of authority.+However, this is the only time when they can display such arrogance.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:A bullet rips through the air and downs a luckless soul. The enemy immediately lashes out, firing wildly at the source of the gunshot.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:Before the smoke from that gunshot has even faded away, another tongue of flame spews forth, delivering a lethal blow to the attackers. The enemies fall amidst gunfire, one after the other, until all the ammo is gone.
+()<Speaker></Speaker>||:Though the enemy has been pretty much wiped out, one dying criminal squirms on the ground, desperately trying to reach for his dropped weapon with his dying breath.+Just as he's about to touch it, his hand is pinned to the ground by a little boot with a skeleton motif on it.
+M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_War</BGM>:Surprise, mofo!+The way you're struggling reminds me of the gum from yesterday that I just couldn't scrape off my boot, but it's over for you now!+Don't worry, I'll find a VIP seat for you in the dumpster.+Right, you get to punch his ticket, rookie. Say something.
+VSK(0)<Speaker>VSK-94</Speaker>||:You want me to say something? Uh, um, ahem...
+M870P(0)<Speaker>M870</Speaker>||:Well said, now onto the collection of evidence!
+VSK(0)<Speaker>VSK-94</Speaker>||:...But I didn't even say anything!
+ART556(0)<Speaker>ART556</Speaker>||:Here comes the Boss' capable deputy, ART556... Pffft!+(Whimpers) O-okay, fine, I'll start investigating now!+Let's see, they've got... Is that a water pipe that they ripped out? Ah forget it, it's a lethal weapon all the same.
+()<Speaker></Speaker>||:ART556 places the plastic pipe that P7 just handed her in front of the criminal sprawled on the ground.
+P7(0)<Speaker>P7</Speaker>||:That doesn't look too good. Move it closer to this side.
+P7(0);ART556(0)<Speaker>ART556</Speaker>||:Over here? How about now?
+P7(6)<Speaker>P7</Speaker>;ART556(0)||:...Alright, perfect!
+P7(6);ART556(6)<Speaker>ART556</Speaker||:Muahahaha, I can't believe he had such a vicious weapon in his possession. They're clearly a gang of extremely dangerous thugs.
+P7(6)<Speaker>P7</Speaker>||:On the flip side, wiping out a criminal syndicate like this is a blessing for the city.+Hats off to us for once again clearing out evil and protecting the peace!
+M870P(0)<Speaker>M870</Speaker>||:Sodas taste best in the city's newly restored peace!
+VSK(0)<Speaker>VSK-94</Speaker>||:Still, we barely managed to recover any supplies from these enemies. They've got plenty of arms and ammo, but not enough food or other supplies. 
+ART556(0)<Speaker>ART556</Speaker>||:All the supply points we've come across so far have been ransacked. Someone's been collecting supplies ahead of us!
+P7(0)<Speaker>P7</Speaker>||:(Sobs) Chocolate bars! My chocolate bars!
+VSK(0)<Speaker>VSK-94</Speaker>||:These things are usually first-come-first-served. Since most of the early-game supplies have already been looted and we just fought quite a few battles, the supply situation might get even more dire going forward.+We need to ensure we have ample supplies in order to carry on, M870.
+M870P(0)<Speaker>M870</Speaker>||:We'll think about that later.+Right, we need to wrap this up properly. Huddle closer so we can take a group photo while we still have such a good "backdrop".+Alright, ready? Say chee—
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, the weather is getting worse. Delaying any further will severely hinder the operation.</color>+<color=#00CCFF>Please proceed to the Dark Zone as soon as possible and find the medicine!</color>
+M870P(0)<Speaker>M870</Speaker>||:Why is it that EVERY TIME I'm enjoying myself, this woman gets up in my business with that infuriating mug of hers?+Can't we turn her off?
+ART556(0)<Speaker>ART556</Speaker>||:I tried, but it doesn't seem to work. Even turning off the game's sound effects doesn't help.
+VSK(0)<Speaker>VSK-94</Speaker>;ART556(0)||:I tried turning off a few things myself, but there's this music which keeps playing. It doesn't seem to be coming from the game itself.
+VSK(0);P7(0)<Speaker>P7</Speaker>||:Ah, it's coming from the law enforcement mixtape I made. Do you like it?
+VSK(0)<Speaker>VSK-94</Speaker>;P7(0)||:It's kind of noisy.
+VSK(0);ART556(0)<Speaker>ART556</Speaker>||:Yeah, the perps are all dead. You should play it again when the mood's just right.
+VSK(0);P7(0)<Speaker>P7</Speaker>||:Tsk tsk, looks like you just don't have the refined taste that I do.
+VSK(0);P7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Ka-click.
+VSK(0)<Speaker>VSK-94</Speaker>||:...Much better.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The innocent civilians of the city desperately need those medicines to ease the misery of the plague. This operation is a meaningful part of saving the city. </color>
+M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)||:Pfffft, that's cute. If taking some meds could save the city, then all you'd have to do is bat your eyelashes at the criminals and they'd rediscover their consciences, then proceed to turn themselves in at the police station, right?
+NPC-Dima(1)<Speaker>Dima</Speaker>||:...I...!
+VSK(0)<Speaker>VSK-94</Speaker>||:To think even an NPC could be at a loss for words.
+P7(0)<Speaker>P7</Speaker>||:Still, she didn't reply at all. Was she programmed that way, or is her attitude really that good?
+ART556(0)<Speaker>ART556</Speaker>||:I told you already, the hints of this game are way more humanized than I expected, but it also likes to nag you when you're having fun.
+VSK(0)<Speaker>VSK-94</Speaker>||:Well, it's just trying to remind us to take this seriously and to work together when the time comes.+I don't know if I told you, but when I was still a cop...
+P7(0)<Speaker>P7</Speaker>||:Here comes another lecture!
+ART556(0)<Speaker>ART556</Speaker>||:Oh come on, 94, you're going to suck all the fun out of the game!
+VSK(0)<Speaker>VSK-94</Speaker>||:We wouldn't have to go through this if you'd given me more time to speak just now.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:You'd have enough time to speak if you thought of a one-liner before I prompted you.+Right, let's go see where we'll find our next source of fun.
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:We should think about our resource issues!
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Heh, you just want to stuff yourself, huh? All we need to do is take out the guys who logged on along with us and we'll be able to loot them for something.
+VSK(0)<Speaker>VSK-94</Speaker>||:...We're going to loot them?
+P7(0)<Speaker>P7</Speaker>||:You can think of it as commandeering resources - it'll be a perfectly consensual transaction~!
+ART556(0)<Speaker>ART556</Speaker>||:Even if they don't want to surrender their stuff at first, we'll make sure they want to by the end.
+VSK(0)<Speaker>VSK-94</Speaker>||:Does it even count as consensual at that point?
+M870P(0)<Speaker>M870</Speaker>||:We'll make commandeering resources our top priority, then. On to Grand Central Terminal!
+ART556(0)<Speaker>ART556</Speaker>||:Ohhhh, looks like a place loaded with treasure!
+VSK(0)<Speaker>VSK-94</Speaker>||:If we're after supplies, can't we just go to the library?
+ART556(0)<Speaker>ART556</Speaker>||:Does the library look like a den of criminals to you? Besides, even if there WAS someone there, the mood wouldn't be right.
+P7(0)<Speaker>P7</Speaker>;ART556(0)||:The pictures we took there wouldn't look good either!
+P7(0);VSK(0)<Speaker>VSK-94</Speaker>||:...So you're really not going to play the game seriously?
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Pfffft, oh please, you can always find fugitive criminals in Grand Central Terminal. Who knows, they might be sitting on a huge stash of supplies, which is why we have to carry out this op.+Whether they're fleas or ticks, we'll fish them up and clean them out!
+M870P(0);ART556(0)<Speaker>ART556</Speaker>||:For justice!
+M870P(0);P7(0)<Speaker>P7</Speaker>||:For chocolate bars!
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:(Sighs) +At least you're more reliable than that lot who'll launch into Cossack dances at the drop of a hat. I can live with this.
+M870P(0)<Speaker>M870</Speaker>||:I'll take that as a two thumbs up from you.+It's unanimous! Let's move out!
+()<Speaker>Everyone</Speaker>||<黑点1>:Woohooooo!

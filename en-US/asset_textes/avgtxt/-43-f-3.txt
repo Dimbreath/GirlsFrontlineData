@@ -1,180 +1,180 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>299</BIN><黑屏2><BGM>BGM_Room</BGM>:……+莱辛顿大道+对R93小队骚扰计划失败后。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:没想到会是这么个结局。+不仅没对人家造成什么实质性的伤害。+还把9给赔上了，干脆点放弃吧。
-HK416Mod(0)<Speaker>HK416</Speaker>||:我也这么想，不如说你结论得出地太晚了点。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:不干脆不行啊。+这家伙的运气真是太离谱了。
-HK416Mod(0)<Speaker>HK416</Speaker>||:居然给我装作没听见……+难道你羡慕人家吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:一点都不。+如果身体开始习惯依赖运气去作战。+那这个人形作为军人的生命就已经终结了。+趁早返厂或者改民用吧。
-HK416Mod(0)<Speaker>HK416</Speaker>||:毕竟运气总是会到头的……+虽然看样子，不是在今天。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:没想到9会以这种方式阵亡。+都不知道这种死法跟G11比起来哪个更滑稽了。
-HK416Mod(0)<Speaker>HK416</Speaker>||:只剩下我们两个了。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:……
-HK416Mod(0)<Speaker>HK416</Speaker>||:……怎么了？你有什么不满吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:不不，不如说感激涕零呢。+你是最派得上用场的那个。
-HK416Mod(0)<Speaker>HK416</Speaker>||:谢谢你的高评价。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<size=25>不管是哪方面的用场都是呢。</size>
-HK416Mod(0)<Speaker>HK416</Speaker>||:什么？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:没什么。+我放弃了，让她们自生自灭吧。+时间差不多了，按那个NPC的说法，我们现在该进暗区了。+走吧。
-HK416Mod(0)<Speaker>HK416</Speaker>||:放弃地这么干脆……也是吧，这就是你的风格。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:这种风格救过我们的命，无数次。+我从来不会做些得不偿失的事情。
-HK416Mod(0)<Speaker>HK416</Speaker>||:呵呵。
-()||:在两人说话的间隙，416忽然注意到R93出现在了街道的中央。+K5急急忙忙地赶到她身边，两人叽叽喳喳地不知在说些什么。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:哇哦，人又突然出现了，这样都可以吗？
-HK416Mod(0)<Speaker>HK416</Speaker>||:就这么避开了奇袭，这家伙真好运。+……等等，你看。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:嗯？
-()||<黑点1>:UMP45稍稍向掩体外探了探身子，目光投向似乎遭遇了麻烦的幸运二人组。
-()||<黑点2>:……
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:呜哇……刚刚真的吓死我了，我还以为发生了什么灵异事件。
-K5(0)<Speaker>K5</Speaker>||:哈哈，看看你这狼狈的样子。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:你还笑！我都以为自己要交代在这里了。
-K5(0)<Speaker>K5</Speaker>||:别那么紧张，最终还不是有惊无险？+至少敌人撤退了，我们安全了！+是吧？蒂玛小姐？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>请特工时刻保持冷静。</color>+<color=#00CCFF>良好的心态是赢取胜利的方针。</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:站着说话不腰疼……算了，我刚才好像还听见爆炸的声音，发生什么了？
-K5(0)<Speaker>K5</Speaker>||:我也不太清楚，你要去调查一下吗？
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:免了，我一点都不想再被卷进麻烦事里。+还是赶紧去和Vivi汇合吧。+待会去晚了还要被她念。
-K5(0)<Speaker>K5</Speaker>||:说的也是。+我跟她联系一下吧。+Vivi……Vivi！听到请回答！+你那边怎么样了？
-Vector(0)<Speaker>Vector</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>这里是Vector，那个家伙逃走了，你们呢？</color>
-K5(0)<Speaker>K5</Speaker>||:啊，我这边刚刚把R93给救出来。+你绝对你绝对想不到她刚才狼狈的样子有多搞笑！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:闭嘴！我今天已经够倒霉了！
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>看来你们都没事，真是太好了。</color>+<color=#00CCFF>你们刚才不是遇到袭击了吗？敌人呢？</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:她们早走了，在那之前她们死掉了一个同伴，大概是因为这个所以撤退了。
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>这样……对面也是格里芬人形吗？</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:还没来得及看到就中了干扰弹……抱歉。
-K5(0)<Speaker>K5</Speaker>||:我我我！我看到了！+刚刚追我的那个敌人没在格里芬见过，但她银白色的长发和若草色的眼睛让人印象深刻！
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>银白色头发和若草色眼睛……？</color>
-K5(0)<Speaker>K5</Speaker>||:有哪里不对劲吗？
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>……</color>+<color=#00CCFF>我们应该碰上了同一个对手，但有点奇怪……她竟然能在这么短的时间里出现在两个地方……</color>+<color=#00CCFF>我马上就到你们那边了，千万要小心。</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:放心吧，至少现在已经不会有人再来……
-K5(0)<Speaker>K5</Speaker>||<BGM>BGM_Empty</BGM>:……R93。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:怎么了？我正在跟Vivi说话欸。
-K5(0)<Speaker>K5</Speaker>||:……你看那边。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:……嗯！？
-()||:顺着K5所指的方向，R93将目光投向了前方。+一个熟悉又陌生的人影不知何时，已然悄悄地接近了她们。
-Vector(6)<Speaker>Vector？</Speaker>||<BGM>GF_The_Division_Ola_Strandh_Ferro</BGM>:……
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:什！？
-()||<SE1>AVG_rifle_finalshot_h</SE1>:呯——
-K5(0)<Speaker>K5</Speaker>||:R93——！！！
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:诶！？
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>这枪声，又是那个家伙吗！？</color>
-K5(0)<Speaker>K5</Speaker>||:等等，让我看一下……+诶，那……那个是……哇！
-()||:不知不觉中，随着Vector？的现身，两人所在的位置已经被蚁群般的叛变特工逐渐包围。
-Vector(6)<Speaker>Vector？</Speaker>||:干掉她们。
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:V、Vivi！
-()||<SE1>AVG_rifle_finalshot_h</SE1><黑点1>:呯——
+()||<BIN>299</BIN><黑屏2><BGM>BGM_Room</BGM>:... +Lexington Avenue. +After the plan to harass R93's team has failed.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I didn't expect things to go this way. +Not only did we not do any real damage to them... +We even ended up losing 9 too. We might as well give up.
+HK416Mod(0)<Speaker>416</Speaker>||:I agree. Or rather, you came to that conclusion too late.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, we have to be realistic about it. +Their luck is just ridiculous.
+HK416Mod(0)<Speaker>416</Speaker>||:And now you're pretending you didn't hear me... +Are you envious of them?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Not in the least. +If you start to rely on luck in battle... +Then your career as a soldier is over. +Might as well go back to the factory or convert yourself for civilian use.
+HK416Mod(0)<Speaker>416</Speaker>||:After all, everyone's luck runs out eventually... +Though in their case, it probably won't be today.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I didn't think 9 would die that way. +I wonder whose death was funnier, hers or Gr G11's.
+HK416Mod(0)<Speaker>416</Speaker>||:Well, it's just the two of us now.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...
+HK416Mod(0)<Speaker>416</Speaker>||:...What? Got a problem with that?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Quite the contrary - I'm practically weeping tears of joy. +You're the most useful one of them all.
+HK416Mod(0)<Speaker>416</Speaker>||:Why, how generous of you.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<size=25>Oh, you're going to come in useful, alright.</size>
+HK416Mod(0)<Speaker>416</Speaker>||:What?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's nothing. +I'm done with this. They can sink or swim for all I care. +We don't have much time; according to that NPC, we ought to be entering the Dark Zone now. +Let's go.
+HK416Mod(0)<Speaker>416</Speaker>||:You're giving up so easily...? Well, I suppose that IS your style.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's saved your lives countless times. +I'm not a fan of doing something for nothing, you know.
+HK416Mod(0)<Speaker>416</Speaker>||:Haha.
+()||:As the two carry on their conversation, 416 suddenly notices that R93 is now in the middle of the street. +K5 runs over to her and they start chattering about something.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Wow, she appeared again. How does that even work?
+HK416Mod(0)<Speaker>416</Speaker>||:And she avoided an ambush, just like that. Lucky her. +...Wait a minute, look over there.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hm?
+()||<黑点1>:45 pokes her head out from behind cover, looking in the direction of the annoyingly lucky pair.
+()||<黑点2>:...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Holy... That scared the crap out of me just now. I thought it was some kind of paranormal phenomenon.
+K5(0)<Speaker>K5</Speaker>||:Haha, you looked so lame.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Hey! You think this is funny? I thought that was the end for me!
+K5(0)<Speaker>K5</Speaker>||:Relax. It turned out alright in the end, didn't it? +At least the enemy's been repelled and we're safe! +Aren't we, Miss Dima?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Please retain your composure at all times, Agents.</color>+<color=#00CCFF>A cool head is the key to victory.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:She's talking like it isn't any of her business... Forget it. I think I just heard an explosion. What happened?
+K5(0)<Speaker>K5</Speaker>||:I'm not too sure either. Want to go check it out?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Nah, I don't want to get caught up in troublesome stuff again. +Let's just move along and meet up with Vivi. +She'll nag us if we're late for the rendezvous.
+K5(0)<Speaker>K5</Speaker>||:True, that. +I'll contact her. +Vivi... Vivi! Do you read me? +How are things on your end?
+Vector(0)<Speaker>Vector</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Vector, the enemy got away. How about you?</color>
+K5(0)<Speaker>K5</Speaker>||:I just rescued R93. +You won't believe how pathetic she looked while being chased by the enemy, it was hilarious!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Shut up! I've had enough bad luck for one day!
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Thank goodness, it seems you're both alright.</color>+<color=#00CCFF>Were you attacked just now? Who was the enemy?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:They're long gone, probably because they lost one of their people.
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>I see... Was your opponent from Griffin too?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Sorry, I got flashbanged before I could see them...
+K5(0)<Speaker>K5</Speaker>||:I did I did! I saw her! +I've never seen the enemy who chased us in Griffin before, but her silvery hair and lime green eyes were very striking!</color>
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Silvery hair and lime green eyes...?</color>
+K5(0)<Speaker>K5</Speaker>||:Is something wrong?
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I think we encountered the same enemy, but it's strange... How did she appear in two different places within such a short time frame..?</color>+<color=#00CCFF>I'm heading over to you ASAP. Be careful.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Don't worry, at least there won't be anyone else coming...
+K5(0)<Speaker>K5</Speaker>||<BGM>BGM_Empty</BGM>:...R93.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What? I'm still talking to Vivi.
+K5(0)<Speaker>K5</Speaker>||:...Look over there.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:..Wha?!
+()||:R93 looks in the direction where K5 is pointing. +A familiar yet unfamiliar figure has snuck up to them.
+Vector(6)<Speaker>Vector?</Speaker>||<BGM>GF_The_Division_Ola_Strandh_Ferro</BGM>:...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What?!
+()||<SE1>AVG_rifle_finalshot_h</SE1>:Bang—
+K5(0)<Speaker>K5</Speaker>||:R93!!!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ehhh?!
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Those gunshots, is it her again?!</color>
+K5(0)<Speaker>K5</Speaker>||:Hang on, let me take a look...+Eh?! That...that's... Aaaahhhh!
+()||:As Vector(?) reveals herself, R93 and K5 suddenly realize that they have been surrounded by rogue agents.
+Vector(6)<Speaker>Vector?</Speaker>||:Kill them.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:V-Vivi!
+()||<SE1>AVG_rifle_finalshot_h</SE1><黑点1>:Bang—
 ()||<黑点2>:
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:她们在跟谁说话？+那是……Vector吗？
-HK416Mod(0)<Speaker>HK416</Speaker>||:看起来不太像……但是，确实是她。+她和那些游戏里的敌人混在一起。+我感觉不太对劲。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:是不太对劲，没准——
-()||<SE1>AVG_rifle_finalshot_h</SE1>:呯——
-()||:伴随着一声枪鸣，45的话语还没能说出口，不远处的战斗便已经打响。+R93和K5的好运如45所言，终于遇到了它们派不上用场的时候——几乎眨眼之间，她们两人就被叛变特工潮吞没在了废墟中的角落中。
-()<Speaker>系统</Speaker>||:x 地狱火 击杀了 欧鳇寿命极短+x 地狱火 击杀了 哲学馆妖精
-HK416Mod(0)<Speaker>HK416</Speaker>||:地、狱、火…！？+这，这是什么情况！？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>……情况很危险，特工。</color>+<color=#00CCFF>请迅速撤离现场。</color>+<color=#00CCFF>重复，请迅速撤离现场，特工！</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||:你知道是怎么回事吗？
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>敌人非常强大，特工。</color>+<color=#00CCFF>不要和她硬拼，趁她还没有注意到你们。</color>+<color=#00CCFF>立刻向暗区出发！</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:倒是个很现实的建议。+先不提那个奇奇怪怪的家伙吧，光是她周围那一大堆怪就够我们喝一壶了。+看来，就算是再好的运气也还是会到头啊。
-()||:45的语气变得有些飘忽，她看着416，目光游移着不知在想些什么。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……你的眼神怎么怪怪的。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:你的错觉吧。+或者是我太兴奋了？+有件事我很早之前就想试一次了，看样子今天说不定是我最有机会体验的时候。
-HK416Mod(0)<Speaker>HK416</Speaker>||:体验？+我说你——
-()<Speaker>ISAC</Speaker>||:警告，侦测到严重威胁靠近！
-()||<SE1>Explode</SE1>:轰——！+一声爆响打断了416的质问，爆炸的气浪将两人掀飞起来，在碎石之间滚动了数米才停下来。
-HK416Mod(0)<Speaker>HK416</Speaker>||:咳……咳！+怎，怎么回事？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:喂，快点站起来！
-()||:45的声音忽然变得有些着急，同时响起的枪声将416身前的黑影击倒。+不知何时，叛变特工们已经围拢了上来。+而在他们的簇拥当中，毫不掩饰压迫感的首领眼含轻蔑。
-Vector(6)<Speaker>地狱火</Speaker>||:找到你了……
-HK416Mod(0)<Speaker>HK416</Speaker>||:啧！被发现了！+见鬼……战力差也太大了吧。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:不光如此，下手也太狠辣了。+你真的确定这家伙是Vector吗？
-HK416Mod(0)<Speaker>HK416</Speaker>||:我现在不太确定了。+她的战术标准根本不是格里芬的规格。+而且你看她的样子，明显就很奇怪。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:说的是呢。+这样下去，能不能跑得掉都两说啊。+……对吧？
-HK416Mod(0)<Speaker>HK416</Speaker>||:…………你捏着震撼弹要干嘛？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:和你搭档的日子真的很愉快，416。+我想我会怀念这段时光的。
-HK416Mod(0)<Speaker>HK416</Speaker>||:你在鬼扯什——！？
-Vector(6)<Speaker>地狱火</Speaker>||:！！
-()||<SE1>Explode</SE1><震屏>:轰——！！
-()||<SE1>AVG_tinnitus_0</SE1>:嗡——嗡——
-()||:在震撼弹的作用下，强制的目眩BUFF从416的头上冒了出来，一时间，她完全丧失了接受周围环境反馈的能力。
-HK416Mod(0)<Speaker>HK416</Speaker>||:该死的！UMP45！你在干什么！
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:喔喔，气到喊全名啊？吓死我了。+我老早就想说说看这种坏蛋的台词了。+反正这只是游戏而已吧？别介意别介意。
-()||:在416被白噪音占据的耳中，45的声音渐行渐远。
-HK416Mod(0)<Speaker>HK416</Speaker>||:别开玩笑了！喂！给我回来！
-()||:嗡——
-Vector(6)<Speaker>地狱火</Speaker>||:……跑了一个吗？+无碍，今夜只有一个罪人将会流血。
-()||:等到视野恢复清明时，416的视野内已经只剩下地狱火及她的叛变特工们了。
-Vector(6)<Speaker>地狱火</Speaker>||:……制裁将至。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……说的什么鬼话！！+我可没装翻译插件！
-()||<SE1>Explode</SE1>:轰——！！！
-HK416Mod(0)<Speaker>HK416</Speaker>||:见鬼！！我不会放过你的！！混蛋45！！
-()||<SE2>Gunfight</SE2>:呯呯——！！
-()||:在目眩BUFF结束的瞬间，便意识到自己已经无法安全地自地狱火手中逃出的416，迅速地做出了迎战的决策。+尽管这并非是她最初的打算，但身为前职业精英作战人形的素养仍旧奠定着良好的基础。+她的反应非常迅速，在用枪膛拉出一条炫目的火线之后，眨眼间便与地狱火拉开了距离。
-HK416Mod(0)<Speaker>HK416</Speaker>||:果然不太对劲……这家伙不是Vector！+素体同型号的其他人？喂！你知道什么吗！
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>不要与她交战！</color>+<color=#00CCFF>重复！请迅速撤——</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||:净说些废话！逃得掉的话我当然逃了！
-()||<SE1>Explode</SE1>:轰！
-HK416Mod(0)<Speaker>HK416</Speaker>||:咕——啧！算了！+不是分心的时候，这人数也太夸张了吧！
-()||:幸运的是，因为原本所处的地位是在暗处观察的人，所以416对如何利用掩体拥有绝对的自信。+并且，还有一点更加幸运的是……+这款游戏不存在地形破坏机制，至少在一定程度上，有些看起来脆弱的掩体坚固的程度完全是无敌的。
-HK416Mod(0)<Speaker>HK416</Speaker>||:<color=#A9A9A9>换成现实这土墙早就倒了。</color>+<color=#A9A9A9>多亏它的存在，还能再跟他们绕一下！</color>
-()<Speaker>叛变特工</Speaker>||:！
-HK416Mod(0)<Speaker>HK416</Speaker>||:见鬼去吧！
-()||<SE2>Gunfight</SE2>:呯呯呯——！！
-()||:跟随在地狱火身边的叛变特工的水准并不算高，在416的眼中，几乎只是菜鸟的水准。+唯一值得她担忧的问题，只有对方的人数。
-Vector(6)<Speaker>地狱火</Speaker>||:……
-()||:疑似Vector的敌人尽管拥有不凡的机能，但显而易见的，她缺乏灵活的战术思维。+这一点让416更加心生怀疑。
-HK416Mod(0)<Speaker>HK416</Speaker>||:<color=#A9A9A9>那到底是什么东西……</color>+<color=#A9A9A9>为什么会是Vector的样子？</color>
-()||:仅凭手中的枪弹，要对抗数量这么庞大的敌人几乎是不可能的事情。+但想要逃跑也很困难，“Vector”咬的很死，她不可能轻轻松松就全身而退。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……这是？
-()||:在游击的过程中，416无意识地靠近到了R93小组两人的尸体前。+看到R93的尸体，416的脑海中猛然闪过不久之前刚刚发生的某件事。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……有了。+说不定行得通。
-()||:快速地检查了一下两人变成的光柱，416搜刮走了她需要的物品，便匆匆躲避着敌人的枪火又转移到了另一个掩体的后面，同时也不忘记在还击中缩减对手的数量。
-()||<SE1>AVG_footsteps_cave</SE1>:嗒——
-Vector(6)<Speaker>地狱火</Speaker>||<SE1>Stop_AVG_loop</SE1>:挣扎吧……+死兆星已经刻在你的命运里了。
-HK416Mod(0)<Speaker>HK416</Speaker>||:真抱歉——把命运摁在脚底就是我的座右铭啊！
-HK416Mod(0)<Speaker>HK416</Speaker>||:<color=#A9A9A9>只能赌一把了。</color>+<color=#A9A9A9>可别耍我啊——</color>
-()||<SE2>Gunfight</SE2>:呯呯——
-()||:金属弹壳敲击地面的清脆响声充斥着战场，416枪口的火舌陡然增速！
-Vector(6)<Speaker>地狱火</Speaker>||:……啧。
-()||:在416仿佛回光返照般的强火力下，叛变特工们的攻势竟短短地产生了停滞的空白。+尽管地狱火明显是这群敌军的领头人，但她看样子也完全没有下达指挥命令的打算。
-()||<BGM>BGM_Empty</BGM>:……
-()||:416倾泻的火力只维持了短短一瞬，只片刻间，吵闹的声音便静止了，废墟陷入了一片诡异的死寂之中。
-Vector(6)<Speaker>地狱火</Speaker>||<BGM>10254</BGM>:……前进。
-()||:在糟糕的天气原本就显得昏暗的视线下，在烟尘中辨认周围的环境变得越加困难。+这一点，对地狱火和其他的敌人来说也都是一样的。
-()||:寂静的沙地上，除却搜索方沙沙的脚步声之外，连呼吸的动静都不存在。
-()||:……很不对劲。
-Vector(6)<Speaker>地狱火</Speaker>||:……
-()||:地狱火停住了脚步，但她周围的叛变特工仍在向前搜索。+她抬起了头，冷峻的目光扫视着不远处的掩体群，最后，将视线定格在一段残垣上。
-()||:她端起了枪口，剩余的特工也仿佛得到了指令，不约而同地向着那里围拢——理所当然，他们都打开了瞄镜，是毫无松懈的战斗姿态。
-()||:——将军了。
-()||:——唰！
-Vector(6)<Speaker>地狱火</Speaker>||<BGM>BGM_Empty</BGM>:！
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_stage3</BGM>:别小瞧我——！！！
-()||<SE1>Explode</SE1>:轰——！全场都屏息而动时，一声爆雷在特工们的脚底突然炸开！+他们甚至没来得及捕捉到自身后猛然扑来的416的声音，爆炸便连续不断地接踵而至。
-()||<SE1>Explode</SE1><震屏>:轰！
-()||<SE1>Explode</SE1><震屏>:轰！！
-()||<SE1>Explode</SE1><震屏>:轰！！！
-()||:——是诡雷！
-Vector(7)<Speaker>地狱火</Speaker>||:……！
-()||:地狱火的目光就好像在问：为什么你会从背后出现？
-()||:铛！
-()||:而未等地狱火做出反应，也没有给出任何回答，416由下而上的刀锋直接在她的手臂上斩出一道狰狞伤口。
-HK416Mod(0)<Speaker>HK416</Speaker>||:要恨就去恨UMP45吧。
-()||:随即，冰冷的枪口便抵住了地狱火的眉心。
-Vector(7)<Speaker>地狱火</Speaker>||:……
-()||:地狱火看着气息不匀的416，即便已经处于这样的下风，她也依旧面不改色。+她的视线与416在半空中交汇，一股居高临下的俯视感仍旧存在于她的目光之中。+——尽管416完全不明白，她到底凭什么。
-()||:——唰！
-()||<SE1>AVG_rifle_finalshot_n</SE1>:——呯！
-()||:在地狱火抬起她手中狰狞的火枪前。+416的子弹毫不留情地穿透了她的头颅。
-()||<SE1>AVG_tele_disconnect</SE1>:呲……呲呲……
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Empty</BGM>:什——！？
-()||<BGM>BGM_Room</BGM>:然而，眼前的敌人却并没有如416预料的那样倒下。+地狱火的身体突然如同花了的录影带一般，出现了怪异的拉扯和扭曲。
-Vector(7)<Speaker>地狱火</Speaker>||:……+……恭喜你，HK416。+但血债……将会偿还。
-()||:呲——
-()||:一道刺目的强光亮起，416下意识地眨了下眼睛，再恢复视野时。+眼前的地狱火却消失不见了。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……怎么回事？
-()||:416警惕地查看着周围，心中的不安依然挥之不去。+但是，并没有地狱火再次反攻的迹象，她这才松了口气。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……还好R93遭遇的事情不是偶然，不然我真的不知道要怎么办了。
-()||:在416喘息的间隔里，剩余的敌人们逐渐又聚集了起来。+即便失去了头领，他们也没有宕机，很迅速地调转矛头朝向了416。
-HK416Mod(0)<Speaker>HK416</Speaker>||:啧……算了，先溜吧！
-()||:说着，她又蹙了一下眉头。
-HK416Mod(0)<Speaker>HK416</Speaker>||:到底是怎么回事……？+这家伙叫了我的名字？她认识我？+总觉得事情有哪里不对……
-()||:……
-HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏1>:……在这里也想不出答案。+先往前进吧。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Who are they talking to? +Is that... Vector?
+HK416Mod(0)<Speaker>416</Speaker>||:She looks a bit different...but it's definitely her. +She's with the in-game enemies. +Something feels wrong about this.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's definitely fishy. Who knows if—
+()||<SE1>AVG_rifle_finalshot_h</SE1>:Bang—
+()||:Before 45 can even finish, the nearby battle has kicked off with a gunshot. +Like 45 has foretold, R93 and K5's luck finally runs out — within a few seconds, they are swarmed by rogue agents in a corner of the abandoned city.
+()<Speaker>System</Speaker>||:X Hellfire has killed Good Luck Doesn't Last. +X Hellfire has killed Philosopher Fairy.
+HK416Mod(0)<Speaker>416</Speaker>||:Hell...fire?! +What the hell is going on?!
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>...The situation is extremely dangerous, Agents.</color>+<color=#00CCFF>Please leave the scene immediately.</color>+<color=#00CCFF>I repeat, Agents! Please leave the scene immediately!</color>
+HK416Mod(0)<Speaker>416</Speaker>||:Do you know what's going on?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>The enemy is extremely powerful, Agents.</color>+<color=#00CCFF>Do not clash with her. While she hasn't noticed you yet...</color>+<color=#00CCFF>Head to the Dark Zone right away!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:A very practical proposition.+Leaving that weirdo aside, that huge pack of mobs around her is enough to get rid of us. +Looks like no amount of luck would be enough to deal with them...
+()||:45's voice suddenly trails off. She looks at 416 with a shifty gaze. There's no telling what she has in mind.
+HK416Mod(0)<Speaker>416</Speaker>||:...What's with that weird look?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:You must be mistaken. +Or am I being too excited, perhaps? +There's something I've wanted to try for a long time now. Looks like I might just get to experience it today.
+HK416Mod(0)<Speaker>416</Speaker>||:Experience? +Look here—
+()<Speaker>ISAC</Speaker>||:Warning! Major threat approaching!
+()||<SE1>Explode</SE1>:Boom—! +416's question is interrupted by an explosion. The shockwave sweeps them up and sends them rolling several meters before coming to a halt amidst handfuls of loose gravel.
+HK416Mod(0)<Speaker>416</Speaker>||:(Coughs heavily) +W-what the hell was that?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hey! On your feet!
+()||:A note of panic creeps into 45's voice, and a gunshot brings down the shadowy figure behind 416. +Rogue agents have started surrounding them at some point. +Among them, their imposing leader looks at 45 and 416 with palpable disdain and menace.
+Vector(6)<Speaker>Hellfire</Speaker>||:Found you...
+HK416Mod(0)<Speaker>416</Speaker>||:Tsk! We've been spotted! +Gott verdammt... We're totally outclassed here.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Not just that, she's incredibly vicious too. +Are you sure this is Vector?
+HK416Mod(0)<Speaker>416</Speaker>||:Not anymore. +Her combat tactics aren't Griffin's style. +And look at her. Something's definitely off about her.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Good point. +At this rate, we might not even be able to escape. +...Right?
+HK416Mod(0)<Speaker>416</Speaker>||:...Why are you grabbing that stun grenade?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's been fun partnering with you, 416. +I think I'll treasure the time we spent together.
+HK416Mod(0)<Speaker>416</Speaker>||:What are you talking about?!
+Vector(6)<Speaker>Hellfire</Speaker>||:!!
+()||<SE1>Explode</SE1><震屏>:BOOM—!!
+()||<SE1>AVG_tinnitus_0</SE1>:Whum— whum—
+()||:The "immobilized" debuff icon appears over 416's head thanks to the stun grenade. For a moment, she has lost all ability to react to her surroundings.
+HK416Mod(0)<Speaker>416</Speaker>||:Scheiße! What the hell was that, UMP45!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Oho, mad enough to call me by my full name? +I've always wanted to say a villainous line like that. +Besides, it's just a game, right? Don't take it to heart.
+()||:As white noise fills 416's ears, 45's voice gradually fades away.
+HK416Mod(0)<Speaker>416</Speaker>||:Stop screwing around! Hey! Get back here!
+()||:Whum—
+Vector(6)<Speaker>Hellfire</Speaker>||:...So one of them escaped? +No matter. Only one sinner will bleed tonight.
+()||:By the time her vision is restored, all 416 can see are Hellfire and the rogue agents.
+Vector(6)<Speaker>Hellfire</Speaker>||:...Judgment is nigh.
+HK416Mod(0)<Speaker>416</Speaker>||:...What is this gibberish?! +I'm not fitted with translation software!
+()||<SE1>Explode</SE1>:BOOM!
+HK416Mod(0)<Speaker>416</Speaker>||:You've got to be kidding me!! Don't think I'll let this slide! 45, you bitch!!
+()||<SE2>Gunfight</SE2>:Bang bang—!
+()||:The moment the stun debuff wears off, 416 realizes that she won't be able to escape Hellfire unscathed and resolves to fight. +Though this was not her original decision, the old habits from when she was a professional elite Doll are deeply ingrained in her. +She reacts swiftly, dispensing a hail of blinding gunfire from her weapon's chamber, and in moments she has pulled away from Hellfire.
+HK416Mod(0)<Speaker>416</Speaker>||:I knew it... This isn't Vector! +Is she another Doll of the same model? +Hey! Do you know anything about this?!
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Do not engage!</color>+<color=#00CCFF>I repeat! Withdraw swiftly—</color>
+HK416Mod(0)<Speaker>416</Speaker>||:Cut the crap! I'd disengage if I could!
+()||<SE1>Explode</SE1>:Boom!
+HK416Mod(0)<Speaker>416</Speaker>||:(Grunts) Tsk! Forget it! +Now's not the time to be distracted, there's way too many of them here!
+()||:Fortunately, being accustomed to working from the shadows, 416 is highly proficient in the use of cover. +Besides, there's something else that works very much to her advantage... +This game doesn't have a terrain destruction system, so to some extent, what seems to be flimsy cover is actually completely invincible.
+HK416Mod(0)<Speaker>416</Speaker>||:<color=#A9A9A9>This wall would have gone down long ago if this were real life.</color>+<color=#A9A9A9>Fortunately, I can play some hide-and-seek with them thanks to it!</color>
+()<Speaker>Rogue Agent</Speaker>||:!
+HK416Mod(0)<Speaker>416</Speaker>||:Go to hell!
+()||<SE2>Gunfight</SE2>:Bangbangbang—!!
+()||:The rogue agents around Hellfire aren't very skilled, and to 416 they are nothing but amateurs. +The only thing about them that worries her is their numbers.
+Vector(6)<Speaker>Hellfire</Speaker>||:...
+()||:The enemy that resembles Vector has extraordinary abilities, but it's obvious that she lacks the ability to think tactically and on the fly. +This greatly puzzles 416.
+HK416Mod(0)<Speaker>416</Speaker>||:<color=#A9A9A9>What the hell is that...?</color>+<color=#A9A9A9>Why does it look like Vector?</color>
+()||:It's practically impossible to face such numerous foes with the amount of ammunition she is carrying. +However, escaping also proves difficult. "Vector" is very persistent and 416 is finding it impossible to withdraw in one piece.
+HK416Mod(0)<Speaker>416</Speaker>||:...What's this?
+()||:As she runs to evade Vector's knock-off, 416 finds herself coming across the corpses of R93's two-man team. +As she sees R93's body, a memory of what happened not long before flashes through her mind.
+HK416Mod(0)<Speaker>416</Speaker>||:...I have it. +This just might work.
+()||:After checking the two pillars of light, 416 grabs the items she needs, then repositions herself behind another piece of cover, while also taking the chance to return fire in order to thin out the enemy's numbers.
+()||<SE1>AVG_footsteps_cave</SE1>:Step—
+Vector(6)<Speaker>Hellfire</Speaker>||<SE1>Stop_AVG_loop</SE1>:You're struggling in vain... +The star of death is engraved in your destiny.
+HK416Mod(0)<Speaker>416</Speaker>||:Sorry about that, but treading destiny underfoot is my motto!
+HK416Mod(0)<Speaker>416</Speaker>||:<color=#A9A9A9>I'll have to take a shot.</color>+<color=#A9A9A9>Don't screw with me now—</color>
+()||<SE2>Gunfight</SE2>:Bang bang—
+()||:The sound of brass casings tinkle crisply throughout the battlefield while 416's muzzle flashes more and more rapidly.
+Vector(6)<Speaker>Hellfire</Speaker>||:...Tsk.
+()||:The rogue agents' offensive actually falters for a moment under 416's ferocious counterattack. +Hellfire might be the leader of this enemy force, but she doesn't seem inclined to give any orders.
+()||<BGM>BGM_Empty</BGM>:...
+()||:416's torrent of firepower can only lasts for so long. For a moment, all noise is suspended. The abandoned city is shrouded in deathly silence.
+Vector(6)<Speaker>Hellfire</Speaker>||<BGM>10254</BGM>:...Advance.
+()||:Vision is already poor because of the bad weather, but it's even harder to discern the details of the environment amidst the dust and smoke. +Even Hellfire and the other enemies are susceptible to this impediment.
+()||:Apart from the footsteps of the searching forces, there is no sound, not even that of breathing, on this silent battlefield.
+()||:...Something is not quite right.
+Vector(6)<Speaker>Hellfire</Speaker>||:...
+()||:Hellfire stops moving, but the rogue agents around her continue forward. +She looks up, and her cold gaze sweeps the obstacles in the distance before it settles on a section of ruined wall.
+()||:She raises her gun, and the other agents, taking that as an instruction, all make a beeline for that location. Naturally, they are peering through their scopes, fully focused in their combat stance.
+()||:—Checkmate.
+()||:—Click!
+Vector(6)<Speaker>Hellfire</Speaker>||<BGM>BGM_Empty</BGM>:!
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_stage3</BGM>:Don't look down on me—!!!
+()||<SE1>Explode</SE1>:Boom—! +As the battlefield holds its breath, an explosion goes off under the feet of the rogue agents! +Before they even realize 416 is speaking from behind them, more explosions go off, one after the other.
+()||<SE1>Explode</SE1><震屏>:Boom!
+()||<SE1>Explode</SE1><震屏>:Boom!!
+()||<SE1>Explode</SE1><震屏>:BOOM!!!
+()||:—It's a booby trap!
+Vector(7)<Speaker>Hellfire</Speaker>||:...!
+()||:Hellfire's gaze seems to be asking, "How did you appear from behind me?"
+()||:Clang!
+()||:416 gives Hellfire neither an answer nor the chance to react. The blade of her knife slashes upward, carving a vicious wound onto Hellfire's arm.
+HK416Mod(0)<Speaker>416</Speaker>||:If you want to blame someone for this, blame 45.
+()||:With that, a cold gun muzzle is pressed against Hellfire's forehead.
+Vector(7)<Speaker>Hellfire</Speaker>||:...
+()||:Hellfire looks at 416, whose breathing is slightly erratic. Despite being so obviously overpowered, her expression remains unchanged. +She returns 416's gaze haughtily... +Though 416 can't fathom what justifies such insolence.
+()||:—Whoosh!
+()||<SE1>AVG_rifle_finalshot_n</SE1>:—Bang!
+()||:Before Hellfire can raise her savage-looking flamethrower... +416 has already ruthlessly put a bullet through her forehead.
+()||<SE1>AVG_tele_disconnect</SE1>:Pzzt... Pzzzzzt....
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:What—?!
+()||<BGM>BGM_Room</BGM>:However, 416's foe did not collapse like she expected. +Hellfire's body suddenly twists and warps like the image on a damaged videotape.
+Vector(7)<Speaker>Hellfire</Speaker>||:... +...Congratulations, 416. +But blood...will be paid in blood.
+()||:Pzzzzt—
+()||:A dazzling light flares. 416 instinctively closes her eyes, and by the time she can see again... +Hellfire is already gone.
+HK416Mod(0)<Speaker>416</Speaker>||:...What the hell?
+()||:416 carefully surveys her surroundings. Her sense of unease lingers. +It is only when she is certain that there is no sign of Hellfire pressing a counterattack that she finally relaxes.
+HK416Mod(0)<Speaker>416</Speaker>||:Good thing what happened to R93 wasn't a fluke. Otherwise I honestly have no idea what I could have done.
+()||:As 416 catches her breath, the remaining enemies start to gather again. +Even without their leader, they are still functional, and they soon redirect their attention to 416.
+HK416Mod(0)<Speaker>416</Speaker>||:Tsk... Never mind, time to split!
+()||:But then she frowns in confusion.
+HK416Mod(0)<Speaker>416</Speaker>||:Wait, what was that again? +She said my name, didn't she? Does she know me? +This whole situation is really fishy...
+()||:...
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:...Well, I won't be finding any answers here. +Let's move on.

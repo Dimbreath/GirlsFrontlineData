@@ -1,46 +1,46 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>80</BIN><黑屏2><BGM>BGM_Hello</BGM>:一周后，格里芬基地。+咖啡厅。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:请问有酒吗？
-DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>||:这里是健全的咖啡厅，不提供酒精饮品哦。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;M1903Cafe(0)<Position>0,150</Position>||:那就麻烦给我和指挥官两杯白咖啡。
-DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>||:好的。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:指挥官，你是不是早就知道杜莎妮的事了？
-指挥官()<Speaker>指挥官</Speaker>||:……<c>我调查过大多数在我这里工作的人形。<c>是不是呢？
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||<分支>1</分支>:那您真的看过很多东西了呢。+其中会有不该被看到的秘密吗？
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||<分支>2</分支>:我不讨厌打哑谜哦。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:看来您也知道我来到这里的原因了。+我就说怎么应聘这么顺利呢……
-DP12(0)<Speaker>指挥官</Speaker>||:你本身的实力和经验才是最重要的。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:我想也是。+我听说，杜……KSVK她的心智升级进行得很顺利。
-DP12(0)<Speaker>指挥官</Speaker>||:她来找我，说已经能正视过去的事情了。+“我会变成现在的我，正是因为我有背负过去的勇气和变强的决心。”+她这么说着就出发了。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:哈哈……您学得真像啊。的确是她会说的话，她也的确做到了。+她是个好孩子呢。
-DP12(0)<Speaker>指挥官</Speaker>||:我们之前的担忧白费了呢。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:也不算。我们拖延的一周很有用，不是吗？+要是我直接去找她说，她不会像现在这样立刻相信我的。
-DP12(0)<Speaker>指挥官</Speaker>||:真是坏心啊。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:经验之谈而已。+您知道的，我找到她许多次了……+她当时的素体是无法在残酷的社会坚持太久的。我救过她，却没法总是救到她。
-DP12(0)<Speaker>指挥官</Speaker>||:IOP的记录里说，被收购的时候素体破损很大，心智倒是完整的。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:她好好地保护了自己的记忆呢。
-DP12(0)<Speaker>指挥官</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:正因为那些事，她现在才能如此坚强。+我想你也可以稍微放心一点了，现在的她……
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||<BGM>BGM_Empty</BGM>:现在的我，已经与之前完全不同了。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||<BGM>BGM_Sunshine</BGM>:哇喔，这可真是个惊喜。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>;KSVK(7)||:要多来一杯咖啡吗？
-M1903Cafe(0)<Position>0,150</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:谢谢你，春田！给我一杯橙汁就好。
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>;KSVK(7)||:不必客气。
-KSVK(7)<Speaker>指挥官</Speaker>||:欢迎回来。
-KSVK(7)<Speaker>KSVK</Speaker>||:我回来了，指挥官，还有……DP12。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:嗯，欢迎回来。+你会用这样的外形出乎我的意料呢。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:我觉得还是这样的素体更适合我。+不忘过去，不畏将来。+我是KSVK，也是杜莎妮。我有同伴，有指挥官。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:这真是太好了。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:而且，我还有你，海伦娜。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:……突然这么说可真是够狡猾的。+我也是，有你和格里芬的各位，已经足够了。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:以及……我想拜托指挥官一件事。+请帮我保管这个。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>指挥官</Speaker>||:信？这年头很少有人还会寄纸质的信件了。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:是的，它对我来说很重要。+战斗时太容易让它也破损了，我希望能由您帮我保管。
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>指挥官</Speaker>||:好。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:打算回信吗？
-DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:有一位身在远方的家人，听起来也不错，不是吗？+现存的牵挂，应该好好抓住它。
-DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:我想她也会开心的。有一位孙女在为更新世界的锋芒而战，听起来很帅，是不是？
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>;KSVK(7)||:你们要的咖啡和橙汁。
-M1903Cafe(0);KSVK(7)<Speaker>KSVK</Speaker>||:这个是？
-M1903Cafe(0)<Speaker>春田</Speaker><Position>0,150</Position>;KSVK(7)||:是额外赠送的庆祝甜品——为庆祝KSVK归来而特别准备的哦。
-KSVK(7)<Speaker>KSVK</Speaker>||:谢谢你。+那么，敬我的同伴们，与过去和未来的一切——
-()<Speaker>众人</Speaker>||<黑屏1>:干杯！
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2><BGM>BGM_Hello</BGM>:A week later, at the Griffin base. +In the café.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:Do you serve alcohol?
+DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>||:This is a café, nothing more and nothing less, so no, I'm afraid we don't serve alcohol.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;M1903Cafe(0)<Position>0,150</Position>||:Then two flat whites for the Commander and me, please.
+DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>||:Sure.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:Commander, had you known about Dushevnaya all along?
+指挥官()<Speaker>Commander</Speaker>||:... <c>I have looked into the personal history of most Dolls under my command. <c>I wonder.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||<分支>1</分支>:Then you must've seen quite a few things. +Maybe even some secrets that aren't meant for anyone's eyes?
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||<分支>2</分支>:I quite like it when you talk in riddles.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:Then I suppose you already know why I'm here. +I did wonder why I was hired so readily...
+DP12(0)<Speaker>Commander</Speaker>||:Your capability and experience were what mattered at the end of the day.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:I guess so. +I hear that Du...KSVK's neural upgrade went very smoothly.
+DP12(0)<Speaker>Commander</Speaker>||:She came to me and said she could finally face up to the past. +"I am who I am because I have the courage to embrace the past and the determination to grow stronger." +Then she set off.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:Haha...that was a brilliant impression. That does sound like something she would say, and in the end, she did it. +What a good girl.
+DP12(0)<Speaker>Commander</Speaker>||:Our initial concern might have been unnecessary.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:Not exactly. It was wise to have delayed her application by a week, don't you think? +If I had just gone up to her and told her the truth, she wouldn't have believed me.
+DP12(0)<Speaker>Commander</Speaker>||:How devious of you.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:I'm just speaking from experience. +As you know, after she ran away, I found her many times... +She couldn't have lasted too long in this brutal world with that body of hers. I may have saved her once, but I'm not always there to do that.
+DP12(0)<Speaker>Commander</Speaker>||:According to IOP's records, when they acquired her, her body was severely damaged, but her neural cloud was fully intact.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>||:She did her best to keep her own memories safe.
+DP12(0)<Speaker>Commander</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:She managed to grow so strong all thanks to what happened in her past. +You don't have to be so worried anymore. Right now, she...
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||<BGM>BGM_Empty</BGM>:Right now, I'm a completely new Doll.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||<BGM>BGM_Sunshine</BGM>:Wow, that's a surprise.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>;KSVK(7)||:Another cup of coffee?
+M1903Cafe(0)<Position>0,150</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:Thanks, Springfield! Just an orange juice for me, please.
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>;KSVK(7)||:No problem.
+KSVK(7)<Speaker>Commander</Speaker>||:Welcome back.
+KSVK(7)<Speaker>KSVK</Speaker>||:Hello, Commander...and DP-12.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||:Yes, welcome back. +I didn't expect you to go with this appearance.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:I think this form suits me the best. +One should neither forget the past nor fear the future. +I am KSVK as well as Dushevnaya. I have my friends, and I have the Commander.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||:I'm so glad.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:I also have you, Helena.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||:...Gosh, at least warn me before you say something like that. +But the same goes for me. As long as I have you and everyone at Griffin, I'm content.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:By the way... I'd like to ask you for a favor, Commander. +Please keep this safe for me.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>Commander</Speaker>||:A letter? Very few would write paper letters these days.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:Yes, that's why it means the world to me. +It would get damaged in battle too easily, so I would like to leave it in your care for safekeeping.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>Commander</Speaker>||:Certainly.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||:Do you ever plan on writing a reply?
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:Isn't it nice to have family living elsewhere? +Such thoughts and sentiments should be treasured.
+DP12(0)<Speaker>DP-12</Speaker><Position>0,-100</Position>;KSVK(7)||:I'm sure she'd be very proud of you. Having a granddaughter who fights as the shining beacon in a brave new world sounds pretty impressive, don't you think?
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>;KSVK(7)||:Your coffees and orange juice.
+M1903Cafe(0);KSVK(7)<Speaker>KSVK</Speaker>||:What's this?
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,150</Position>;KSVK(7)||:An extra celebratory dessert on the house – specially prepared for KSVK's triumphant return.
+KSVK(7)<Speaker>KSVK</Speaker>||:Thank you. +Then to my friends, the past, and whatever the future may hold!
+()<Speaker>Everyone</Speaker>||<黑屏1>:Cheers!
