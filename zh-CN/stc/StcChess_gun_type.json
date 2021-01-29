@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "手枪",
+        "power": 5,
+        "range": 2,
+        "hp": 10,
+        "ap": 2,
+        "attack_times": 1,
+        "armor": 0,
+        "armor_piercing": 0,
+        "gun_type_skill": "201",
+        "attack_angle": 120
+    },
+    {
+        "id": 2,
+        "name": "冲锋枪",
+        "power": 5,
+        "range": 2,
+        "hp": 15,
+        "ap": 1,
+        "attack_times": 1,
+        "armor": 0,
+        "armor_piercing": 0,
+        "gun_type_skill": "204",
+        "attack_angle": 120
+    },
+    {
+        "id": 3,
+        "name": "步枪",
+        "power": 10,
+        "range": 3,
+        "hp": 10,
+        "ap": -1,
+        "attack_times": 1,
+        "armor": 0,
+        "armor_piercing": 0,
+        "gun_type_skill": "202",
+        "attack_angle": 120
+    },
+    {
+        "id": 4,
+        "name": "突击步枪",
+        "power": 8,
+        "range": 2,
+        "hp": 12,
+        "ap": 0,
+        "attack_times": 1,
+        "armor": 0,
+        "armor_piercing": 0,
+        "gun_type_skill": "203",
+        "attack_angle": 120
+    }
+]
