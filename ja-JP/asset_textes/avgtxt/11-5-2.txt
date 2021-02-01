@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Sneak</BGM><SE2>Gunfight</SE2>:バンバン！バンバン！+……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><黑点1>:これで少しは静かになったかな。+そして、ここもやはりただのメモリじゃなかったのね、この空間はさらに大きなデータベースと繋がっているわ。
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:ガシャーン……+……RO635は部屋の扉を開けた。+……！
+()<Speaker>？？</Speaker>||<黑屏1>:ここから先へは進めません。
+M1903(4)<Position>0,8000</Position>;RO635-NoArmor(0)<Speaker>RO635</Speaker><Position>-450,0</Position>||<BIN>22</BIN><黑屏2><Night>:新しい防壁か……さすがに、そう簡単には終わらせてくれなさそう。
+M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(0)||:…………
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:なんで……あなたが？
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:…………
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:あのメイドのメンタルのバックアップか……メモリーの最後のセキュリティにしては贅沢過ぎる。
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:ここへ来るのは、私の知っている者か、私の敵しかいません。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:結局戦わないとダメか……
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:でも、私はあなたを知っています。あなたは、敵ではありません。
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:…………+私は、もう一人の私を待つために、このデータベースにいます。+彼女はここにある記憶を取り出して……自分のやるべきことを果たすべきでした。+しかし、彼女はもう、ここへ来ることはありません。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:あの時のメンタルじゃないのか……機密漏洩を防ぐために、メンタルのデータを随時アップロードしないのは当然……+ってことは、これはただのバックアップ……？+では……メイドさん、あなたはどうやってわたしを知ったのですか？
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:私たちは、ご主人様の命令に従っているだけです。+これがご主人様の望んでいることならば、何が起きても私たちは後悔しません。+どうぞ……この情報は、あなたに託すよう命令されました。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:わたしに？……これは？
+NPC-Maid(0)<Speaker>メイド</Speaker>;RO635-NoArmor(4)||:あなたのお役に立てればいいと思っております。では、お引き取りください。ここから先は、あなたが踏み入るべきところではありません。
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||<震屏><白屏1>:あっ、待って、わたし――
+()<Speaker></Speaker>||<BIN>9</BIN><白屏2><黑屏1><BGM>BGM_Empty</BGM>:…………+……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM><Night>:RO？起きた？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(3)<Speaker>RO635</Speaker>||:あのメイドに追い出されたか……メモリーも壊れた……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(3)||<震屏>:追い出された？RO、メンタルに不具合とかない？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:ないわよ！あとメンタルコアは胸のあたりにあるから、変に頭を触るな！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:心配してるだけだよ。それでどう？何か手掛かりを見つけた？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:中にはあのメイドのメンタルのバックアップがいて、このデータを渡された……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:これは……起動コードと、何かの構造図？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:この部屋の構造図ね。ここ、一番下を見て。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:隠し通路！しかもずっとこの街の下水道までつながっている！
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:そう、そしてそのスイッチは多分、ここ……！
+()||:ROは部屋の角まで歩き、そこある盆栽の底を叩いてみると、一つの接続ポートが現れた。ROは自分から線を引き、そのポートに接続した。
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:起動コードも間違いないようね、これでいけるはず。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:わお！
+()||:設備を置いた机はゆっくりと動き出し、その後ろにギリギリ一人の人間が通れそうな入り口があった。
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<黑屏1>:ビンゴ。いよいよ目標に近づいてきたようね。

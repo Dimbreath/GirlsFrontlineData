@@ -1,0 +1,50 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+SOP2()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:ここは……どこなの？
+()||<黑屏2><BIN>72</BIN><BGM>BGM_Room</BGM>:何もない空間の中、SOP IIは周りを見渡す。
+RO635(0)<Speaker>RO635</Speaker>||:ここはどこかの大型データベースの中でしょう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:あれ？RO元に戻ってる？！+あっ……今はセカンダリレベルにいるんだっけ？
+SOPIIDamage(0);RO635(0)<Speaker>RO635</Speaker>||:そうよ、ペルシカさんにここへ送られた。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:うんうん、なんか思い出してきた……
+RO635(4)<Speaker>RO635</Speaker>||:でも何かやばい気がするよ、ここ……
+()||:……通信が入った。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>||:どうやらもう私のメンタルバンクに接続できたようね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:ペルシカさん、ここから何をすればいいのですか？
+SOPIIDamage(0);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:ROはここで新しい体を待ってて。+SOP IIは分離が完了すればすぐ戻れるわ。
+RO635(0)<Speaker>RO635</Speaker>;NPC-Persica(2)||:はぁ……今度は体すらないんですね。分かりました、それでもダイナーゲートの中よりは大分マシです……
+RO635(0);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:じゃ、そろそろお別れね。言いたいことがあるのなら今のうちに言っておいてね。+分離プログラム起動まであと5分だから、それから暫くは会えなくなるわ。
+RO635(0)<Speaker>RO635</Speaker>||:暫くって……どれぐらいですか？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||<通讯框>:それはあなたたち次第よ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:え？それはどういうこと――
+Weaver(1)<Speaker>？？？</Speaker>||:何の騒ぎかと思って来てみたら、まさかおぬしらだったとはな……
+RO635(0)<Speaker>RO635</Speaker>||:な……あ、あなたたちは……
+Weaver(1)<Speaker>ウロボロス</Speaker>||:AR小隊の虫けらども……+随分と……久しぶりだな。
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ハイハ～イ――あたしもいるよ、あたしも！
+RO635(4)<Speaker>RO635</Speaker>||:ちょっ！なによこの状況！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:なんで鉄血のバカがここにいるの！
+NPC-Persica(2)<Speaker>ペルシカ</Speaker><通讯框>||:色々と役に立ってもらうためにね。グリフィンが彼女らのメンタルモデルを渡してくれたの。+なので、今はちゃんと仲良くするのよ――
+RO635(5)<Speaker>RO635</Speaker>||:なっ！まって、これは何の冗談ですか！
+Weaver(1)<Speaker>ウロボロス</Speaker>||:フン……おぬし一人だけなら問題なかろう。+RO635、そのメンタルを引き裂いてやる！
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:ROをいじめさせたりしないよ！+引き裂かれるのはお前らの方だ！
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:誰も引き裂かれちゃダメよ、面倒くさくなるから。+さ、SOP II、そろそろROとさよならね。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:え？でもこの鉄血たちは……
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:大丈夫、メンタルバンクの中じゃ口喧嘩ぐらいしかできないでしょ。+それともROの実力じゃ心配なの？
+RO635(5)<Speaker>RO635</Speaker>;NPC-Persica(2)||:それは実力と関係ないことでしょう！+待って！ペルシカさん！そのまま行ってしまうのですか？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:RO……
+SOPIIDamage(2);NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:まぁ、ROを信じられなくても、私のことなら信じられるよね？+この中だとROは安全だから。保証するわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そ、そっか。+ペルシカさんがそう言うのなら……
+RO635(5)<Speaker>RO635</Speaker>||:え？なに？待って！置いてかないで！わたしを一人にしないで！
+Weaver(1)<Speaker>ウロボロス</Speaker>||:死ね！グリフィンのカスが！+おぬしも一緒に来い！アーキテクト！
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:ありゃ？まぁ……二対一なら負けないっしょ！
+RO635(4)<Speaker>RO635</Speaker>||:ま、待って！SOP II！+先にこいつらを何とか――
+RO635(5)<Speaker>RO635</Speaker>||:ああ！鉄血のクズが、こっち来るな――！！！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:先に行くね、RO。体が直ったらまた会いに来るよ！
+()||<BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:……+<color=#00CCFF>【システム】……データベースとの接続を中止します。</color>+<color=#00CCFF>【システム】……プライマリレベルに移行します。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BGM>BGM_Hello</BGM><BIN>22</BIN>:RO……なんか大変そう。
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:まだ他人を心配する余裕があるの？
+()||:そう言いながらペルシカは様々な機械をつるしてある移動式ハンガーラックを引っ張り出してきた。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:……ペルシカさん、これ、なんか危険なにおいがするよ？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:時間がないわ、早いところ始めるよ！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ペルシカさん……+これは本当に解体じゃなくて、アップグレードなの？
+NPC-Persica(2)<Speaker>ペルシカ</Speaker>||:アップグレードするためにはまず解体しないといけないでしょ？+安心して、ちゃんと処理するから痛くはないわ――
+NPC-Persica(2)<Speaker></Speaker>||:……ペルシカは危険そうな笑みを浮かべた。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:うぅ……なんか全然安心できない表情だよ……+今のペルシカさん、軍よりも怖い……+ああ……わたしはこれからどうなるの……？

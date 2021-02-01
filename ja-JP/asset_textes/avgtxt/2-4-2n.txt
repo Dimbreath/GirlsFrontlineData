@@ -1,0 +1,26 @@
+ ()||<BGM>BGM_War</BGM><BIN>4</BIN><Night><SE1>Battlefield</SE1>:……M9のいる臨時拠点では、鉄血に対する作戦が開始されていた。
+M9(0)<Speaker>M9</Speaker>||<SE2>Gunfight</SE2>:鉄血ボスのダミーを発見！//nM21、狙撃用意！
+M21(0)<Speaker>M21</Speaker><通讯框>||:はい笑って～鉄血のクズ共！
+M1911(0)<Speaker>M1911</Speaker><通讯框>||<SE2>Gunfight</SE2>:鉄血の機甲兵はまだ反応できていないわ。//nイングラム、今よ！
+MAC10(1)<Speaker>イングラム</Speaker><通讯框>||<SE1>Battlefield</SE1>:アーッハハハ！//n爆発しなさい、木っ端微塵に！このガラクタども！
+M1928A1(0)<Speaker>トンプソン</Speaker><通讯框>||:今だ、SuperSASS！司令室に攻め込め！+軍の方も司令室に向かっている。奴らにせっかくのチャンスを奪われるな！
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||<SE1>Battlefield</SE1>:了解、今向かっています！
+MAC10(1)<Speaker>イングラム</Speaker><通讯框>||<黑屏1><SE2>Gunfight</SE2>:アハハ！走って、SuperSASS！もっと早く！
+ ()||<黑屏2><SE1>Battlefield</SE1>:……鉄血の部隊が撤退を始める。
+M21(0)<Speaker>M21</Speaker><通讯框>||<SE2>Gunfight</SE2>:絶対に軍より先にたどり着いてよ。//nでないとあいつらの口封じをすることになっちゃうから。
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M21(0)||<SE1>Battlefield</SE1>:冗談はよして、M21。//n相手が人間だったらどうするの。
+M1911(0);MAC10(1)<Speaker>イングラム</Speaker><通讯框>||:フフッ、人間が銃器を作りだしたのは人間を相手にするためじゃないですか。
+M9(0)<Speaker>M9</Speaker><通讯框>;MAC10(1)||<SE2>Gunfight</SE2>:無視するなの、SuperSASS。+私たちは可愛い民生用人形なの、人間に会ったら可愛い子ぶってりゃいいなの！
+M9(0);SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:うーん、すいません、そういう訓練は受けていなくて。
+M21(0)<Speaker>M21</Speaker><通讯框>;SuperSASS(0)||:はぁ～今の新人は楽でいいよね。//n私のときはギャグ一つとっても試験があったのに。
+M21(0);MAC10(1)<Speaker>イングラム</Speaker><通讯框>||<SE1>Battlefield</SE1>:ハッ、じゃああなたはきっとトークショーで失敗して、それでグリフィンに来たんですね！
+M1911(0)<Speaker>M1911</Speaker><通讯框>;MAC10(1)||:仲間の出身を詮索しないの、イングラム。+今の私たちはみなグリフィンの一員なんだから。それが一番大事なことよ。
+M1911(0);SuperSASS(0)<通讯框><Speaker>Super SASS</Speaker>||<黑屏1>:SuperSASS、司令室を占領しました！繰り返します。SuperSASS、司令室を占領！
+M21(0)<Speaker>M21</Speaker><通讯框>||<黑屏2><BGM>BGM_Sunshine</BGM><BIN>4</BIN>:夜明けよ。私たちの勝利ね。
+M1928A1(0)<Speaker>トンプソン</Speaker><通讯框>||:1911、へリアンさんにボーナスをめいっぱい頼んどいてくれ。//n今回はさすがにくたくただ。
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:その前に～指揮官様に勝利のキスを差し上げないと♡
+M21(0)<Speaker>M21</Speaker><通讯框>||:今回の作戦は、やっぱり1911の勝ちかな？
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:そんな作戦じゃないでしょ？+そういえばM9は？もうオフラインになっちゃった？+M9？M9、いないの？
+MAC10(1)<Speaker>イングラム</Speaker><通讯框>||:遅かったですね、1911。M9ならもう司令室に飛んでいきましたよ。
+M1928A1(0)<Speaker>トンプソン</Speaker><通讯框>||<黑屏1>:アッハッハ、恩を仇で返されたか。//n助けてやるべきじゃなかったな。
+M1911()<Speaker>M1911</Speaker>||<黑屏2><BIN>9</BIN>:…………+グリフィンのメンバーは……まだまだ教育が足りないようね……

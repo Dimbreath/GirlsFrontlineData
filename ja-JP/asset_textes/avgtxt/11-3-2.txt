@@ -1,0 +1,73 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>72</BIN><黑屏2>:
+()||:……
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:さて、スパイゲームはもう終わりよ。
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:一人も逃がしはしない！
+()||:ザザッ――！
+NytoWhite(0)<Speaker>尾行者</Speaker>||:……？報告……こちらは……
+()||:パッ――！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:おやすみ。+今こいつらのメンタルを調べれば、或いはネイトたちに関する情報を――
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！終わった？早く起きて、あのメイドさんが逃げるよ！</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:なに？
+()||<BIN>84</BIN><黑屏2><Night>:……RO635はすぐにセカンダリレベルを離脱した。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>あのメイドさん急に走り出して、しかも本来のルートから外れていってるよ！</color>
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:気づいたのね……+尾行者の信号が全部消えたから、それに気づいて逃げ始めたんだわ。+クソ、こんなに反応が早いなんて！SOP II、追いつけそう？
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:<color=#00CCFF>問題ないよ。でもROもついてこないと、わたし話し合いに自信はないよ。</color>
+()||<黑点2><BIN>86</BIN><Night>:……同じ頃。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:……はやく。+もっとはやく――！+周りの尾行者の信号が全部消えた。+どういうことなのか分からないけど……+とにかく、今はチャンス。セーフハウスには戻れないけど、今すぐここから……
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||<SE1>Rope</SE1>:うっ――！
+()||:……メイドが角を曲がると、突然誰かに路地の中へ引き込まれた。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:つ～かまえた！
+NPC-Maid(0)<Speaker>メイド人形</Speaker><Shake>||:うっ！うっ！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:すみません、お嬢さん。彼女はこんな表情しかできないのです。+――SOP II、放してあげて。お嬢さんも慌てず、叫ばないように。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:（震えながら頷く）……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:この写真の人間を知っているか？
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:知ら……ないです……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:知らない振りをしても無駄だよ。あんたが何者なのかとっくに分かってるんだから。+それに、もしわたしたちがいなかったら、あんたはとっくに捕まってたよ。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:誰……ですか？私を、捕まえようしてる人がいるのですか？メイド人形のメンタル……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:あいつらはすぐ目を覚ますよ！一人で逃げ切れると思ってるの？
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:あの……何かの間違いなのでは……+私……本当に何も知らなくて……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:お嬢さん、奴らをハッキングした時にわたしはすべてを聞きました。+もしわたしたちが動かなかったら、あなたは今やつらに囲まれていたでしょう。+奴らは周りに被害を及ぼしてでもあなたを捕らえ、この人間の居所を探ろうとしているのです。+あなたとこの人間は今、とても危険な状況にあります。このまま知らない振りを続けてもいいですが、それならわたしたちもこれ以上あなたを守る理由はありません。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:……
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:<color=#A9A9A9>（目つきが変わった……）</color>
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:気を付けて――！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:！！
+()||<闪屏><duration>5</duration></闪屏>:
+()||:メイド人形の袖から突然刃物が飛びだし、ROに向かって飛びかかってきた。しかしSOP IIは直ちに反応し、メイドの腕を掴んで壁に抑えつけた。
+()||<震屏>:
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:きゃ！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:やっぱり、力の差はどんな改造を施しても補えないわね。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:民生用の人形じゃ16Labのお宝を使えないからね。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:放せ！放せっ！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:申し訳ないですけど、とりあえずこんな感じで話をしましょうか。これでもあなたを守っていますので。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:……守る？この街で私の出力を上回る人形なんていませんよ！+あなたたちみたいな訳の分からないバケモノが、私を守るですって？！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:もしわたしたちがあなたの敵だったら、もうとっくにあなたをどこかに連れ去っています。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:ならあなたたちが別の敵じゃない保証は？
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:わたしたちは悪い人じゃないですし、あなたを傷つけたりはしません。+わたしたちは民間軍事会社グリフィンの者です。この人間はわたしたちに、もう一人の重要な人物を探すための手掛かりを提供してくれるという情報がありましたので。+そして見たところ、あなたはこの人間のことを知っていますね？
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:グリフィン……？
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:グリフィンがどうしました？
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:確かに「グリフィン」という名前を聞いたことがあります。+それであなたたちが探している人間は……？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:アンジェ、アンジェリア。聞いたことありますか？
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:アンジェリア……もしアンジェを探している人たちが現れたら、その人たちは信用するよう命令を受けています。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:そう、それがわたしたちだよ！
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:でも、もしそれも嘘だとしたら？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:そんな嘘を吐いてまであなたに近づくぐらいなら、そのままハッキングして欲しい情報を得た方が早いかもしれません。+わたしたちがこうして話し合いを選んだのも、その……善意を示すためです。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:私を壁に抑えつけながらですか？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:メイドさん、もしあなたがわたしたちの欲しいものをくれるのなら、こちらもあなたに協力します……+今この写真の人間は、間違いなく危険な状況にいます。なので、彼のいまの正確な位置を知りたい。そうしなければ、彼の安全を保証できません。+これがわたしたちの指揮官の認証コードです。こちらとの接続を開放して、セカンダリレベルでわたしたちの身分を確認できるはずです。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:分かりました……とりあえずあなたたちのことを信じます。しかし今は時間がないので、確認のことは後にしましょう。+今の私に言えるのは、確かにこの写真の人は危険な状況に遭っているということです。ここからの脱出に協力してくれるのでしたら、彼を位置を教えてあげても構いません。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:それなら問題ありません。ただ万が一の状況に備えて、先に彼の位置を教えてほしいです。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||:そうですね……では教えますので、私を壁から放してくれませんか？この状態では話しにくいので。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP II、放してあげて。
+NPC-Maid(0)<Speaker>メイド人形</Speaker>||<BGM>BGM_Empty</BGM>:！！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM><震屏>:え！？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:あっ！！
+()||<SE1>RunStep</SE1>:SOP IIが手を離した瞬間、メイドは一気にROを蹴り退かして、遠くへと走り出した。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:クソ！さっきまで全部演技だったのか！SOP II、追いつけそう？
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:速すぎるよ！もし広場まで行かれたら間に合わない……いっそ撃ってみる？！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:ダメ……その危険を冒すわけにはいかない！
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:でも！……あれ？？？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:な……何があったの？
+RO635-NoArmor(0)||:
+()||:……+走っていたメイドの人形は突然何か見えない物に足を掬われたように、地面に倒れこみ何周も転がった。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:……+ちょっと……これ……
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||<黑屏1>:これは……嫌な予感がするわ……

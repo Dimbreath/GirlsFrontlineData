@@ -1,0 +1,27 @@
+()||<BIN>159</BIN><BGM>BGM_NightOPS</BGM><黑屏2>:……
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:スケア……クロウ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:あれれ、もう会わないんじゃなかったっけ？
+SOPIIDamage(0);BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||:<color=#00CCFF>……</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:……今さら取引に後悔したの？でももう遅いよ！
+SOPIIDamage(0);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>計算によると、君たちはもうすぐ鉄血のエリート拠点につくはずです。違いますか？</color>+<color=#00CCFF>むしろ、後悔すべきなのはそちらかと。</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:はっ、それでも軍とやり合うよりはマシでしょ。
+SOPIIDamage(0);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>君たちは、無様に死ぬだけです。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:……+だから？それでお祝いに来たわけ？
+SOPIIDamage(3);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>……地図を開きなさい。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||<黑屏1>:……なに？
+()||<BIN>10</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
+BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>このルートを通るのなら、わたしが鉄血エリート部隊の警戒範囲を教えてあげますわ。</color>+<color=#00CCFF>もしわたしたちと余計な衝突をしたくないのなら、よく考えてから動くことね。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:あんた……なに言ってるの？+てか、次はないなんて言ったのもあんたでしょ？
+SOPIIDamage(2);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>聴覚モジュールがまだ治っていないのかしら？//n分からなかったら仲間に聞き直してきなさい、同じことは二度言いませんわ。</color>+<color=#00CCFF>それと、今回のは別の話です。</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:別にあんたのためにやったわけじゃないんだからね！ちゃんと分かってる？
+SOPIIDamage(2);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>こちらも同じです。</color>
+()||:……スケアクロウは通信を切った。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ちょっとまっ――+もう、なんなのよ、あいつは……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:このルート、確かに私たちの司令部に向かっています。+指揮官がいなくても、誰かの人形や物資があるはずだと思います。そこで一旦態勢を整えられるんじゃないかと。+でも……本当に、信じていいの？+あの……つい数時間前で私たちを殺そうとした鉄血のボスを？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:信用はできないね、でも……他に選択肢もないの。
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II、あなたのことなら信じます。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:うん、そうね……+<color=#A9A9A9>（決断するのって面倒くさい……）</color>+<color=#A9A9A9>（M4は作戦をする度に、こんな思いをしてたの……？）</color>
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑点1>:ああああもういいよ！+罠だろうと何だろうと！わたしを騙したらあいつらのことはただじゃすまないんだから！+行こう、あの拠点に！みんな武器の確認をして、警戒を高めて！+エリート部隊の警戒範囲にも注意！わたしの命令なしで発砲しないように！
+()||<黑点2><黑点1>:<color=#fff775>鉄血の部隊を長押しすることで、警戒範囲を確認することができます。</color>+<color=#fff775>警戒範囲をうまく利用することで、一部鉄血との戦闘を回避することができます。</color>
+()||<黑点2><BIN>10</BIN>:

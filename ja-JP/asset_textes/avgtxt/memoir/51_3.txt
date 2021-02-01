@@ -1,0 +1,56 @@
+()||<BIN>98</BIN><SE1>Gunfight</SE1>:作戦中のグリフィン部隊。
+格里芬人形()<Speaker>グリフィン人形</Speaker>||<BIN>98</BIN><BGM>BGM_Sneak</BGM>:早く安全なところへ！ +気を付けて！ここ折れそうだよ！
+格里芬人形()<Speaker>グリフィン人形</Speaker>||<BIN>98</BIN>:修復は！どなたか快速修復キットを持ってませんか！？ +ダメです、ここの回路は完全にやられています……
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>98</BIN>:そんな……
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>98</BIN>:FNC、助けにいかないの？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>98</BIN>:……なんで私が？
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>98</BIN>:49はアナタを助けようとしてああなったのよ。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>98</BIN>:べ……別にお願いしたわけじゃないもん！
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>98</BIN>:普段あんな仕打ちを受けていながら、それでもアンタを護るために飛び出したのよ？ +普段のことは抜きにしても…… +純粋な感謝の気持ちで、命の恩人を助けるぐらいするものよ。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>98</BIN>:そ、そんなの、私の知ったことじゃないもん！
+FN57(0)<Speaker></Speaker>||<BIN>98</BIN><SE1>Runstep</SE1>:FNCは逃げていった。
+FN57(0)<Speaker>Five-seven</Speaker>||<BIN>98</BIN><黑屏1>0.6</黑屏1>:あーあ……それはさすがにひどすぎるわ、FNC。
+()||<BIN>82</BIN><黑屏2>:3日後。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>82</BIN><黑点1>:今日も49帰ってこないなあ…… +修復に時間がかかってるのかな…… +様子を聞いてみよう。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN><黑点2>:57！57いる？
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:FNC？珍しいのね。 +アタシに何か用かしら？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>8</BIN>:あ、あの……49はまだ……なの……？
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BGM>BGM_Empty</BGM><BIN>8</BIN>:49はね…… +以前負った大けがのせいで工場に戻され、一から作り直しになったわ。だから…… +そろそろ、新しい49に会えるんじゃないかしら。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>8</BIN>:え…… +ど、どういうこと！？
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:身体を張ってまでアンタを守ってくれた彼女はもういないってことよ。 +今度会う時は、また自己紹介から始めなきゃね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>8</BIN>:うそだ！うそだッッ！！ +人形のメンタルモデルはバックアップできるでしょ！知ってるんだから！！
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:ここへ来てからの数日間、彼女のメンタルモデルに記録されたのは不快な思い出ばかりよ。 +そんなもの、49が真面目にバックアップを取ってると思う？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN57(0)||<BIN>8</BIN>:……
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:アタシは用事でそろそろ出かけるわ。 +アンタはここに残って、49さんが来たら通してあげてね。
+FNFNC(0)<Speaker></Speaker>||<BIN>8</BIN>:57は立ち去った。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:どうしてこんなことに…… +49……うぅ……
+FNFNC(0)<Speaker>？？？</Speaker>||<BIN>8</BIN>:あのぅ……すみません……
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:あ…… +あなたは……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BGM>GF_Memorial</BGM><BIN>8</BIN>:FN49と申します……本日よりこちらに配属になりました。+ よろしくお願いします！+あなたは……？
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:私は……FNC…… +うう……ごめんなさい、ごめんなさい…… +49……ごめんなさい……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:ま、まってください…… +泣かないで……
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:今までからかったり……責任を押し付けたり…… +本当に……ごめんなさい……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:その、気にしないで下さい…… +私、昔のことを覚えていないのです。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:覚えてなくても……うぅ…… +私たち、また友達になることはできるかな？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:もちろんですよ、いつだって。
+FNFNC(0);FN49(0)<Speaker></Speaker>||<BIN>8</BIN>:FN49は手に持っていたくしを見せた。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:……え？ +これって……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:出会いの記念にって、くれましたよね？ +ごめんなさい、さっきまでのは冗談です。+実は私のメンタルモデル、全部の記録がちゃんと残っているのです。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:覚えてたんだ……よかった…… +そのくし、あの日私が捨てようとしていた安物だから……//n別に持っててくれなくてもよかったのに……
+FNFNC(0);FN57(0)<Speaker>Five-seven</Speaker>||<BIN>8</BIN>:感動の再会ってとこかしら？ +今度は仲良くやれそう？
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:うん！ +49……今度はちゃんといい友達になろうね！
+FNFNC(0)<Speaker></Speaker>||<BIN>8</BIN>:FNCは右手を差し出した。
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:けれど、その前に……
+FNFNC(0);FN49(0)<Speaker></Speaker>||<BIN>8</BIN><震屏>:パシンッ！+49は、くしでFNCの手のひらを思いっきりはたいた。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:いたっ！49……なんで叩くのさ！？
+FN57(0)<Speaker>Five-seven</Speaker>;FN49(0)||<BIN>8</BIN>:あれ、こんな展開、台本になかったわよね？
+FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:FNC、もちろん許してあげます…… +ですが、タダではありません！
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:49……
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:私にもちゃんと感情はあります。 +ですので、いじめられたり誤解されたりすると、私だって悲しんだり怒ったりしますよ！ +悔しく思ったり、イライラすることもあるのです…… +ただからかう相手が欲しいだけなのでしたら、仲直りはできません！
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:ごめんなさい……49…… +私が間違ってた、もういじめたりしないよ…… +だからお願い、友達になって……毎日を楽しく過ごせる友達に！
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:ええ……友達を作りたいなら…… +私のこういう一面も受け入れてくださいね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:うん！ +ほ……他には？
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<BIN>8</BIN>:ありません。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FN49(0)||<BIN>8</BIN>:ないの？
+FNFNC(0);FN49(0)<Speaker></Speaker>||<BIN>8</BIN>:FN49は微笑みながらFNCを抱きしめた。
+FNFNC(0);FN49(0)<Speaker>FF FN49</Speaker>||<黑屏1><BIN>8</BIN>:ありませんよ…… +これから私たちは、本当の友達です。

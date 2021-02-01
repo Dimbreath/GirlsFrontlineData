@@ -1,0 +1,12 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>161</BIN><黑屏2><SE2>Alarm</SE2>:……ダーティーボムが爆発する一時間前、グリフィンの臨時拠点にて。
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>||<BGM>BGM_Danger</BGM>:皆さん！聞いてください――！+軍の部隊はすでに司令部外縁の防衛線を突破しました！//nただいまより、全員予定プランに従って撤退を始めてください――！+9A91さんとトンプソンさんの部隊は、全員の撤退が完了するまで、防衛ポイントにて殿を務めてください！
+9A91(0)<Speaker>9A91</Speaker><通讯框>||:<color=#00CCFF>指揮官は今どこですか？命令がなければ、反撃のプランを立てることができません……</color>
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>;9A91(0)||:指揮官さまは今作戦の全体を調整しています！持ち場から離れることができません！
+NPC-Kalin(4);M1928A1(0)<Speaker>トンプソン</Speaker><通讯框>||:<color=#00CCFF>しかし相手は正規軍だぞ。ボスがいないと、そう長くはもたない。</color>
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>;M1928A1(0)||:うーーーーーーん……ああもう！//nだったら私がやります！
+NPC-Kalin(8);9A91(0)<Speaker>9A91</Speaker><通讯框>||:<color=#00CCFF>あなたが……ですか？</color>
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>;9A91(0)||:これでも指揮官さまと一緒に戦術指揮を勉強したことがありますよ！//n実戦の経験はないですけど、少しぐらいなら作戦の役に立つかもしれません！
+NPC-Kalin(8);9A91(0)<Speaker>9A91</Speaker><通讯框>||:<color=#00CCFF>それで十分です、カリーナさん。</color>
+NPC-Kalin(8);M1928A1(0)<Speaker>トンプソン</Speaker><通讯框>||:<color=#00CCFF>そんじゃ夜露死苦！</color>
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>||:グリフィンとみんなのために、一緒に頑張りましょう！

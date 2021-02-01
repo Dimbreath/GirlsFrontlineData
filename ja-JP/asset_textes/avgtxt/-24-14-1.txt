@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>85</BIN><黑屏2>:
+()||<闪屏><duration>5</duration></闪屏>:
+RO635(6)<Speaker>RO635</Speaker>||<震屏>:<size=55>いやああああああ——！</size>+<size=55>なんでダイナーゲートなのよおおおぉぉぉ！！</size>
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:んー……うるさいな……+ってあれ？わたし起きてる？
+RO635(6);SOPIIDamage(2)||:
+()||:……
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<BGM>GF_EV3_Bingocard_loop</BGM>:SOP II！これは一体どういうことなの！
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:えっと……他に使えるプラットフォームがなかったから……+ちょうどスケアクロウがいらないみたいだから、ついでに一緒に持ってきたの。//n<color=#A9A9A9>（本当は無理やり持ってきたのだけど）</color>+とにかく、今はこれで我慢して？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:嘘よ！こ、こんなの人形が使うプラットフォームじゃないでしょ！
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:大丈夫よ、ダイナーゲートの構造はシンプルだから、鉄血の基盤を全部外したの。//n今はわたしをホストにしてシステムに繋いで動いているよ。+それと、そのダイナーゲートで喋っているけど、メンタルモデルはわたしの基盤に繋がってるからね。+あまりたくさん演算すると、逆にわたしの方が思考できなくなっちゃう……
+RO635(6)<Speaker>RO635</Speaker><Shake>;SOPIIDamage(0)||:そんなの知らないわよ！何なのよこれ、バカみたい！+こんなのになるんだったらあのままほっといてくれればよかった！
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:鉄血の製品だから安物なんだよ、少しは我慢して？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:いっそ死んだ方がマシ……
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:人間も小さいやつから少しずつ成長するのだから、そのシミュレーションってことでいいんじゃない？
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:あああああああもう、こんなのマカロフに見られたら恥ずかしくて死ぬ！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:それも会ってからの話でしょ？
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:あの……すみません、もう時間がないですので――
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:あ、ごめんごめん、Cx4。+えっと……なんの話だった？
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:さっき大きな爆発音を聞こえて、偵察しに行こうと思ったんだけど、それで軍の偵察機に発見されて……いま軍がこっちに向かってます。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑点1>:爆発？とりあえず、通信を試してみよう。
+()||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:……五分後。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:RO、指揮官に連絡できた？
+SOPIIDamage(3);RO635(6)<Speaker>RO635</Speaker>||:一応、メガホンも回収したことには感謝しておくわ………+さっきブースト通信モードで信号を出したけど、まだ反応がない。+指揮官が返事できない状況にいるか、或いはこっちの信号が届いていない可能もあるけど……
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:軍に包囲されちゃったし、もう逃げられないよ。//nこうなったらここを守り切るしかないね。+あとは、指揮官のことを信じて。
+SOPIIDamage(3);RO635(6)<Speaker>RO635</Speaker>||:指揮官がこっちの信号を受け取ってない可能性もあるけど。//nこんな戦場だから、わたしもどうしようもない。+それで、みんなにどう伝える？+指揮官の増援がもうすぐ来るって嘘を吐いたら、みんなもっとやる気がでるかもしれないけど。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:分からないよ、ROの方が頭いいんだから、どうすればいいのか教えて……
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:ごめん、この体で演算するのは大変だから、少し休まないと。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:待ってよ！Cx4がもうすぐ来るよ！RO手伝って！
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:あー……もう負けてもどうでもよくなった感じ……+こんな体だし、死んだ方がマシかも……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:RO！今はそんなこと言ってる場合じゃないでしょ！+けど……勝手に起こして、こうなってしまったのは確かにわたしのせいで……
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:そういう意味じゃない……「ここで一緒に死ぬ」っていう結果なら、まぁいいかなという……+ただ戦術人形としての使命を果たせないまま終わるのは……若干悔しいけど……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:もうわたしたちが負けたみたいな感じに言わないでよ！
+SOPIIDamage(2)<Speaker></Speaker>||:……そしてドアが開かれた。
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II！軍がもうすぐ攻撃を仕掛けてくるよ！指揮官と連絡できた？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II？
+SOPIIDamage(2)<Speaker></Speaker>||<黑屏1>:……SOP IIはCx4を連れて外に出た。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Empty</BGM>:みんなおはよう！わたしはM4 SOPMOD II！+グリフィンの戦術人形でAR小隊に所属しているあなたたちの仲間。+そして、今から一つ大事なことをみんなに伝えたいの――！
+SOPIIDamage(0)<Speaker></Speaker>||:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Wake2</BGM>:わたしたちは……ここでお終いなのかもしれない。
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:……！
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:さっき……わたしたちは救難信号を出したけど、指揮官に届いてるかどうかは分からないの……+運がよければ、指揮官が救難信号を受け取って、増援を出してくれるかもしれない。+でももし……少しでも運が悪かったら、指揮官が信号を受け取ってなかったら、或いは兵力が足りないとか、距離が遠いとか、指揮官自身に何かあったとか……+とにかく……わたしたちは……今日ここで死ぬかもしれない……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II……
+SOPIIDamage(2)<Speaker></Speaker>||:……SOP IIの声が段々と震え始め、泣きそうになる。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:ごめんなさい……わたしバカで……嘘つけない人形で……隊長にも相応しくなくて……+みんなに、もうすぐ指揮官が来るって言いたかった……+でも怖いの……万が一のことが怖いの……万が一みんながそんな希望に縋って、倒れて、そしてわたしに生きて……生きて指揮官が来るまで待てって……+そうなるのが嫌……わたしだけ本当のことを知って、一人で待つのが嫌……//nもう一度、仲間を失うのが嫌なの……！
+SOPIIDamage(2)<Speaker></Speaker>||:……Cx4はSOP IIを見た。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:分かってるんだ……わたしじゃ隊長なんかになれない……//nわたしは、自分のことしか考えられないんだって！+どうやったらみんなを守れるか分からないし、みんなが生き残れることも保証できない……無責任なことも言えない……+わたしはただ……ただみんなと友達になって、わたしの小隊がバラバラになってる時に、居場所が欲しかっただけ……
+SOPIIDamage(2)<Speaker></Speaker>||:……ROはため息を吐いた。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:わたしって変だし、みんなを喜ばせることもできないし、もうこうするしかなかった……+でも隊長の責任なんて取れないし……わたしに……そんな資格がないから……+だからもう……全部話して……それで……どうすればいいのか分からなくて……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:ごめんなさい……わたし……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP IIは、捨てられるのが怖いから、嘘を吐いたんでしょ？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:うん……だからわたしなんか……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:ここにいる人形たちも、みんな捨てられるのが怖いんですよ。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:……
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:私たちはSOP IIと同じ、怖くて怖くて仕方がないの。+でも今さら、希望があってもなくても、怖くて仕方がなくても、もう逃げられないよ。+その考えを恥ずかしく思わないで。仲間っていうのは、今この時のためにいるんでしょ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑屏1>:Cx4……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<黑屏2><黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:SOP II……+もうこの際だから、言いたいことを全部言っちゃいなよ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>159</BIN>:……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage9</BGM>:みんな……+みんなとは……まだ一日の付き合いしかないけど……+わたし、みんなと仲間になりたい！一緒に現実と向き合って、一緒に戦って、一緒に死のう！
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:そうです！+もう私たちに任務も目標もない！//nだから今の私たちにやれることは、生き残ることだけです！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:もう自分たちを頼るしかない！生きても死んでも、最後また戦おう！
+SOPIIDamage(0)<Speaker></Speaker>||<震屏>:……グリフィンの人形たちの中から大きな声が上がった！
+SOPIIDamage(0)<Speaker></Speaker>||:……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:まったく……結局、希望のない戦いをするのね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:ROにも手伝ってほしかったよ。
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:わたしじゃそんな感じに泣けないわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:でも泣いてるくせに……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker><Shake>||:ど、どうしてわかったの？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:ROの心の声は全部聞こえるよ。
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:ちっ……+もう他に……どうしようもないわよね？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:こんな状況、ついさっきもあったような気がするな。
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:そうね……でも、少なくとも今回は誰かに裏切られたりしないでしょ。//n今回こそ、敵と向かい合って死んでいける。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<白屏1>:そうね。思いっきり楽しめるね。
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||<白屏2><BIN>99</BIN><回忆><边框>2</边框>:戦場だから、ですよ。+AR小隊にしろ、ワタシとシノにしろ、そして他の人形たちにしたって、みんな互いのメンタルの中でしか生きられません。+もしワタシたちがお互いのことすら、覚えられなかったら、誰がワタシたちを覚えていてくれるのでしょう？
+Carcano1891(0)<Speaker>カルカノM1891</Speaker>||<边框>2</边框>:SOP II、余裕はまだどれくらい残ってますか？+いっそのこと全部出し切って、この戦いを楽しみましょうよ！
+Carcano1938(0)<Speaker>カルカノM91/38</Speaker>||<白屏1><边框>2</边框>:そして、この死を楽しみましょう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<白屏2><BIN>159</BIN><关闭蒙版>:やっと、カノたちの言ってたことが分かった気がする……
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II、軍が来るよ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:うん……+Cx4……+一緒に死ぬ準備はできた？
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:ふふ……+怖いなら命令をしてもいいよ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:命令じゃないよ。+……ただのお誘い。
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<黑屏1>:それなら光栄です！+さぁ、行きましょう！
+()||<黑点2><BIN>10</BIN>:

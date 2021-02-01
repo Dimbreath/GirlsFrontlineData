@@ -1,0 +1,38 @@
+()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:……作戦終了後、工場に到着。
+NEGEV(0)<Speaker>ネゲヴ</Speaker>||:想定より早く到着。成長しましたね、指揮官。+M4A1との作戦を見て分かりました、あなたを選んで正解だったって。+さあ、あと一頑張りですよ。
+TAR21(0)<Speaker>TAR-21</Speaker><通讯框>;NEGEV(0)||:ネゲヴ、鉄血のパトロール部隊があと15分でこっちに来ますわ、引きつけていただくことはできますか？
+TAR21(0);NEGEV(0)<Speaker>ネゲヴ</Speaker>||:人手が足りないわ。
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:わたくしに万一のことがあって困るのは、あなたでしょ？
+TAR21(0);NEGEV(0)<Speaker>ネゲヴ</Speaker>||:もちろん承知よ、だから待ってて。+「あの子たち」がそろそろ戻る頃よ。
+AR(0)<Speaker>ガリル</Speaker><通讯框>;NEGEV(0)||:おーい、ネゲヴ！
+AR(0);NEGEV(0)<Speaker>ネゲヴ</Speaker>||:あら、本当に生きて戻ったのね。
+AR(0)<Speaker>ガリル</Speaker>;NEGEV(0)||:ははっ、おかげさまで窮地は脱したで。+でも次はもっと強いのをよこしてくれる？
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker><通讯框>||<震屏>:ちょっと、せっかく助けたのに礼を言わないどころか文句までつけるなんて！
+AR(0)<Speaker>ガリル</Speaker>;MicroUZI(0)||:追撃してくる鉄血をうちがやっつけてなかったら、自分の身もうまく守れてなかったやろ？
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:それだってあなたのためでしょ！帰隊してすぐこんなところまで駆け付けてあげたのに！
+AR(0)<Speaker>ガリル</Speaker>;MicroUZI(0)||:ハハっ、ごめんって、でもうちだって「あんたのため」って聞けば何でも納得する素直で利口な女ちゃうねん。
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:分かってるわよ、だから来たくなかったの！まったく、どいつもこいつもわからず屋ばっかり！
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;MicroUZI(0)||:でも結局戻ってきたんじゃない。+フン、どうせ他に行くあてがなかったんでしょ？
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:ちぇ、あなたたちのせいよ。+特に、ネゲヴ、あなたのね！
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;MicroUZI(0)||:いいじゃないちょっとぐらい欠点があっても、勝てればそれで十分よ。
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:まったく……そんな向こう見ずな戦い方、誰から教わったのよ！+みんなケチばっかりだし、もうほんとやになっちゃうわよ！
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;MicroUZI(0)||:いいわ、テストにも合格したことだし、次の仕事に移りましょう。
+NEGEV(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:え、ちょっと——
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;MicroUZI(0)||:タボールがちょっと面倒なことになっててね。ガリル、Uzi、囮になって、近くのパトロール隊を引きつけるのよ。+十分で頼むわ、早く。
+AR(0)<Speaker>ガリル</Speaker><通讯框>;MicroUZI(0)||:ははっ、まあ待てって、まず髪の毛を直さんと、砂嵐にやられて……
+AR(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:はいはい、もたもたしてないで！あと十分しかないのよ、早くきて！
+AR(0)<Speaker>ガリル</Speaker>||:ちょっとー！おい——！+待って、待てって言うてるやん——
+()||<BGM>BGM_Empty</BGM>:……通信終了。
+NEGEV(0)<Speaker>ネゲヴ</Speaker>||:すべて片付いたわ。+あとは、鉄血ボスだけね……+工場内を彷徨う浮かばれぬ魂のダミー……
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:まぁ……誰がダミーだって、お嬢ちゃん？
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;BOSS-11(0)||:……！+ドリーマー……+そんな、位置情報では——
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker>||:あたし、どこにだって現れるのよ。+特にあなたに必要とされればね。
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;BOSS-11(0)||:あなたがあの……皆から恐れられてる強敵ね。+そのダミーで、遠くからわたしたちを観察していたの？ずっと？
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker>||:ここはあたしが手入れをしているお庭よ、穢す者は許さないわ。+それとも、あなたは間違って足を踏み入れてしまっただけで、今からこっそり逃げ出そうとしていたのかしら？
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;BOSS-11(0)||:戦場では物事を複雑にさせない、先輩から教わったことよ。
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker>||:でもあなた、そんないい子じゃないでしょ。あたしもだけど。
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;BOSS-11(0)||:そうね、確かに足手まといだった……+でもそうやってサプライズを与え続けていたからこそ、わたしを覚えていてくれてるの。
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker>||:それじゃあこれはどう？あなたへのサプライズにはなれたかしら？
+NEGEV(0)<Speaker>ネゲヴ</Speaker>;BOSS-11(0)||:……さあ？+どうかしら。戦闘が終わった後にでも、ゆっくり考えるわ。
+NEGEV(0);BOSS-11(0)<Speaker>ドリーマー</Speaker>||<黑屏1>:ネゲヴ、それがあなたの名前？+初めて会うけど……気に入ったわ……
+<Speaker>ドリーマー</Speaker>()||<BIN>9</BIN><黑屏2><黑屏1>:だから、あなたを食べちゃうね？

@@ -1,0 +1,17 @@
+()||<BIN>7</BIN>:……そのころ、撤退中のAR小隊。
+M4A1(2)<Speaker>M4A1</Speaker>||:応答せよ、応答せよ。//nグリフィン支援小隊、そちらの状況は？
+VZ61()<Speaker>スコーピオン</Speaker>||:早く逃げて……戻ったら、指揮官を探――+ああああっ！
+M4A1(3)<Speaker>M4A1</Speaker>||:？！グリフィン支援小隊！どうしました！
+代理人()<Speaker>エージェント</Speaker>||:まだ動けましたのね。//nですが、これで終わりですわ。
+代理人()<Speaker>エージェント</Speaker>||<SE1>Rope</SE1>:——？！
+VZ61()<Speaker>スコーピオン</Speaker>||:……終わるのは……お前だ！
+M4A1(3)<Speaker> </Speaker>||<震屏><SE1>Explode</SE1><BIN>10</BIN>:通信器から爆発音が聞こえてくる。
+M4A1(2)<Speaker>M4A1</Speaker>||:……+通信が……切れたわ……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:あいつら……まさか……
+SOPII(3);AR15(2)<Speaker>ST AR-15</Speaker>||:……くそっ！
+M16(3)<Speaker>M16A1</Speaker>;AR15(2)||:ボーっとしてる暇はないぞ。//n皆、これはあいつらが残してくれたチャンスだ。+M4、前方の司令部を最短で占領し、警報を解除するぞ。
+M16(3)<Speaker>M16A1</Speaker>||:……M4？
+M16(3);M4A1(2)<Speaker>M4A1</Speaker>||:……？！
+M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:あ、分かりました。//nでは私たちは……+すみません……私……ちょっと……
+M16(3)<Speaker>M16A1</Speaker>;M4A1(0)||:忘れるな。//nあいつらも私たちも、命令を実行しただけだ。
+M16(3);M4A1(2)<Speaker>M4A1</Speaker>||:はい……「データ」は必ず持ち帰ります、必ず……

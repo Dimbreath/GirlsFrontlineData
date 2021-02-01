@@ -1,0 +1,51 @@
+()||<BIN>7</BIN><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:…………
+M16(3)<Speaker>M16A1</Speaker>||<SE2>Gunfight</SE2>:だめだ、RO。何度攻撃してもビクともしないぞ！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:このままじゃ、今度こそ物資が尽きちゃうよ！+M1887はまだ来ないの？//n……ほんとにわたしたちの味方なの？
+RO635(5)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:今はそんなことを考えている場合じゃありません！+次の砲撃が来ます！//nみんな、急いで安全な場所へ！
+()||<BGM>BGM_Empty</BGM>:…………
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:あれ……音しないよ？
+M1887(0)<Speaker>M1887</Speaker><通讯框>||:砲台の主電源を切断したわ。+予備電源が立ち上がるまであと10分よ。//n今すぐにゲーガーの防衛線を突破し、谷間のセーフハウスへ！
+M16(3)<Speaker>M16A1</Speaker>||:M1887……
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:わかりました！皆さん、行きましょう！
+()||<黑屏2><BIN>8</BIN>:…………10分後、無事セーフハウスに到達。
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:ふぅ……危なかったよ……
+M16(3)<Speaker>M16A1</Speaker>||:まったく、肝が冷えたぞ……+それで、お前がM1887か？
+M1887(0)<Speaker>M1887</Speaker>||:初めまして、AR小隊のみなさん。
+M16(3)<Speaker>M16A1</Speaker>||:鉄血の回線を使えるのはどうしてだ？+すまん、少し気になっただけなんだが……
+M1887(0)<Speaker>M1887</Speaker>||:疑ってるんでしょ？//nいいのよ。+知っての通り、16LABは最近、新たな人形製造技術を開発したの。
+RO635(0)<Speaker>RO635</Speaker>||:つまりあなたが……その技術で創り出された、プロトタイプということですか？
+M1887(0)<Speaker>M1887</Speaker>||:私にはどこの部品が使われているか、当ててみる？
+RO635(0)<Speaker>RO635</Speaker>||:…………+毒を以て毒を制す、ですか……
+M1887(0)<Speaker>M1887</Speaker>||:誰もが使命をもって生まれてくるわけじゃない……+……でも、人形は例外よ。
+RO635(0)<Speaker>RO635</Speaker>||:分かりました、あなたを信じましょう。//n現時点で知っている情報を教えてください！+SOP IIは通信設備の調整をお願い。+ヘリアンさんに報告するには、新たな暗号化ネットワークが必要です！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:わかった！すぐにネットワークを立ち上げるね！
+()||<BGM>BGM_Empty</BGM>:……突然、M1887が武器を構えた。
+M16(3)<Speaker>M16A1</Speaker>||:…………！+SOP II！後ろ！
+()||<SE1>Explode</SE1>:…………バーン！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:…………+な、なにするのさM1887！//nどうして通信設備を壊しちゃうの？！
+M1887(0)<Speaker>M1887</Speaker>||:小隊のメンバー、一人欠けているよね。+彼女、【傘】のせいで去ってしまったんでしょ？
+M16(3)<Speaker>M16A1</Speaker>||:……それが何か関係あるのか？
+M1887(0)<Speaker>M1887</Speaker>||:【傘】モジュールは鉄血の設備に予め埋め込まれ、接触することで通信モジュールに侵入する。+つまり【傘】を仕込まれた電子設備を起動させると、すかさず体内に侵入してくるのよ。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:でも……なんでこの設備に【傘】が潜んでいることがわかったの？
+RO635(3)<Speaker>RO635</Speaker>||:【傘】に侵された設備は通常と違う信号を発します。//nそれは直接接触しなくとも、プログラムで事前に検出できるのです。+これは16LABの研究で判明したことで、いつもなら細心の注意を払っているのですが……+今回は緊張のあまり忘れてしまっていました、申し訳ないです……
+M16(3)<Speaker>M16A1</Speaker>||:鉄血はそれを狙っていたんだ、気にするな。+でも次は気を付けてくれよ、RO……
+计量官()<Speaker>ゲーガー</Speaker>||<SE2>Alarm</SE2>:次はないがな、AR小隊。
+BOSS-7(0)<Speaker>ゲーガー</Speaker><通讯框>||:ついに見つけたぞ……+仕掛けた罠はいくつか破られたようだが、そんなものははなから頼りにしていない。+そんな方法で勝っても、嬉しくもなんともないからな……
+M16(3)<Speaker>M16A1</Speaker>||:ハッ、大勢で虐めにかかるのがお前らのやり方なのか？
+BOSS-7(0)<Speaker>ゲーガー</Speaker><通讯框>||:不確定要素が嫌いなだけだ。確かなことだけが私のすべて……+例えば、これから夜がやって来て、包囲されたお前たちに逃げ道が無くなる……というようにな。
+RO635(4)<Speaker>RO635</Speaker>||:皆さん、少し聞いてください！//nこれより、シェルターの改造工事に取りかかりまましょう！
+RO635(5)<Speaker>RO635</Speaker>||:全力をもって鉄血の攻勢を食い止めるのです！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:今晩持ちこたえられたら、わたしたちは助かるの？
+RO635(0)<Speaker>RO635</Speaker>||:わからない。//nでも夜明けまで持ちこたえたら、きっと今よりは勝算が増すはずです。+M16も言っていたでしょ？//nヘリアンには切り札があるはずだと……。
+M16(0)<Speaker>M16A1</Speaker>||:ハハ、M4よりはいくらか楽観的だな。
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:出身が出身ですからね。
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:……ほかに長所と言えるところもないですし。
+()||:…………+……3時間後、グリフィン本部の屋外訓練場にて。
+NPC-Helian(0)<Speaker>ヘリアン</Speaker>||<BIN>4</BIN><Night><黑屏2><BGM>BGM_NightOPS</BGM>:あ、クルーガーさん……
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>;NPC-Helian(0)||:どうした、未だ連絡がないのか？
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:はい、まだ彼女たちと連絡が取れていません。//n申し訳ございません。
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>;NPC-Helian(0)||:天候は関係ないようだな。
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:天気はよくなったのですが……夜がやってきてしまいました。
+NPC-Kyruger(0)<Speaker>クルーガー</Speaker>;NPC-Helian(0)||:ならばプロに任せるまでだ。//nそろそろ着く頃か？
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:あと10分で到着します……
+NPC-Helian(0)<Speaker>ヘリアン</Speaker>||:……こうした事態への対処を専門とするプロたちが……

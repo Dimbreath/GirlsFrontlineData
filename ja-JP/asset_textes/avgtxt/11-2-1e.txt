@@ -1,0 +1,30 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><黑屏1>:8時間後。
+()||<BIN>167</BIN><BGM>BGM_Sneak</BGM><黑屏2>:22時20分、下水道の敵拠点内……
+RO635(0)<Speaker>RO635</Speaker>||:本当に入ってきて大丈夫なのか……
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:大丈夫よ、さっき妖精が路線を全部偵察してくれたんだから。+でも路線に問題がなくても、下水道にはたくさんのゲートがあるから、もしあの白いやつらがバカじゃなかったら、きっとゲートを全部抑えているよね。+万が一他の人形が来て、あいつらがゲートを閉まったら、私たちは逆に袋のネズミに……
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:それもあるけど、あまり深入りすると包囲されたら面倒なことに……
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:まぁ指揮官を手伝い終わったらすぐ離れるから、きっと大丈夫でしょ！
+RO635(3)<Speaker>RO635</Speaker>||:本当にそうなのか……+あれ？これは……グリフィンからの通信要請？
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>どうも、RO635だよな。</color>
+RO635(0)<Speaker>RO635</Speaker>;Mk46(0)||:あ、はい、そちらは……？
+RO635(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Mk46だ、プロフィールは送ったよ、一応今回の作戦の臨時副官でもある。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Mk46(0)||:この新人の子、あんまりやる気がないみたい……
+M4 SOPMOD IIMod(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>おい、全部聞こえてるぞ……</color>+<color=#00CCFF>とにかく……オレの攻撃部隊は今装備をチェックしている途中だ、10分後に下水道の入り口に到着する。</color>
+RO635(2)<Speaker>RO635</Speaker>;Mk46(0)||:ありがとう、Mk46。ちょうど人手が欲しいところです。+予定位置に到着したら、まずは待機していてください。攻撃命令を受け取った後、行動を開始してください。
+RO635(2);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>分かった。じゃあ待ってるぞ。</color>+<color=#00CCFF>指揮官からの作戦プランも届いてある。こちらは位置に着いたらいつでもオッケーだ。</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:ラジャー。
+RO635(0)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN><BGM>BGM_stage11</BGM>:指揮官、こちらから支援部隊の位置を確認できました、感謝いたします。+待機中に、SOP IIと一緒に敵の隙を突いて制御室の位置を特定できました。+少し危険な場所にありますが、これを抑えることでこちらの部隊をより効率的に援護することができると思います。+計画としては、支援部隊で下水道の出入り口を封鎖し、わたしがこちらの制御室でコントロールターミナルをハッキングします。+敵はおそらく防水ゲートを閉じることでこちらの撤退ルートを塞ごうとしますが、わたしが先にセカンダリレベルでゲートの制御権限を奪います。+そしてSOP IIは情報屋を見つけ出して、そのまま一緒に下水道の出入り口まで撤退します。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ゲートを操ってそのままあの白いやつらを閉じ込めることはできないの？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:それだとシステムのハッキングに時間がかかって、情報屋を探す時間がなくなる。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え……そう……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:わたしはシステムのハッキングに演算リソースを使わなければいけませんから、部隊の指揮は指揮官にお願いします。+SOP II、ゲートの位置と座標をマークしてくれる？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:オッケー！
+RO635(0)<Speaker>RO635</Speaker>||:まだ敵に気づかれていないうちにやつらをセカンダリレベルから排除しないと……うん、それじゃあ行く――！
+RO635(0)<Speaker>？？</Speaker>||:その――コント――テムに――入るな。
+RO635(4)<Speaker>RO635</Speaker>||:声……？
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え？なになに？なんの声？
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:SOP IIじゃないのか……？
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:私何も言ってないよ？
+RO635(3)<Speaker>RO635</Speaker>||<黑点1>:錯覚か……？+まぁいい、もう時間がない、急ぐよ！
+()||<黑点2><BIN>10</BIN>:

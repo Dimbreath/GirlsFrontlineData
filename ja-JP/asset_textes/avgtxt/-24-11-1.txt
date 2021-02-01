@@ -1,0 +1,38 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BIN>99</BIN><BGM>BGM_Brain</BGM><黑屏2>:SOP II、やっと戻ってきた！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ちゃんと作戦を思いついたよ！みんなよく聞いて……+今回は効率的な指揮はできないから、作戦の優先順位をみんな同じに設定しておくね。+そんなに複雑な作戦じゃないから、ここにいるみんなだけでも十分実行できるはず。+だからみんなよく聞いて、一番大事なのは、「もし」と「なら」の二つのキーワード――
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:……うん、うんうん。+……うんうん、分かりました、それから……うん……+……それで、うんうん……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||<震屏>:ええ？待って――！+SOP II、何言ってるの！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そう反応すると思ったよ。でも聞き間違いじゃないよ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:本気なの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:命令を出す時に冗談なんか言わないよ！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||<黑屏1>:じゃ……どうして？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:どうして……私たちが鉄血なんかのために軍をひきつけるの？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑屏2><BGM>BGM_Pervaded</BGM>:別にそこまで言ってないよ。+今の軍の優先目標は鉄血、そして今のわたしには鉄血の信号があるから、軍の追撃部隊をひきつけることができる。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:一人で、大丈夫なの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:軍とも何回かやり合ったことあるからね。勝てないけど、上手くやり過ごすことぐらいはできると思うよ。+その隙に向こうの拠点に行ってわたしを待ってて。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:あの拠点に敵はいないけど、途中は鉄血の防御施設ばかりで、迎撃されたりしないのかな？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:多分、あいつらは目標を軍に切り替えると思うよ。+だってわたしたちを先に倒しても、すぐ軍にやられるから。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:そんなのただの賭けだよ……+しかも向こうの拠点に辿り着いても、鉄血の管轄エリアにいるんだよ、その後はどうするの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:分からない。でも今は行けるとこまで行くしかない。+もし途中で軍の人形と遭遇したのなら足止めをして、鉄血と遭遇したのなら攻撃せずにわたしが来るのを待って。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:つまり……鉄血を守るの？あのスケアクロウのために時間を稼ぐの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そう、軍を足止めして、鉄血を逃がすの。そうすれば、わたしたちにも撤退する余裕が生まれるはず。+もしこのまま軍が鉄血をやっつけて、二つの追撃部隊が合流したら、今度はわたしたちがやられる番になる。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:でも……スケアクロウは恩を感じたりするのかな？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:しないでしょうね。でもわたしたちもあいつらのためにこんなことするわけじゃないし。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:SOP IIは、鉄血を恨んでるんじゃないの？+てっきり……鉄血が得することは何もしないって思ってた。
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うーん……別に恨んでなんかいないよ。+恨みがある鉄血なら、もう全部殺しちゃったし……+……最低でも一回はね。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:だから、他の鉄血は嫌いじゃないの？じゃあなんで……鉄血を殺すのが好きなの？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:だって好きなんだもん。+Cx4も恨みを趣味にしないんでしょ？ただそういう感じ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:つまり……鉄血を殺すのが好きなだけ、ですよね？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:違うよ。+痛めつけたり、解体したりするのも好きだよ。あ、グリフィンに解雇された時にスティグマを解除する解体じゃなくて、文字通りの解体ね。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:いえいえ、私が言いたいのは……SOP IIが解体したいのは鉄血<size=55>だけ</size>、ですよね？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うーん、もしかしたら、軍のやつらもいけるのかな？できれば、軍の人形も解体してみたいよね！+あとあのエゴールも……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:じゃ……じゃあグリフィンは？
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:グリフィン？なんで？みんないい子だよ？+毎日見知らないわたしに挨拶して、食べ物を贈って、よくやったって褒めて、そういうみんなをわたしが解体したいわけないじゃん！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:で……ですよね……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:グリフィンには知らない人形もいるけど、わたしが鉄血をやっつければ、それだけで生き残れる人が多くなる。そしてみんなわたしのことをもっとすきになる。そうでしょ？+だから今分かったの、わたしの目標はみんなを守ることで、鉄血はその手段でしかないの。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:SOP II……
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:よし、出発しよう！鉄血と遭遇した時は慌てないでわたしを待ってて！
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;SOPIIDamage(0)||:きっと……大丈夫ですよね？SOP IIが戻ってこなければ、私たちは一歩も動きませんよ！
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:大丈夫だよ、きっと……だってもう自分のことだけを考えるわけにはいかないんだから。+自分を守ることもみんなを守ることと同じ、わたしにとっての大事なこと！
+()||<黑点2><BIN>10</BIN>:

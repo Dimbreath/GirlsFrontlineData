@@ -1,0 +1,23 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>168</BIN>:19時30分、ベルグラード市広場に繋がる路地にて。
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:……+ちょっと……これ……
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:これは……嫌な予感がするわ……
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:気を失ってるの？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:多分それだけじゃない……+遠距離操作でメンタルも破壊されてるかもしれない。早く連れ戻してきて！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:もうやってるよ！でも……なんで急にメンタルが……？
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:もしこのメイドがわたしたちの探している人物の人形なら、きっと何か大変なことが起きているのよ。+SOP II、周りの警戒をお願い、今からこのメイドのメンタルに潜るわ！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:メンタルが破壊されてるのなら、今更何をするの！
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:データが完全に破壊される前に、何か取り出せるかもしれない。SOP IIはここでわたしを守って！
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:分かった、急いでね！あまりここに長くい過ぎると、さっきのやつらが追ってくるかも……+……RO？
+()||<BGM>BGM_Empty</BGM><白屏1>:……RO635の意識はすでにメイドのメンタルに潜り込んでいた。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><BIN>157</BIN><白屏2>:……+ここが……あのメイドのメンタルスペースか？
+NPC-Maid(0)<Speaker>メイド人形のメンタル</Speaker>||:初めまして、人形さん。+ご予約はされていますか？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:メイドさん、聞いて、あなたは……
+()||<SE2>MachineGunBurst</SE2><闪屏><duration>5</duration></闪屏>:バン――！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_stage4</BGM>:……！
+NPC-Maid(0)<Speaker>メイド人形のメンタル</Speaker>||:予約がないということは、敵ですね。迅速に排除いたします。
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:ちょっと！外で起きてることが分かってないのですか？！この体はもう死んでいるのですよ！
+NPC-Maid(0)<Speaker>メイド人形のメンタル</Speaker>||:私たちの務めは、ご主人様の秘密を守ることです。+生きていようと、死んでようと、誰が相手でも、必ずその務めを果たします。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<白屏1>:待って――
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<白屏2><黑屏1><BIN>72</BIN>:攻性防壁がこんなに！+あの情報屋、この民生用人形にどれだけ違法なものを積み込んでるのよ！これだけの改造を重ねたら、もう牢屋に入れられるだけじゃ済まないわ……+しょうがない、もう一度殺すしかないわ……+いや、この数が相手じゃ、あと数十回殺すと言った方が正しいかもしれないわね！+悪いけど、わたしだって自分の任務を果たさなければならないのよ！
+()||<黑点2><BIN>10</BIN>:

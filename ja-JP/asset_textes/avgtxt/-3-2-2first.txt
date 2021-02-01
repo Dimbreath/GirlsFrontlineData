@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:……パン！パン！
+G11(0)<Speaker>Gr G11</Speaker>||:よし、全部片付けたよ。
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:これで最後ね。+通信ステーションを見てくるから、ここで45と9を待ってて。
+()||<BIN>34</BIN><黑屏2>:……+…………
+G11(2)<Speaker>Gr G11</Speaker>||:ねぇ……416？
+HK416(0)<Speaker>416</Speaker>||:なに？
+G11(2)<Speaker>Gr G11</Speaker>||:あそこのカメラって……416が操作してるの？
+HK416(2)<Speaker>416</Speaker>||:私は何もいじってないけど……
+G11(3)<Speaker>Gr G11</Speaker>||:でも……動いてるよ……+ま、まさか心霊現象……
+HK416(3)<Speaker>416</Speaker>||:え？！
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Boss</BGM>:ねぇ、黙ってないで何か言ったらどう？
+BOSS-9(0)<Speaker>アーキテクト</Speaker><通讯框>||:ありゃ……+まあまあ気にしない、気にしない。//nカメラテストのついでに、ちょっと覗いてみただけだよ。
+HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:覗いてみただけ？+鉄血もついに敵対するのをやめくれたのかしら。//nそりゃ助かるわ。
+HK416(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:鉄血工造SPzh3000「Architect」、通称「アーキテクト」だよ！+今AR小隊を探してるからさ、それ以外は正直どうでもいいんだよね。+それに今日のテスト業務は……敵をわざわざ攻撃する必要もないみたいだし……+それはそうと、あんたたち誰？//n以前のリストには載っていなかったみたいだけど。
+HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:AR小隊以外に興味はないんでしょ。+でも……なぜAR小隊を追ってるの？//n彼女たちに何の価値を見出してるっていうの？
+HK416(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||<黑屏1>:それはね……ただ……
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:……！
+HK416()<Speaker>416</Speaker>||:……？！
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_NightOPS</BGM>:鉄血と楽しくおしゃべりなんて大した度胸ね、416。
+HK416(0)<Speaker>416</Speaker>||<黑屏2><BIN>34</BIN>:……UMP45。+何をするの？//nあと少しで情報を引き出せたのに。
+UMP45(0)<Speaker>UMP45</Speaker>||:今回の任務とは関係ないわ。余計なことに首を突っ込まないで。
+UMP9(3)<Speaker>UMP9</Speaker>||:はろはろ～、みんな元気だった？+わたしに会えなくて寂しかったでしょ、G11。
+G11(3)<Speaker>Gr G11</Speaker>||:つねらないで……ぅぶぶぶぶ……
+HK416(0)<Speaker>416</Speaker>||:ようやく合流ってわけね。
+UMP45(0)<Speaker>UMP45</Speaker>||:そうよ。いよいよAR小隊の救出に向かうわ。+416、楽しみにしてた？
+HK416(0)<Speaker>416</Speaker>||:……私の言いたいこと、分かるわよね。
+UMP45(0)<Speaker>UMP45</Speaker>||:ふふっ、その嬉しい気持ち、声に出して言ってみたら？
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:いいのね？じゃ遠慮なく……
+HK416()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:くたばれ、UMP45。

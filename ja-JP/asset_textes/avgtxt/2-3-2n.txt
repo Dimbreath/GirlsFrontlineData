@@ -1,0 +1,24 @@
+ ()||<BGM>BGM_Battle</BGM><BIN>3</BIN><Night>:……グリフィンの部隊が後方の拠点に到着した。
+M1911(0)<Speaker>M1911</Speaker><通讯框>||:トンプソン、そちらの視野は良好みたいね。//n狙撃手は選んであるの？
+M1928A1(0)<Speaker>トンプソン</Speaker>;M1911(0)||:M21、任せたぜ。いざというときには頼む。
+M1928A1(0);M21(0)<Speaker>M21</Speaker>||:オッケー。で、ターゲットは鉄血？それとも軍の方？
+M1928A1(0)<Speaker>トンプソン</Speaker>;M21(0)||:今は冗談を言ってる場合じゃないぜ……+だがまあ、民生用人形なんだから、ミスの一つや二つぐらいあってもおかしくないよな。
+M1928A1(0);M21(0)<Speaker>M21</Speaker>||:ふふっ。まあ任務は遂行するとして、銃口を1センチ上げちゃうってのは……どう？
+M1928A1(0)<Speaker>トンプソン</Speaker>;M21(0)||:契約の認める範囲内なら、好きにやっていいぞ。
+M1928A1(0);M9(1)<Speaker>M9</Speaker><通讯框>||<SE1>Battlefield</SE1>:ちょっと！トンプソン、聞いてるなの？！+あのね！こっちでいきなり戦闘が始まっちゃったなの！//nどこにいるの、早く助けに来てほしいなの！
+M1928A1(0)<Speaker>トンプソン</Speaker>;M9(1)||:おい……前に一人で大丈夫って言ったよな？
+M1928A1(0);M9(1)<Speaker>M9</Speaker>||<SE1>Battlefield</SE1>:でも軍が突然始めちゃうなんて、ひと言も聞いてなかったなの！おかげでこっちの拠点にまで砲弾が飛んできてるなの！+周りは鉄血に囲まれてるし、もう限界なの！
+M1928A1(0)<Speaker>トンプソン</Speaker>;M9(1)||:私みたいな切り込み隊長に言っても無駄だぜ。1911に頼むんだな。
+M1928A1(0);M9(1)<Speaker>M9</Speaker>||:うう……1911ちゃん、私が悪かったなの、今回の勝負はあなたの勝ちなの！
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M9(1)||<黑屏1><SE1>Battlefield</SE1>:はぁ……私は勝負なんてしていないけど。+それじゃ支援部隊、あなたたちの出番よ。
+ ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE2>Gunfight</SE2>:…………
+M9(1)<Speaker>M9</Speaker>||:え？鉄血が……殲滅された？+あ……あなた、味方なの？
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M9(1)||<BGM>BGM_Frontline</BGM>:新しくグリフィンに雇われたSuperSASSよ。//nお役に立てて嬉しいわ、M9さん。
+SuperSASS(0);M9(1)<Speaker>M9</Speaker>||:よ……よかった……+あなたは私のヒーローなの、すーぱー……何とかちゃん！
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M9(1)||<黑屏1>:SuperSASSよ、M9さん。+あと、そんなにきつく抱きしめないでください……
+M1928A1(0)<Speaker>トンプソン</Speaker>||<黑屏2><BIN>3</BIN><Night>:フーッ、あらかじめ後方支援を手配しといてくれて助かったぜ。でなきゃM9は本当にやばかったかもな。
+M1911(0)<Speaker>M1911</Speaker><通讯框>;M1928A1(0)||:ふぅ、安全なのはM9のところだけよ、トンプソン。
+M1911(0);M1928A1(0)<Speaker>トンプソン</Speaker>||:そうだな。にしてもSuperSASSはいいところに来てくれたぜ。//n誰を行かせようか悩んでいたところだったからな。
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>;M1928A1(0)||:え？行かせるって……？
+SuperSASS(0);M1928A1(0)<Speaker>トンプソン</Speaker>||:グリフィンのためにも頼んだぞ、SuperSASS。//n組織はお前を必要としている。
+SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:え？なに？……私が？

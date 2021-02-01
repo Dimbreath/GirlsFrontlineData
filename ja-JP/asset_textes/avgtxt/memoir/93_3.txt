@@ -1,0 +1,75 @@
+()||<BIN>34</BIN><黑屏2><BGM>BGM_Frontline</BGM><SE1>Gunfight</SE1>:数日後、ウェルロッド小隊と鉄血の交戦中。
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:こんなところで足止めをくらうとはな……
+L85A1(0)<Speaker>L85A1</Speaker>||<BIN>34</BIN>:ブレンさん、後方の通路の扉は封鎖しておきました。 +あとは、奴らに後方から包囲するだけの余力が、//n残っていないのを祈るだけですね……
+IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN><SE1>Gunfight</SE1>:うわ！危なかったにゃ…… +ブレン、弾が切れそうにゃ！
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:……うるさい。 +やかましい野良猫だな！1秒でいいから、静かにしてくれないか！
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:でも、敵の火力が凄いのにゃ！ +このままここにいたら、絶体絶命間違いなしにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:そんなこと、お前に言われなくてもわかってる！
+Welrod(0)<通讯框><Speaker></Speaker>||<BIN>34</BIN>:通信チャンネルから音声が流れる。
+Welrod(0)<通讯框><Speaker>ウェルロッドMkⅡ</Speaker>||<BIN>34</BIN>:ブレン、状況は？
+Welrod(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:情報に些かズレがあったようだ。鉄血共のせいで、廃基地の通路内で足止めを食っている。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>;BrenMK(0)||<BIN>34</BIN>:こちらも、敵の数が想定以上です。殲滅するにはまだ時間がかかります。
+Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:ってことは……隊長も支援に来られないのにゃ？
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>;IDW(0)||<BIN>34</BIN>:申し訳ないですが、今は行けません。 +そちらの周囲にある基地の構造図を送るので、//n何とか乗り切ってください。
+Welrod(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:ここの構造なら大体把握している。だが、撤退可能なルートなんてないぞ！
+Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:私に見せるにゃ。ひょっとしたら、なにか分かるかもしれないにゃ！
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>;IDW(0)||<BIN>34</BIN>:その通りです、IDW。みんなで知恵を絞ってください！
+Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:隊長、任せるのにゃ。最後まで諦めないのにゃ！
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>;IDW(0)||<BIN>34</BIN>:ええ、皆のことを信じています。//nあなたたちの心の光で、眼前に広がる闇を打ち破ってください！
+Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:にゃああ！なんだか、燃えてきたにゃー！
+Welrod(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:お前ら…… +息ぴったりだな！
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:ブレン、大丈夫にゃ。こんな機械のバケモノたちになんか負けないにゃ！
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:おいおい、その自信はどこからくるんだよ！
+Welrod(0)<通讯框><Speaker>ウェルロッドMkⅡ</Speaker>||<BIN>34</BIN>:さあ、あなたたちの正義を守り抜いて下さい！私が行くまで持ち堪えるのですよ！
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:……ちょっ、ウェルロッド隊長、待っ――！
+()||<BIN>34</BIN>:ウェルロッドとの通信は切られ、その場にいる全員に構造図が転送された。
+L85A1(0)<Speaker>L85A1</Speaker>||<BIN>34</BIN>:……どうしてでしょう、絶望を感じるのですが…… +うう……基地の紅茶が恋しいですわ。 +先週、新しいティーカップを買ったばかりなのに……
+L85A1(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:L85A1！しっかりしろ！ +今は包囲網を突破するために集中するんだ。
+L85A1(0)<Speaker>L85A1</Speaker>;BrenMK(0)||<BIN>34</BIN>:でも、どうやって…… +私のマガジンも残り2つですし、隊長も救援に来られないのですよ…… +少しでもここから顔を覗かせれば撃たれるっていうのに、//n意を決して飛び出しても無駄死するだけです……
+L85A1(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:クソッ……なにか使えるものはないのか……
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:フッフッフッフッ……
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:IDW、何笑ってんだ？恐怖のあまりついに壊れたか……
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN><震屏>:みにゃの者！包囲突破は、このプロのボディガードに任せるにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:いきなり大声を出すな！ビックリするだろ！ +それに、今は調子に乗るときじゃないぞ！
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:調子になんてのってないにゃ！ +構造図にも、この道に沿って通気用の配管が通ってるって書いてあるにゃ。 +その配管を通り抜ければ、外に出られるにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:通気口……？そんなところ、入れるのか？
+IDW(0);L85A1(0)<Speaker>L85A1</Speaker>||<BIN>34</BIN>:試してみる価値はありそうです！
+IDW(0)<Speaker>IDW</Speaker>;L85A1(0)||<BIN>34</BIN>:急ぐにゃ！気をつけていけば、きっと敵にも見つからないはずにゃ！
+()||<BIN>34</BIN>:IDWは構造図を片手に、通気口の位置を探し始めた。
+IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:あった、通気口だにゃ！ +まずは、金網を外すにゃ……
+L85A1(0)<Speaker>L85A1</Speaker>||<BIN>34</BIN>:挟まってしまいそうですね…… +ムリです、私では通れそうにありません。
+L85A1(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:L85A1が通れないんじゃ、私はなおのこと無理だな。 +仕方ない、やはりこのまま突っ切るぞ！
+IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:待つにゃ！私がやってみるにゃ！
+IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:おお、通れそうにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:どこにでも入れるなんて、本当にネコみたいだな…… +だが……
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:じゃあ、とりあえず私だけ先に行ってくるにゃ。 +敵の後ろに回って、注意を引きつけるから、2人はその隙に飛び出してくればいいにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:何考えてんだ！一人で行くつもりか！ +お前なんかが出たって、すぐに鉄クズにされるだけだぞ！
+IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:へへ、私はボディガードにゃ。 +敵の注意を引きつけることくらいしかできないけど、それでも皆を守るにゃ！
+IDW(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>34</BIN>:……バカ猫が、とうとうメンタルモデルがイカれたか。
+IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:危ない橋を渡るのは得意だにゃ！たまには本領を発揮しないとにゃ！ +じゃあ、また後でにゃ！
+()<Speaker>ブレン</Speaker>||<BIN>34</BIN><黑屏1>:おい、IDW！待てッ――！
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:IDWは通気口へ入り、慎重に進んでいった。
+IDW(0)<Speaker>IDW</Speaker>||<BIN>9</BIN>:私は……本当にバカにゃ。 +弱いし、すぐ壊れるし……目立たないにゃ……//nけれど、そんな私でも何かの役に立てるはずにゃ…… +それが証明できれば……
+()||<BIN>9</BIN>:IDWは通気口から外へ出る。
+IDW()<Speaker>IDW</Speaker>||<BIN>9</BIN>:自分の居場所を見つけれるかにゃ？
+IDW()<Speaker>IDW</Speaker>||<BIN>9</BIN><黑屏1>:鉄血のバカども！プロのボディガードの登場にゃ！
+()||<BIN>9</BIN><SE1>Gunfight</SE1><黑屏2>:…………
+()||<BIN>55</BIN><黑屏2>:一時間後、戦闘は終わった。+隊員たちは帰路につく……
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:おい、バカ猫。生きてるか？
+IDW(1)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>55</BIN><BGM>GF_Memorial</BGM>:うう……痛いのにゃ…… +ん？銃声が止んでる……戦闘が終わったのにゃ？
+IDW(1);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:とっくに終わったぞ。 +メンタルモデルは、どうやら無事のようだな……つくづく運のいい奴だ。
+IDW(1)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>55</BIN>:へへ……たまにはツイてるときもあるにゃ！
+BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:満身創痍なのに、よく笑えたもんだ…… +はぁ……ったく、なんでお前みたいなバカが同じ部隊なんだろうな。
+()||<BIN>55</BIN>:ブレンはしゃがみ込み、IDWをおぶった。
+IDW(1)<Speaker>IDW</Speaker>||<BIN>55</BIN>:ブレン…… +ずっと……私のこと嫌いだったんじゃないにゃ？
+IDW(1);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:確かに無能に興味はない。 +だがお前は……少しは役に立つようだからな。 +……それだけのことだ。
+L85A1(0)<Speaker>L85A1</Speaker>;BrenMK(0)||<BIN>55</BIN>:ブレンさん、こんな時くらい素直になりましょうよ。
+L85A1(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:L85A1、無駄口を叩く暇があるなら、周囲の警戒をしてくれ。 +バカ猫を背負いながらじゃ、戦えないからな！
+L85A1(0)<Speaker>L85A1</Speaker>;BrenMK(0)||<BIN>55</BIN>:はいはい、分かってますわ。
+L85A1(0);BrenMK(0)<Speaker>ブレン</Speaker>||<BIN>55</BIN>:お、お前、何笑ってんだ！
+L85A1(0)<Speaker>L85A1</Speaker>;BrenMK(0)||<BIN>55</BIN><黑屏1>:いえ……戻ったら、また熱々の紅茶が飲めるんだなぁって思うと、//nなんだか嬉しくなっちゃって。
+IDW()<Speaker>IDW</Speaker>||<BIN>9</BIN><黑屏2>:L85A1、私も飲みたいにゃ！
+L85A1()<Speaker>L85A1</Speaker>||<BIN>9</BIN>:いいですよ。 +新しいカップのセットが4つ入りだったんです、ちょうど1人1つですね。
+布伦()<Speaker>ブレン</Speaker>||<BIN>9</BIN>:まずは修復を終えてからだぞ、バカ猫。
+IDW()<Speaker>IDW</Speaker>||<BIN>9</BIN>:じゃあ、L85A1の紅茶は予約済ってことにしておくにゃ。+あとお菓子もつけてほしいにゃ！
+L85A1()<Speaker>L85A1</Speaker>||<BIN>9</BIN><黑屏1>:もちろん構いませんよ、IDW。//n 紅茶とお茶菓子は、必ず用意しておきますから。

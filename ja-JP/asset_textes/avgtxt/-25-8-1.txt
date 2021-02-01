@@ -1,0 +1,137 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><SE>Battlefield</SE><黑屏2><火花><BGM>BGM_Battle</BGM>:……4号拠点にて。指揮官の部隊はようやく一瞬だけ包囲網に突破口を作れた！+……しかし――！
+()||<闪屏><duration>5</duration></闪屏>:
+()||<SE1>Battlefield</SE1><SE2>Explode</SE2><震屏>:……ドーン！ドドド――――ンーー！
+HK416(3)<Speaker>416</Speaker>||:ダメだわ！敵の砲撃が強すぎる！+全員掩体から出ないように！
+()||<SE1>Gunfight</SE1>:……敵の砲撃はグリフィン遊撃小隊を釘付けにした。
+AK74U(0)<Speaker>AK74U</Speaker>||:ずっとここに留まっちゃまずいよ、416！+砲撃はもうすぐセーフハウスの方にも届く！
+HK416(3)<Speaker>416</Speaker>||:今出ても無駄死にするだけよ！
+AK74U(0)<Speaker>AK74U</Speaker>||:ここまで来て諦めてたまるもんか！+それじゃあ指揮官がここまで戦ってきた意味がないでしょ！
+HK416(3)<Speaker>416</Speaker>||:ここで死んでしまったら一番無意味よ！
+AK74U(0)<Speaker>AK74U</Speaker>||:リスクなしにリターンは得られない、あんたの言ってた言葉だよ！
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:それは一番嫌いな言葉よ……+本当は……冒険なんか全然したくない。
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏1><黑屏2>:<color=#A9A9A9>（もしかしたら、404は元々私に合わないのかもしれない。）</color>+<color=#A9A9A9>（もしかしたら、もっといい居場所を選ぶべきだったかもしれない。）</color>
+A91(0)<Speaker>A91</Speaker>||<BIN>159</BIN><黑屏2>:あらら、こんなところで諦めちゃうの？
+HK416(0)<Speaker>416</Speaker>||:……なにを？
+A91(0)<Speaker>A91</Speaker>||:こういう時こそ、新人たちの見せどころだわ。
+Mk12(0)<Speaker>Mk12</Speaker>||:この距離ならいけるか。
+Python(0)<Speaker>パイソン</Speaker>||:んじゃ使うか！私らの最終兵器を！
+()||:……ピッ。
+HK416(0)<Speaker>416</Speaker>||:これは……？！
+FairyTaunt(2)<Speaker>挑発妖精</Speaker><Position>0,250</Position>||:ちょっとちょっと！なにそんなじーっと見てんのよ！+もしアタシのことを鏡と勘違いしてるのなら一ついいこと教えてあげるよ、このかわいい顔はお前と全然合わないからな！
+HK416(3)<Speaker>416</Speaker>||:な……なにをするつもり！
+Mk12(0)<Speaker>Mk12</Speaker>||:いけ、情報を送り届けるんだ！
+A91(0)<Speaker>A91</Speaker>||:砲撃には気を付けてね！ウォッカ飲んで元気づけてあげようか？
+AK74U(0)<Speaker>AK74U</Speaker>||:あの……本当にこれで大丈夫なの？
+Python(0)<Speaker>パイソン</Speaker>||:座標さえ伝えればいいだろ？+だったら、わざわざ自分たちで行く必要はないってことさ。
+HK416(0)<Speaker>416</Speaker>||:でも妖精ドローンだけじゃ、撤退の援護はできないわ。
+A91(0)<Speaker>A91</Speaker>||:彼女たちはグリフィンで一番ベテランの後方支援部隊よ。逃げることに関しては、彼女たちより詳しい者はいないはず。
+Mk12(0)<Speaker>Mk12</Speaker>||:妖精であいつらに一番安全なルートを案内して、スモークでルート全体を覆う！+そしたらあたしらは敵の制圧に集中すればいい！
+AK74U(0)<Speaker>AK74U</Speaker>||:まぁ……あの妖精が無事辿り着けたらの話だけどね。+そうそう、妖精に暗号ドアの開け方を教えた？
+Mk12(0)<Speaker>Mk12</Speaker>||:それなら……
+()||<震屏>:
+FairyTaunt(2)<Speaker>挑発妖精</Speaker><Position>0,250</Position>||:ギャヤヤヤアアアァァァ！砲弾が！砲弾が飛んでくるぅぅぅ！
+Python(0)<Speaker>パイソン</Speaker>||:気をつけろ！
+()||<闪屏><duration>5</duration></闪屏>:
+()||<SE1>Explode</SE1><震屏><BGM>BGM_Empty</BGM><黑屏1><关闭火花>:……ドーン―――――――！+……爆発の衝撃で挑発妖精は思いっきりセーフハウスのドアに叩きつけられた。
+MP40(1)<Speaker>MP40</Speaker>||<BIN>88</BIN><黑屏2>:え？+外に……誰かいるのですか？
+MP40(1);FairyTaunt(2)<Speaker>挑発妖精</Speaker><Position>0,250</Position>||<BGM>BGM_Reverse</BGM>:バカ！バカ！はやくドアを開けろこのバカ！
+MP40(1)<Speaker>MP40</Speaker>;FairyTaunt(2)<Position>0,250</Position>||:私たちのドローン！？どうしてここに――
+MP40(1);FairyTaunt(2)<Speaker>挑発妖精</Speaker><Position>0,250</Position>||:バカ！グリフィンがお前らを助けに来たんだよ！+はようアタシについて来い！この間抜けども！
+MP40(1)<Speaker>MP40</Speaker><Shake>;FairyTaunt(2)<Position>0,250</Position>||<黑屏1>:……え？あ！は、はい！全員、私についてきてください！
+AK74U(0)<Speaker>AK74U</Speaker>||<BIN>159</BIN><黑屏2><火花>:出て来たぞ！+ありったけの発煙弾を撃ちこめ！
+HK416(3)<Speaker>416</Speaker>||<SE1>Gunfight</SE1>:総員、制圧射撃！
+Mk12(0)<Speaker>Mk12</Speaker>||:よし、スモークの中に入ったぞ！でも敵もスモークエリアを攻撃し始めた！
+HK416(0)<Speaker>416</Speaker>||<黑屏1><关闭火花>:ちっ……あとはあいつらの運次第ね……！
+()||<黑屏2><BIN>9</BIN><黑屏1>:……五分後。
+AK74U(0)<Speaker>AK74U</Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Empty</BGM>:あ……まさか……
+AK74U(0);A91(0)<Speaker>A91</Speaker>||:全員逃げ出せたなんて……
+Mk12(0)<Speaker>Mk12</Speaker>;A91(0)||:いつも後方支援をやってるから、逃げ足が速いのか……？
+MP40(1)<Speaker>MP40</Speaker>;A91(0)||:グリフィン戦術人形MP40、ただいま帰還しました！
+MP40(1);HK416(0)<Speaker>416</Speaker>||:分かったわよ。とりあえずちゃんと休んで、後の戦闘に……+……ちょっ、なっ？
+MP40(1)<Speaker></Speaker><Shake>;HK416(0)||<BGM>GF_Memorial</BGM>:……バッ！+……MP40は突然416に抱き着いた。
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:ありがとうございます！助けてくれて本当にありがとうございます！
+MP40(1);HK416(0)<Speaker>416</Speaker>||:指揮官とみんなのおかげよ。+あんたたちを助けるのが、私たちの任務だし。
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:てっきり……てっきり見捨てられるのかと思ってました！そんなことを考えていたのが恥ずかしいです！
+MP40(1);HK416(0)<Speaker>416</Speaker>||:そんなことで騒がないでよ。//n別に、それも考えなかったわけじゃないし。
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:そう……でもそれが一番普通の考え……+だからこそ、本当に感謝しています！
+HK416(0)<Speaker>416</Speaker>||:……分かったわ。+もう休んできなさい。これからの戦闘は危険だし、あんたたちにやってもらいたいこともあるわ。
+()||:……MP40が去った後、416は遊撃小隊たちのところに戻った。
+Python(0)<Speaker>パイソン</Speaker>||:さて、みんなのヒーローのお帰りだな。
+AK74U(0)<Speaker>AK74U</Speaker>||:こんなにたくさんの人形を助けて、何か調子のこいた感想でも？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:油断しないで、敵がこのまま諦めるとは思えないわ。+また戦力を集中して、基地に攻撃を仕掛けてくるかもしれない。+私たちが生き残れるかどうかは、その時の結果次第よ。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:大丈夫だ、あんたの言うことはちゃんと聞く。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:万が一私が間違っていたら？
+HK416(0);A91(0)<Speaker>A91</Speaker>||:そしたら全部あんたのせいにするわよ。//nだからそんなに気にしないで。
+HK416(0)<Speaker>416</Speaker>;A91(0)||:あんたも少しはアルコールを控えなさい。後の戦闘のためにも頭をすっきりさせた方がいいわ。+アルコールがあんたのメンタルにどういう影響を与えるのか分からないけど、控えて損することはないはずよ。
+HK416(0);A91(0)<Speaker>A91</Speaker>||:だから飲むのよ、あたしって飲めば飲むほど頭がすっきりするのよ。
+HK416(0)<Speaker>416</Speaker>;A91(0)||:なにそれ……
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||:そういう初期設定なんだ、416。つまりは私らの運命でもあるのさ。
+HK416(0)<Speaker>416</Speaker>;Python(0)||:そんなものになんの意味があるのかさっぱり分からないわ。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:あたしらもよくわからん。ただ戦闘と同じように楽しんでるだけだ。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:……ある意味、私よりも勇気あるわね。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:今さらアタシらを褒めるのか？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:事実を言っただけよ、褒めてるつもりはない。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:でも嬉しいぜ！
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||:416、今を楽しんでおけ。+未来に危険が待ち受けているからこそ、今という時が大事なんだ。
+HK416(0)<Speaker>416</Speaker>||:……それじゃ、三分だけ。
+()||<黑屏1>:……416微かに笑った。
+HK416()<Speaker>416</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:少し、音楽を流してもいいかしら？
+()||<BGM>BGM_Empty</BGM><BIN>159</BIN><黑屏2>:その後……救出作戦に参加したすべての人形たちは基地に向けて撤退した。
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:……はい、分かりました。+すぐに向かいます。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:新しい任務？
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:敵が現れたのよ、76号拠点に。
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:76号？あそこは誰もいないよ。
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:なに……？
+HK416(0);AK74U(0)<Speaker>AK74U</Speaker>||:今は人手が足りないからね、放置されてる拠点も多い。//nとはいえそんなところを奪って、何か意味があるの？
+HK416(0);A91(0)<Speaker>A91</Speaker>||:データを集めているんじゃないの？+あたしたちの防衛体制を分析して、作戦を立てる。最後の攻撃のためにね。
+HK416(0)<Speaker>416</Speaker>;A91(0)||:一理あるわね。それもアルコールのおかげかしら？
+HK416(0);A91(0)<Speaker>A91</Speaker>||:七本も飲んだからね、今は頭脳派なのよ。
+HK416(0)<Speaker>416</Speaker>;A91(0)||:はぁ……あいつらを駆逐するわよ。//n撤退ポイントに近いから、敵の手に落ちるとまずいことになるって指揮官も言ってた。
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:416、前方に人形の信号を発見した。確認してきてくれ。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:敵か？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:違う……一部だけが鉄血で、他は全部グリフィンの。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:どういうこと？
+HK416(0);Mk12(0)<Speaker>Mk12</Speaker>||:あんたならどうすればいいか分かるって、パイソンさんが言ってたよ。
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:私が……？
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||:そんなに驚くことか？+私がわざわざ先頭から最後尾まで来たのもこのためだ。
+HK416(0)<Speaker>416</Speaker>;Python(0)||:引き金を引く以外に、鉄血とやり合う方法は知らないわ。
+HK416(0);Python(0)<Speaker>パイソン</Speaker>||<黑点1>:会えばわかるさ。+あんたらは同じ「特別」な人形だし、ひょっとして知り合いかもしれないぞ。
+()||<黑点2><BGM>BGM_Empty</BGM>:…………二分後。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_illustratedBook</BGM>:あー！RO、ついたよ！+見て！セーフポイントだよ！わたしたち安全だよ！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:本部に何があったの？！+SOP II、教えて！じゃないとセーフポイントに入らせないわよ！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(6)||:あああ！右足が！言うことを聞かない――！
+SOPIIDamage(2);HK416(0)<Speaker>416</Speaker>||:うるさいわね。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……？！
+RO635(6)<Speaker>RO635</Speaker>;HK416(0)||:あ……あなたは……
+RO635(6);HK416(0)<Speaker>416</Speaker>||:こんな時にグズグズするなんて。早く合流しなさいって言ったでしょ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:この人形……どこかで会ったことある気がする？
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:あんたが会ったことある人形なんていくらでもいるわよ。//nとにかく、早く来なさい。+敵がもうすぐ攻撃を始めるわ。//nその前に、みんなで協力してここから離脱しないと。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;HK416(0)||:敵？軍がここまで攻めてきているのですか？
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:新しい敵よ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>;HK416(0)||:新しい敵？+軍でも、鉄血でもなくて？+一体なんなの？
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:分からないわ。+分かってるのは、あれは私たちを皆殺しにしようとしてることだけ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:へー……そうなの？+わたしからすれば、相手は殺せるものなら何でもいいけど。
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:そこが問題なのよ。
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:あいつら、あの私たちを殺そうとしてるやつらは……+……殺しても死なないわ。
+()||<BIN>159</BIN><黑屏2>:……
+HK416(0)<Speaker>416</Speaker>||:少なくとも数時間前までは。今はもうなんとかなったわ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:……
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:……行きましょう。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:え？まって、今の冗談なの？わたしもしかして笑うべきだった？
+HK416(3)<Speaker>416</Speaker>||<震屏><黑屏1>:早く来なさいって！
+()||<黑屏2><BIN>161</BIN><BGM>BGM_Empty</BGM>:……
+HK416(0)<Speaker>416</Speaker><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>指揮官、今から76号拠点に向かい、白い敵の襲撃に対処します。</color>+<color=#00CCFF>ついでに、途中で――</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>指揮官！指揮官！指揮官！</color>
+HK416(0)<Speaker></Speaker>||:……ピッ！+……416はSOP IIの通信を無理やり閉じた。
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>ひどいよ416！</color>+<color=#00CCFF>ROはまだなにも話してないのに！</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>は、話さなくていいから……戦死したことにして……</color>
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>途中でAR小隊のSOP IIとRO、そしてCx4ストームの人形部隊を拾いました。</color>+<color=#00CCFF>ちょっと……色々変なことになってるけど、今のところまだ自由に行動できるようです。</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>自由じゃないから！わたしは全然自由じゃないから――！</color>
+HK416(0)<Speaker>指揮官</Speaker>||:……<c>SOP II、無事だったのね！<c>RO……どこ？<c>おかえり！きっと無事だと信じてたよ！
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:<color=#00CCFF>はい、指揮官！色々あったけど、無事に帰って来れたよ！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>2</分支>:<color=#00CCFF>わたしは……わたしは……SOP IIの、肩に……//nここここれは一時的なものだから！仕方なくこうなってるんだから！</color>
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:<color=#00CCFF>うん！わたしも！きっとまた指揮官に会えるって信じてたよ！</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>3</分支>:<color=#00CCFF>えと……その、あなたが無事なら何よりです、指揮官。</color>
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>……話は後にしましょう。もうすぐ76号拠点に到着するわ。</color>+<color=#00CCFF>指揮官、私たちは全ての部隊を救出できなかったので、ここから先の戦いは厳しいのもになると予想します。</color>+<color=#00CCFF>なるべく万全な準備をして、作戦に臨んでください。</color>
+()||<BIN>10</BIN><黑点2>:

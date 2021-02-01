@@ -1,0 +1,49 @@
+ ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:……潜入に成功し、UMP9とHK416はそれぞれの目標地点へ向かった。
+HK416(0)<Speaker>416</Speaker>||:こちら416、目的地へ無事到着。//nG11を捜索中。
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:あれ？//nレーダーの示す通りなら、G11はあなたのすぐそばにいるはずよ？
+HK416(0)<Speaker>416</Speaker>||:周りは木に囲まれてるし、どこに隠れているのだか……+……あっ、いたわ。+起きて、G11。
+G11()<Speaker>Gr G11</Speaker>||:ぅぅ……やだ……
+HK416(0)<Speaker>416</Speaker>||<震屏>:はやく起きなさい。//n間に合わなくなるわよ。
+G11()<Speaker>Gr G11</Speaker>||<黑屏1>:んもぅ……蹴らないでよ。
+G11(0)<Speaker>Gr G11</Speaker>||<黑屏2>:ん？//n416……なんでここにいるの？
+HK416(0)<Speaker>416</Speaker>;G11(0)||:なに寝ぼけてるのよ……+助けを呼んだのはあなたでしょ？
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:えっと……416がやられたかもって、45に言われたの。+それで……夜遅くまでやり過ごしてから逃げようと思って。
+HK416(0);G11(0)<Speaker>UMP45</Speaker>||:♪ごめんね～G11。416がどうしても行きたいってうるさくてさ。//n睡眠の邪魔だったよね。
+HK416(0)<Speaker>416</Speaker>;G11(0)||:…………あんたたち。
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:怖い顔しないでよ、416……助けに来てくれたんでしょ？
+HK416(0)<Speaker>416</Speaker>;G11(0)||:はぁ……どこもかしこも鉄血だらけよ。//nまずは隠れる場所を探しましょ。
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:うん……ちょっと待って。+盗聴任務の最中に眠っちゃってたから……まずは録音内容をチェックしないと。
+HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:…………+1分だけ待ってあげるわ。//n早くしないとバラバラにして連れて帰るわよ。
+ ()||<BIN>9</BIN><黑屏2>:録音の再生を始める……
+？？()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:……こんばんは。+S06地区へようこそ、グリフィンの皆さん。
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:ちょっと、これはなによ？！//nどういうこと？！
+G11(2)<Speaker>Gr G11</Speaker>||:し……しらないよ。//nずっと気をつけてたつもりだもん。
+？？()<Speaker>？？</Speaker>||:今回の夜襲、手ごたえはどうだ？
+HK416(2)<Speaker>416</Speaker>||:この声が今回の鉄血ボス？
+？？()<Speaker>？？</Speaker>||:……ご存知の通り、夜はまだ始まったばかりさ。+ただ残念ながら、おぬしたちにとってはそろそろ終わりだけどな……
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:まずいわ！+G11！早く伏せて！！
+()||<黑屏1><震屏><SE1>Explode</SE1>:ドン――ッ！！
+()||<黑屏2><BIN>3</BIN><Night>:時を同じくて、鉄血S06地区司令部にて。
+HunterElite(0)<Speaker>ハンター</Speaker>||<BGM>BGM_Boss</BGM>:ウロボロス、S6地区F3の方角で音声作動式爆弾が起爆した。+映像から404小隊の奴らだと確認はできたが、生死は不明だ。
+Weaver(0)<Speaker>ウロボロス</Speaker><通讯框>;HunterElite(0)||:ならばこちらから出向こうじゃないか。//n包囲殲滅隊を送って、今すぐ叩き潰してやればいい。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:正気か？//nグリフィンとの衝突はできるだけ避けるようにと、エージェントに言われたろ。
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||:ハンター、おぬしはそういうことに固執するからAR-15に頭を砕かれる羽目になったのだ。+よく聞け。//n我々のターゲットはそこらの雑魚ではなく、あいつらのリーダーだ。+404の奴らを包囲したのはただの見せかけで、ボスをおびき出すことこそが真の目的だ。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:404はAR小隊とは違うぞ。.//nボスが他の奴らを見捨てて逃げ出さない確証はあるのか？
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||:ああ、あるぞ。奴らが404だからこそな。+困難な状況に陥った時に友を裏切ることはあるかもしれんが、優勢な時にそれをするバカはおらんだろ。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:ウロボロス……+だとすればわたしの役目はなんだ？//nなぜ他のもっと強力な人形ではなく、わざわざ瓦礫の下敷きになっていたわたしを再起動させたのだ？
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||:おぬしは失敗というものを味わっているからな。//n復讐心はお前をより残酷に、屈辱はお前をより慎重にしてくれる。+グリフィンに対抗するには、そんなおぬしがうってつけの駒だ。+まさかわたしを……がっかりさせるつもりじゃあるまいな？
+Weaver(0);HunterElite(1)<Speaker>ハンター</Speaker>||:……+いや。//nお前を裏切ったりはしないさ、ウロボロス。
+Weaver(0);HunterElite(0)<Speaker>ハンター</Speaker>||:すぐに……哨戒所に向かう。
+Weaver(0)<Speaker>ウロボロス</Speaker>;HunterElite(0)||<黑屏1>:任せたぞ、ハンター。S06地区の哨戒所を防衛し、グリフィンの奴らをただちに殲滅せよ！
+()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:10分後。//nその頃の416とG11は。
+G11(2)<Speaker>Gr G11</Speaker>||<SE2>Gunfight</SE2>:ううー……416、もっと急がなきゃ鉄血に追いつかれちゃうよ！
+HK416(3)<Speaker>416</Speaker>||:うるさい！文句があるなら私をおぶってこの距離を走ってみなさいよ！+……まずいわ、この先は行き止まりよ。//n45、迎えはどうなってるのよ？！
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:すぐそこまで来てるわ。//n今下にいる！
+HK416(3)<Speaker>416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:馬鹿なこと言わないで。下は崖よ？
+HK416(3);UMP45(2)<Speaker>UMP45</Speaker>||:ええ、そうよ。まっすぐ走って、飛び降りてちょうだい！
+HK416(2)<Speaker>416</Speaker>;UMP45(2)||<SE1>Gunfight</SE1>:……とうとう私たちを始末するのね、45。
+HK416(2);UMP45(2)<Speaker>UMP45</Speaker>||:だとしても今じゃないから。416、私の言うことを信じて。
+HK416(2);G11(2)<Speaker>Gr G11</Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:言う通りにして飛び降りよう！//nきっと助かるから！
+HK416(2)<Speaker>416</Speaker>||:はぁ……G11。//nあんたみたいな筋金入りの意気地なしが言うんだったら……+信じるわ……
+HK416(3)<Speaker>416</Speaker>||:行くわよ。いち、にの――
+()||<BIN>9</BIN><SE2>Gunfight</SE2><黑屏1>:―ーさんッ！+…………

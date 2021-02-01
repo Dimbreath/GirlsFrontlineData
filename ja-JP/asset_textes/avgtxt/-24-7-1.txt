@@ -1,0 +1,14 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:……SOP IIは鉄血の備蓄拠点に潜入し、先に予備電源を確保しようとした。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:見つけた！これで……ROも――
+()||<闪屏><duration>5</duration></闪屏>:
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:……ドーン――！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:……！この声は！
+SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>よろしい、残りのグリフィンのクズも片付けましたわ。</color>+<color=#00CCFF>あとは……最後のカスだけ。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:……スケアクロウ！
+SOPIIDamage(3);BOSS-1(0)<Speaker>スケアクロウ</Speaker><通讯框>||:<color=#00CCFF>なぜ、わたしたちの倉庫に隠れるのかしら？</color>+<color=#00CCFF>もしかして、一番危険な場所が一番安全、ということ？</color>+<color=#00CCFF>確かに、それで少しは命拾いしたわね、仲間たちを犠牲にして。</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:黙れ！このヤロウ！+あんたはわたしが殺す！あんたじゃ計算すらできない方法で！
+SOPIIDamage(3);BOSS-1(0)<Speaker>スケアクロウ</Speaker>||:<color=#00CCFF>どうぞご自由に……どうせわたしたちはただ、仕事をしているだけ。</color>+<color=#00CCFF>さっきのゴミも、君も、同じく処理するだけ。</color>
+SOPIIDamage(3)<Speaker></Speaker>||:……
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:さっきの戦闘で、スケアクロウの部隊もそんなに残ってないはず……+倒すチャンスはまだある……+みんなの仇を取るために、生きるために……+わたし……絶対にあいつを殺す！
+()||<黑点2><BIN>10</BIN>:

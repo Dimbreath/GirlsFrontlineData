@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Boss2</BGM>:アンジェ！今ならいける？
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>||:まだダメよ！敵の火力が強すぎる！+416！あのボスさっきくれた情報と全然違うんじゃない！
+HK416(3)<Speaker>416</Speaker>||:あいつは強化版よ！前のよりも強化されてる！
+AK12(3)<Speaker>AK-12</Speaker>||:一体どこのどいつなのか……気になるわね。
+AN94(2)<Speaker>AN-94</Speaker>||:見たことないマークに、見たことない武器。
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>||:一旦退くわ、チャンスを待たないと！
+RO635(6)<Speaker>RO635</Speaker>||:あと何回やれば……しかも敵も増援を送り込んできている様子です！
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>そちらはまだ大丈夫ですか？</color>
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>;M82A1(0)||:……さぁね。M82、あなたの援護射撃がなかったらもうここで死んでいた可能性すらあるわね。
+NPC-AngeDamage(3);M82A1(0)<Speaker>M82A1</Speaker>||:<color=#00CCFF>ここで死なれては困ります。もしあのボスの詳細位置を確定できるのなら、ここから狙撃して倒せるのかもしれません。</color>
+NPC-AngeDamage(3)<Speaker>アンジェリア</Speaker>||<黑屏1>:分かった……なんとかしてみるわ……
+()||<黑点2><BIN>10</BIN>:

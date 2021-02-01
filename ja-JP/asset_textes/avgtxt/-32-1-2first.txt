@@ -1,0 +1,76 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>187</BIN><黑屏2><BGM>m_va_digital_drive</BGM>:……カーチェイスはなおも続いていた。//n猛スピードで並走するデイナとアーキテクトの車のバックミラーには、既にホワイトナイトたちは映っていない。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>デイナ！前！前は崖だってば！</color>
+BOSS-9(0)<Speaker>アーキテクト</Speaker><通讯框>||:<color=#00CCFF>ハハッ、どうあってもあたしのこと、逃がしてはくれないみたいね！</color>
+Dana(0)<Speaker>デイナ</Speaker><通讯框>||:<color=#00CCFF>それは勿論、お前は私の最後の獲物だからな！おチビちゃん、しっかり掴まってろよ！</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||<震屏>:<color=#00CCFF>え、デッ、デイナ？何をするつもり？？</color>
+Dana(0)<Speaker>デイナ</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>お察しの通りさ！</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>だから前は崖なんだって！！アタマおかしくなっちゃったの！？</color>
+Dana(0)<Speaker>デイナ</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>人形は壊れたってどうってことないだろ！</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>あなたを心配してるの！崖から落っこちた後、誰がアタシのことを連れて帰るのよ！</color>
+Dana(0)<Speaker>デイナ</Speaker><通讯框>||:<color=#00CCFF>安心しろ、そこんとこはちゃんと考えてある。よし！しっかり掴まったな！</color>
+BOSS-9(0)<Speaker>アーキテクト</Speaker><通讯框>||:<color=#00CCFF>まだブレーキ踏まないの、人間さんよ？予備のボディ三つ賭けてもいいぐらいには確実に、反応速度はあたしの方が速いよ？</color>
+Dana(0)<Speaker>デイナ</Speaker><通讯框>||:<color=#00CCFF>それはそうだろうな。ブレーキで勝負するなら、確実にお前のほうが反応は早いだろう……</color> + <color=#00CCFF>だがな、私はブレーキを踏む気なんてさらさらないんだよ。</color>
+BOSS-9(0)<Speaker>アーキテクト</Speaker><通讯框>||<黑屏1><震屏>:<color=#00CCFF>なっ——！？ </color>
+()<Speaker>デイナ</Speaker>||<BIN>9</BIN><黑屏2>:地獄の底までエスコートしてやるよ。+ハニー——
+()<Speaker>Super-Shorty</Speaker>||:いやああああああああ——！
+()<Speaker></Speaker>||:……ガァン—— ！+……デイナが車をアーキテクトの方にぶつけると、二台は同時に崖の下へと落ちていった。
+()<Speaker></Speaker>||:……+…………
+()<Speaker>Super-Shorty</Speaker>||:ゴホッ……ゴホッ…… +くそっ…… デイナ！デイナはどこ！？
+()<Speaker>？？</Speaker>||:<color=#00CCFF>プー……プー……</color> + <color=#00CCFF>おかけになった電話は電波の届かない場所にあるため、繋がりません……</color>
+()<Speaker>Super-Shorty</Speaker>||<黑屏1>:……！+アーキテクト！ゴホッゴホッ……
+()<Speaker></Speaker>||<BIN>187</BIN><黑屏2>:……アーキテクトは体のほこりをはたき、髪を軽く整えた。
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:今回はなかなか楽しめたよ、おチビちゃん！//nでも、あたしを捕まえたいんだったら、先住民一人とおチビちゃんだけじゃ、ちょっと力不足なんじゃない？+どいてもらえる？//nあたしまだやることあるし。
+()<Speaker></Speaker>||:……Super-Shortyはやっとのことで立ち上がると、武器を構えた。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:一つ、金輪際アタシのことをチビ呼ばわりするのは許さない。+もう一つ、ここを離れることも許さない。
+SuperShorty(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:へ？あたし、あんたに何かしたことあったっけ？
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:覚えてないけど、アンタのことが大っ嫌いだったことだけは覚えてる……
+SuperShorty(0);BOSS-9(0)<Speaker>アーキテクト</Speaker>||:なにそれ、変なの～。//nキライなのがエクスキューショナーだっていうならまだわかるけどさぁ、あいつってばいつも誰かに金を借りてるんだから。+でもあたしだって？//nこの人畜無害で利口なあたしをキライっていうのは、わっからないな～+まぁいいや。//nとにかくそこ、どいてよ。じゃないとホントに怒るよ？
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||<SE1>Select</SE1>:……誰がどくもんか。
+BOSS-9(0)<Speaker>アーキテクト</Speaker>||:……+はぁ、この距離から撃ちたくはないけど、だからってやらないわけじゃないんだよ。+まっ、悪く思わないでよね、おチビちゃん——
+()<Speaker></Speaker>||<震屏>:……ドカン！+ ……ドサッ。+……アーキテクトは少しふらついた後、その場に倒れこんだ。
+Dana(0)<Speaker>デイナ</Speaker>||:ふぅ……無事かい、おチビちゃん？+いいことを教えてやろう。//nパンを一本持ち歩いておけば、いつか役に立つ日が来る。
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:まさかそのパンで……人形を一人倒したっての？
+Dana(0)<Speaker>デイナ</Speaker>;SuperShorty(0)||:フランスパンだ。ゴマもかかってる。+おチビちゃん、さっきはよくやったな。//nだが次はこんな危ない真似するんじゃないぞ？
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:アタシも理由はよくわからないんだけど、鉄血を見てると言葉にできない嫌悪感が……
+Dana(0)<Speaker>デイナ</Speaker>||:ははっ、もしかしたら前は本当にホワイトナイトだったのかもな。
+()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:私たちホワイトナイトに、彼女のような背の低い方はいませんよ。
+Dana(0)<Speaker>デイナ</Speaker>||<BGM>m_va_troubling_news</BGM>:また遅刻だな、ジェリコ。//nタイヤが砂にでもはまったか？
+Dana(0);Jericho(0)<Speaker>ジェリコ</Speaker>||:あなたみたいにとんでもない方法で来たわけではないので。+まったく、どんなところへ行ってもあなたに会いますね、デイナ。//n流石に慣れましたが。
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:私は未だにホワイトナイトのお出ましには慣れん、同じ獲物を追っかけてる時は特にな。
+Dana(0);Jericho(0)<Speaker>ジェリコ</Speaker>||:あなたの行いを私たちはこう呼んでいます……「公務執行妨害」と。
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:そうか？//n私なら「友情」と呼ぶけどな。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:そんなものを信じているのは、人間ぐらいのものです。//n私たちが求めているのは、もっと現実的なものですよ。
+()<Speaker></Speaker>||:……ジェリコは気を失っているアーキテクトを軽く蹴りつけた。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:ターゲットの頭部に損傷なし。//n車に載せたら彼女の記憶モジュールのスキャンをお願いします。+最後の鉄血……やっと掴まえましたよ。
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:あいにく私の車は壊れてしまってね、報酬代わりに修理妖精を何体か寄越しちゃくれないか？//n「ありがとう」の一声を添えて。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:まず初めに、これはあなたの車ではありません。それに、あなたのせいで私の計画に狂いが生じました。加えて言うならば、あなたのせいで彼女の頭が損傷でもしていたら、その時は迷いなくあなたを拘束いたします。+デイナ、戒厳令に「遭遇時、対象を傷つけることなかれ」と書かれていたのを見なかったのですか？
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||:それで、このアーキテクトは一体何をやらかしたの？
+SuperShorty(0);Jericho(0)<Speaker>ジェリコ</Speaker>||:彼女は鉄血です。それだけで十分では？//n……こちらの背の低い方は誰ですか？
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||<震屏>:背が低いって言うな！
+Jericho(0)<Speaker>ジェリコ</Speaker>||:先住民は百年前より、無断で人形を雇うことは禁止されています。//nデイナ、ちゃんと正規の手続きは済ませているのですか？
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:そいつは私がさっき拾った子だ。//n自分が誰だかも覚えていないやつを放っておいて、鉄血の餌食にするのも忍びなくてな。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:それはなりよりです。//nであれば、しばらくの間会えなくとも辛くはありませんね？
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:何のこと？
+Dana(0)<Speaker>デイナ</Speaker>||:おい。//nこいつ、そこまで太陽の光は浴びてないぞ？
+Jericho(0)<Speaker>ジェリコ</Speaker>||:デイナ、私たちはホワイトナイトの中でもえりすぐりの精鋭で組織された電撃隊第765師団ですよ。//n浴びた光の量なんて、私たちが与することではありません。+私たちが今懸念しているのは、鉄血と接触した人形は、全て【傘】ウイルスに感染した可能性があるということです。+彼女のように素性の知れない人形ならなおのこと、グリフィンシティ内の基地まで連れ帰って、詳しい検査を受けさせる必要があります。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:【傘】ウイルス？
+()<Speaker>デイナ</Speaker>||<BIN>35</BIN><黑屏2>:鉄血の体内に潜む、一種の電子ウイルスだ。//nグリフィンの人形がそれに感染すると、鉄血の最高指導者―—エルダーブレイン【エリザ】の手によって鉄血のユニットに書き換えられ、意のままに操られるらしい。
+()<Speaker>ジェリコ</Speaker>||<黑屏1>:そして、私たちの部隊の最終目標はエリザを拘束し、鉄血がグリフィンシティにもたらした悪夢に終止符を打つことです。+以前捕らえた鉄血勢力から彼女の情報を得ることは叶いませんでしたが、今、最後の鉄血を捕らえることができました。エリザの情報は、きっと彼女の脳内にあるはずです。+運が良ければ今日中にエリザを拘束し、長きにわたるこの騒ぎを終わらせることができるかもしれません。//nですが、万一に備えて、規則である検査を受けることは絶対です。
+Dana(0)<Speaker>デイナ</Speaker>||<BIN>187</BIN><黑屏2>:それは幸運を祈るぜ、ジェリコ。//nそれと、私がこいつに同行して基地まで行っても構わんよな？
+Dana(0);Jericho(0)<Speaker>ジェリコ</Speaker>||:本当に一時間前に知り合ったのですか？//nまるで実の姉のような話しぶりですが……
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:それが我々先住民の流儀さ。//n好感度を上げるとかそんなものは必要ない、100%自分の気分次第だ。//nしかもこいつは、私の妹と同じくらい可愛いしな！
+Dana(0);Jericho(0)<Speaker>ジェリコ</Speaker>||:分かります。//n知り合ってこんなに長い私が、あなたに対して特に好感を抱かないのと一緒ですよね。
+Dana(0)<Speaker>デイナ</Speaker>;Jericho(0)||:ほんとにつれないやつだな、お前は。+私はこれでも、お前のことを結構気に入ってるんだぞ？//n私の報酬を掛け合ってくれている時は特にな。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:はぁ……あなたのしたことは公務執行妨害だって言いましたよね？+どちらにせよ、結論を出すのは総理ですので、電話を掛けてみますよ。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:……
+SuperShorty(0);Dana(0)<Speaker>デイナ</Speaker>||:安心しろ、おチビちゃん。//n普通の検査をするだけだ。+脱がされるのはせいぜい上着くらいのもので、スカートを脱がされることはない。//n多分な。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:別に怖がってないし！+ただ……一度にたくさんのことがあり過ぎて、少し混乱しているだけ……
+Dana(0)<Speaker>デイナ</Speaker>||:大丈夫さ。//nグリフィンシティは酷い場所だが、砂のようにお前を飲み込んだりはしない。
+Jericho(0)<Speaker>ジェリコ</Speaker>;Dana(0)||:終わりましたよ、デイナ。//nいい知らせです。
+Jericho(0);Dana(0)<Speaker>デイナ</Speaker>||:私に巨額の報酬でも？
+Jericho(0)<Speaker>ジェリコ</Speaker>;Dana(0)||:この子と一緒に私たちの車に乗って帰り、検査が終わったらすぐに彼女を連れ帰ってもいいそうです。//nこれが今回、私があなたのために掛け合った報酬です。
+Jericho(0);Dana(0)<Speaker>デイナ</Speaker>||:これがかのリリム総理が気前よく出してくれた報酬であるならば、まったく驚きはせんがな。
+Jericho(0)<Speaker>ジェリコ</Speaker>||:十分なはずです。総理は最近、特に忙しいのですから。//nそれに、あなたを送る車はこの世で最も優れたホワイトナイト隊のものなのですよ。//n——誰か、現場の清掃をお願いします。
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:これでグリフィンシティに行けるの？
+Dana(0)<Speaker>デイナ</Speaker>||<黑屏1>:そうだ。//n今は何も思い出せないかもしれんが…… +グリフィンシティでは、むしろそっちの方がいい。

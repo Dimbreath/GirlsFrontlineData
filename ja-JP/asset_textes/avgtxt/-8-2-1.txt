@@ -1,0 +1,28 @@
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:落雷事件の一週間後、S09地区グリフィン司令部にて。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>8</BIN>:……そうなんだ、あなたも兵士なのね？
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:はい……そちらの事情をうかがっているうちに、私も複雑な気持ちになってきました……
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:にしても、未来人はもっとおしゃれだと思ってたよ。
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:す、すみません、がっかりさせてしまって。+でも……私の言っていることを信じてくれるんですね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:信じるというか、そこは別にどうでもいいだけだよ……+私たち人形にとって大事なのは、任務の遂行だけだからね。
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:人形……あなたたちは本当に人間ではないんですね……+ロボットってことは、あなたたちもロケットパンチを使ったり、ブースターがついていたりするんですか？
+FNFNC(0)<Speaker>FF FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:……あなたたちの世界のロボットって、みんなそんな感じなの？
+FNFNC(0);BB_Noel(2)<Speaker>ノエル</Speaker>||<BIN>8</BIN>:えーっと……ロボットというよりは、改造人間と言ったほうが正しいかもしれませんね……
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:あなたたち、とっても気が合うみたいね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;FAL(0)||<BIN>8</BIN>:あ、FAL。//nもしかしてご飯の時間？
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:パンならあるけど、それより任務の話が先よ。+落雷事件以後、鉄血が狂ったみたいに付近で襲撃を繰り返しているわ。+S09地区周辺の管轄区では、すでにいたるところで住民の負傷が報告されているみたいね。+それに……モニター監視によれば、鉄血部隊の中にウサギの耳を生やしたやつが混ざっていたそうよ。
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:ウサギの耳！も、もしかして……！
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:信じ難いけど、あなたの言っていた通りみたいね……
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:絶対にその人です！//nその人さえ見つかれば、きっと私は帰ることが出来るはずです！
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:今のところ、そのウサ耳の動機が何なのかは分からないけど……+これだけのことしでかされちゃうと、やりにくいったらありゃしないわね。+どのみち目的が同じなら、あなたにも協力してもらうしかないようね。
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:よかった！//n……ようやく戻れる希望が見えてきました！
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:落ち着いて、ノエルさん。+あなたは今も変わらず要注意人物なんだからね。//nもちろん、行動制限も続いてるのよ。
+BB_Noel(2)<Speaker>ノエル</Speaker>;FAL(0)||<BIN>8</BIN>:うぅ……ごめんなさい……舞い上がってしまいました……
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑点1>:次に襲撃される可能性が高いポイントはもう割り出されているわ。+行きましょう、皆さん……+「ウサギ狩り」が始まるわよ。
+FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2>:こっ、こちらB地点……周辺住民の避難が完了しました。
+FN57(0)<Speaker>Five-seven</Speaker><通讯框>||<BIN>10</BIN>:C地点も完了、問題ないわよ。
+FAL(0)<Speaker>FAL</Speaker>||<BIN>10</BIN><BGM>BGM_Frontline</BGM>:よろしい。//nあとはウサギさんが来るのをのんびり待つだけね……
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker><通讯框>||<BIN>10</BIN>:こんな素晴らしい舞台を整えてくれるなんて……あなたたちには感謝しないといけないですわ。
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:イントゥルーダー？！//nなぜあんたが……！
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker><通讯框>||<BIN>10</BIN>:ごめんなさいね、今はまだあなたたちを「ウサギ」に会わせるわけにはいかないの。+けれど、代わりにわたくしが出演するのも悪くないわよね？
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:あんたでも「ウサギ」でもかまわないわ。//nどちらにしろ私たちの標的リストに載っているもの。+けれど、今日をもってあんたの名前はリストから消えることになりそうね。
+FAL(0);BOSS-4(0)<Speaker>イントゥルーダー</Speaker><通讯框>||<BIN>10</BIN>:あらあら、ご招待には感謝するわ。//nそれじゃ、この貴重な巡りあわせを楽しみましょ。

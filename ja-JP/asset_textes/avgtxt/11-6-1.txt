@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>85</BIN><黑屏2>:21時30分、セーフハウスの隅っこ……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:うっ……本当にここから入るの……+真っ暗でなんか怖いよ……
+RO635(0)<Speaker>RO635</Speaker>||:あの情報屋はきっとこの隠し通路から逃げたはずよ。入口あたりの埃に跡ができていることから、ついさっき誰かがここを通ったのは間違いないわ。
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:本当にそうだといいけど……万一これも罠で、降りたらすぐ何十人に包囲されることになったら……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:まぁ……その可能性もなくはないけど……他に考えがあるの？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:……妖精のドローンがあるじゃない？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:妖精？まだ外で警戒しているはずだけど、どう使うの？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:じゃあはやく呼んできて。+とりあえず下の状況を偵察して、そして下水道の地形情報を集めなくちゃ。敵がいなくても迷子になったらそれも大変でしょ？+まずは私が妖精を連れて降りて行って、妖精に周囲をスキャンしてもらうよ。+万が一敵がいても、私は一人だからすぐに上へ戻れるから。
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:わたしも降りた方がいいんじゃない？
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:危険なことはわたしだけがやれば十分だよ！しかもこんな狭そうな所じゃ二人いるとかえって危険そう……
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:うん……まぁ、それもそうね。+あっ、妖精が戻ってきた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:速いね！
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||<BGM>BGM_stage1</BGM>:ようやくアタシの出番か！今回の命令はなんだ？
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)<Position>0,150</Position>||:下水道の状況を偵察してきてください、敵に遭遇してもなるべき気づかれないようにね。
+RO635(0);FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:ええ！それ超危険じゃん！
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)||:成功したら後で開発値をたくさん申請しておくから。
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:よし！交渉成立！
+()||:……RO635は妖精をSOP IIに渡した。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:その、ずっと前から思っていたんだけど……妖精って、もしかして頭悪いの……？
+RO635(0)<Speaker>RO635</Speaker>||:ペルシカさんがその場の思いつきで作ったような人格プログラムだからね。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:私たちもその場の思いつきで設計されてないといいんだけど……
+FairyWarrior(0)<Speaker>妖精</Speaker><Position>0,150</Position>||:お互い楽しもうぜ！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:うん、任務開始だよ。行こう――
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>10</BIN>:あーあ……やっぱり敵は私たちの先を行っているよ……RO、スキャンの結果は確認できてる？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>少しまずいかもね……あの白いやつらもこの下水道に気づいて、しかも人目がつかないからかなりやりたい放題しているわ……</color>+<color=#00CCFF>わたしたち二人じゃ全然勝ち目がない……</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:じゃあどうするの？このまま見ているだけ？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>指揮官に連絡してみる……その前に一回シミュレーションしてみるのもいいかも。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:シミュレーション？
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>ここから先起こるかもしれない戦闘をシミュレーションするの。指揮官の判断に役立つ情報を提供したいし。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:へぇ……RO、色々ちゃんと考えてるのね……
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>大したことじゃないよ……スキャンを続けて、敵の情報を送ってくれたらこっちでシミュレーションするから。</color>+<color=#00CCFF>偵察のことはあんたに任せたわよ。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:よし、任せて！
+()||<黑点2>:

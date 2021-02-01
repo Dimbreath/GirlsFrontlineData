@@ -1,0 +1,58 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO……
+RO635(6)<Speaker>RO635</Speaker>||:黙ってて……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO、話を聞いて――
+RO635(6)<Speaker>RO635</Speaker>||:黙ってちゃんと歩いて！
+()||<震屏>:……ドカッ！+……SOP IIは危うく躓きそうになった。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:SOP II、大丈夫ですか？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:うっ……大丈夫大丈夫！+もう、ROが騒ぐとわたしは体を動かせなくなるよ。
+RO635(6)<Speaker>RO635</Speaker>||:しょうがないじゃない？わたしの電子戦モジュールの方がいいものを使ってるんだし、体を動かしてるのもわたしじゃないし！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ごめんってば、別にわざと指揮官に言ったんじゃないよ――プッ。
+RO635(6)<Speaker>RO635</Speaker>||:絶対わざとでしょ！その顔を見て、ちゃんと自分のその顔を見て！+わたしがこうなったことを指揮官に言わないでって言ったよね！もういっそ死んだことにして！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:でも指揮官に言った方が安心できるでしょ？少し我慢してよ。
+RO635(6)<Speaker>RO635</Speaker>||:やっぱ自殺するわ……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:まぁまぁ、本部に戻れば、ROさんも元に戻れるはずですよ。
+RO635(6)<Speaker>RO635</Speaker>||:それまでどれぐらいかかるんだか……+Cx4、指揮官がくれたセーフポイントの位置まであとどれぐらい？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:すぐそこだよ、ほら――
+RO635(6)<Speaker>RO635</Speaker>||:SOP II、頭をあげて、じゃないと見えないから。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:はいはい――
+RO635(6)<Speaker>RO635</Speaker>||:臨時の陣地みたいね。グリフィンが建てたものではなさそう。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:もう、拠点があるだけマシでしょ？
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:そうですね、これで一息つけるし、みんなとも会えるよ！
+RO635(6)<Speaker>RO635</Speaker>||:……しかし、わたしたちを助けている者がいるのも確かよね？+さっきのあの重火力支援も、明らかに民間軍事会社が持っていい物じゃないし。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:そんなことまで知ってるの、RO？
+RO635(6)<Speaker>RO635</Speaker>||:昔はそういう取り締まりの仕事もしていたからね、当然知ってるわ。+第三次世界大戦後、民間の組織は特別な許可なしに、軍用兵器を所有することができない。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:うん、私も知ってるよ。だから私たちはこんな50年前の武器しか使えないでしょ？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:50年以上前の武器を使う人形もいるんだよ、ふっふん……
+RO635(6)<Speaker>RO635</Speaker>||:【スティグマ】の補正があるから、あんまり見くびらないことね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:でもさ、さっきの重火力武器を使ったってことは、もうわたしたちは普通のPMCじゃないってことだよね？
+RO635(6)<Speaker>RO635</Speaker>||:軍と衝突が起きた時点で、何かあったってことでしょ。+今頃本部はどうなっているのかしら……
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:あれ？ROさんはまだ知らないのですか？+あ……そうか……
+RO635(6)<Speaker>RO635</Speaker>||:どういうこと？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:あー！RO、ついたよ！+見て！セーフポイントだよ！わたしたち安全だよ！
+RO635(6)<Speaker>RO635</Speaker>||:本部に何があったの？！+SOP II、教えて！じゃないとセーフポイントに入らせないわよ！
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:あああ！右足が！言うことを聞かない――！
+？？()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:うるさいわね。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:……？！
+()||:……その声の方へ向くと、一人の人形がそこで待っていた。
+RO635(6)<Speaker>RO635</Speaker>||:あ……あなたは……
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_NightOPS</BGM>:こんな時にグズグズするなんて。早く合流しなさいって言ったでしょ？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:この人形……どこかで会ったことある気がする？
+HK416(0)<Speaker>416</Speaker>||:あんたが会ったことある人形なんていくらでもいるわよ。//nとにかく、早く来なさい。+敵がもうすぐ攻撃を始めるわ。//nその前に、みんなで協力してここから離脱しないと。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:敵？軍がここまで攻めてきているのですか？
+HK416(0)<Speaker>416</Speaker>||:新しい敵よ。
+Cx4Storm(0)<Speaker>Cx4 ストーム</Speaker>||:新しい敵？+軍でも、鉄血でもなくて？+一体なんなの？
+HK416(0)<Speaker>416</Speaker>||:分からないわ。+分かってるのは、あれは私たちを皆殺しにしようとしてることだけ。
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:へー……そうなの？+わたしからすれば、相手は殺せるものなら何でもいいけど。
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:そこが問題なのよ。+あいつら、あの私たちを殺そうとしてるやつらは……+……殺しても死なないわ。
+()||<BIN>10</BIN><黑屏2>:……五分後、小隊は道路を塞いでる見知らぬ敵の姿を発見した。
+HK416(0)<Speaker>416</Speaker>||:あの白いの見えてる、SOP II？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:うん……確かに見たことないやつらね。誰なの？
+HK416(0)<Speaker>416</Speaker>||:分からない。でも私たちの敵であることは間違いないわ。//nしかも、軍に劣らない力を持っているわね。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ここを突破しないと、指揮官と会えないの？
+HK416(0)<Speaker>416</Speaker>||:暫く指揮官とは会えないわね。今グリフィンはこいつらに邪魔されて、うまく撤退できない。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:じゃあはやくやっつけよう！敵が何でも、絶対みんなを傷つけさせるわけにはいかないよ！
+HK416(0)<Speaker>416</Speaker>||:（SOP II……なんか変わった？）
+HK416(0)<Speaker>416</Speaker>||:こっちには指揮官と重装部隊がいるわ、この程度の敵なら十分倒しきれる。+さっさとこいつらをやっつけて、次の拠点を救援しに行くわよ。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:分かった！任せてよ！RO、Cx4、指揮官の前だから、一緒に頑張ろう！

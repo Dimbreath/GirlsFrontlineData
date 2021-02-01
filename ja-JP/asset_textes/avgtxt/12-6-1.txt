@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:装甲列车指挥室。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:接……接下来呢？！
+AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:不要满脸期待地拉我的袖子啊。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO怎么回事啊？+怎么突然断了？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:剩下的记忆碎片还在处理中，你的“香蕉”已经烫得不行了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:“香蕉”你再多加加油啊！
+()<Speaker>指挥官</Speaker>||:看来追寻安洁的不仅只有我们。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:指挥官当时也在寻找安洁么？+可是当时格里芬应该已经撤退了才对啊？
+RO635(0)<Speaker>RO635</Speaker>||:没有哦，虽然格里芬大部队撤退了，但是指挥官带领我们又回去战区中帮安洁脱围了。
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:然后被涅托所捉，幸好最后您从它们手里逃脱出来了。
+()<Speaker>指挥官</Speaker>||:我突然能理解RO的感受了……实在是不想回想起当时的经历……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:把指挥官救出来费了我们好大的劲呢！+后来那些白色的家伙就一直和我们作对，实在是太气人了！
+AR15Mod(0)<Speaker>AR15</Speaker>||:涅托的能力也越来越强了。
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:希望你们不要看了这具素体的外貌就对我产生不该有的想法。
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:……好了，别再说废话了。+剩下的碎片还没好么？
+NytoIsomer(4)<Speaker>丹德莱</Speaker>||:正在处理中……不过外面人形梯队的通讯变得密集起来了，似乎有情况。
+NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:指挥官，敌人有行动了！梯队汇报上来的情况我已经发送给您了！
+()<Speaker>指挥官</Speaker>||:知道了，接各人形梯队，命令作战人形接入战斗频道，并且分发三个基数的弹药。+M4。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:明白，已经将心智运算转移给齐纳协议连接了。
+()<Speaker>指挥官</Speaker>||:格琳，发布作战警告，让后勤人员撤出交火区。+最优先给重装小队建立视野通道，所有梯队没有命令不准开火。
+NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:是！+UMP45发来通讯，我已经转接给您了！
+()<Speaker>指挥官</Speaker>||:打开吧。
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>指挥官，虽然不好意思打扰你们叙旧，但相信你已经知道了军方是部队以很快的速度向我们靠拢。</color>+<color=#00CCFF>其他作战梯队已经按照预备的方案就位，请下达指令。</color>
+UMP45Mod(0)<Speaker>指挥官</Speaker><通讯框>||:404小队在列车内待命，等待AR小队和你们汇合。
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>404收到。</color>
+()<Speaker>指挥官</Speaker>||:RO，军方的装甲列车有启动么？
+RO635(0)<Speaker>RO635</Speaker>||:似乎没有，传感器侦测到大型热源还在塔林城内。
+()<Speaker>指挥官</Speaker>||:可能是侦查部队的试探攻击，弄清我们停在这里的目的。+这样的话，我们也得有所保留才行。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:说得也是，他们并不知道我们停留在这里是因为抛锚。
+()<Speaker>指挥官</Speaker>||:M4、RO还有丹德莱继续把后续工作处理完。+SOP2和AR15出去支援防御，你们和404汇合，作为预备队。+尽可能使用最低的火力消灭掉军方的部队。
+AR15Mod(0)<Speaker>AR15</Speaker>||:明白，SOP2跟我来。
+NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:所有准备都已经就绪。
+()<Speaker>指挥官</Speaker>||<黑点1>:好，剩下的事在指挥系统里沟通吧。
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:外面。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:你们终于来了。+只有两名人形么？
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:M4和RO还有别的事要处理，指挥官要我们组成预备队并且不要胡乱开火。
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:胡乱开火这种事你应该去担心那些人形梯队，404向来自负盈亏不会浪费一发无用的子弹。
+AR15Mod(0)<Speaker>AR15</Speaker>||:那就好，最后检查一下装备和弹药吧。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:这就是404小队嘛！+终于能和神秘小队一起作战啦，心里有点小兴奋！
+G11(0)<Speaker>G11</Speaker>||:唉……+不是很早以前就合作过么……+还在雪山里的时候……
+HK416Mod(0)<Speaker>HK416</Speaker>||:闭嘴。+那时候的事她早就不记得了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:总觉得每次都是擦肩而过呢，但是416我印象很深刻，在撤离格里芬的时候！+那个时候我们合作得很愉快，这次也要像上一次一样把军方打个落花流水！
+HK416Mod(0)<Speaker>HK416</Speaker>||:那个时候么……
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:原来你在格里芬还有过那样的快乐时光呢？
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:那时候你被炮弹炸得差点送垃圾回收厂。+是我带着格里芬的人形拼命挡住敌人才让你有机会撤离的。
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:是么？难怪我没有印象了~
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:啧，我当时就不该回404。
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:现在后悔可有点太晚咯~
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:请问现在是叙旧的时候么，我们能不能说些正事？
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:随时欢迎你说正事~
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:啧……现在前线情况如何？
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:情报已经在网络中全部同步了，敌人是自律部队，目的应该是试探我们的防线和火力位置。+第一波敌人在80方位，距离我们3000米左右，靠近速度很快，预计还有10分钟和我们最前沿的梯队遭遇。
+AR15Mod(0)<Speaker>AR15</Speaker>||:那种敌人不足为惧。+现在唯一的担心就是让军方发现我们是因为抛锚而停在半路上，我们只有五分钟的先发优势，如果他们现在就从塔林城出发，那我们就没有任何胜算了。
+G11(0)<Speaker>G11</Speaker>||:那为什么他们不现在就立即出发呢？
+HK416Mod(0)<Speaker>HK416</Speaker>||:也许之前和格里芬交手被打出心理障碍了。+在没能确认我们的情况前，军方一定会非常谨慎。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:是这样没错。+装甲列车还没完全修理完毕，所以我们得在自律部队靠近前就消灭掉他们。+9，预计的修理时间？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:大概还需要三十分钟。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:大家都听到了。+我们需要坚持至少半个小时。
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:明白了，正面防线指挥官会指挥梯队解决，我们到防线的侧翼作为游击部队防止有漏网之鱼。+你们没有意见吧。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:没意见，9和G11留在列车内继续维修列车。416你跟着我加入游击部队。
+HK416Mod(0)<Speaker>HK416</Speaker>||:收到，等不及给他们一些教训了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:我们赶紧出发吧！
+()||<黑点2><BIN>10</BIN>:
