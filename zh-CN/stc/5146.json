@@ -1,0 +1,440 @@
+[
+    {
+        "col0": 1,
+        "col1": "crew_mode",
+        "col2": "string",
+        "col3": "1,2"
+    },
+    {
+        "col0": 2,
+        "col1": "chess_gun_skill_switch",
+        "col2": "bool",
+        "col3": "1"
+    },
+    {
+        "col0": 3,
+        "col1": "chess_chose_num",
+        "col2": "int",
+        "col3": "3"
+    },
+    {
+        "col0": 4,
+        "col1": "chess_chose_time",
+        "col2": "int",
+        "col3": "10"
+    },
+    {
+        "col0": 5,
+        "col1": "chess_member_num",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 6,
+        "col1": "chess_team_num",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 7,
+        "col1": "chess_win_type",
+        "col2": "int",
+        "col3": "1"
+    },
+    {
+        "col0": 8,
+        "col1": "chess_goal_point",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 9,
+        "col1": "kill_point",
+        "col2": "string",
+        "col3": "1,0"
+    },
+    {
+        "col0": 10,
+        "col1": "achieve_point",
+        "col2": "string",
+        "col3": "2,0"
+    },
+    {
+        "col0": 11,
+        "col1": "point_reward",
+        "col2": "string",
+        "col3": "1:5,1"
+    },
+    {
+        "col0": 12,
+        "col1": "launch_point",
+        "col2": "string",
+        "col3": "6"
+    },
+    {
+        "col0": 13,
+        "col1": "launch_limit",
+        "col2": "int",
+        "col3": "3"
+    },
+    {
+        "col0": 14,
+        "col1": "chess_move_time",
+        "col2": "int",
+        "col3": "30"
+    },
+    {
+        "col0": 15,
+        "col1": "chip_achieve_type_conf",
+        "col2": "string",
+        "col3": "5,1"
+    },
+    {
+        "col0": 16,
+        "col1": "chip_basic_limit",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 17,
+        "col1": "chip_basic_limit2",
+        "col2": "int",
+        "col3": "3"
+    },
+    {
+        "col0": 18,
+        "col1": "chip_refresh_chance",
+        "col2": "int",
+        "col3": "3"
+    },
+    {
+        "col0": 19,
+        "col1": "chip_refresh_chance_limit",
+        "col2": "int",
+        "col3": "90"
+    },
+    {
+        "col0": 20,
+        "col1": "chip_refresh_price",
+        "col2": "int",
+        "col3": "3"
+    },
+    {
+        "col0": 21,
+        "col1": "default_team",
+        "col2": "string",
+        "col3": "1:0,2:0,3:0,4:0,5:0"
+    },
+    {
+        "col0": 28,
+        "col1": "chess_set_camp_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 29,
+        "col1": "chess_init_time",
+        "col2": "int",
+        "col3": "10"
+    },
+    {
+        "col0": 30,
+        "col1": "chess_set_team_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 31,
+        "col1": "chess_set_initial_gun_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 32,
+        "col1": "chess_round_start_show_time",
+        "col2": "int",
+        "col3": "1"
+    },
+    {
+        "col0": 33,
+        "col1": "chess_choose_chip_time",
+        "col2": "int",
+        "col3": "45"
+    },
+    {
+        "col0": 34,
+        "col1": "chess_turn_start_time",
+        "col2": "int",
+        "col3": "0"
+    },
+    {
+        "col0": 35,
+        "col1": "chess_player_battle_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 36,
+        "col1": "chess_player_battle_roll_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 37,
+        "col1": "chess_player_end_time",
+        "col2": "int",
+        "col3": "30"
+    },
+    {
+        "col0": 38,
+        "col1": "chess_player_drop_chip_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 39,
+        "col1": "chess_player_fly_time",
+        "col2": "int",
+        "col3": "15"
+    },
+    {
+        "col0": 40,
+        "col1": "chess_player_action_time",
+        "col2": "int",
+        "col3": "45"
+    },
+    {
+        "col0": 41,
+        "col1": "chess_jump_distance",
+        "col2": "int",
+        "col3": "4"
+    },
+    {
+        "col0": 42,
+        "col1": "chess_connect_ping_level",
+        "col2": "string",
+        "col3": "100,200"
+    },
+    {
+        "col0": 43,
+        "col1": "chess_abandon_reward",
+        "col2": "int",
+        "col3": "2"
+    },
+    {
+        "col0": 44,
+        "col1": "chess_turn_again_limit",
+        "col2": "int",
+        "col3": "2"
+    },
+    {
+        "col0": 45,
+        "col1": "chess_player_gun_exit_time",
+        "col2": "int",
+        "col3": "20"
+    },
+    {
+        "col0": 46,
+        "col1": "chess_init_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 47,
+        "col1": "chess_set_camp_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 48,
+        "col1": "chess_set_team_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 49,
+        "col1": "chess_set_initial_gun_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 50,
+        "col1": "chess_round_start_show_delay_time",
+        "col2": "int",
+        "col3": "8"
+    },
+    {
+        "col0": 51,
+        "col1": "chess_choose_chip_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 52,
+        "col1": "chess_turn_start_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 53,
+        "col1": "chess_player_roll_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 54,
+        "col1": "chess_player_fly_delay_time",
+        "col2": "int",
+        "col3": "8"
+    },
+    {
+        "col0": 55,
+        "col1": "chess_player_move_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 56,
+        "col1": "chess_player_battle_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 57,
+        "col1": "chess_player_battle_roll_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 58,
+        "col1": "chess_player_end_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 59,
+        "col1": "chess_player_drop_chip_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 60,
+        "col1": "chess_player_gun_exit_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 61,
+        "col1": "chess_player_action_delay_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 62,
+        "col1": "chess_player_move_time",
+        "col2": "int",
+        "col3": "5"
+    },
+    {
+        "col0": 63,
+        "col1": "default_gun",
+        "col2": "string",
+        "col3": "1:0,2:0,3:0,4:0,5:0,16:0,17:0,18:0,19:0,20:0,34:0,35:0,36:0,37:0,38:0,54:0,55:0,56:0,57:0,58:0,75:0,76:0,77:0,78:0,79:0,151:0,152:0,153:0,154:0,155:0"
+    },
+    {
+        "col0": 64,
+        "col1": "kill_enemy_point",
+        "col2": "string",
+        "col3": "1,0"
+    },
+    {
+        "col0": 65,
+        "col1": "monster_camp_color",
+        "col2": "string",
+        "col3": "#970000FF"
+    },
+    {
+        "col0": 66,
+        "col1": "chess_init_refresh_chance",
+        "col2": "int",
+        "col3": "27"
+    },
+    {
+        "col0": 67,
+        "col1": "chessroom_emoji_joinroom",
+        "col2": "string",
+        "col3": "Emoji__1203,Emoji_1743,Emoji__1502"
+    },
+    {
+        "col0": 68,
+        "col1": "chessroom_emoji_randemoji",
+        "col2": "string",
+        "col3": "Emoji_0303,Emoji_0301,Emoji_0302,Emoji_1720"
+    },
+    {
+        "col0": 69,
+        "col1": "chessroom_emoji_randparameter",
+        "col2": "string",
+        "col3": "10,20"
+    },
+    {
+        "col0": 70,
+        "col1": "battle_attackeremoji_atkoverdef",
+        "col2": "string",
+        "col3": "Emoji__1602,Emoji__1503,Emoji__1502,Emoji_1756"
+    },
+    {
+        "col0": 71,
+        "col1": "battle_defemoji_atkoverdef",
+        "col2": "string",
+        "col3": "Emoji_1726,Emoji_1753,Emoji__1504,Emoji__1303,Emoji__1501"
+    },
+    {
+        "col0": 72,
+        "col1": "battle_attackeremoji_killdef",
+        "col2": "string",
+        "col3": "Emoji__1203,Emoji__0502,Emoji_0403,Emoji__1302,Emoji_1744,Emoji_1752"
+    },
+    {
+        "col0": 73,
+        "col1": "battle_defemoji_killdef",
+        "col2": "string",
+        "col3": "Emoji__1001,Emoji__1506,Emoji_0401,Emoji_0405,Emoji_1758"
+    },
+    {
+        "col0": 74,
+        "col1": "battle_attackeremoji_miss",
+        "col2": "string",
+        "col3": "Emoji_0204,Emoji_1721,Emoji_1722,Emoji_1726,Emoji_1716"
+    },
+    {
+        "col0": 75,
+        "col1": "battle_defemoji_miss",
+        "col2": "string",
+        "col3": "Emoji__1503,Emoji_0102,Emoji_1756"
+    },
+    {
+        "col0": 76,
+        "col1": "flighthomepage_gun",
+        "col2": "string",
+        "col3": "2104,0,-956"
+    },
+    {
+        "col0": 77,
+        "col1": "flighthomepage_gun_message",
+        "col2": "string",
+        "col3": "280194,280195,280196"
+    },
+    {
+        "col0": 78,
+        "col1": "flighthomepage_gun_message_cd",
+        "col2": "int",
+        "col3": "10"
+    },
+    {
+        "col0": 80,
+        "col1": "rewardfreme_emoji",
+        "col2": "string",
+        "col3": "Emoji__0502,Emoji__0501,Emoji__1203,Emoji_1603,Emoji__1205"
+    }
+]
