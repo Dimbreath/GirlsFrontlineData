@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>83</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:格里芬新基地内。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:哇——！RO！+快看快看，这里比以前的基地要大多了！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:你怎么还有力气激动啊？+等等，你别突然跳起来啊！+……我要掉下去了！笨蛋SOP2！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:死里逃生之后来到这里，简直像是到了天堂呢！+RO，你不开心吗？
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:没这个心情。+我现在只想快点换到新的身体里去……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:放心啦RO！+在这个新基地里，一定很快就能搞定一切的！
+()||:……嘀。+……通讯接入。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:这个信号是……格琳小姐！
+SOPIIDamage(0);NPC-Kalin(1)<Speaker>格琳</Speaker><通讯框>||:哈哈，看起来还是相当有活力呢，SOP2。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(1)||:嗯嗯！我和RO现在都好好的！
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(1)||:一点都不好啦！
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:现在比较忙，就不和你们闲聊啦。+帕斯卡小姐说要见你们……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(0)||:帕斯卡小姐也来基地了？+太好啦——RO！很快你就要有新身体了！
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(0)||:哈哈……但愿如此呢……
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>格琳</Speaker>||:SOP2，我现在把宿舍的坐标发送给你，你们先稍微休息一下。+帕斯卡小姐还在调试设备，稍后会叫你们过去的。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:知道啦！谢谢格琳小姐！
+()||<黑点1>:……通讯结束。
+()||<BIN>82</BIN><黑点2>:SOP2和RO一同前往格琳指定的房间。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:这应该就是我们的新宿舍啦！+感觉好棒！和以前差不多……不对，比以前的还要宽敞一些呢！+啊啊，这个床看上去好舒服——嘿咻！
+()||:SOP2扑上了床，抱着枕头舒舒服服地趴着。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:嗯嗯，床也比以前的要软一些……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:SOP2！你上床之前打个招呼啊！+啊啊！快！快点帮我立起来——这床太软了！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:噗——哈哈哈哈！别着急啦，我这就帮你！
+()||<SE1>ClothingUp</SE1>:SOP2坐起来，把RO抱在自己的怀里。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:新宿舍真好……要是小队的其他人也能一起住在这里就好了。+RO……大家要什么时候才能回来呢？+M16……M4……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:我们会找回她们的，很快帕斯卡就能修好你，我也能拿到自己新的身体了。+到那个时候，就一起去找她们吧。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||<黑点1>:嗯，没错！希望帕斯卡小姐能快些修好我们呢，那样就能早一些找到大家啦！
+()||<黑点2>:半小时后。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:唔……怎么还没有收到联络啊……+帕斯卡小姐好慢哦……
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:才过去半个小时而已。+安心等着吧，不如趁这段时间清理下内存？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:但是我不想就在这里躺着。+对了，我们去外边转转吧？
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:不要。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:我们一起去熟悉熟悉新基地的环境嘛。+提前调查好情报，以后能方便地找到好吃的和好玩的了！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:我这个样子……怎么出去见人啊！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:没关系啦，大家都在忙，一定不会注意到的！+决定了，现在就出发吧！
+RO635(6)<Speaker>RO635</Speaker>||<黑点1>:喂，你不要这么擅自决定啊！+能不能好好听人说话啊，SOP2——！
+()||<黑点2><BIN>18</BIN>:SOP2带着RO来到新基地的大厅中。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:除了崭新的宿舍之外，还多了很多不认识的设施呢！+唔，那边的几个人形好像是火力支援小组的成员呢，要不要去打个招呼呢……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:……快回去。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:再稍等一下啦，RO，等我找到咖啡厅就回去！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:有人来了，快走……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:诶，有危险的人吗？+但是并没有侦测到什么奇怪的讯号……
+PM(0)<Speaker>马卡洛夫</Speaker>||<BGM>BGM_Empty</BGM>:AR小组的SOPMOD II……看来你没事啊。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:啊，你是……马卡洛夫！
+SOPIIDamage(0);PM(0)<Speaker>马卡洛夫</Speaker>||<BGM>BGM_Moon</BGM>:很高兴你还记得我的名字。+那么，能占用你点时间吗？我有些事情想问你。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:啊……好啊。
+SOPIIDamage(0);PM(0)<Speaker>马卡洛夫</Speaker>||:你们小队……只有你一个人回来了吗？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:呃，这个……
+SOPIIDamage(2);PM(0)<Speaker>马卡洛夫</Speaker>||:我只是想向你确认一下RO是否安全。+除了你们小队之外……还有一些人关心着她。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:嗯，我知道……+（RO！你说句话啊！）
+RO635(6)<Speaker>RO635</Speaker>||:……
+PM(0)<Speaker>马卡洛夫</Speaker>||:……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:（马卡洛夫也很关心RO，不能让她失望地回去……）+（要怎么说才好呢……）+RO啊……她……
+SOPIIDamage(2);PM(0)<Speaker>马卡洛夫</Speaker>||:她怎么样了？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:RO她，她受了重伤，现在正在帕斯卡小姐那里维修呢！+啊不过云图还好好的！等她的身体修好了，我就让她联络你吧！
+SOPIIDamage(0);PM(0)<Speaker>马卡洛夫</Speaker>||:……是这样吗。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:我说的可都是真话哦！+她的云图可是我亲手拔……呃，带回来的！
+PM(0)<Speaker></Speaker>||:马卡洛夫瞅着SOP2皱了皱眉。
+PM(0)<Speaker>马卡洛夫</Speaker>||:……我知道了……只要她没事我就放心了。+谢谢你，SOPMOD II，我会把这个消息转告给其他人的。+顺便，你新的战利品很有特点。
+()||:马卡洛夫离开了。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO，你还好吗？快说句话啦！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:……就算说了又怎么样？你又不听我的。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:呼……吓死我了，还以为你刚才坏掉了……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:要是吓一吓你，就能让你的云图进化得成熟点就好了。+不过……刚才你为什么没和马卡洛夫说实话？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:我和她说的是实话呀！
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:我是指我在兵蚁里这件事啦。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:这个啊……+我只是觉得，如果我告诉了她 ……RO你会很不开心的吧？
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:是啊，实在是不想以这幅样子在她们眼前出现，尤其对方还是马卡洛夫。+能注意到这一点……看来你的心智还是稍微成长了一些呢。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:啊哈哈……有吗？+我倒是没什么感觉啦。+好不容易回到了安全的地方，我只是想让RO你更开心一些……
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:好不容易表扬你一次，就大大方方地收下吧。+接下来去找咖啡厅，然后快点回宿舍去……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:好的！那么探险继续——
+()||:……滴。+……通讯接入。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>||:该说是好久不见了吗，SOP2和RO。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:帕，帕斯卡小姐！
+SOPIIDamage(0);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:探险要暂时告一段落了，SOPMOD II。+现在来我的实验室这边吧，动作要快哦。+运气好的话，大概能在晚饭前搞定你们的问题。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:明白！我们这就过去！
+()||:通讯结束。
+RO635(6)<Speaker>RO635</Speaker>||:终于能离开这个躯体了吗……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:再坚持一下哦，RO！+我们很快就能恢复原状啦！

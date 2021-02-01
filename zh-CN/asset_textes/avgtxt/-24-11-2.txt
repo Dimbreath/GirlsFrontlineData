@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>85</BIN><BGM>BGM_Empty</BGM><黑屏2>:……行动结束。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||<黑屏1>0,5</黑屏1>:我们到啦，SOP2！+没想到，那个稻草人真的没有骗我们……+……SOP2？
+()||<BIN>9</BIN><黑屏2>:……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:<size=55>啊啊啊啊啊啊啊——！</size>
+()||<BIN>85</BIN><闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||<震屏>:
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||<BGM>BGM_NightOPS</BGM>:SOP2？！
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:我没事……总算可以松口气……+我……我路上一直在想……+万一这是个陷阱怎么办，我会把大家都害死的……
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(2)||:没关系，SOP2，有时候行动就是需要冒险的勇气。+这种事，换作是我可不敢做决定。
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:可是M16A1说过……勇敢和愚蠢的区别，只在于结果……+以前还有我的队友制约住我的莽撞，现在我却要为大家负责……
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(2)||:我们不想成为你的负担，SOP2。
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:但是，我们现在的命运被联系在一起了，我以前根本不用考虑这些的……+M4A1……原来每次都这么不容易……+也许我给她造成了很多麻烦……
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(2)||:SOP2……
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:哈哈，队长这个职位可能不适合我呢……+接下来，就看看侦查队带来的消息吧！
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||<黑点1>:……嗯。
+()||<BIN>9</BIN><黑点2><黑点1>:……几分钟后，几名侦查的人形回来向Cx4报告，从表情就足以看出结果。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:……抱歉，SOP2，这里什么都没剩下，也无法建立通讯。+这里……我们没法联系到指挥官，或者找寻任何线索……
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:……还是这个样子。+虽然也料到了这种可能，可是……
+Cx4Storm(0);SOPII(2)<Speaker></Speaker>||:……SOP2看了看人形们失落的表情。
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage1</BGM>:不行！大家打起精神来！+没有太多遗体的话，就说明指挥官和格琳娜小姐还在哪里等着我们！
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:也许我们该先休息一下。+地图上显示，这条路线走下去的话，还有军方据点要去闯。
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:我看到了……+后面的战术我有收录过，但是我的云图可能承载不了那么大的运算。+哈哈……要是AR15还在的话，一定又要笑话我，说这种事不合适笨蛋来做了吧？
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:没关系的，如果不是你，我们肯定不会走到这一步。+你现在已经做得很好了，剩下的让我们尽力去做吧。
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:……+<color=#A9A9A9>（没有别的办法了吗……）</color>+<color=#A9A9A9>（等等，我好像忘了什么……）</color>+<color=#A9A9A9>（来到这个据点的理由，最初好像是为了找一个安全的地方……然后……）</color>+<color=#A9A9A9>（然后……做什么来着？）</color>+<color=#A9A9A9>（又需要搜索一下云图呢……啊啊！刚才战斗后索引又乱掉了，真麻烦……）</color>
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:说起来，SOP2你刚才提到了AR小队的4个人，我记得还有一个成员？
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:啊，那是RO635……
+Cx4Storm(0);SOPII(2)||<闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>啊啊啊啊啊——！</size>
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker><Shake>;SOPII(2)||:又、又怎么了？
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:抱歉抱歉，我想起来了！+啊啊我真是个笨蛋！连来到这里的目的都忘了！
+Cx4Storm(0);SOPII(2)<Speaker></Speaker>||:……SOP2翻了翻口袋。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(2)||:咦，那个是……人形的核心？
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:没错！这就是我们的队友，RO635！
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:对！是这个名字！她就是AR小队的新成员吧？头脑很好的那个？+虽然……她现在的样子，好像不太容易修复……
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:是军方背叛我们的那一刻，叶戈尔破坏了她，我只来得及拿走她的核心。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:叶戈尔……就是军方这次行动的指挥者？
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:没错，军方的人类部队偷袭了我们，我也被炸得支离破碎……
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:但是你靠着铁血的残骸活了下来？
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:哼哼，我可是作为16LAB最得意的作品，不会那么容易死掉的。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:但是RO635小姐……她该怎么办呢？+就算要移动心智，我们也没有合适的素体啊。
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:不需要素体，暂时只要唤醒她的心智就行了。
+Cx4Storm(0);SOPII(0)<Speaker></Speaker>||:……SOP2拿出了备用电源。
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:这个是稻草人那里弄到的备用电源……
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:没错，然后是这个！
+Cx4Storm(0);SOPII(0)<Speaker></Speaker>||:……SOP2拿出了一只——
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:这……这个是从哪弄到的！
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:嘘……这是关键道具，别说出去，大家会误会的。+总之Cx4，我现在要睡很久很久，这段时间请你负责大家的守卫工作。+一旦有紧急情况，先重重拍我三下身体，然后切断备用电源，我就会安全醒来，可以吗？
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:没问题！可是你……不要紧吧？+感觉要做很危险的事情……
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:我们今天危险的事情已经做不少了，关键是——
+Cx4Storm(0)<Speaker>Cx4Storm</Speaker>;SOPII(0)||:关键是结果，对吧？+我知道啦，外面的事情就放心交给我们吧。
+SOPII(0)<Speaker>SOPII</Speaker>||:……SOP2点了点头，Cx4走了出去。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:接下来……
+SOPII(0)<Speaker></Speaker>||:……SOP2深深吸了口气。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:RO635，让我找到你吧！

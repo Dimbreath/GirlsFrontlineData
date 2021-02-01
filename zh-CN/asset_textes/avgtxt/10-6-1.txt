@@ -1,0 +1,59 @@
+()||<BIN>85</BIN><BGM>BGM_Room</BGM><黑屏2>:…………滴。
+NPC-Carter(0)<Speaker>卡特</Speaker>||:……好，我知道了。+继续原地观察，叶戈尔，等待我的指示。
+NPC-Carter(0)<Speaker></Speaker>||:……卡特结束了通讯。
+NPC-Carter(0)<Speaker>卡特</Speaker>||:主脑已经被引出了巢穴，我们需要行动吗？
+经过电子处理的男声()<Speaker>经过电子处理的男声</Speaker>||:你们还没有长记性吗？我真的不想再提醒你，主脑是不会出动本体的。+它的本体不知道被藏在哪个防核防空洞里，反正指望你们是肯定没戏的。+而且，我所期待的演出现在才要开始，请你们不要打断她们。
+NPC-Carter(0)<Speaker>卡特</Speaker>||:部队会继续待命的。
+经过电子处理的男声()<Speaker>经过电子处理的男声</Speaker>||:那是最好。+它身上的【钥匙】……马上就要再次和M4A1建立联系了。+哦，说不定已经建立联系了，只是我们作为人类无法知晓。+嘿嘿嘿，想想真是觉得有趣啊。
+NPC-Carter(0)<Speaker>卡特</Speaker>||:你希望那个【钥匙】有怎样的反应？
+经过电子处理的男声()<Speaker>经过电子处理的男声</Speaker>||:随便，只要不是我能想象到的答案就好了。+我期待的，只是有趣的事情而已……
+NPC-Carter(0)<Speaker>卡特</Speaker>||:你不关心那个M4A1和主脑之间的事情吗？
+经过电子处理的男声()<Speaker>经过电子处理的男声</Speaker>||<黑屏1>:我对争斗中的东西没兴趣，除非有一方获胜。+随你们处置吧，只要能保证【计划】继续推进下去……+……直到我们捕捉到【钥匙】的存在为止。
+()||<BIN>99</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>Battlefield</SE1>:…………同一时间，AR小队依然被困在据点中。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sad</BGM>:铁血还在外围轰炸！我们撑不了多久了！
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:如果它们想攻进来早就得手了，但是它们的目标是活捉我……
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:那指挥官的情况怎么样！
+M4A1()<Speaker>M4A1</Speaker>||:指挥官刚刚摆脱了铁血，还在支援我们的路上。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<SE1>Battlefield</SE1>:可我们不能再等下去了，必须快点撤退！
+M4A1()<Speaker>M4A1</Speaker>||:我们需要个计划！+它们的目标只有我，让我去做诱饵，我们分两条路线撤退！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:我绝对不会再接受分头行动了！+M4，不是说了我们不要再分开了吗！
+M4A1()<Speaker>M4A1</Speaker>||:可这样下去我们谁都逃脱不了！不要为了我一个人让你们陷入险境！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:不只是你一个人有任务，M4！我们的任务就是保护你！
+M4A1()<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:可是我们可能会失败的，任务也好，所有人也好……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||:我已经失去了AR15和M16了！+如果连你也一定要失去，那就让我和你倒在一个弹坑里！+这就是我们一出厂就接到的命令！我会贯彻到底！
+SOPII(3);RO635(2)<Speaker>RO635</Speaker>||:还有我哦。+别光想着你自己，我们的意见也很重要哦。+虽然我才正式加入了几小时，不过心智和SOP2可是很合拍呢。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:没错，让我们一起度过最后一刻吧，不管是胜利还是死亡，我都能接受！
+SOPII(3);RO635(2)||:
+M4A1()<Speaker>M4A1</Speaker>||:……
+()||:……M4A1叹了口气。
+M4A1()<Speaker>M4A1</Speaker>||:我们真是群笨蛋，对吧？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:是啊，真可惜呢。
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:也许我们就该死在一起，谁也没法抛掉谁。+哼哼，终究我们就是群不可靠的民用人形啊。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:不对，等一下……
+M4A1()<Speaker>M4A1</Speaker>||:怎么了？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:RO，我记得你和我们不是同一批出厂的，你的云图应该可以备份吧？
+SOPII(3);RO635(0)<Speaker>RO635</Speaker>||:诶？呃……算是吧……+不过我是秘密加入的，所以云图的备份在指挥官那里，重新下载比较麻烦就是了……
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:喂！也就是说你根本不会死对吧！
+SOPII(3);RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:唔……至少有那么点可能性……+可、可那又怎么样，不能因为这个就把我排除在外吧！
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(4)||:难道你不考虑把我的感动还回来吗？不然你就在一边看着我和M4A1抱在一起哭好了！
+SOPII(3);RO635(5)<Speaker>RO635</Speaker>||:怎么能这样？！这也太过分了，AR小队就是这样一个特权团体吗？
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<SE1>Battlefield</SE1>:不乐意的话你也去换个不能复制的云图啊！
+SOPII(3);RO635(5)||:
+M4A1()<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:噗……
+()||:……M4A1笑了出来。
+M4A1()<Speaker>M4A1</Speaker>||:真是受不了你们，都这个时候了，你们还在斗嘴。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(5)||<BGM>BGM_War</BGM>:M4你终于笑了，还是这样的M4最让人安心呢。
+M4A1()<Speaker>M4A1</Speaker>||:是……这样吗？
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:虽然不像个队长，但是这个时候也不能在乎那么多啦。+不如说，最后一刻的你，比起我的队长，更适合当我的姐妹呢。
+M4A1()<Speaker>M4A1</Speaker>||:那我很荣幸……+之前真是对不起了，太多事情让我不敢靠近大家。+我不知道该怎么样才能成为自己，太多人的意见，我不知道该如何选择了……+但是现在，那些东西都不重要了。
+M4A1()<Speaker>M4A1</Speaker>||:是的，我不会再惧怕牺牲了，因为牺牲都是有价值的。+无论我能经历的死亡是一次还是无数次，无论是发生在他人还是自己身上，与其担心，不如去接受它，让它更有意义。+我相信此刻的想法，正是来自于我自身的意志，我的选择。
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>:M4，怎么了？
+M4A1()<Speaker>M4A1</Speaker>||:没什么。+果然，我只要呆在AR小队里就足够了。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:哼哼，这是我们所有人的想法。
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:最后一刻，一起努力吧！
+RO635(2)<Speaker>RO635</Speaker>||:
+()||:……M4A1和RO、SOP2笑着拥在一起。
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:那就决定了。+让它们来吧，我们绝对不会再分开了！
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1>:抱歉了，叶戈尔上尉，我们终究比不上你的军方人形。+只有我们在一起前进，一起战斗，一起分享活着和死去的记忆，我们的胜利才有意义。+……XM3。+那个时候的我一定让你失望了。+如果再见到你，我希望能当面告诉你……+从现在开始，这就是我生活的一部分！
+M4A1(2)<Speaker>M4A1</Speaker><通讯框>||<BIN>10</BIN><黑点2><黑点1>:指挥官！如您所见，我们现在遭到铁血主脑的部队包围，情况十分紧急！+我们正在向您的方向撤退，急需您的支援！+请您的梯队再快一点！从铁血包围网后方攻入，为我们打开一个出口！+AR小队在这里等待着您的救援，我们会战斗到最后一刻，直到您的出现。+我相信您，这次也一定会来营救我们……所以，拜托了！
+()||<黑点2>:

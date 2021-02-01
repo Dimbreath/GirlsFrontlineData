@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>22</BIN><BGM>BGM_Empty</BGM>:SOP2和RO到达帕斯卡的研究室。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Hello</BGM>:帕斯卡小姐——我们来啦！
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:速度挺快的嘛，本以为来得及喝完这杯咖啡的——+咦……SOP2，只有你一个吗？RO呢？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO也来了呀，她在这里呢！
+()||:SOP2向帕斯卡举起了兵蚁。
+NPC-Persica(1)<Speaker>帕斯卡</Speaker>||:什么？居然真的在兵蚁里吗？
+NPC-Persica(3)<Speaker>帕斯卡</Speaker>||:我还以为格琳在开玩笑，还把她赶走了……
+RO635(6)<Speaker>RO635</Speaker>||:虽然不太想承认……+我的心智云图，现在……的确在这玩意里面……帕斯卡小姐。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:虽然这件事本身并没有什么好惊讶的……不过做到这件事的居然是SOP2啊……+如果是以前的你，一定只会记得拿着一个电量放空的损毁云图交给我呢。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:别把我当成傻瓜啊，带回来一个损毁的云图交给帕斯卡小姐，这不就没意义了吗！
+SOPIIDamage(2);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:其实对我来说也并不完全是没意义。不过我现在更想知道的是，你是怎么做到的？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:这个……我也不知道，当时我就只想着要救RO，就把自己能想到的方法都用上了。+然后，然后就变成现在这样了。
+SOPIIDamage(0);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:嗯……算是意料之中的答案，不过深究一下说不定会很有趣……+你做的确实超乎了我的意料，SOP2。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:哼哼！我就是会关键时刻创造奇迹的人形啦！
+RO635(6)<Speaker>RO635</Speaker>||:帕斯卡小姐……在那之前，能赶快把我从这个兵蚁里转移出来吗？
+RO635(6);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:抱歉啦RO，现在我手头没有适合你的人形素体，就算移出来也是什么都做不了哦。+不如就先待在那儿吧，反正目前的状况也很稳定……
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:什、什么！但是我忍受不了这个身体了！就算是个普通人形也好，快把我移出来吧！
+RO635(6);NPC-Persica(0)<Speaker>帕斯卡</Speaker>||:哎呀……这可不是像拼积木那样说移就能移的哦，RO。+你们这次是运气好，如果再来一次强行转移，还不知道会出什么事呢。
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(0)||:无论如何我都不想呆在这个愚蠢的身体里啦！+只要不是继续留在这个兵蚁里就好！拜托了，帕斯卡小姐！
+RO635(6);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:嗯……倒是也有个能暂时安顿你的地方。+不过去那里的话，你可能会遇到点小麻烦……
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:可以啊！反正也不会比我现在的状态更麻烦了！
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:好吧，我会帮你解决的。+那么SOP2这边……你这个拼拼凑凑起来的身体也得好好处理下才行呢。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:除了有些时候这胳膊会自己乱动之外，我这边倒是还好呢……帕斯卡你先帮RO调整吧？
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:在处理RO的问题之前，我需要先检查下你们的状态，你们两个，坐到这边来。+在我做准备的时候，说说看你们这段时间都经历了什么吧。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:好的！不过说起来会有些长哦……
+()||<黑屏1>:SOP2带着RO坐在了帕斯卡指着的椅子上。+帕斯卡着手开始了工作。
+()||<黑屏2><BGM>BGM_Empty</BGM>:……半小时后。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker>||<BGM>BGM_Moon</BGM>:这样啊，听起来倒是挺惊心动魄的。+（小声）希望她能平安……
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:帕斯卡小姐，你在担心谁吗？
+SOPIIDamage(0);NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:啊没什么，还是优先你们的事吧。+SOP2，你对你们之前的行动有什么感想吗？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:感想就是——以后不要再遇到这种事情就好了！
+RO635(6)<Speaker>RO635</Speaker>||:同意……
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:……换个问题吧，你最近学到了什么？+在漫长的战斗中，无论是对你自己还是对其他人……你有了哪些新的了解吗？
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:这个啊……
+SOPIIDamage(2)<Speaker></Speaker>||:SOP2低下了头。
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:以前我一直都觉得，只要自己开心就好了……直到经历了之前的那些事，才知道了一个指挥者到底有多辛苦。+M4和RO她们真的很厉害呢……她们能带领大家取得胜利，能把其他人形从战场上好好地带回来，可那些都是我做不到的事……
+RO635(6)<Speaker>RO635</Speaker>||:SOP2……
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:我不想再失去同伴了，也不想一个人被留下来……我不想只有我活下来。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:我希望能帮到别人……我想和大家一起活下去，让每个同伴们都能开开心心地活下去！
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:……我明白了。
+NPC-Persica(2)<Speaker></Speaker>||:……帕斯卡露出温和的微笑。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||:不错的回答哦，给你一些小奖励吧。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:还有奖励？+不只是修好吗？……
+NPC-Persica(2)<Speaker>帕斯卡</Speaker>||<黑屏1>:没错，我会将你的云图，以及全部的武装进行全方位的升级。
+帕斯卡()<Speaker>帕斯卡</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:现在，你可以开始期待你的新力量了，SOPMOD II。

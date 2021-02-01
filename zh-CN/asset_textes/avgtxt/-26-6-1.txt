@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Room</BGM><黑屏2>:
+()||:……忤逆小队最终找到了救援小队留下的记号！
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:惊喜——！+啊哈哈哈！终于找到你们啦，忤逆小队！
+AN94(2)<Speaker>AN94</Speaker>||:你要是动作比语言再快一点，我就会把你判定成敌人发动进攻了。
+HK416(0)<Speaker>HK416</Speaker>||:抱歉，这是AR小队的M4SOPMODII，这边是忤逆小队的AK12和AN94，我是HK416，你们两边都见过我。
+AN94(0)<Speaker>AN94</Speaker>||:可以的话倒不是特别想见到你，不过现在也没有办法。
+HK416(0)<Speaker>HK416</Speaker>||:没错，我们可没时间增进感情了，说正题吧——安洁在哪儿，她怎么样了？
+HK416(0)<Speaker></Speaker>||:……AN94望向身后，发现安洁正昏迷着倒在AK12的背上。
+AN94(2)<Speaker>AN94</Speaker>||:安洁……安洁她——
+AK12(2)<Speaker>AK12</Speaker>||:几分钟前……她受到了严重的辐射，暂时昏过去了。+都是因为我们搜索时多花了些时间，不过没有生命危险，只是后面的战斗暂时只能靠我们了。
+HK416(0)<Speaker>HK416</Speaker>||:真可惜，只能下一次打招呼了。+不过这里不只有我们，还有指挥官和重火力人形。
+AN94(5)<Speaker>AN94</Speaker>||:重火力……什么？
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:我们的新玩具！她们正在远程支援我们，是对抗坦克的专家哦，大家绝对会喜欢的！
+AK12(0)<Speaker>AK12</Speaker>||:那我们暂时还有救，想想接下来该怎么办吧。
+AN94(0)<Speaker>AN94</Speaker>||:这里的污染指数大幅降低，虽然无法完全脱险，但是暂时不会对安洁形成致命威胁。
+RO635(6)<Speaker>RO635</Speaker>||:那就继续往污染更轻的区域移动吧，安洁这个状态可能要撑不住了。
+AK12(3)<Speaker>AK12</Speaker>||:咦？谁在说话？
+RO635(6)<Speaker>RO635</Speaker>||:啊别在意我，我只是提个建议——
+AN94(2)<Speaker>AN94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:等等，有声音！
+AK12(2)<Speaker>AK12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:是军方的人形！冲我们来的！
+AN94(2)<Speaker>AN94</Speaker>||<黑屏1><SE1>RunStep</SE1>:前面有一条弃用的防线，带着安洁先躲进去！
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:……轰！轰！
+AK12(2)<Speaker>AK12</Speaker>||:大家，快点！我们到了！
+HK416(3)<Speaker>HK416</Speaker>||<黑屏1>:重火力小队，掩护我们！
+()||<BIN>157</BIN><黑屏2>:……在重火力的掩护下，忤逆小队顺利冲进了掩体。
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:我们还有很多王牌，别担心，这几个坦克一定能对付的！
+()||:<color=#00CCFF>……呲，呲。</color>
+()<Speaker>？？</Speaker>||:<color=#00CCFF>安洁莉娅……</color>+<color=#00CCFF>你果然没让我失望。</color>
+()||<SE2>Gunfight</SE2>:……枪声和干扰噪音的波折下，一个男人的声音渐渐清晰地浮现在通讯器的公共频道中。
+NPC-YegorDamage(0)<Speaker>叶戈尔</Speaker><通讯框>||:<color=#00CCFF>你从那场爆炸中活了下来，只为了给我一个能亲手杀掉你的机会。</color>
+AK12(2)<Speaker>AK12</Speaker>;NPC-YegorDamage(0)||:安洁已经死了，放弃行动吧！
+AK12(2);NPC-YegorDamage(0)<Speaker>叶戈尔</Speaker><通讯框>||:<color=#00CCFF>我不这么认为，我知道她只是昏过去而已，就像我知道你们会来到这里一样。</color>
+HK416(0)<Speaker>HK416</Speaker>;NPC-YegorDamage(0)||:他知道我们回来……他算好了通往绿区的路线只有这里！
+NPC-YegorDamage(0)<Speaker>叶戈尔</Speaker><通讯框>||:<color=#00CCFF>我会确保你不会死在炮火中，安洁莉娅。</color>+<color=#00CCFF>这样我就能亲手揪出你，为我的部下报仇！</color>
+()||:……叶戈尔关闭了通讯。
+AK12(2)<Speaker>AK12</Speaker>||<SE2>Battlefield</SE2>:我听到坦克了，它们来了！
+HK416(3)<Speaker>HK416</Speaker>||<黑屏1>:指挥官，快用重火力小队守住防线！+有她们在，我们就绝对没问题的！
+()||<黑屏2><BIN>10</BIN>:

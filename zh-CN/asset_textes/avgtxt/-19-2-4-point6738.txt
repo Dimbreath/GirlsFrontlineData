@@ -1,0 +1,17 @@
+()||<BIN>10</BIN>:【提示】请认真阅读接下来的剧情教程以顺利进行游戏。
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:嗯！这样就没问题了。
+K2(0)<Speaker>K2</Speaker>||:一下子就解决了？
+TMP(0)<Speaker>TMP</Speaker>||:那个东西……究竟是什么？
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:这个啊，是菲尔意志的具现化。+换句话说，就是菲尔本身的思念体。+她通过音乐引诱你们解放自己的心智，然后趁机将你们的部分心智剥离掉，封印在这个地方。
+M950A(0)<Speaker>M950A</Speaker>||:所以，这就是我们不能顺利从这里下线的原因？
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:嗯，我猜你们现在心智图中的数据已经不完整了，所以无法作为整体来通过验证。
+AEK999(0)<Speaker>AEK999</Speaker>||:喂喂，别说的和自己没关系一样啊。
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:啊抱歉抱歉，不过很遗憾，现在的我刚刚完全觉醒，所以没法主动帮你们解锁被封印的心智。
+Thunder50(0)<Speaker>雷电</Speaker>||:那要怎么回收这些心智呢？+这些……被夺走的【我们】。
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:你们需要挑战被封印的自己。
+K2(0)<Speaker>K2</Speaker>||:就是说，要战斗喽？
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:注意哦，这可不同于以往的战斗。+你们的目的是与对面的自己达成一定同步率。+这样才能让对方认清你们，然后主动融合进你们的心智云图里。
+Thunder50(0)<Speaker>雷电</Speaker>||:同步率，也就是说……
+CLEAR(0)<Speaker>克莉尔</Speaker><Position>0,100</Position>||:对，这就是你一直期待的——【演奏】！
+()||:【提示】前方的战斗将与通常战斗完全不同，请阅读以下说明。+首先，请提前关闭【自动技能】指令，并打开游戏设置的【音乐】开关，以免出现突发状况。+在音乐标记坠落到水平线的瞬间，准确点击对应的人形技能图标，以获得对应的MAX同步率。+否则，人形将受到一定伤害。+在音乐播放结束前保证您的人形没有全部被击败，即可获得胜利。+最后提示，请提前关闭【自动技能】指令，并打开游戏【音乐】以免出现突发状况。
+M950A(0)<Speaker>M950A</Speaker>||:被封印在这里的会是谁呢？等待我们的是什么音乐，来挑战一下吧！

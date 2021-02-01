@@ -1,0 +1,27 @@
+()||<BIN>9</BIN><BGM>BGM_Sunshine</BGM>:……消灭了敌人后，HK416带领着SOP2继续前进。
+HK416(0)<Speaker>HK416</Speaker><通讯框>||:<color=#00CCFF>指挥官，我们现在正在前往7号据点，击退白色敌人的袭击</color>。+<color=#00CCFF>顺便，我们在路上捡到了……</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>指挥官！指挥官！指挥官！</color>
+HK416(0)<Speaker></Speaker><通讯框>||:……滴！+……HK416强制关闭了SOP2的通讯。
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>你！你太过分啦416！</color>+<color=#00CCFF>RO还什么话都没说呢！</color>
+RO635()<Speaker>RO635</Speaker>||:<color=#00CCFF>别、别说了，就让指挥官当我死掉好了……</color>
+HK416(0)<Speaker>HK416</Speaker>||:<color=#00CCFF>我们在路上捡到了AR小队的SOP2和RO，以及Cx4Storm和她带领的人形梯队。</color>+<color=#00CCFF>虽然她们现在的形象有点……不一样，但至少还能自由行动。</color>
+RO635()<Speaker>RO635</Speaker>||:<color=#00CCFF>我不自由！我不自由——！</color>
+HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:<color=#00CCFF>……闲聊稍后进行吧，我们马上就要抵达7号据点了。</color>
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN>:就这样……我们在指挥官和HK416她们的引导下，顺利与格里芬会合。+虽然破破烂烂的，但是总归从战场上活下来了。+当然这一切只是暂时的，我们马上将要面对那些未知的敌人和未知的局面……+不过我会活下来的……+而且这一次，我会和大家一起活下来。
+()||<黑屏1>:……
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:
+()||:……+涅托听完了整个故事，这并非全部的真相，但我想和它们持有的情报大致吻合。
+Nyto(0)<Speaker>涅托</Speaker>||:我们确信这基本是真实的内容。
+Nyto(0)<Speaker></Speaker>||:……滴，滴。+我听到耳边传来细小的声音，显然，所有的涅托对此都没有任何反应。
+()<Speaker>冷静的人形声音</Speaker>||<BGM>BGM_Truth</BGM>:<color=#00CCFF>指挥官，不用回话，我知道你现在正在接受招待。</color>
+()||:我听过这个声音，但是一时想不起来，毫无疑问，她和入侵涅托的那个人形是一伙的。
+()<Speaker>冷静的人形声音</Speaker>||:<color=#00CCFF>我们现在正在摸清了这座疗养院的防御体系，以便制定入侵计划，这需要点时间。</color>+<color=#00CCFF>指挥官，请再争取一些时间。我知道这会很痛，但是目前没有别的办法。</color>+<color=#00CCFF>我唯一能安慰你的方式，就是希望你能享受其中。</color>
+()||:她留下一个现在都不好笑的玩笑，就结束了通讯。+涅托们的工作还在继续，今天的审讯可能要持续很久了，虽然我知道这就是我的工作。
+Nyto(0)<Speaker>涅托</Speaker>||:下面，请供述另一件事。+战术人形HK416，隐秘小队404小队的一员。+她在这场战役中扮演了重要角色，我们需要知道她具体做了什么。
+Nyto(0)<Speaker>指挥官</Speaker>||:……<c>你们既然不知道，为什么知道她重要？<c>这件事，你们应该比我更了解才对。<c>你们为什么会知道404小队？
+Nyto(0)<Speaker>涅托</Speaker>||<分支>1</分支>:我们不了解她参与行动的细节，她的行为并不符合资料上以往的行为习惯，我们需要知道原因。
+Nyto(0)<Speaker>涅托</Speaker>||<分支>2</分支>:我们的确接触过，但是不是我，是另外的涅托。+格里芬公司和人形当时所处的状况，我们也需要了解。
+Nyto(0)<Speaker>涅托</Speaker>||<分支>3</分支>:这是不必要的问题，我们知道很多事，你知道的，你不知道的，但你都不需要知道。
+Nyto(0)<Speaker>涅托</Speaker>||:现在，告诉我们，HK416是如何参与格里芬行动的，她为什么要营救那么多人形。+……告诉我们，你才能活下来。
+()||:……那接下来，就是另一个故事了。
+()||<黑屏1>:
