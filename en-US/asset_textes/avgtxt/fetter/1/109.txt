@@ -1,0 +1,45 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>89</BIN><BGM>BGM_Moon</BGM>:
+()||:Four days later, in the Star Chamber.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Alright, stop.
+P38(2)<Speaker>P38</Speaker>||:(Pants) +How about now, Miss Desert Eagle?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Your singing, dancing and accompaniment...
+()<Speaker>Idols-To-Be</Speaker>||:...
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Are all perfect. Congratulations, girls. You're ready to take the stage.
+()<Speaker>Idols-To-Be</Speaker>||:Woohoo!
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:You're scheduled to perform tonight, right? I'll be there. +I'm looking forward to your show, ladies.
+()||:Desert Eagle leaves. +P38 slumps bonelessly down into a sitting position.
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:What's wrong, P38? Are you alright?
+P38(2)<Speaker>P38</Speaker>||:I'm, I'm fine... But I'm super nervous... I mean, it's tonight! It's happening tonight, what will we do if something goes wrong?!
+HK45(2)<Speaker>Gr HK45</Speaker>||:Don't be too tense... If you're worried, why don't you get some rest? Go charge yourself up and prepare for tonight.
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:I feel that will be very necessary.
+P38(2)<Speaker>P38</Speaker>||:Al-alright... No, I need to believe in myself a little more. +I'm the lead singer for this show... I need to put my best foot forward! The most foolish thing I can do before a live show is to be frightened of making mistakes!
+HK45(2)<Speaker>Gr HK45</Speaker>||:...
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:...
+P38(2)<Speaker>P38</Speaker>||:W-what's wrong?
+HK45(2)<Speaker>Gr HK45</Speaker>||:It's nothing... You've changed though, P38. +You've got the look of a lead singer now, you know? You were really captivating just now.
+P38(2)<Speaker>P38</Speaker>||<黑点1>:What the heck... Anyway, see you tonight, I'll be heading back for now!
+()||<黑点2><Night><BIN>4</BIN><BGM>BGM_NightOPS</BGM>:That night. +After an intense battle, the tired Dolls trudge back to Griffin. After being screened at the base checkpoint, they slowly head for the repair bay. +Just then, the lights along their path suddenly come on.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:The lights over here shouldn't be on now, right?
+ZastavaM21(0)<Speaker>Zas M21</Speaker>||:Are they voice-activated now?
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Doesn't look like it... Wow, look at that!
+ZastavaM21(0)<Speaker>Zas M21</Speaker>||:I see people standing on the platform in the grass patch... It's Gr HK45, Spectre M4...and who's that all the way in front?
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:I can't tell, but she looks kind of familiar...
+()||<BGM>BGM_Empty</BGM>:As their colleagues look at them, the three execute a graceful bow. +Then, the Doll in the center picks up the mic and begins a tender song.
+P38(2)<Speaker>Mysterious Singer</Speaker>||<BGM>BGM_Moon</BGM>:Looking down on the streets from the highest place... Things like tears and sadness will soon vanish. +The birds, the wind, and light are all my friends... +I'll take my dreams far away, far away, however far.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:...Did the Commander invite a singer over? +She has a lovely voice.
+ZastavaM21(0)<Speaker>Zas M21</Speaker>||:I've heard this song before. +But the original singer never made it sound so soothing and gentle.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:So you're saying it's bad?
+ZastavaM21(0)<Speaker>Zas M21</Speaker>||:No, not at all. At least, right now, it feels good to me.
+P38(2)<Speaker>Mysterious Singer</Speaker>||:I want to flap my wings and fly so free in the blue sky in my heart.
+ZastavaM21(0)<Speaker>Zas M21</Speaker>||:"Far away blue sky... The sky goes on into tomorrow..."
+()||:At some point, the Dolls hurrying past because of work have all slowed down, and the idle Dolls have been drawn over. +One of the Dolls plugs the sound into the Griffin PA system, and the gentle croon fills the entire base.
+()||<黑屏1>:
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2><BIN>8</BIN>:That's all our work for today! Thanks for your hard work, Commander! +Huh? Someone's singing on the public channel...
+()||<黑屏1>:
+Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||<黑屏2><Night><BIN>160</BIN>:... +If only I could...
+()||<黑屏1>:
+M1903Cafe(0)<Speaker>Springfield</Speaker><Position>0,120</Position>||<黑屏2><Night><BIN>80</BIN>:Hm...whose singing is this? +So that's what that girl was talking about. +A song like this needs to be recorded.
+()||<黑屏1>:
+()||<黑屏2><Night><BIN>4</BIN><SE1>AVG_applause_indoor</SE1>:The song ends. +The Dolls assembled on the field break into spontaneous applause.
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>stop_AVG_applause_indoor</SE1>:The three Dolls bow one last time before the lights go out, and they vanish into the darkness.

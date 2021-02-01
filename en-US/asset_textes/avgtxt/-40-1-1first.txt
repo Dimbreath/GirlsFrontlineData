@@ -1,0 +1,90 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2>:... +This is...the sensation of sunlight, piercing through my eyelids.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BGM>BGM_Truth</BGM>:As I regain my consciousness, my ears once again pick up the sounds of the crashing waves. +My body lays still, devoid of all energy. My arms feel as if they are crushed beneath something of incomprehensible weight, rendering me unable to even shield my eyes from the light.
+()<Speaker></Speaker>||<黑屏1>:
+指挥官()<Speaker>Commander</Speaker>||<睁眼><BIN>162</BIN>:... +Am I...still unable to leave this place?
+()<Speaker></Speaker>||:I don't remember when I was cast ashore, begotten from my ship's fateful end. I drifted till I met this island, and have been trapped here ever since... +But that doesn't matter anymore.
+指挥官()<Speaker>Commander</Speaker>||:I'm so thirsty...and hungry... Where can I find food...? +Huh?
+()<Speaker></Speaker>||:I seem to be hallucinating. I see my Dolls around me, trying to tell me something. +... +However, I'm afraid I can't hear what they're saying.
+指挥官()<Speaker>Commander</Speaker>||:Everyone, I'm sorry... I can't take this anymore...
+厌烦的声音()<Speaker>Annoying Voice</Speaker>||<BGM>BGM_Empty</BGM>:Com...man...der?
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Hello</BGM>:...
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:Say, I'm the one who can't take it anymore! +Why are you lying here putting on this stupid solo circus show? You're so into it, too! How gross...
+AA12(2)<Speaker></Speaker><Position>0,100</Position>||:AA-12 starts to unwrap her lollipop casually, ingesting the sugary treat whilst next to me. +The sunlight clearly bothers her greatly as well, hence she thenceforth reaches out to adjust the angle of her parasol to block out all of the rays.
+AA12(2)<Speaker>Commander</Speaker><Position>0,100</Position>||:Relax, AA-12. This is meant to be a vacation. +...You don't have to worry about anything, at least for today.
+()<Speaker></Speaker>||:That's right, the only thing on today's schedule...is to enjoy a day-off by the sea.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><回忆><BIN>8</BIN>:Three days ago, in the Griffin Command Center.
+指挥官()<Speaker>Commander</Speaker>||:A seaside holiday?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Of course~ I'm not joking.
+指挥官()<Speaker>Commander</Speaker>||:Isn't the commission about eliminating any potential risks on the remote island?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Most certainly, but according to satellite images I have reviewed, the island has been uninhabited since the end of the last century, either from some environmental hazards or some form of mass migration. +Nevertheless, after decades of being left alone, it has reverted to its natural state, with barely any traces of human civilization.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:That was the case until recently, when a geological expedition team discovered rich mineral deposits there. The developer who purchased the island thus wants us to dispatch Dolls to make sure it is secure enough to build mines there. +That's all made clear in the commission's documentation.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:The. Point. Is. +Over 90% of the island's landmass is occupied by forests and all man-made constructions have all been consumed by nature. Not even Sangvis Ferri would be interested in a place like that. +The only possible risk there is the local wildlife, don't you think? +A mission to eliminate potential hazards on the island won't take longer than a day. +So you can all enjoy a proper holiday in the remaining time~!
+NPC-Kalin(1)<Speaker>Commander</Speaker>||:...You have a point.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Humph, if I didn't have more combat reports to write, I'd love to come with you!
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:Ahem...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Of course, you've been having a much rougher time on the frontlines, and it's been ages since you've had a break. +So why don't you wrap up the job as fast as you can and just relax?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><关闭蒙版><BIN>162</BIN><BGM>BGM_Empty</BGM>:
+指挥官()<Speaker>Commander</Speaker>||<BGM>event_summer_Title</BGM>:... +It seems that it was a wise choice for everyone to bring their swimsuits.
+()<Speaker></Speaker>||:Taking the commission seriously, we spent an entire day scouring the island for any possible safety hazards. +But, as Kalina surmised, there is nothing apart from trees, sand, seawater and a myriad of wild animals here. +Rather than "an island with potential safety hazards", this place is more like "a beautiful holiday hotspot".
+Ithaca37(2)<Speaker>M37</Speaker>||:Commander, make sure not to even budge a muscle! This masterpiece that only I am capable of creating is nigh complete!
+m1(2)<Speaker>M1 Garand</Speaker><Position>0,100</Position>||:Huh? Ithaca, don't you think that's a bit too much sand over there?
+m1(2)<Speaker>M1 Garand</Speaker>||:
+()<Speaker></Speaker>||:That's right. I'm lying down on my back because Ithaca and Garand are making a game out of burying me in the sand. +Since they look so happy, I'll roll with it just a bit longer.
+()<Speaker></Speaker>||:While I'm being buried, I direct my attention to the other end of the beach where the Dolls are enjoying the holiday in their own ways...
+Type88(4)<Speaker>QJY-88</Speaker>||:I wonder if my newly modified waterproof accessories will work...hmm?
+Type88(4);Z62(2)<Speaker>Z-62</Speaker>||:Hmm, I need this part, but where would I even find it out here today?
+Type88(4)<Speaker>QJY-88</Speaker>;Z62(2)||:Miss Z-62, is something wrong with your weapon?
+Type88(4);Z62(2)<Speaker>Z-62</Speaker>||:Huh? Oh, t-there's nothing wrong.
+Type88(4)<Speaker>QJY-88</Speaker>;Z62(2)||:If it's weapon maintenance, then maybe I could be of help?
+Type88(4);Z62(2)<Speaker>Z-62</Speaker>||:N-No thanks. I'll manage on my own, I think...
+Type88(4)<Speaker>QJY-88</Speaker>;Z62(2)||:Eh...really? T-Then, I'll leave you to it.
+Type88(4);Z62(2)<Speaker>Z-62</Speaker>||:Yeah, sorry.
+Z62(2)<Speaker>Z-62</Speaker>||:I didn't think I'd be seen here... I almost caused trouble for someone else too. +Guess I'll just find a quiet spot and read.
+Z62(2);M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:Z-62~ You brought your weapon along to the beach?
+Z62(2)<Speaker>Z-62</Speaker>;M1903(8)||:I-I was just holding it and didn't put it down... Uh, excuse me.
+M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:Hold on, I've made some muffins... +...Wow, she's fast.
+95type(2)<Speaker>Type 95</Speaker><Position>0,100</Position>;M1903(8)<Position>0,100</Position>||:Puffy clouds crown the mountain top~♪ Shielding the woods from view~♪
+95type(2)<Position>0,100</Position>;M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:Wow, I didn't expect to hear Miss Type 95's singing.
+95type(2)<Speaker>Type 95</Speaker><Position>0,100</Position>;M1903(8)<Position>0,100</Position>||:It's been a while since I've seen such beautiful scenery. It puts me in such a good mood I just can't help but sing a little.
+95type(2)<Position>0,100</Position>;M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:I see. But you don't plan on swimming?
+95type(2)<Speaker>Type 95</Speaker><Position>0,100</Position>;M1903(8)<Position>0,100</Position>||:I'm not actually too good at it. Besides, 97 keeps warning me about the dangers in the water, so I'm okay with just getting a bit of sun on the beach.
+95type(2)<Position>0,100</Position>;M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:What a shame... Speaking of which, is there any sunscreen you recommend?
+95type(2)<Speaker>Type 95</Speaker><Position>0,100</Position>;M1903(8)<Position>0,100</Position>||:I've bought this brand recently. The ingredients seem to be very effective even on our bodies.
+M1903(8)<Speaker>Springfield</Speaker><Position>0,100</Position>||:Wow~ I never thought there could be a product this good! Let me give it a try~!
+M1903(8)<Position>0,100</Position>;SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||<BIN>162</BIN>:Hey, I've brought the watermelon over! Should we cut it open and eat it now?
+FN57(6)<Speaker>Five-seven</Speaker>;SPAS12(2)<Position>0,200</Position>||:Wait, just eating it is such a waste!
+FN57(6);SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:What do you mean? It's only a waste if you don't eat it, right?
+FN57(6)<Speaker>Five-seven</Speaker>||:Be patient. Let me show you something fun...
+FN57(6)<Speaker>Five-seven</Speaker>||:
+()<Speaker></Speaker>||:...
+指挥官()<Speaker>Commander</Speaker>||:Strange. When was the last time I had a holiday?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:What are you up to now?
+AA12(2)<Speaker>Commander</Speaker><Position>0,100</Position>||:I was merely thinking about the fact that all of a sudden, there's nothing for me to worry about. No need to endure the scent of gunfire and charred earth, no need to desperately struggle for survival. +Relaxing like this just makes me feel uneasy. Just yesterday, I yearned so much for peace when I was fighting, but now that it's so peaceful, I'm starting to feel like I'm not needed anymore. +Perhaps a peaceful world simply doesn't suit me...or perhaps I've grown so used to strife and violence that I can no longer live in peace?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:Stop worrying about nothing...
+()<Speaker></Speaker>||:AA-12 mutters nonchalantly. I seem to have exhausted her patience.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:With my body buried in sand under direct sunlight, it's starting to feel warm and toasty. The Dolls' cheerful chatter and laughter weave together into a lovely lullaby swirling around my ears, putting me to sleep.
+()<Speaker></Speaker>||:...
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Cut_Watermelon</SE1>:?!
+()<Speaker></Speaker>||<黑屏1>:
+指挥官()<Speaker>Commander</Speaker>||<睁眼><BIN>162</BIN><BGM>event_summer_Title</BGM>:The sound of some kind of cold weapon slicing through an object wakes me with a jolt. Then an icy thing rolls into my face – it's half of the watermelon that has just been chopped.
+指挥官()<Speaker>Commander</Speaker>||:A Damascus steel axe?
+()<Speaker></Speaker>||:The axe landed just a hand's width away from my head, and its wielder, SPAS-12, is laughing gleefully with a blindfold over her eyes?
+SPAS12()<Speaker>SPAS-12</Speaker>||:I think I got it, Five-seven?
+FN57(6)<Speaker>Five-seven</Speaker>||:Woohoo! Wow, you actually did it! C'est superbe! Hang on, isn't this the Commander?!
+FN57(6);SPAS12(2)<Speaker>SPAS-12</Speaker><Position>0,200</Position>||:What?! Did I chop the Commander?!
+FN57(6);SPAS12(2)<Speaker>Commander</Speaker>||:You would have if the axe had struck a couple of inches to the left! +What the hell are you doing?!
+FN57(6)<Speaker>Five-seven</Speaker>;SPAS12(2)<Position>0,200</Position>||:We were playing...Smash the Watermelon... +Sorry, Commander! You're very easy to miss whilst in the sand. Here, have some watermelon. W-We'll be going then!
+FN57(6)<Speaker>Five-seven</Speaker>||:
+()<Speaker></Speaker>||:By the time I squirm my way out of the sand, Five-seven, who's in very big trouble, has already run off with SPAS-12 in tow. +Staring at the chopped-up watermelon on the ground, I'm overwhelmed by the lingering shock from my near-death experience.
+指挥官()<Speaker>Commander</Speaker>||:... +Perhaps I shouldn't waste too much time pondering philosophical questions concerning things like war and peace.
+SPS(2)<Speaker>Serdyukov</Speaker>||<BGM>BGM_Empty</BGM>:Commander!
+SPS(2)<Speaker>Commander</Speaker>||:I'm okay, Serdyukov. Keep an eye on the Dolls playing in water.
+SPS(2)<Speaker>Serdyukov</Speaker>||<BGM>BGM_Boss</BGM>:No, I-I've detected some unidentified enemy signals.
+SPS(2)<Speaker>Commander</Speaker>||:Unidentified enemy signals? How is that possible?! +Has anyone landed on the island?
+SPS(2)<Speaker>Serdyukov</Speaker>||:No, the signals originate from within the forest... +They seemed to have hidden their tracks very well yesterday, but it's also my fault for not looking more closely into the details. I'm very sorry...!
+SPS(2)<Speaker>Commander</Speaker>||:Don't beat yourself up over it. We'll figure out how this happened later. Gather the other Dolls and prepare for an assault!
+()||<黑点2><BIN>10</BIN>:

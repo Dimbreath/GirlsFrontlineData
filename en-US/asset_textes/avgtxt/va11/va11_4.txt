@@ -1,0 +1,142 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+Dana(0)<Speaker>Dana</Speaker>||<黑屏2><BIN>186</BIN><BGM>m_va_hopes_and_dreams</BGM>:Hey, Jill. +I'm stepping outside to buy something. Want me to pick up anything for you?
+吉尔()<Speaker>Jill</Speaker>||:I bet that you're going to buy those electronic Dinergates.
+Dana(0)<Speaker>Dana</Speaker>||:And a lot of souvenirs. Those Griffin people really know how to make a buck.
+吉尔()<Speaker>Jill</Speaker>||:Can you help me get a robomaid, too? +Fore messed up the clothes I folded with all the ease of me going out to get a pack of cigarettes.
+Dana(0)<Speaker>Dana</Speaker>||:I'm sorry, but I just saw the news and all the slots for Griffin's domestic rental service are sold out. +You can sort it out by hand or get another cat. I wouldn't recommend the latter though; Fore's just too cute.
+吉尔()<Speaker>Jill</Speaker>||:I don't want to do it myself, so I've decided to forget it all and throw myself into my work.
+Dana(0)<Speaker>Dana</Speaker>||:You're just running away from the problem. Your room won't clean itself when you go back tonight.
+吉尔()<Speaker>Jill</Speaker>||:But my feelings can recover by themselves, just a little.
+Dana(0)<Speaker>Dana</Speaker>||:Then I hope your customers tonight won't be too taxing. I'll leave the place to you, Jill.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:See you later, Boss.
+吉尔()<Speaker>Jill</Speaker>||<BIN>9</BIN>:(Right, let's decide what the atmosphere in the bar will be like tonight.)<c>You've Got Me<c>Welcome To Va-11 Hall-A<c>Where Do I Go From Here
+()||<分支>1</分支><BGM>m_va_youve_got_me</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_where_do_i_go_from_here_</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN>:Time to mix drinks and change lives.
+Alma(2)<Speaker>Alma</Speaker>||:Good evening, Jill.
+吉尔()<Speaker>Jill</Speaker>||:Alma—! +Oh no, I'm sorry. +Once upon a midnight dreary, while I pondered, weak and weary...
+Alma(2)<Speaker>Alma</Speaker>||:Enough of that, Jill! All I need is a proper "Good evening".
+吉尔()<Speaker>Jill</Speaker>||:You can ask me to be courteous, but not to know my limits.
+Alma(2)<Speaker>Alma</Speaker>||:Hehe, as it happens, I have a friend here who is completely fluent in etiquette. She'll teach you how far you can go, Gr G36— +...Gr G36?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:Ah...my apologies. +Good evening, Jill Stingray. +It is good to meet you, and I hope you will have a happy night.
+吉尔()<Speaker>Jill</Speaker>||:Alright, I know now that etiquette is deliberately saying things that sound nice but aren't too trustworthy. +But good lord, I can't believe you actually managed to get ahold of the maid rental service. I wanted one tonight.
+Alma(2)<Speaker>Alma</Speaker>||:I won't give her to you, because she's just too perfect, both as a maid and as a companion.
+吉尔()<Speaker>Jill</Speaker>||:(I've seen way too many strange Dolls these past few days, so idealized androids like these end up surprising me instead...)
+Alma(2)<Speaker>Alma</Speaker>||:And I don't just have one of them, I've got many bodies in store, and I've changed them all into different clothes according to the manual.
+吉尔()<Speaker>Jill</Speaker>||:Sounds like you're already treating them as your daughters. But that's being hasty, Alma. you're being far too hasty.
+Alma(2)<Speaker>Alma</Speaker>||:Give it a rest, Jill. Every girl enjoys something like this, and I bet a lot of men do too.
+吉尔()<Speaker>Jill</Speaker>||:I'd choose to raise a cat. Anyway, you really have been gone for a while, Alma.
+Alma(2)<Speaker>Alma</Speaker>||:Don't bring it up, I've been so damn busy lately that I've only managed to step out to catch a breath tonight. +Start with a Brandtini. I haven't had one of them in far too long, darling.
+吉尔()<Speaker>Jill</Speaker>||:No problem, my Brandtini girl.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give Alma the Brandtini she likes. She came here for this and for me.) +<va11><perfect>6
+Alma(2)<Speaker>Alma</Speaker>||<分支>1</分支>:What can I say? I'm never disappointed when I come here. +Are you the best bartender in Glitch City, Jill?
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:No, but I'm sure that I'm the bartender in Glitch City that treats you best.
+吉尔()<Speaker>Jill</Speaker>||:So, why don't you tell me about what's been keeping you busy lately? Does it have anything to do with this Doll maid?
+Alma(2)<Speaker>Alma</Speaker>||:Debugging work. +Griffin Dolls use technology that I rarely come into contact with. Their tech is very...90wish...
+吉尔()<Speaker>Jill</Speaker>||:90-what?
+Alma(2)<Speaker>Alma</Speaker>||:90wish. They're a secretive tech group from many years ago.
+吉尔()<Speaker>Jill</Speaker>||:Can I take that to mean that they're a team of hackers?
+Alma(2)<Speaker>Alma</Speaker>||:No, they were far more than hackers. Their knowledge of the field of artificial intelligence was extremely advanced. +One of their core members founded 16Lab with the help of IOP, and provided technical support for the development of Griffin's Dolls. +You should know that anyone who works in the electronics industry would be interested in the secrets inside their heads.
+吉尔()<Speaker>Jill</Speaker>||:So that's why you accepted the work of debugging this Doll?
+Alma(2)<Speaker>Alma</Speaker>||:While the clarification was a little unnecessary, everything I did during the course of this job was completely legal.
+吉尔()<Speaker>Jill</Speaker>||:Ah...Alma...
+Alma(2)<Speaker>Alma</Speaker>||:Hm?
+吉尔()<Speaker>Jill</Speaker>||:Er... I'm sorry, did I say something wrong? +Miss Maid over here looks a little...angry? And she seems to be avoiding me?
+Alma(2)<Speaker>Alma</Speaker>||:Don't worry, she just has a mean look in her eyes and she's a little farsighted. It's just a factory design, so don't let it bother you.
+Alma(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:I apologize for my rudeness, Miss Jill. I simply wanted to see your face clearly.
+吉尔()<Speaker>Jill</Speaker>||:It's alright, I like glaring at people from time to time myself... +(What kind of mad scientist would make a Doll farsighted...)
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:No need to be so uptight, Gr G36. This is one of my regular haunts, and this bartender is a good friend of mine.
+Alma(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:No, I am sorry, I am simply...having trouble coping.
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:What's wrong? Do you think there's a problem with your neural cloud?
+Alma(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:I cannot say why either. Something just feels wrong.
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:I felt the same way when I went outside too... Gr G36, have your reflexes grown slower?
+吉尔()<Speaker>Jill</Speaker>||:Alma, is your debugging really "legal"?
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:Of course, other than a few small...er... +I'm sure everyone must have taken apart a computer or keyboard before, purely out of curiosity to see how it was made... +And then maybe you discovered that there were one or two keys you couldn't put back...
+吉尔()<Speaker>Jill</Speaker>||:No, my nanny would never have allowed it, and I was never that interested in that sort of thing. All it has to do is work.
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:Aren't you the slightest bit curious about riddles, Jill!?
+吉尔()<Speaker>Jill</Speaker>||:Not curious enough to break other's things, which is why I'm not the one in trouble.
+Alma(2)<Speaker>Alma</Speaker>;G36Mod(0)||:I'm certain that I didn't do anything too far out of the ordinary. Perhaps there was a bug when I was working on the neural cloud, or some stray debris got in... +Let me see your eyes, Gr G36... +Right, I'll note this down. Hang on a bit, I need to go out back to make a call.
+G36Mod(0)<Speaker>Jill</Speaker>||:Don't take too long, I still need to go outside for a smoke afterward. +...She's gone. +I'm sorry, Miss Gr G36, you know Alma's a good person, just that she's more curious than most.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:It is alright. It is true that Miss Alma did not do anything wrong. +It is just...I do not know where the problem lies.
+G36bar(0)<Speaker>???</Speaker>||:Of course you do not know where the problem is. +That is because you are not even yourself.
+吉尔()<Speaker>Jill</Speaker>||:You are...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Good evening, Jill Stingray. +I apologize for causing you unnecessary trouble this evening. I am Gr G36; the real Gr G36.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:What? No, I'm the real Gr G36. You are not.
+吉尔()<Speaker>Jill</Speaker>||:Wait, wait a minute... +Why is there a maid Gr G36 here along with a butler Gr G36... Granted, both of you look like you have the same face...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Miss Jill, please do not panic. I hope you will allow me to explain the matter in detail. +However, may I first sample a Suplex from your establishment?
+吉尔()<Speaker>Jill</Speaker>||:A Suplex?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:I apologize, my request was too sudden.
+吉尔()<Speaker>Jill</Speaker>||:No, it's completely fine, I've already served drinks to many Dolls already. A moment please.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give the butler Gr G36 that suddenly appeared out of nowhere a Suplex... Wow, can she really handle such a stiff drink?)+<va11><perfect>23<good>7,15,19
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here, Miss Other-Gr G36. This drink is very spicy, mind, so please take your time.
+G36bar(0)<Speaker>Gr G36?</Speaker>||<分支>1</分支>:I am prepared for this.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:I changed the taste, what do you think of it?
+G36bar(0)<Speaker>Gr G36?</Speaker>||<分支>2</分支>:Mm, I know what this is, it is fine.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:You really have studied your drinks. Perhaps we could talk for a long time.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:I thank you for your care and effort in making this drink. Please allow me to sample it.
+吉尔()<Speaker>Jill</Speaker>||:(She... emptied the glass in one mouthful!) + (And then she lowered her head, like a shoebill.)
+G36bar(0)<Speaker>Gr G36?</Speaker>||:...Perfect. It will definitely be popular. +Thank you for serving me, Miss Jill. I will take its recipe back to Griffin.
+吉尔()<Speaker>Jill</Speaker>||:I'm honored. So, what were you going to explain, Gr G36...er, or should I just call you Miss Butler instead?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:By all means. I will now take up some of your time to explain the situation. +Gr G36, could you have consumed this drink just now?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:...Me? ...I...I do not think so.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:As you can see, Miss Jill, the real Gr G36 ought to be able to hold her liquor well. +This maid Doll before you might be dressed in Gr G36's commonly-worn clothing, but in truth... +She is nothing more than a vacuum cleaner.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:What...
+吉尔()<Speaker>Jill</Speaker>||:Wait, a vacuum cleaner!?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Yes. An hour ago, before Miss Alma brought me outside, she accidentally knocked over a vacuum cleaner. +After that, I went to help her up. +I imagine that due to some bizarre effect of her prosthetic arm which was filled with electronic synapses, it caused my mind and that of the vacuum cleaner to be switched.
+吉尔()<Speaker>Jill</Speaker>||:Wait a minute, you're saying... +That this maid here...is actually a vacuum cleaner? +I know vacuum cleaners have been allowed to possess wills of their own, but suddenly transferring one into the body of a Doll...
+G36Mod(0)<Speaker>Gr G36</Speaker>||:But I...don't remember at all...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:That is because your mind might have been transferred to a Doll's body, but your memories were not brought along with them. +When my mind was removed from my original body, my neural cloud automatically recognized the other soul within my body as the consciousness of the main body. +Miss Vacuum Cleaner, it is the neural cloud that made you think you are Gr G36. Your memories and personality actually belong to me.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:I...I am...
+吉尔()<Speaker>Jill</Speaker>||:(What a wonderful night this is turning out to be, I'm actually listening to an android and a vacuum cleaner discuss their souls.) +Then what about you, Miss Butler? If you're the real Gr G36, then how did you escape the vacuum cleaner?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:I activated an emergency escape program and transferred myself into this backup body. +After that, I followed that maid body's signals here.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:I...I don't believe this... I'm a vacuum cleaner... +My memories of Griffin...and everyone...they're all...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:This is the most direct way to prove whether or not you are Gr G36's main body. +A Doll's mainframe and dummies can share memories, but as an external entity, you cannot form a complete match with the neural cloud, so your authorization to access my memories will be restricted. +Think about it, do you remember forming an oath with the Commander?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:I...I don't remember...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Then where did that ring on your hand come from?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:...!
+吉尔()<Speaker>Jill</Speaker>||:(Wow... the plot suddenly took a nose-dive.)
+G36Mod(0)<Speaker>Gr G36</Speaker>||:No...it can't be... I... +I'm sorry, Miss Gr G36...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Do not be afraid, Miss Vacuum Cleaner, I will not do anything to you. +I simply wish to reclaim my main body and continue serving Griffin. We will discuss the matter with Miss Alma and find a sufficiently gentle solution to this problem.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:I... It's true that I can't think of any other way, we should just...
+吉尔()<Speaker>Jill</Speaker>||<CGDelay>0.5</CGDelay>:(Maybe she might retain Gr G36's memories while being a vacuum cleaner... That doesn't sound too pleasant either.)
+G36little(0)<Speaker>???</Speaker>||:H-Hey! Wait a minute!
+吉尔()<Speaker>Jill</Speaker>||:(Dammit, don't tell me...)
+G36little(0)<Speaker>Gr G36??</Speaker>||:Good evening, Miss Jill, Miss Vacuum Cleaner and...Miss Toaster.
+吉尔()<Speaker>Jill</Speaker>||:Good evening...wait, what did you just call her?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Toaster? What are you talking about!?
+G36little(0)<Speaker>Gr G36??</Speaker>||:Uuu...
+吉尔()<Speaker>Jill</Speaker>||:You've scared the poor girl, Miss Butler. +(Although what she said scared us too.)
+G36little(0)<Speaker>Gr G36??</Speaker>||:Uuu...ah...may I have a Fluffy Dream?
+吉尔()<Speaker>Jill</Speaker>||:Ah? Oh...alright...
+吉尔()<Speaker>Jill</Speaker>||:(Let's give this little Doll a Fluffy Dream, and maybe she'll be able to explain what on Earth is going on.) +<va11><perfect>9
+G36little(0)<Speaker>Gr G36??</Speaker>||<分支>1</分支>:Thank you very much, Miss Jill!
+吉尔()<Speaker>Jill</Speaker>||:Er...I suddenly realized something. If you're a child model, are Dolls allowed to drink?
+G36little(0)<Speaker>Gr G36??</Speaker>||:While my personality has turned childlike due to my body, my memories came from that adult body. +If my memories are from my adulthood, then am I still a child?
+吉尔()<Speaker>Jill</Speaker>||:This...er... +Forget it, I don't care anymore. Besides, Griffin Dolls don't have IDs.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:I apologize for startling you with that shameful display just now, little girl. +But did you say I was a toaster? Where is the basis for that? I clearly have a complete set of memories.
+G36little(0)<Speaker>Gr G36??</Speaker>||:The confusion of Miss Alma's fall...did not just involve the vacuum cleaner. +If your memories are complete, then why do you not remember that I wanted the recipe for the Fluffy Dream drink?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:My memories state that I wanted to make the Suplex, and not the Fluffy Dream.
+G36little(0)<Speaker>Gr G36??</Speaker>||:I originally wanted to make the Suplex, but in the end I decided on a milder drink for the upcoming cocktail party. +Miss Toaster, all you inherited were my deleted...and accidentally misplaced memories.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:But...my memories of the oath...
+G36little(0)<Speaker>Gr G36??</Speaker>||:Then...do you remember where the signs of damage on the ring came from?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Damage? I do not remember it ever being damaged...
+G36Mod(0)<Speaker>Gr G36</Speaker>||:The ring was definitely broken, of that I can be sure... It was damaged in combat.
+G36little(0)<Speaker>Gr G36??</Speaker>||:That section of memories regarding the oath was not backed up in time, and it was damaged in the battle that followed.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:I....was totally unaware... Why...
+G36little(0)<Speaker>Gr G36??</Speaker>||:I had never been able to recover that stretch of memory... +Miss Toaster...thank you for finding them for me...
+G36bar(0)<Speaker>Gr G36?</Speaker>||:...
+吉尔()<Speaker>Jill</Speaker>||:(Well...this is embarrassing.) +Ladies, perhaps you should wait for Alma to come in again before having a good chat about this. This isn't a problem that you can't solve, right?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:Actually...being a maid is very tiring. Maybe it would be good to go back to being a vacuum cleaner.
+G36bar(0)<Speaker>Gr G36?</Speaker>||:At the very least, I feel...that I can do more than toasting bread...
+G36little(0)<Speaker>Gr G36??</Speaker>||:Hm...ladies, let us discuss this... +If you do not wish to be household appliances, then would you like to be Dinergates?
+G36Mod(0)<Speaker>Gr G36</Speaker>||:What?
+G36bar(0)<Speaker>Gr G36?</Speaker>||:You mean, the Dinergates on sale in the supermarket?
+G36little(0)<Speaker>Gr G36??</Speaker>||:Dinergates have many functions. Let's go take a look at them, I'm sure there'll be a model you'll like! +Miss Jill, please tell Miss Alma that we will be waiting for her at the supermarket!
+G36bar(0)<Speaker>Gr G36?</Speaker>||:Thank you for entertaining us tonight. Though I am but a toaster, I enjoyed an exceptional evening.
+G36Mod(0)<Speaker>Gr G36</Speaker>||:Me too, Miss Jill... At the very least, I finally realized that Miss Alma's room was messy because the vacuum cleaner was too old.
+()<Speaker>Jill</Speaker>||:You'll all have a chance to be reborn. Good night, all three of you. +... +If A's mind possesses B's memories, then would they be A or B? How bizarre.
+Alma(2)<Speaker>Alma</Speaker>||:Ahh...it's finally settled. +They agreed to send someone over to my side to check things out, and now I'll be able to learn more stuff. +That Griffin lot is so crafty, especially that Kalina, her attitude before and after the sale was completely different... +...Wait a minute, where did my maid go?
+吉尔()<Speaker>Jill</Speaker>||:She went shopping with your vacuum cleaner and your toaster. +They just stepped out, so you should still be able to catch up to them.
+Alma(3)<Speaker>Alma</Speaker>||:That's quite a lame joke... +Wait a minute...you don't look like you're kidding, how many beers did you drink tonight? Or are you telling me...
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:That's right. This city has always been a mess, hasn't it? +Also... +You don't mind picking up the tab for your household appliances, do you?

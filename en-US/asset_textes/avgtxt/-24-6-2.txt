@@ -1,0 +1,23 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><BGM>BGM_Battle</BGM><火花><黑屏2>:...The battle ends.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:(Pants) +Finally...it's over, Scarecrow.
+SOPII(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Nothing is over. +You won't last long enough to leave this battlefield given the state your body's in now.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:I just want...to go as far as I can. +At least I took revenge for everyone.
+SOPII(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Revenge? Why did you need to take revenge? +Did you know who they were? Did you see their faces before they died?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:...
+SOPII(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Well, I did... I saw everything... +I knew those Dolls better than you ever did...those "friends" of yours. +Did you ever care about them? You've been on your own since the beginning.+You did everything for yourself...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:I've done unimaginable things for the people I care about.
+SOPII(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Have you? Can you say their names, then? +Can you say their names with pride, with no regrets?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||<SE1>Select</SE1>:...
+SOPII(3)<Speaker></Speaker>;BOSS-1(0)||:...SOP-II raises her weapon, and a mocking smile appears on Scarecrow's face.
+SOPII(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:You're pathetic.
+SOPII(3);BOSS-1(0)<Speaker></Speaker><Shake>||<SE1>MachineGunBurst</SE1><闪屏><duration>5</duration></闪屏>:...Bangbang!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:...
+SOPII(3)<Speaker></Speaker>||:...After thoroughly destroying Scarecrow, SOP-II slumps to the ground.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:I have...I have to survive..
+SOPII(3)<Speaker></Speaker>||:<color=#00CCFF>...Pzzzt...pzzzt...</color>
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:No matter what...
+SOPII(3)<Speaker>??</Speaker>||:<color=#00CCFF>Pzzzt...detected...it's a Griffin signal!</color>
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:I promised...
+SOPII(3)<Speaker>??</Speaker>||:<color=#00CCFF>...Move in and wipe it out!</color>
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1><关闭火花>:I have to...survive...

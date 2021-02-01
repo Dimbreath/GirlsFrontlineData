@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN>:...
+()||<黑屏1><BGM>GF_xGS2_16</BGM>:<color=#FFD700>O friends, no more of these sounds!</color> +<color=#FFD700>Let us sing more cheerful songs, more songs full of joy!</color> +<color=#FFD700>Freude! Freude!</color> +<color=#FFD700>Joy, bright spark of divinity, Daughter of Elysium.</color> +<color=#FFD700>Fire-inspired we tread within thy sanctuary.</color> +<color=#FFD700>Thy magic power re-unites all that custom has divided...</color>
+()||<黑屏2><BIN>8</BIN>:Despite the melodious singing, the atmosphere in the command center is becoming increasingly bleak.
+()<Speaker>Commander</Speaker>||:Is that the source you found in the last decryption?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:No, it's only a node... Like all the other ones, it only contained an ordinary audio file of some choral singing.
+()<Speaker>Commander</Speaker>||:It's been an entire week now. Is it mocking us?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Our technician in charge of Level II maintenance just so happens to be on leave, while the Dolls who specialize in electronic warfare are all out on various missions. You really can't expect much from amateurs like us.
+()<Speaker>Commander</Speaker>||:Amateurs...
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Ahaha... +Why don't you take a break for now, Commander? You haven't had any proper sleep ever since this started.
+()<Speaker>Commander</Speaker>||:I thought we'd find the target server this time... Fine, I'll get some rest first and take over from you later.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Alright, sweet dreams!
+()||:I give Kalina a little wave and turn to leave the command center.
+()||<黑屏1><BGM>BGM_Empty</BGM>:This all began a week ago.
+()||<黑屏2><BIN>80</BIN><回忆><BGM>GF_xGS2_27</BGM>:Last week, at the café. +Several Dolls are chattering excitedly about something. Out of curiosity, I head closer to listen in. +Having caught sight of me, the Dolls all gather around me in high spirits.
+DP12(0)<Speaker>DP-12</Speaker>||:Commander, have you heard about that story? +The viral story about the soul-stealing monster on the internet!
+Carcano1938(0)<Speaker>Carcano M91/38</Speaker>||:I have zero interest in that sort of thing, but I'm sure the Commander will find it fascinating.
+()<Speaker>Commander</Speaker>||:Soul-stealing monster on the internet?
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Don't be like that, Ceno! Come and have a look, there's live data about it on Grif-chan.
+DP12(0)<Speaker>DP-12</Speaker>||:Have you seen it too, Miss Cano?
+()||:DP-12 lowers her voice dramatically as she goes on.
+DP12(0)<Speaker>DP-12</Speaker>||:"It is a horrific beast." +"It wears the face of a young girl and sings in a gentle croon." +"It is a child that smells of gunpowder, a monk that wears cologne." +"It roams the network. It embraces machine – shunning flesh and devouring minds."
+Carcano1938(0)<Speaker>Carcano M91/38</Speaker>||:...
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Oh, I heard about that one! +"Legend has it, its favorite pastime is consuming..." +"Dolls with the habit of telling lies."
+()||:At that, Cano stares meaningfully at Ceno.
+Carcano1938(0)<Speaker>Carcano M91/38</Speaker>||:O...old wives' tales like this don't scare me.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Really, Ceno? +It might sound a little more convincing if you weren't clutching at the Commander's hand.
+()||:Ceno stiffens for a second, then she lets go of my hand quickly and takes off running.
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Wait, Ceno! What's the rush?!
+DP12(0)<Speaker>DP-12</Speaker>||:Heh, don't tell me that actually freaked her out?
+Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:I think so... I'm going after her, so I'll see you two later! +Ceno, wait up!
+DP12(0)<Speaker>DP-12</Speaker>||:That got her good, didn't it...?
+()<Speaker>Commander</Speaker>||:You're the one who started it.
+DP12(0)<Speaker>DP-12</Speaker>||:Hmm...you're right. I suppose I should also go and comfort our poor, terror-stricken young lady. +I'll be off then, Commander. Catch you later?
+()<Speaker>Commander</Speaker>||:Sure, catch you later.
+()||:The Dolls have vacated the café. It is another peaceful day. +Miss Springfield's coffee is refreshingly fragrant. I take small, savory sips as I read through the list of acquisitions from the latest logistics missions. +However, my peace and quiet is interrupted by my beeping communicator less than two minutes in.
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>Commander, are you there? It's an emergency!</color>
+()<Speaker>Commander</Speaker>||:I'm here. What happened?
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>Um, listen to me, Commander. I swear I'm not joking, but the internet soul-eater thing might actually be true.</color>
+()<Speaker>Commander</Speaker>||:What do you mean?
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>I chased Cano and Ceno all the way to the dorms and found them collapsed at S.A.T.8's door. They have sufficient power, but for some reason I can't reboot their surface consciousness.</color>
+()||:She sounds deadly serious and doesn't seem to be pulling my leg. +Cano and Ceno have recently become hooked on S.A.T.8's charcoal-grilled pizza so I'm aware that the three of them are on good terms. But I've never heard of charcoal-grilled pizzas rendering Dolls unconscious.
+()<Speaker>Commander</Speaker>||:Leave the whole internet soul-eater business aside for now and get S.A.T.8 to help you take them to the repair bay for a detailed inspection.
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>That's exactly the other thing that I'm about to report...</color>
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>Commander, her door is open; both S.A.T.8 and SPAS are lying on the floor inside and in the exact same state as the Carcanos.</color>
+()||<黑屏2><BIN>8</BIN><关闭蒙版><BGM>BGM_Brain</BGM>:It's been seven days since then. +Just like how the legend goes, the Dolls' neural clouds were attacked by an unknown entity; their consciousness have completely vanished and their bodies are paralyzed. The technicians from I.O.P finally started analyzing the attack and tracing it yesterday, but we still haven't heard anything from them. +Kalina and I only managed to crack open a few downloaded nodes ourselves, but all they contained was a simple song...
+()<Speaker>Commander</Speaker>||:"It wears the face of a young girl and sings in a gentle croon..." +"Sings in a gentle croon..."
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Commander? Why are you back again? I thought you'd gone for a break.
+()<Speaker>Commander</Speaker>||:Kalina, play that singing again. From start to finish.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Sure.
+()||:<color=#FFD700>O friends, no more of these sounds!</color> +<color=#FFD700>Let us sing more cheerful songs, more songs full of joy!</color>
+()||:An empty web page is projected onto the screen as the fiery choral singing sweeps through the command center. +I listen with great concentration and finally notice the minuscule anomaly.
+()<Speaker>Commander</Speaker>||:Keep the chorus and get rid of the rest.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:The chorus? ...Right, that's done. Then what?
+()<Speaker>Commander</Speaker>||:Filter out the accompaniment, leaving just the vocals.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Okay...
+()<Speaker>Commander</Speaker>||:Try converting the sound waves of this part into numbers.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Oh, it's a set of parsed coordinates!
+()<Speaker>Commander</Speaker>||:Then we may have found the entrance. Dolls can easily pick up on such data transmissions but they're easy for us humans to miss. +Can we trace the address with the coordinates?
+()||:...
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:It seems to be from a private Level II database. It isn't encrypted so anyone can access it, but it hasn't been refreshed in quite a while. +Other than our Dolls, no other logins have been registered for years. It seems to be abandoned.
+()<Speaker>Commander</Speaker>||:It's called...Social Welfare Agency? What a strange name. +Try to log in?
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:I can't create a new account. Hmm, I can log in with some of the old ones, but we'll need the holographic equipment.
+()<Speaker>Commander</Speaker>||:Can't be helped. Let's bust out the helmet that's been collecting dust. +And let me take a look at the old accounts.
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Sure, there are several. The usernames are... +"Giuseppe", "Marco", "Jean", and...
+()<Speaker>Commander</Speaker>||:We'll use the first one. Let me log in and have a look around.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Alright! But be careful, Commander! +Tell me at once if there's any sign of danger; I'll disconnect you right away!
+()<Speaker>Commander</Speaker>||:It should be fine. There's only goop in the human brain so my consciousness can't be sucked out as data like a Doll's.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:That's true... In any case, I'll be right here if you need any help. Feel free to ask me anything.
+()<Speaker>Commander</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Okay, thanks.
+()||<黑屏2><BIN>9</BIN><BGM>GF_xGS2_16</BGM>:After putting on the equipment that Kalina handed me, I log into the system using Giuseppe's account. +My vision goes dark for a moment. I try to walk forward but my hand comes across a hard metal gate. +A girl is singing in the distance. I can't be sure if it's the same voice as the one in the audio file, but it does sound familiar.
+()<Speaker>Commander</Speaker>||:Is this the opening scene of a game? Kalina, are you seeing this?
+()<Speaker>Kalina</Speaker>||:I have no form in there, but I can see everything that you see. Don't worry, I'll keep up with you.
+()<Speaker>Commander</Speaker>||:Right, then here goes nothing.
+()||<白屏1>:Once I find myself able to move, I push open the gate.
+()||<白屏2><BIN>259</BIN>:My vision lights up abruptly.
+Henrietta(2)<Speaker>???</Speaker>||:All creatures drink of joy at nature's bosom... +Just and unjust alike taste of her gift.
+()||:The girl is singing softly to herself in the middle of a garden. The sound of my footsteps must have alerted her to my presence and she turns around. +The moment she catches sight of me, her eyes twinkle with joy.
+Henrietta(1)<Speaker>???</Speaker>||:Signore Giuseppe! I knew you'd come back!
+()<Speaker>Commander</Speaker>||:... <c>Who are you? <c>I'm back.
+()||<分支>1</分支>:The girl stiffens for a moment and fiddles with her hair hesitantly.
+Henrietta(4)<Speaker>???</Speaker>||<分支>1</分支>:I haven't changed the way I dress... +Signore Giuseppe, I'm Henrietta, your Cyborg.
+()<Speaker>Commander</Speaker>||<分支>1</分支>:Henrietta?
+()||<分支>2</分支>:The girl is a complete stranger to me. +However, thanks to something like an in-game notification, I'm now aware of her name and identity. +She is my "Cyborg", a partner who aids me in battle.
+()<Speaker>Commander</Speaker>||<分支>2</分支>:Yes, I'm back, Henrietta.
+()||:Hearing me say her name, she immediately breaks into a smile. +It's a pure and genuine smile from the heart. Her cheeks flush a rosy pink. If I didn't know I'm on Level II of the electronic world, I would've thought it's an actual girl standing before me. +She lowers her head and looks up at me shyly, then finally says with a big smile...
+Henrietta(1)<Speaker>Henrietta</Speaker>||<黑屏1>:Welcome back, Signore Giuseppe!

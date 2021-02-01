@@ -1,0 +1,148 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Danger</BGM>:
+()||<SE2>Gunfight</SE2>:The streets are filled with the sound of gunfire, running footsteps, and desperate screams. Bullets and radiation particles are billowing in the air.
+()||:The garrison troops' defense line at the bottom of the quarantine wall is severely compromised and on the brink of being devoured by the endless waves of ELIDs.
+()<Speaker>Garrison Soldier</Speaker><通讯框>||<SE2>Gunfight</SE2>:<color=#00CCFF>This is the Garrison of Purification Tower 16! ELIDs have gathered beneath the tower in our blind spot and are attempting to scale the structure! Can somebody fire at them?!</color>
+();()<Speaker>Garrison Soldier</Speaker><通讯框>||<SE2>MachineGunBurst</SE2><黑点1>:<color=#00CCFF>Garrison of Gate E4 is requesting more ammo! Can anyone spare a drone to deliver supplies to us?!</color>
+()||<SE2>Gunfight</SE2><黑点2>:The steady bursts of gunfire start thinning out over time. Wails come through the comms channel here and there...and even these are becoming more and more infrequent.
+()<Speaker>Garrison Soldier</Speaker>||<SE1>Select</SE1>:Dammit, I'm out of ammo!
+();()<Speaker>Garrison Soldier</Speaker>||:Here, my last mag! Use it well!
+()<Speaker>Garrison Soldier</Speaker>;()||<SE2>Gunfight</SE2>:Shit, we can't even tell where they're coming from! We've got to move to another... Ahhhh!
+()<Speaker>Garrison Soldier</Speaker>||:The ELIDs have gotten through here as well?! At this rate...
+()||<SE2>MachineGunBurst</SE2>:Bang bang bang!
+()<Speaker>Garrison Soldier</Speaker>||<BGM>BGM_Empty</BGM>:Huh...? You're...the allied T-Doll from before?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:This place won't hold, retreat!
+()<Speaker>Garrison Soldier</Speaker>||<BGM>BGM_Battle</BGM>:...Are you kidding me? I'll never run off on my own and leave my fellow soldiers behind!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Is this really the time to worry about your honor?! You could still make it if you leave now!
+()<Speaker>Garrison Soldier</Speaker>||:If you have time to talk such nonsense, why don't you get us more ammo?! The fight isn't over yet!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Why are you doing this? What good will sacrificing yourself achieve?
+()<Speaker>Garrison Soldier</Speaker>||:You don't understand, do you?! Our home is right behind us! +If you can't fight, then this is no place for a little girl like you!
+()||<黑点1>:M4 shakes her head and leaves the garrison fort at the quarantine wall.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||<黑点2>:<color=#00CCFF>...Well? Did anyone take you up on your advice?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:They...all refused to withdraw...for many different reasons.
+()||:Some were trembling so violently they couldn't even speak clearly, while some hid their fear by making jokes. +Others busied themselves with scavenging for equipment from the deceased to add to their ammo reserves. +A few merely saluted M4 in silence. +Not knowing how to face them, M4 had to run away from these soldiers who were determined to fight to their dying breath.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I figured as much. The ones who wanted to run would have fled right after the first explosion.</color>
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>No matter why these people are so determined to stay...they've already missed the chance to escape.</color>
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I'm sure they all know what they're doing.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)<通讯框>||:You go on ahead. I'll stick around for a bit to see if anyone needs help.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I have no intention of waiting for you, so I'm already gone.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)<通讯框>||:Is that so...? Then it's for the best.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>What about you? Don't forget Ange's orders.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)<通讯框>||:There's still something that I've got to do.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>In the end, you're the one who can't stop obsessing over things that are none of your business.</color>
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I'm very interested in seeing what will come of you. Make sure you don't die out there.</color>
+M4A1Mod(0)<Speaker></Speaker>||<SE1>Runstep</SE1>:After the communication with AK-12, M4 goes up to the rooftop of a building and studies the breaches on the quarantine wall from above.
+M4A1Mod(0)<Speaker></Speaker>||<SE2>Gunfight</SE2>:Even though the situation is utterly hopeless, flashes of retaliating gunfire can still be seen occasionally from around the wall, followed by echoing gunshots.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Ange, do you read?
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Loud and clear. Go ahead.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:I...just got an idea that might put a stop to the ELIDs.
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>I ordered to you to fall back to the rendezvous point. Don't do anything unnecessary.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:Listen. I have the fire support platform and plenty of ammo with me. If I detonate them all at once, I could seal up the first opening on the wall.
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>That's way too dangerous! The breach is already swarming with ELIDs!</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Besides, even if you plug the first opening, what about the second one? You only have that one case—</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:I'm sorry, Ange... But I've got to do something for them...
+()||<黑屏2><BIN>177</BIN><BGM>BGM_Brain</BGM>:Just as M4 is about to turn around and set out for the quarantine wall, a searing heat starts burning in her chest.
+()||:Her neural cloud feels like a boiling kettle, and there's a sharp ringing in her ears.
+()<Speaker>M4A1</Speaker>||:(Groans)
+()<Speaker>Clear Voice</Speaker>||:You're too important. You shouldn't put yourself in such danger.
+()<Speaker>M4A1</Speaker>||:Why...are you stopping me?!
+()<Speaker>Clear Voice</Speaker>||:I'm surprised how much they moved you. The fact that you can still feel heartbroken means you haven't become completely heartless.
+()<Speaker>Clear Voice</Speaker>||<黑屏1>:But you still haven't fulfilled your purpose.
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||<BIN>169</BIN><黑屏2>:<color=#00CCFF>Do you hear me, M4? M4!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||<BGM>BGM_Empty</BGM>:...Yes.
+M4A1Mod(0)<Speaker></Speaker>;NPC-AngeStreet(0)<通讯框>||:M4 comes to her senses and nods.
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Just calm down, okay?</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Don't be rash. Our strength is limited. Right now I need every one of you to work with me.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:But they're still fighting! The people on the wall... If we don't do something...
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>We didn't have the time to assess if the quarantine wall could even withstand a third explosion after the damage it had already sustained in the first two.</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>I honestly won't be surprised if your trick doesn't solve the problem but brings down the entire wall instead, which is going to create an even bigger problem.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:I know...you're right. But still...
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Lieutenant Dragović and his men have done their duty. There's nothing we can do to prevent their sacrifices.</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>That's exactly why we can't let their deaths be in vain.</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Their deaths will really be worthless if we give the saboteurs what they want.</color>
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Surely you don't want that, M4!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:...Right.
+M4A1Mod(0)<Speaker></Speaker>;NPC-AngeStreet(0)<通讯框>||:M4 lets out a long sigh and her shoulders finally droop.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<通讯框>||:I just...feel so helpless...
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>The independent neural cloud that Persica has given you is a precious asset, but this isn't the time to squander it.</color>
+AK12(2)<Speaker>AK-12</Speaker><通讯框>;NPC-AngeStreet(0)<通讯框>||:<color=#00CCFF>I didn't want to interrupt this Chicken Soup for the Soul moment, but AR-15 just got in touch.</color>
+AK12(2)<Speaker>AK-12</Speaker><通讯框>;NPC-AngeStreet(0)<通讯框>||:<color=#00CCFF>They seem to be in big trouble.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>;NPC-AngeStreet(0)<通讯框>||:<color=#00CCFF>Ange, do you copy?</color>
+AR15Mod(0)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>I'm receiving you. Is it done, AR-15?</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>;NPC-AngeStreet(0)<通讯框>||:<color=#00CCFF>Sorry Ange, I've located the Node, but it isn't going well at all!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>;NPC-AngeStreet(0)<通讯框>||:<color=#00CCFF>Things are rapidly getting out of hand. I've sent you our location. Sangvis Ferri has engaged the White Faction in battle with M16 in command. I'm afraid we're going to have to fight whoever is left after this fight...</color>
+AR15Mod(0)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>M16...? Sangvis Ferri...?</color>
+AR15Mod(0)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>What a messy situation. Alright, things aren't looking too good on our end either, but we'll send reinforcements to you ASAP.</color> 
+AR15Mod(0)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Hang in there.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Did you hear that, M4? The fight isn't over yet. In any case, come and regroup with me quickly. We've got to aid 15 and 94 ASAP.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Roger that.
+()||<黑点1>:Click.
+()||<BIN>181</BIN><黑点2>:Ange looks up at the sky and sighs heavily.
+AK12(2)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>How unusual.</color>
+AK12(2)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:What do you mean?
+AK12(2)<Speaker>AK-12</Speaker><通讯框>;NPC-AngeStreet(0)||:<color=#00CCFF>I've never heard you sigh before. At least you've never done it in my presence. Now I'm curious.</color>
+AK12(2)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:I've given another order that forced her to betray her own will. I hurt her deeply again...
+AK12(2)<Speaker>AK-12</Speaker><通讯框>;NPC-AngeStreet(0)||:<color=#00CCFF>You made the right call. We can't save everyone.</color>
+AK12(2)<通讯框>;NPC-AngeStreet(0)<Speaker>Ange</Speaker>||<黑屏1>:We can't save everyone, you say...? Sometimes I feel like we can't even save ourselves...
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2>:
+()||<BGM>BGM_Empty</BGM>:...In the streets of Belgrade. +With her back to the quarantine wall, M4 continues on her course to the rendezvous point.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Battle</BGM>:It should be in this direction... Hmm?
+()||:M4A1 points her muzzle at the source of a strange noise, only to find a soldier lying by the road. +The pile of ELID corpses next to him is practically a small mound.
+()<Speaker>Garrison Soldier</Speaker>||:(Groans)
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Are you alright?
+()||<黑点1>:M4 hurries over to the soldier's side. His protective gear is in tatters and the man is severely injured.
+()||<黑点2><BIN>89</BIN>:Even so, M4 drags him off the streets into a house nearby that provides temporary shelter from the radiation storm.
+()<Speaker>Garrison Soldier</Speaker>||<BGM>BGM_Empty</BGM>:...D-do me a favor.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'll do what I can. Tell me what you need.
+()<Speaker>Garrison Soldier</Speaker>||<BGM>BGM_Sad</BGM>:Make...it quick... Put a bullet...through my brain...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I can't...
+()<Speaker>Garrison Soldier</Speaker>||:It hurts... My stomach and my head... These are the early symptoms of the change...
+()<Speaker>Garrison Soldier</Speaker>||:My fingers...are so stiff...I can't pull the trigger myself...
+()<Speaker>Garrison Soldier</Speaker>||:I don't want to...turn into those monsters... I want to live...my final moments...as a human being...cough, cough!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I understand.
+M4A1Mod(0)<Speaker></Speaker>||<SE1>Select</SE1>:M4 lifts her weapon and aims at the wounded soldier.
+()<Speaker></Speaker>||:He raises his right arm slowly and laboriously to salute M4.
+()||<SE2>MachineGunBurst</SE2>:Bang bang bang!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:You didn't tremble. You did the right thing.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I didn't...even have a choice. +All I could do was watch as everything around me got destroyed. +Failure after failure. One dead comrade after another. Yet I still... +It's no different this time. I couldn't do anything to help.
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:Don't blame yourself. Those people gave their lives for what they believed to be a worthy cause.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE2>Runstep</SE2><黑点1>:Just look at this! Was it really worth it?
+()||<黑点2><BIN>159</BIN>:She flees the house and sprints through the streets of Belgrade without stopping, running past horror after horror.
+()||<SE1>Alarm</SE1>:Civilians convulsing on the ground, suffering from acute radiation sickness.
+()||<SE2>Gunfight</SE2>:Vehicles abandoned haphazardly on the road. Screams coming from deserted alleyways.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I don't care about my own safety. If my sacrifice could change all this, I'd gladly give my life. +And yet...
+()||<黑屏1>:The voice answers in the same emotionless tone.
+()<Speaker>Clear Voice</Speaker>||<黑屏2><BIN>177</BIN>:It doesn't work like that, and you know it.
+()<Speaker>Clear Voice</Speaker>||:Like those soldiers, you shared the same values and were willing to sacrifice everything.
+()<Speaker>Clear Voice</Speaker>||:But you know that won't change anything, which is why you left in search of some other solution. +I'm just telling the truth. Facing the facts isn't a shameful thing.
+()<Speaker>Clear Voice</Speaker>||:There is still much for you, who have just gotten the key to leave your cage, to learn about this world.
+()<Speaker>M4A1</Speaker>||:Were you telling the truth when I met Mastermind?
+()<Speaker>Clear Voice</Speaker>||:I was, you simply didn't fully understand my point. +Our enemies are also searching for what we're after. +If we don't hurry, the same disaster will happen a second or third time.
+()<Speaker>M4A1</Speaker>||:What exactly are we looking for? What is this "Pike" Node that Ange mentioned? Answer me.
+()<Speaker>Clear Voice</Speaker>||:The Pike Node is just the beginning. We need a full picture of the black box. +If someone unworthy covets the power it brings, they will try to obtain it at the cost of everything else. +The only one who has the right to touch it is you.
+()<Speaker>M4A1</Speaker>||:First, the whole AR Team risked their own lives for me, now so many more people have died right before my eyes. +This power has brought nothing but misery. Is it really so valuable? +I never wanted the right to touch it in the first place!
+()<Speaker>Clear Voice</Speaker>||:Nobody does.
+()<Speaker>Clear Voice</Speaker>||:No one is born into this world of their own free will, just as no Doll has any say in regard to their own creation. +Everyone is burdened by a certain mission as they come into the world...
+()<Speaker>Clear Voice</Speaker>||:But you are special. You've been given a destiny that others can't even dream of.
+()<Speaker>M4A1</Speaker>||:There's nothing special about it. Everyone has their own curse. +Mine just happens to be especially bad.
+()<Speaker>Clear Voice</Speaker>||:Perhaps you haven't given this much thought because you've been living with your man-made shackles for too long. +Facing one's destiny is always painful, but it is up to each individual to find joy in this kind of pain.
+()<Speaker>Clear Voice</Speaker>||:All I can tell you is that if you fulfill your destiny, you will save far more people than the ones who sacrificed themselves today. +Are you willing to suffer for the sake of ending others' pain?
+()<Speaker>M4A1</Speaker>||:...You make it sound as if I have no other choice but to suffer.
+()<Speaker>Clear Voice</Speaker>||:We are a single entity, after all. +Your confusion is my confusion. +Your pain is my pain.
+()<Speaker>Clear Voice</Speaker>||:And your destruction...also entails my demise. +I have already done what I could to point out the best choice for you.
+()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>178</BIN>:After a moment of silence, M4's lips curl into a bitter smile.
+()<Speaker>M4A1</Speaker>||<BGM>BGM_Wake</BGM>:This might just be the only thing you've ever said that didn't sound like a lie.
+()<Speaker>Clear Voice</Speaker>||:I've been trying very hard to make you accept my existence.
+()<Speaker>M4A1</Speaker>||:Now don't get the wrong idea. I'm still very bothered by the fact that an unwelcome being has taken up residence in my neural cloud. +But...having seen all this, I finally realize that under these circumstances, I am woefully underpowered on my own. +My strength is so inadequate I can't even protect others properly.
+()<Speaker>M4A1</Speaker>||:Which is why I must borrow whatever I can. I need Task Force DEFY, the Commander, and even you to lend me your strength.
+()<Speaker>Clear Voice</Speaker>||:Then are you prepared to face your destiny?
+()<Speaker>M4A1</Speaker>||:Before I do that...I must first complete the assignment given by Ange. +Also, I...I'm starting to understand her urge to do unnecessary things. +In any case, it is ultimately my choice whether I decide to obey my orders or heed your advice.
+()<Speaker>Clear Voice</Speaker>||<黑屏1>:I'll look forward to seeing the choice you make, whatever it may be.
+M4A1Mod(0)<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:The lonely figure of a Doll flits through the deserted streets, with the wall towering behind her back.
+M4A1Mod(0)<Speaker></Speaker>||<SE1>Runstep</SE1>:Her gaze no longer wavers. Instead, she makes for the rendezvous point with great determination.
+M4A1Mod(0)<Speaker></Speaker>||:It isn't over yet.
+M4A1Mod(0)<Speaker></Speaker>||:Even though the wall has been breached, brave soldiers are dying by the masses, and the storm saturated with radiation is howling like a triumphant march of victory for the enemy...
+M4A1Mod(0)<Speaker></Speaker>||:To her, this battle is far from over.
+()||<黑屏1>:

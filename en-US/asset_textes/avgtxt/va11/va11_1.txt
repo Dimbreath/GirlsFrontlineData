@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+吉尔()<Speaker>Jill</Speaker>||:...+I can't believe I fell asleep... +Urgh...my stomach... +I didn't think that can of pickle-flavored soda would take so long to digest...
+吉尔()<Speaker>Jill</Speaker>||:(Whatever. Good thing there aren't any customers here yet. I need to sort out the jukebox first.) <c>Every Day is Night<c>Snowfall<c>Welcome To Va-11 Hall-A
+()||<分支>1</分支><BGM>m_va_every_day_is_night</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_snowfall</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN>:Time to mix drinks and change lives. +... +There's no response. Everything's quiet.+Gillian took the day off and the boss went out shopping, but she should have been back 10 minutes ago... +Ladies and gentlemen, various expanses of air, I'm doing very well. Yes yes, no need to worry about me. +At least Anna isn't here, so I can...
+M870P(0)<Speaker>???</Speaker>||:Hey! You, the washboard over there, you're under arrest!
+吉尔()<Speaker>Jill</Speaker>||:Oh great, my first customer tonight won't be giving me a break...
+M870P(0)<Speaker>???</Speaker>||:Hey! Are you ignoring my threats?
+吉尔()<Speaker>Jill</Speaker>||:Are you referring to calling me flat-chested or that I'm under arrest? +If it's the former, I'm used to it. +If it's the latter, you aren't even a White Knight.
+M870P(0)<Speaker>???</Speaker>||:But you're minding the bar by yourself and I have a shotgun, so why aren't you scared of me?
+吉尔()<Speaker>Jill</Speaker>||:I'm just not as scared as you'd like to see. +If you're here for a robbery, then I'll just hand over the money and wait for my boss to come back and take care of things. +If you're a serial killer, then you couldn't possibly have come to a godforsaken place like this.
+M870P(0)<Speaker>???</Speaker>||:Haha, sounds like this bar has had its fair share of weirdos.
+吉尔()<Speaker>Jill</Speaker>||:No offense, but you're definitely not the strangest person I've seen. +Wait a minute, you look like...you're not a human?
+M870P(0)<Speaker>???</Speaker>||:Oh? You could tell?
+吉尔()<Speaker>Jill</Speaker>||:But you're not a Lilim either.
+M870P(0)<Speaker>???</Speaker>||:And what led you to that conclusion?
+吉尔()<Speaker>Jill</Speaker>||:You look more human than a Lilim, particularly in your body structure. +And a Lilim's electronic synapses would be more...sensitive in their reactions to the surrounding environment.
+M870P(0)<Speaker>???</Speaker>||:Wow, you've got a good eye on you! I'm starting to like you, and by extension, this place as well!
+吉尔()<Speaker>Jill</Speaker>||:Then can you give me a proper answer?
+M870P(0)<Speaker>???</Speaker>||:Give me something to drink first. Let me see what's so special about this place — also, what should I call you?
+吉尔()<Speaker>Jill</Speaker>||:Jill will do.
+M870P(0)<Speaker>???</Speaker>||:Simple and easy to remember. Do you know how to make a Sugar Rush then, Jill?
+吉尔()<Speaker>Jill</Speaker>||:Of course, that's the first thing any BTC-trained bartender learns.
+M870P(0)<Speaker>???</Speaker>||:Alright, then give me a glass of that! Or else I'll give you a speeding ticket!
+吉尔()<Speaker>Jill</Speaker>||:That's fine, er... +(Wait a minute, I just woke up, maybe I need a refresher in the basics...)
+吉尔()<Speaker>Jill</Speaker>||:She wants a Sugar Rush to start with. Good thing that's simple enough to make. +<color=#FFFF00>I need to find the recipe bookmark in the navigation bar on the upper left corner of the recipe book.</color>+Other than by their initial letters, <color=#FFFF00>I can also search quickly through the recipes by flavors like "Sweet" or by types like "Manly".</color>
+吉尔()<Speaker>Jill</Speaker>||:I then press the specified ingredients a number of times as indicated by the recipe and drag them into the shaker. +After that's done, <color=#FFFF00>I press the "Mix" button, and then press it again to finish mixing.</color>+Finally, <color=#FFFF00>I press the "Serve" button to serve the drink,</color> and that'll be all.
+M870P(0)<Speaker>???</Speaker>||:Hey, bartender?
+吉尔()<Speaker>Jill</Speaker>||:If I mess up during the process, I can <color=#FFFF00>press the "Reset" button in the lower left corner to restart from scratch.</color> +<color=#FFFF00>If certain drinks need to be "blended", then I need to wait 3 seconds after pressing the "Mix" button or shake the phone before pressing it again... </color> +Shaking the phone... What the hell am I saying...
+M870P(0)<Speaker>???</Speaker>||:Miss Bartender! What are you talking about!
+吉尔()<Speaker>Jill</Speaker>||:Sorry, sorry, I'm just...waking up. +A moment please. I'll get started right away.
+吉尔()<Speaker>Jill</Speaker>||:(She said she wanted to see what's so special about this place, yet she asked for a Sugar Rush that you can find anywhere...) +<va11><perfect>21<good>5,6,16,18,20
+M870P(0)<Speaker>???</Speaker>||<分支>1</分支>:Wow! You actually made the drink! +Ah— I like this! So this is a Sugar Rush, huh?
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:I told you, it's just a basic drink.
+M870P(0)<Speaker>???</Speaker>||<分支>1</分支>:Then I'm looking forward to the next one, Miss Bartender.
+M870P(0)<Speaker>???</Speaker>||<黑屏2><分支>2</分支>:Hm...this isn't quite like what I imagined...
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:I wanted to show you what's truly special about Glitch City.
+M870P(0)<Speaker>???</Speaker>||<分支>2</分支>:Hmph... +Frankly speaking, I do kind of like it. +You're more interesting than you look, Miss Bartender.
+吉尔()<Speaker>Jill</Speaker>||:Could you tell me who you are now, Little Miss Devil?
+M870P(0)<Speaker>M870</Speaker>||:My name's M870. +I'm an autonomous Tactical Doll made by IOP Company, currently employed by Griffin PMC as a combat operator.
+吉尔()<Speaker>Jill</Speaker>||:Griffin... +Oh, I remember now, I saw the news on "The Augmented Eye" yesterday. +Zaibatsu Corp hired you to come here for testing and interaction work, right?
+M870P(0)<Speaker>M870</Speaker>||:Ding ding ding! Correct! +But did you actually have to read the news to learn that? Our people are everywhere in this city now!
+吉尔()<Speaker>Jill</Speaker>||:Well, given Zaibatsu Corp's track record, you would probably only be working in the wealthier districts, and I usually only go outdoors at night. +In any case, welcome to Glitch City and Valhalla.
+M870P(0)<Speaker>M870</Speaker>||:Then let me thank you! I rarely thank people, but this is the first welcome that I've received in Glitch City today!
+吉尔()<Speaker>Jill</Speaker>||:I can understand. "Cold" is probably the most friendly reaction that the majority of people here have towards security personnel.
+M870P(0)<Speaker>M870</Speaker>||:Hahaha, I know! I know what the people here did to the White Knights before!
+吉尔()<Speaker>Jill</Speaker>||:(She's actually laughing...) +So, is M870 your name, or is it the name of the shotgun you're carrying?
+M870P(0)<Speaker>M870</Speaker>||:Hehe, you catch on fast. +IOP's Tactical Dolls are all named after the weapons they use, so it's the name of my gun and also my own name.
+吉尔()<Speaker>Jill</Speaker>||:So it's a real gun, then?
+M870P(0)<Speaker>M870</Speaker>||:Oh? You're only getting nervous now, Miss Bartender? +But unfortunately, we're one of the most professional PMCs in the world, and these guns have been refitted with all kinds of safety devices.+So even if your severely self-destructive tendencies lead you to try and snatch my gun, it wouldn't be able to help you complete the final step of your journey.
+吉尔()<Speaker>Jill</Speaker>||:(I want to say that it's not the gun that worries me, but your personality...) +So, what are you doing in Glitch City?
+M870P(0)<Speaker>M870</Speaker>||:We do whatever the White Knights did. Patrolling, standing sentry, rescue, catching criminals, smiling as the citizens roll their eyes at us...
+吉尔()<Speaker>Jill</Speaker>||:You don't look like a Doll who can handle that last one.
+M870P(0)<Speaker>M870</Speaker>||:Aw, straight to the point, aren't we?
+吉尔()<Speaker>Jill</Speaker>||:Everyone's different in their own way, I just felt that you didn't like beating around the bush.
+M870P(0)<Speaker>M870</Speaker>||:Hahaha, you're definitely my cup of tea, seriously! +At first I was only going to look around, but now I've decided to stick around a while longer. Give me another drink... A Marsblast!
+吉尔()<Speaker>Jill</Speaker>||:Let me remind you that this is a strong drink. Is it alright for a Doll like you to have something like that?
+M870P(0)<Speaker>M870</Speaker>||:We'll find out once we give it a try, won't we?
+吉尔()<Speaker>Jill</Speaker>||:(She wants a Marsblast. I hope Dolls of her model don't go crazy when drunk, she's holding a real gun after all...)+<va11><perfect>14<good>3,4
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Here, the Marsblast you wanted.
+M870P(0)<Speaker>M870</Speaker>||<分支>1</分支>:Wowwwww! This is spicy!
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:Just as you requested.
+M870P(0)<Speaker>M870</Speaker>||<分支>1</分支>:...But this doesn't mean I can't drink it!
+M870P(0)<Speaker>M870</Speaker>||<分支>2</分支>:Uwah! It's not quite like what I expected, but...this taste is pretty cool too!
+吉尔()<Speaker>Jill</Speaker>||:Take it easy and don't push yourself. I can make you another drink if you can't finish it. +(Besides, you're paying for it.)
+M870P(0)<Speaker>M870</Speaker>||:Oog...glug...glug... +Ahhhh~ See! I did it!
+吉尔()<Speaker>Jill</Speaker>||:Should I applaud? You're quite the drinker.
+M870P(0)<Speaker>M870</Speaker>||:Hehe, you don't understand us at all, do you?
+吉尔()<Speaker>Jill</Speaker>||:It can't be helped. You're the first Griffin Doll that I've served.
+M870P(0)<Speaker>M870</Speaker>||:This is my first day in Glitch City too, but I now know it like the back of my hand.
+吉尔()<Speaker>Jill</Speaker>||:So, what do you think of Glitch City? +Say whatever you want, it's fine even if you call it a pile of crap. No, perhaps I might be happy to hear that.
+M870P(0)<Speaker>M870</Speaker>||:I wasn't planning on saying that, although the streets are a dirty mess, the people don't treat me well, and it's hardly surprising for people to suddenly charge at me with a handgun in the middle of the night.
+吉尔()<Speaker>Jill</Speaker>||:Well, that is the reason why you're working here, after all.
+M870P(0)<Speaker>M870</Speaker>||:That's right, but in fact, this place isn't really that wild, is it? And this city has a freshness to it. +Other cities are either too clean or have too much fighting. You can't relax and enjoy the thrill in either of those cases.
+吉尔()<Speaker>Jill</Speaker>||:You work security and you want bigger thrills?
+M870P(0)<Speaker>M870</Speaker>||:Tut tut tut, it seems you don't quite understand. +The more chaotic a place is, the more I can show off, don't you think?
+吉尔()<Speaker>Jill</Speaker>||:It seems like you enjoy this sort of thing.
+M870P(0)<Speaker>M870</Speaker>||:That goes without saying. Handling major crimes is a pain in the ass, but speeding and illegal parking aren't stressful at all! +If you exceed a certain number as stated in the law, then I get to write you a ticket and slap you in cuffs and even take a picture of your pissed-off face!
+吉尔()<Speaker>Jill</Speaker>||:Hah...then you might really be suited to life in Glitch City. We have illegal street racers and petty crooks everywhere. +Frankly speaking, I don't know who's more suited for this city, between the White Knights and cops like you.
+M870P(0)<Speaker>M870</Speaker>||:Those White Knights? If you're talking about their non-human units, then they're just a bunch of military robots that should have been retired long ago! +You can't keep order in a city with those things! This place needs Dolls filled with warmth and kindness like me!
+吉尔()<Speaker>Jill</Speaker>||:I'm sure you got more attention than the helmeted White Knights after you arrived. +(Although I'm willing to bet that if you went around the streets with a face like that, nine out of ten people would want to punch it, and the remaining one would reach for a baseball bat first.) + —Would you like anything else?
+M870P(0)<Speaker>M870</Speaker>||:Do you have any specialties?
+吉尔()<Speaker>Jill</Speaker>||:Surely you wouldn't go into a restaurant and ask them which dish is good, right? It would be a hard question to answer. +But I would personally recommend a Piano Woman.
+M870P(0)<Speaker>M870</Speaker>||:Why?
+吉尔()<Speaker>Jill</Speaker>||:It's famous, and I have a Lilim friend who likes it very much, so I would like to know if a Doll like you would like it too.
+M870P(0)<Speaker>M870</Speaker>||:Oh? You want to test me? We're not the same as Lilims though! +But if you called her a friend, then it sounds like I'm getting the same treatment as her. Bring it on, then!
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:(Let's give her a Piano Woman, but why do I suddenly feel like a Piano Man would be better suited to her? After all, she's not quite like a DFC-72 class Lilim.) +<va11><perfect>17<good>18
+M870P(0)<Speaker>M870</Speaker>||<黑屏2><分支>1</分支>:Hm... I thought this drink would taste more like its name implied.
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:I thought that you'd be more suited to such...hardcore flavors.
+M870P(0)<Speaker>M870</Speaker>||<分支>1</分支>:This is great! Good job, Jill, I'll remember this drink and order it next time!
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:One Piano Woman, coming up.
+M870P(0)<Speaker>M870</Speaker>||<分支>2</分支>:Wow! I thought I'd like cooler things, but this really is delicious.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:Thank you, I'm very familiar with making this drink.
+吉尔()<Speaker>Jill</Speaker>||<BGM>BGM_Empty</BGM>:May I ask you a technical question? I'm curious about Dolls' neural clouds. Are they the same as those of Lilims?
+M870P(0)<Speaker>M870</Speaker>||<BGM>m_va_youve_got_me</BGM>:You mean in performance and the way they grow? Of course they're different! +Let me put it this way, Lilim neural clouds grow in a more freeform way, while Dolls... +We have some factory settings, and while our personalities grow and change according to what we learn, there are some basic traits which are very hard to change.
+吉尔()<Speaker>Jill</Speaker>||:Like how you like to give people tickets?
+M870P(0)<Speaker>M870</Speaker>||:Is there anything in this world that's more fun than giving people tickets? +You get to publicly and legally punish someone and profit from it, which just makes it that much more enjoyable!
+吉尔()<Speaker>Jill</Speaker>||:(At the very least, when it comes to taking joy in causing others problems, I guess she's not too far removed from many White Knights.) +Do you really feel that...punishing others is a fun thing?
+M870P(0)<Speaker>M870</Speaker>||:You'd have to ask the humans who designed me. At the very least, I don't feel guilty about it.
+吉尔()<Speaker>Jill</Speaker>||:...A life like that sounds very simple.
+M870P(0)<Speaker>M870</Speaker>||:Hehe, does it? I thought humans placed heavy value the concept of free will.
+吉尔()<Speaker>Jill</Speaker>||:Not all humans think that way, and they don't always think that way.
+M870P(0)<Speaker>M870</Speaker>||:What do you mean?
+吉尔()<Speaker>Jill</Speaker>||:It's like...they don't know why they suddenly get angry. Sometimes it's because of a work accident, and sometimes it's because of news unrelated to themselves. +Sometimes they blow up because the person passing by wore shoes that didn't match their pants, yet they don't know where their anger comes from.
+M870P(0)<Speaker>M870</Speaker>||:You sound like one of those people.
+吉尔()<Speaker>Jill</Speaker>||:I don't deny that a lot of unimportant things can set me off if they catch me at a bad time.
+M870P(0)<Speaker>M870</Speaker>||:But you really are very interesting, which is why I feel that it's not a bad thing for humans to have more problems in their lives.
+吉尔()<Speaker>Jill</Speaker>||:That's probably because you want to watch us make fools of ourselves.
+M870P(0)<Speaker>M870</Speaker>||:My my, if you were a stranger on the road, then your existence would only amuse me if you embarrassed yourself and the moment was uploaded to the internet. +And if you were my good friend, then I would be needed if you ran into difficulty. +Do you see now? No matter what, I end up gaining either way, don't I?
+吉尔()<Speaker>Jill</Speaker>||:Then how about yourself? Do Dolls have fewer things troubling them?
+M870P(0)<Speaker>M870</Speaker>||:Well, I can't speak for all Dolls, but I do find it easier to feel happy!
+吉尔()<Speaker>Jill</Speaker>||:By legally tormenting others?
+M870P(0)<Speaker>M870</Speaker>||:Tickets are only one of my punishment methods, you know. Would you like to try my other methods?
+吉尔()<Speaker>Jill</Speaker>||:Let's save that for when my next big problem shows up.
+M870P(0)<Speaker>M870</Speaker>||:Hehe, looks like I already missed that one. +It's getting late. I should be heading back to base now.
+吉尔()<Speaker>Jill</Speaker>||:May I ask you one last question? How did you find this bar? This isn't a place that people typically visit on their first day in this city.
+M870P(0)<Speaker>M870</Speaker>||:I found it on *Kira* Miki's blog.
+吉尔()<Speaker>Jill</Speaker>||:You're a fan?
+M870P(0)<Speaker>M870</Speaker>||:A friend is, but she's on patrol duty tonight, so I decided to scout the place out on her behalf.
+吉尔()<Speaker>Jill</Speaker>||:Looks like this is one of those times when you're needed. Then, I won't ask you for your impression of the bar.
+M870P(0)<Speaker>M870</Speaker>||:At the very least, I got to see a decent side of this godforsaken place. +Goodnight, Miss Bartender.
+()<Speaker>Jill</Speaker>||:...+...Whew... Good job, Jill.
+Dana(0)<Speaker>Dana</Speaker>||:Hey Jill, I'm back! Sorry to keep you waiting for so long. +Who was the girl that just left?
+吉尔()<Speaker>Jill</Speaker>||:That was M870, a Griffin Doll. Have you seen the news, Boss?
+Dana(0)<Speaker>Dana</Speaker>||:I haven't just seen the news, I've even taken pictures with a whole bunch of Griffin Dolls on the street! +They're pretty cool, aren't they? Although, they don't wear helmets. But I can't believe you served one of them in person while I wasn't around!
+吉尔()<Speaker>Jill</Speaker>||:Yeah, I can hardly believe that I handled a shotgun-toting android who barged into the bar in the middle of the night all by myself and served her a stiff drink. +But the funny thing is, it actually felt kind of good.
+Dana(0)<Speaker>Dana</Speaker>||:Well, they were designed that way, after all. So, can you guarantee that there'll be more Griffin Dolls visiting next time? I'd really like to see one.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:I can't guarantee who will show up next time. +But...I think more of them will come.

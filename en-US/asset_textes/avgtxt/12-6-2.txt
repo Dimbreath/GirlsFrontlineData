@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>BGM_Danger</BGM>:Near the armored train.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<SE2>Gunfight</SE2>:Dammit, these enemies just keep coming! +SOP-II, duck!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;AR15Mod(0)||<SE1>Select</SE1>:Alright! Give me three more mags!
+M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_weapon_reload</SE1>:AR-15, Commander's orders! +The three echelons on the vanguard have to retreat so we're taking their place! +416, throw all the grenades you have!
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||<SE1>Explode</SE1>:I've only got three left! Where are the drones that are supposed to drop us ammo?!
+HK416Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:They're on their way!
+HK416Mod(0)<Speaker>416</Speaker>;AR15Mod(0)||:Has the repair team still not got the train up and running?!
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:9 said they still need another ten minutes!
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||<BGM>BGM_Empty</BGM><黑点1>:Jeez, that's the third time she said that!
+()||<黑点2><BIN>202</BIN>:In the command center. +Outside the windows, the rumbling of artillery fire persists, but the command center is still filled with silence.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Room</BGM>:...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+RO635(0)<Speaker>RO635</Speaker>||:...
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Alright, the last of the data has been exported.
+()<Speaker>Commander</Speaker>||:Is it finally done?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Yes, it is.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Commander, please give me permission to head to the frontlines immediately. I can't sit here and wait any longer.
+()<Speaker>Commander</Speaker>||:Calm down, M4. The frontlines are doing fine.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:But we're losing Dolls...
+()<Speaker>Commander</Speaker>||:The operation in the submarine base will be even more challenging. If we don't prepare for it, we will suffer even more losses later on.
+M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:A wise decision. I finally understand how you've managed to come so far. +I have finished compiling all the data. +This database contains all the information about the Paldiski Submarine Base obtained from the Isomers' consciousness as well as M4's remaining memories. +However, hearing all that gunfire outside, I doubt anyone would be interested in watching the last of Lunasia's memories now.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:That never really mattered anyway... Just go ahead and hand over the intel about our next operation already!
+M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Don't rush, Lunasia. I'll do that even if you hadn't told me to. +I've uploaded the information about the submarine base onto the server of this train and synced the data with everyone present.
+()<Speaker>Commander</Speaker>||:I have it. So this is what we have on the submarine base... +Kalina, can you render a 3D topographic map using the data?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;NytoIsomer(4)||:Sure. Let me see... +Two quarantine walls... Three underground levels... The coastline is armed with coastal defense artillery!
+NPC-Kalin(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Yes, their firepower is estimated to be several times stronger than the cannons on this armored train. +I suppose this is why the Military came armed to the teeth.
+NPC-Kalin(2)<Speaker>Kalina</Speaker><Shake>;NytoIsomer(4)||:Whaaaaat?!
+()<Speaker>Commander</Speaker>||:Damn Havier... This also explains why he's assigned this mission to us...
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;NytoIsomer(4)||:But isn't the base under military control?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Don't worry, I'll explain everything in due time. +I recall a woman named Ange in Lunasia's memories, correct? +I believe you were supposed to get this information from her.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Ange did tell us she would infiltrate the base and do some recon work. +But she didn't get in touch at the agreed time... +Did she run into some kind of danger?
+M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Do you still remember the memory about the sea of flowers that you saw?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:M16...and Mastermind?
+()<Speaker>Commander</Speaker>||:I do remember...that our echelons have reported traces of Sangvis movements in Tallinn. +But since I've been busy with immobilized T-Dolls and the armored train, that detail slipped my mind...
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's the explanation you're looking for.
+()<Speaker>Commander</Speaker>||:You mean...the submarine base is currently under Sangvis control?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's the conclusion I have reached based on the objective facts.
+RO635(0)<Speaker>RO635</Speaker>||:The situation seems a lot more complicated than we expected... Should we reformulate the battle plan?
+()<Speaker>Commander</Speaker>||:Please do. Consider the topographic data and Sangvis Ferri's estimated force as well while you're making the calculations. +If we still don't hear from Ange in ten minutes, we'll set off for the submarine base the moment we get the train up and running again.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Are we really charging in just like that?
+()<Speaker>Commander</Speaker>||<黑屏1>:Assuming the base is under Sangvis control, then it probably hasn't solidified its hold on the facility yet. Although we can't be certain of their objective, we must gain the upper hand before they completely derail the situation. +Prepare to provide fire support for our defense echelons. We're about to leave.

@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>85</BIN><黑屏2>:
+()||<闪屏><duration>5</duration></闪屏>:
+RO635(6)<Speaker>RO635</Speaker>||<震屏>:<size=55>AHHHHHHHHHHHHHHHHHHHHHHHHHH!</size>+<size=55>WHY AM I IN A DINERGATE?!</size>
+RO635(6);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ugh... What a ruckus... +Huh? Am I awake?
+RO635(6);SOPIIDamage(2)||:
+()||:...
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<BGM>GF_EV3_Bingocard_loop</BGM>:SOP-II! What's the meaning of this?!
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Jeez...that's the only vessel I can keep on my body at all times... +So when I saw that Scarecrow didn't want to take it back, I just took it along with me. <color=#A9A9A9>(Well, more like kidnapped it). </color> +In any case, you'll just have to make do for now. We'll figure out what to do once we get to HQ, okay?
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:You lied! This isn't a vessel at all!
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't worry, Dinergate circuitry is simple. I already pulled out the S.F. circuit boards and the CPU's now linked to my system. +Also, while you're speaking through the Dinergate, your neural cloud is linked to my motherboard. +If you use your neural cloud too much, I won't be able to think on my end...
+RO635(6)<Speaker>RO635</Speaker><Shake>;SOPIIDamage(0)||:I don't care! What the hell is this, I look like a complete dork! +Why don't you just rip me out of there!
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Well, it's a Sangvis product so it's cheap stuff. Bear with it for a while, alright?
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:I should just kill myself.
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Think of this as a simulation of how all human beings start out small and become big! Be open-minded!
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Ahhhh, seriously, Makarov is going to laugh her ass off when she sees me like this!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:That'll have to wait until she actually sees you like this.
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Um... I'm sorry, but we don't have much time, so—
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:Ah, sorry, Cx4. +Er... What did you just say?
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:We heard a big explosion just now, so several of us wanted to scout it out, but we were spotted by military recon drones and now they're headed this way!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑点1>:An explosion? Well, in any case, we should try to establish comms.
+()||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:...Five minutes later.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:RO, have you gotten in touch with the Commander?
+SOPIIDamage(3);RO635(6)<Speaker>RO635</Speaker>||:Thanks for bringing my megaphone back... +I just sent a transmission in signal-boost mode, but I haven't gotten a reply yet. +It's possible that the Commander replied, but reception here is bad and we couldn't pick it up.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:The Military's surrounded us and there's no escape, so all we can do is wait here. +Things being what they are, we have to believe in the Commander.
+SOPIIDamage(3);RO635(6)<Speaker>RO635</Speaker>||:It's also possible that the Commander didn't receive it at all. I'm not exactly holding onto hope on a battlefield like this. +So, how do you want to tell everyone about this? +If we lie to our friends, and tell them the Commander's reinforcements are coming right away, it could make them fight harder, you know?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:I don't know...you're the smart one. Tell me what to do...
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:I'm sorry, but thinking with this body is too much of a pain. I'm going to sleep.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Hey, come on! Cx4's coming in soon, help me out here!
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:Eh...even losing doesn't feel like a big deal... +If I have to be lugged around inside this body, I might as well die...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Hey! Now's not the time to be whining! +But it's true, I was the one who tried to wake you up and things ended up like this. Blame me all you want...
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:That's not what I meant... I mean, I don't mind dying together with you... +It just irks me that I can't meet my end as a Tactical Doll...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Don't assume that we've already lost!
+SOPIIDamage(2)<Speaker></Speaker>||:...The door opens.
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II, the Military's about to begin their attack. Have you contacted the Commander?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II?
+SOPIIDamage(2)<Speaker></Speaker>||<黑屏1>:SOP-II leads Cx4 outside.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Empty</BGM>:Good morning, everyone! I'm M4 SOPMOD II! +I'm a Griffin Tactical Doll from the AR Team, your colleague and your friend. +I have an announcement to make!
+SOPIIDamage(0)<Speaker></Speaker>||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Wake2</BGM>:We...are probably done for.
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:...!
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:We just sent out a distress signal...but there's no way to tell if the Commander received it... +If we're lucky, the Commander will have picked it up and sent out reinforcements. +If we're unlucky...if something happens during any step of the process, if the Commander didn't get it, if the Commander doesn't have enough forces to send out, if there's too much distance between us, or if the Commander's already... +In any case...it's possible...that we might all die here today...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II...
+SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II begins to sob.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry... I'm stupid... I'm bad at lying, and I'm not team leader material... +I really wanted to lie to everyone and say that the Commander would be coming... +But I'm afraid... I'm afraid that we'll be unlucky... I'm afraid that everyone is going to die with hope in their hearts, and that you'll look at me, and tell me to stay alive...to live long enough for the Commander to show up... +I don't want that... I don't want to be the only one who knows the truth, the only one who's waiting. I don't...I don't want to lose my friends again...
+SOPIIDamage(2)<Speaker></Speaker>||:...Cx4 looks at SOP-II.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I know... I know I don't deserve to be a team leader at all. From the beginning to the end, I only ever did as I pleased! +I don't know how to protect everyone, and I can't guarantee that everyone...will survive... I talked so big and so irresponsibly... +I just...I just wanted to be friends with everyone, and to find a place that would take me in when my team fell apart...
+SOPIIDamage(2)<Speaker></Speaker>||:...RO sighs.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I know I'm weird, and I'm not good at getting people to like me, so this is all I can do... +I can't bear the responsibility of being a team leader and all that, I...I don't deserve to be one... +So... this is all I can say...right now... I have no idea what to do...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:I'm sorry... I...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:You said you lied because you were afraid of being abandoned.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:Yes...so I don't deserve...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Tell me, is there a Doll here who isn't afraid of being abandoned?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:...
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:We're like you, we're all scared to death. +Still, things being what they are now, whether there's hope or not, whether we're afraid or not, there's no escape for us. +You don't have to be ashamed. It is exactly because of moments like these that we need friends, am I right?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑屏1>:Cx4...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏2><黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:SOP-II... +Tell us your darkest desire, your most shameful wish.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>159</BIN>:...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage9</BGM>:Everyone... +Although...although I've known you all for less than a day, I still... +I want to be friends with you, and then face the truth with you, fight together with you, and die by your side!
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Then what are you waiting for? +We have no mission now, no objective. All we can do now is survive.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We can only count on each other now, to see each other through to the end, whether the end is life or death!
+SOPIIDamage(0)<Speaker></Speaker>||<震屏>:...The Griffin Dolls explode into a rousing cheer!
+SOPIIDamage(0)<Speaker></Speaker>||:...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Honestly...in the end you're still fighting without any hope.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:(Chuckles bitterly) You should be helping me!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:I can't cry like that.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:But you were crying too...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker><Shake>||:H-how could you tell?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:I hear all your thoughts.
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Tsk... +I guess...there's nothing we can do, then?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:You know, messed-up situations like these are starting to become familiar.
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Yeah...well, at least this time we won't need to worry about who's going to betray us and we can fall facing the enemy, right?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<白屏1>:Oh yes. We can enjoy it.
+Carcano1891(0)<Speaker>Cano</Speaker>||<白屏2><BIN>99</BIN><回忆><边框>2</边框>:It's precisely because this is a battlefield. Whether it's the AR Team, Ceno and I or even other T-Dolls, we all live on in each other's neural clouds. +If we can't even keep each other's memory alive, who would remember us?
+Carcano1891(0)<Speaker>Cano</Speaker>||<边框>2</边框>:SOP-II, how much emotion have you been penning up? +Let it all out now and enjoy this fight!
+Carcano1938(0)<Speaker>Ceno</Speaker>||<白屏1><边框>2</边框>:And this death.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<白屏2><BIN>159</BIN><关闭蒙版>:I finally understand what the Carcanos were saying...
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II, the Military's advancing.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:Yeah... +Cx4... +Are you ready to die with me?
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:(Smiles) +Why not just give the order?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:This isn't an order. +...It's an invitation.
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏1>:It would be an honor. +Let's begin!
+()||<黑点2><BIN>10</BIN>:

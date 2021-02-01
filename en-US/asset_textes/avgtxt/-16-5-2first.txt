@@ -1,0 +1,25 @@
+()||<BIN>34</BIN><黑屏2>10<黑屏2>:...
+()||<BIN>34</BIN><BGM>BGM_Sneak</BGM>:...Click. +Ange uses the comms station's equipment to send a transmission to the outside world.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:...Is that so? +Griffin's shifting towards Area S11? +I see it, it's a total mess over here. +...There, I was right. The Military's going to use this as an excuse to openly enter the battlefield and restore order. +I know, that's just their excuse. Even now they're reorganizing their troops on the outskirts. +Once their main forces mobilize and intervene, we'll have no chance of stopping them at all.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Yes. I'll do my best to slow them down, but I can't hold on for long without support. +Eh...having our support troops standing by at the perimeter won't solve anything...I guess you know what they want to do... +I understand. I completely understand your concerns, Chief. I'll do my best to buy you time. +However, if the worst comes to the worst, I hope you will approve the plan I laid out earlier. +I understand, it's a very radical solution, but if... +Yes, yes, I'll wait for approval. I'll do my best to ensure it does not come to that.
+()<Speaker></Speaker>||<BIN>34</BIN>:...Transmission terminated.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Looks like it's time to go all-out now... +Hmm...I hope they're still alive.
+NPC-Ange(0)<Speaker></Speaker>||<BIN>34</BIN>:...Click. +A transmission connects over an encrypted channel.
+UMP45(0)<Speaker>UMP45</Speaker><通讯框>;NPC-Ange(0)||<BIN>34</BIN>:Guten Tag. Have you missed me?
+UMP45(0);NPC-Ange(0)<Speaker></Speaker>||<BIN>34</BIN>:...
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Nothing good ever happens when I think of you. +What about the "file"?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Heheh, do you need to ask?
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:If it's been settled, then hurry back.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:We ran into a bit of trouble. +Did you know? We caught up with Griffin's exodus by coincidence, so we helped them out a little.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Sier's told me all about how you love engineering these coincidences. +Alright, make a note of the people you saved and I'll help you get paid for it, assuming Griffin's still around after all this.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:If Griffin doesn't pay up, then please cough the money up from your own account.
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:Providing that I, the owner of the account, survive this mission.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:So, can you tell me the reason you're thinking of me?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:A new lead. +Find a way to move to Rendezvous Point C, which I've just marked out for you. Run a scan on the local database.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Hey, have you seen the battlefield map? Are you trying to kill us so you can welch on your debt?
+NPC-Ange(0)<Speaker>Ange</Speaker>||<黑屏1>6</黑屏1><BIN>34</BIN>:Your payment will be information concerning the true mastermind behind the Butterfly Incident. Am I making myself clear?
+<Speaker>UMP45</Speaker>()||<BIN>61</BIN><黑屏2>6</黑屏2><黑屏1>5</黑屏1>:...
+UMP45(0)<通讯框><Speaker>UMP45</Speaker>||<BIN>34</BIN><黑屏2>2</黑屏2>:... +Have you already dug so deep?
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>34</BIN>:I'm a pro in this field. +Also, send the "file" to Sier with the drone.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:Aren't you going to hand it to Miss Persica directly?
+UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<黑屏1><BIN>34</BIN>:I will, but she's just a interpreter. +After all...she's not the only one who truly needs this file.

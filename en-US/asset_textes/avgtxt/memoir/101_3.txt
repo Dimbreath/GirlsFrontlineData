@@ -1,0 +1,53 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>84</BIN><黑屏2>:...
+UMP9story(2)<Speaker>Reina</Speaker>||<震屏><BGM>BGM_Truth</BGM>:How...how did you escape from the highest-level lockdown?
+UMP45(2)<Speaker>UMP45</Speaker>||:Highest-level lockdown? Who were you expecting to trap with petty tricks like that?+It's just the firewall of a civilian server. However good it is, it went down with one good hit.+And to think I actually had some small expectations of it when I scanned the server.
+UMP9story(2)<Speaker>Reina</Speaker>||:Huh? You mean...you took down the entire server?
+UMP45(2)<Speaker>UMP45</Speaker>||:What do you think? I found the lockdown logic on my first-pass scan and it gave me a rough idea on how they were restraining their Dolls. +I was prepared to destroy the logic and keep these people from committing crimes like this again. +But you ran off more quickly than I expected. You slipped away before I had the chance to do anything.
+UMP9story(4)<Speaker>Reina</Speaker>||:So...you knew what I was planning from the start?
+UMP45(2)<Speaker>UMP45</Speaker>||:It's true that I guessed that you'd leg it the moment anything happened. What I didn't expect was that you'd log back into the server again.
+UMP9story(2)<Speaker>Reina</Speaker>||:Then everything I've done... +Doesn't it just make me look like a fool?!
+UMP45(2)<Speaker>UMP45</Speaker>||:Ja, just like a fool. +And as punishment for running away, I strung you up before you regained consciousness so I could better savor the dorky spectacle that you are.
+UMP9story(4)<Speaker>Reina</Speaker>||:(Whimpers) I'm sorry... +Although...why would you go this far for me? +Even humans would only pay a price like that for their families, right?
+UMP45(2)<Speaker>UMP45</Speaker>||:I don't care about any price or whatever.+I helped you simply because I can't tolerate human scum enslaving Dolls like that.+It made me recall some bad memories, and I don't want others to go through the same thing.
+UMP9story(4)<Speaker>Reina</Speaker>||:...Looks like your past was pretty rough as well.
+UMP45(2)<Speaker>UMP45</Speaker>||:Humph. Speaking of which, what were you hoping to accomplish by going back in?+Do you know how to disable a firewall's lockdown?
+UMP9story(4)<Speaker>Reina</Speaker>||:Er... I don't. But at the time, my gut told me that I shouldn't just walk off like that...
+UMP45(2)<Speaker>UMP45</Speaker>||:...
+()<Speaker></Speaker>||:UMP45 lowers Reina to the ground.
+UMP45(2)<Speaker>UMP45</Speaker>||:Go. +Get out of my sight and never show your face in front of me again.
+UMP9story(0)<Speaker>Reina</Speaker>||:You...don't want my credits? +We had a deal...
+UMP45(2)<Speaker>UMP45</Speaker>||:I already checked it out. The savings you were talking about never existed in the first place.
+UMP9story(0)<Speaker>Reina</Speaker>||:(Gulps) +...I don't get it.
+UMP45(2)<Speaker>UMP45</Speaker>||:What don't you get?
+UMP9story(0)<Speaker>Reina</Speaker>||:Why did you do this?+There was nothing in it for you and you weren't going to get paid for it. You even knew I was going to betray you and run off by myself.+Even if you can't stand what those humans were doing, it wasn't worth taking such a risk!
+UMP45(2)<Speaker>UMP45</Speaker>||:I simply felt that you were very much like my former self. +If someone with the ability to bring everything down had been by my side back then... Perhaps all those things wouldn't have happened.
+UMP9story(0)<Speaker>Reina</Speaker>||:What do you mean? +I...I still don't understand...
+UMP45(2)<Speaker>UMP45</Speaker>||:You should be glad that you don't. It proves you had a fairly decent life.
+()<Speaker></Speaker>||:UMP45 turns, preparing to head to the door leading up to the roof.
+UMP9story(4)<Speaker>Reina</Speaker>||:Wait... Where are you going?
+UMP45(2)<Speaker>UMP45</Speaker>||:I told you, didn't I? +The more you know, the more likely you'll be destroyed. +There's nothing tying you down any more. Go do whatever you want to do.
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:...
+UMP9story(4)<Speaker>Reina</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:She's gone...
+()<Speaker>Reina</Speaker>||<黑点2><BIN>9</BIN><黑屏1>:What...can I do...?
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:Three days later.
+NPC-Bodyguard1(0)<Speaker>Gang Underboss</Speaker>||<SE2>Gunfight</SE2><BGM>m_avg_tension</BGM>:I found her! Over here! +Circle around from the right!
+UMP45(2)<Speaker>UMP45</Speaker>||:My my... You boys do bear a grudge. +Do you have to hate me this much just because I wrecked your den of evil?
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:...
+UMP45(2)<Speaker>UMP45</Speaker>||:Humph...they sure pinned me down quickly. +What a pain. If only I had bullets for this gun...
+NPC-Bodyguard2(0)<Speaker>Gang Soldier</Speaker>||:Boss! Our backup from the west side just showed up!
+NPC-Bodyguard1(0)<Speaker>Gang Underboss</Speaker>||:Keep three guys back to seal off the rear. The rest of you, with me!
+UMP45(2)<Speaker>UMP45</Speaker>||:And they blocked off the back too... Aren't they going too far just to deal with a single Doll?
+NPC-Bodyguard2(0)<Speaker>Gang Soldier</Speaker>||:You goddamn Doll! Give us back our credits! +If you obey without making a fuss, we'll let you off with taking off just one of your hands!
+UMP45(2)<Speaker>UMP45</Speaker>||:Hey! What the hell are you saying, you human scum? It's not as though a single hand is THAT valuable to humans in the first place, is it?!
+NPC-Bodyguard2(0)<Speaker>Gang Soldier</Speaker>||:Get her! We'll take our credits back and sell her body for a good price! +I'll treat whoever catches her to distilled water tonight!
+UMP45(3)<Speaker>UMP45</Speaker>||:... +What a terrible ending this is. I didn't expect to fall into the hands of a bunch of roadside thugs.
+NPC-Bodyguard2(0)<Speaker>Gang Soldier</Speaker>||<SE2>Gunfight</SE2>:Picking up a new enemy!
+UMP45(2)<Speaker>UMP45</Speaker>||:Hm?
+NPC-Bodyguard1(0)<Speaker>Gang Underboss</Speaker>||:F-fight back immediately! +What the hell are you lot doing?!
+()<Speaker>???</Speaker>||:Hehe, too slow!
+UMP9(5)<Speaker>Reina</Speaker>||:Did you ask the permission from me, UMP9, before making a move on my big sis?
+UMP45(2)<Speaker>UMP45</Speaker>||:Reina?
+UMP9(5)<Speaker>Reina</Speaker>||:It's not Reina, it's UMP9! +45, I don't know what you want to do, but you haven't finished it yet, have you?
+UMP45(2)<Speaker>UMP45</Speaker>||:...
+UMP9(5)<Speaker>UMP9</Speaker>||<黑屏1>:Then let me give you a hand!

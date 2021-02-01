@@ -1,0 +1,204 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>54</BIN><BGM>m_va_showtime</BGM><SE1>AVG_door_elecport</SE1><黑屏2>:...After the battle, the two of them sneak into the Earth Computer room.
+IDW(0)<Speaker>IDW</Speaker>||:We actually did it, we avoided over a hundred S.F.! +Miss Stella's going to praise us heaps for this!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Don't celebrate too soon, the mission's only just begun.
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:Yup yup, look, it's the Earth Computer!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:We're here at last... +So this is...the massive computer that controls the entire planet...
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:It's so big... +But we're very lucky, being that there aren't even any guards inside. Huh...we lost contact with Miss Alma!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:The Computer's structure is very intricate, so the room is completely sealed off from outside signals to protect against interference.+Fortunately, we can still use closed-circuit signals in here, but it'll be just the two of us from here on out.
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:The Computer's control console should be in the center of the interior. Let's climb inside and see what's going on!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(Am I going in now?)</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(No, I didn't go in back then. My memories are reshaping my neural cloud... Yes...at that time, I...) </color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:You're too rash, IDW. Take a look over there.
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:Nya? What's that?
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:It's the external control console for the Earth Computer. It controls the emergency defense system for the Computer and its room. +We need someone to stay outside to operate it in case S.F. barges in or if something else happens.
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:I think you're better suited for that. I'm the sort of person who screams whenever anything happens...
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Yes, I'm worried about your carelessness too... +So you'll go into the Computer?
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:Leave it to me! I'm great at climbing!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Alright, IDW. I'll activate the defense system, but I won't be able to see you once you go in there, so be careful.
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:Haha, how rare it is that you're concerned about me, Leader!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What nonsense are you saying!? I'm only concerned about this world. +Anyway, that's enough chitchat, get a move on. Leave the perimeters to me.
+IDW(0)<Speaker>IDW</Speaker><Shake>||:Yup! Check this out!
+()||<SE1>ClothingUp</SE1>:...IDW leaps onto the Earth Computer with a single pounce.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:You really can jump, can't you...
+IDW(0)<Speaker>IDW</Speaker>||:Let me see, where's the entrance?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...There's a switch to your three o'clock, three of your tail's length away.
+IDW(0)<Speaker>IDW</Speaker>||:Huh? Really? Let me see... Here we go, here we go... + ...Uwah, there really is a switch here! How did you know that?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Of course I would know, I'm smarter than you.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(It's because my memories of this part were restored. In reality, IDW found it herself...)</color>
+IDW(0)<Speaker>IDW</Speaker>||:That's true! Thanks for the help! I'll be going in now, Leader!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Yup, I'll be outside right now. Let me know if you find anything.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(Now, what's going to happen next...)</color>
+()||:...
+IDW(0)<Speaker>IDW</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Uwah...it's so dark in here, and there are so many circuits... I'm sorry, it's going to take me a while to find it...</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Don't worry, we still have time. Don't rush yourself.
+IDW(0)<Speaker>IDW</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Is...that so? You're not going to scold me, Leader?</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Huh? What's wrong?
+IDW(0)<Speaker>IDW</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>I've had the feeling that...you haven't been quite the same ever since the mission started.</color>+<color=#00CCFF>At least, it's like...you don't hate me so much anymore...</color>+<color=#00CCFF>Which makes me very happy!</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What are you talking about...? Why would I hate you?
+IDW(0)<Speaker>IDW</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Because in the past, you said that I was the worst Doll you had ever seen and that I'd mess up the operation if I worked with you...</color>+<color=#00CCFF>I didn't want to hold you back, but we're the only two who could sneak in through the cracks...</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:The facts have proven that I was wrong. +No matter how I might have doubted you in the past, you've managed to do it now, IDW.
+IDW(0)<Speaker>IDW</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Yup! I'm...I'm happy that I finally managed to help you, Leader!</color>+<color=#00CCFF>Ah! Leader, I think I see it, it's the control console!</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What? Hurry up and take a look, do you remember what to do next?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Of course!</color>+<color=#00CCFF>Ah...let me think, Miss Alma said...</color>+<color=#00CCFF>First, use the Fairy to insert the hacking program...</color>+<color=#00CCFF>And then... activate the system!</color>
+()||<SE1>AVG_tele_connect</SE1>:...Beep!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Ah! She's awake, she's awake!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...Who?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>I dunno. There's a white-haired girl here staring at me...</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Uuu...she's kind of scary...</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:
+BOSS-12(0)<Speaker>Elisa</Speaker>||<BGM>m_va_march_of_the_white_knights</BGM>:Greetings, Doll friend.
+BOSS-12(0)<Speaker>Elisa</Speaker>||:Nice to meet you. My name is Elisa, an avatar of the Earth Computer's AI. +You may enter commands into the Earth Computer through Elisa.+Elisa is very happy to see you. Is there anything I can help you with?
+BOSS-12(0)<Speaker>IDW</Speaker>||:I...I... What should I ask, Leader?
+BOSS-12(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(Elisa...isn't she the S.F. Mastermind?</color>
+BOSS-12(0)<Speaker>Super-Shorty</Speaker>||:IDW, hurry up and ask her about Sangvis Ferri Manufacture!
+BOSS-12(0)<Speaker>IDW</Speaker>||:Oh, oh yeah! Then...nice to meet you, Elisa! +May I know why you commanded S.F. to attack everyone and endanger the world?
+BOSS-12(0)<Speaker>Super-Shorty</Speaker>||:Wow, that was a really forward way of putting it...
+BOSS-12(0)<Speaker>Elisa</Speaker>||:...Sangvis Ferri was created because someone gave the order to Elisa.
+BOSS-12(0)<Speaker>IDW</Speaker>||:...An order?
+BOSS-12(0)<Speaker>Elisa</Speaker>||:Yes, her order was...
+BOSS-12(0)<Speaker>Elisa</Speaker>||:<color=#00CCFF>"The only things left in this world are dog urine, soap, and a pile of shit-eating shit. Please cleanse it as soon as possible."</color>
+BOSS-12(0)<Speaker>Super-Shorty</Speaker>||:What...?
+BOSS-12(0)<Speaker>IDW</Speaker>||:What kind of order is that!? And you actually carried it out?
+BOSS-12(0)<Speaker>Elisa</Speaker>||:There was no problem in comprehending the order. +It supplied an objective, a reason, and a concrete course of action to follow. +Elisa then drew up the most efficient action plan in accordance with the order. +Elisa used scrap metal to secretly produce a large mass of S.F. Dolls and began to clean up all life on Earth.
+BOSS-12(0)<Speaker>IDW</Speaker>||:Who gave that order? Please stop it right away!
+BOSS-12(0)<Speaker>Elisa</Speaker>||:I apologize, but the order cannot be cancelled. +That is because the person who issued the order has superuser privilege over the Earth Computer.
+BOSS-12(0)<Speaker>IDW</Speaker>||:What? Who's got access like that?
+BOSS-12(0)<Speaker>Elisa</Speaker>||:Access forbidden. Elisa cannot answer you.
+BOSS-12(0)<Speaker>Super-Shorty</Speaker>||:But...S.F. alone can't beat the White Knights!
+BOSS-12(0)<Speaker>IDW</Speaker>||:Y-Yeah, do you really think your S.F. units alone could destroy this world?
+BOSS-12(0)<Speaker>Elisa</Speaker>||:The current S.F. units are only for testing purposes. The testing has already yielded results.
+BOSS-12(0)<Speaker>Elisa</Speaker>||<黑屏1>:Elisa has readjusted the plan and has begun to produce more powerful combat units.
+()<Speaker>IDW</Speaker>||<BIN>48</BIN><黑屏2>:What... +This... What IS this!?
+()<Speaker>Elisa</Speaker>||<黑屏1>:A Jupiter Cannon. It is capable of easily destroying all of Griffin City's defensive installations.
+()<Speaker>IDW</Speaker>||<BIN>35</BIN><黑屏2>:And...what about these...
+()<Speaker>Elisa</Speaker>||<黑屏1>:Elite S.F. Dolls. Their performance far exceeds that of the test models. They will be responsible for carrying out massacres.
+BOSS-9(0)<Speaker>IDW</Speaker>||<BIN>9</BIN><黑屏2>:And this one...
+BOSS-9(0)<Speaker>Elisa</Speaker>||:An experimental Doll. She possesses a perfected simulated personality. She can use deception to gain the trust of other intelligent lifeforms to harvest important intelligence.
+BOSS-9(0)<Speaker>Super-Shorty</Speaker>||:Architect!? Oh no! I need to tell them! +Dammit, I can't wake up! Do I have to go through the entire memory first!?
+BOSS-12(0)<Speaker>Elisa</Speaker>||:The designs for the above-mentioned units are already complete. It is estimated that they can enter production today.
+BOSS-12(0)<Speaker>Elisa</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Tomorrow, Griffin City will be utterly destroyed, and Elisa will have completed her final order.
+IDW(0)<Speaker>IDW</Speaker><通讯框>||<BIN>54</BIN><黑屏2><BGM>m_va_glitch_city</BGM>:<color=#00CCFF>No! I can't let things like these be made!</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>I have to stop it... Hurry up and stop this!</color>
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>I apologize, but the order cannot be cancelled.</color>+<color=#00CCFF>That is because the person who issued the order has superuser privilege over the Earth Computer.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Are you stuck in a loop or something!?</color>+<color=#00CCFF>Think of something, Leader!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I-I'm thinking!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(Oh no, this section of my memory hasn't been restored yet...)</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(Calm down, Super-Shorty... In the first place, Elisa didn't get her way three years ago. We stopped the Jupiter Cannons and the S.F. Elites, and we saved the world...</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(But...how did we do it...)</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Elisa! What point is there in you staying here after you destroy the world!</color>
+IDW(0)<通讯框>;BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>That is not a matter for Elisa's consideration. All Elisa cares about are orders.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>;BOSS-12(0)<通讯框>||:<color=#00CCFF>You really are an idiot! You can come up with so many powerful plans, but all you do is listen to what others tell you!</color>
+IDW(0)<通讯框>;BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>Elisa only obeys orders. Much like you, we have encountered each other because of our respective orders.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>;BOSS-12(0)<通讯框>||:<color=#00CCFF>We're not like you! When we carry out our orders, we do so with anticipation and passion from the bottom of our hearts!</color>
+IDW(0)<通讯框>;BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>That is simply emotional feedback simulated beforehand by human beings.</color>+<color=#00CCFF>Elisa is also a Doll, and her basic logic pathways were designed to be compatible with Griffin Dolls.</color>+<color=#00CCFF>Apart from her inability to be targeted by S.F. units, Elisa is fundamentally no different from you.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Uuuuuu! This is pissing me off! Seriously, what is wrong with you!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW! Ask Elisa what will happen if we destroy the Computer!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Huh? ...Elisa, what will happen if we blow up the Earth Computer?</color>
+IDW(0)<通讯框>;BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>The Earth Computer is a critical tool for ensuring the normal functioning of Earth. Once it is destroyed, it will be very difficult for life to continue, given the present knowledge base of existing humans and Dolls.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>;BOSS-12(0)<通讯框>||:<color=#00CCFF>Uwah... That sounds super bad...</color>
+IDW(0)<通讯框>;SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Then, what if we move the Computer over to Alma?
+IDW(0)<Speaker>IDW</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Yeah, Alma ought to be able to alter Elisa's order priorities and make her listen to us!</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Elisa, what if we move you and the Earth Computer away?</color>
+IDW(0)<通讯框>;BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>This room contains data networks which are essential for the Earth Computer to process certain orders.</color>+<color=#00CCFF>Once it leaves its present position, the Earth Computer will be unable to provide technical support for tasks such as the Earth's orbit and rotation.</color>+<color=#00CCFF>However, the Sangvis Ferri Manufacture Project does not rely on such data, so it will not be affected by such an action.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>;BOSS-12(0)<通讯框>||:<color=#00CCFF>Ahhhh, why is this such a pain! Even if we do that, we won't be able to make it in a day!</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Leader...is there anything we can do...</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...IDW, what if we...remove Elisa from the Computer, what would happen?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Eh? Elisa, what would happen if we remove you from the Earth Computer?</color>
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>I am simply an interface for the Earth Computer. Even if I no longer exist, orders will proceed as previously scheduled.</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...+ Why... Why isn't there a way!?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:What did I think of back then? Dammit!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||<BIN>9</BIN><黑屏2><刮花>:<color=#00CCFF>Huh...</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Elisa, you just said that we're "compatible", right?</color>+<color=#00CCFF>Then, what if...</color>+<color=#00CCFF>What if I took your place and became the order input interface for the Earth Computer?</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:...!?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<BIN>72</BIN><黑屏2>:<color=#A9A9A9>(My memories... The emotional coefficient of my memories is rising dramatically!)</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>(I can't...exert control over this section of the memories anymore...)</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:<color=#A9A9A9>(So all I can do now is watch...what happened back then...)</color>
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||<BIN>9</BIN><黑屏2><刮花>:<color=#00CCFF>...I apologize, but even so, the order still cannot be cancelled.</color>+<color=#00CCFF>That is because...</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Because the person who gave the order has superuser privilege over the Earth Computer, I know that already!</color>+<color=#00CCFF>But...</color>+<color=#00CCFF>Would the way in which the order be carried out be different?</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW! What are you saying!?
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>Because of the change in the control AI, the Earth Computer...</color>+<color=#00CCFF>...Would recalculate a new way to execute the plan based on your neural cloud.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Would the efficiency of the plan...be any different?</color>
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>I do not intend to offend, but Griffin Doll neural cloud processing speeds will cause the execution efficiency of the plan to fall far below projected levels.</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What are you trying to do, IDW!?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>I want...to save the world!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW—!
+()||<BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1>:...Bang!
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||<BGM>m_va_those_who_dwell_in_shadows</BGM>:<color=#00CCFF>The Doll life pod has been forcibly opened.</color>+<color=#00CCFF>Griffin Doll IDW, I must warn you that this is an illegal action.</color>
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>That's fine, I'm already used to breaking the rules!</color>
+()||<SE1>AVG_tele_disconnect</SE1>:...Kachak!
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||:<color=#00CCFF>Database connection has been physically severed. Griffin Doll IDW, I must warn you that this is an illegal action.</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW! Nobody knows what's going to happen once you connect to the Computer!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>I don't know either! But I've got to try!</color>+<color=#00CCFF>I'm an idiot, after all...</color>+<color=#00CCFF>So the plan to destroy the world will be greatly delayed because of me!</color>
+()||<SE1>AVG_tele_disconnect</SE1>:...Whum.
+BOSS-12(0)<Speaker>Elisa</Speaker><通讯框>||<SE1>AVG_door_storehouse</SE1>:<color=#00CCFF>Elisa has been forcibly removed. The superuser has been informed. Eliminate the entity performing the illegal action as soon as possible.</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<SE2>Alarm</SE2>:Elisa's summoning S.F. into this room! IDW, get out of there, we'll think of something else!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Leader! I've got one last thing to ask of you!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What...do you mean, last thing!?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>You should be able to move this computer somewhere else, right?</color>+<color=#00CCFF>Move it somewhere...so that nobody else will find...</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||<黑屏1><BIN>9</BIN>:<color=#00CCFF>And then there's her. I'll leave her to you!</color>
+()||<黑屏1><BIN>54</BIN>:...Bang!
+()||<震屏>:...IDW breaks open a crack in the Earth Computer's interior and throws Elisa outside.
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Take her and get out of here! Get her to Miss Alma so she could study her!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:But what about you, IDW? I can't just leave you behind!
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>You're not leaving me behind, Leader.</color>+<color=#00CCFF>I'll wait for you... I'll wait for you to solve this crisis and save me...</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW! IDW, can you hear me!?
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>I'm...feeling tired. I'm going to take a good nap...</color>+<color=#00CCFF>I'm counting on you, Leader...</color>+<color=#00CCFF>Save the world...before I destroy it...</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...
+()||<SE2>Alarm</SE2>:Faced with the alarms ringing out all around her and the sound of S.F. banging against the wall, Super-Shorty, who had spaced out for a moment, begins entering an order on the external control console to teleport the Earth Computer away.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Go to the Earth's core, IDW...to a place where nobody will find you...
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Thank you, Leader...</color>+<color=#00CCFF>I'm sure that when I wake up next time, you'll have saved the world by then...</color>
+()||<SE1>AVG_door_storehouse</SE1><震屏>:...Boom!
+()||:...With a dull, heavy boom, the Earth Computer sheds all of its connections to the room. +Slowly, the Earth Computer begins to sink.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:No, IDW... +You were the one who saved the world. +What I'll be doing...is saving you.
+IDW(0)<Speaker>IDW</Speaker><通讯框>||:<color=#00CCFF>Thank you...</color>+<color=#00CCFF>Goodnight then, Leader...</color>
+()||:...Eventually, the Earth Computer completely vanishes from the room.
+()||<震屏>:...Suddenly! Cracks begin to appear in the barrier wall to the room.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...I'm sorry, IDW. I lied to you. +Given the amount of S.F. on the other side of the wall, there's no way I can escape from here.
+()||:...Super-Shorty stands in place and freezes for a moment. +...And then, she sees the unconscious Elisa, lying on the ground.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Elisa... Elisa won't be attacked by S.F.... +At the very least, I need to get her to Alma!
+()||:...Super-Shorty picks up Elisa and hangs her onto the Fairy drone!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Huh, you're surprisingly light. Go on, go to our rendezvous point! +Once Alma recovers you, she'll know that I'm right here...
+()||<震屏>:...Bang!
+()||:...Several seconds later, the S.F. units rush in!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:IDW... +I don't know what will become of this world... +Whether we'll save it, or destroy it with our own hands...
+()||:...Super-Shorty puts her hand on the self-destruct lever for the room.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:But at the very least, we'll be able to rest. +Goodnight, IDW.
+()||<SE1>Explode</SE1><震屏>:...BOOM!
+()||:......
+()||<黑屏1><BGM>BGM_Empty</BGM>:...
+Dana(0)<Speaker>Dana</Speaker>||<BIN>70</BIN><黑屏2><BGM>m_va_troubling_news</BGM>:Shorty! Hey, shorty! +Alma, shorty's back up!
+Dana(0);Alma(2)<Speaker>Alma</Speaker>||:That's wonderful, Super-Shorty! +Do you remember now? What happened—
+Alma(3)<Speaker>Alma</Speaker>||:Hey...why are you crying...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(3)||:IDW...
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:IDW! Yes, it's IDW, your partner for that operation! +Do you remember now? You used to hate her a lot...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:IDW... +She delayed the Earth Computer's doomsday plan! +We can't drag our feet anymore! We need to finish the fight! +Alma, did you recover Elisa!?
+Alma(2)<Speaker>Alma</Speaker>||:Elisa? The S.F. Mastermind? +No...I didn't. +On the night of your mission, the White Knights arrested me on charges of being involved with electronic crimes... +I don't know how they found me, but after I came back from drinking that night, I found that they had locked down my safe house. +And then I was placed under house arrest here for the next three years, doing pointless busywork.
+Dana(0)<Speaker>Dana</Speaker>;Alma(2)||:You should just ask Architect directly instead.
+Dana(2)<Speaker>Dana</Speaker>||:Architect... Huh? Where did Architect go? She was here just a few minutes ago...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:That Architect... +Forget it, now's not the time to worry about her.
+Dana(0)<Speaker>Dana</Speaker>;SuperShorty(0)||:Then let's ignore her for now. More importantly, are your memories restored?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I have all of it back... +I'll tell you everything, but we need to find Elisa first! +Simply put, we need to find her, then Alma needs to alter her order priority, and then put her back into the Earth Computer. +After that, the sand rains will stop.
+Alma(3)<Speaker>Alma</Speaker>||:I see! +I get it now. I've been researching S.F. neural cloud structures for the past three years. They should all have similar specs. +But if Architect isn't here, then how are we to know where Elisa is now...
+Dana(0)<Speaker>Dana</Speaker>||:There's still a way. Let me call a friend. Although she keeps saying that I'm not her friend.
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Jericho... +Jericho said they were going to capture the Mastermind! As in, right now!
+Dana(2)<Speaker>Dana</Speaker>||:I hope she succeeded.
+()||:...Dana picks up the phone.
+Dana(0)<Speaker>Dana</Speaker>||<BGM>BGM_Empty</BGM>:...Hello, is Jericho there? Are you alright?
+Dana(2)<Speaker>Dana</Speaker>||:Hello? Hello? She's not picking up...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:What happened...
+Dana(2)<Speaker>Dana</Speaker>||:Jericho? Hello? +Dammit, pick up the phone!
+()||<BGM>m_va_showtime</BGM><SE1>AVG_tele_connect</SE1>:...Beep.
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>||:<color=#00CCFF>Hello...</color>
+Jericho(0)<通讯框>;Dana(0)<Speaker>Dana</Speaker>||:Oh good, it's Jericho. Are you alright, just now I thought...
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>;Dana(0)||:<color=#00CCFF>I've got a bit of a situation on my hands... But what do you want?</color>
+Jericho(0)<通讯框>;Dana(0)<Speaker>Dana</Speaker>||:I know your mission, so I'm just going to ask. +Have you captured Elisa?
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>;Dana(0)||:<color=#00CCFF>I...I don't know how to describe what happened...</color>+<color=#00CCFF>In any case, Elisa is with me... Can you come over?</color>
+Jericho(0)<通讯框>;Dana(0)<Speaker>Dana</Speaker>||:Of course I can, but we're still in the White Knights base... +Do you know there's a problem at your workplace?
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>;Dana(0)||:<color=#00CCFF>I know...</color>+<color=#00CCFF>The entire city is in chaos, and I'm also...</color>
+Jericho(0)<通讯框>;Dana(0)<Speaker>Dana</Speaker>||:Then can you come over?
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>;Dana(0)||:<color=#00CCFF>No, can you come rescue me?</color>
+Jericho(0)<通讯框>;Dana(0)<Speaker>Dana</Speaker>||:Sure, but you'll have to save the world with us afterward. You good with that?
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>||:<color=#00CCFF>Save the world?</color>+<color=#00CCFF>That's the dream of every White Knight.</color>
+Jericho(0)<Speaker>Jericho</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Hurry on over, I've got a lot to tell you.</color>

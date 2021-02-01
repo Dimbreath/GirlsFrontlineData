@@ -1,0 +1,18 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:In Griffin's temporary command center.
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Many people have their eyes on us...
+Commander()||:That's why we also need more information.
+()||<SE1>AVG_tele_connect</SE1>:Click.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:New intel?
+NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>Oh, it actually got through.</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Whoa! How come the comms just activated itself?!
+NPC-Havel(0)<Speaker>Havier</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>What's the matter? Have you been up to something no good?</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:We were just startled by your sudden forced transmission, Mr Havier!
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>Sorry about that. Allow me to first congratulate you on making it out of Tallinn in one piece.</color>+<color=#00CCFF>We'd expected as much, but everyone is still very pleased with the outcome.</color>
+Commander()||:I doubt you called just to thank us for our work.
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know this is a bit abrupt, but don't worry, it just shows that he does like you.</color>+<color=#00CCFF>Since we're already speaking, I might as well offer a little piece of advice.</color>
+Commander()||:Please do.
+NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know you went ahead and agreed to Persica's request, so I'll save you the boredom of listening to more platitude.</color>+<color=#00CCFF>However, I strongly suggest you don't let Statesec know about what Persica's AR Team brought back.</color>+<color=#00CCFF>That thing...could save your life at a desperate moment, but it could also cost you your life just when you think you're safe.</color>
+Commander()||:...
+NPC-Havel(0)<Speaker>Havier</Speaker>||<黑屏1>:<color=#00CCFF>That's it. I won't intrude upon you any longer. I hope your usual luck will persist through the rest of your journey, and I look forward to meeting you in person...</color>+<color=#00CCFF>...If you can make it back alive, that is.</color>
+()||<黑屏2><黑屏1><BIN>9</BIN>:【Shattered Connexion - END】

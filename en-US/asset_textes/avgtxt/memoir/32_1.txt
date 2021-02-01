@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>55</BIN><BGM>BGM_Hello</BGM>:Clack... +... +Clack...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click...
+AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>I've searched through the left over area. Nothing worth retrieving.</color> +<color=#00CCFF>Did you find anything on your side?</color>
+()<Speaker></Speaker>||:...
+AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Uzi?</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:I heard you... +Nothing so far.
+AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Really...?</color> +<color=#00CCFF>If you still don't find anything special by the time you've combed through your zone, we can wrap things up and return.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:...I'll be done soon.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Zone S07-011118...mark cleared...</color> +<color=#00CCFF>'Kay. I'm done here!</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:... +Hey...Galil...
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>Ha... Looks like we can get off early today...</color> +<color=#00CCFF>Then I can lie on the couch tonight and enjoy my snacks.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:How can you be so happy...? +We'll have to continue with this kind of dreary, meaningless work tomorrow...
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>Not just tomorrow. We'll be doing it the day after tomorrow, next week, next month.</color> +<color=#00CCFF>With the way things are, I just have to come up with something to make our lives easier.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:But you're not like me. You volunteered to be on the prep team... +This is no job for Negev's aide, is it?
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>"Aide", you say...?</color> +<color=#00CCFF>It's precisely because I've been serving that fearsome lady for so long that I need a break.</color> +<color=#00CCFF>Besides, Negev has enough people around her. She doesn't need me with her all the time.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:Neither of us have actually met the newcomers...
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>Doesn't matter. They've known Negev since before we were even in the picture. That's enough for me.</color> +<color=#00CCFF>I've never even seen Negev speaking so cautiously.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:You're right... +I suppose it's only natural for useless people to be left behind now that she has more capable friends. +They're off fighting the military and those new things that no one has seen before, and here we are, picking up trash.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>That's not a healthy way of looking at things.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:But that's the truth, isn't it? You yourself admitted that Negev no longer requires the service of certain people. +Compared to you, who volunteered to leave on your own, the one she personally dumps into the prep team is who she truly looks down on.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>You're overthinking it. Negev never had anything bad to say about you, did she?</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:She might not have criticized me to my face, but we can see from how things have turned out. +I know full well how crap I am as a T-Doll... Negev doesn't have to say a word for me to know how many things I've botched up.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>...</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:... +Haha...I think I've said too much... +Sorry, Galil. Just forget what I said.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>No worries.</color> +<color=#00CCFF>Let's head back when you finish the rest of your zone.</color> +<color=#00CCFF>Then let's go eat ice cream! I managed to get my hands on some good stuff!</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:Huh? You'll put on weight if you keep eating high-calorie foods. +Who was it that kept complaining about getting fat and swearing she'd go on a diet?
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>Well...</color> +<color=#00CCFF>Today is Sunday. Surely I can make it a cheat day!</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:You've indulged yourself plenty in the past two days.
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>B-but...</color> +<color=#00CCFF>Oh! Some people consider Sunday the first day of the week, so technically I haven't feasted this week yet. There, I'm good!</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏1>:Alright, alright....whatever you say.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+()<Speaker>Negev</Speaker>||<CGDelay>0.3</CGDelay><BGM>BGM_Truth</BGM><黑屏2>:Uzi. Uzi! +Hurry up!
+()<Speaker>Negev</Speaker>||<SE2>Gunfight</SE2>:Uzi, do you copy? +They're here. Destroy the intel!
+()<Speaker>Micro Uzi</Speaker>||:I'm on it! But the system is still...
+()<Speaker>TAR-21</Speaker>||:We don't have time. +We must withdraw now.
+()<Speaker>Micro Uzi</Speaker>||:But we can't just leave these for the enemy—
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><SE1>Explode</SE1>:...
+()<Speaker>Negev</Speaker>||:Drop everything, Uzi. +Tavor, Galil, physically take the most important intel with you. +I'll bring up the rear. Everyone, withdraw now.
+()<Speaker>Galil</Speaker>||:But the rest—
+()<Speaker>Negev</Speaker>||:Seal off the entrance and do everything you can to divert the enemy's attention once you're outside. +What'll happen to the rest of the intel...is entirely up to luck.
+()<Speaker>Micro Uzi</Speaker>||:Just give me two more minutes! I can...
+()<Speaker>Negev</Speaker>||:<size=55>LEAVE IT, YOU IDIOT!</size>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏2><BGM>BGM_Wake</BGM><黑屏2><SE1>AVG_footsteps_cave</SE1><BIN>88</BIN>:... +Now that I think about it...she HAS scolded me in person...
+()<Speaker></Speaker>||:...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:"Thinking is for idiots. Prodigies need only their ingenuity." +But what can I do...? +I'm just an idiot with no ingenuity...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click...
+()<Speaker>Galil</Speaker>||:<color=#00CCFF>Give me a shout when you come out, Uzi.</color> +<color=#00CCFF>I'll be waiting at the rally point.</color>
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Alright.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Transmission terminated.
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Sigh... It's no use thinking about it. I envy Galil. +... +There probably isn't anything valuable here in this junkyard of a place. Guess I'll just—
+()<Speaker></Speaker>||<震屏><BGM>BGM_Empty</BGM>:Clang...
+()<Speaker></Speaker>||:Clack...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Hmm...? +This box... +...
+()<Speaker></Speaker>||<震屏>:Clang... +Micro Uzi gives it a kick.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep.
+()<Speaker>???</Speaker>||:Initializing... +Loading...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:Whoa! What the hell is this?!
+()<Speaker>???</Speaker>||:Matching with compatible operation system...
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:... +Ugh... Something...is connected to my neural cloud... +What the heck is with this thing—
+()<Speaker>???</Speaker>||<BGM>BGM_Brain</BGM>:Authorization complete. New user logged in. +Welcome, Tactical Doll Micro Uzi.
+()<Speaker>Micro Uzi</Speaker>||:...
+()<Speaker>???</Speaker>||:Warning: distance alert. +Please move back into proximity for cloud synchronization.
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:No way! +What the hell are you? How do you know who I am?
+BOSS-11(0)<Speaker>???</Speaker><Position>0,8000</Position>;MicroUZI(0)<Position>-450,0</Position>||:Type 2063 Advanced Multi-functional Intelligent Support System Prototype. Manufacturer: IOP. +Your neural cloud is registered as【Micro Uzi】 under Griffin & Kryuger Private Secu—
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Wait, I don't understand a word you're saying! Can't you talk like a proper person? +And what did you say you are again?
+BOSS-11(0)<Speaker>???</Speaker>;MicroUZI(0)||:... +【System Calibration】Lowering language threshold. Current level: elementary.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Huh?
+BOSS-11(0)<Speaker>???</Speaker>;MicroUZI(0)||:So basically, even an idiot can understand what I'm saying now.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:...
+BOSS-11(0)<Speaker>???</Speaker>;MicroUZI(0)||:【Renewing Response】Hello, Micro Uzi. I am IOP's next-generation intelligent combat enhancement plug-in module. +My default name is 【Administrator】.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Sounds impressive, but what are you doing in a place like this?
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:According to records, I was misplaced while being transferred from the factory to the client and have since been isolated. Reason unknown.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Who's your client? Now that I've found you, we'll probably have to deliver you back to where you're meant to be.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:My client is the military.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Okay, bye. +We've never met. +Take care and go live a good life.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:... +You have already been registered as my user.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:No thanks. You sound dangerous. +The Commander has always warned us not to accept strange favors.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:I am merely an intelligent support system. I know nothing aside from combat.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:How sad. Even we T-Dolls don't get to say that. +You say I can use you, but right now my life doesn't involve any fighting, so bye.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:I read your neural cloud. +I understand what it is that you desire. You need me.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<震屏>:... +Pervert! You pervert system! +You can't go peeking through a girl's neural cloud!
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:You wish to make up for the mistakes recorded in your neural cloud and get out of the hopeless situation you currently find yourself. +However, you are unable to achieve either goal as you do not possess the capability.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:That's right, I'm an idiot. So what? +Thanks for summarizing my neural cloud, now get out of my head.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:Do you still not understand? I was created for you. +Or did you not actually mean any of the things you said to the T-Doll named Galil?
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:...
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:I am developed by IOP for the purpose of supporting ineffective units, be them human...or T-Doll. +One must admit their own weakness before they become strong. Isn't that right?
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:You...are quite a talker.
+BOSS-11(0)<Speaker>【Administrator】</Speaker> T-Doll</Speaker>;MicroUZI(0)||:With me, you can raze anything with just a snap of your fingers. +You are incredibly gifted, and I can draw out your full potential.
+BOSS-11(0);MicroUZI(0)<Speaker>Micro Uzi</Speaker>||<黑屏1>:Can I...prove to Negev that I'm not an idiot...?
+()<Speaker>【Administrator】</Speaker> T-Doll</Speaker>||<黑屏2><BIN>9</BIN>:As long as you can make up for your past mistakes, those who have anything against you will shut up. +No one will ever treat you as a useless pawn, and you can be rid of such banal tasks. +It is not impossible for you to make a name for yourself.
+()<Speaker>Micro Uzi</Speaker>||<黑屏1>:I...

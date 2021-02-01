@@ -1,0 +1,62 @@
+()||<BIN>81</BIN><BGM>GF_Memorial</BGM>:When I enter the banquet hall, I find the place unusually quiet. +The T-Dolls are standing in front of the long tables like they've been waiting for me.
+Commander()<Speaker>Commander</Speaker>||:Why are you all just standing there? Feel free to dig in.
+M1903(2)<Speaker>Springfield</Speaker>||:We're near the end of exchanging presents, Commander. +Everyone has received something... Now it's your turn. +Please accept this Christmas present carefully prepared by all of us.
+()||:The T-Dolls part into two sides, making way for a large box half a person's height being wheeled out to me. It's even wrapped with a rainbow-colored ribbon.
+Commander()<Speaker>Commander</Speaker>||:What are you giving me... +I-Isn't this a bit too big?
+Springfield()<Speaker>Springfield</Speaker>||:Just open it.
+Commander()<Speaker>Commander</Speaker>||:Okay. +Anyone got scissors?
+()||:I cut the ribbon and am just about to open the lid when I hear a faint rustle coming from the box.
+()||<SE1>ClothingUp</SE1><震屏>:Suddenly a force from within pushes the lid clean off. I dart back in reflex. The lid whizzes just past my nose and falls onto the floor.
+Commander()<Speaker>Commander</Speaker>||:...That was close.
+()||:Before I even finish the sentence, I see two hands grabbing hold of the edge of the box. +Next to emerge is the flaxen crown of a certain T-Doll...
+KP31(2)<Speaker>Commander</Speaker>||:That's...Suomi?! +What are you doing in there?
+KP31(2)<Speaker>Suomi</Speaker>||:Never mind that, Commander. Please listen to me!
+Commander()<Speaker>Commander</Speaker>||:Uh...sure.
+KP31(2)<Speaker>Suomi</Speaker>||:Ahem, hmm... +Then on behalf of all T-Dolls, I give you our Christmas best wishes.
+KP31(2)<Speaker></Speaker>||:Suomi presents a snow globe solemnly to me. +Still getting over my shock, I accept the ornament a little bemusedly.
+KP31(2)<Speaker></Speaker>||<BIN>81</BIN><Night>:At that moment, the lights dim.
+KP31(2)<Speaker>Suomi</Speaker>||:Dear Commander, +We thank you for organizing this Christmas event for us. +This is the first time we spend Christmas with you, the first time we experience the warmth of having a family, and the first time we receive our very own presents. +To us, you are our special, irreplaceable Santa.
+KP31(2)<Speaker></Speaker>||<BIN>81</BIN>:When Suomi finishes the speech, candle after candle are lit across the dim room. +She starts singing.
+KP31(2)<Speaker>Suomi</Speaker>||:Dashing through the snow...+In a one-horse open sleigh...
+KP31(2)<Speaker></Speaker>||:Today is the first time I have ever heard Suomi sing.
+KP31(2)<Speaker>Suomi</Speaker>||:O'er the fields we go... +Laughing all the way...
+KP31(2)<Speaker></Speaker>||:Even though I've heard that her taste in music is a little unusual...
+KP31(2)<Speaker>Suomi</Speaker>||:Bells on bob-tail ring...+Making spirits bright...
+KP31(2)<Speaker></Speaker>||:I never knew that her singing is so beautiful.
+KP31(2)<Speaker>Suomi</Speaker>||:What fun it is to ride and sing +A sleighing song tonight.
+()||:Suomi finishes her solo and all the T-Dolls join in on the Christmas song. +For some reason I feel like tearing up. +All I can do by the end of their performance is clap my hands off.
+Commander()<Speaker>Commander</Speaker>||:Thank you so much. This is honestly the best Christmas Eve I've ever had...
+()||<BGM>BGM_Empty</BGM><黑屏1>:Before I could even finish expressing how moved I am, something unexpected happens.
+KP31(2)<Speaker>Suomi</Speaker>||:The Christmas Eve Party is about to begin. +Let's have some music to heat things up!
+Commander()<Speaker>Commander</Speaker>||:Suomi! Wait-!
+()||:By the time I notice where she is, it's already too late to stop her. +She has already fed a CD titled "METAL XMAS" into the player.
+()||<BGM>BGM_Battle</BGM><震屏>:Deafening heavy-metal rock music overwhelms the entire banquet hall. +Most T-Dolls are covering their ears, but a few of them aren't fazed at all, and actually seem to appreciate it. +Meanwhile, those in charge of security are displaying commendable professionalism.
+FAL(2)<Speaker>FAL</Speaker>||:I'll go handle the mixing console! +MG5, pick Suomi up and get her out of here!
+MG5(2)<Speaker>MG5</Speaker>||:Sorry, Suomi!
+NTW20(2)<Speaker>NTW20</Speaker>||:I found the switch!
+()||:Under the cooperation of different T-Dolls, the playing track is promptly switched to more relaxing music.
+()||<BIN>81</BIN><黑屏2><BGM>BGM_Empty</BGM>:The banquet hall soon reverts back to the warm and cozy state of when I first entered. +...Except Suomi is sulking in the corner.
+Commander()<Speaker>Commander</Speaker>||<BGM>GF_Memorial</BGM>:Not going to eat, Suomi?
+KP31(2)<Speaker>Suomi</Speaker>||:...No. Not hungry.
+KP31(2)<Speaker></Speaker>||:Looks like she's offended by having her track interrupted.
+Commander()<Speaker>Commander</Speaker>||:What music were you playing just now?
+KP31(2)<Speaker>Suomi</Speaker>||:A song from my favorite band. +It's music that gives people strength... Why don't they like it?
+Commander()<Speaker>Commander</Speaker>||:That's not true, Suomi. +The music you played was a bit...niche, but I did see several T-Dolls enjoying it quite a bit.
+KP31(2)<Speaker>Suomi</Speaker>||:Really... So some T-Dolls here do have decent tastes. +Do you like heavy metal, Commander?
+Commander()<Speaker>Commander</Speaker>||:Uh... How should I put it... At least not all the time...
+KP31(2)<Speaker></Speaker>||:Suomi bows her head dejectedly.
+KP31(2)<Speaker>Suomi</Speaker>||:I know that this kind of music is incomprehensible to many, +But it's one of the best things from my home country, so I still hope...that more people can appreciate it.
+Commander()<Speaker>Commander</Speaker>||:Actually, it's quite interesting to try it every once in a while.
+KP31(2)<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Suomi looks up and stares intently at me. Then she digs out a CD from the pile of presents next to her.
+KP31(2)<Speaker>Suomi</Speaker>||:If you want a try, give this a go. +Beginner's level... Shouldn't be too hard to swallow.
+Commander()<Speaker>Commander</Speaker>||:You're giving it to me?
+KP31(2)<Speaker>Suomi</Speaker>||:Yes.
+Commander()<Speaker>Commander</Speaker>||:But you've already given me a Christmas present.
+KP31(2)<Speaker>Suomi</Speaker>||:That's from all of us. This one is only from me.
+KP31(2)<Speaker></Speaker>||:Suomi withdraws her hands awkwardly.
+KP31(2)<Speaker>Suomi</Speaker>||:If you don't want it...I won't force it on you.
+Commander()<Speaker>Commander</Speaker>||:Why would I not want it? +Every Christmas present is precious. I will try my best to enjoy it.
+KP31(2)<Speaker></Speaker>||:I take the CD from Suomi. She looks decidedly more cheerful.
+KP31(2)<Speaker>Suomi</Speaker>||:Then give it a proper listen. +CDs like this are hard to find these days. It's the best memory of my homeland.
+Commander()<Speaker>Commander</Speaker>||:Yes, I promise I will.
+()||<黑屏1>:Suomi finally smiles again and rejoins the festive merrymaking. +And thus I spent an unforgettable night with all of them.

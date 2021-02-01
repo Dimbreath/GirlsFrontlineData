@@ -1,0 +1,50 @@
+()||<BIN>8</BIN><BGM>BGM_Room</BGM>:Griffin Control.
+PKP(0)<Speaker></Speaker>||:PKP finishes reading the mission brief and puts the folder on the table.
+PKP(0)<Speaker>PKP</Speaker>||:So, you wish to entrust the outdoors security to me for the duration of the opera, Commander?
+指挥官()<Speaker>Commander</Speaker>||:Yes. I would like you to be on standby outside the theater once the opera starts and be ready to deal with any dangerous situations that might develop.
+PKP(0)<Speaker>PKP</Speaker>||:Surely you can hand security off to any old T-Doll, right?+Not to mention, you have two other Dolls going with you. Is there really a need for me to patrol up and down the street?
+指挥官()<Speaker>Commander</Speaker>||:According to our intel, there's a possibility that we'll be up against an organized group.+For safety's sake, I'd like to have heavy firepower on the scene to suppress the opposition.
+PKP(0)<Speaker>PKP</Speaker>||:So you're going to have a valuable source of combat power lock down the streets because of a “possibility”?
+指挥官()<Speaker>Commander</Speaker>||:One can only obtain flawless victory by considering all possibilities.+I'm hoping you'll lend me a hand, PKP.
+PKP(0)<Speaker>PKP</Speaker>||:Hmph... Flawless, you say.+In that case, your operation was flawless the moment you put my name down on the plan, Commander.
+指挥官()<Speaker>Commander</Speaker>||:So are you on board?
+PKP(0)<Speaker>PKP</Speaker>||:Yes. Are you satisfied now?
+指挥官()<Speaker>Commander</Speaker>||:Yes, I'm relieved that you'll be joining us.+Ah, by the way, Griffin has approved an expense account for this event. You may need to be on standby for a very long time outside the theater, so if you're hungry, go ahead and acquire rations from nearby.+Eat whatever you like, and don't forget to collect the receipts for the claims later.
+PKP(0)<Speaker>PKP</Speaker>||<BIN>8</BIN><黑屏1>:Getting to fill my belly on a boring job isn't so bad.+I'll be sure to make good use of that expense account then, Commander.
+()||<BIN>86</BIN><黑屏2><BGM>BGM_Empty</BGM>:The next day.
+PKP(4)<Speaker>PKP</Speaker>||<BGM>GF_Memorial</BGM>:While I don't mind coming out for a walk...
+PKP(4)<Speaker></Speaker>||:The opera is in progress, and there aren't many people around the perimeter of the theater.+Although this is the ideal situation for security work, PKP could not take joy in that fact.
+PKP(4)<Speaker>PKP</Speaker>||:...This is just too boring.
+PKP(4)<Speaker></Speaker>||:Time ticks away slowly while she maintains her watch. PKP could not find anything out of the ordinary despite having walked around the vicinity several times.+...+When's the opera going to end? How much longer do I have to wait...
+PKP(4)<Speaker></Speaker>||:PKP stops in front of an Italian restaurant.
+PKP(4)<Speaker>PKP</Speaker>||<BIN>86</BIN><黑屏1>:Normally I wouldn't need to be here...+...Forget it.+While it started out as a way to hide my identity, this outfit is quite suitable for blending into a place like this.
+()||<BIN>80</BIN><黑屏2>:PKP enters the Italian restaurant and heads toward the second floor and takes a window seat.+The restaurant faces the theater, so she could see everything happening in the mini plaza outside.
+PKP(4)<Speaker>PKP</Speaker>||:Visibility here is good... I guess I'll resupply here.+Now, let's have a good meal to make up for this wastage of an elite's time.
+PKP(4)<Speaker></Speaker>||<震屏>:The table soon fills up with dishes.
+ ()||<震屏>:PKP ignores the looks of intrigue from the neighboring tables and voraciously devours the plates of delicious cuisine with breakneck speed.
+PKP(4)<Speaker>PKP</Speaker>||:...These are pretty good.+Just like I thought, high-end human cuisine tastes better than synthetic combat rations after all.
+ ()||<震屏>:The plates before her are soon emptied. PKP scans the table and stops her eyes on the ice cream that the server had just brought her.
+PKP(4)<Speaker>PKP</Speaker>||:This is the last dish...+I still haven't been contacted by anyone yet. Is the performance still going?
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:Just as PKP is starting to get irritated, the sound of an explosion is heard from the direction of the theater.
+PKP(4)<Speaker>PKP</Speaker>||<BGM>BGM_Frontline</BGM>:Finally here, huh?+Ah well, being 80% full is good enough.
+PKP(4)<Speaker></Speaker>||<SE2>Gunfight</SE2>:As her surroundings descend into chaos, PKP looks at the ice cream in her hand and gulps it down in one fell swoop.+Then, she grabs a piece of paper on the table and prepares to leave the restaurant.
+PKP(4)<Speaker>PKP</Speaker>||:Thompson, what's the situation in the theater?
+PKP(4);M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||:Unfortunately, our intel was on the mark.+Several maggots are fleeing out the theater's entrance. Stop them.
+PKP(4)<Speaker>PKP</Speaker>||:Roger.
+()||<BIN>80</BIN><黑屏1>:PKP pulls her machine gun out of her music instrument case and smashes the window glass with it. She then leaps down from the second floor and dashes toward the theater.
+PKP()<Speaker>PKP</Speaker>||<BIN>9</BIN><黑屏1><SE1>Runstep</SE1>:Hmph... Let's end this boring mission with a flawless victory.
+()||<BIN>8</BIN><黑屏2><BGM>BGM_Empty</BGM>:The next day. Griffin Control.
+PKP(4)<Speaker>PKP</Speaker>||<BGM>BGM_Sunshine</BGM>:Still alive, Commander?
+指挥官()<Speaker>Commander</Speaker>||:Is this a sympathy visit or something?
+PKP(4)<Speaker>PKP</Speaker>||:Although I expected you to survive, I still wanted to make sure with my own two eyes. Also...
+PKP(4)<Speaker></Speaker>||:PKP hands over a folded piece of paper.+I freeze in shock when I see the numbers printed on it.
+PKP(4)<Speaker>PKP</Speaker>||:It's the bill for yesterday's meal during the operation.
+指挥官()<Speaker>Commander</Speaker>||:...Were you eating by yourself, PKP?
+PKP(4)<Speaker>PKP</Speaker>||:Of course.
+指挥官()<Speaker>Commander</Speaker>||:Then...did you take the bill from the neighboring table by accident?
+PKP(4)<Speaker>PKP</Speaker>||:Do I look like a Doll who would make such an elementary mistake?
+指挥官()<Speaker>Commander</Speaker>||:But this bill of yours...it covers at least three people's worth of food...
+PKP(4)<Speaker>PKP</Speaker>||:If you're good at something, never do it for free.+What's the matter? Are you regretting it now, Commander?
+指挥官()<Speaker>Commander</Speaker>||:No, no...not at all.+You did very well yesterday. Your performance was deserving of a reward.
+()||:I slump into my chair after PKP leaves.+While it was not quite a smile, I'm certain that she had a look of triumph and satisfaction on her face.
+指挥官()<Speaker>Commander</Speaker>||<黑屏1>:Hahhh... Well, it's not exactly a terrible outcome.+I guess I'll have to make up for the excess above the claimable amount myself.

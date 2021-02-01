@@ -1,0 +1,50 @@
+ ()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:... +In a Sangvis Ferri interrogation room, Area S08.
+炼金术士()<Speaker>Alchemist</Speaker>||:So, where were we...? +Oh, right. Bombs. Now, let's talk about bombs. +Do you like them timed or triggered?
+F2000 ()<Speaker>FF F2000</Speaker>||:My... Well... +I guess it depends on the mission? +Humans invented so many weapons to deal with different situations in the first place, right?
+炼金术士()<Speaker>Alchemist</Speaker>||<BGM>BGM_Boss</BGM><黑屏1>:Ha. You don't even have a personal preference? Then you're missing out. +As a soldier, you should at least like something about war even if you don't like it in its entirety. +As a Tactical Doll, FF F2000, isn't there anything on the battlefield that you like at all?
+F2000(0)<Speaker>FF F2000</Speaker>||<黑屏2><BIN>46</BIN>:I'm sorry...but I'm simply not too bothered by things on the battlefield... +H-How about we talk about something more casual? +Shoes, for example. Why don't we talk about shoes, Alchemist?
+BOSS-5(0)<Speaker>Alchemist</Speaker>;F2000(0)||:...Shoes? +Is that what Griffin T-Dolls talk about on a daily basis, pretty shoes and cute handbags?
+BOSS-5(0);F2000(0)<Speaker>FF F2000</Speaker>||:Well... Many T-Dolls are interested in weapons, so maybe I'm just in the minority. +I'm really sorry. I'm not even your original target, am I? +It must be really disappointing for you to capture a crude and banal T-Doll like me...
+BOSS-5(0)<Speaker>Alchemist</Speaker>;F2000(0)||:...Why would you say so, FF F2000? +At least I've learned from you that even non-elite T-Dolls make some very interesting faces. +Not to mention I can compare you with my other prey...
+BOSS-5(0);F2000(0)<Speaker>FF F2000</Speaker>||:...Quoi?
+BOSS-5(0)<Speaker>Alchemist</Speaker>;F2000(0)||:What, don't you know? You're not the only one I caught. +Recognize this weapon?
+ ()||:Alchemist lifts up a rifle.
+BOSS-5(0);F2000(0)<Speaker>FF F2000</Speaker>||:That's...T91's... +W-What happened to her?!
+BOSS-5(0)<Speaker>Alchemist</Speaker>;F2000(0)||:She's the only one who slipped away. I wiped out all the rest. +Do you understand now? Your sacrifice didn't make much of a difference for your friends.
+BOSS-5(0);F2000(0)<Speaker>FF F2000</Speaker>||:Phew...
+ ()||:FF F2000 smiles in relief.
+BOSS-5(0);F2000(0)<Speaker>FF F2000</Speaker>||:At least someone got away. Then my job is done...
+BOSS-5(0)<Speaker>Alchemist</Speaker>||<黑屏1>:Oh dear... +These Griffin T-Dolls are all so dull...
+炼金术士()<Speaker>Alchemist</Speaker>||<BIN>9</BIN><黑屏2>:Thank goodness I know how to keep myself entertained.
+()||<SE1>Select</SE1>:Alchemist draws her own automatic pistol. +FF F2000 starts trembling. She closes her eyes and draws a breath.
+F2000 ()<Speaker>FF F2000</Speaker>||:So this...is how I meet my end...
+ ()||<SE2>Gunfight</SE2>:Bang! Bang!
+F2000 ()<Speaker>FF F2000</Speaker>||:Eeep!
+ ()||:...? +Alchemist adjusts her aim and shoots one of her dummies.
+F2000 ()<Speaker>FF F2000</Speaker>||:Alchemist...?
+炼金术士 ()<Speaker>Alchemist</Speaker>||:Hush... Say nothing, FF F2000... Don't let me find you... +You must stay quiet, hold your breath, and just wait... +Until this pistol runs out of bullets or you run out of luck - whichever happens first...
+ ()||<SE2>Gunfight</SE2>:Bang! Bang!
+F2000 ()<Speaker>FF F2000</Speaker>||:...!
+炼金术士 ()<Speaker>Alchemist </Speaker>||<黑屏1>:"Everyone tries to fit into others' lives when they're alive..." +"...Only your death is entirely your own." +Give it a thought in your final moment, my dear... +Whether we're alive...the way we are.
+ ()||<BGM>BGM_Empty</BGM><BIN>8</BIN><黑屏2>:... +Three hours later. Staff lounge, Griffin base, Area S08.
+FN57(0)<Speaker>Five-seven</Speaker>||:...And that's our mission. +FAL, you got that? Hey! Have you gone deaf?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BGM>BGM_Sneak</BGM>:... +There are no deaf T-Dolls, 57.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:I don't think the problem is with your hearing module, FAL... +I suspect something's wrong up here (points to her head). +Your neural cloud is a bit passé - just like your taste. Perhaps it's time we considered a change in leadership... +What are you reading this time?
+()||:57 walks up to FAL and snatches the fashion magazine out of her hands.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Oi!
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:...This bag? Isn't it too old-fashioned even by your standard?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Look at the price first before you speak, 57. You have no idea how long I've been taking my pick.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Whatever. I only care about our mission. +If you mess up, not only will you not have the money to buy the bag, you'll have your position as team leader taken away by yours truly. +You do know that I'm gonna REPAY you for the favor.
+()||:FAL takes back the magazine, dog-ears a page, then puts it into her cross-body bag.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Then I'll simply not mess up. +Bring me to the commander in charge this time. We're getting ready to set off.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Hey, have you been listening? And have you actually read through the brief? You'd better not say the wrong thing in front of the commander.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<黑屏1>:Isn't it just a couple of missing T-Dolls? Our mission is the find them, ouais?
+()||<BIN>9</BIN><黑屏2>:FAL strolls out of the lounge. Five-seven catches up.
+FN57()<Speaker>Five-seven</Speaker>||:Also, you know about the adversary this time, right? Alchemist. She's a ruthless one.
+FAL()<Speaker>FAL</Speaker>||:That's what makes the bounty big. Let's get this over with quickly and take the money.
+FN57()<Speaker>Five-seven</Speaker>||:Humph, so you chose that old-fashioned handbag after seeing the target?
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:Suits her, doesn't it?
+()||<BIN>10</BIN><黑屏2>:Ten minutes later, Griffin Control.
+FAL(0)<Speaker>FAL</Speaker><通讯框>||:Bonsoir, Commander. I'm FAL, the T-Doll leader in charge of this rescue mission. +Relax. I know my charm can be blinding, but please listen to me with your eyes open.
+FN57()<Speaker>Five-seven</Speaker>||:(Whispers) I think the commander is simply sleep-deprived...
+FAL(0)<Speaker>FAL</Speaker>||:... +Let's grab a coffee after the job's done. +Now, our objective is to rendezvous with two of my temporary team members. +They're the scouts in Area S08, FF FN49 and FF FNC. +They're only rookies that have been recruited onto the team temporarily, but we do need their report. +Please clear up the way for them to meet up with me and 57, Commander.

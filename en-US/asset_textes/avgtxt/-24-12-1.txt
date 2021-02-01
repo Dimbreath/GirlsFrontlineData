@@ -1,0 +1,27 @@
+()||<BIN>159</BIN><BGM>BGM_NightOPS</BGM><黑屏2>:...
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Scare...crow?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hehe, didn't you say we wouldn't meet again?
+SOPIIDamage(0);BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||:<color=#00CCFF>...</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:...What, are you regretting our deal earlier? Unfortunately, it's too late for that now!
+SOPIIDamage(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>According to my calculations, I estimate you're almost at the Sangvis elite base, am I correct?</color>+<color=#00CCFF>You ought to be afraid.</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Ha, well, it's better than turning around and running into the Military.
+SOPIIDamage(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>Your death will be most awful.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:... +So, what's this about? Come to congratulate us?
+SOPIIDamage(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>...Open your electronic map.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||<黑屏1>:...What?
+()||<BIN>10</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>If you continue along this route, I can tell you the detection ranges of the Sangvis elite units along the way.</color>+<color=#00CCFF>If you don't want to get into unnecessary fights, then plan ahead before moving.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:W-What... did you say? +Hey, didn't you say there wouldn't be a next time?
+SOPIIDamage(2);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>Is your hearing module defective? Ask your friends, I won't repeat myself.</color>+<color=#00CCFF>Also, the situation is different this time round.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:You know I didn't do what I did just now to suck up to you, right?
+SOPIIDamage(2);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>Same here.</color>
+()||:...Scarecrow ends the transmission.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Wait— +Honestly, what the heck is she up to...?
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:This route ultimately leads to our former command post. +Even if the Commander's gone, there ought to be Dolls or resources left behind. Once we reach it, we can perform some minor repairs on ourselves. +So... can we trust her? +Can we trust the Sangvis ringleader who was trying to kill us just a few hours ago?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:No, but... we have no other choice.
+SOPIIDamage(2);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:If nothing else, we trust you, SOP-II.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||:Yeah... +<color=#A9A9A9>(Making choices is hard...)</color>+<color=#A9A9A9>(Was M4A1 always under such immense pressure on every operation...?)</color>
+SOPIIDamage(0);Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;Cx4Storm(0)||<黑点1>:Arghhh, I don't care anymore! +I don't care if it's a trap or whatever, if they dare to trick me, I'll hunt them down to the ends of the earth! +Let's go! We'll head towards that base over there. Everyone, check your weapon modes and be wary as you get close. +Pay attention to the elite units' detection range! Don't open fire without my orders!
+()||<黑点2><黑点1>:<color=#fff775>Holding down on the Sangvis echelons displays their detection radius.</color>+<color=#fff775>Taking this radius into consideration will allow you to avoid combat with some of the S.F. forces.</color>
+()||<黑点2><BIN>10</BIN>:

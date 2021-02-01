@@ -1,0 +1,74 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>【Serial Number 2051-05-09.】</color>+<color=#00CCFF>【Reading Data... Beginning Playback.】</color>
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||<BGM>BGM_Wake</BGM>:That's the fifth time this week...and it's only Tuesday! The failure rate is too high!
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:It is necessary.+This battle has been dragging on for far too long. The brass wants us to finish the testing as soon as possible so we can push this generation of Assault Artillery into service.+You know that too, ■■■. Once we can successfully introduce it into live combat, they won't stand a chance against us.
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||:I know, but even Dolls can't take this kind of intensive, high-impact testing! Can't we find some other way to do this, like having an AI directly control the Assault Artillery?
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:And how long do you think the programming for that will take?
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||:At the very least, we ought to minimize unnecessary damage...
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:It's necessary as long as it ends the war more quickly.
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||:Let me take Ai's place.
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:I understand how much you cherish 59898. She's very well-engineered, and she does look very cute.+But in the end, you will be the pilot of that mech, and she is only there to pave the way for you.
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||:(Sobbing)
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||<黑屏1><SE1>AVG_door_storehouse</SE1>:(Sighs) ■■■, don't place too much importance on her.+We are humans, and they are nothing more than reusable tools. You are much more valuable than they are. Don't cheapen yourself.+Now, I need to be off.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:【Chassis repairs complete. Restarting.】+【Restart Complete.】
+88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<睁眼><BIN>70</BIN>:...
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:You're awake.+Good morning, Ai.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:【Owner depressed status detected. Executing - Comfort mode.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:...Haha, you're always like this.+Ever since I met you, you'd always tug on my hand like this whenever you wanted to tell me something.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:【Retrieving and verifying archived records.】+【Verification complete. Executing - Affirmative nod.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:Yeah, I know. You can't speak, but you've always been listening to me...+Ever since I came to this base, I've spent much more time with you than with other people. +All of the others put together don't know me half as well as you do.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:【Determining owner intentions.】+【Determination - Failed.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:After the war ends, I'd like to buy you and take you back with me. +Although I probably won't have to work part-time in a café anymore, we'll have a lot of fun gatherings. I'd like to introduce you to my friends. +Comic expos, cafés, and all kinds of other places... I'd like to take you there and have fun with you.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:【Examining personal data.】+【Owner: ■■■.】+【No other owners registered.】+【Executing - Affirmative nod.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:I like you very much, Ai.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<BGM>BGM_Empty</BGM>:【Unable to determine owner intentions.】+【Executing...】
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<SE2>Alarm</SE2>:【Determination interrupted.】+【Warning message received.】+<color=#FF0000>【Enemy attack! Enemy attack! Enemy attack!!】</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<BGM>BGM_Battle</BGM>:It's an alarm.. But how, 3303 is a base far behind the lines...
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>AVG_weapon_reload</SE1>:Ai, follow me! Prepare for battle!
+TestPilot(0)<Speaker>Calm Male Voice</Speaker>;88typePilot(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>■■■, hurry over to Sector C!</color>
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<黑屏1><SE2>Alarm</SE2>:【Control system synchronization complete. Relocating to Sector C.】
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>99</BIN><黑屏2><火花><SE1>Explode</SE1>:These guys are fast! +Sir, ■■■ in position!
+TestPilot(0)<Speaker>Calm Male Voice</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>Received. Defend Sector C at all costs!</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Battlefield</SE1>:Understood!+<Size=40>...Do your best, Ai. This is our first real battle. It's going to be a hard fight!</Size>
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<SE1>Select</SE1>:【Detecting unknown targets approaching.】+【Determined to have hostile intentions.】+【Executing - Long-range strike.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>Explode</SE1>:Good work, bullseye! When you close in, switch over to your greatsword, Ai!
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<SE1>Battlefield</SE1>:【Owner order received. Switching attack plan to close combat type B.】+【Weapon changed. Executing - Slash.】+【Detecting decrease in target vital activity.】+<color=#FF0000>【Warning - Explosion risk.】</color>+【Executing - Retrograde evasion.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:Well done, Ai! I won't slack off on my end either! Eat this!
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<黑点1><SE1>AVG_rifle_finalshot_h</SE1>:【Detecting cessation of target vital activity.】+【Detecting owner's heart rate — stable. Calculating... Owner stamina will start to diminish in three hours.】+【Executing - Combat operations against next target.】
+()<Speaker></Speaker>||<黑点2><Night>:...
+TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Explode</SE1>:W-We've taken down five of...these things... +If we just hold out until reinforcements arrive...
+TestPilot(0)<Speaker>Calm Male Voice</Speaker>||:<color=#00CCFF>Stay alert, ■■■!</color>+<color=#00CCFF>More enemies are headed your way!</color>
+TestPilot(0)<Speaker>■■■</Speaker>||:I...understand...
+TestPilot(0)<Speaker>Calm Male Voice</Speaker>||<黑点1>:<color=#00CCFF>Hang in there. Help will come from the other sectors once they finish fighting.</color>+<color=#00CCFF>Until then, don't die!</color>
+()<Speaker></Speaker>||<黑点2><SE1>AVG_rifle_finalshot_h</SE1>:...
+TestPilot(0)<Speaker>■■■</Speaker>||:That makes six. +I feel...a little dizzy, I probably got spun around a bit too much... +Why does my upper lip feel wet...
+TestPilot(0)<Speaker>Calm Male Voice</Speaker>||:<color=#00CCFF>Take a break for now and let your Doll pick up the slack.</color>
+TestPilot(0)<Speaker>■■■</Speaker>||:Yeah. I'm counting on you, Ai. +Haha... I guess fighting like this in my maiden battle was a bit too much to ask. I'll take over the scanning for now.
+88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:【Observation - Owner's body does not possess sufficient strength to fully control the Assault Artillery platform. Executing protection plan.】+【New hostile target detected. Executing - Long-range strike.】
+()<Speaker>■■■</Speaker>||<SE1>Runstep</SE1>:...Ai! Look out!!!
+88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<关闭火花><BGM>BGM_Empty</BGM><SE1>AVG_bigglassbreak</SE1><拉伸><黑屏1>:<color=#FF0000>【Warning - Unknown signal approaching at high speed.】</color>+<color=#FF0000>【Warning - Loss of chassis balance.】</color>+<color=#FF0000>【Warning - Severe impact sustained—】</color>
+格琳()<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:Huh? What happened to the image? +Is the data lost? ...Ah, there it is.
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【Serial Number 2051-05-09.】</color>+<color=#00CCFF>【Continuing Playback.】</color>
+()<Speaker></Speaker>||<BIN>41</BIN><黑屏2><SE1>AVG_Rain2</SE1>:...
+()<Speaker></Speaker>||:<color=#FF0000>【Warning - Weather change from clear → stormy. Elapsed duration - unable to calculate.】</color>+【Unable to detect owner life signs.】+【Unable to detect owner life signs.】+<color=#FF0000>【Warning - Please cease ineffective operations.】</color>+<color=#FF0000>【Warning - Insufficient power.】</color>
+88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<SE1>AVG_Rain2</SE1>:...
+NPC-Bodyguard1(0)<Speaker>Hoarse Voice</Speaker>||:Ah, there's still two more mechs over here! +Hurry up!
+NPC-PasserbyM(0)<Speaker>Youthful Voice</Speaker>||:I'm coming, I'm coming. Both sides took a lot of casualties, quit rushing me. +Huh, is this the diehard that held out to the very end in Sector C?
+NPC-Bodyguard1(0)<Speaker>Hoarse Voice</Speaker>||<SE1>AVG_Rain2</SE1>:So the one who wrecked seven of their new models was just a test Doll? +Why is it spacing out, leaning against the mech? Is it bugged? ...Oh, it's almost out of power, no wonder.
+NPC-PasserbyM(0)<Speaker>Youthful Voice</Speaker>||:Given our data, it seems to be that Chinese woman and her Doll.
+NPC-Bodyguard1(0)<Speaker>Hoarse Voice</Speaker>||:Only the Doll's here. Where's the woman? The guy paying us said that if we found the corpse, we were supposed to drape the flag on it and send it back to her home.
+NPC-PasserbyM(0)<Speaker>Youthful Voice</Speaker>||<SE1>AVG_Rain2</SE1>:The cockpit got blown up, what woman are you talking about? +But it's really weird. I heard that in the end this woman took a bullet for her Doll's mech.
+NPC-Bodyguard1(0)<Speaker>Hoarse Voice</Speaker>||:Huh? You must be kidding, right? +Where do you find idiots like that! Don't tell me she thought she had a battle buddy in there!
+NPC-PasserbyM(0)<Speaker>Youthful Voice</Speaker>||<黑屏1>:Who knows? +In any case, let's take care of things. Still, this saves us a lot of trouble. All we have to do is move the Doll... Man, it's heavy. Is the tow truck here yet? Hello—?
+88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:【Executing - Rescue.】+<color=#FF0000>【Warning - Unable to detect action target.】</color>+【Execute - Hug.】+<color=#FF0000>【Warning - Unable to detect action target.】</color>+【Execute - Scream.】+<color=#FF0000>【Warning - No relevant module.】</color>+<color=#FF0000>【System error.】</color>+<color=#FF0000>【System error.】</color>+<color=#FF0000>【System error.】</color>+【Executing...】+【Chassis movement detected, operation terminated.】+<color=#FF0000>【Warning - Insufficient power. Unit shutdown in 30 seconds.】</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...+<color=#00CCFF>【Serial Number 2051-05-09 Playback Complete.】</color>+<color=#00CCFF>【Skip Y/N?】</color>+<color=#00CCFF>【Confirmed skipping to simulated processing records.】</color>+<color=#00CCFF>【Loading 20510106 beta.】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>18</BIN><黑屏2><回忆><BGM>BGM_Moon</BGM>:Good morning, 59898!
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||:Good morning.
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<黑屏1>:Ehhh—? Your voice...it sounds great!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:<color=#00CCFF>【Loading 20510415 beta.】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<回忆><黑屏2><BIN>46</BIN>:I'd like to go for a coffee, but going alone is just boring! +Want to come with me, Ai?
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<黑屏1>:Sure! I'll be glad to go anywhere with you, ■■■!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:...+<color=#00CCFF>【Loading 20510509 beta.】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<黑屏2><BIN>73</BIN><回忆>:Ai, I love you.
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<黑屏1>:I know          so +■■■+go to           expo with           ■■■
+()<Speaker></Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>【Unknown corruption to file, processing terminated.】</color>

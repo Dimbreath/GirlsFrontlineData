@@ -1,0 +1,125 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:The building isn't as bright and spacious as I thought. Quite the contrary, it's pitch dark. Not a ray of sunlight penetrates into the construction; I can't even orient myself. +If it weren't for the solid surface beneath my feet, I wouldn't even be sure I'm actually standing on the ground.
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Kalina, could you scan this area?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>It seems to be a subspace in the database. Access authorizations seem to be a bit jumbled and some pre-established subroutines have been written into the program...</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Uh... In a language I can understand please?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That is to say, it's like walking into an opera. Everything is written and pre-arranged.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Opera, huh...</color>
+()<Speaker>Commander</Speaker>||:Henrietta? +Are you still here?
+()||:As if to answer my call, her soft, delicate hand squeezes mine with more force, and she keeps leading me in the same direction. +Even though I still can't see a thing, I feel somewhat more reassured having her with me.
+()<Speaker>Commander</Speaker>||:Are there no lights in the building?
+Henrietta(1)<Speaker>Henrietta</Speaker>||:No. +"Darkness is the best place for imagination because everything in here is unknown." +That's what Signore Marco once said.
+()<Speaker>Commander</Speaker>||:Marco?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:That's Angelica's Handler. +Are you sure you're feeling alright, Signore Giuseppe? You seem to be rather forgetful today.
+()<Speaker>Commander</Speaker>||:Oh, sorry, but I'm fine. I'm just a bit slow.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:So even you have your careless moments. Are you scared because it's so dark in here? +Then let me sing a song for you. + Joy, bright spark of divinity, Daughter of Elysium..."
+()<Speaker>Commander</Speaker>||:"Fire-inspired we tread thy sanctuary..." +Do you like Symphony No. 9 a lot?
+Henrietta(1)<Speaker>Henrietta</Speaker>||:We sang it together the night we watched the meteor shower. +No matter what plight I may face, whenever I sing that song, I think back to that moment and feel calm again.
+()<Speaker>Commander</Speaker>||:That's a pretty good way to comfort yourself.
+()||:Henrietta's chuckle drifts back toward me; she seems very happy. +After a while, she comes to a halt.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:We're here. Angelica's Vita is the closest so it's pretty easy to locate.
+()<Speaker>Commander</Speaker>||:But I'm not seeing anything?
+Henrietta(1)<Speaker>Henrietta</Speaker>||:There's a door over here. Can't you see it?
+()||:Henrietta's arm extends into the dark, and light starts seeping through as if there really was a door there.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<BGM>BGM_Empty</BGM><白屏1>:Let's go in, Signore Giuseppe.
+()||<SE1>AVG_Door_Open_Close</SE1><BGM>GF_xGS2_25</BGM><白屏2><BIN>265</BIN>:I walk into a scene of dazzling brightness and busy hubbub. +Having emerged from a dark and quiet place, I have to stop and squint to let my eyes adjust to the new environment.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Signore Marco! If you don't hurry, I'm going to leave you behind!
+()<Speaker>Commander</Speaker>||:Marco? +<color=#A9A9A9>Isn't that Angelica's Handler?</color> +There you are, Cano...
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:What are you talking about, Signore Marco?! I've always been here. +Is your head addled with sleep?
+()||:I take in my surroundings. Cano and I are standing in a street. +There are no reflective glasses or digital displays, just the solid austerity that's characteristic of architecture in the olden days. Other than the sun, nothing here pierces the eye. +From what I learned in school, this seems to be pre-WWIII Rome. +However, I've lost track of Henrietta. I look around anxiously but can't find her anywhere.
+()<Speaker>Commander</Speaker>||:... +<size=30>Henrietta?</size>
+()<Speaker>Henrietta's Voice</Speaker>||:I'm here, Signore Giuseppe. I'm standing right next to you, but I can't seem to touch you or anything here – how strange. +Can you not see me? +This is the first time I've entered someone else's Vita. I wonder if this is supposed to happen...
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Of course! Because of the pre-established subroutine, anyone not in the script is excluded from the scene.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Then how come I can talk to Cano?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Your login ID has been automatically changed to the Handler named Marco. Maybe this has something to do with the subroutine as well?</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>You mean I'll have to pretend to be another person in here?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Well... Do your best!</color>
+()<Speaker>Henrietta's Voice</Speaker>||:I'm sorry... I volunteered to bring you into Vita, but now I'm completely useless...
+()<Speaker>Commander</Speaker>||:Don't worry, just stay by my side. It would be great if you could answer whatever questions I have.
+()<Speaker>Henrietta's Voice</Speaker>||:Umm... Sure! I'll tell you whatever you want to know! You just have to ask, Signore Giuseppe!
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Right then... It's time to start playing this Marco.</color>
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:...Signore Marco? Why have you gone all quiet? +I was just joking. You're not mad at me, are you?
+()<Speaker>Commander</Speaker>||:Oh... No, I'm not. +I'm just glad that you're okay.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Hmm? Of course I'm okay. You're so weird today, Signore Marco. +Oh, no! We'll miss the train back if we don't hurry! +If we get home late, you'll get another lecture from Jean! +What if he gets angry and sends you off to Hereford?!
+()||<黑屏1><BGM>BGM_Empty</BGM>:Cano drags me on by the hem of my coat in great hurry. I try to gather my thoughts as I run after her. +Cano doesn't seem to have recognized me as the Commander. Rather, she's treating me as a Handler who exists in this world. +Has her memory been altered? Is that why none of the Dolls have returned? +I've got to get to the bottom of this...
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||<BIN>73</BIN><黑屏2><BGM>GF_xGS2_25</BGM>:I've completed my training today!
+()<Speaker>Commander</Speaker>||:I saw the data. You did great.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Heheh, Cano is the best Cyborg! +Signore Marco, will I get a reward for doing well today?
+()<Speaker>Commander</Speaker>||:Reward?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Huh? You haven't forgotten, have you? +You promised you'd buy me the sequel to the picture book if I perform well!
+()<Speaker>Commander</Speaker>||:The picture book?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:You know, "The Prince of the Kingdom of Pasta"!
+()||:The speed at which time passes can be manually adjusted with this account. Three days have elapsed since I entered this story. +I have temporarily paused the story, causing Cano to freeze in a rather comical posture. +I open up the document. Apparently, the picture book was written by this Marco for his Cyborg. +However, at this point in time, it shouldn't be in public circulation.
+()<Speaker>Commander</Speaker>||:Have you ever heard of the picture book, Henrietta?
+()<Speaker>Henrietta's Voice</Speaker>||:Of course; the story is quite famous within the Agency.
+()<Speaker>Commander</Speaker>||:But you can't buy the book in any bookstore, right? After all, Marco wrote it with his colleagues.
+()<Speaker>Henrietta's Voice</Speaker>||:Hmm... That is correct, but anything is possible in Vita.
+()<Speaker>Commander</Speaker>||:Is that so...? Must be the subroutine again.
+()||:I resume the story. Cano is looking expectantly at me with sparkling eyes.
+()<Speaker>Commander</Speaker>||:Oh, you're right. +Now I remember. Since you did so well today, I've got to reward you.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Then are we...
+()<Speaker>Commander</Speaker>||:Yep, we're getting that book today.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Hooray! Thank youuuuuu, Signore Marco!
+()||:Cano runs out of the office cheering. +I've been reading and re-reading this story, hoping to find something while I skip through moments, but I remain disappointed. +Cano's memories show no sign of returning, and I haven't caught even a glimpse of Angelica, the original owner of this Vita. +Angelica isn't on the list of Cyborgs who work under the Agency. All records of her have been replaced by Cano. Still, despite the lack of result from my investigation, I did find a lot more information about the Agency and their Cyborgs.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Cyborgs can't hope to compare with T-Dolls when it comes to combat capabilities. Through augmentation, they can only make the girls about as strong as the average adult man, though I suppose that's enough for a special service organization who needs to keep a low profile...</color> +<color=#A9A9A9>However, it's still very inhumane. They drastically reduce the girls' lifespan and even brainwash them. They take everything away from them but give them a first-class living environment as if out of magnanimity. What on earth are they thinking at this Agency?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, can you hear me?</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>Anything new?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I've been studying the subroutines in there. It seems that only the corresponding authorized user can alter the program.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>You can't do it from outside?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>My access keeps being denied. I think in order to solve the problem, you must first find this girl called Angelica.</color> +<color=#00CCFF>A story is unfolding by the script in there. If you let it run its course, the subroutine will eventually lose effect.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>So I have to let the whole thing play out and guide it to the scripted ending...?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That seems to be the case.</color> +<color=#00CCFF>I don't know why Cano has replaced Angelica in this story, but as long as she's still in there as a character of the play, you're bound to run into her at some point.</color>
+()<Speaker>Commander</Speaker>||:<color=#00CCFF>How can you be so sure?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Because it's a story. As the original main character, she's got to make an appearance sooner or later. That's the rule that all stories must abide by.</color>
+()<Speaker>Commander</Speaker>||<黑点1>:<color=#00CCFF>That explanation sounds way too meta... Anyway, I'll give it a try.</color>
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||<黑点2><BIN>265</BIN>:Ah... I don't know why but somehow it feels like it's been ages since I last had an outing! +Everything looks new to me.
+()<Speaker>Commander</Speaker>||:That's probably because you've been busy with missions.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Missions from the Agency are the most important, aren't they? +But after work, it's only right to march~ ahead~ happily like this!
+()<Speaker>Commander</Speaker>||:You're really cheerful. +My, you've bought a lot of books. I thought there was only one new picture book?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:We don't get to go out often, so Claes and the others have asked me to get them some books too. +I don't have to pay out of my own pocket anyway, so I agreed to help, hehehe~
+()<Speaker>Commander</Speaker>||:Sheesh. +Still, do you really need to read while you walk? Why don't you read it after we get home?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:But I'm DYING to find out what happens next! 
+()||:Cano explains as she twirls merrily in the street, waving her picture book around and being completely oblivious to everything else. +Meanwhile, around the corner of the street, a girl is being dragged along by the leash of a gigantic dog.
+Angelica(0)<Speaker>???</Speaker>||:Hahaha, slow down, Perro!
+()||:The girl is wearing a pretty dress and leather shoes, her heels pitter-pattering crisply against the ground. +The sun shines mildly on her hair and clothes, casting a warm halo around her entire figure.
+Angelica(0)<Speaker>???</Speaker>||:Whoa!
+()||<震屏3>:Woof woof woof! +Cano and the girl collide into each other as the dog barks.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Ow, ow, ow... S-Sorry about that! Are you okay?
+()||:Cano jumps back on her feet and hurries over to help the other girl up.
+Angelica(0)<Speaker>???</Speaker>||:I'm alright, don't worry.
+()||:The girl with long, brown hair smiles kindly even though she just got knocked over. She looks exactly like a well-mannered little lady from a rich family. +She dusts herself off lightly and answers Cano with a smile while trying to soothe her spooked dog.
+()<Speaker>Henrietta's Voice</Speaker>||:Oh...
+()<Speaker>Commander</Speaker>||:What is it, Henrietta?
+()<Speaker>Henrietta's Voice</Speaker>||:That's Angelica. Why would she be here?
+()||:I've kind of figured out who this girl is based on intuition, though her sudden appearance still takes me by surprise. +The main character is bound to make an appearance...I suppose...? +What exactly is the point of taking Angelica out of her own role in the play?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:I'm really sorry!
+Angelica(0)<Speaker>Angelica</Speaker>||:It's okay, really! Even Perro thinks it's no big deal, don't you, Perro?
+()<Speaker>Big Dog</Speaker>||:Woof!
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:In that case, we'll be leaving~
+Angelica(0)<Speaker>Angelica</Speaker>||:Oh, one second. May I ask what book it is that you're holding...?
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Huh? This? +It's the very popular "Prince of the Kingdom of Pasta"! Have you never read it?
+Angelica(0)<Speaker>Angelica</Speaker>||:No...I haven't, but...
+()||:Angelica takes the picture book from Cano.
+Angelica(0)<Speaker>Angelica</Speaker>||:But...somehow it feels very familiar...
+()<Speaker>Henrietta's Voice</Speaker>||:That's the picture book Signore Marco wrote for her, how come she doesn't remember it at all? +We all know it's not her fault, nor is it Signore Marco's fault...
+()<Speaker>Commander</Speaker>||:So whose fault is it?
+()||<BGM>BGM_Empty</BGM><SE1>AVG_brake</SE1>:At that moment, an ear-splitting screech of a car's tires draws dangerously close. I haven't encountered any enemy here so far, but I can tell our interceptors are far from friendly. +Cano also looks nervous. Clattering footsteps come from all around us – we're about to be surrounded.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Battle</BGM>:Cano, get Angelica out of—
+()||<SE2>Gunfight</SE2>:Before I can even finish, a burst of bullets are fired in my direction!
+()<Speaker>Commander</Speaker>||:!
+()||:A force jerks me back abruptly from behind and I land heavily on the ground. +A bullet whizzes past the top of my head and hits the wall behind me, producing a deafening crack. +Meanwhile, Cano has already drawn her weapon and started returning fire.
+Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Are you okay?! It's a terrorist attack by the Five Republics!
+()<Speaker>Commander</Speaker>||:I'm fine! Get them all!
+()||:I turn around and see Angelica staring at me with a terrified look on her face. It was undoubtedly her that just saved me by dragging me off my feet. +No ordinary human with normal reflexes could've done that, but right now she looks exactly like an ordinary girl who's very frightened.
+()<Speaker>Commander</Speaker>||:Thanks for that.
+Angelica(0)<Speaker>Angelica</Speaker>||:I... What...
+()||:Sitting on the ground, Angelica stares dubiously at her hands, then at me.
+Angelica(0)<Speaker>Angelica</Speaker>||:Signore...Marco?
+()<Speaker>Commander</Speaker>||:You know my name?
+Angelica(0)<Speaker>Angelica</Speaker>||:I shouldn't know you...but why do I feel like...
+()||:Angelica's eyes gradually grow more resolved. I can sense the airs of a "rich girl" dissipating from her.
+Angelica(0)<Speaker>Angelica</Speaker>||:We can't let them get any closer. Please give me a gun, Signore Marco.
+()<Speaker>Commander</Speaker>||:But you...
+Angelica(0)<Speaker>Angelica</Speaker>||:I can fight! A gun, Signore Marco!
+()||:I gape for a second, then I hand my sidearm to Angelica. +Once she takes it, she immediately heads over to Cano and covers the flank almost instinctively.
+()<Speaker>Henrietta</Speaker>||<黑屏1>:That's right, protecting our Handler is our most sacred duty, one that we can never forget. I was a little unsure when I first saw her, but now it's beyond all question – we have found the real Angelica.

@@ -1,0 +1,111 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>:...
+()<Speaker></Speaker>||<黑屏1>:...The morning of the summit.+ 0600.
+()<Speaker>Security Guard</Speaker>||<黑屏2><BIN>182</BIN>:Step forward, please present your identification.
+()<Speaker></Speaker>||:...
+()<Speaker>Security Guard</Speaker>||:Reporters, please take the press entrance and proceed straight ahead.
+()<Speaker></Speaker>||:...+I pass through layer after layer of chain link fences and barricades. +...After going past the grim-faced police officers and MPs outside, I finally set foot on the staircase leading to the conference hall.
+()<Speaker></Speaker>||:"We don't need Rossartre and his lackeys!" +"Get the fuck out of our city, you extremist executioners!" +All manner of gigantic slogan-bearing banners are visible among the protestors outside the conference hall. +A huge number of protestors have already gathered here before the start of the meeting, and they are locked in an intense standoff with the shield-bearing MPs of Belgrade.
+()<Speaker>Commander</Speaker>||:Terrible weather, terrible crowds, what a terrible day this is.
+()<Speaker></Speaker>||<黑屏1>:I look up at the overcast sky and think about the thunderstorm which has been forecasted to grace the city today. Hopefully the city's purification towers will be able to do their job. +...After looking one last time at the noisy confrontation outside, I enter the hall.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<BIN>97</BIN><黑屏2>:Commander! Over here!
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:Where are the others?
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:(Whispers) The infiltration team used the fake IDs from K and entered successfully. +RO and SOP-II are leading the other teams. As ordered, they're monitoring the situation from the surveillance points around the conference hall.
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:We don't know who around us is friend or foe, so we'll refer to the White Faction as the "hidden threat".
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Ah, alright. +Everyone's taken the positions which K indicated in his request and they're all waiting for your orders. The interior looks safe, but the crowd outside, on the other hand...
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:Don't worry. The MPs of this city will maintain order outside. All we need to do is to make sure the hidden threat hasn't snuck inside. +Once the summit begins, the police will disperse those people by force.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:But once they begin driving the crowd away, a conflict will surely break out... +I'm worried the enemy will attack the conference hall during the confusion.
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:We shouldn't need to worry about the defenses of this place. The MPs here have ample firepower to provide protection. +If a riot breaks out, let the surveillance teams break up the hidden threat's organized strength on the outside. +Keep all team leaders on alert and make sure they do their part. Don't attract suspicion.
+()<Speaker></Speaker>||:...
+()<Speaker></Speaker>||:...0700 in the morning. +...As time passes, the conference hall soon fills up with people.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander, look at the entrance. +Something seems to be going on there...
+()<Speaker></Speaker>||:...Not far off, the guards at the entrance are vetting contingents seeking to enter the conference hall strictly. +It is obvious that the visitors are very unhappy with what the guards are doing.
+()<Speaker>Security Trooper</Speaker>||:Nobody is allowed to carry weapons inside the conference hall! Either hand over your weapons or get lost and get out of the way!
+()<Speaker>Agent</Speaker>||:What nonsense are you talking, Class A permits allow us to bring weapons into the venue, it says so clearly in the agreement!
+()<Speaker>Security Trooper</Speaker>||:I've never seen any such agreement and orders are orders!
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:While it's not like I don't understand why... But that checkpoint's being really overzealous in their security checks. +Don't tell me they discovered some new threat...
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:No...it doesn't look like there's any threat. Those gate guards are just giving the Statesec agents a hard time.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Am I missing something? Aren't both sides working to protect the meeting? +Why are they still butting heads when the meeting's about to begin...
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:The master of this house doesn't seem to like some of the guests, nobody's to blame for that.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Urgh...so you're saying it's because of bad historical relationships... +Even without the disturbance outside, can a peace conference like this really proceed "peacefully"?
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:We shouldn't be worrying about that. +I just hope the Statesec agents won't focus all their attention on those friendly and welcoming security troopers. +Something's wrong in the conference hall.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Huh?
+()<Speaker>Commander</Speaker>||:X95, do you read me?
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>Your orders, Commander?</color>
+X95(0)<Speaker>Commander</Speaker>||:How's your situation?
+X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Everything's going as planned, apart from the fact that posing as a waitress Doll is a little uncomfortable...</color>
+X95(0)<Speaker>Commander</Speaker>||:Bear with it for a little longer.+Have you verified that all the corridors inside the conference hall are clear?
+X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Yes, I'm sending over the corridor and route information. Other than the normal, guarded corridors, 90% of the emergency exits have been locked down. Half of them are metal fire doors and I visually estimate that one would need in excess of 800 grams of explosive to wreck them. While that might have been done for security purposes, this method of sealing off the exit might lead to the personnel being unable to evacuate swiftly if something happens inside.</color>
+X95(0)<Speaker>Commander</Speaker>||:Received. Continue gathering information.
+X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Yes, Commander.</color>
+()<Speaker>Commander</Speaker>||:Other than the corridors being under control, the deployment of security details throughout the building makes no sense. There are too few personnel inside, and most of them are concentrated at the entrances for vetting. In addition, I can't see our Statesec agents.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Could the lack of manpower here be due to the original staff being assigned other duties? Maybe they'll come back later? +And sealing off the exits can also be interpreted as them wanting to avoid outsiders getting in... Aren't you being too nervous, Commander?
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:I don't know.  +But at the very least, I can't think of a logical motive behind these security arrangements.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Then...should I report this to K?
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:...There's no way he would have overlooked these details. +We can't tell what he's thinking, but we have to assume the worst to give ourselves some leeway. +X95, your original area of responsibility will now be handled by people from Lewis' team. Reposition downstairs and prepare yourself to curb any situations that break out inside.
+X95(0)<Speaker>X95</Speaker><通讯框>||:Yes, understood.
+Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>Commander, the United Nations convoy has arrived. The VIP is entering the conference hall.</color>
+Lewis(0)<Speaker>Commander</Speaker>||:Can you verify her identity?
+Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>I can confirm that she is indeed Gilda Ulrich, Chairwoman of the Pan-European Cooperation Initiative's Executive Committee... Let me take a look at her details.</color>+<color=#00CCFF>West German, born in 2029. In '52, she was apparently involved in the Weihnachtsmärkt Incident at the border that nearly developed into a violent conflict and kept a confrontation between the people and Soviet troops from turning bloody.</color>+<color=#00CCFF>As one of the few females on the executive committee, Gilda has gained the trust of her superiors and colleagues with her mature and calm methods as well as her efficiency.</color>+<color=#00CCFF>In '63, the former executive committee Chairman Weldon Kurz was forced to resign his post due to heart disease, and with the backing of the council, this young and capable member of the executive committee assumed the weighty responsibility of Chairwoman.</color>+<color=#00CCFF>As the lady official who single-handedly shoulders the burden of coordinating the economic institutions of Europe and elaborating on the Pan-European Reconstruction Plan, Gilda Ulrich is merely 34 years old.</color>+<color=#00CCFF>Uwah, she's a chairwoman at such a young age...</color>+<color=#00CCFF>It's exactly like the information Mr. K provided... Looks like she's a very dependable woman.</color>+<color=#00CCFF>Ah...the protestors outside the conference hall are starting to get agitated.</color>+<color=#00CCFF>From where I'm looking, it appears that they're planning to charge the MPs' defensive line...</color>
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Has it...already begun...
+()<Speaker>Commander</Speaker>||:The hidden threat might use this opportunity to take action. Everyone, stay alert. +All surveillance posts, report in.
+Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>This is bad! We have a situation here!</color>+<color=#00CCFF>There's a human in a balaclava moving through the crowd from the outside, and he seems to be holding an explosive!</color>+<color=#00CCFF>Uh, permission to open fire? Oh no, he's almost at the  defense line!</color>+<color=#00CCFF>He—</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:BOOM! +There is a tremendous explosion!
+()<Speaker>Commander</Speaker>||<BGM>BGM_Danger</BGM>:What happened?! What's going on outside!
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander— Ow (a burst of piercing static rings out from the earpiece) +Our comm signals are being jammed!
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:They've begun their information lockdown. The following scenes are not fit for worldwide broadcast. Switch over to the backup circuit. It seems the Zener-only internal comms that K prepared for us are about to see use.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Already on it, switching over to the pre-planned circuit... Alright, comms for all the teams are back to normal! +The surveillance teams are reporting a terrorist attack outside! A suicide bomber blew himself up at the door to the conference hall! +Number of MP casualties are unknown!
+P22(0)<Speaker>P22</Speaker>||:<color=#00CCFF>Commander!</color>+<color=#00CCFF>A truck broadcasting hidden threat signals has appeared in the back streets and it's driving towards the conference hall at high speed.</color>+<color=#00CCFF>No, wait...there are high-speed vehicles coming from all directions! I've spotted nine of them; ETA is roughly three minutes!</color>
+()<Speaker>Commander</Speaker>||:As I thought, they weren't going to give up without a fight.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Commander.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:I figured you'd contact me around now. +We've spotted the mobile targets moving in from the outside, shall we destroy them all?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>You're responsible for the three roads behind the conference hall. The Statesec field agent team will handle the rest.</color>
+NPC-Jason(0)<Speaker>Commander</Speaker>||:Can't let us take all the credit...is that it?
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>You'll get what you want. Now get to work.</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>Is it going to start at last?</color>+<color=#00CCFF>The White Faction...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>No matter what they're plotting, all we have to do is wreck every single person who tries to come close!</color>+<color=#00CCFF>Hehe, we've done too many boring missions, now it's time for a real workout!</color>
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<通讯框>:<color=#00CCFF>Commander, the MPs have restored the defensive perimeter, and they're opening fire on the protestors!</color>
+()<Speaker>Commander</Speaker>||:So we're going to open a peace conference with a massacre... How ironic...
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>What should we do now, Commander?</color>
+()<Speaker>Commander</Speaker>||<黑点1>:Lock down the district roads that K indicated and exterminate any hidden threat units and vehicles. +All units be advised, the protestors are not our enemy, take care not to harm any civilians by accident.
+()||<黑屏2><BIN>182</BIN><SE2>Gunfight</SE2><CGDelay>0.7</CGDelay><BGM>BGM_Empty</BGM>:...
+RO635(0)<Speaker>RO635</Speaker><BGM>BGM_Sneak</BGM>||<BGM>BGM_Sneak</BGM>:Whew...trying to stop vehicle-borne enemies with small arms is just too difficult!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It's not so bad, right? We did it, didn't we?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:That's because you have a grenade launcher! If only the HOCs could have opened fire too...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hahaha, I think it's more fun when I do it myself! Do you want me to fit you with my grenade launcher?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Er...I think not. +Fortunately we only need to handle three roads, the Statesec agents are finally making themselves useful...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I don't think three roads are enough! I've been pent up for too long, I'd rather have a bigger BOOOOM!
+RO635(0)<Speaker>RO635</Speaker>||:(Groans)I can't be bothered to nag you anymore... +... +Huh? The sounds of the disturbance are dying down... Is it over already?
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>RO, have you eliminated the enemies outside?</color>
+RO635(0)<Speaker>RO635</Speaker>;NPC-KalinReporter(0)||:Let me check with the other teams... Hm, the other teams are confirming that the hidden threat signals have completely vanished.
+RO635(0);NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Thank you all for your hard work~</color>+<color=#00CCFF>According to the surveillance teams, the MPs have regained control of the main entrance to the conference hall and the protestors have been almost completely dispersed. Things should be returning to normal soon.</color>
+RO635(0)<Speaker>RO635</Speaker>||:Phew...hopefully things will end with that.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Aw...was that the last enemy...? +But why...I didn't even get to enjoy myself...
+()<Speaker></Speaker>||<黑屏2><BIN>84</BIN>:...In the distance.
+NPC-Nimogen(0)<Speaker>???</Speaker>||:Heeheehee... Didn't get to enjoy yourself, you say? +Don't be in such a rush, my pretty, you haven't even set foot into the banquet yet~ +Although, speaking of which, didn't I say before that such crude methods were useless? +Honestly, they didn't listen at all. They're stupid, and stupid. People deserve to die in a stupid way. +Heeheehee, the idiots outside are already dead, but how about the ones inside? +I look forward to it~
+()<Speaker></Speaker>||<黑屏1>:...
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||<BIN>97</BIN><黑屏2>:"Our old wounds show our past mistakes. We should not be grateful for the hardships we have experienced, but neither can we deny them."
+()<Speaker></Speaker>||:...The reporters' shutters do not stop for a moment, and countless television cameras stream the press conference live from the summit.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Let's see what's on TV... +"...The representative of the Pan-European Convention on Mutual Assistance in Reconstruction, Chairwoman Gilda Ulrich and Ambassador Roshchin, Plenipotentiary of the Neo-Soviet Council of Mutual Assistance in Europe, have begun making their joint statement according to schedule. Chairwoman Ulrich once again stresses the importance of the United Nations in rebuilding Europe, and conveys the goodwill of the PECMAR to the Neo-Soviet Union's ambassador..." +Speaking of which, that news program from earlier didn't mention Chairwoman Ulrich would be coming, did it?
+NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:It's quite normal to change candidates at the last minute to protect against sabotage or assassination.
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:That's true... +But I didn't expect the press to not mention the clash outside at all... +It's as though nobody cared that such a big explosion happened, like the inside and outside were two different worlds...
+()<Speaker>Commander</Speaker>||:Even if rivers of blood flowed, the people on top would only let the world see what they wanted to show them. +We should be thanking our lucky stars that this meeting is going to close out at this pace instead of worrying about unnecessary things. +... +(The enemies outside have been dealt with...but is that really the end of the threats... What about the abnormalities inside the conference hall... Was I really overthinking things?)
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:"If there were no storms, we would not understand the value of calm days. Peace has never been something that could be easily obtained. If anyone overlooks that point, then peace will never come—"
+()<Speaker>Commander</Speaker>||:...Her speech is pretty much by the book...
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>Commander.</color>
+X95(0)<Speaker>Commander</Speaker>||:Hm...?
+X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>You need to hear this.</color>
+()<Speaker></Speaker>||:<color=#00CCFF>"Our comrades outside have been slaughtered, we can't continue the plan!"</color>+<color=#00CCFF>"What the hell are you saying?! We can't let our comrades' sacrifice be in vain! We have to finish our mission, even if we're the only ones left!"</color>
+()<Speaker>Commander</Speaker>||:When was this recorded?
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>30 seconds ago. I set up a directional mic as you instructed, and I picked this up. It was very soft, and it came from the conference room, where you are. The lounge is sealed off and I can't enter, so I couldn't pinpoint the speakers' location.</color>
+X95(0)<Speaker>Commander</Speaker>||:Understood. Try to think of a way to get a more accurate fix. Also, have the infiltration team get ready for battle.
+X95(0)<Speaker>X95</Speaker>||:<color=#00CCFF>Yes, Commander.</color>
+()<Speaker></Speaker>||:...
+()<Speaker></Speaker>||:...Out of the corner of my eye, I suddenly notice that the Belgradian security troopers have silently and unobtrusively grown in number. The troopers outside the secure doors whisper to each other with their mouths covered, then they suddenly close the main door. Meanwhile, the security troopers beside the stage gather in an unnatural way.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Mr. Rossartre once warned us that every man's fate was not unconnected, that our common destiny was composed of countless individual destinies combined into one, but meaningless suspicion and resistance have turned us from unity to division and dissipation, and have also led to wars turning our homes into rubble. +In the past, people were sacrificed for their nations' survival. These pointless sacrifices must end now! +This sacrifice should be borne by more responsible people, and this meeting is to build a consensus among those great nations who are possessed of such responsibility. Only with true, sincere cooperation, by building trust, and by joining our hands once more can we avert the tragedy of further sacrifice! Thank you, everyone!
+()<Speaker></Speaker>||:The audience erupts into thunderous applause. Chairwoman Ulrich bows humbly to them, then she nods to Ambassador Roshchin behind her before preparing to step off the stage.
+()<Speaker>Security Trooper</Speaker>||<BGM>BGM_Empty</BGM>:Madam Chairwoman, a moment please.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Is something the matter?
+()<Speaker></Speaker>||:...Bang! +A gunshot echoes through the conference room. +The security trooper suddenly fired into the air, freezing everyone present in place.
+()<Speaker>Security Trooper</Speaker>||:Yes, Madam Chairwoman, something very important is about to happen! +Our wrath can no longer be contained, and today we will expose your lies to the public!
+()<Speaker></Speaker>||<黑屏1>:I look around. The main door to the conference hall is sealed tight and the ten-odd security troopers around us are pointing the jet-black muzzles of their guns at everyone present. +At me, at Kalina, at the other reporters, and...at the ambassador on the stage.

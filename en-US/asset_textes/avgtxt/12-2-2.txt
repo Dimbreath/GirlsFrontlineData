@@ -1,0 +1,115 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+RO635(0)<Speaker>RO635</Speaker>||<BIN>202</BIN><黑屏2>:I seem quite suited for organizing files. +Maybe I can find a job like this after I retire as a Tactical Doll.
+RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Right, you can take over from me here. All that's left is to separate and extract the relevant memories.
+RO635(0)<Speaker>RO635</Speaker>||<白屏1>:Understood. I'll begin the process now.
+()||<白屏2><BIN>72</BIN>:In the expansive cyberspace, an intricate door materializes out of thin air. +The door is decorated with engravings of flowers and ivies. 
+Dandelion()||:Looks like you've found the memory fragments.
+()||:RO slowly pushes the door open.
+()||:Several identical-looking Isomers lie silently in a familiar sea of Epiphylla, as if trapped in an eternal realm of dreams. +Under the moonlight's tender caress, their bodies dissolve into pastel-colored shards, hovering aimlessly, helplessly. +Images of the memories flash intermittently on the surface of the shards.
+RO635(0)<Speaker>RO635</Speaker>||:Are these the memory fragments of the Isomers who merged with OGAS? +Some of Dandelion's own memories are also in the mix. Guess I'll have to dig around for what we're after.
+Dandelion()||:All the memories you touch will be uploaded to the external device. +We can then access the content directly on the outside.
+RO635(0)<Speaker>RO635</Speaker>||:I see. I'll start processing them.
+()||<BGM>BGM_Empty</BGM><黑屏1>:RO reaches out and touches a dim memory fragment tentatively.
+M16A1()||<BIN>127</BIN><黑屏2>:【When you become stronger, we'll meet again.】
+M4A1()||:...
+ST AR-15()||:Was this...back then?
+M4A1()||:That's right. This was from when I went after Mastermind after the Collapse Fluid dirty bomb went off.
+()<Speaker>Commander</Speaker>||:So it really was you who were trying to beat the Military to Mastermind.
+M4A1()||:You know about that, Commander?
+()<Speaker>Commander</Speaker>||:After the explosion, Ange gave me a sitrep. +But she lost touch with you back then, so that's all I knew.
+M4A1()||:I'm sorry...Commander...for detonating the dirty bomb... +I know you were gravely injured in that explosion. +Griffin also lost a lot of capable Dolls. +They will never return. Their consciousness vanished from the surface of the earth forever. +If only I had done better back then...
+()<Speaker>Commander</Speaker>||:If you hadn't detonated the bomb, I would've disappeared just like them. +The battlefield has no room for what-ifs. You saved us, and you did your best.
+M4A1()||:But I failed my mission even after making such a huge sacrifice...
+()||<BGM>BGM_Sad</BGM><黑屏1>:M4 laments as she stares at herself in the past.
+()||<BIN>99</BIN><黑屏2>:M4 knew that her magazine was empty, yet she still held down her trigger helplessly. +The entire world went still. +The Intercontinental Railway rumbled on. +The frigid wind howled. +A branch snapped from the heavy snow. +Everything faded away. +Leaving only the empty clicks of M4's trigger. +She wasn't even sure if she was actually squeezing the trigger or if she was just imagining the sound. +"Click, click, click..."
+M16A1()||:It's time.
+()<Speaker></Speaker>||<闪屏><duration>10</duration><rate>20</rate><delay>30</delay></Pic><CG>52,99</CG></闪屏>:M4 looked up. A carrier had shown up above them without her noticing. M16 grabbed onto the long rope ladder hanging down. +She took one last glance at M4 before she climbed up with Elisa over her shoulder. +M4 was left all alone on the roof of the train. +She looked up and watched M16's figure vanish into the distance in a daze.
+()||:M4's silent world was suddenly thrown into turmoil and confusion as what felt like an invisible wave of air came crashing over her. +She stumbled several steps back. +A violent explosion occurred in the first carriage of the train and the flames started racing towards M4. +She steadied herself by reflex and turned around immediately, dashing in the other direction towards the end of the train.
+M4A1Mod(0)<Speaker>M4A1</Speaker>()||:16... +Why... +WHY?!!!
+()||<SE1>Explode</SE1>:The chain of explosions consumed one carriage after another. Soon, M4 was cornered onto the final carriage – there was no escape.
+M4A1Mod(0)<Speaker>M4A1</Speaker>()||:Is this it...?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BGM>BGM_Empty</BGM>:M4! +M4, jump!!
+()||:ST AR-15's shout pierced right through the haze that had been muffling M4's mind like a sharp blade, and a multitude of sounds finally started registering in her ears again. +The howling wind and thunderous explosions suddenly grew clear and washed over her like a crashing wave. +She grew dizzy for a moment. +ST AR-15 was riding a motorcycle, desperately trying to catch up with the intercontinental train. +She kept trying to inch closer to the hurtling vehicle. +There was no room for M4 to hesitate with the blazing flame behind her. +She looked back and wanted to answer ST AR-15, but she had run out of space to run.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I'll catch you! Just jump!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>1</Shake>||:15! I'm counting on you!
+()||<SE1>AVG_brake</SE1><震屏3>:M4 leaped off the train. ST AR-15 hurriedly adjusted her position and tried to grab M4 by the torso. +M4 slammed heavily in ST AR-15 and the motorcycle went spinning out of control. +The two Dolls were thrown off and crashed onto the ground. +Meanwhile, the train in the distance ran off the rails amidst the explosions. Heavy smoke rose into the sky... +Blocking their view of the receding Sangvis aircraft.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Cough...cough... M4, you okay?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm fine... Some of my internal support structure is damaged... But I think I can still stand.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I didn't expect Sangvis Ferri would still have resources left to rescue Mastermind. +We have to think of a way to track that carrier.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:No...it wasn't S.F...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Not S.F...? What do you mean?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:The one who rescued Mastermind was... +It was...
+()||:M4 bit her lip as ST AR-15 stared at her wordlessly.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:It was M16. +M16...she betrayed us...
+AR15Mod(0)<Speaker>ST AR-15</Speaker><Shake>;M4A1Mod(0)||<SE1>Heartbeat</SE1>:W...what...?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:RO...and even SOP-II could already be... +If that's true, then the AR Team...no longer exists.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:...
+()||:Everything fell silent. The sound of the roaring blaze filled the world.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Our team is gone... The mission was a failure... +Even Griffin could've been destroyed because of me... +The theater became a contamination zone... +As humans, Ange and the Commander were probably also...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Shut up!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:It's all my fault...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I said shut up!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:We have to leave this place.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:But where can we go?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I...don't know either...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...You see? We have nowhere to go...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:Stop it. You stay here. I'll think of something!
+()||<BIN>9</BIN><黑屏1>:...About ten minutes later.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN><黑屏2>:This is bad... The motorcycle is completely busted... +Under the circumstances, there's no way we can get the parts to repair it. +M4, any response to your transmissions?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:M4!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Nothing... No matter who I called, nobody picked up...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Same here...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:It was all for nothing... We don't even have a place to go back to anymore...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Someone will answer us, I'm sure of it...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Do you really believe that? +Think about what happened after we set off in pursuit of Mastermind... +Under such circumstances, who could possibly survive that...?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I...don't know...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Say...15... Even though I used to be the leader of the AR Team... +I never felt like I truly had a chance to make my own decision... +But if I were to make a choice right here, would you support me?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Although I've always thought you're a lousy team leader, I'll never disobey your order.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Really...? +What if I overload M16's particle cannon right here? +We'll disappear off the surface of this world when it explodes...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Aren't you going to stop me?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Not if it's really what you wish to do.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I think... +I'm just... +Really tired of it all...
+()||<黑屏1>:M4 slowly charged the particle cannon but kept the barrel closed.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM><BIN>9</BIN><黑屏2>:If I can end it here...
+()<Speaker>Clear Voice</Speaker>||:No, this isn't the end yet.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:!!
+()<Speaker>Clear Voice</Speaker>||:Everything has only just begun. You cannot make such a choice.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I never can! +Everyone is always taking my choices away from me! +I've had enough!
+()<Speaker>Clear Voice</Speaker>||:Only those who survive get to make choices, so you must listen to me...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:No, I don't want to hear your voice at all!
+()<Speaker>Clear Voice</Speaker>||:But you must. New enemies are amassing in the vicinity. +There are still Griffin signals out there. This battle isn't over yet.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:It's all over! +I failed! I screwed it all up! +I no longer...have a purpose...of living...
+()<Speaker>Clear Voice</Speaker>||:No, you have to live on. +Your past, your present, as well as the mystery that you still haven't solved are all waiting for you.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:You mean YOUR mystery! +I don't know what you're trying to do, but all this time you've been deceiving me, tricking me! +Just accept it! You're getting blown to kingdom come along with me!
+()<Speaker>Clear Voice</Speaker>||<黑屏1>:... +In that case, there is no other way. I do not want to do this, but it's for your own good – for "us".
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE1>AVG_whitenoise</SE1><BIN>99</BIN><黑屏2>:...!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BGM>BGM_Empty</BGM>:M4...what's up with you?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:M4?
+()||:M4 released the finger that had been squeezing the charging trigger and slung the particle cannon back onto her back.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Nothing. We need to find a military signal relay. +We might be able to gather information on the current situation by hacking into the military network.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Weren't you...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I changed my mind. This isn't the time for that kind of thing. +We're too far away from the theater. We've got to re-establish communications. +With both Ange and Griffin.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:You...have a point. +What got you to calm down all of a sudden?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:I can't afford to not calm down at a time like this. We need to hurry.
+RO635(0)<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:Back then...you were controlling M4's actions, Dandelion?
+RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I didn't have a choice. Lunasia lost all motivation. +So I had to remove her from critical danger. +Two Tactical Dolls wandering in the wilderness would soon attract Paradeus' attention. +If "Father" had gotten to them, it would have exacerbated the situation dramatically.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:The white enemies... I was trapped inside a Dinergate, but they still made a huge impression...
+()<Speaker>Commander</Speaker>||:Force fields.
+RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's right, which is why I decided to avoid them. +ST AR-15, you already noticed something odd about Lunasia back then, didn't you?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||:She suddenly became so gung-ho, it just wasn't her style. +But if letting you take control meant getting her out of that... +Then all I could do was to bear with it.
+AR15Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Ultimately, victory is all that matters – everything else can be sacrificed. +How very characteristic of the AR Team.
+()<Speaker>Commander</Speaker>||:...So M4 and AR-15 only escaped because of your intervention.
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Lunasia suffered from trauma that's far beyond your imagination. She had been second-guessing and blaming herself this whole time. +But I couldn't let her destroy herself just like that. She's worth more than anyone could fathom.
+()<Speaker>Commander</Speaker>||:What do you mean?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:You'll understand in time. Now I'd like to get on with uploading her memories.
+()<Speaker>Commander</Speaker>||:...Alright.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:I...I'd rather not be so valuable.
+M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:The worth of your existence is an objective fact. Being in denial doesn't change that.
+()<Speaker>Commander</Speaker>||:Ahem... +So how did you and AR-15 make it back? +I knew nothing of your whereabouts throughout the entire withdrawal.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||<黑屏1>:Let's keep watching. Everything is documented fully in M4's memory fragments. +Soon you'll see what we encountered, Commander.

@@ -1,0 +1,125 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1>:...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:...Who is this?
+()||:M4A1 fumbles through the impenetrable darkness, following the voice.
+()<Speaker>???</Speaker>||:...You came. I knew you would.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Who are you? Are you talking to me?
+()||<白屏1><SE1>AVG_footsteps_cave</SE1>:M4 stumbles forward as she follows along, and discovers a faint light coming from a point not too far away. It seems to be some kind of cave exit.
+()<Speaker>M4A1</Speaker>||<白屏2><BIN>200</BIN>:Ugh...
+()||:M4 leaves the darkness and arrives in a field of pure white flowers. The wave of fragrance that washes over her is so overpowering it stings the nose a little.+The intense brightness of suddenly arriving in the outside world is a little too much for M4, and she covers her eyes.
+()||:Squinting at the light, her blurred vision picks up someone standing in the middle of the sea of flowers.
+()<Speaker>M4A1</Speaker>||:You are...
+()<Speaker>???</Speaker>||:Father told us that we were connected.+But it is only now that I realize he was not referring to me and her, but to everyone.
+()<Speaker>M4A1</Speaker>||:What are you talking about?
+()<Speaker>???</Speaker>||:If you can speak to me now, that means you are my friend...+Come, come to where we are, with the will that you bear.
+()<Speaker>M4A1</Speaker>||:The will...that I bear?
+()<Speaker>???</Speaker>||:We all spring from the same source... She and I, you and it, we are all the same. +Therefore, we ought to return to the same place, shouldn't we?
+()<Speaker>Familiar Voice</Speaker>||:M... +M...4...
+()<Speaker>Familiar Voice</Speaker>||<震屏><BGM>BGM_Empty</BGM>:...M4A1!
+()||<BIN>9</BIN><黑屏1><SE1>AVG_tele_disconnect</SE1>：
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>55</BIN>:Hey, M4? M4!
+AR15Mod(2);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Ah... What's going on, AR-15?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||:You tell me. +Did something happen to your neural cloud again? You've been spacing out more and more often lately.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm fine, there's no need to worry.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I sure hope so. Things have only just gotten back to normal. It would be terribly ironic if something went wrong with you again.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Mm, sorry to make you worry.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I told you not to make contact with that thing too often.
+AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:No...what happened just now wasn't because of that.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Honestly... Arghhh, forget it. +What's our position?
+AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Our coordinates are LD-342-517-90, on the outskirts of Tallinn.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Well, we've walked a long way and haven't found any threats in this region. +Let's head back. RO's calling us. 
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:RO635 and SOP-II have finished searching their sectors. We need to keep pace with them. Don't keep them waiting. 
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Alright, let's go.
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1><黑屏1><BIN>9</BIN>:Lunasia... +Lunasia...
+()||<BGM>BGM_Truth</BGM><黑屏2><BIN>177</BIN>:
+()<Speaker>M4A1</Speaker>||:...What do you want? +I already told you that I don't want to hear your voice unless it's an emergency.
+()<Speaker>Clear Voice</Speaker>||:I just wanted to inform you that I can sense a presence nearby which resonates with me.
+()<Speaker>M4A1</Speaker>||:And why are you going out of your way to tell me this?
+()<Speaker>Clear Voice</Speaker>||:Because it feels very strange. +I've never felt anything like this before, and that typically implies...danger.
+()<Speaker>M4A1</Speaker>||:Is that so... +Since you're saying you've never felt this before, then...it probably isn't a Nyto or 16, right?
+()<Speaker>Clear Voice</Speaker>||:It's not quite the same. I can't be sure. All I can say is that it's a signal that's similar to ours.
+()<Speaker>M4A1</Speaker>||:Just now, someone forced a connection to me. It seems they were trying to tell me something.
+()<Speaker>Clear Voice</Speaker>||:I saw it too. Do you need me to backtrace it?
+()<Speaker>M4A1</Speaker>||:You don't need to do anything. I'll decide what should be done.
+()<Speaker>Clear Voice</Speaker>||:You've grown stronger.
+()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Because I had to.
+()||<黑屏2><BIN>55</BIN>:At the same time, somewhere else outside Tallinn.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>m_avg_casual</BGM>:RO, I'm boooooored~
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:Calm down, I've already sent a transmission to M4 and AR-15, I've told them to meet us here. +Still, you'll probably feel bored even when they get back. After all, we're still on a mission.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Ehhhh... +It feels like time just flew by after we were reunited. We barely had a chance to talk.
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:I understand how you feel, but let's focus on the mission for now. +We've got a lot of time ahead of us, enough for us to talk as much as we want — provided what happened before doesn't happen again.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Humph! I'll never let that happen!
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:Same here. None of us want to be separated again. So be careful and keep an eye on your surroundings.
+M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:Speaking of which, there's no sign of the Griffin Dolls who went in before us... Did they run into trouble?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(3)||<BGM>BGM_Empty</BGM>:Huh? Wait a minute, do you feel that, RO?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(3)||<BGM>BGM_Room</BGM>:It's like something's watching us from nearby...
+M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:Don't say weird things like that, it sounds spooky. 
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It's true! And it's close by! +Bearing 260, 25 meters away, behind the bushes!
+RO635(4)<Speaker>RO635</Speaker>||:...Alright.
+RO635(3)<Speaker>RO635</Speaker>||<SE1>Select</SE1>:Is that you, SSG 3000? You can come out now.
+()<Speaker>???</Speaker>||:Oh, I didn't expect you to find me so soon. Members of the AR Team really are something else.
+()||:The Doll hidden in the distance disables the thermoptic camouflage of her cloak and approaches them in greeting.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Could you not point your gun at me? I'm SSG 3000, a Doll from Griffin Recon Group A. Pleased to meet you.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Haha, I told you someone was there! See, RO? I was right!
+RO635(4)<Speaker>RO635</Speaker>||:You...why were you hiding there and spying on us without saying a thing?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Well...how shall I put it... Occupational disease, I guess. +You guys are a hot topic among our echelon. +Being able to observe members of the legendary AR Team though my scope is a rare opportunity.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Do people really care so much about us? I thought hardly anyone would recognize us since we always carry out ops on our own!
+RO635(0)<Speaker>RO635</Speaker>||:That's enough, SOP-II. No need to mention things that aren't relevant to the mission. +So you're a member of the forward recon team that entered Tallinn, but you're here now... Did you get separated from your teammates?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Yes. My friends and I proceeded to Tallinn immediately upon receiving our orders. But we encountered some kind of strange interference...and we lost contact shortly afterwards.
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like our new friends have arrived. </color>
+()||:RO635 looks up and sees the silhouettes of M4A1 and ST AR-15 on a peak in the distance.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||<黑屏1>:Are they the other members of the AR Team? If so, how about waiting for them to come over so I can brief you all at once? That way I won't have to repeat myself.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||<黑屏2><BIN>55</BIN>:...And that's what happened.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:So you didn't find any trace of Paradeus nearby?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:That's right. Before I got separated from my other teammates, the only things we encountered were a few ELID infectees, contaminated creatures, and some unmanned defensive devices that haven't been maintained in a long time.
+RO635(0)<Speaker>RO635</Speaker>||:M4, did you guys find anything?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:That's the strangest thing... We didn't find traces of anything suspicious either.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Perhaps we're a step ahead of those white bastards for once. 
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Tallinn is the Intercontinental Railway hub that's closest to the Paldiski Submarine Base, which once housed a Pike Node. There's no way the enemy would just let us pass without incident. +Even if Paradeus did, S.F. and the Military wouldn't.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We won't get anywhere just sitting around and playing guessing games, right, M4? +If we want to learn the answer, then all we can do is continue pushing into Tallinn. The truth will be revealed eventually!
+RO635(0)<Speaker>RO635</Speaker>||:SOP-II's right. Nothing will come of waiting here. +The Commander's train has to pass through Tallinn City Station in order to go past Tallinn...and the city will be the perfect site for an ambush. 
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:So no matter what, it seems we can't avoid venturing deeper into Tallinn. 
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:It doesn't matter. I didn't come here expecting an uneventful train ride. 
+()||<BGM>BGM_Empty</BGM>:M4 looks at all the gathered Griffin Dolls and takes a deep breath.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(This time, I won't let anyone get hurt or taken away.) +(I need to become stronger... I'm different from how I was back then... I can do this.)
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...M4? Is there anything you'd like to tell us?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_stage7</BGM>:While there's a lot I'd like to say, I should probably make it quick. +Although we're all gathered here now, that hasn't improved things much. +The sooner we realize that, the better we'll be able to prepare for the situation ahead of us. +But no matter what comes next, there's nothing for us to fear. +I can't promise anything more than this, but I do hope — that this time, I'll be able to bring everyone home together.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Wow, that speech didn't sound terribly encouraging...
+()||:Looking back, SSG 3000 realizes that the Dolls around her all have complicated expressions on their faces.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The AR Team doesn't need special encouragement to complete our missions.
+RO635(0)<Speaker>RO635</Speaker>||:For us, "bringing everyone home" is the best motivation.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:We'll overcome any difficulties for the sake of that goal! +And we'll keep you safe too, of course!
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:People always say special ops Dolls are all arrogant and smug. +But maybe that's not the case, hm? Sounds like everyone in your team has a story to tell.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yes, they're all very long stories. Would you like to hear them once we complete the mission?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:My team leader once said that movie characters who make promises like that almost always end up dying... Just kidding. +Speaking of which, I've gotten separated from my team, but if they didn't run into any enemies, they'd have gone further into the city to scout. So what should we do next?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I've already pinpointed their positions for you. Go meet up with your team and carry on with your previous mission.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||<SE1>Runstep</SE1>:Thank you. I'll make a move first, then.
+()||:M4A1 turns around and faces the other members of her team.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<白屏1>:The Commander's already confirmed that our mission is now to scout out Tallinn City Station. Let's move out.
+()||<白屏2><BIN>207</BIN>:M4 looks toward their objective, where a few sets of railway tracks can be seen extending in a straight line across the sprawling plains, connecting to the distant horizon. +The dazzling sunshine blends with the scenery, making Tallinn's skyline appear like a mirage.
+()<Speaker>M4A1</Speaker>||<黑屏1>:(So there's a signal which can resonate with OGAS... Once we get there, we'll find out exactly what it is.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

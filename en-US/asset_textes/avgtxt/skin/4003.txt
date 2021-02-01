@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Hello</BGM>:In the Griffin dorms.
+指挥官()<Speaker>Commander</Speaker>||:So you're saying that there's been a stalker in the Griffin base recently?
+LWMMG(0)<Speaker>LWMMG</Speaker>||:Yes. Once I spotted this mysterious stalker, I gathered everyone to help me track them down, but we haven't been able to catch the culprit so far... I apologize for my incompetence.
+LWMMG(0);Lewis(0)<Speaker>Lewis</Speaker>||:Someone also rummaged through the files that I organized... But I couldn't find the culprit.
+LWMMG(0)<Speaker>LWMMG</Speaker>;Lewis(0)||:Could someone be causing trouble on purpose? Maybe they're taking advantage of the fact that Christmas is around the corner...
+LWMMG(0);Lewis(0)<Speaker>Lewis</Speaker>||:That's definitely possible... But even S.F. is preparing for Christmas on their end. +Given that those Dolls are so pretty, I simply can't believe they'd do something like this.
+LWMMG(0)<Speaker>LWMMG</Speaker>;Lewis(0)||:Could it be the Military?
+LWMMG(0);Lewis(0)<Speaker>Lewis</Speaker>||:If the Military found this base, surely they'd dispatch their forces to wipe us out, right?
+LWMMG(0)<Speaker>LWMMG</Speaker>;Lewis(0)||:That's true... To them, we must seem weak enough that they wouldn't even need to scout us out first. +Then could there be a traitor among us?
+LWMMG(0)<Speaker>???</Speaker>;Lewis(0)||:...
+LWMMG(0)<Speaker>LWMMG</Speaker>;Lewis(0)||:Who's there?
+()||<Speaker></Speaker><SE1>RunStep</SE1>:A strange, quiet sound comes from behind the door. LWMMG immediately rushes out and grabs the person standing outside the hall.
+LWMMG(0)||<Speaker>???</Speaker>:Let go of me!
+LWMMG(0)||<Speaker>LWMMG</Speaker>:Quit struggling, there's no way you can... +...HMG21?
+HK21(0)<Speaker>HMG21</Speaker>||<黑点1>:...
+指挥官()<Speaker>Commander</Speaker>||<黑点2>:So you're saying that somebody touched your things too, HMG21?
+HK21(0)<Speaker>HMG21</Speaker>||:I noticed someone following me when I went to look for Big Sis, but when I tried to pursue them, they were nowhere to be found.
+HK21(0)<Speaker>Commander</Speaker>||:This doesn't sound like something which one person could do on their own. But security here is tight, so there's no way a group of people could sneak in here... +(Could it really be a Doll from Griffin? Is it Parapluie? Some kind of hacking attack by Paradeus? I'll need to go check the base's security cameras.) +Don't worry and carry on with your work. I'll take care of this.
+HK21(0);Lewis(0)<Speaker>Lewis</Speaker>||:Please do, Commander!
+LWMMG(0)<Speaker>LWMMG</Speaker>;Lewis(0)||:I'll do my best to uncover more clues.
+LWMMG(0)<Speaker>Commander</Speaker>;Lewis(0)||<黑屏1>:Carry on, ladies.
+()<Speaker></Speaker>||<BIN>18</BIN><BGM>BGM_Empty</BGM><黑屏2>:When I left the dorm, HMG21 followed me out. +At first, I thought we were simply headed the same way, but I didn't expect her to follow me all the way to the door of my office.
+指挥官()<Speaker>Commander</Speaker>||:I believe today's adjutant is someone else, HMG21.
+HK21(0)<Speaker>HMG21</Speaker><Shake>||:Oh! +You suddenly stopped...
+HK21(0)<Speaker>Commander</Speaker>||:My apologies. Is there something you would like to tell me?
+HK21(0)<Speaker>HMG21</Speaker>||:Yes, Commander. +Actually, I spotted that stalker...
+HK21(0)<Speaker>Commander</Speaker>||:You did?
+HK21(0)<Speaker>HMG21</Speaker>||<黑屏1>:Yes, it was...
+()<Speaker>HMG21</Speaker>||<BIN>9</BIN><BGM>BGM_Brain</BGM><黑屏2>:CAWS.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:... +The second hand ticks rhythmically through the repair bay. +I sit in the darkness, quietly waiting for CAWS to return from her mission. +The sound of footsteps approaches the door...
+CAWS()<Speaker>CAWS</Speaker>||<黑屏1>:Aren't you going to turn on the lights, Commander? I didn't know you were so determined to save on the power bill.
+指挥官()<Speaker>Commander</Speaker>||<BIN>70</BIN><黑屏2>:Ah, I've been discovered.
+hkcaws(0)<Speaker>CAWS</Speaker>||<SE1>ClothingUp</SE1>:Of course. The human heartbeat is very distinctive, after all. +Besides, I kept my sensory modules instead of swapping for attack power when I came to work here. I knew you were in here the moment I reached the corridor.
+hkcaws(0)<Speaker>Commander</Speaker>||:I see.
+hkcaws(0)<Speaker>CAWS</Speaker>||:So, what are you doing here? Humans ought to visit the infirmary. Or are you waiting for someone?
+hkcaws(0)<Speaker>Commander</Speaker>||:Isn't anyone else coming?
+hkcaws(0)<Speaker>CAWS</Speaker>||:How could anyone else in my team get hurt? I've always worked as well as I was paid. +I suppose that would mean you're looking for me.
+hkcaws(0)<Speaker>Commander</Speaker>||:Let's get to the point, then. Did you know that recently, there have been many incidents of Dolls being followed in the base?
+hkcaws(0)<Speaker>CAWS</Speaker>||<BGM>BGM_Empty</BGM>:It was me.
+hkcaws(0)<Speaker>Commander</Speaker>||:Just you?
+hkcaws(0)<Speaker>CAWS</Speaker>||:Yes, only me.
+hkcaws(0)<Speaker>Commander</Speaker>||<BGM>BGM_Moon</BGM>:Why? That's not work, is it?
+hkcaws(0)<Speaker>CAWS</Speaker>||:It IS work. Springfield offered me two days' worth of free afternoon tea for two in return for doing the Christmas shopping, and I accepted.
+hkcaws(0)<Speaker>Commander</Speaker>||:Christmas... Ah, Christmas is in a few days. But what does that have to do with you stalking people?
+hkcaws(0)<Speaker>CAWS</Speaker>||:I'm not familiar with most of the Dolls here, so isn't this the sort of lifestyle research you'd do to understand their preferences? +I was careful, but we're all Dolls, so the best I could do was to ensure they didn't realize it was me.
+hkcaws(0)<Speaker>Commander</Speaker>||:But they discovered you in the end, so it wasn't a good means of following them.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Do you have a better idea then, Commander? +Given what you've said, I'm sure you must have a better approach in mind.
+hkcaws(0)<Speaker>Commander</Speaker>||:I understand all the Dolls who work here, even the newcomers. It would be better if I accompanied you on your intel-gathering ventures rather than you going at it by yourself.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Indeed, the plan you suggested is more workable, Commander. +Might I trouble you to accompany me, then?
+hkcaws(0)<Speaker>Commander</Speaker>||:Of course.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Then... Wait, have you finished your work yet?
+hkcaws(0)<Speaker>Commander</Speaker>||<震屏>:Erk!
+hkcaws(0)<Speaker></Speaker>||:CAWS' face remains impassive even after seeing my reaction. All she does is shake her head.
+hkcaws(0)<Speaker>CAWS</Speaker>||:I'll remember to ask you for help. In the meantime, finish up your work first, Commander.
+hkcaws(0)<Speaker>Commander</Speaker>||<黑屏1>:Alright, it's a deal.
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:The next morning. +As I think about the problems that might occur during Christmas, which would come in a few days time, I walk up to my office with a heart filled with worry.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Good morning.
+hkcaws(0)<Speaker>Commander</Speaker>||:Morning... +...+Are you the adjutant on duty today?
+hkcaws(0)<Speaker>CAWS</Speaker>||:I swapped with today's adjutant in order to better carry out my tasks. Let's finish the day's work, Commander.
+hkcaws(0)<Speaker>Commander</Speaker>||:Ah. +(Crap, I talked too big yesterday. Even if it's me, how could I remember what each Doll likes?!)
+hkcaws(0)<Speaker></Speaker>||<黑点1>:However, CAWS obviously cannot hear my inner howl of despair. Seeing as she has settled herself into the adjutant's position, all I can do is cast my worries aside and begin the day's work.
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:In the afternoon.
+hkcaws(0)<Speaker>CAWS</Speaker>||:There, that's all of it. +Is there anything else?
+hkcaws(0)<Speaker>Commander</Speaker>||:No, we finished up pretty quickly today.
+hkcaws(0)<Speaker>CAWS</Speaker>||<BGM>BGM_Sneak</BGM>:The situation called for it, so I gave you my full support. +If there's anything else which needs to be done, we should get started on it right away. Before that, however, I have some questions for you, Commander.
+hkcaws(0)<Speaker>Commander</Speaker>||:Bring it on! +(Don't be nervous, you can do it!）
+hkcaws(0)<Speaker>CAWS</Speaker>||:First question - who does HMG21 like most?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>Gr G3.<c>Gr G36.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:So she's a Doll who values family. Perhaps they should be put on missions together... +No, perhaps matched household items would be better.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:She likes Gr G36? That's a surprise. I hardly ever see them together.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:Er... +(I think I got it wrong.)
+hkcaws(0)<Speaker>CAWS</Speaker>||:Onto the second question. What does Lewis like most?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>Pretty things.<c>Powerful things.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:Indeed, I've heard rumors that she has a predilection for pretty Dolls. +I'll give her a designer ribbon, then.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:I've also heard of her reputation as an arm-wrestling queen. +But what shall I give her? Boxing gloves? Bracers?
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:That sounds weird, but that should work, I guess? +(I think I got it wrong.)
+hkcaws(0)<Speaker>CAWS</Speaker>||:The third question. What does LWMMG like most?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>Thriftiness.<c>The joy of spending money.<c>Me.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:Thriftiness is a good habit. After all, there's no telling when Griffin will suddenly go under. +I'll give her a notebook, then.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:...Is she really like that? Well, if you say so, there must be some basis for it. +I'll give her a discount coupon to encourage her to spend more.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:That works too. +(I think I got it wrong.)
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>3</分支>:Then, shall I tie a ribbon onto you and make you her present?
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>3</分支>:Please tell me you're kidding.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>3</分支>:I'm not.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>3</分支>:Just give her a notebook!
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>3</分支>:A notebook? I'll write that down.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Question four. What does 100 Shiki like most?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>To actualize her own self-worth.<c>To pursue her dreams.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:That's way too abstract. Let's just give her a normal present and you can give it to her in person, Commander.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:According to my observations for the past few days, she's not like that. +Maybe she's the kind who's outwardly reserved but passionate inside... I guess I'll just give her a holographic game card.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:It feels a little... No, it's nothing. +(I think I got it wrong.)
+hkcaws(0)<Speaker>CAWS</Speaker>||:Fifth question, what does Gepard M1 like best?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>Vacation time.<c>Overtime.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:Everybody likes vacation time, but I don't have the authority to give her a holiday. +Perhaps something she can use while she's relaxing... Let's go with a set of new mugs.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:I didn't expect a proper Doll like her to actually like overtime... Let's give her a toy to keep her spirits up.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:...That seems quite practical. +(I think I got it wrong.)
+()<Speaker></Speaker>||<黑点1>:... +The Q&A session goes on for close to an hour. Just as I'm feeling tired, CAWS finally closes the form she's using to collect all this data.
+hkcaws(0)<Speaker>CAWS</Speaker>||<BGM>BGM_Empty</BGM><黑点2>:Alright, we're done.
+hkcaws(0)<Speaker>Commander</Speaker>||<BGM>BGM_Sunshine</BGM>:At last...
+hkcaws(0)<Speaker>CAWS</Speaker>||:I can start shopping for the presents tomorrow. Please check one last time to see that I haven't missed anyone out.
+hkcaws(0)<Speaker>Commander</Speaker>||:I'll take a look.
+hkcaws(0)<Speaker></Speaker>||:I see a lot of things in the form which I'm not sure about. +What were the right answers? +I'll need to verify them again, I secretly decide. +But then...
+hkcaws(0)<Speaker>Commander</Speaker>||:CAWS, did you ask me about Tokarev's present?
+hkcaws(0)<Speaker>CAWS</Speaker>||:No. I thought that I knew enough about what Tokarev liked, so there was no need to waste time doing so.
+hkcaws(0)<Speaker>Commander</Speaker>||:Still, giving Tokarev snacks isn't the best choice.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Are you saying that you know her better than I do?
+hkcaws(0)<Speaker>Commander</Speaker>||:Regrettably, the answer is indeed yes.
+hkcaws(0)<Speaker>CAWS</Speaker>||:I am willing to believe you, but I will require proof for this case. +She often brings snacks over to share with me when she has free time at work. During those occasions, she often has a relaxed smile. Thus, I believe giving her snacks is the right choice.
+hkcaws(0)<Speaker>Commander</Speaker>||:No, she's a gentle and soft-hearted Doll. She only brings snacks over to you because you like eating them.
+hkcaws(0)<Speaker>CAWS</Speaker>||:...Indeed, I've never seen her eat snacks by herself. In that case, what does she like?
+hkcaws(0)<Speaker>Commander</Speaker>||<SE1>Heartbeat</SE1>:...<c>Cats.<c>Cute underwear.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:I'll need proof of that.
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>1</分支>:During the masquerade ball some time ago, she broke character in order to hug a passing cat, even though it meant being hit by several stray arrows. +She usually doesn't bring it up, but I think she likes cats.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>1</分支>:...It's true, I've seen her secretly feeding cats before. +In that case, would giving her a fluffy cat plushie be better?
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>1</分支>:I think so.
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:Is this some kind of sexual harassment, Commander?
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:It's true! +She even kept a picture from one of our previous wedding dress assignments!
+hkcaws(0)<Speaker>CAWS</Speaker>||<分支>2</分支>:...
+hkcaws(0)<Speaker>Commander</Speaker>||<分支>2</分支>:...There's no rush, we can double-check this.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Very well. +Thank you for your correction, Commander. +In that case, I'll...
+hkcaws(0)<Speaker>Commander</Speaker>||:Hang on, you should put the form down for now. We've got new work.
+hkcaws(0)<Speaker>CAWS</Speaker>||:Of course. Carrying out our duties is our top priority.
+hkcaws(0)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:After putting the form away in a hurry, I think of a way to make enough work to keep us busy until it's time to knock off. +After a whole night of confirmation and verification, I hand the amended form back to CAWS.
+()||<BIN>96</BIN><黑屏2>:... +On the night of Christmas Eve.
+M1903(2)<Speaker>Springfield</Speaker>||<BGM>BGM_Hello</BGM>:And that's the end of tonight's party. +Everyone, please remember to collect your presents from me before leaving!
+()||:The crowd erupts in cheers and obediently forms a long queue. +Some Dolls open their presents on the spot, while others leave the venue with their presents in hand. As I look at the faces of the Dolls who opened theirs right away, a feeling of relief washes over me. +At the very least our hard work hasn't been wasted...
+hkcaws(2)<Speaker>CAWS</Speaker>||:How lively. Everyone looks happy, so our work was worth it.
+hkcaws(2)<Speaker>Commander</Speaker>||:Yeah.
+hkcaws(2)<Speaker>CAWS</Speaker>||:Tokarev liked her present very much. I guess you do know her better than me, but that won't necessarily remain true for long.
+hkcaws(2)<Speaker>Commander</Speaker>||:You want to make it a competition?
+hkcaws(2)<Speaker>CAWS</Speaker>||:No, I was just making up my mind. +Oh yes, I heard that the Dolls found another stalker over the course of the past couple of days. Do we need to review the security in our base?
+hkcaws(2)<Speaker>Commander</Speaker>||:Ahem... I guess. We should upgrade our security systems after the New Year. +(I can't very well tell her that I was the new stalker, can I?!)
+hkcaws(2)<Speaker>CAWS</Speaker>||:Wouldn't that be too late?
+hkcaws(2)<Speaker>Commander</Speaker>||:Trust me.
+M1903(2)<Speaker>Springfield</Speaker>;hkcaws(2)||:Oh dear...
+M1903(2)<Speaker>Commander</Speaker>;hkcaws(2)||:What's the matter, Springfield?
+M1903(2)<Speaker>Springfield</Speaker>;hkcaws(2)||:There's one more present left, and there's no name on it.
+M1903(2)<Speaker>Commander</Speaker>;hkcaws(2)||:There's no name on it?
+M1903(2);hkcaws(2)<Speaker>CAWS</Speaker>||:It's your present, Commander, from me.
+M1903(2);hkcaws(2)<Speaker>Commander</Speaker>||:So it's mine? But I've already got mine.
+hkcaws(2)<Speaker>CAWS</Speaker>||:Think of it as thanks for helping me with my job.
+hkcaws(2)<Speaker></Speaker>||:She brings the box over and stuffs it into my hands.
+hkcaws(2)<Speaker>CAWS</Speaker>||:Merry Christmas.
+hkcaws(2)<Speaker></Speaker>||:She looks into my eyes, then she suddenly smiles. +Her golden eyes reflect the sparkling candlelight, and they make me think of many warm things... Amber reflecting the sunlight, the candelabras on Christmas Eve, or perhaps a cup of warm, sweet honey.
+hkcaws(2)<Speaker>CAWS</Speaker>||:Take a guess, Commander. Do you think you'll like what I gave you?

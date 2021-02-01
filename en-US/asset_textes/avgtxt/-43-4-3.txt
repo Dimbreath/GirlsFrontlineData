@@ -1,0 +1,124 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM>:—Somewhat earlier, at the United Nations Plaza.+After being taken over by the Last Man Battalion, this place, which once safeguarded peace, was converted into a military stronghold.+The defenders here were cleared out not long ago. UMP45 spots the human agent who's been guiding them over the radio all this time on the plaza...<下雪></下雪>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Yo, have you been waiting here the whole time?+Come to think of it, I've been wondering where you were all along.+So you were waiting for us at the destination after all, hm?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:It's you...!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:It's me?+Something wrong with that?+It sounds like you have a bone to pick with me.
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:...No, that's not what I meant, Agent.+What about the other agents? Are they not here yet? As I recall, you weren't operating alone.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:I'm the only one here, and I'm going to be the only winner.+...You have the flare gun, right? Give it to me.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:...
+()<Speaker></Speaker>||:UMP45 reaches out to Dima for the most important item in the game.+With the flare gun, the game can enter its final stages. After that, all she has to do is get on the chopper and the winner will be decided.+...At least, that's how it's supposed to be.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Just as 45 thinks Dima is going to hand her the flare gun, Dima suddenly takes a step back.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...+...What a surprise. So even you are going to get between me and the prize money?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:No, that's not it. It's just...+Um... It's a little dangerous to call for the evac chopper when you're fighting by yourself.+We need more manpower to deal with any unexpected things that might come up.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:...Do we now?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:Yes... Once you call the evac chopper, unexpected things are sure to occur.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:How unexpected can they be? Are talking turtles are going to burst out of the sewers or something?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:I'm being serious...urgh!
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:As Dima tries to talk UMP45 down, the latter trains the cold, dark and hollow muzzle of her gun at the NPC.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:You don't sound like you're the least bit afraid of "unexpected things". +The truth is, you know EXACTLY what's going to happen, don't you? Or do you simply not want to give me the gun?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:A-Agent—！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I don't care which it is.+A mere NPC has no right to tell me what to do.
+()<Speaker></Speaker>||:UMP45 snatches the flare gun and points it into the sky.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>287</BIN><SE1>AVG_The_Division_Flare_Gun</SE1>:There is a shrill screech, and a brilliant red light soars into the jet-black sky...
+NPC-Dima(1)<Speaker>Dima</Speaker>||:You... What have you done?!
+()<Speaker></Speaker>||:Almost at the same time, UMP45's vision distorts slightly.
+()<Speaker>Helicopter Pilot</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:—Evac chopper approaching.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well? Nothing much has happened.+Simple enough, wasn't it?
+NPC-Dima(1)<Speaker>Dima</Speaker>||:No! This isn't like what I expected at all!
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:High-threat target detected.
+NPC-Dima(1)<Speaker>Dima</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Aaaaahhhh they're here, we're doomed we're doomed we're doomed!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:Who are you babbling to? + Would you mind shutting the hell up?
+NPC-Dima(1)<Speaker>Dima</Speaker><Shake>0.1</Shake>||:I will not shut... Uwahhhh!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:A black tide of rogue agents floods in, giving them not time to breathe.+As both sides exchange heavy fire, UMP45 precisely and methodically eliminates all the targets approaching her.+Meanwhile, Dima has been pinned inside the cover, but she still seems to be trying to contact somebody else.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:We're doomed... It's over...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:If this is what scares you, then you're pathetic.+These peons can't even come close to hurting me as long as I have enough ammo in reserve. +It'll be a piece of cake to hold out until the chopper arrives.
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:You don't understand! You don't know anything at all!+If you fail here... It means all my previous work will be for nothing!+...Aaaahhhh! When can I get out of this goddamn place?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:I don't know anything?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:That's right! You don't know anything!+These rogue agents aren't the scary part! It's—
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:It's "Hellfire", right?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:...!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:Now that you mention it... I've been meaning to ask this for a while, but I haven't been able to find the opportunity.+Miss Agent, don't you think your behavior is far too unsightly? +And here I had some expectations of you.
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:Er... W-what do you mean...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:You're not an NPC at all. You're a player, like us.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:I...!+I don't understand what you're talking about—
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Dima stands up in an attempt to run away, but then a shot whizzes past her ear.+She gets the message and crouches back down immediately.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:Ahhhh, I'm hit, I'm hit!+I don't want to be stuck in this godforsaken place forever, somebody save me!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:I really am impressed by your sheer nerve. Your masquerade is in tatters and you're STILL trying to carry on pretending?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:Er...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:Of course, if that was it, I wouldn't care at all.+It doesn't matter one bit to me whether you're a player or an NPC. +That is until I noticed one teeny tiny detail...
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:W-what detail?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:If I'm not mistaken, you know me, don't you?+Ever since we met, you've been acting very strangely.+Compared to, oh, someone who was afraid of a dangerous stranger, it was more like you were afraid of ME.+You're afraid of "UMP45".
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:What are you talking about, why would I be scared of you for no reason at all?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:You've been stuck in the game all this time, haven't you?
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:Ye...huh? +W-what do you mean?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Heehee.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower</SE1>:UMP45 chucks a gun turret over the cover. After successfully distracting the rogue agents, she shifts her attention back to Dima.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:Nervous, aren't you? Ja, you should be.+If you're who I think you are, then you should know how I do things.+This game is winner-takes-all, and I will be the winner. I don't care how I reach that outcome as long as I do.+Therefore, right when the game began, I tried a special trick I used before in the past.
+UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:A special trick...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:(Grins) That's right, I gave myself a little access, enough to allow me to check the status of every player logged into this game. Do you know what I found?+Out of the 24 players in the game, 19 of them were from Griffin. After adding my team, the total comes to only 23 people...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:And as for the last player, perhaps they were careless, but they didn't hide their login information. +And the place that player logged in from...surprisingly enough, it's very similar to a place I once visited~
+()<Speaker></Speaker>||:Though surrounded by countless enemies, UMP45 runs through the information she has learned in a playful, mocking tone, then she points a finger at Dima.
+NPC-Dima(1)<Speaker>Dima</Speaker>||:What! Why you! You actually found my server address?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Quit pretending.
+()<Speaker></Speaker>||:UMP45 snatches off Dima's gas mask.
+NPC-Dima(3)<Speaker>Dima</Speaker>||:Aaaaaahhhh! What are you doing?! +I'm dying I'm dying!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I have to say, seeing your performance was quite entertaining, and 416 hasn't even suspected it yet.+Ah, I wonder what kind of amusing faces she and Gr G11 would make if I told them about this. To think Miss Dima, who has been pretending to be an NPC all along, is actually—
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:—Tsk, I didn't expect you to be the first one here.+416 must have gone to great lengths to shake you off.
+()<Speaker></Speaker>||:A gunshot interrupts UMP45's exposition. She looks toward the source of the sound and sees a short-haired Doll. It is Vector.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:You're the other player, right?+Sorry, but I need to win.
+Vector(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:No problem, no problem. That's how competitions are. There must be a loser if there is to be a winner.+You, on the other hand, should have put that bullet into me instead.
+Vector(0)<Speaker>Vector</Speaker>||:I have no grudge with you. I just want to settle this fair and square.
+NPC-Dima(2)<Speaker>Dima</Speaker>||:Don't try to reason with her!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bangbangbang!+Before Dima can finish, while Vector is distracted—+UMP45's gun spews a tongue of flame!
+Vector(0)<Speaker>Vector</Speaker>||:!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Vector swiftly rolls into cover, and the gunshots stitch a line of small bullet holes into the tarmac.
+NPC-Dima(0)<Speaker>Dima</Speaker>||:Hey! Have some class!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Can it.
+()<Speaker></Speaker>||:Rattle rattle rattle...+A discordant note rings out amidst the lethal melody of gunfire.+45's wealth of battle experience beats her about the head and when she looks down, she sees a pair of grenades rolling to her feet.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Scheiße!
+()<Speaker></Speaker>||:She curses quietly, then leaps back like a frightened sparrow.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:BOOM!
+NPC-Dima(3)<Speaker>Dima</Speaker>||:Aaaaaaaahhhh!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I can't believe she could react under those circumstances... That's why I hate high-spec Dolls.
+()<Speaker></Speaker>||:The shockwave from the explosion lifts 45 bodily off the ground and smashes her into a pile of rubble. She can see a huge chunk fall off her HP bar in an instant.+She reflexively bounces back up like a spring, but then she freezes.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Humph.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:Checkmate.
+()<Speaker></Speaker>||:As the dust from the explosion clears and UMP45 stumbles to her feet...+The vacuous black muzzle of Vector's gun looms before her.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, this is embarrassing... You'd better win, elite Doll.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1>:Bang!
+()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:X Tactical Doll Vector killed aaaa.
+NPC-Dima(3)<Speaker>Dima</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...Is-is she dead?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:Are you alright, Miss Dima?
+Vector(0);NPC-Dima(3)<Speaker>Dima</Speaker>||:...I-I'm fine. +Agent, weren't you pursuing 4...the other Agent?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:...Unfortunately, she gave me the slip halfway.+All I could do was come to the meetup point, which brought me to the recent development.+Now that you mention it, I didn't know you looked like this, Miss Dima.
+Vector(0);NPC-Dima(3)<Speaker>Dima</Speaker>||:Er, that... Ahem, that's not important. + Thanks for the rescue.
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:You're welcome. It would seem victory is mine.
+Vector(0);NPC-Dima(3)<Speaker>Dima</Speaker>||:Hm?
+Vector(0)<Speaker>Vector</Speaker>||:All that's left is...
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang!
+()<Speaker></Speaker>||<BGM>GF_xDivision_Battle1</BGM>:A gunshot rings out and a bullet ricochets off a stone wall, narrowly missing Vector.
+HK416Mod(0)<Speaker>416</Speaker>||:Damn you! What have you done?! +You stole my objective...and you killed my friend!
+NPC-Dima(2)<Speaker>Dima</Speaker>||:You know, when I think about how these two things are actually one and the same, I...
+Vector(0)<Speaker>Vector</Speaker>||<SE1>Select</SE1>:Tsk! She's here!
+NPC-Dima(2)<Speaker>Dima</Speaker>||:Wait, wait, you two, stop fighting!
+NPC-Dima(2)<Speaker>Dima</Speaker>||:Whoa—!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:Vector has already thrown out a smoke grenade the moment she heard the gunshot. She then drags Dima behind cover.
+NPC-Dima(3)<Speaker>Dima</Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:L-listen to me!
+Vector(0)<Speaker>Vector</Speaker>||<SE2>Gunfight</SE2><震屏3>:Tsk! Now quit struggling and die, Hellfire!
+HK416Mod(0)<Speaker>416</Speaker>||:That emo name has nothing to do with me!
+NPC-Dima(3)<Speaker>Dima</Speaker><Shake>0.1</Shake>||:Seriously, just listen to me!
+()<Speaker>Helicopter Pilot</Speaker>||<SE1>AVG_whitenoise</SE1>:...Evac Chopper...Now...approaching.
+()||<黑屏1>:
+()<Speaker>???</Speaker>||<黑屏2><BIN>9</BIN>:Are you...ready?<火焰销毁></火焰销毁>
+()<Speaker>???</Speaker>||:The last...battle...
+()||<黑屏1>:
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏2><BIN>288</BIN>:What are those voices?<下雪></下雪>
+Vector(0)<Speaker>Vector</Speaker>||:They're back...
+NPC-Dima(0)<Speaker>Dima</Speaker>||:Voices? What voices?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(0)||:Can't you hear them? They're like a radio signal forcing a connection to me, echoing in my head and saying strange things.
+Vector(0);NPC-Dima(3)<Speaker>Dima</Speaker>||:Strange things?+It-it's "them", it must be "them"!
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:Who?
+NPC-Dima(3)<Speaker>Dima</Speaker>||:(Groans) Your REAL enemies...+"Hellfire" and "Fang."
+()||<黑屏1>:

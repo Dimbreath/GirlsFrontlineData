@@ -1,0 +1,110 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night>:...Midnight, at the criminal HQ, which appears to have been looted.
+TAC50(0)<speaker>TAC-50</speaker>||<BGM>BGM_Sneak</BGM>:Still nothing...
+TEC9(0)<Speaker>TEC-9</Speaker>||:I searched all the usual hiding places, but I didn't find anything either...
+PTRD(0)<Speaker>PTRD</Speaker>||:But why? Where else could those cores be?
+NTW20(0)<speaker>NTW-20</speaker>||:Maybe they aren't here at all.
+TEC9(0)<Speaker>TEC-9</Speaker>||:That's possible... These humans are really cunning...
+PTRD(0)<Speaker>PTRD</Speaker>||:And we still can't contact the Commander...
+NTW20(0)<speaker>NTW-20</speaker>||:That means we'll just have to do this on our own.
+PTRD(0)<Speaker>PTRD</Speaker>||:Let's play it safe and get out of the building first.
+NTW20(0)<speaker>NTW-20</speaker>||:If our intel is correct, there'll be people coming to move the shipment of fire control cores in a few more hours. +If we leave the HQ, we won't be able to intercept the cores as soon as possible.
+PTRD(0)<Speaker>PTRD</Speaker>||:I know that, but we have no idea who these people are, their numbers, their armaments and so on... +It's too risky to stay here and try to ambush them while we're completely in the dark.
+NTW20(0)<speaker>NTW-20</speaker>||:If you're afraid, then leave me here.
+PTRD(0)<Speaker>PTRD</Speaker>||:It's not a matter of being afraid. We're a team, NTW-20.
+NTW20(0)<speaker>NTW-20</speaker>||:Yes, and you were going on and on about maple syrup salad...
+TAC50(0)<speaker>TAC-50</speaker>||:So you DO like my maple syrup salad!
+NTW20(0)<speaker>NTW-20</speaker>||:That's not the point...
+PTRD(0)<Speaker>PTRD</Speaker>||:In any case, we're withdrawing. That's an order.
+NTW20(0)<speaker>NTW-20</speaker>||<BGM>BGM_Empty</BGM><黑屏1>:... +Alright.
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night><BGM>m_avg_casual</BGM>:...1:30am, at the criminal HQ. +It is NTW-20's turn to stand watch, and she takes advantage of the opportunity to sneak back in. She now lies in wait inside the building.
+NTW20(0)<speaker>NTW-20</speaker>||:I should be able to find out where that shipment of high-end fire control cores are being kept within an hour. +Then, all I need to do is disrupt the transportation process. That way I'll be able to complete the mission even without making contact with those humans. +It's like hunting. All I have to do is take aim at the target from a dark corner...
+()<speaker></speaker>||<黑点1>:NTW-20 looks into the spacious hall.
+()<speaker></speaker>||<黑点2><BIN>18</BIN><Night>:...20 minutes later.
+NTW20(0)<speaker>NTW-20</speaker>||:I wonder if they've realized it yet...
+()<speaker></speaker>||<SE1>AVG_door_storehouse</SE1>:The main door suddenly flies open.
+NTW20(0)<speaker>NTW-20</speaker>||:Are they here?!
+()<speaker></speaker>||:NTW-20 holds her breath, aiming her sight at the main door.
+PTRD(0)<Speaker>PTRD</Speaker>||:Come out, NTW-20. I know you're here.
+NTW20(0)<speaker>NTW-20</speaker>||:Why is it you guys again?
+TAC50(0)<speaker>TAC-50</speaker>||:Why did you run off again?
+TEC9(0)<Speaker>TEC-9</Speaker>||:Yeah, you're as sneaky as those humans...
+()<speaker></speaker>||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:Just as they enter the hall, the security klaxon goes off and a set of thick bulletproof shutters come slamming down.
+PTRD(0)<Speaker>PTRD</Speaker>||:What's going on?
+TAC50(0)<speaker>TAC-50</speaker>||:Did we set off some kind of alarm?
+()<speaker></speaker>||<SE1>AVG_whitenoise</SE1>:While they're wondering what is going on, long-dormant loudspeakers come to life.
+()<Speaker>Creepy Male Voice</Speaker>||<BGM>m_avg_tension</BGM>:What a lovely night it is, no? +A bunch of people we've been wanting to take revenge on for a while now have just walked right through our front door.
+NTW20(0)<speaker>NTW-20</speaker>||:... +A trap?
+()<Speaker>Savage Male Voice</Speaker>||:Just as we were starting to worry about running out of operation funds, four high-end fire control cores walk themselves right up to us. +Looks like we're fated to make a comeback, muahahahaha...
+()<Speaker>Creepy Male Voice</Speaker>||:Considering how generous you've been, we'll end your suffering in about 10 minutes.
+NTW20(0)<speaker>NTW-20</speaker>||:...
+()<speaker></speaker>||:The broadcast ends. +NTW-20 tries the door leading out, but finds that it's been completely sealed by the security system.
+TEC9(0)<Speaker>TEC-9</Speaker>||:(Whimpers) After going to all that effort, we still fell into their hands...
+TEC9(0);TAC50(0)<Speaker>TAC-50</Speaker>||:Leader, what do we do now?
+PTRD(0)<Speaker>PTRD</Speaker>;TAC50(0)||:Whew...okay, let me calm down and think...
+PTRD(0);NTW20(0)<Speaker>NTW-20</Speaker>||:TEC-9, are there any other exits here besides the main door?
+TEC9(0)<Speaker>TEC-9</Speaker>;NTW20(0)||:Uhhh...no...
+TEC9(0);PTRD(0)<Speaker>PTRD</Speaker>||:The broadcast said "10 minutes"... +TEC-9, how do they usually deal with Dolls and extract their cores?
+TEC9(0)<Speaker>TEC-9</Speaker>;PTRD(0)||:They have killers, humans who specialize in killing Dolls! They usually work in pairs... +They smash civilian Dolls outright and send them to their specialized dismantlers... +Tactical Dolls might be sent in for reformatting...
+TAC50(0)<Speaker>TAC-50</Speaker>;PTRD(0)||:What should we do? We can't fire on humans, right?
+TAC50(0);PTRD(0)<Speaker>PTRD</Speaker>||:True...but all routes of escape have been cut off...
+PTRD(0)<Speaker>PTRD</Speaker>||:All we can do is think of a way to get past the killers and out of here...
+NTW20(0)<speaker>NTW-20</speaker>||:How did you escape this organization in the past, TEC-9?
+TEC9(0)<Speaker>TEC-9</Speaker>||:I suddenly woke up when I was on the way to being dismantled... +Then I secretly sneaked off their truck when they stopped for a break and rolled down a slope... +And then the Commander found me...
+TAC50(0)<speaker>TAC-50</speaker>||:That doesn't give us anything to work with...
+NTW20(0)<speaker>NTW-20</speaker>||:In other words, to them you're a Doll that doesn't exist, right? +I have an idea...
+PTRD(0)<Speaker>PTRD</Speaker>||<黑屏1>:I think I understand what you're thinking...
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:2:00 am, at the main door of the HQ building. +Beep— +The indicator light turns green and the heavy door slowly opens.
+杀手A()<Speaker>Killer A</Speaker>||<BGM>BGM_Sneak</BGM>:Ahaha, 4 high-end fire control cores, I haven't gotten such a big order for a while.
+杀手B()<Speaker>Killer B</Speaker>||:You idiot! Don't celebrate too soon! +Don't forget, we're dealing with Griffin's Tactical Dolls; they're not like normal civilian Dolls.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, how different can they be? They're all robots that can't hurt humans, right?
+杀手B()<Speaker>Killer B</Speaker>||:You check the second floor; I'll check the first.
+杀手A()<Speaker>Killer A</Speaker>||<黑点1>:Ahaha, alright!
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...Meanwhile, inside a room on the second floor.
+TEC9(0)<Speaker>TEC-9</Speaker>||:It's them! Those two killers are very dangerous! +One of them is mean and has a bad temper, and the other one seems like a moron that keeps going "ahaha", but he's actually hiding a vicious streak! +Be careful, NTW-20...
+NTW20(0)<speaker>NTW-20</speaker><通讯框>||<黑点1>:<color=#00CCFF>Don't worry, just stick with the plan.</color>
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:Three minutes later, on the second floor.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, let's see what cuties are waiting for me on the second floor!
+()<speaker></speaker>||:Despite Killer A's frivolous calls, every step he takes is steady and cautious.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, come on out, little kitties from Griffin! I promise it won't hurt—
+()<speaker></speaker>||:A Doll corpse lying in the corner suddenly comes into view.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, did they start fighting among themselves...wait, isn't this TEC-9?
+()<speaker></speaker>||:A look of surprise comes over Killer A's face. He approaches carefully... +TEC-9 twitches, and a sticky yellow substance starts oozing out of her mouth and eyes.
+杀手A()<Speaker>Killer A</Speaker>||:Gross... Is this machine oil? +And this is weird, wasn't TEC-9 sent off for dismantling long ago?
+()<speaker></speaker>||:While Killer A's attention is focused on TEC-9, TAC-50 directs her drone Maple Moon to approach him quietly. +Then it lifts Killer A's ID card from his pocket and flies over to NTW-20.
+()<speaker></speaker>||<黑点1>:Nobody notices the mocking smile on Killer A's face.
+NTW20(0)<speaker>NTW-20</speaker>||<黑点2><BIN>18</BIN><Night>:Well done, Maple Moon.
+()<speaker></speaker>||:NTW-20 gets on her bike and rides to the main door at top speed. She opens the door with Killer A's ID. +But just as NTW-20 is about to draw the attention of the two killers with a shout as planned, she feels something cold pressing against the back of her skull.
+杀手B()<Speaker>Killer B</Speaker>||<BGM>BGM_Empty</BGM>:Didn't Griffin's tactical training teach you not to use encrypted comms in enemy territory? +Heh, in the end you're just a bunch of scrap metal morons.
+NTW20(0)<speaker>NTW-20</speaker>||<震屏><黑屏1>:What—?!
+()<speaker></speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_rifle_finalshot_h</SE1>:Blam—!
+()<speaker></speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:NTW-20 falls off her bike, lying motionless on the ground. +Killer B pulls out a device to check NTW-20's condition.
+杀手B()<Speaker>Killer B</Speaker>||<BGM>BGM_Danger</BGM>:Sometimes, I just have to thank Griffin for that base program that keeps you from hurting humans. +Oh? You're still functional even in this state?
+()<speaker></speaker>||:Killer B presses his gun right against NTW-20's neural cloud, but does not pull the trigger.
+杀手B()<Speaker>Killer B</Speaker>||:Well, writing you off like this would be a waste. Let's try something different with you.
+()<speaker></speaker>||<黑点1>:Killer B smiles savagely, then opens NTW-20's neural cloud access port and connects a storage device to her...
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...Meanwhile.
+TAC50(0)<speaker>TAC-50</speaker>||:What's wrong? I think I heard a gunshot.
+PTRD(0)<Speaker>PTRD</Speaker>||:NTW-20, what happened?
+()<speaker></speaker>||:There is no response.
+PTRD(0)<Speaker>PTRD</Speaker>||:TAC-50, can you take a look with Maple Moon?
+TAC50(0)<speaker>TAC-50</speaker>||:Okay...
+()<speaker></speaker>||:Someone suddenly kicks open the door to the room. Killer A stands in the doorway, holding a gun.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, I guess not.
+PTRD(0)<Speaker>PTRD</Speaker>||:What?!
+TAC50(0)<speaker>TAC-50</speaker>||:TEC-9!
+TEC9(1)<Speaker>TEC-9</Speaker>||:(Sobs) I'm sorry...it hurt too much when he beat me and I couldn't keep up the act...
+()<speaker></speaker>||:Killer A tosses TEC-9 — who had been posing as a corpse — into the room.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, my fair ladies, please take each others' hands and form a circle.
+TAC50(0)<speaker>TAC-50</speaker>||:What's the meaning of this...
+()<Speaker>Killer A</Speaker>||:I'm asking you to form a circle! Move it!
+()<speaker></speaker>||:PTRD has no choice but to hold hands with everyone and make a circle.
+()<Speaker>Killer A</Speaker>||:Ahaha, tonight might be the last time you feel the warmth of your friends.
+PTRD(0)<Speaker>PTRD</Speaker>||:Where's NTW-20? What did you do to her—
+()<speaker></speaker>||<黑点1>:Before PTRD can finish, Killer A presses a stun gun to her back. +Zzt—! +The world fades into darkness.
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...Five minutes later.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, why did you come over empty-handed?
+()<speaker></speaker>||:Killer B rubs his swollen forehead.
+杀手B()<Speaker>Killer B</Speaker>||:Dammit, it got away.+I was going to test a newly developed virus on it, but it sat up the moment I plugged it in and that tin can's head nearly KO-ed me! +By the time I came to, it had already run off on its bike.
+杀手A()<Speaker>Killer A</Speaker>||:Ahaha, that's fine. I heard that Griffin Dolls never abandon their friends. +So I'm guessing it'll be back.
+杀手B()<Speaker>Killer B</Speaker>||<黑屏1>:Hmph, whatever. +We'll start by doing what the boss wanted and send these three over intact. Once their neural clouds are reformatted, we'll have new killers...

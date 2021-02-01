@@ -1,0 +1,102 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Sneak</BGM>:The jeep comes to a halt outside a set of ruins.
+AN94(0)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>The target has ceased their advance.</color>+<color=#A9A9A9>Someone's getting down from the vehicle... they have black hair... and black clothes.</color>+<color=#A9A9A9>...That's her... That's the girl who was feeding the cat.</color>+<color=#A9A9A9>Is she a Nyto... is she one of the White Faction's Baptized...</color>+<color=#A9A9A9>But why doesn't she transmit any of the characteristic signals? It's as though... she's a normal human being...</color>
+AN94(0)<Speaker></Speaker>||:The girl looks in AN-94's direction, and AN-94 scrambles frantically behind a rock.
+AN94(0)<Speaker>AN-94</Speaker>||:Did she see me? But that's impossible... I'm a full three kilometers away from her...
+AN94(0)<Speaker></Speaker>||<SE1>Reload</SE1>:There is a noise behind AN-94, and she hurriedly turns and raises her gun.
+AN94(0)<Speaker>AN-94</Speaker>||:I remember you warned me not to approach from behind your back.
+AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:...And who was the one who suddenly ran out on her own? +How are things?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||:The target's in front of the ruins three kilometers ahead.
+AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Three kilometers... Let me see... There are no suspicious signals coming from over there, no?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||:But I know there's a Nyto over there. +Before I regrouped with you at the military camp, she launched an electronic attack on my Level II. +So I remember how she feels.
+AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<震屏>:You were hacked?! +Why didn't you say anything just now?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:I didn't know if I should bring it up or not... +I spent a long time checking myself over and over again, but she didn't leave any backdoors in my neural cloud. +It was a provocation... She felt she didn't need to resort to that sort of thing with me...
+AN94(4);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:But your neural cloud defenses are military-grade, right...? +How on earth did she do it...?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:That's not important. What matters is that afterwards, I'll make her regret not doing so while she had the chance.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:It's rare to see you angry.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:...
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Want to move closer?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I'm not sure about the range of her hacking attacks, so it's best not to approach rashly.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Makes sense, we need to be cautious. +Can you hear their conversation?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I'm bringing a directional microphone over.  +...I'll share what I find with you.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>While you can't really tell from her expression... AN-94 is most definitely furious. She may actually be quite different from what I imagined.</color>
+()<Speaker>Officer</Speaker>||<BIN>179</BIN><黑点2><BGM>BGM_Room</BGM>:We're here, this is the place.
+NPC-Mercurows(0)<Speaker>???</Speaker>||:Ah, is this the humans' safe house? +It feels like it has several hundred years of history behind it.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:Yes, this place predates the foundation of our government by a long shot. +There's no safer place than this when it comes to defenses, and no other place has more ritual significance than here.
+NPC-Mercurows(0)<Speaker>???</Speaker>||:No wonder fairy tales always happen in places like this. +"I offer you that kernel of myself that I have saved, somehow - the central heart that deals not in words, traffics not with dreams, and is untouched by time, by joy, by adversities."
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:I didn't know you were one for poetry.
+NPC-Mercurows(0)<Speaker>???</Speaker>||:Don't you think it's appropriate?
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:Unfortunately, my job isn't poetic in the slightest. This way please, Miss Mercurows.
+()<Speaker></Speaker>||<黑点1>:The jeep door closes, and the girl enters the fortress interior at the officer's urging.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2>:Mercurows... what kind of weird name is that? +Do Nytos not call themselves Nyto now?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:She's not quite like the Nytos I've seen before... +It might be best not to rely too much on past experiences with other Nytos when dealing with her.
+AN94(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Tsk... +The walls are too thick, I can't hear their voices.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(4)||:It's a stone wall. Cuts down heavily on audio penetration. +This place was once called Belgrade Fortress. It was preserved in 1979 as a Cultural Monument of Exceptional Importance by the nation. +In the 3rd century BC it served the Celts as a defensive fortification, and its main structure was erected in the 17th century. It is a symbol of glory and stability to the people of this nation.
+AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:I didn't know you were so well-versed in history.
+AN94(3)<Speaker>AN-94</Speaker>;AR15Mod(2)||:AK-12 is a very curious one, so I prepared ample material to answer all kinds of questions. +While I'm partnered with you this time, having more backup plans means having more solutions to choose from. +In addition to the above, I downloaded the anthropological information for the region.
+AN94(3);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:Aren't we well-prepared. +There's no point lingering here. Since they've already entered the fortress, let's get a little closer and take a look.
+()<Speaker></Speaker>||<BIN>167</BIN><黑屏2><BGM>BGM_Empty</BGM>:Several minutes later, AR-15 and AN-94 quietly sneak into the fortress.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:This Nyto... no, Mercurows seems a little different from the ones we encountered before... +I can't believe she went out of her way to make contact with you. Isn't that being too showy?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||:I don't have too much experience with personalities. +From my observations of her up to this point, she's definitely more frank and open than AK-12, but at the same time, she's also harder to predict.
+AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Don't keep using AK-12 as a yardstick for everything. +Don't you have any other standards you can use for making decisions?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||:There's Ange. But Ange's human, so you can't really use her as a basis for comparison...
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Ugh... that's enough... we'll end that topic here. +I didn't think there'd be so many passages under this old fortress... Which path leads where, anyway...
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:The hidden underground tunnels were dug to facilitate the secret deployment of troops by royalty or to assist in their own escape. The paths here are very complex; take care that you don't get lost.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Hidden tunnels, huh... Sounds like it would be very suitable for something leading to an object that needs to be hidden. That works for me.+Ange was right about you; your instincts are indeed very keen.+Can you determine Mercurows' position?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:She's not emitting any signals. I'll try to pinpoint her location through sound.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:She has her mooks who shouldn't be broadcasting signals march proudly through the city, but a Baptized who ought to be emitting signals doesn't even return an echo... +How is she going to lead her people if she doesn't link up with them?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I don't quite get it myself... Shh, they've started talking again.
+()<Speaker></Speaker>||<黑屏1>:AN-94 continues listening to the conversation taking place far within the depths of the tunnels.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<黑屏2><BIN>46</BIN>:How surprising. +I thought we'd need to discuss things for longer before reaching an accord. I didn't expect us to understand each other so quickly.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:My followers and I are of one mind, and we're prepared to cooperate with the outside world.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Because the present situation isn't looking too good for you? +Like someone who stares overlong at the crescent moon and mislikes the light from other sources?
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:Like I told you before, we're not a poetic bunch. But I understand your meaning. +You're right. We don't want wicked thinking to enter our cities and pollute our people.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:New light brings new ways of looking at things. What's so bad about that? +We bring a new light of our own, don't we, Mr. Officer?
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||<震屏>:It's not the same.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:That so-called Rossartrism is a complete and utter farce. +While our fellow men were sleeping in the open wilds, eating nothing but the wind, those people could only think of how to build higher walls! +We will never forget, we will never forgive, and we will most definitely never compromise. +Those days of being deceived by a false peace are over. Even if the ones being deceived are our brothers, we hold the obligation to wake them up with our own hands, no matter whether we have to pay a price in blood!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<黑屏1>:Hm, <color=#FF0000>their</color> blood.+Well said. I applaud your determination.+Let us wake them all up then, with the blistering fires of war!
+()||<黑屏2><黑屏1><BGM>BGM_Empty</BGM>:After filtering out the sound of footsteps, AR-15 carefully analyzes the audio signal she is receiving.
+()||<黑屏2><BGM>BGM_Room</BGM><BIN>167</BIN>:...Shortly afterwards.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:I'm not imagining things, am I? It seems the surface on which we've been walking has been sloping downwards since not too long ago, Mr. Officer. +Our objective...the "Pike Node" should be located within the permanently-sealed nuclear bunker below, is it not?
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:In keeping with the anti-Relic treaties of the time, all such facilities were sealed away forever.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Hmm, I see. +A once-buried secret sits alone beneath the earth, awaiting a hero to venture forth and excavate it. It does seem a little romantic when you think of it that way.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||:There's no safer defensive measure than keeping it underground. +With just a little work, the land itself can become the sturdiest bulwark of mankind.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Well said. It is both protector and home to everything. +That really is quite poetic when you think about it... You said your job didn't lend itself to poetry, but now it seems that isn't the case at all.
+NPC-Mercurows(0)<Speaker>Officer</Speaker>||<黑屏1>:Ahem, pardon me then. I ended up being influenced by you without realizing it. +Come, walk this way, please. +Below this is our...
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑点2>:... +It cut off.
+AN94(4)<Speaker>AN-94</Speaker><Shake>;AR15Mod(3)||:Why? They shouldn't have reached the maximum distance yet. +...I can't hear anything either. +Did they enter a jamming zone? +Or perhaps they've already discovered us... +But if they've found out we were eavesdropping on them, then we ought to be surrounded by now.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:I haven't detected signals from any units, and I haven't heard anything out of place. +...Since it's not an encirclement, let's head a little further inside.
+()||<黑屏2><黑屏1>:Now that their eavesdropping has been suddenly cut off, AR-15 and AN-94 have no choice but to continue forward.
+()<Speaker>ST AR-15</Speaker>||<黑屏1>:Just a little further ahead... a little more and I'll be able to see it clearly...
+()||<睁眼><BIN>46</BIN>:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:So there was a barrier door up ahead. They went through it.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:This fortress has been through hundreds of battles and the fact that it's still standing is all thanks to its refurbishments over the generations. It makes perfect sense that they'd have installed state-of-the-art soundproofed doors like this. Given the markings, it seems it's a new model of safety door, manufactured less than 2 years ago. +We must have filtered out the sound it made while opening as background noise.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I think so too. +There don't seem to be any other sentries, so let's catch up with them.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Da.
+()||<黑屏2><BIN>167</BIN>:They quietly open the barrier door, but soon they are faced with a fork in the road. They exchange a look.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:...
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:... +Let's not split up.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The light here is pretty dim, and I don't see any cameras... Looks like they kept this place the way it was since the old days. +Can you analyze the surroundings and tell which way they went?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:This place is too tightly sealed... The sensors and directional mics aren't picking up anything... +...
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Is that so...? Then you pick a path.
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:In that case, let's go left.
+AN94(5);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I hope your instincts are on the mark. +We'll maintain bounding overwatch and advance cautiously.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Understood.
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:10 minutes later, the two Dolls once again stand in a place that seems identical to where they were just now.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:Did we double back? +This place is just like a maze!
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:The passages here are built at special angles to confuse one's sense of direction. The people of the past probably designed it this way to prevent the enemy from launching a surprise attack through the hidden tunnels.
+AN94(4);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Tsk... Couldn't they have applied their efforts somewhere else...? +Let's try the path on the right. I've already recorded our route just now into my neural cloud. We won't retrace our footsteps. +We have to find that Mercurows and...
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(4)||:AR-15, I think we've gone too deep. Even if we find and destroy our objective, just securing a route of retreat will be extremely difficult for us, especially since there'll definitely be pursuers by then. I think our best course of action is to reach a place where we can send and receive transmissions, contact Ange, and receive orders as to our next step.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Since we know the "Node" is below us, how can we go back empty-handed? +Leaving aside what that Mercurows came here for, we might not get the chance to enter the inside of the fortress again, even if we do nothing. +...Or do you have another way?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I don't intend to argue with you, AR-15. +But...
+AN94(4)<Speaker></Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...A dull sound interrupts their dispute. Surprised, both Dolls unconsciously look behind themselves.
+AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_NightOPS</BGM>:...Was that... +The barrier door?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:The barrier door... is locked.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Then do you have a way to open the door?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:AK-12 might.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:In other words, you can't do it.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Can you?
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I can't either...
+AN94(4);AR15Mod(5)<Speaker></Speaker>||:AR-15 rounds her shoulders and sighs deeply. AN-94 watches her in silence.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:So what should we do after this, AR-15? +You should have enough explosives on you to blast the door open.
+AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:...I was saving that to blow up the "Node". Forget it... let's keep heading down... +That's... the only path for us now.

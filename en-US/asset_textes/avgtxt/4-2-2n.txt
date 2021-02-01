@@ -1,0 +1,48 @@
+()||<BIN>3</BIN><BGM>BGM_NightOPS</BGM><Night>:The rescue team reached the designated shelter.
+AAT52(0)<Speaker>AAT-52</Speaker>||:Hey! Anyone in there? We are Griffin T-Dolls. You're safe now!
+()||:...
+AAT52(0)<Speaker>AAT-52</Speaker>||:No response. Looks like it's empty?
+92type(0)<Speaker>Type92</Speaker>||:We're too late. They're no longer here.+Judging by the scene, they must've been in some sort of danger and switched location at short notice.
+RO()<Speaker>RO</Speaker>||:What...+What about the document? Any sign of it?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Non, everything useful has been moved away...
+RO()<Speaker>RO</Speaker>||:...
+92type(0)<Speaker>Type92</Speaker>||:What should we do now, RO?
+RO()<Speaker>RO</Speaker>||:I don't know... Let me think...
+92type(0)<Speaker>Type92</Speaker>||:What, you haven't got a backup plan?
+RO()<Speaker>RO</Speaker>||:No, I've only been thinking about how to find him and what to do after that...+Dammit... Why must everything go wrong?
+92type(0)<Speaker>Type92</Speaker>||:(Sighs) This is the battlefield, RO. You must consider every possibility.+The first mistake a newbie commander can make is oversimplifying matters.
+RO()<Speaker>RO</Speaker>||:I'm sorry...+Maybe...I'm not prepared to take command of this operation...
+92type(0)<Speaker>Type92</Speaker>||:The second mistake a newbie commander can make is overcomplicating matters.+Everyone makes mistakes. The important thing is what to do afterwards.+RO, if you can't make up your mind, listen to what others have to say.
+AAT52(0)<Speaker>AAT-52</Speaker>||:Um... Since no one's here, can we go back?+It's cold here, and I'm sleepy...
+RO()<Speaker>RO</Speaker>||:What sort of advice is this...
+92type(0)<Speaker>Type92</Speaker>||:Don't expect any useful ideas from this kind of half-baked T-Doll.+However, I also recommend retreating for now. We've already gathered all the clues we can. There's no more reason to stay here.
+RO()<Speaker>RO</Speaker>||:Yeah, understood...+Then let's get out of here first...
+??()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Hail! Hail! Miss RO, are you there?!
+RO()<Speaker>RO</Speaker>||<黑屏2><BIN>9</BIN>:...!!+That voice...!!+...+...Who is this again?
+92type(0)<Speaker>Type92</Speaker>||:...+Seriously, at least remember your own teammates...
+AAT52(0)<Speaker>AAT-52</Speaker>||<黑屏1>:It's Sten! She was doing recon in another base.+Pick up her call. She might be in trouble.
+RO()<Speaker>RO</Speaker>||<黑屏2><BIN>3</BIN><Night>:This is RO. Sten MK- is that you?
+MK2(0)<Speaker>STEN MkⅡ</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:Yes, Miss RO! I'm having an emergency here!+I discovered a human that hasn't evacuated!
+RO()<Speaker>RO</Speaker>||:...?!+Do you know who they are? Where are they?
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Yes, by intercepting the signal and cross-referencing it with our database, he's confirmed to be a human resident in this area.+I've also located the building he's in. It seems to be an office in a certain department store...
+RO()<Speaker>RO</Speaker>||<震屏>:(Slams the table) Document 36!
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Huh? Are you sure?
+RO()<Speaker>RO</Speaker>||:500% positive! That department store is just a guise!+Sten, can you get in touch with him?
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Sorry, Miss RO... I can't...+He has locked himself inside the office building and is rejecting all communication.+I want to ensure his safety, but he abjectly refuses to open the door.
+AAT52(0)<Speaker>AAT-52</Speaker>;MK2(0)||:He won't open the door even to a pretty girl?+Then your tricks aren't good enough. I told you to loosen that collar!
+AAT52(0);MK2(0)<Speaker>STEN MkⅡ</Speaker>||:W-What kind of trick is this?! Like hell I'd use it!
+RO()<Speaker>RO</Speaker>||:...+He's searching for something unspeakable, including Document  so as to destroy them...+We must hurry, or our mission will fail!
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Hold on, Miss RO. I've also detected new activities from S.F.
+RO()<Speaker>RO</Speaker>||:...What activities?
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:They've installed a huge piece of equipment in the outer area. I can't tell its function just yet...
+RO()<Speaker>RO</Speaker>||:...It can't be anything good, that's for sure.
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:My thoughts exactly. But we can't just abandon this human, can we? What should I do?
+RO()<Speaker>RO</Speaker>||:...+STEN, lie low for now and observe his movements.+Our teams will get there as soon as we can to sort things out.+...If the human tries to run, please pin him down by force.
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Huh? Is...that necessary? Won't that be too risky?
+AAT52(0)<Speaker>AAT-52</Speaker>;MK2(0)||:RO, have you forgotten again? Unless given special permission by a superior, we can't...
+RO()<Speaker>RO</Speaker>||:I AM your superior, and I'm granting you special permission to do so.+But take note, if your life is at stake, prioritize your own survival. Rescue others only when the situation allows.
+MK2(0)<Speaker>STEN MkⅡ</Speaker>||:Roger. I'll go look for a place to hide now. Please send reinforcements soon, Miss RO.
+92type(0)<Speaker>Type92</Speaker>||:You've accounted for unexpected circumstances this time. That's some improvement as a commander.
+RO()<Speaker>RO</Speaker>||:The way things are going, I have no choice but to rack my brain...+Still... Have I really considered all possibilities?
+92type(0)<Speaker>Type92</Speaker>||:Do what you can for now, and improvise when you have to.
+RO()<Speaker>RO</Speaker>||:Right, then let's go. Sten and Document 36 are both waiting for us.

@@ -1,0 +1,24 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:The time is 23:40. In the sewers under a certain alley in Belgrade.
+RO635(0)<Speaker>RO635</Speaker><Shake>||:W-what was that?!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hostiles?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:No...sensors aren't registering any individuals, but the reflection surface has enlarged all of a sudden...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Reflection? Enlarged? Explain it in a way that I understand!
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:Hush... That didn't sound like enemy reinforcements... +Hold on... The controls of the floodgates B2, G5, and K9 suddenly require higher clearance to operate?!
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO, look under our feet! Water! Water's coming in!
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Water?! +The floodgate that's stopping the current has been opened! They're trying to drown us!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Drown us?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Have you forgotten?! Our bodies are only equipped with the most rudimentary waterproof casings. If water manages to seep in, we'll definitely short out!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Uh... Can we make it?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:We can't possibly stay ahead of how quickly the water level is rising... +I see it! A platform just ahead! Can you jump up there, SOP-II?!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:No problem! Hah!
+()||<黑点2><BIN>164</BIN>:SOP-II and RO jump onto the platform.
+RO635()||:We can probably last a little longer here... +Just a second, I'm trying to regain access to the floodgate controls... +...Dammit, access denied! +I knew it was fishy – overriding their protocols was too easy! We've been lured into a trap!
+M4 SOPMOD II()||:Can't you override it again?
+RO635()||:It was so easy the first time only because they wanted us to fall for it. Now they've fired up their defenses... +On top of that, they've also refreshed the clearance codes of the other floodgate controls. If I don't put a stop to that— +SOP-II, keep me on my feet! This might take some time, but I need to force my way through on Level II. Don't let me fall into the water!
+M4 SOPMOD II()||:Gotcha! I'll hold you tight!
+RO635()||:Thanks. Commander, you still there?
+Commander()||:... +<c>The firewalls found our trojan. I'm searching for a new entry route. <c>I've detected a large amount of data flow. Please be careful.
+RO635()||<黑屏1><分支>1</分支>:Thank you, Commander. +It's just as you said – it IS a trap... But we simply couldn't give up such an important lead.
+RO635()||<黑屏1><分支>2</分支>:Acknowledged, thanks for the heads up. +But you've already warned us that this could be a trap...though we simply cannot give up such an important lead.
+RO635(4)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN>:I will try to retake control over the floodgates in Level II, but they might directly cut off external connections. +Considering the fact that they're operating remotely, I doubt they'd do that...and we can only hope I'm right... +To break through their defenses faster, please allow me to harness the computational capacity of more T-Dolls! Let's get started!

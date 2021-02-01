@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Danger</BGM><黑屏2>:...The rescue party's stealthy retreat is discovered by the military!
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>So you really decided to sneak away, vile rats!</color> +<color=#00CCFF>Artillery force, fire at the target area! </color> +<color=#00CCFF>All other units, block all the exits! Kill everything on sight!</color>
+HK416(3)<Speaker>416</Speaker>||:We're busted. The military is on our tail!
+RO635(6)<Speaker>RO635</Speaker>||:They're not pursuing us. They're trying to blow us to pieces with artillery fire!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Isn't that worse?!
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>We have you completely surrounded! You'll either die from the artillery fire or my own bullets!</color>
+AK12(2)<Speaker>AK-12</Speaker>||:Run! Don't look back!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:94, don't drop Ange! We'll cover you!
+AN94(2)<Speaker>AN-94</Speaker>||:Which way should we move, Ange? +...Ange? Hey, Ange!
+RO635(6)<Speaker>RO635</Speaker>||:Ange passed out! We must get out of here ASAP!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Shut up, RO! You're slowing down my reaction speed!
+RO635(6)<Speaker>RO635</Speaker>||:I'm scanning the terrain! That's more important than whatever you're doing! +Yegor is bluffing - the military hasn't completely surrounded this area. There is an opening right ahead of us! +Run to the cover over there and head east, 4 o'clock! Don't let the enemies intercept you!
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Follow RO's direction! We're making a run for it!
+()||<黑屏2><BGM>BGM_Empty</BGM>:...Ten minutes later.
+NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||<BGM>BGM_NightOPS</BGM>:Sir, Ange's party slipped through the encirclement.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:I saw that five minutes ago. You got outrun by a few Dolls?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:Our pursuit was less efficient than we expected. Their HOCs kept disrupting our attempts.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Their firepower doesn't pose much threat to us. Send out the high-mobility units first and confirm their whereabouts. Is the drone still not ready?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:It's still being repaired. We can only scan for their signals at the moment, but have no way of confirming visuals. However, their movements are still clearly traceable with our surveillance. +And sir, there is an abandoned structure in the direction Ange's party is headed toward. They are very likely to seek refuge in there.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||<黑屏1>:We're in the heart of the battlefield; they have no hope of getting help. Capturing them is only a matter of time! +They'll be digging their own graves when they walk inside that building. I will savor her despair and kill her with my own hands!
+()||<黑屏2>:...Meanwhile, the rescue party is on the run.
+RO635(6)<Speaker>RO635</Speaker>||:AK-12, I see an abandoned building just ahead. With a thick exterior wall, the radiation should be lower inside. +We can take refuge in there to treat Ange and contact the Commander.
+AN94(0)<Speaker>AN-94</Speaker>||:The military will find us and have us surrounded.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Or...just demolish the building with their tanks...
+HK416(0)<Speaker>416</Speaker>||:Their tanks won't get here so soon. I'm guessing only their mechanical units or human soldiers will enter the building. +And you heard Yegor - he wants to seek revenge against Ange himself. +So should we all head inside and set up our defenses?
+AN94(4)<Speaker>AN-94</Speaker>||:That will be more secure, but having all our signals in one place will make us too conspicuous. +If only AK-12 and I are in the building, we can hoodwink their scans by camouflaging our signals.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:416 and I can only disguise ourselves as Sangvis signals, which is basically useless against the Military.
+AK12(2)<Speaker>AK-12</Speaker>||:If we do that, we'll have to split up. You can figure out a way to draw the military away so that we have more time to wake Ange up. +But even for me...this is a bit too risky...
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:The military may be able to detect Ange's biological signs. If they do enter the building, you three will be in grave danger!
+AN94(4)<Speaker>AN-94</Speaker>||:But even if we all engage the military right here in the building, the odds are still against us.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:AK-12, you're the leader now. You decide. +Do we all go in, or do just the two of you stay with Ange while the rest of us draw the enemies away? +We're about to reach the building, so make up your mind soon!
+()||<黑屏2>:<color=#fff775>Mission Prompt</color>
+()||<黑屏1>:<color=#fff775>If you choose【everyone enters the building】, have AK-12 and AN-94 retreat from a friendly helipad.</color> +<color=#fff775>If you opt for【only DEFY and Ange enter the building】, establish a supply line and draw the enemies away.</color> +<color=#fff775>Completing different objectives in this mission will lead to different routes. Once you complete an objective, you will not be able to proceed to other, uncleared routes during this playthrough. You will only be allowed to pick a new choice by backtracking.</color>
+()||<黑点2><BIN>10</BIN>:

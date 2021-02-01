@@ -1,0 +1,44 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>72</BIN><SE2>Gunfight</SE2>:...Bang bang! +RO635's electronic echelons have completely overwhelmed the maid's neural cloud.
+Neural cloud of the Maid Doll()||:Execute...mission... +Eliminate...abnormal...ab...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:It's finally stopped. It's pretty exhausting to completely dominate a Doll's neural cloud... +Still, looks like I managed to terminate the meltdown sequence... Let's just hope the partial meltdown didn't destroy the information we seek.
+Neural cloud of the Maid Doll()||:Pas...passive...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Passive?
+Neural cloud of the Maid Doll()||:Passive program initiated... +Execute...final command.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:What command? +Oh my— Wait—!
+Neural cloud of the Maid Doll()||<BGM>BGM_Danger</BGM>:Beginning self-destruct sequence... Locking down all connections... Countdown. +Ten.
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Hey, the self-destruct sequence can be triggered internally as well...?! +Damn you, are you trying to drag me along with you?! I'm not even your enemy!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Still not done, RO?!</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Almost! +No, I've got to find the data before the neural meltdown! +Hurry, I have to find it!
+Neural cloud of the Maid Doll()||:Seven.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Not in the communications logs... You are way too discreet... What about the short-term audio library...? Only half a year's worth of records...
+Neural cloud of the Maid Doll()||:Five.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:It's got to be one of these files. I'll be able to—!
+Neural cloud of the Maid Doll()||:Three.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO!</color>
+Neural cloud of the Maid Doll()||:One.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I only have enough time to access a single visual file... +Which...which one is it? Which is the real address?! +Which—!
+Neural cloud of the Maid Doll()||:Zero.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><白屏2>0,0.5</白屏2>:Crack!
+()||:...
+RO635()||<黑屏1>:... +Where...where am I...?
+()||<睁眼><BIN>168</BIN>:RO regains her consciousness at the sound of the maid's destruction.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:RO. RO, it's me! Wake up!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:What...what have you done?! I almost had it!
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? I didn't do anything! +What about you? What on earth happened in there...? Even her physical body was destroyed...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:I...almost got locked in there... +But I was thrown out at the last moment... I thought you pulled me out by force...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh?! No way! +Are you okay?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:I'm fine... Since the connection is broken, I must be safe...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright... I'm glad you're okay... +So, have you got the information?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:I don't know either... I couldn't get to it before I got disconnected...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh...? Then what do we do...? We've lost our only lead... +Let me do a double-check. How much information have you saved just now?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:I've backed up everything I came across... +I was pretty thorough though, so I don't think you'll have any luck...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh?! Isn't...isn't this our guy?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:What?!
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:This is an optic record from when the maid left home this morning. The door number is clearly visible. +You got it after all!
+RO635-NoArmor(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:Oh...uh...but...I've never seen this file before... +Whatever. Maybe I managed to pull this out on the last second... We really got lucky.
+()||:...RO635 and SOP-II exchange a glance and smile.
+RO635-NoArmor(2);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Now to test our luck, we've got to find the informant before the White Faction beats us to him.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:Oh! If the maid's neural cloud has been triggered to self-destruct, that means the informant has probably been captured and is trying to bury everything he knows...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:So we're already too late...?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:Still, we can't give up just yet. We've come this far. No matter what's happened, let's head to this address and take a look first.

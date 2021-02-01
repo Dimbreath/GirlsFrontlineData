@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>83</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:Inside the new Griffin base.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Wooooow—! RO! +Look, it's waaaaaay bigger than the previous base!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:How do you STILL have the energy to be so excited about all this? +Wait, wait, don't start jumping all of a sudden! +...I'm going to fall off! SOP-II, you dummy!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:After all we've been through, this is like heaven! +Aren't you happy, RO?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:I'm not in the mood. +Right now, I just want to swap to a new body...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Aw, don't worry, RO! +I'm sure we'll be able to fix everything soon enough in this new base!
+()||:...Click.+...Communications link established.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:This signal is... Miss Kalina!
+SOPIIDamage(0);NPC-Kalin(1)<Speaker>Kalin</Speaker><通讯框>||:Haha, you look pretty lively, SOP-II.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(1)||:Yup yup! RO and I are alright!
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(1)||:I'm not alright in the slightest!
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:We're kind of busy now so I can't really chitchat... +Miss Persica said she wants to see the two of you...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(0)||:Miss Persica's on the base too? +That's wonderful, RO! You'll be getting a new body soon!
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(0)||:Haha... I sure hope so...
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:I'm sending you the coordinates to the dorm, SOP-II. You two should get some rest. +Miss Persica's still making adjustments to the facilities. She'll send for you later.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Got it! Thanks, Miss Kalin!
+()||<黑点1>:...The transmission ends.
+()||<BIN>82</BIN><黑点2>:SOP-II and RO proceed to the room that Kalin specified.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:This must be our new dorm room! +It feels great! Seems to be about the same as before... No, it's a little bigger than our previous one! +Ahhh, and this bed looks so comfy— Woohoo~
+()||:SOP-II dives onto the bed, and lies down comfortably hugging a pillow.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yup yup, the bed's softer than before too...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:SOP-II! Tell me before you jump on the bed! +Ah! Ahhhh! Hurry and help me up — this bed's too soft!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Pfhahahaha! No need to panic, I'll help you now!
+()||<SE1>ClothingUp</SE1>:SOP-II sits up and cradles RO into her arms.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Our new dorm is great... If only the rest of the team were here with us too... +RO... when will everyone come back? +M16... M4...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:We'll find them. Persica will fix you up soon enough, and I'll get a new body for myself too. +Once that's done, we'll look for them together.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||<黑点1>:Yup, that's right! Hopefully Miss Persica will fix us soon. That way, we'll be able to find everyone sooner!
+()||<黑点2>:Half an hour later.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Mmmm... Why hasn't anyone contacted us yet...? +Miss Persica's so sloooow...
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:It's only been half an hour. +Just be patient and wait. Why not use this time to clear out your cache?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:But I don't wanna keep lying around... +Oh yeah, how about going outside for a walk?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Nah.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:C'mon, let's go familiarize ourselves with the layout of the new base. +If we scout ahead, it'll be easier to find places to eat and play in the future!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:How do you expect me to go out and meet people when I look like this?!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Aw, don't worry! Everyone's busy, I'm sure nobody'll notice. +Alright, it's settled! We're heading out now!
+RO635(6)<Speaker>RO635</Speaker>||<黑点1>:Hey! Don't go and decide that on your own! +Would you PLEASE listen to what others have to say, SOP-II—!
+()||<黑点2><BIN>18</BIN>:SOP-II brings RO to the main hall of the new base.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:In addition to the brand new dorms, there's a whole lot of new facilities that I don't recognize here! +Hmm, those Dolls seem to be members of the HOCs. Maybe I go over and say hi...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:...Hurry up and go back.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Aw, just a little more, RO. We'll go once I find the cafe!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Someone's coming, we've got to go...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Eh? Are they dangerous? +But I'm not picking up any weird signals...
+PM(0)<Speaker>Makarov</Speaker>||<BGM>BGM_Empty</BGM>:SOPMOD II of the AR Team... Looks like you're alright.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:Ah, you're... Makarov!
+SOPIIDamage(0);PM(0)<Speaker>Makarov</Speaker>||<BGM>BGM_Moon</BGM>:I'm glad you still remember my name. +In that case, mind if I take up a bit of your time? There are some things I would like to ask you.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:Ah...sure.
+SOPIIDamage(0);PM(0)<Speaker>Makarov</Speaker>||:Are you... the only one from your team to have made it back?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:Er, well...
+SOPIIDamage(2);PM(0)<Speaker>Makarov</Speaker>||:I just wanted to check with you if RO was safe. +A few people outside of your team... are worried about her too.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, I understand... +(Come on, RO, say something!)
+RO635(6)<Speaker>RO635</Speaker>||:...
+PM(0)<Speaker>Makarov</Speaker>||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:(Makarov cares a lot about RO too; I can't let her leave in disappointment...) +(How should I say this...) +RO, well... she...
+SOPIIDamage(2);PM(0)<Speaker>Makarov</Speaker>||:What happened to her?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:RO... RO's been badly hurt, so Miss Persica's fixing her up right now! +Ah, but her neural cloud is fine! I'll put her in touch with you once her body's fixed!
+SOPIIDamage(0);PM(0)<Speaker>Makarov</Speaker>||:...Is that so?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:I'm telling the truth! +I personally ripped... I mean, I personally brought her neural cloud back!
+PM(0)<Speaker></Speaker>||:Makarov stares at SOP-II and raises an eyebrow.
+PM(0)<Speaker>Makarov</Speaker>||:...I understand... Well, as long as she's fine. +Spasibo, SOPMOD II. I will relay the news to the others. +By the way, your new trophy looks very unique.
+()||:Makarov left.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, are you alright? C'mon, say something!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:...What good would that do? It's not like you'd listen to me anyway.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Phew... I was scared for a moment back there. I thought you broken down or something...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:If only I could scare your neural cloud into being more mature... +Still... why didn't you tell Makarov the truth just now?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:But I DID tell her the truth!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:I mean, about me being in this Dinergate.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Well... +I just thought that... you'd be really mad if I'd told her, right?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Yes, I really don't want to show up like this in front of the others, especially Makarov. +I guess... your neural cloud must have grown a little if you managed to understand that.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Ahaha... really? +Doesn't feel that way to me. +We went through so much to get back to safety, so all I wanted was to cheer you up a little, RO...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:It's not often that I praise you, so you should just leave it at that. +Let's go to the cafe next, and then hurry back to the dorm...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright! The adventure continues~
+()||:...Click.+...Communications link established.
+NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:SOP-II, RO, it's been a while since we last met.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:M-Miss Persica!
+SOPIIDamage(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:Your adventure's going to have to wait for a while, SOPMOD II. +Come to my lab now, and be quick about it. +If we're lucky, we should be able to settle your problems before dinner.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Roger! We're heading over now!
+()||:...End of transmission.
+RO635(6)<Speaker>RO635</Speaker>||:So I can leave this body at last, huh...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Just hang on a little bit longer, RO! +We'll be back to normal soon!

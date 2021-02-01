@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>180</BIN><黑屏2>:
+()||<BGM>BGM_Brain</BGM>:...Belgrade underground, outside the doors to the Pike Node.
+()||<SE2>Gunfight</SE2>:As the White Faction starts falling into disorder, Sangvis Ferri promptly begins its counterattack. +The Sangvis troops start shooting one-sidedly at every single white unit that hasn't escaped in time.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I've still got some questions that need answering.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Didn't that Nyto's brains get cooked?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm afraid not.
+NPC-Mercurows(0)<Speaker></Speaker>||:The Nyto slowly raises her head, proving M4's words to be true. +She looks around with wide eyes full of panic and no sign of her characteristic flair for the dramatic.
+NPC-Mercurows(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Hands up, don't move!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AR15Mod(4)||:U-um, excuse me, where is my sister?
+NPC-Mercurows(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Drop the nonsense! Hands in the air!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AR15Mod(4)||:Her name is Nyto, like mine. Though Father did promise to give us new names if we complete our mission...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AR15Mod(4)||:Did anyone see where she's gone? ...Oh.
+NPC-Mercurows(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Mercurows' eyes meet M4's, and she walks toward her.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BGM>BGM_Wake</BGM>:Sister? Is that you, sister?
+NPC-Mercurows(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Huh...?
+NPC-Mercurows(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;M4A1Mod(0)||:Thank goodness you're here! You gave me such a scare. I suddenly stopped sensing your presence. +But now that I can see you're safe, I...
+()||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:Bang bang bang!
+NPC-Mercurows(0)<Speaker></Speaker>||:A series of gunshots put a halt to Mercurow's attempt to approach M4. She never managed to reach her.
+NPC-Mercurows(0)<Speaker></Speaker><Shake>||:A genuine, relieved smile remains frozen on her face...
+()||<SE2>ClothingUp</SE2>:With the same sweet and innocent expression, and blood trickling out of her nose and mouth, she collapses onto the ground.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1><BGM>BGM_Truth</BGM>:Watch out, M4! Here she comes!
+()<Speaker>M4A1</Speaker>||<BIN>174</BIN><黑点2>:...I know.
+()||<黑屏1>:On the other end of the underground passage, the familiar yet slightly different figure appears.
+()<Speaker>M4A1</Speaker>||<BIN>175</BIN><黑屏2>:Why did you kill her?
+()<Speaker>M16A1</Speaker>||:It's only been a while, but you've already gotten too soft to deal your enemy the killing blow.
+()<Speaker>M4A1</Speaker>||:...What did she know that you're trying to stop me from finding out?
+()<Speaker>M16A1</Speaker>||:There are way too many things that you shouldn't know. +You...can hear the voice, can't you?
+()<Speaker>M4A1</Speaker>||:So what if I can?
+()<Speaker>M16A1</Speaker>||:No matter what it tells you, don't believe it. +You only made it here alive because you've been using powers that aren't your own.
+()<Speaker>M4A1</Speaker>||:But at least I'm still alive. That still beats betraying your old teammates.
+()<Speaker>M4A1</Speaker>||<黑点1>:I really don't want to believe it, but...you don't seem to be under Sangvis control.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BIN>180</BIN><黑点2>:...I know. I am fully aware of what I'm doing.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M16A1BOSS(0)||:Then why won't you come back, 16?! +Come home to Griffin. We can solve any problem together.
+M4A1Mod(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:It's one of their objectives to reunite us...so I can't go back yet. At least not now.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M16A1BOSS(0)||:Then at least tell me the truth. +Don't be an accomplice of Sangvis Ferri! Don't help them spread death and destruction to innocent people!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:There isn't room for negotiation between us right now. +I don't want you to get what's behind those doors...so back off, or we'll have to decide who takes the prize with a fight.
+()||<SE1>Select</SE1>:M4 lifts her weapon and AR-15 follows suit. The situation is quickly becoming touch-and-go.
+()||<BGM>BGM_Empty</BGM>:At that moment.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Looks like it's gonna be sooner than I expected... See you.
+Beak_M16(0)<Speaker>Beak</Speaker>||<SE1>Explode</SE1>:Yeeeeeeeee-haw!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Huh...?
+()||:With a deafening vroom, a large motorbike comes skidding through the underground passage, followed by a truck.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:M4, look out!
+()||:AR-15 dives onto M4 and pushes her out of the way of the motorbike. +By the time they get back on their feet, the Sangvis convoy is already gone.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Are you okay, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||<BGM>BGM_Danger</BGM>:...We're going after them.
+M4A1Mod(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Huh?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(2)||:It's not over yet. I won't let it end just like that. Let's go!
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...Understood!
+()||<黑屏1>:

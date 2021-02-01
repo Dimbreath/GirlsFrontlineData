@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>99</BIN><Night><SE2>Gunfight</SE2><黑屏2>:...
+M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Boss</BGM>:Keep firing!
+BossJustice(0)<Speaker>Judge</Speaker>||:Hmm... +This is getting a bit too far. +But I applaud you for returning to face your enemy, M4A1.
+M4A1(3)<Speaker>Actually M3</Speaker>||:If you want me, come and get me! +Look at you! Weren't you really full of it just now?!
+T65(0)<Speaker>T65</Speaker>||:We have her pinned down!
+BossJustice(0)<Speaker>Judge</Speaker>||:... +Pinned down...?
+()||<SE1>Explode</SE1><震屏>:...Boom. +...Judge unleashes a barrage of incomparable firepower, forcing everyone back.
+m1(0)<Speaker>M1 Garand</Speaker>||:Ugh...it isn't enough... +We were so close...
+M14(0)<Speaker>M14</Speaker>||<SE2>Gunfight</SE2>:Miss Garand, leave it to M14.
+T77(0)<Speaker>T77</Speaker>||:Her attacks are very monotonous and predictable.
+T65(0)<Speaker>T65</Speaker>||:Spill, where have you taken Miss M16?!
+BossJustice(0)<Speaker>Judge</Speaker>||:Still living in your delusional little world, Griffin T-Dolls? +Tsk, I was going to keep things from going way out of hand out of courtesy to M4A1... +... +Don't interrupt me right now, Dreamer. M4A1 is standing right in front of me. +...
+BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:I'm right here. Why don't you call in your Sangvis friends and capture me?
+BossJustice(0)<Speaker>Judge</Speaker>;M4A1(3)||:True...I also find it highly suspicious that she isn't operating with other members of the AR Team. +Still, this doesn't get in the way of... +... +The other two from the AR Team... Got it. I'll handle it.
+()||:...
+BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:What now? Not fighting us anymore? +Did your mother just summon you for dinner?
+BossJustice(0)<Speaker>Judge</Speaker>||:I'll admit I was careless to have been lured by your baits. +Well played, human commander. However, this won't happen again. +Perhaps you lot...should consider yourselves lucky that you didn't say what you aren't supposed to.
+()||:...Judge vanished in an instant.
+m1(0)<Speaker>M1 Garand</Speaker>||:What we aren't supposed to say... What does she mean by that?
+M4A1(3)<Speaker>Actually M3</Speaker>||:Who knows? That runt obviously has an over-inflated sense of ego.
+()<Speaker></Speaker>||:...
+M4A1(0)<Speaker>Actually M3</Speaker>||:Oh...u-um...
+T65(0)<Speaker>T65</Speaker>||:<size=33>She seems to have returned to her normal self...</size>
+T77(0)<Speaker>T77</Speaker>||:<size=33>That really was something... Is that a side effect of the makeup?</size>
+M14(0)<Speaker>M14</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Guys, we...we've found Miss M16. +But...you'd better hurry...
+T65(0)<Speaker>T65</Speaker><Shake>||<黑屏2><BGM>BGM_Wake</BGM>:Miss M16... +Miss M16!! +Ohmygodddddd!
+M16(1)<Speaker>M16A1</Speaker>||:Ack...not so hard...can't breathe... +Also...don't put pressure on the modules that got ripped out. Just let me stay like this.
+T65(0)<Speaker>T65</Speaker>||<震屏3>:Oh... +Ohmyyyyyyy—
+T77(0)<Speaker>T77</Speaker>||:Miss T65, please refrain from bawling.
+M4A1(0)<Speaker>Actually M3</Speaker>||:Miss M16...
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:It's been a while, M4. +Persica wasn't lying. You have changed...and quite significantly, too.
+M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Why...why haven't you returned earlier...?
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:A lot of things aren't as they seem. +I'm helping you, just in a different way. +Though it does hurt quite a bit this time.
+T65(0)<Speaker>T65</Speaker>;M16(1)||:We do have some quick-repair kits here... +If you can make it back to base, Persica will surely be able to save you... +So...Miss M16...
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:Not yet... +There's still...something that I must see through.
+M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Why?! +Look at the state you're in! Why are you still thinking about such things?! +What are you doing this for?!
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:For you, and for the future of us all... +I know I owe you all by doing this...
+T65(0)<Speaker>T65</Speaker>;M16(1)||:We aren't the only ones you owe! +T91...she...
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:Haha... She must be really lonely without me. +Get her out in the sun more often and tell her to stop thinking about silly stuff.
+T65(0)<Speaker>T65</Speaker>;M16(1)||:Why don't you just come back with us?! +You can tell her yourself—
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:She's spent her whole life chasing after me... No one should live like that. +A clever and hardworking Doll like her doesn't deserve to be limited by what I'm like. +T65...be sure to get her outside and show her how big the world is before I return.
+T65(0)<Speaker>T65</Speaker>||:(Sobs)
+M4A1(0)<Speaker>Actually M3</Speaker>||:Miss 16... Why must you face this alone...? +There must be a better way... +You just have to trust us... We can overcome any obstacle as long as we work together...
+M16(1)<Speaker>M16A1</Speaker>||<CGDelay>0.7</CGDelay>:... +I...
+()<Speaker>M16A1</Speaker>||<震屏><BGM>BGM_Empty</BGM><CGDelay>0.7</CGDelay>:It's not like I don't trust you! +You're all freaking dumb! I'm gonna come back soon, okay?!
+T65(0)<Speaker>T65</Speaker>||:... +...... +...What?
+T77(0)<Speaker>T77</Speaker>||:...Oh.
+T65(0)<Speaker>T65</Speaker>||<黑屏1>0,4</黑屏1>:... +Wait...hold on a second... +Don't tell me...
+()<Speaker>T77</Speaker>||<黑屏2><BIN>9</BIN>:Miss Thompson has the wrong script! +Quick, cut out that last bit!
+()<Speaker>M1 Garand</Speaker>||:It-it's okay, we can just dub over it in post-production...
+()<Speaker>Thompson</Speaker>||:Hey, are you giving me even more work? +M14, stop playing with my Dummy like that. It's already close to falling apart after the fight with Judge.
+()<Speaker>M14</Speaker>||:Oh... +I just couldn't help it because you said all that weird stuff just now...
+()||:...
+T65(0)<Speaker>T65</Speaker>||<黑屏1>:<size=60>Wait!</size> +<size=60>How did you guys figure it all out?!</size>
+()||<黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+()||<黑屏2><BIN>160</BIN>:...Beep. +...The video stops playing.
+T65(0)<Speaker>T65</Speaker>||<BGM>GF_Memorial</BGM>:... +Well...that's what happened... +So...
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Is that so...? +Miss M16...said all that... +And she seemed alright... I'm really glad about that...
+T91(0);T65(0)<Speaker>T65</Speaker>||:She also asked you to stop worrying about her. She'll definitely let you know the moment she can return to Griffin. +Also, she said you really should enjoy your bubble tea properly!
+T91(0)<Speaker>T91</Speaker>;T65(0)||:... +Right, I'll remember that... +...
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Pffft.
+T91(0);T65(0)<Speaker>T65</Speaker>||:What's with that weird snicker?!
+T91(0)<Speaker>T91</Speaker>;T65(0)||:No, don't mind me. +I was just wondering... Where on earth did you find a camera to film this?
+T91(0);T65(0)<Speaker>T65</Speaker>||:Huh? Uh, I dug it out the other day when I went to bury something in the backyard. +It looked like it was still usable, so I gave it a try? +Seriously, why are you giggling like that...?
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Oh? Am I? +It's just a simple grin, okay? +I'm very happy... I mean it.
+T91(0);T65(0)<Speaker>T65</Speaker>||<黑点1>:Is...is that so...?
+()||<黑点2><BIN>18</BIN><BGM>BGM_Empty</BGM>:...Outside the repair bay.
+T77(0)<Speaker>T77</Speaker>||<BGM>GF_Memorial</BGM>:Everything seems to be alright now. +Let's leave the rest to Miss T65.
+M3(0)<Speaker>M3</Speaker>||:It feels like...such a long time since I last saw Miss T91 smile.
+m1(0)<Speaker>M1 Garand</Speaker>||:Phew... We can finally breathe a sigh of relief... +Now then...I'd better head back and start writing the report for Miss Thompson.
+m1(0);M3(0)<Speaker>M3</Speaker>||:Report... Why?!
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:I have to be held accountable for not fully grasping the severity of the situation and leading you through a danger zone under Sangvis control.
+m1(0);T77(0)<Speaker>T77</Speaker>||:It wasn't only your responsibility. We'll help you write it.
+m1(0)<Speaker>M1 Garand</Speaker>;T77(0)||:That won't be necessary... +<size=40>Besides, Miss Thompson said that the report was just a formality for the Commander so I didn't have to take it too seriously...</size> +<size=40>Rather, she wanted me to spend more effort on detailing my makeup technique so that she can learn a thing or two...</size>
+m1(0);M3(0)<Speaker>M3</Speaker>||:Come to think of it...may I ask you something? Miss Garand... +If the M16A1 we saw back then was actually Miss Thompson's Dummy... +When did that Dummy undergo its makeover...?
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:When I was with the rest of you. +Who said I had to do it myself?
+m1(0);M3(0)<Speaker>M3</Speaker>||:Huh?
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:M14 and my Dummy sorted it out while we were running from Judge. +The show you saw later on...was all Miss Thompson's improvisation... +She really is amazing.
+m1(0);T77(0)<Speaker>T77</Speaker>||<黑屏1>:If it was Miss M14, that'd explain how you could get it done so quickly.
+()||<黑屏2><BIN>9</BIN>:...The two Dolls share a hearty laugh in the room.
+T77()||:... +I'm suddenly...reminded of a very old story.
+M3()||:Hmm?
+T77()||:While two men were making their way to freedom, they came across a daunting chasm. +One man jumped across easily, but the other didn't have the courage to follow. So the man who made the leap had an idea... +He took out his flashlight and shone the light to the other side of the ravine...and asked his friend to walk over on this bridge of light.
+M1 Garand()||:But in the story, the friend refused to do that...
+T77()||<黑屏1><黑屏2>:He wasn't willing to try, but this path paved with light still gave him hope, didn't it?
+()||<黑屏1>:The Way Back is Paved with Light ⁠— END.

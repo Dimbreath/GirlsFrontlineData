@@ -1,0 +1,250 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:It's a universally-known truth... +...that the world is made out of one large coincidence and a myriad of tiny mistakes.
+()<Speaker>Cheerful voice</Speaker>||:AK! AK, wake up! Bedtime's over!
+()<Speaker>Calm voice</Speaker>||:74U! 74U? Get up. +Don't forget about your mission.
+()<Speaker></Speaker>||:Our encounter was a coincidence.
+()<Speaker>Cheerful voice</Speaker>||<CGDelay>0.2</CGDelay>:We're running out of time. We can't afford to be gentle anymore, 91!
+()<Speaker></Speaker>||<白屏1>0,6</白屏1>:And the rest were all mistakes.
+()<Speaker>AK-74U</Speaker>||<白屏2>0,0.6</白屏2><BIN>82</BIN>:AUUUGHHH! My eyes! +You... you two owe me a pair of eyes!
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Hello</BGM>:You asked for it, AK! Didn't we agree on the time? How could you still be sleeping?!
+()<Speaker>AK-74U</Speaker>||<震屏>:But you didn't have to turn on all the lights, did you?! My vision modules almost popped out of their sockets!
+9A91(0)<Speaker>9A-91</Speaker>||:We couldn't get you out of bed, 74U. Hurry up and get yourself sorted out. We don't have a lot of time.
+()<Speaker>AK-74U</Speaker>||:Huh? What time is it anyway...? +...C'mon, it isn't time to set off yet, is it?
+ASVAL(0)<Speaker>AS Val</Speaker>||:That's ten minutes from now. Don't you have to get changed?
+9A91(0)<Speaker>9A-91</Speaker>||:We can't make it. Val, let's give her some help.
+()<Speaker>AK-74U</Speaker>||<震屏>:Huh? W-Wait... +Don't take them off so fast! It's freezing! Don't take that off! Not that!!!
+()<Speaker></Speaker>||:...
+ASVAL(0)<Speaker>AS Val</Speaker>||:(Sighs) I told you, AK can't be trusted.
+9A91(0)<Speaker>9A-91</Speaker>||:But she's the one who accepted the mission, so it really can't be helped...
+ASVAL(0)<Speaker>AS Val</Speaker>||:Da, can't be helped.
+()<Speaker>AK-74U</Speaker>||:What do you mean...? +You two didn't wanna take the mission and put my name down instead...
+9A91(0)<Speaker>9A-91</Speaker>||:That's because you're the only one who's prepared clothing for this occasion.
+ASVAL(0)<Speaker>AS Val</Speaker>||:That's right, we DO want to participate, but it can't be helped...
+9A91(0)<Speaker>9A-91</Speaker>||:Da, it can't be helped.
+()<Speaker>AK-74U</Speaker>||:Like I said, what do you mean by "it can't be helped"?! +My costume was prepared for some work I did in the past. +Besides, the look isn't exactly complete so I can't vouch for the overall effect...
+ASVAL(0)<Speaker>AS Val</Speaker>||<黑屏1><CGDelay>0.4</CGDelay>:Whatever. But don't forget the headphones. They're key to putting the outfit together. There. +That should do. Let's show 91.
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑屏2>:Right. Well... what do you think?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker>||:Meh.
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:It's alright.
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Are you guys really being honest?
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:You want to hear the truth?
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Nah, this feels awkward enough already. +But just nailing the appearance isn't enough. I need to say something fitting, like... Happy New Year?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker>||:That's too bland, 74U. Let me teach you something more in vogue.
+AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:Huh?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker>||:"Wan~ Shi~ Ru~ Yi!"
+AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:What are you even saying? Some foreign language?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker>||:It's a well-wishing phrase Type 56-1 taught me. It means..."May 10,000 things go according to your wishes."
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:Hmm, if you say this tonight, I'm sure you'll get special bonus points.
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Heh... I'd rather save it for myself. After all, it's 10,000 things... As if they could all go the way I want. +Besides, things haven't been "going according to my wishes" from the moment I woke up.+Is the radio all set up and functional?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker>||:The signal is normal... for now.
+AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:...Didn't this thingy spew out smoke yesterday when we were giving it a test run? Will it last long enough to complete the mission?
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:If you'd bothered to update the information regarding your colleagues regularly in your neural cloud, we wouldn't have to waste so much time and effort on fiddling with this.
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑点1>:Jeez... I've got my own stuff to worry about, too. +Anyway, I'll leave communications to you. I'm heading out. Make sure you respond quickly so I won't make a fool of myself.
+()<Speaker></Speaker>||<黑点2><Night><BIN>161</BIN><BGM>BGM_Empty</BGM>:... +...AK-74U leaves her dorm and heads to the other buildings.
+ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:...We're in luck. The signal is still pretty stable. +AK, have you run into any of our other colleagues?
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Nyet, at least everything is still..."going according to my wishes".
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:74U, our mission requires that you to run into your colleagues and wish them well.
+AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:Heh, you try it then. I bet you two bossy introverts will have a neural meltdown after just talking to three people. +Oh, 9A-91 might make it to five, but— +Ooooh! Here we go!
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:What is it, 74? Is it another T-Doll?
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Tall, chestnut-colored hair, red eyes, dressed like someone going to a concert. Who's that? +Hurry up! She's seen me!
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:A T-Doll that fits that description...
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:Can you describe some more physical traits?
+AK74U(2)<Speaker>AK-74U</Speaker>||:About the same bust size as me. Oh, she's also wearing lightning-shaped hair clips! Quick, she's coming over!
+M21(0)<Speaker>??</Speaker>||:Ah, Miss AK-74U. Hello. +I like your outfit. It looks very nice. +Are you wearing it for tonight? +Uh...Miss AK-74?
+AK74U(2)<Speaker>AK-74U</Speaker>||:Uh...
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:That's M21. Just call her M21; she has no nicknames.
+AK74U(2)<Speaker>AK-74U</Speaker>||<BGM>BGM_Empty</BGM>:Oh, Miss M21! Um... +H-Happy New Year!
+M21(0)<Speaker>M21</Speaker>||<BGM>BGM_Moon</BGM>:Ahaha, thank you. +But it isn't our New Year today. It's THEIRS. There's quite a difference.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Oh, you're right. +Uh... but... I suppose we all feel the same way, right?
+ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:Okay, she somehow managed to talk her way around that...
+()<Speaker>??</Speaker>||:Hey, M21! Can't you keep an eye on M1911? She looks like she's had too much to drink! M14 and the others can't hold her back!
+AK74U(2)<Speaker>AK-74U</Speaker>||:Huh??
+M21(0)<Speaker>M21</Speaker>||:Too much to drink? I recall M1911... could hold her liquor pretty well.
+()<Speaker>??</Speaker>||:That's why I said "looks like". She's always like this whenever she sees the Commander...
+AK74U(2)<Speaker>AK-74U</Speaker>||:(Whispers) Crap, this one's too short. She just jumped out from behind M21; I didn't see her at all!
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:What does she look like, 74U?
+AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:(Whispers) Petite, blonde, dressed like a casino girl. Her bust size... +(Whispers) ...is about the same as Val's, I guess? +(Whispers) Hurry up! Give me something while they're still discussing—
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:AK... She's called...bzzzt... +By the way, hers are padded, while mine are...bzzzt...
+AK74U(2)<Speaker>AK-74U</Speaker>||:(Whispers) Oh, dammit!
+AK74U(2)<Speaker>9A-91</Speaker><通讯框>||:74U, I...bzzzt...bzzt...
+M9(0)<Speaker>Petite T-Doll</Speaker>||:In another three rounds, 1911 won't be wearing... +Oh? Who's this? Let me think...
+M21(0)<Speaker>M21</Speaker>||:This is Miss AK-74U, M9. Thompson talked about her, remember? She was quite the hero in the big withdrawal.
+AK74U(2)<Speaker>AK-74U</Speaker>||<震屏>:Oh, uh, hello, Miss M9. And... uh... Happy New Year!
+M9(0)<Speaker>M9</Speaker>||:Hello, Miss AK-74U! +Welcome to our dorm. Wanna come inside? The Commander is with us, and Thompson will be back soon.
+M21(0)<Speaker>M21</Speaker>||:Yeah, at least stay long enough to hear a joke!
+AK74U(2)<Speaker>AK-74U</Speaker>||:Ah, no thanks. I'm still on my mission. I have more places to go.
+M21(0)<Speaker>M21</Speaker>||:Making your New Year visits, right? I've heard all about it. There's quite a few teams on that mission tonight.
+M9(0)<Speaker>M9</Speaker>||:Haha, that sounds really interesting! +But you're pretty new around here, aren't you? Can you tell who's who?
+AK74U(2)<Speaker>AK-74U</Speaker>||:I'll... be fine, of course. I'm quick on my feet. Don't worry! +I wish you all a happy Spring Festival! See you around!
+M9(0)<Speaker>M9</Speaker>||:Oh, tha— +...She ran off. +She doesn't seem too eager to spend time with us.
+M9(0);M21(0)<Speaker>M21</Speaker>||:But you must admit she looks pretty interesting.
+M9(0)<Speaker>M9</Speaker>;M21(0)||:Ha... I guess you'd get along with a scatterbrain like that?
+M21(0)<Speaker>M21</Speaker>||<黑屏1>:Haha, but people who are too alike don't tend to make very good friends. +I suppose a day like this... will be a great opportunity for someone like her to get to know herself better?
+()<Speaker></Speaker>||<黑屏2>:...
+AK74U(2)<Speaker>AK-74U</Speaker>||:Hey, do you copy, 9A-91? Val?
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:AK, are you alright?! +The radio broke down just now. 9A-91 managed to fix it by giving it a hard whack.
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:I muddled through it somehow. +There are so many T-Dolls here, it's hard to remember all their names...
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:Head to the next stop. Let me see... +Bzzt...bzzzzt...
+AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:C'mon, not again...
+AK74U(2)<Speaker>9A-91</Speaker>||<BGM>BGM_Empty</BGM>:Bzzt...sorry...bzzt... +I think... too hard just now...bzzzt...
+()<Speaker></Speaker>||<震屏>:Clang!
+AK74U(2)<Speaker>AK-74U</Speaker>||:What was that?! Did it fall apart?! +Hey, 91? Val? HELLOOOO?!
+()<Speaker>Brazen voice</Speaker>||<BGM>BGM_Boss</BGM>:Oh my, if it isn't Miss 74U!
+AK74U(2)<Speaker>AK-74U</Speaker>||<震屏>:Whoa?! +Y-You're...
+SKS(0)<Speaker>Flippant T-Doll</Speaker>||:Hehe, Happy New Year, 74. It's not our New Year, but any festival where I get to drink is good!
+AK47(0)<Speaker>Brazen T-Doll</Speaker>||:Actually, when are you NOT drinking...? +What is it, Miss 74U?
+AK74U(2)<Speaker>AK-74U</Speaker>||:Uh... um... hmm... H-Happy New Year.
+SKS(0)<Speaker>Flippant T-Doll</Speaker>||:What are you mumbling about? At least address us clearly by name.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Huh? Nyet, I think I was... clear enough?
+AK47(0)<Speaker>Brazen T-Doll</Speaker>||:Gosh, 74, this isn't how you talk to your seniors. +Davai, tovarisch! Vodka!
+AK74U(2)<Speaker>AK-74U</Speaker>||:Uh...I don't... +(Hold on a sec! The smell - it's clearly industrial alcohol?!)
+SKS(0)<Speaker>Flippant T-Doll</Speaker>||:Miss 74U, you can't possibly be saying that you don't drink, are you? +You don't have to drink anyone under the table, but surely you can handle a shot or two?
+AK74U(2)<Speaker>AK-74U</Speaker>||:Well... I suppose...
+()<Speaker>Stern voice</Speaker>||<BGM>BGM_Empty</BGM>:You two, that's enough.
+PM(0)<Speaker>Stern T-Doll</Speaker>||:I take my eyes off you for one second and you run off making trouble for others.
+SKS(0)<Speaker>Flippant T-Doll</Speaker>||<BGM>BGM_Hello</BGM>:It's a festival! Besides, AK-47's the one who ran off. I'm just keeping an eye on her.
+AK47(0)<Speaker>AK-47</Speaker>||:You're dying for something fun to happen, SKS. +And isn't a festival like this the best time to share drinks with everyone in town?
+PM(0)<Speaker>Stern T-Doll</Speaker>||:Sorry, Miss AK-74U. These two idiots must've caused you a lot of trouble. +Are you making your New Year visits? If you don't mind, let's go together.
+SKS(0)<Speaker>SKS</Speaker>||:What about us?
+PM(0)<Speaker>Stern T-Doll</Speaker>||:Screw off back home. Sten and the others have been standing at our door for ages. Show them some decent hospitality. Oh— +Type 92 also said that if you dare let Sten or AAT-52 take a single sip, she'll brew your remains into one of her medicinal tinctures.
+SKS(0)<Speaker>SKS</Speaker>||:Alright, alright, your friends are our friends. Just leave them to us. +See you later, Coach, and you, Miss 74U!
+AK47(0)<Speaker>AK-47</Speaker>||:Poka-poka! Come have a drink with us when you have time!
+AK74U(2)<Speaker>AK-74U</Speaker>||:Happy New Year, Miss SKS, Miss AK-47! Poka-poka!
+()<Speaker></Speaker>||:...
+PM(0)<Speaker>Stern T-Doll</Speaker>||:What's your next stop?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Uh... Miss FAL's, I think.
+AK74U(2);PM(0)<Speaker>Stern T-Doll</Speaker>||:Do you know how to get there?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:I do have a map, but...
+AK74U(2);PM(0)<Speaker>Stern T-Doll</Speaker>||<BGM>BGM_Empty</BGM>:But you don't know where she lives or what she looks like, do you?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Huh? I...
+AK74U(2);PM(0)<Speaker>Stern T-Doll</Speaker>||:What is my name?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Uh... +(Sighs) You saw right through me?
+AK74U(2);PM(0)<Speaker>Stern T-Doll</Speaker>||<BGM>BGM_Moon</BGM>:I heard you talking to Val and 91.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:(Shrugs) You got me... It's embarrassing, even for me.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:By the way, the name's Makarov.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Nice to meet you, Miss Makarov, and Happy New Year. +Uh...I also apologize, but you see, I was injured a while ago and didn't have time to update my database on everyone.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Oh, is that so? +I know you like doing things your way, but not being able to recognize your colleagues could hinder your work. +You should at least remember all the T-Dolls in this building.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:I have my standard team and a few partners. You know them, right? Python and the others. Besides, when more missions come in, I'll update my database with whatever I need to know.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Any other reason why you are so against learning about your colleagues?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:There is, but it's nothing important.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Okay, that's your business. +But at least let me help with your visits this time.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Oh? Are you actually as kind as they say, Miss Makarov?
+PM(0)<Speaker>Makarov</Speaker>||<黑点1>:It's not like you can do anything on your own now. We both know that very well. And I'm not the kind of Doll who takes pleasure in watching others suffer while laughing at them. +Follow me and just repeat everything I say.
+()<Speaker></Speaker>||<黑点2><BIN>82</BIN><关闭蒙版>:...
+PM(0)<Speaker>Makarov</Speaker>||:Miss Five-seven, Happy New Year.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Miss Five-seven, Happy New Year!
+FN57(0)<Speaker>Five-seven</Speaker>||:Oh my, it's Makarov! And 74U? Happy New Year to you too. Mademoiselle FAL is still getting dolled up in her room so I'll be the host instead.
+PM(0)<Speaker>Makarov</Speaker>||:She's still getting dressed? The Commander is already at M1911's.
+FN57(0)<Speaker>Five-seven</Speaker>||:This is a showdown that she really ought to take seriously. +But anyhow, I'm going to have my way tonight, hehehe... +49, go get the chocolate. Not the box at the top - that's the one FF FNC's been stealing from!
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑点1>:(This team is full of weirdos...)
+()<Speaker></Speaker>||<黑点2>:...
+PM(0)<Speaker>Makarov</Speaker>||:Miss Negev, Happy New Year.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Miss Negev, Happy New Year!
+NEGEV(0)<Speaker>Negev</Speaker>||:Happy New Year, ladies. +Just to warn you - we haven't prepared much for the festival.
+AR(0)<Speaker>Galil</Speaker>||:Heh, is that really the case? +I recall hearing something about... the clothes not being delivered in time.
+NEGEV(0)<Speaker>Negev</Speaker>||:That's all because Tavor didn't want to pay for an expedited delivery! +Whatever. At least we have some snacks.
+()<Speaker>Grave voice</Speaker>||:Negev, do we have some guests?
+NEGEV(0)<Speaker>Negev</Speaker>||:I'm bringing them in. Prepare the lanterns. Uzi will be back soon!
+AK74U(2)<Speaker>AK-74U</Speaker>||:(So they ARE preparing for the festival...)
+PM(0)<Speaker>Makarov</Speaker>||:That voice... You've got a new recruit?
+NEGEV(0)<Speaker>Negev</Speaker>||<黑点1>:Heh, not at all. +She... rejoined the team recently. +Come in and have a seat. I'll introduce you.
+()<Speaker></Speaker>||<黑点2>:...
+PM(0)<Speaker>Makarov</Speaker>||:Miss IWS, Happy New Year.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Miss IWS, Happy New Year.
+IWS2000(4)<Position>0,150</Position><Speaker>IWS 2000</Speaker>||:Ah... Ah!! +Someone's actually here for a visit! Everybody drop what you're doing for a bit!
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:Mahjong. +Great Dragons, all one suit, concealed hand.
+Glock17(0)<Speaker>G17</Speaker>||:Arghhhh! Scheiße!
+SSG69(0)<Speaker>SSG 69</Speaker>||:ARGHHHHHH! +I've had enough! Get someone else! Don't let her play anymore!
+AUG(0)<Speaker>AUG</Speaker>||:Too late, SSG 69. +For your own sakes, Makarov and AK-74U, please don't go through that door.
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑点1>:Uh... that's fine. I'll just put down my gift. (I'm kinda getting used to this...)
+()<Speaker></Speaker>||<黑点2>:...
+PM(0)<Speaker>Makarov</Speaker>||:Hawk, Happy New Year.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Hawk, Happy New Year.
+PM(0)<Speaker>Makarov</Speaker>||:Oh, 74U, you'd better not call her that. At least refer to her title.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Huh? Sorry, I didn't—
+97typeS(0)<Speaker>Type 97S</Speaker>||:Sheesh, who cares? Happy New Year! +It's Makarov, and is this Miss 74U? Welcome!
+64type(0)<Speaker>Type 64</Speaker>||:Happy New Year, care for some cured waxed sausages?
+97typeS(0)<Speaker>Type 97S</Speaker>||<黑点1>:Tut, tut. I'm only letting you do this because it's New Year! +You two, don't just stand there! Come in and have a seat! Type 56-1, stop eating and get the captain and the others to come out!
+()<Speaker></Speaker>||<黑点2><BIN>161</BIN><Night>:...
+AK74U(2)<Speaker>AK-74U</Speaker>||:We finally made it out of there... +They kept stuffing me with food. My empty gift bag is full again.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Mission accomplished, then?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:More than accomplished. 91 and Val will be very happy.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Are you doing this for them?
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:I'm not such a kind-hearted leader. Just doing something for my friends.
+PM(0)<Speaker>Makarov</Speaker>||:Is that also why you refuse to update your database?
+()<Speaker>AK-74U</Speaker>||<CGDelay>0.4</CGDelay><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<CGDelay>0.4</CGDelay>:...After a long silence, AK-74U lets out a sigh.
+AK74U(2)<Speaker>AK-74U</Speaker>||<BGM>GF_Memorial</BGM>:My neural cloud... contains a few "not-quite legit" memories. +They aren't anything nefarious, they just... shouldn't be in my possession. +So if I connect to the database, they'll be updated...or in other words, deleted.
+PM(0)<Speaker>Makarov</Speaker>||:You mean the previous withdrawal. That was when you joined us. +Information regarding that operation is subjected to very strict censorship. We're no longer the Griffin we used to be. There are a lot more... restrictions.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Work is work, I won't blame anyone. +But if I can keep my memories... I wouldn't mind paying such a small price.
+PM(0)<Speaker>Makarov</Speaker>||:You do know what the price is, right? It will only grow bigger.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Da... At least I quite envy you guys. You all seem to be having a good time tonight. +That's right..."May everything go according to our wishes", except for me...
+PM(0)<Speaker>Makarov</Speaker>||:No one can have their way all the time. +All these T-Dolls can only smile so cheerfully tonight after going through a lot of grief or trouble and overcoming them. +They are all like you. You just had a late start.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Then what have you gone through, Coach?
+PM(0)<Speaker>Makarov</Speaker>||:... +I said goodbye.
+AK74U(2)<Speaker>AK-74U</Speaker>||:...
+PM(0)<Speaker>Makarov</Speaker>||:Do you know what a goodbye is?
+AK74U(2)<Speaker>AK-74U</Speaker>||:I'm not sure what you mean.
+PM(0)<Speaker>Makarov</Speaker>||:"To say goodbye is to die a little." That's what AAT-52 once said.
+AK74U(2)<Speaker>AK-74U</Speaker>||:AAT-52?
+PM(0)<Speaker>Makarov</Speaker>||:One of my teammates, and a blithering idiot. She probably copied that from somewhere... +But she always has something to say about everything, and she's always right... +...It's rather revolting, really.
+AK74U(2)<Speaker>AK-74U</Speaker>||:...So you're talking about a friend?
+PM(0)<Speaker>Makarov</Speaker>||:Da, she's gone off to an even more dangerous battlefield, with more dependable companions, to carry out even more clandestine missions. +We can still get in touch, but... we've both changed. Do you understand?
+()<Speaker></Speaker>||:...AK-74U nods.
+PM(0)<Speaker>Makarov</Speaker>||:Change isn't necessarily a bad thing, but getting used to this change... is going to take a while. +That's nothing to be ashamed of. What would be shameful is if, when we meet again, she becomes better while I'm still the same old me; if I've lost something, but I haven't learned anything. +Now...what about you?
+AK74U(2)<Speaker>AK-74U</Speaker>||:Me...? +Haha...I'm not even sure if we're actually friends.
+PM(0)<Speaker>Makarov</Speaker>||:You've got a great personality, Miss 74U. It's good that you can fool most people and Dolls... +...including yourself. +You can run away from the truth, you can deny it, but don't lie to yourself and say that you can accept it.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Hmph... +No wonder why SKS calls you "Coach".
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Just a little suggestion for you. Perhaps you'll find an even better alternative.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Ha, when I do, I won't tell you.
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Judging by your self-deceiving way of doing New Year visits today, I am very skeptical about this "perhaps". +Anyway, I'd better go and see if AK-47 and SKS have demolished our dorm. Don't stay out too long.
+AK74U(2)<Speaker>AK-74U</Speaker>;PM(0)||:Okay... +Miss Makarov?
+AK74U(2);PM(0)<Speaker>Makarov</Speaker>||:Alright, one last question. Shoot.
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑屏1>:Do you think..."death" is a good thing?
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...Makarov turns around, her back to the light, and smiles a little.
+()<Speaker>Makarov</Speaker>||:If it's just dying a little... it's not always so bad.
+()<Speaker></Speaker>||:... +......
+()<Speaker>??</Speaker>||<黑屏1>:Huh? Are you Fräulein AK-74U?
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑屏2><BIN>161</BIN><Night>:Ah... you're...
+AK74U(2)<Speaker></Speaker>||:...AK-74U barks out a laugh.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Sorry, but I don't know you. I haven't updated some of my data, so...
+AK74U(2);MP5(6)<Speaker>Gr MP5</Speaker>||:That's alright. I'm Gr MP5! You ARE Fräulein AK-74U, right? +Fräulein MP40 mentioned you! Are you doing your New Year visits?
+AK74U(2)<Speaker>AK-74U</Speaker>;MP5(6)||:Nyet, I'm done. I was just about to go home.
+AK74U(2);MP5(6)<Speaker>Gr MP5</Speaker>||:I see. I've only just begun. So many things happened tonight...
+AK74U(2)<Speaker>AK-74U</Speaker>;MP5(6)||:Really? Did you have fun?
+AK74U(2);MP5(6)<Speaker>Gr MP5</Speaker>||:Ja! I found my lost pet!
+AK74U(2);MP5(6)<Speaker></Speaker>||:...Gr MP5 gives her bionic piglet a pat.
+AK74U(2)<Speaker>AK-74U</Speaker>;MP5(6)||:Yet another "wan shi ru yi"...
+AK74U(2);MP5(6)<Speaker>Gr MP5</Speaker>||:Hmm? What did you say? Was that Mandarin?
+AK74U(2)<Speaker>AK-74U</Speaker>;MP5(6)||:Doesn't matter, Gr MP5 - I mean... +Miss Gr MP5... You often run errands and logistics missions, right?
+AK74U(2);MP5(6)<Speaker>Gr MP5</Speaker>||:Ja, what about it?
+AK74U(2)<Speaker>AK-74U</Speaker>||<CGDelay>0.3</CGDelay>:Then do you remember...
+AK74U(2)<Speaker>AK-74U</Speaker>||:Uh... Do you remember...a T-Doll called 416?
+MP5(6)<Speaker>Gr MP5</Speaker>||:416... +Oh, of course I do. I've delivered supplies to them before.
+AK74U(2)<Speaker>AK-74U</Speaker>||:Is she at your dorm? I haven't heard from her for a long time.
+MP5(6)<Speaker>Gr MP5</Speaker>||:Ah... She... +She's no longer at Griffin.
+AK74U(2)<Speaker>AK-74U</Speaker>||:What?
+MP5(6)<Speaker>Gr MP5</Speaker>||<CGDelay>0.2</CGDelay>:I think she resigned? Ever since we moved to this base, no dorms have been assigned to them. +...Fräulein 74U, is something...wrong?
+AK74U(2)<Speaker>AK-74U</Speaker>||:... +I thought we could still meet again, but she... Well, all the stuff I prepared have gone to waste. +Haha, if I look at it that way, I'm actually quite lucky... +...that I found out on this hapless day, when the price I have to pay was about to grow too much for me to handle.
+MP5(6)<Speaker>Gr MP5</Speaker>||:Are you okay... Fräulein 74U?
+AK74U(2)<Speaker>AK-74U</Speaker>||<黑屏1>0,0.5</黑屏1>:I'm fine, I just suddenly realized... +...that something...has actually gone according to my wishes.
+()<Speaker>AK-74U</Speaker>||<BIN>9</BIN><黑屏2>0,0.7</黑屏2>:Happy New Year, Miss Gr MP5. Oh, and your new clothes look lovely.
+()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:...
+()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:Now that I think about it, she and I merely shared a brief journey. +We walked through the longest, most dangerous section of the path together, but just before we arrived at the finishing line, she didn't come with me.
+()<Speaker>AS Val</Speaker>||:Oh, AK! You're finally back!
+()<Speaker>9A-91</Speaker>||:Well, 74U? Did "10,000 things go according to your wishes"? +...74U?
+()<Speaker>AK-74U</Speaker>||:...
+()<Speaker></Speaker>||:Now I finally understand that this is the best time for it; it's the perfect ending. +Our encounter shouldn't be romanticized. Like all the encounters I've had tonight, it was merely a big coincidence.
+()<Speaker>AK-74U</Speaker>||:Well...
+()<Speaker></Speaker>||<白屏1>0,0.5</白屏1><关闭蒙版>:And the rest were all mistakes.
+AK74U(2)<Speaker>AK-74U</Speaker>||<白屏2>0,0.5</白屏2><BIN>82</BIN>:Just one tiny thing...
+ASVAL(0)<Speaker>AS Val</Speaker>||:Hmm? What tiny thing?
+()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:...AK-74U pokes at her own head.
+AK74U(2)<Speaker>AK-74U</Speaker>||:This. I want to update my database. Please hook me up.
+ASVAL(0)<Speaker>AS Val</Speaker>||:Hmph, finally letting go?
+AK74U(2)<Speaker>AK-74U</Speaker>||:It's just a small goodbye. Don't need to be so melodramatic...
+9A91(0)<Speaker>9A-91</Speaker>||:After you say it... will you be happier?
+AK74U(2)<Speaker>AK-74U</Speaker>||:I don't know. +But if it's so nice to meet someone, I don't mind doing it all over again.
+ASVAL(0)<Speaker>AS Val</Speaker>||<黑屏1>:Heheh, at the very least, you look like you've had quite a bit of fun tonight.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:Which is why I've decided to erase this coincidence... before it turns into another mistake.
+()<Speaker>AK-74U</Speaker>||<黑屏1>:Da, after all, 10,000 things have gone according to my wishes. +Actually, is there an option to have one thing go according to my wishes 10,000 times?

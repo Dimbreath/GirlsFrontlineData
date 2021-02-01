@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>159</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...End of operation.
+Nyto(1)<Speaker>Black-clad Doll</Speaker>||:...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:What a weirdo, do you not even know how to cry in pain? Are you mute?
+Nyto(1)<Speaker>Black-clad Doll</Speaker>||:...
+()||:The Doll clad in black remains utterly expressionless.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Nevermind, then let me see...what your body is made out of.
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Don't go too far, SOP-II. +We should preserve the body to collect more data.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:It's fine as long as I keep her alive, right? +It won't hurt if she's missing an eye or...
+Nyto(1)<Speaker>Black-clad Doll</Speaker>||:You... +...will not get anything...
+Nyto(1)<Speaker>Black-clad Doll</Speaker>||:...Activate self-destruct sequence.
+RO635(6)<Speaker>RO635</Speaker>||:SOP-II! Chop off her hand!
+()||<SE1>Explode</SE1><闪屏><duration>5</duration></闪屏>:
+()||<震屏>:...BOOM!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Arghhhhhh! +Dammit! I was too late! +Self-destruct sequence, my butt! It was just a bomb!
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:SOP-II... +Did you take a good look at the Doll...?
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:No. What about her?
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:She... +...didn't seem to be a Doll...
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:What are you talking about?! Why would they send a human instead of a doll?
+RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:But when she was hit, the red fluid that started leaking...looked more like...
+RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:It could just be something similar? Hardly a big deal.
+HK416(0)<Speaker>416</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>How are things on your end, SOP-II? Have you captured the Doll?</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:She blew herself up. You?
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>Same thing. Let's go back first. It's over.</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Don't the enemies have reinforcements?
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>We realized that once the black-clad Dolls disappear, the remaining enemies won't carry on.</color>
+HK416(0);RO635(6)<Speaker>RO635</Speaker>||:A command network like that could be a clue. +(But...what kind of Doll could they be...?)
+HK416(0)<Speaker>416</Speaker>;RO635(6)||:<color=#00CCFF>Let's go. Another transport squadron has arrived. It's time to withdraw.</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? There's no one left on the battlefield?! Since when?!
+HK416(0);RO635(6)<Speaker>RO635</Speaker>||:It's all your fault for picking up trash all the time, SOP-II! +Hurry up! We won't get any decent seats if we waste any more time!
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Damn! Alright, 416! Wait for meeeeee!
+HK416(0)<Speaker>416</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>I never said I was going with you.</color>
+()||<BIN>9</BIN><黑屏2>:...
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:That's right... +I never said that...

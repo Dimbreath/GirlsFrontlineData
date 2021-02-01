@@ -1,0 +1,15 @@
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>：...Finished cleaning up the Sangvis command post.
+NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||：This operation went well too, Commander.+The search didn't yield anything significant. Looks like they really were just passing by.
+NPC-Kalin(2)<Speaker>Kalin</Speaker>||<黑屏1>：Oh, and one more thing. Miss Helian sent word for you to give her a call after the operation. She's probably sorted out my request...
+Kalin()<Speaker>Kalin</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>：...Yeah. What's that about?+You'd better ask her in person.
+()||<BIN>8</BIN><BGM>BGM_Empty</BGM><黑屏2>：Calling Helian after a short break.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏1>：Congratulations, Commander. HQ will verify your reports and reward you accordingly.+You seem to have grown accustomed to working in Area S05, but don't let your guard down. The war is far from over.+Additionally, I have carried out Miss Kalin's request...+...You'll probably be glad to hear these voices.
+()||<BIN>9</BIN><黑屏2>：...+Helian plays an audio recording.
+M16A1()<Speaker>M16A1</Speaker>||：M4, M4!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Hey, M4! It's started!
+M4A1()<Speaker>M4A1</Speaker>||：...!
+()||<BGM>BGM_Room</BGM>：...M4A1's voice, calm and weary, can be heard in the recording.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>：Hello, Commander...+It has been a week. I hope you are doing well?+We are very safe here, and very well taken care of.+Our movements are restricted, but...we completely understand the measures HQ has taken...+After all, we are not the only ones who went through that ordeal, nor are we the only ones who...suffered...+Do not worry about us, Commander. And thank you for your concern and the protection you offer...+We will actively cooperate with HQ's work and look forward to seeing you again...
+()||<黑屏2><BIN>8</BIN>：Audio stops.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||：This is the best I can do during such uneasy times.+Is there anything you wish to say to M4, Commander?+...Understood. Send the recording to me later. I'll play it to them when I call them tomorrow night.+In the meantime, please continue to follow HQ's directives and fulfill your duties as commander.
+()||：Call ended.

@@ -1,0 +1,70 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:
+()||<BGM>BGM_Sneak</BGM>:An hour after the destruction of the quarantine wall. In the city of Belgrade.
+()||:The gunshots and screams have been replaced by the howling gusts crashing through the streets. +No sign of activity can be seen among the buildings.
+()||:...With a small exception.
+AK12(0)<Speaker>AK-12</Speaker>||:All clear. Let's move.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Got it.
+()||<SE2>RunStep</SE2>:Two Dolls run through the alleyways one after the other.
+()||:One advances in the front while the other walks backward to keep an eye on the rear. They guard each other's backs vigilantly.
+AK12(2)<Speaker>AK-12</Speaker>||:Stop. The drone detects ELIDs up ahead.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(2)||:Should we go around?
+M4A1Mod(0);AK12(2)<Speaker>AK-12</Speaker>||:There aren't too many of them. We're in a rush so let's plough through them. +Just giving you a heads-up so you can prepare for combat. You take the left, I'll focus on the right.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Understood. Thanks for the concern.
+()||<SE2>RunStep</SE2>:Their gunshots are muffled by suppressors and the storm. All that can be heard is the Dolls' footsteps and the clangs produced by empty shell casings falling on stone bricks. +After a while, the duo cross the main street, which is littered with human and ELID corpses, and enter another alley.
+AK12(0)<Speaker>AK-12</Speaker>||:If we're only talking about combat, you might actually make a decent partner.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:What do you mean?
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Your friend told me a few things about you so I didn't expect much from you in battle.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...That only serves to illustrate that a deserter who didn't even bother to say goodbye is not a reliable source. +People who believe in gossip and pry into others' affairs are even more unreliable.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Don't misunderstand, I'm genuinely curious, and I intend to keep observing you like a hawk. +But right now we have more important things... Ange? What's the matter?
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>Are you reading AN-94's and AR-15's signals?</color>
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:...Nyet, we haven't received any signals or picked up any transmissions so far. +You haven't been able to contact them?
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>That's why I'm asking you.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>It's been almost half an hour since they last got in touch. I just have a bad feeling about this.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>How far are you from the opera house?</color>
+NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Judging by the direct distance... Another ten minutes on foot, I'd say.
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:Assuming nothing unexpected happens on the way.
+NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Have you found the new safe house, Ange?
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>Don't worry about me. It's pretty safe where I am. Just focus on re-establishing communication with AN-94 and AR-15.</color>
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:I hope you're right. If you've got ELIDs where you are, we're too far away to run to your rescue, you know.
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>Anyway, just get there ASAP. If there's any new information or development, give me a report immediately.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>I can fend for myself. Ange out.</color>
+NPC-AngeStreet(0)<Speaker></Speaker><通讯框>||:Click.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Is she going to be alright?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Why wouldn't she be? +She said she's okay on her own, so she's going to be alright.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:What a clear and simple answer.
+AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:It'd be too much to have two Dolls muttering to themselves in Task Force DEFY, don't you think?
+()||<BIN>159</BIN><黑屏2>:M4A1 and AK-12 resume their course toward their destination. After passing through who knows how many streets and alleyways, they finally arrive at a square.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Is this the opera house...?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Da, this is it. The building facing the square with the bronze statue of a rider. +But this terrain... I'm afraid we can't just barge in through the front doors.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Didn't Ange tell us to find them ASAP?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Better late than never. There's a difference between giving prompt support and waltzing right into a trap. +Contrary to the narrow streets with plenty of cover, the square is exposed and can be easily monitored from a high vantage point. +Whoever won the fight is most probably ready to take us on.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Then what do we do? We're this close already. We can't just stand here and stare at the opera house.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Let's take a few minutes to scout around the building first and try to see if anything seems wrong in there. +We'll have to enter eventually, but I don't want to be blown into smithereens before we even get inside.
+AK12(2)<Speaker></Speaker>||:AK-12 may be smug and brash, but her strategies are always extremely cautious.
+()||:M4A1 follows her closely through side streets and alleys as they take a slow and convoluted route toward the opera house. +After a while, M4A1 can no longer resist the urge to ask AK-12 this question.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Aren't you at all worried about AR-1...AN-94?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:A little, but not as worried as you are about AR-15.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Hmm...
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Unlike suicidal maniacs like you and AR-15, AN-94 has a very clear idea of who she is and what role she plays. +Even if AR-15 wants to do something stupid, I'm sure AN-94 will try to stop her.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:That's why you seem so carefree... +...Now that I think about it, even though AR-15 and I have always been on the same team, I can't say I know her very well. +I haven't been able to have a proper talk with her either ever since we were reunited.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Wanna join my Human and Doll Observation Club? If you pay your member's fee now, you can be our second member.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...Is that a joke?
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Everything you do gives me great insight, even your highly defensive reactions.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:I can never tell...if you're being serious or not.
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:I am always dead serious.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Also, I need to concentrate on searching the area. Please keep an eye on the comms channel and see if you can pick up on anything nearby.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...Nothing. +We're already so close but we still haven't heard anything from AR-15 and AN-94.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Don't just search for friendly signals. Turn off your IFF for the time being. It'd be great if we can pick up anything even from S.F. or the white things.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:The only thing I'm receiving is the emergency broadcast channel... +They seem to be urging citizens who couldn't make it to bunkers in time to find shelter in the cathedral.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Oh? Are they actually being so ostentatious? I'll bet you anything this isn't part of K's plan. +It would seem that the Griffin Commander isn't really the type to do things by the book.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Yeah... The Commander has helped us out a lot even though we never expected any help.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Well, thanks to your Commander's broadcast, I now have a pretty good idea on the situation here. +I'm absolutely certain that we'll be walking into an ambush in the opera house.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:How can you be so sure?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:The fact that the radio broadcast is still transmitting shows that the interference caused by the storm isn't strong enough to shut down communications in the whole area. +However, the opera house is as quiet as a black hole. That's totally unnatural.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:I see... That means there must be jammers in there.
+AK12(0)<Speaker>AK-12</Speaker>||:I'm glad to see you're keeping up. +We have a tough fight ahead. Are you ready?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:You bet.
+()||:The two Dolls exchange a smile.
+()||<SE2>RunStep</SE2>:Their footsteps soon disappear behind the front doors of the opera house.
+()||<黑屏1>:

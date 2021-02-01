@@ -1,0 +1,43 @@
+()||<BGM>BGM_Boss</BGM><BIN>15</BIN>:In a control center abandoned by Griffin, the last sanctum for the Sangvis unit Destroyer.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||:...You hear that, Dreamer?! Griffin is moving much more quickly than expected!
+BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:...+Oh my... What are you crying about?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Hurry! Stop them with your firepower!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:...Huh? Why should I?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Isn't that the deal?! Once my mission is accomplished, you'll cover my retreat with air support!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Oh...+Then...have you accomplished your mission?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:The assassination attempt on Kryuger failed, but that's only to be expected.+More importantly, the program planted into AR-15 is working. I found the data concerning Safe House 3 in her neural cloud.+All information required for Plan Parapluie is ready, so help me get outta here already!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:But...since the mission is already accomplished, what's the point in keeping you?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:What...
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Say... We're T-Dolls, right?+T-Dolls are pretty much disposable goods, right?+I don't really have to waste my precious babies on picking up some trash.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:H...How could you?!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Well, even if you die, you'll come back to life soon enough.+And you'll forget everything you had to do with me.+Then you'll obediently take my orders again like a cute little puppy.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:How...can that be... I won't...believe you ever again!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Really, my dear little idiot?+Do you think...this is the first time it happened?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:...!+You scumbag! Nutcase! Shorty!+You promised... You promised you'd save me...
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Oh, stop crying. I was just kidding.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Kid...ding...? Really?
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Agent installed the keycode for accepting the file transfer on you in case I start messing around.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Hmm... Agent did that...for me...
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:I've already started roasting the AR Team. You have ten minutes to get out of there.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:R-Really...?
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:Yes, for this time, at least...
+Dreamer()<Speaker>Dreamer</Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:But if you are tapped again, I'll dump you for real.
+Destroyer()<Speaker>Destroyer</Speaker>||:T...Tapped?+?! ...By whom?! When?!
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:...
+AR15(0)<Speaker>ST AR-15</Speaker>||<BIN>3</BIN><黑屏2>:Humph...+When did you notice me, Dreamer?
+BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:Whoever dominates the skies dominates everything. Not even a kitten on the ground can escape my notice.
+AR15(0)<Speaker>ST AR-15</Speaker>||:No wonder... So shutting down comms isn't enough.
+BOSS-11(0)<Speaker>Dreamer</Speaker>;AR15(0)||<BGM>BGM_Sad</BGM>:You've been waiting for this chance, haven't you? Have Griffin shut down your communications module so you can pull a sneak attack on us.
+BOSS-11(0);AR15(0)<Speaker>ST AR-15</Speaker>||:...Looks like you're not as crazy as they say.
+BOSS-11(0)<Speaker>Dreamer</Speaker>;AR15(0)||:Dear me... You, too, aren't as cold and deadpan as the data claims.+But why? As a T-Doll, why do you go to such lengths to disobey your employers?
+BOSS-11(0);AR15(2)<Speaker>ST AR-15</Speaker>||:You used me to acquire information that puts my companions in danger...+You think I'd forgive you for that, Dreamer?!
+BOSS-11(0)<Speaker>Dreamer</Speaker>;AR15(2)||:Now don't get worked up. You knew it all along, didn't you, that you're the source of the leak?+If you had told your pals just a bit earlier, Destroyer's plan would've been foiled.
+Destroyer()<Speaker>Destroyer</Speaker>||:Wait, Dreamer! What are you talking about?!+So you mean my mission was just some kind of appendix?!
+BOSS-11(0);AR15(2)<Speaker>ST AR-15</Speaker>||:...+Believe what you want. My current course of action has nothing to do with Griffin's orders.
+BOSS-11(0)<Speaker>Dreamer</Speaker>;AR15(2)||:Oh? Looks like you still don't understand.+Do you think we just happened to pick you, the way lowlife humans decide which character to kill off in their stories?+No, AR-15... You're chosen.+Don't you remember? The ability we gifted you?
+BOSS-11(0);AR15(2)<Speaker>ST AR-15</Speaker>||:...?!+Don't tell me... Everything was...
+BOSS-11(0)<Speaker>Dreamer</Speaker>;AR15(2)||:Heheh, exactly.+Why don't you try putting up even more of a fight, AR-15 of Griffin?+Let's see if your death throes will make things better or worse?
+BOSS-11(0);AR15(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:...+As you wish, Dreamer.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>27</BIN>:...I will keep fighting. Until I get to the bottom of everything.
+Dreamer()<Speaker>Dreamer</Speaker>||:You willingly betray an entire organization for your companions' sake. Should I applaud such profound sentiments?
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:I'm only doing this because it's the order I was given as a T-Doll.+An order of the highest priority...as a member of the AR Team.+I will not betray those who accepted me, even if it costs me my only home.+This is my only worth and my only fate.+Wait and see, Sangvis.+I will step on your broken faces and have you choke out all your conspiracies one by one!

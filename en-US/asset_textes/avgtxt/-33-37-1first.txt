@@ -1,0 +1,79 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>55</BIN><黑屏2>:On the outskirts of Tallinn. +The AR Team arrives at the location where defenses are to be deployed and awaits their sortie.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Understood, Commander. We will coordinate with the other echelons. Leave the assault to us. +Roger that. We await your orders.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Have you issued our objectives?
+RO635(0)<Speaker>RO635</Speaker>||:Yes, we're all sorted here. +AR-15, is it really a good idea to let M4 go solo?
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:That's her decision, and we should trust our leader. +Besides, judging by the current situation, that is the best course of action.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm also a bit worried... +If what M4 told us really happens...won't she be in grave danger?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Lighten up. Her resolve is a lot stronger than it was.
+RO635(0)<Speaker>RO635</Speaker>||:Speaking of which, what happened after you connected with M4?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:You really want to know?
+RO635(0)<Speaker>RO635</Speaker>||:Yeah. You two felt...different after you came out.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:It was nothing special, really. +We simply turned down some lousy invitations and witnessed a few distasteful moments.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15... +I don't think I get it...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...That's probably for the best. +Ignorance is bliss.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Fine... I never really care about such things anyway. +All I want is for all of us to stay together!
+()<Speaker></Speaker>||<黑点1>:Right then, gunshots can be heard from the distance. +At the same time, all members of the AR Team receive an incoming transmission request.
+RO635(4)<Speaker>RO635</Speaker>||<黑点2>:...They're exchanging fire ahead of schedule. Something's not right.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:I honestly didn't expect the Commander to come up with a plan to commandeer the armored train...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What's wrong with that? I quite like the plan! If we pull it off, we'll be able to make some huge fireworks!
+RO635(0)<Speaker>RO635</Speaker>||:I'm surprised you're still so optimistic... I'd count my blessings if we don't get turned into fireworks ourselves before we even get our hands on the train...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Looks like there's been a change of plan on 404's end. Prepare for battle.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:The transmission comes through.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>There are more sentries around the armored train than we anticipated.</color>+<color=#00CCFF>Our infiltration has been spotted but we have nowhere to fall back to.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Did someone kick a rock and send it clattering?
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>That would've actually made things simpler.</color>+<color=#00CCFF>The enemy's train is on full alert and seems hesitant to enter the city.</color>+<color=#00CCFF>They don't seem to have a new target either after they blew up the Commander's train.</color>+<color=#00CCFF>But their infantry have disembarked from the train. We're not seeing any human soldiers, but there are a lot of units that we've never encountered before...</color>+<color=#00CCFF>All in all, if the Commander wants the plan to go ahead, you'll need to give us a hand.</color>
+RO635(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:Looks like the Commander will have to switch plans.
+RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I mean, we're frail and delicate Dolls that are only good for dirty work; asking us to seize such a massive lump of metal machinery IS a bit too much.</color>
+RO635(2);HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF><size=30>Oh, so you DO know that. Why did you even agree to this plan to begin with...?</size></color>
+RO635(2)<Speaker>RO635</Speaker>;HK416Mod(0)||:It's too late to complain.
+RO635(0)<Speaker>RO635</Speaker>||:Commander, this is the AR Team. The Griffin forces are all set. Squad 404 has also reached their position but requires support. How should we proceed? <c>Prioritize rescuing Squad 404. <c>Concentrate fire on breaking through the defenses of the armored train.
+()<Speaker>Commander</Speaker>||<分支>1</分支>:Prioritize rescuing Squad 404. +We can't take over the control system of the train without them.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>I can see that you understand what we're worth, Commander.</color>
+()<Speaker>Commander</Speaker>||<分支>2</分支>:Concentrate fire on breaking through the defenses of the armored train. +We launch a blitz from the other side and take them by surprise. +That should also take some pressure off Squad 404.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<分支>2</分支>:A decision that's very much your style, Commander.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Understood. Then I'll issue the order right away. +Operation Golden Fleece is go. +Charge!
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:... +......
+()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:...BOOM!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Reverse</BGM><BIN>208</BIN><黑屏2>:(Coughs) This thing...is even spicier than Sangvis Ferri's cannons...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Watch your step. With that kind of firepower... If we take a direct hit, not even a crumb of our core will be left.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I know! Like hell I'd let them blow me to smithereens!
+RO635(0)<Speaker>RO635</Speaker>||:UMP45, status report!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We're still 600 meters away from the train!</color>+<color=#00CCFF>Most of the infantry is heading your way, but with the cannons still operational, we can't really get close!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Looks like we'll have to push forward from here. SOP-II, let's go.
+RO635(4)<Speaker>RO635</Speaker>||:Wait, what are you planning to do?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We are the most high-specced Dolls here. +So we must do what only we can do.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Are we making a run for it?!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:That's right. SOP-II, make use of all your senses to dodge their artillery fire. +Of course, I'm coming with you.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Sounds dangerous... But it'll be a nice challenge!
+RO635(4)<Speaker>RO635</Speaker>||:You... I'm coming as well!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:No, you stay here. With M4 away, you're the only one who can coordinate so many echelons. +I don't believe you're capable of supporting the HOC and our forces while dodging artillery shells at the same time.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't worry, RO! +We'll be fine!
+RO635(0)<Speaker>RO635</Speaker>||:...Alright. +Then I'll try my best to make things easier for you with the HOC.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:That'll do. +C'mon, SOP-II.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Alriiiiiight!
+()<Speaker></Speaker>||<SE1>Explode</SE1><SE2>Gunfight</SE2><黑点2>:...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:It'll take them 10 seconds to reload. Watch where you're going, SOP-II!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I know, but there's more than one cannon!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Then use your instincts!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Just hang in there for a little longer! The HOC will soon be in range!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...BOOM!!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Whoaaaaa!!!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:SOP-II!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm fine! But I'm gonna run out of Dummies soon! +Hurry up, RO!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Give me 15 seconds!!</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:(Coughs) They must think really highly of us to have sent such a behemoth to crush us.
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>HOC, attack!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:... +Griffin's HOC accurately takes out the cannons on the armored train.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Now, SOP-II!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:HAAAAAAAAAAARGH!! +Without your cannons to save your butts, watch me while I tear you all apart!!!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:SOP-II, our priority is to board the train!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm cutting open a path!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:...Right, don't overdo it.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>202</BIN>:Several minutes later. +The AR Team successfully boards the armored train.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Room</BGM>:RO, we did it. Where's the control room?
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>In the middle section of the train...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We're in the control room already. We're currently trying to obtain control clearance of the train.</color>+<color=#00CCFF>Please watch our backs and keep the enemies out of our way.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh...? When did you get here?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>While you were busy howling.</color>+<color=#00CCFF>In any case, we're leaving the surroundings to you.</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>AR-15, SOP-II, our echelons and I are heading over to regroup with you, ETA in four minutes.</color>+<color=#00CCFF>Please guard the control room for Squad 404 before we get there!</color>

@@ -1,0 +1,106 @@
+()||<BIN>79</BIN><BGM>BGM_Hello</BGM>:On the day of the mission.+At the party venue.
+()||<BIN>79</BIN>:I encounter Zas M21 to see she is engaged in a lively discussion with a guest.+Seeing me wave to her, she excuses herself with an apologetic look before walking over to me.
+指挥官()<Speaker>Commander</Speaker>||<BIN>79</BIN>:Hi, having a nice chat?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:Mhm, it's rare to meet a human with such similar tastes.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:I see. Speaking of which, that's a nice outfit you're wearing today.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:Thank you. I'll look you up for a chat the next time I'm free.+Though, I want to say, there seems to be a problem with this place.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Huh, what problem?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:I noticed that there are other Griffin T-Dolls present here.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Hm? And what's wrong with that?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:What's wrong? Commander...+Those dolls are NOT FROM OUR TEAM.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Oh? Is that so...? Haha...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:Commander?
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Uhh, those Dolls are extra security staff...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:Really?
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:With the jewel being so big, it'd be safer to have more people watch over it...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:...That'll do, Commander.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:(Whew...did I pass?)
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:So in short, there's no need to worry.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Er, ah, I'm going to interpret that as you're not going to waste time on unnecessary details and instead will focus all of your attention on the mission...+Is that correct?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN>:Exactly. Commander, your deductive skills have progressed by leaps and bounds.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>79</BIN>:Th-Thank you...+In any case, do your best for the mission. I'll leave this place to you.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>79</BIN><黑点1>:Don't worry, Commander.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>2.5</黑屏1>:One and a half hour later.+In a corridor.
+()||<BIN>97</BIN><Night><黑屏2>2.5</黑屏2><Night><SE2>Gunfight</SE2>:Bang bang!
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night>:(Coughs)+Seems like it would be wise to not get on your bad side...+(Coughs) ...Remind me to group up with you on our next mission.
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:Heh, do you regret staying by yourself?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:I don't understand what you mean.
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:Really now...+Although, I just realized that you haven't been going all-out until just now.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:That's because I've been thinking.+Thinking. Do you understand, DSR?
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:Hm?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night><黑屏1>:In short, I don't get it.+Fighting you just feels too weird.+(That's right, this entire chain of events is strange as well...)
+()||<BIN>9</BIN><边框>2</边框><BGM>BGM_Room</BGM><黑屏2><黑屏1>:Half an hour ago.
+()||<BIN>139</BIN><边框>2</边框><黑屏2>:After the chaos caused by the fire alarm, IDW waylays SAA with the challenge of a duel.+Welrod, Grizzly, and Zas M21 quietly snatches the jewel away behind SAA's back.
+Welrod(2)<Speaker>Welrod</Speaker>||<BIN>139</BIN><边框>2</边框>:(Hushed voice) Damn it! Why is it SAA!
+Welrod(2);ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框>:Although the plan is going smoothly...something seems off.
+Welrod(2)<Speaker>Welrod</Speaker>;ZastavaM21(4)<Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框>:What?
+Welrod(2);ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>139</BIN><边框>2</边框><黑屏1>2.5</黑屏1>:...Never mind. I'm probably overthinking things.+Let's go.
+ZasM21()<Speaker>Zas M21</Speaker>||<BIN>9</BIN><边框>2</边框><BGM>BGM_Empty</BGM><黑屏2>2.5</黑屏2>黑屏1>2.5</黑屏1>:(Judging by our situation, those Dolls I saw at the party should also be...)
+()||<BIN>97</BIN><Night><黑屏2>2.5</黑屏2><SE2>Gunkill</SE2>:Bang bang!+DSR's bullet rips through the air and nearly hits Zas M21.
+DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:My dear, spacing out during a battle is very rude.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:...DSR, are you really a phantom thief?
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:What else would I be? I still need to link up with EVO 3 and make off with the jewel♪
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:This makes no sense at all. You're a Griffin Doll.+The Commander ordered us to guard the jewel. Why would you all come to steal it?
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||:Gd DSR-50 suddenly halts her attack and stares at Zas M21 with interest.+This catches Zas M21 off guard.
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:I saw something written in the cafe's anonymous guestbook before. Something about how you were a surrealist, Zas.+It would seem that I misread it.+Did it actually mean "super-realist"?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:...I find it hard to understand the reasoning behind that book's existence.
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:Kakakakaka.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:...Hold it. What kind of strange sound is that?
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night>:Don't you know?+T91 taught me this special villain laugh. That's how its written in the manga books she borrows.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:What kind of lame joke is this?+...Hey!
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||<SE2>Gunfight</SE2>:Bang bang!+DSR fires even more ferociously in Zas M21's direction.
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)<Speaker>Gd DSR-50</Speaker>||<BIN>97</BIN><Night><BGM>BGM_Room</BGM>:I thought you'd be more instinct-driven. I didn't expect you to pay so much attention to the rationality of a situation.+Then, allow me to show you the rationale behind this.+Also, you still have one more option...which is to be defeated by me♪
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>;DSR50(4)||<BIN>97</BIN><Night>:Ugh... dammit...+How...could I possibly be defeated like this!
+ZastavaM21(4)<Position>0,-100</Position>;DSR50(4)||:
+()||<黑屏1>5</黑屏1><SE2>Gunfight</SE2>:Unable to advance toward DSR in the face of her barrage, Zas M21 has no choice but to hide behind cover.
+()||<BIN>9</BIN><SE1>Explode</SE1><黑屏2>5</黑屏2>:Boom!
+DSR50()<Speaker>Gd DSR-50</Speaker>||<BIN>9</BIN>:Next time, take more initiative in team selection!
+()||<BIN>9</BIN>:There is a sudden crash and the corridor plunges into total darkness. The sound of gunfire stops and DSR vanishes.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>9</BIN><黑点1>:Is that...the chandelier on the ground...+Oh no! Grizzly!
+()||<BIN>88</BIN><黑点2>:Fifteen minutes later.+Inside a storeroom.
+()||<BIN>88</BIN>:Zas M21 holds up Grizzly from where she was lying on the ground, and shakes her vigorously.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>88</BIN>:Grizzly! Wake up!
+()||<BIN>88</BIN><黑点1><SE2>Gunfight</SE2>:The shaking does not wake Grizzly. At the same time, Zas M21 hears the faint sound of gunfire from close by.+She considers briefly upon the matter then lays Grizzly down. She steps out of the storeroom, raising her gun as she tiptoes along the wall.
+()||<BIN>97</BIN><Night><黑点2>:Around the corner of the corridor.+Zas sees DSR, who is apparently engaging someone.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night>:(Hold it, the Doll she's shooting at...is someone I've never seen before...)+(And DSR just snatched the jewel from her.)+(Could it be...)
+ZastavaM21(4)<Speaker></Speaker><Position>0,-100</Position>||<BIN>97</BIN><Night><黑屏1>:She decides to leave without any hesitation after staring at the unknown Doll.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><黑屏1>:...Late at night after the conclusion of the mission.
+()||<BIN>8</BIN><黑屏2><Night>:Griffin Control.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><BGM>GF_Memorial</BGM><Night>:...Yes, I withdrew after seeing that unfamiliar Doll, then I brought Grizzly and EVO 3 back.+Are they...awake yet?
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Yes, and they're fine now.+The only thing they mentioned is that they couldn't remember what happened.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:(Quietly) That's good...+Though, there is one thing, Commander.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:What is it, do you have more to report?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:All of this makes no sense.+The only thing that can explain this lack of logic...+...Is that the jewel was deliberately stolen, and the so-called "404 Phantom Thieves Brigade" doesn't actually exist.+And...you knew all about this, didn't you?
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><震屏><Night>:(Cough cough!)
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:You're acting quite suspiciously, Commander.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:A-Am I? Uhm, don't mind me, the coffee's just too hot!+(I've been underestimating Zas from the start...)
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:...And the fact that Grizzly and EVO 3 passed out really did make me worry for a while.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Don't worry, they weren't hurt too bad. They're in no worse condition than coming back from a logistics mission.+However, I didn't expect you to be so concerned about the other Dolls, Zas.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:...What nonsense are you talking about, Commander?+If my teammates ended up dying then my experiences gained from working with them would become a waste.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Don't keep overthinking things.+You need to share your concerns with them from time to time.
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:Is that so? Dolls don't need to be concerned with feelings like concern or disgust.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:So this is how you feel?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:Everyone's just like a can of food to me. There's no difference whether you go to a different base, join a different echelon, or get to know different teammates.+In essence, it's just like going to a new city and buying a can of food from a convenience store. All you need is to taste a few mouthfuls and you can throw it away. It's pretty much the same wherever you go.+Besides...you're the ones who decide what we do and see.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Zas...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:Sorry, I've pried too deeply into this.+Perhaps...I shouldn't have known about the truth behind the operation.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:No, no, I'm the one who should be apologizing...+I should have been more...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:Sorry, the apology just now was just a formality.+But isn't it nice that humans at least have the luxury of remorse?
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Are you...unhappy, Zas?+Is there something I should do...
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:No, I just want to forget some things.+Forget all about those deductions and the things I shouldn't have been thinking about.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Th-Then, what do you want to do?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:What do you think, oh wise Commander?+Don't you think I need something to divert my attention?
+ZastavaM21(4)<Position>0,-100</Position><Speaker></Speaker>||<BIN>8</BIN><Night>:Zas M21 shows off her fingers.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:What? No!
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:This is the latest brand of nail polish.
+ZastavaM21(4)<Position>0,-100</Position><Speaker></Speaker>||<BIN>8</BIN><黑屏1>4</黑屏1><Night>:I look at Zas M21's nonchalant smile with an ache in my heart.
+()||<BIN>9</BIN><黑屏2>4</黑屏2><黑屏1>4</黑屏1>:If I were more honest...just a little more honest...
+指挥官()<Speaker>Commander</Speaker>||<BIN>8</BIN><黑屏2>4</黑屏2><Night><Night>:I-I don't know how to pick those things!
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><Night>:(Laughs) If you think there's something I need to know, I can find out at any time.
+ZastavaM21(4)<Position>0,-100</Position><Speaker>Commander</Speaker>||<BIN>8</BIN><Night>:Alright...+So...I'll go pick some out with you on a weekend?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>8</BIN><黑屏1>4</黑屏1><Night>:I look forward to that.
+()||<BIN>9</BIN><黑屏2>4</黑屏2><黑屏1>4</黑屏1>:I wonder if getting along with each other will become easier, whether if it's between Dolls or between the two of us...+If that were the case...
+指挥官()<Speaker>Commander</Speaker>||<BIN>9</BIN><Night>:By the way, which ones are you thinking of getting?
+ZastavaM21(4)<Speaker>Zas M21</Speaker><Position>0,-100</Position>||<BIN>9</BIN>:It's very simple. I want all of them.
+()||<BIN>9</BIN><黑屏1>:...+I wonder...if my wallet will survive...

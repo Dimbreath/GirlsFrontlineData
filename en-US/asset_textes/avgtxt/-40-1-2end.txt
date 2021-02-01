@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM><回忆>:... +Three days ago, in the Griffin dorms.
+()<Speaker></Speaker>||:Alone in her dorm, MDR is typing rapidly on her phone.
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||<BIN>82</BIN>:Ah...
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:AAAH-CHOOOO!
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>||:(Sniffs) I really should turn off my biological reflex module! +No, wait, doesn't this mean someone's thinking of me? +It can't be the Commander, can it? Ahahahahahahaha, what a thought!
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:MDR? Isn't it time you returned the sunglasses I lent you?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:...
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:Why are you looking at me with such a disappointed face?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:...I just wasn't expecting it to be you. Uh, what were you saying?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:...My sunglasses. The ones with a lucky symbol on the temple.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:Have I borrowed them? Hold on, let me look for them... +Say, why have you started looking for them out of the blue?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:We have a mission on an island tomorrow, right? +The Commander said we could bring along our swimsuit, so...
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:Oh, right. That island mentioned in the thread. I know, I know.
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:You don't sound very jealous.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:I'm actually more interested in the legend about the "treasure that can change your fortune" on the island.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:<Size=32>The discussion regarding the evidence and findings about the legend I had with someone else made the thread ten pages long...</Size>
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:Treasure that can change your fortune?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:Yep, caught your attention, didn't I? A luck-changing treasure! +Apparently, if you find it, it will rewrite all your misfortunes and you'll have nothing but good luck and smooth sailing for the rest of your life!
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker><Shake>0.1</Shake>||:It... It's not like my life is so unfortunate, right?! +But if there really is such a thing, it might be worth it...?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:Ha, found your sunglasses! What did you say again?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:So where's that treasure?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:If I knew, it wouldn't a legend! +Look at this satellite map. You see this huge forest on the island? Since it's a treasure, it must be hidden in secret places like that!
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:You think so? +But if I'm not lucky enough to find it...
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:I'm sure it isn't in the sea. +Here, take your glasses. Who knows, maybe this lucky symbol might just help you find it.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><关闭蒙版><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BIN>162</BIN>:
+()<Speaker></Speaker>||:... +Three days later, on a stretch of beach far away from the Commander.
+()<Speaker></Speaker>||<BIN>162</BIN>:R93 takes out her sunglasses and puts them on her head.
+R93(2)<Speaker>R93</Speaker>||:I'm counting on you... grant me all the luck in the world!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:What?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:Nothing, nothing at all~ +Are you ready?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:I've been ready since we got here! +Luck-changing treasure~! +If we can really find it, then I'll be No.1 to the Commander...no, perhaps even the whole of Griffin! +Thanks for bringing me along, R93!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:<color=#A9A9A9>I brought you here because you were so fired up. Not that I could ever tell you that.</color>
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Still, are we not telling the Commander about this? +If we get caught for acting without permission...
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:Ugh, I didn't have the best of memories from my last beach escapade... +So this time, we mustn't tell the Commander until victory is guaranteed!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:You mean that time when your bikini top got hooked away and you had to hide?
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:Wait... How did you know about that!?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:You know that thread about the beach volleyball match on the Griffin anonymous forum? The person who keeps going on and on about how good bullpup rifles are shared this piece of gossip and even posted a picture of your sunglasses.
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:I think I know who you're talking about...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:So did it actually happen?
+R93(2)<Speaker>R93</Speaker>||:Don't be so hung up over that, the treasure is more important. Let's go!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_amb_wilderness</SE1><BIN>1</BIN>:Five minutes later...
+R93(2)<Speaker>R93</Speaker>||:Ugh...these messy branches are all over the place. +I know nature has reclaimed this island for decades, but this practically looks like a primeval forest.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Not to mention how spooky it is...
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:True. Reminds me of a horror film set in a dark and gloomy forest like this. +It's about this person who gets lost in the forest. Then a spirit suddenly appears and...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:W-Why are you suddenly telling me a horror story?!
+R93(2)<Speaker>R93</Speaker>||:It just came up. What's wrong?
+R93(2)<Speaker>R93</Speaker>||:
+()<Speaker></Speaker><Position>0,100</Position>||:R93 looks back at P38, who has an expression of absolute terror on her face.
+R93(2)<Speaker>R93</Speaker>||:P38, don't tell me...you're scared of ghosts?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:Uh... +Uh...Ha! Ha! Ha! +No way, we're T-Dolls! +Besides, scientifically speaking, ghosts can't possibly be real, right? RIGHT?!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:Hmm?
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:I-In any case, let's hurry up and find the treasure, then get the hell outta here!
+P38(2)<Speaker>P38</Speaker>||:
+()<Speaker></Speaker><Position>0,100</Position>||:P38 takes a deep breath and marches on with great determination. R93 follows suit. As she stares at P38's back, an idea suddenly occurs to her...
+R93(2)<Speaker>R93</Speaker>||:Poke.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>AAAAAAAAAAAAAHHHH!</Size>
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:
+()<Speaker></Speaker><Position>0,100</Position>||:The scream sends flocks of birds flying through the foliage. The poke in the back seems to have overloaded P38, as she dashes forward in a frenzy and disappears into the trees...
+R93(2)<Speaker>R93</Speaker>||:...She WAS scared, after all. +Sigh. Hopefully, luck's on my side and I can find the treasure.
+()||<黑屏1>:

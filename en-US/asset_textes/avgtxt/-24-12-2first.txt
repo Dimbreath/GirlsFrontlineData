@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>85</BIN><BGM>BGM_Empty</BGM><黑屏2>:...The battle concludes.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏1>0,5</黑屏1>:We've arrived, SOP-II! +I didn't think Scarecrow was actually telling the truth... +...SOP-II?
+()||<BIN>9</BIN><黑屏2>:...
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:<size=55>AHHHHHHH—!</size>
+()||<BIN>85</BIN><闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<震屏>:
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BGM>BGM_NightOPS</BGM>:SOP-II?!
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm fine... We can rest easy at last... +Along the way... I just couldn't shake off thoughts like... +"What if this is a trap? I'm going to get everyone killed..."
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:That's fine, SOP-II. Sometimes you need the courage to take risks during operations. +If I were in your place, I wouldn't dare make that decision.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:But M16A1 once said, "the only difference between bravery and foolishness is in the results." +I used to have teammates in the past to rein in my impulsiveness, but now I have to be responsible for everyone...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:We don't want to be a burden to you, SOP-II.
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Still, our fates are linked now. Just a while ago, I wouldn't even think about such things... +M4A1... had it so hard this whole time... +I probably caused a lot of trouble for her...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:SOP-II...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Heh, I'm probably not cut out to be a team leader. +Now, let's see what news our scouts bring us!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||<黑点1>:Yeah...
+()||<BIN>9</BIN><黑点2><黑点1>:...The recon T-Dolls return several minutes later and report their findings to Cx4. What they found is evident enough from the looks on their faces.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:...I'm sorry, SOP-II. There's nothing left here and we can't even establish comms. +We...we can't contact the Commander or find any clues...
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...So it was like that after all. +I'd expected this, but...
+Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II looks at the crestfallen expressions on the Dolls' faces.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage1</BGM>:No! Cheer up, everyone! +If there aren't too many bodies around, it means the Commander and Miss Kalina are still waiting for us somewhere!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Maybe we should take a rest first. +The map shows that if we carry on, we'll have to go through a Military outpost too.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I see it... +I've got tactics recorded for what comes next, but my neural cloud might not be able to bear the strain of the calculations needed.+Haha... if AR-15 were here, she'd probably laugh at me and say that this sort of thing wasn't for idiots anyway.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:It's okay. We wouldn't have made it here without you. +You've already done very well. Let's do our best to handle the rest.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:...+<color=#A9A9A9>(Isn't there any other way...?)</color>+<color=#A9A9A9>(Wait, I think I'm forgetting something...)</color>+<color=#A9A9A9>(The reason we came to this base in the first place was to find somewhere safe, and then... )</color>+<color=#A9A9A9>(And then... what was I going to do?)</color>+<color=#A9A9A9>(I'll need to search through my neural cloud again... Argh, my index got messed up again after the battle, what a pain...)</color>
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Now that you mention it, you just said the AR Team had four members, but if I'm not mistaken, wasn't there another one?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh, that's RO635...
+Cx4Storm(0);SOPIIDamage(2)||<闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>AHHHHHHH—!</size>
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;SOPIIDamage(2)||:W-What now?
+Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry, I remember now! +Ahhhhh, I really am an idiot! +I even forgot the whole point of coming here!
+Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II rummages through her pockets.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:Ah... is that a Doll's core?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right! That's our teammate, RO635!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Yes! That's her name! She's the new member of the AR Team, right? The smart one, right? +Although... given her current state, I think fixing her would be hard...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yegor killed her when the Military betrayed us. I only had enough time to take her core.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Yegor... is he the Military leader behind this operation?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, human soldiers ambushed us and I was blown to bits myself.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:But you survived by using Sangvis remains?
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hehe, I'm a prized product of 16LAB. I wouldn't die so easily.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:But Miss RO635... what should we do about her? +Even if you want to transfer her neural cloud, we don't have a body to put it in.
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I don't need a body. I just need to awaken her neural cloud for now. 
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes out the auxiliary power supply.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:That's the power supply you got from Scarecrow...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right, and then there's this!
+Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes out a—
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:W-Where did you get that from?!
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh, this item is key. But don't tell anyone about it; they'll get the wrong idea. +In any case, I'm going to be sleeping for a long, long time, Cx4, so I'll need you to handle sentry duty with the others. +If anything happens, pat my body hard three times and cut the backup power, then I'll awake safely. Got that?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:No problem! Still... will you be alright? +It feels like you're going to do something really dangerous...
+Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We've already done a lot of dangerous things today; all that matters is—
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:All that matters is the results, right? +I know, so relax and leave the outside to me.
+()||:...SOP-II nods, and Cx4 steps outside.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Now then...
+SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes a deep breath.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Time to find you, RO635!

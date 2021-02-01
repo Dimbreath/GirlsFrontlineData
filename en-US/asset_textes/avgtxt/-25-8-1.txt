@@ -1,0 +1,137 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>159</BIN><SE>Battlefield</SE><黑屏2><火花><BGM>BGM_Battle</BGM>:...Strongpoint No.4. The Commander's echelons finally broke through the blockade! +...However—
+()||<闪屏><duration>5</duration></闪屏>:
+()||<SE1>Battlefield</SE1><SE2>Explode</SE2><震屏>:...BOOM! BOOM!
+HK416(3)<Speaker>416</Speaker>||:It's not working! The enemy artillery is still too heavy! +Stay in cover!
+()||<SE1>Gunfight</SE1>:...Enemy bombardment is severely hindering the fireteam's progress.
+AK74U(0)<Speaker>AK-74U</Speaker>||:We can't hide here forever, 416! +Artillery fire will destroy the building any minute!
+HK416(3)<Speaker>416</Speaker>||:It's suicide if we go out now!
+AK74U(0)<Speaker>AK-74U</Speaker>||:We're almost there! How can we give up now?! +Then the Commander's effort will be for nothing!
+HK416(3)<Speaker>416</Speaker>||:Dying here will truly render it all for naught!
+AK74U(0)<Speaker>AK-74U</Speaker>||:We won't gain anything if we never take risks, that's what you said!
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:It's also something I absolutely hate hearing... +I...don't actually like taking risks to begin with.
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏1><黑屏2>:<color=#A9A9A9>(Perhaps 404 doesn't actually suit me.)</color> +<color=#A9A9A9>(Perhaps...I should find a better place to belong to.)</color>
+A91(0)<Speaker>A-91</Speaker>||<BIN>159</BIN><黑屏2>:Hey, are you giving up just like that? In a place like this?
+HK416(0)<Speaker>416</Speaker>||:...What?
+A91(0)<Speaker>A-91</Speaker>||:Then stand aside. It's time for us rookies to steal the spotlight.
+Mk12(0)<Speaker>Mk 12</Speaker>||:We should be able to cover this distance.
+Python(0)<Speaker>Python</Speaker>||:Then let's activate our secret weapon!
+()||:...Whirrr.
+HK416(0)<Speaker>416</Speaker>||:That's...?!
+FairyTaunt(2)<Speaker>Taunt Fairy</Speaker><Position>0,250</Position>||:Hey, why are you staring at me like that? +If you think I'm a mirror, allow me to remind you that this pretty face doesn't suit you at all!
+HK416(3)<Speaker>416</Speaker>||:What...are you guys up to?!
+Mk12(0)<Speaker>Mk 12</Speaker>||:Go and deliver the information!
+A91(0)<Speaker>A-91</Speaker>||:Watch out for artillery fire! Wanna steel yourself with a swig of vodka?
+AK74U(0)<Speaker>AK-74U</Speaker>||:Are you sure...this is gonna work?
+Python(0)<Speaker>Python</Speaker>||:All that needs to be done is to send the coordinates over, right? +Then why must we go ourselves?
+HK416(0)<Speaker>416</Speaker>||:But how will a Fairy drone give them cover as they make their way out?
+A91(0)<Speaker>A-91</Speaker>||:They're one of the oldest logistics teams at Griffin. No one knows the emergency routes better than them.
+Mk12(0)<Speaker>Mk 12</Speaker>||:The Fairy will lead them on the relatively safest route, then we'll give them cover with our smoke grenades! +We'll just have to concentrate on suppressing enemy fire!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Provided that...the Fairy can make it there safely. +Oh right, did you tell her how to bypass the security lock on the door?
+Mk12(0)<Speaker>Mk 12</Speaker>||:Now that you mention it...
+()||<震屏>:
+FairyTaunt(2)<Speaker>Taunt Fairy</Speaker><Position>0,250</Position>||:Ahhhhhh! I'm gonna get bombed!
+Python(0)<Speaker>Python</Speaker>||:Watch out!
+()||<闪屏><duration>5</duration></闪屏>:
+()||<SE1>Explode</SE1><震屏><BGM>BGM_Empty</BGM><黑屏1><关闭火花>:...BOOM! +...The blast sends the Taunt Fairy crashing into the door of the outpost.
+MP40(1)<Speaker>MP40</Speaker>||<BIN>88</BIN><黑屏2>:Huh? +Was that...a knock? Hmm? +Is someone...knocking on the outside?
+MP40(1);FairyTaunt(2)<Speaker>Taunt Fairy</Speaker><Position>0,250</Position>||<BGM>BGM_Reverse</BGM>:Idiot! Idiot! Do you not even know how to open a door? Hurry up!
+MP40(1)<Speaker>MP40</Speaker>;FairyTaunt(2)<Position>0,250</Position>||:Our drone?! Why are you—
+MP40(1);FairyTaunt(2)<Speaker>Taunt Fairy</Speaker><Position>0,250</Position>||:Idiot! Griffin is here to rescue you! +You bunch of idiots! I fly very fast, so make sure you don't fall behind!
+MP40(1)<Speaker>MP40</Speaker><Shake>;FairyTaunt(2)<Position>0,250</Position>||<黑屏1>:Huh? Oh, ja! Everyone with me!
+AK74U(0)<Speaker>AK-74U</Speaker>||<BIN>159</BIN><黑屏2><火花>:They got out! +Throw all the smoke grenades you have!
+HK416(3)<Speaker>416</Speaker>||<SE1>Gunfight</SE1>:Suppressing fire!
+Mk12(0)<Speaker>Mk 12</Speaker>||:They've run into the smoke screen! But the enemies are now firing at the obscured area!
+HK416(0)<Speaker>416</Speaker>||<黑屏1><关闭火花>:Tsk... It's up to their luck if they can make it out alive...!
+()||<黑屏2><BIN>9</BIN><黑屏1>:...Five minutes later.
+AK74U(0)<Speaker>AK-74U</Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Empty</BGM>:Huh...that's unexpected...
+AK74U(0);A91(0)<Speaker>A-91</Speaker>||:They all got out...
+Mk12(0)<Speaker>Mk 12</Speaker>;A91(0)||:Maybe they're used to running logistics...so they run pretty fast...?
+MP40(1)<Speaker>MP40</Speaker>;A91(0)||:Tactical Doll MP40 from Griffin, reporting back for duty!
+MP40(1);HK416(0)<Speaker>416</Speaker>||:Got it. Take a good rest first and prepare for more battles ahea... +...Whoa!
+MP40(1)<Speaker></Speaker><Shake>;HK416(0)||<BGM>GF_Memorial</BGM>:...Puff! +...MP40 gives 416 a bear hug.
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:Danke. Thank you so much for saving us!
+MP40(1);HK416(0)<Speaker>416</Speaker>||:It's all thanks to the Commander and everyone here. +You survived. That was simply our mission.
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:I thought...we were going to be left behind! I-I shouldn't have assumed that!
+MP40(1);HK416(0)<Speaker>416</Speaker>||:Don't get too worked up. We did consider that option.
+MP40(1)<Speaker>MP40</Speaker>;HK416(0)||:Ja...it's only natural... +All the more reason to thank you!
+HK416(0)<Speaker>416</Speaker>||:...I accept your gratitude. +Rest up. We have a tough fight ahead of us and we'll need you to work your share.
+()||:...416 excuses herself from MP40 and rejoins the fireteam.
+Python(0)<Speaker>Python</Speaker>||:Oh look, our brave hero returnth.
+AK74U(0)<Speaker>AK-74U</Speaker>||:You did the impossible and saved so many trapped T-Dolls. Got anything boastful to say?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:Don't let down your guard. The enemy won't give up just like that. +They'll definitely focus all their firepower and deal a massive blow to our base. +It's hard to tell whether we'll live through this until then.
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:Don't worry, we'll listen to you.
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:What if I'm wrong?
+HK416(0);A91(0)<Speaker>A-91</Speaker>||:It's all on you then, but no pressure.
+HK416(0)<Speaker>416</Speaker>;A91(0)||:At least hold back on your alcohol consumption so that you'll keep a clear head for the battles ahead. +I don't know what effects alcohol has on your neural cloud, but drinking less is probably better for the operation.
+HK416(0);A91(0)<Speaker>A-91</Speaker>||:That's why I drink. The more I drink, the clearer my head.
+HK416(0)<Speaker>416</Speaker>;A91(0)||:I don't get it...
+HK416(0);Python(0)<Speaker>Python</Speaker>||:It's our factory presets, 416. In other words, it's our fate.
+HK416(0)<Speaker>416</Speaker>;Python(0)||:I don't understand the meaning of such things.
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:Neither do we. But it's some thing we take joy in, just like fighting battles.
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:...In a certain sense, you have more courage than me.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:It's a bit late to start praising us, don't you think?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:Just stating facts. I don't mean to praise you.
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:But it does make me happy!
+HK416(0);Python(0)<Speaker>Python</Speaker>||:Enjoy the present, 416. +The present is especially precious because the future is full of danger.
+HK416(0)<Speaker>416</Speaker>||:...Then three minutes.
+()||<黑屏1>:...416's lips twist into a faint smile.
+HK416()<Speaker>416</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:Now, would you mind if I play some music?
+()||<BGM>BGM_Empty</BGM><BIN>159</BIN><黑屏2>:Shortly later... All T-Dolls that took part in the rescue missions are retreating back to the base.
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:...Right, copy that. +We'll be on our way.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:A new mission?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:The enemies have shown up as expected. Strongpoint No.76.
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:No.76? But that place isn't manned at all?
+HK416(0)<Speaker>416</Speaker>;AK74U(0)||:What...?
+HK416(0);AK74U(0)<Speaker>AK-74U</Speaker>||:We're understaffed so a lot of our strongpoints are empty. What's the point in occupying such a place?
+HK416(0);A91(0)<Speaker>A-91</Speaker>||:Could it be for collecting data on us? +They could be analyzing our defense mechanisms to improve their tactics in preparation for the final offensive.
+HK416(0)<Speaker>416</Speaker>;A91(0)||:That makes sense. Is it because of the alcohol?
+HK416(0);A91(0)<Speaker>A-91</Speaker>||:I killed seven bottles. I'm a proper brainiac now.
+HK416(0)<Speaker>416</Speaker>;A91(0)||:We need to chase them off. The Commander said that strongpoint is too close to the extraction point. It's not good if it falls into enemy hands.
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:416, we've discovered a few T-Doll signals ahead, we need you to go and confirm them.
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:Are they enemies?
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:Not entirely... Part of the signal is Sangvis, but most of it is Griffin.
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:What's that supposed to mean?
+HK416(0);Mk12(0)<Speaker>Mk 12</Speaker>||:Python says you'll know how to deal with it.
+HK416(0)<Speaker>416</Speaker>;Mk12(0)||:Me...?
+HK416(0);Python(0)<Speaker>Python</Speaker>||:Why are you so surprised? +This is the reason why I ran all the way from the front to the back, looking for you.
+HK416(0)<Speaker>416</Speaker>;Python(0)||:Other than pulling the trigger, I don't know what else to do with a Sangvis.
+HK416(0);Python(0)<Speaker>Python</Speaker>||<黑点1>:You'll know when you see. +You're both "special" T-Dolls. I think you two probably know each other.
+()||<黑点2><BGM>BGM_Empty</BGM>:...Two minutes later.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_illustratedBook</BGM>:Ah! RO, we're here! We're here! +Look! It's the safe zone! We're safe!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:What happened at HQ?! +SOP-II! If you don't tell me, don't even think about stepping foot into the security zone!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(6)||:Arghhhh! My right leg is out of control!!
+SOPIIDamage(2);HK416(0)<Speaker>416</Speaker>||:Shut it.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:...?!
+RO635(6)<Speaker>RO635</Speaker>;HK416(0)||:You...you're...
+RO635(6);HK416(0)<Speaker>416</Speaker>||:What are you dawdling for? Regroup already!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:This T-Doll... Who is she again? She looks kinda familiar...?
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:You find too many people familiar, hurry up and get over here. +The enemy is about to launch their next attack. We must get everyone out of here before that.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;HK416(0)||:Enemy? The Military already got this far?
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:It's a new faction.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;HK416(0)||:A new faction? +Not the Military? +Not Sangvis Ferri either? +Then who are they?
+Cx4Storm(0);HK416(0)<Speaker>416</Speaker>||:No idea. +All we know is that they want to kill us deader than dead.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:Huh...is that so? +Well, I don't mind as long as they're something I can kill.
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:That's the problem.
+HK416()<Speaker>416</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Those things...that want to kill us... +They're...unkillable.
+()||<BIN>159</BIN><黑屏2>:...
+HK416(0)<Speaker>416</Speaker>||:At least they were a few hours ago. Now it's sorted.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:...
+SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:Let's go.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:Wait, was that a joke? Did I miss the punch line or something?
+HK416(3)<Speaker>416</Speaker>||<震屏><黑屏1>:I said, let's GO!
+()||<黑屏2><BIN>161</BIN><BGM>BGM_Empty</BGM>:...
+HK416(0)<Speaker>416</Speaker><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>Commander, we're heading towards Strongpoint No.76 to repel the white enemies' attack.</color> +<color=#00CCFF>By the way, we happened to have picked up...</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Commander! Commander! Commander!</color>
+HK416(0)<Speaker></Speaker>||:...Click! +...416 forcibly switches off SOP-II's comms channel.
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Hey! That was really mean, 416!</color> +<color=#00CCFF>RO couldn't even say a word!</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>L-leave it, just let the Commander think I died...</color>
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>We picked up SOP-II and RO from the AR Team along the way; Storm and her echelon are also with them.</color> +<color=#00CCFF>They look a bit...different, but at least they can still move about.</color>
+HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>I can't move about! I'm not free at all!</color>
+HK416(0)<Speaker>Commander</Speaker>||:... <c>SOP-II, you're still alive! <c>RO...where are you? <c>Welcome back to Griffin! I knew you'd be alright!
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:<color=#00CCFF>Yes, Commander! I've been through a lot, but I'm finally back!</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>2</分支>:<color=#00CCFF>I...I...I'm on SOP-II's shoulder. Th-this is just a temporary arrangement! I was forced into it!</color>
+HK416(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:<color=#00CCFF>Yeah! I also knew I'd see you again, Commander!</color>
+HK416(0)<Speaker>RO635</Speaker>||<分支>3</分支>:<color=#00CCFF>Well...at least we're still alive. I'm glad you're okay, Commander.</color>
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>Save the chit-chat for later. We're about to arrive at Strongpoint No.76.</color> +<color=#00CCFF>Commander, we've managed to rescue all the echelons that were pinned down, and they'll be available for the upcoming operation.</color> +<color=#00CCFF>We have a good chance at victory now, but do pay attention to our resource expenditure and complete our tactical objective cautiously.</color>
+()||<BIN>10</BIN><黑点2>:

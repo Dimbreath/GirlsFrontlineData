@@ -1,0 +1,86 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN><Night><BGM>BGM_Room</BGM>:Several minutes earlier, on Griffin's end.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep...beep beep.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:This is SSG 3000. What's the matter, Kord? +...Hello? +Do you read me, Kord?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:What's wrong?
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Kord just sent a comms request, but I can't hear anything. +It's strange, I can't re-establish comms either.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:There's been something off about the mood in the air since a while ago. +I keep hearing something like someone asking who I am, but I don't know where the voice is coming from... Like a scene straight out of a horror movie.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:Maybe you're a little too tense, Leader. +Still, things don't look too good. I can't pinpoint Kord's position and I can't even send transmissions to you. +Something is jamming us!
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:The fog is getting thicker.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:I can see clearly... Something's coming towards us. +"Haha, there are two stragglers here." +"Wonder what they came here for..."
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:If you're trying to imitate how a monster speaks, you aren't being grotesque enough. +You ought to growl and pant more. Might also want to speak more directly and in broken sentences.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:Haha, you're right. +In that case, should we eliminate them, or leave?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:Our mission is to find the control center for the quarantine wall. According to the data that the AR Team shared with us, the cable density in this region is very high, so it's very likely that the control center is in this sector. +But now that there are enemies on a path that we must cross, we have no choice but to get rid of them. 
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:That's our leader for you. The Commander has a good eye.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:As always. +Still, this group of extras...seem far too numerous.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:That's definitely the case, but it's within my est—
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<BGM>BGM_Empty</BGM>:Look out!
+()<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:SSG 3000 ducks out of reflex and a laser beam streaks through the place where her head had been, blasting through the fog to the other side.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||<BGM>BGM_Danger</BGM>:...Why you... Would there happen to be one of T-5000 favorite actors among those extras?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:It's a defense system that hasn't been disabled yet. +Its power supply should've been cut off after the explosion just now... It's probably running on emergency power. +Strange how it's running so well even after such a long time. +Is it just the high quality? Or has someone been maintaining this equipment all this time...
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:I don't know, but this is a really bad place for a performance. +We're stuck between a rock and a hard place and you can't go all out at all... +"This city...ours... (Pants) ...My friends and I...kill you!"
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:Now that line came out pretty well. +SSG, can you tell which way it is to Tallinn Station?
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:I can see it, but we can't go over now. +The fog is too thick, so you might not be able to see it — but we've been surrounded, Leader.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:I can hear them. +They don't sound like intelligent creatures. Can you calculate exactly how many of them there are?
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:There's at least a hundred of them— +I'm guessing something happened at the train station, because there's a lot of them coming from over there.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:...The AR Team's at the station, so it probably isn't too much of a problem. +We need to continue with our mission. +ACR and Kord will probably have followed the cable density to this area.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:Is this what they mean when they say that actors have to work with each other? +Roger.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:You catch on fast. Without further ado, let's move on.
+()<Speaker>Desert Eagle</Speaker>||<BIN>9</BIN><黑屏1>:(Still, I feel a little uneasy...) +(Like there's something watching us from the dark.) +(It's as though someone was directing this like a play...)
+SSG3000(1)<Speaker>SSG 3000</Speaker>||<BGM>BGM_Battle</BGM><黑屏2><BIN>159</BIN>:(Pants heavily) It's no good, Leader! +We still don't know how far we are from the control center, but the monsters are still on our heels and the defensive mechanisms are too tightly packed! My processor is starting to overheat...
+DesertEagle(0)<Speaker>Desert Eagle</Speaker><Shake>||<SE1>Explode</SE1>:Mine too...ugh!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Two laser beams streak out from within the fog. Desert Eagle manages to evade the first one with a clumsy dodge, but the second singes her.
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>||<闪屏><duration>5</duration></闪屏>:Contact, close by! Get to cover!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:Just as Desert Eagle says that, the sound of continuous gunfire cuts through the fog and the growls of the monsters quiet down significantly. +The fog starts to thin, and someone stumbles hastily out of it.
+ACR(0)<Speaker>ACR</Speaker>||:Sorry I'm late, Leader! +ACR, returning to formation! Ready for instructions!
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||:Whew... +Where did you run off to just now?
+DesertEagle(1);ACR(0)<Speaker>ACR</Speaker>||:I ducked into a building after we were attacked, then after some fumbling around I realized I was in the control center of the quarantine wall. It's several hundred meters away at three o'clock. +When I heard gunfire, I rushed over and found you! The fog's really thick, so please follow me!
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||:So we've found it at last? +Excellent...but wait, I need to do something...
+DesertEagle(1);ACR(0)<Speaker>ACR</Speaker>||:What's the holdup?
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||:The Commander predicted that we might end up in a situation where our comms were cut, so we need to leave a mark to inform the people coming after us of our position.
+DesertEagle(1);ACR(0)<Speaker>ACR</Speaker>||:I...I see... +Still, are there going to be other teams coming this way?
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||<BGM>BGM_Empty</BGM><黑屏1>:I'm sure there will be... I'm sure that the Commander will come save us!
+()<Speaker></Speaker>||<BIN>46</BIN><Night><黑屏2>:... +A minute later, in an abandoned building.
+ACR(0)<Speaker>ACR</Speaker>||<BGM>BGM_Room</BGM>:Let's rest here for a bit... I've already locked the doors downstairs.
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||:Turns out the control center wasn't that far from the train station...
+DesertEagle(1);ACR(0)<Speaker>ACR</Speaker>||:Well, the quarantine wall is still a civilian facility, and it needs to coordinate with the coming and going of the trains. From the perspective of urban planning, they wouldn't put them too far apart.
+DesertEagle(1)<Speaker>Desert Eagle</Speaker>;ACR(0)||:It looks like someone was staying here not long ago. +These corridors have been swept, even if they do look pretty beat up.  +Feeling better, everyone? 
+SSG3000(0)<Speaker>SSG 3000</Speaker>;ACR(0)||:Much better now that I've had a little rest. +Do you have any extra ammo?
+SSG3000(0);ACR(0)<Speaker>ACR</Speaker>||:Some, but not much. +I did a quick check on the area, but I didn't find too many rounds...
+SSG3000(0)<Speaker>SSG 3000</Speaker>;ACR(0)||:Well, that can't be helped... This used to be a city area, after all, so it makes sense that you wouldn't be allowed to carry guns here. +How about you, Leader?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||:I'm feeling a little better too, yeah. +ACR, can you get through to the Commander? 
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:Not yet... We have to communicate by voice even at such short range. The Zener Protocol is all jammed up...
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||:As I thought... It can't be helped, then. +Since we can't get out, let's continue further inside to see if there's anything we can use. +This building's pretty tall. If we get to the roof, we might be able to restore comms.
+SSG3000(0)<Speaker>SSG 3000</Speaker>;ACR(0)||:That makes sense. +In the past, there used to be humans called "NEETs" who were supposed to be fierce defenders of their homes... They might have stocked up on things which are useful to us.
+SSG3000(0);ACR(0)<Speaker>ACR</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Er, I don't think NEET means what you think it does... Though I don't have any concrete info about them either. +In any case, all we have to do is follow Leader's commands!
+()<Speaker></Speaker>||<黑点2><BIN>46</BIN><Night><BGM>BGM_NightOPS</BGM><SE1>AVG_footsteps_cave</SE1>:The interior of the building is dark, and the evenly-spaced emergency lights on the ground are the only source of illumination. +The sounds of the ELIDs gradually fade into the distance and then vanish entirely, leaving only the Dolls' footsteps to echo through the corridor.
+ACR(0)<Speaker>ACR</Speaker>||:...Leader.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||:I'm here. What is it?
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:I'm a little scared... +The fog is still very thick and I can't make out your positions any more. +I'm glad that I can hear your voice, though. Is everyone still here?
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:I can see. Everyone's here and Leader's holding a flashlight...so don't worry. +Do you want me to hold your hand, ACR?
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:...I'm not... +...SSG, please hold me.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:Why are you crying? +There, there, don't be scared. +There's some light ahead, and a glass door... Let me take a look.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||<SE1>Heartbeat</SE1>:...
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:What's the matter?
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:...Don't look, ACR.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:Give me a simple sitrep.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:There were refugees here once... +But they're all dead now. +This hall...is filled with corpses.
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:...I-I'm fine! +If it's work, then I'll be fine...!
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||:You two stay outside. I'm going in.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||<BGM>BGM_Empty</BGM>:Is that really alright?
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<SE1>AVG_weapon_reload</SE1>:I'm the team leader.
+()<Speaker></Speaker>||<黑屏1>:With that, Desert Eagle walks past her teammates and pushes the door open.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑屏2><BIN>88</BIN><SE1>Heartbeat</SE1>:...It stinks.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||<BGM>BGM_Sneak</BGM>:They're all swollen up... +They must have been dead for several days.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:It should be fine. ACR, keep watch at the door. SSG and I will examine this place in detail. +If this is a normal script, there ought to be some kind of clue in a place like this... +Oh yes, be careful, there's dirty water all over the ground.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||<黑点1>:Alright.
+()<Speaker></Speaker>||<BGM>BGM_PAUSE</BGM><黑点2><BIN>88</BIN>:...Several minutes later.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:...There doesn't seem to be anything of value left behind, just corpses.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>;SSG3000(0)||:Even if there were, it'd probably be...soaked. +Still, we might be able to learn a lot from their clothes. You check the left side, I'll check the right.
+DesertEagle(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:Roger. +Huh, Leader, there seems to be something inside this coat... +...Leader! Behind you!
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<BGM>BGM_Empty</BGM>:...!
+()||<SE1>AVG_pistol_finalshot_n</SE1>:Forewarned by her teammate, Desert Eagle fires behind her without any hesitation. +A dull bursting sound echoes through the room and a torrent of filthy bodily fluids sprays forth.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<BGM>BGM_Boss</BGM>:They're suddenly animate again, even though they've been dead for several days... Is this some kind of virus?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:...Tsk, this one's moving too!
+()||:The rotted corpses slowly rise up. +The Dolls take a clear look at their swollen faces. While their features are somewhat hard to make out, they all have the same expression— +Their faces are all contorted in what could only be utmost terror and despair.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑屏1>:...Honestly, things really can't get any worse than this.

@@ -1,0 +1,57 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>157</BIN><黑屏2><BGM>BGM_Room</BGM>:...Task Force DEFY charge ahead blindly until they come across a communications outpost.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:There it is! Cough...get in!
+NPC-AngeDamage(3);AK12(2)<Speaker>AK-12</Speaker>||:Nyet, this place isn't clean at all. We can't stop here!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:Obey my orders! Hurry...cough!
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:...Task Force DEFY enters the outpost.
+AK12(2)<Speaker>AK-12</Speaker>||:The radiation level is too high here. New ELIDs will emerge anytime. We can't stay here for long.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(2)||:Cough...do as I say... +Now, turn on the comms system...and scan for signals!
+NPC-AngeDamage(0);AK12(2)<Speaker>AK-12</Speaker>||:On it. The instrument isn't too badly damaged. Attempting to reactivate it... +This equipment is left behind by the military. I've bypassed the firewall. 94, you can now try to access their network and collect some data.
+AN94(2)<Speaker>AN-94</Speaker>;AK12(2)||:Understood. Scanning... +Bad news. I have hacked into the system and reassembled information regarding the topography. Units bearing military signals are already on the move in this area. +Judging by their speed and formation, they do not seem to be ELIDs. +I would assume that they are reorganizing their remaining troops. In the worst-case scenario, they have already discovered us.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(2)||:Then let's pray they haven't, or we're dead...cough... +Quick, still remember the Griffin Commander's comms frequency...? Try to get in touch.
+NPC-AngeDamage(0);AK12(2)<Speaker>AK-12</Speaker>||:Are you sure? Gathering information in a data blackout is one thing, sending a transmission from a military outpost is another matter. There's no way we can hide our tracks - they're gonna surround this place and blast us to bits.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(2)||:This is our only chance if we want to walk out of this building alive... +We've come this far, we have no other choice but to raise the stakes. Establish a connection immediately. If we're fast enough, we might be able to leave before the military reacts!
+NPC-AngeDamage(0);AK12(2)<Speaker>AK-12</Speaker>||:Got it. Establishing a communications channel. Ready in thirty seconds.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:While this battered communicator still has some battery left... Persica. Persica, do you copy?
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>There's a bit of static, but I can hear you. How are you doing, Ange?</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:My satellite communicator is almost out of juice. Let's keep it short. +DEFY found me. I'm relatively safe for now. We're using a military outpost to establish comms. Whether the Griffin Commander gets it is up to chance.
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:We're transmitting. Pick up...please pick up...
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...Nothing but static.
+()<Speaker></Speaker>||:【Static】......+......
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<BGM>BGM_Truth</BGM>:So Griffin has left already... +This...is how it ends...
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Ange...</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Haha... Can't be helped. I didn't expect it to end like this...
+AK12(2)<Speaker>AK-12</Speaker>||:Wait! There's a reply!
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:What?! Who is it on the other end?
+NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>It's the commander! Commander, can you hear me? It's Persica!</color>
+NPC-Persica(1)<Speaker>Commander</Speaker>||:...<c><color=#00CCFF>Miss Persica! Are you okay?</color> <c><color=#00CCFF>I think I heard a familiar voice?</color> <c><color=#00CCFF>Persica...who's that again?</color>
+NPC-Persica(3)<Speaker>Persica</Speaker>||<分支>2</分支>:<color=#00CCFF>That's Angelia...</color> +<color=#00CCFF>Uh...I think you know who she is. I'll let her do the talking.</color>
+NPC-Persica(3)<Speaker>Persica</Speaker>||<分支>1</分支>:<color=#00CCFF>Humph. Don't worry about me, worry about yourselves.</color> +<color=#00CCFF>Ange is here. There's a favor she needs to ask.</color>
+NPC-Persica(3)<Speaker>Persica</Speaker>||<分支>3</分支>:<color=#00CCFF>Forgotten all about your technical supervisor already? You're getting a pay cut.</color> +<color=#00CCFF>Enough jokes. Ange needs to talk to you.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1>:Hello, Commander. This isn't the first time we talked, but it's the first time I'm introducing myself. +"Angelia". Of course, it's just my codename, but I quite like the name, so feel free to call me that. +I'm an agent from the Bureau of State Security. We've worked together numerous times in the past. I'm sure you have a lot of questions, but you must understand that we're on the same side.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||<BIN>85</BIN><黑屏2>:<color=#00CCFF>I can vouch for her. I've known her for years. She's a nice person, but she does have a bad temper.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:Whatever, Persica... Our channel won't hold for long, so please listen to me. +I understand you've suffered heavy casualties, so Persica is going to provide you with Heavy Ordnance Corps to aid you in battle. +Send the coordinates to Persica where you need help. She'll find a way to deliver them there. Persica, how's Havier's withdrawal plan coming along?
+NPC-AngeDamage(0);NPC-Persica(3)<Speaker>Persica</Speaker>||:<color=#00CCFF>Havier has already provided me with the extraction point, but said it'll still take a while for the transports to get clearance into the area.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:I've sent you the coordinates, Commander. Guard the extraction point with your life. I hope you'll last till the tranports get there.
+AK12(3)<Speaker>AK-12</Speaker>||<CGDelay>0.2</CGDelay>:Ange, we've been discovered. A transmission is forcing its way through.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>Ange... 【static】I know it's you... I will make you pay for what you've done【static】!</color>
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Cut him off. I've got no time to chat with him.
+AK12(2)<Speaker>AK-12</Speaker>||:Okay.
+()<Speaker></Speaker>||:Yegor's transmission is cut off.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:As you can see, Commander, the situation isn't looking good. We should all prepare for the worst.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Commander, we've given you everything we can. I hope we'll all come out of this alive...so please find a way to help Ange...</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Commander, you can't save everyone on the battlefield... Ensure Griffin's safety first. Only consider our rescue if it's at all possible. +I'll send all the information I have to you. AK-12, set up the data transfer.
+AK12(2)<Speaker>AK-12</Speaker>||:On it.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:If I can't make it, please take care of Task Force DEFY, find the AR Team, and stop the enemies who want to destroy our future.
+AN94(2)<Speaker>AN-94</Speaker>||:Ange, the military units we detected are closing in.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Tsk...he really hates us to the bone. Commander, we'll wait till dawn. No matter what you choose to do, no one will blame you. Good luck.
+AK12(2)<Speaker>AK-12</Speaker>||:Data transfer in progress. We can move in 60 seconds.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:Persica...I'd better go. If I come back alive, I think I'm gonna get a cat.
+NPC-AngeDamage(2);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Can I come over and pat it?</color>
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;NPC-Persica(3)||:As long as you pay for the cat food...
+NPC-AngeDamage(2);NPC-Persica(3)<Speaker>Persica</Speaker>||:<color=#00CCFF>I will, so you better make sure you come back alive.</color>
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I really can't say for sure this time...
+AK12(2)<Speaker>AK-12</Speaker>||:Transfer complete. We can go.
+AN94(2)<Speaker>AN-94</Speaker>||:This means we will not be able to contact anybody from now on. We can only feel our way around the dark on our own or wait for Griffin's signal.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:I know... Let's go. We must hold out till the commander comes to our rescue.
+()||<黑屏1>:

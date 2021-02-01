@@ -1,0 +1,28 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><黑屏2><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Amidst the cacophony of gunfire, Mercurows stands in the center of the stage and sings sonorously, completely oblivious to the pandemonium all around her.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<SE1>Explode</SE1>:"Over hill, over dale, through abyss and pit; over dew and clouds, tempest and night!" +"Over chasm, bog and abyss—"
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||<SE1>Gunkill</SE1>:I'm out of ammo, AN-94!
+AR15Mod(0);AN94(2)<Speaker>AN-94</Speaker>||:I still have some left; come closer to me!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;AN94(2)||:Hold on, I can't see where you are! +Dammit...I can get accurate readings on... +Mercurows must be jamming our sensors! +Is she toying with me...?! +Which way now...? Just relying on visuals...won't do...
+AR15Mod(5);AN94(2)<Speaker>AN-94</Speaker>||:Watch out! AR-15, to your side!
+AR15Mod(1)<Speaker>ST AR-15</Speaker>;AN94(2)||<SE1>Explode</SE1><SE2>Alarm</SE2>:...Ooof!
+AR15Mod(1);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Please open up! "O ye gates; and be ye lift up, ye everlasting doors—"
+AR15Mod(1)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||:Crap, I can't dodge them anymore!
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:Snap. +The theater suddenly falls into pitch darkness.
+？？？()<Speaker>???</Speaker>||<SE1>Heartbeat</SE1>:You're awfully long-winded for a knock-off.
+AR15Mod(1)<Speaker>ST AR-15</Speaker>||<黑屏1>:... +That voice...
+()<Speaker></Speaker>||<BIN>96</BIN><黑屏2><火花>:The lights come back on - not just the spotlights from before, but all the peripheral lights. The whole theater is washed in a gentle glow. +AR-15 looks toward the source of the voice - a section of the auditorium in the balcony.
+()<Speaker>ST AR-15</Speaker>||<SE1>Heartbeat</SE1>:...It really is...!
+铁血人形()<Speaker>Unfamiliar S.F. Doll</Speaker>||<BIN>171</BIN><闪屏><duration>5</duration></闪屏>:My, my, it's our cute little Griffin tin cans! +Look, M16. Isn't the one with the pink hair one of your old colleagues? +She seems to have made some new friends. How nice—
+M16()<Speaker>M16A1</Speaker>||<BGM>bossbattle_loop</BGM>:Attack.
+铁血人形()<Speaker>Unfamiliar S.F. Doll</Speaker>||<黑点1>:Ruthless as always... I find that so very charming! +Annihilate all the white trash here, don't spare a single one!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<BIN>96</BIN><黑点2>:"Must ruin overtake me? Have I fallen into the hands of chance?" +"But powers of darkness are weaving about me." +Defend! Then...destroy these tiresome fools!
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Mercurows(0)||:It's M16A1. +They're targeting the White Faction. This is our chance. +AR-15, I managed to get you over here. +Sangvis Ferri seems to have disabled the interference caused by the White Faction, so we now have access to comms. +I'll conduct some basic repairs on you, and you can contact Ange through a secure channel.
+AN94(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:Thanks... I've accepted your connection request. +<color=#00CCFF>Ange, do you copy?</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>;AR15Mod(3)||:<color=#00CCFF>I'm receiving you. Is it done, AR-15?</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Sorry Ange, I located the Node, but it isn't going well at all!</color> +<color=#00CCFF>Things are rapidly getting out of hand. I've sent you our location. Sangvis Ferri has engaged the White Faction in battle with M16 in command. I'm afraid we're going to have to fight whoever is left after this fight...</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>Mercurows</Speaker>||:"Nothing can save you from the precipitous fall. From the precipitous fall can nothing save you!" +You're nothing but specters that wander in darkness... No one can stop me! +I will triumph...and get what I deserve!
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>Unfamiliar S.F. Doll</Speaker>||:Hahahaha! What on earth is that strange human going on about?! Hey, work harder and just tear her apart already!
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:<color=#00CCFF>M16...? Sangvis Ferri...?</color> +<color=#00CCFF>What a messy situation. Alright, things aren't looking too good on our end either, but we'll send reinforcements to you ASAP.</color> +<color=#00CCFF>Hang in there.</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>I hope you won't be greeted by our dead bodies by the time you make it here... We'll be counting on you!</color> 
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||<黑屏1><关闭火花>:AR-15...AN-94. Mercurows. M4 isn't here. +I'd better hurry... +<color=#A9A9A9>I must find it before "that thing" does!</color>

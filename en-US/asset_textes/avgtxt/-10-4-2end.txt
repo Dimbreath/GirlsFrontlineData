@@ -1,0 +1,54 @@
+()||<BIN>22</BIN><BGM>BGM_Sunshine</BGM>:Objective complete.
+KLIN(0)<Speaker>KLIN</Speaker>||:... +Where...am I?
+KLIN(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:My, my, you've finally come to! +You kept talking in your sleep just now. What's wrong? Is your cooling module malfunctioning because of the heat?
+KLIN(0)<Speaker>KLIN</Speaker>;NPC-Kalin(0)||:What...? And who are you...?
+KLIN(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Hey, you don't know me? I was just running a diagnostic on you! +Call me Kalin. You must be the one reporting for duty...what's your name again?
+KLIN(0)<Speaker>KLIN</Speaker>;NPC-Kalin(2)||:Kalin? We have pretty similar names! +Call me KLIN. We'll be working together starting from today!
+KLIN(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Yeah...let's get along. +(She's unexpectedly imposing...)
+KLIN(0)<Speaker>KLIN</Speaker>;NPC-Kalin(2)||:Humph, looks like we're destined to meet. Are you also a T-Doll?
+KLIN(0);NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Me? No, I'm the logistic officer here! +(Are some of her modules still rebooting from being out for so long...?) +In any case, the Commander is on a mission at the moment, so just wait here. +Oh, you want some toys? I have some left behind by other T-Dolls...
+KLIN(0)<Speaker>KLIN</Speaker>;NPC-Kalin(4)||:Hey, are you serious?! +I'm gonna become the No. 1 T-Doll at Griffin one day, so take me seriously! +Where's the shooting range? I need to check out how well the T-Dolls here shoot!
+KLIN(0);NPC-Kalin(3)<Speaker>Kalin</Speaker>||<黑屏1>:No problem. This way, please. +(I sure hope someone happens to be practicing at the shooting range. Otherwise we're gonna be ridiculed...) +(But this kid just suddenly shut down and turned back on again... I wonder what's wrong with her...)
+()||<BIN>9</BIN><BGM>BGM_Room</BGM>:... +Meanwhile.
+HK416(0)<Speaker>416</Speaker>||<BIN>70</BIN><黑屏2>:Playing the anonymous superhero again. Happy?
+HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Heheh, do you think we'd be happy being do-gooders?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:I don't really care... Now that we've finished the assignment, can we take a break?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:This is just the beginning, isn't it, 45?
+UMP45(0)<Speaker>UMP45</Speaker>;G11(0)||:That was just a bit of experiment. Don't forget the real battle is still ahead. +Check up on your physical condition and supplies. We're setting off in twelve hours.
+UMP45(0);UMP9(2)<Speaker>UMP9</Speaker>||:...Are you okay, 45? Don't you need some rest?
+UMP45(0)<Speaker>UMP45</Speaker>;UMP9(2)||<黑屏1>:I'm fine. I've already adapted to the new module. I'll just charge myself for a while then get briefed by Zeele. +You all rest up. It's gonna be a busy night.
+()||<BIN>9</BIN><黑屏1>:Twelve hours later.
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>70</BIN><黑屏2>:So this is the..."fairy" that Persica mentioned? +Doesn't look cute at all.
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:Well...it is just a drone when it's off. +But once it's activated, it'll project an interactive interface. THEN you'll understand what's so cute about it. Let's give that a try.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:She sure loves her weird gadgets. +I suppose it's part of the objective of our mission to test this thing?
+搜救妖精()<Speaker>Rescue Fairy</Speaker>||:Ack, are you my commander?! +Whoa, you don't look friendly at all. In fact, I find you rather scary!
+UMP45(0)<Speaker>UMP45</Speaker>||:... +Hold on. This doesn't quite fit my idea of what a drone should be...
+NPC-Seele(0)<Speaker>Zeele</Speaker>||:Uh...haha... +I think this is the image the drone's AI has designed for itself. That's why Miss Persica calls them "Fairies". +This particular Tactical Fairy specializes in searching for signals. Persica has tweaked its program especially for this mission. It will automatically search for your target and direct you to its location.
+搜救妖精()<Speaker>Rescue Fairy</Speaker>||:Sure thing, sure thing! You can count on me!
+UMP45(0)<Speaker>UMP45</Speaker>||:(Chuckles) None but Persica could've programmed an AI that's so bored it decided to give itself a personality... +Besides, judging by her exploitative ways, she must be expecting us to be the testers for this thing for free, right?
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:The boss didn't give any specific instructions, and I don't personally know Miss Persica very well. +But even if that's the case, you won't have to deviate much from your mission. Just use the drone as you see fit for the job. After all, the mission that yields the reward is your priority. +The user manual should've already been sent to your neural clouds. Feel free to ask me anything whenever you have questions. One last thing, do you hate it, 45?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:No, I'm fine with anything that doesn't talk too much. +It's just that...these Tactical Fairies weren't developed by Persica alone, were they?
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:She didn't say. Does that bother you?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:I'm just curious. Everyone's curious about other people's past, right? +Mine, Persica's, even yours...
+UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:... +UMP45...
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||<黑屏1>:Just kidding. I know the rule. I won't ask questions. +Get everyone here. It's time to get moving.
+()||<BIN>34</BIN><黑屏2><BGM>BGM_Boss</BGM>:Meanwhile, in a Sangvis control room.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||:Hey, Dreamer! +Dreamer! Do you copy?!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:My, my... What is it now?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Say, isn't it time we started? +...Looking for the drone, I mean. +It was pretty tough shooting it down. If we don't hurry, Griffin would snatch it back before we get to it.
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:That drone, huh...
+梦想家()<Speaker>Dreamer</Speaker>||<BIN>56</BIN><黑屏2>:Humph...you're right. +Our dear Mastermind didn't order us to retrieve it, which means it's not anything important. +But it's shot down anyway. Guess it's time we checked it out...
+破坏者()<Speaker>Destroyer</Speaker>||:You're also dying to find out what's inside, aren't you?
+梦想家()<Speaker>Dreamer</Speaker>||<黑屏1>:Not really. All I want is to see the kind of face she'll make when she finds out everything she's done is for nothing. +But isn't this your job, Destroyer? +Connect to the network and search for the drone's coordinates already.
+BOSS-6(0)<Speaker>Destroyer</Speaker>||<BIN>34</BIN><黑屏2>:Tsk, is something wrong with your memory? +I'm not an electronic model. Why would I have the ability to search through the network?
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Then run and have a look in person! Surely you know how to conduct a blanket search?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:But I'm not good in solo fights! It'd be dangerous if I went alone! +I was almost pulverized to death before, and I got swarmed by a whole pack of Griffin T-Dolls every single time! +Didn't you promise to build me a more powerful body?! I'm not gonna go on this suicide mission if you break your word!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Did I really promise such a thing? Feels like I've forgotten many things after the nap. +Fine. I can grant you a new body. Actually, I HAVE recently been toying with that idea... +Do you wish to have more firepower? Or be more nimble and agile? Or maybe...fight with more flashy moves?
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:F...Flashy? I want that... +No, wait. Can't I have it all?! +Don't think I'm stupid! I know you have authorization to the manufacture line! You keep upgrading your own modules but never even save a scrap for me! Not fair!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Hmm...that's true, but are you sure that's what you want? Strength comes with a price~
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Uh...the way you say that really creeps me out... +Forget it if you're planning to alter my appearance. I don't wanna fight as a huge lump of metal.
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Well...+I can promise you're gonna be cute as ever.
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Really?! That's not a problem then! +Heheh, what are you waiting for? Let's get started already!
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:Then first, please take a nice long nap. +When you wake up, you can embrace the brand new you!
+BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:Something just feels...off about your smile... +Whatever. You can't very well hurt me as my partner...
+BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:Haha, exactly. We're friends forever... +Then, goodnight and sweet dreams...

@@ -1,0 +1,182 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BGM>BGM_Danger</BGM><BIN>46</BIN>:...The military main force attacks relentlessly and is gradually dominating the battle!
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>AK-12, we can't hold them off much longer! How far off are you?!</color>
+AK12(0)<Speaker>AK-12</Speaker>||:We're still installing them! Just hang in there for a bit!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>I don't know how long we can keep this up! Can't you work faster?!</color>
+SOPIIDamage(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>SOP-II, to the left!</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>I see it!</color>
+AN94(0)<Speaker>AN-94</Speaker>||:We have finished installing the minimum amount of IEDs required! +AK-12, your detonator—
+AN94(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>416, grenade!</color>
+()||<SE1>Explode</SE1>:...BOOM!!
+AK12(2)<Speaker>AK-12</Speaker>||:416, what's going on?! 416!
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>I'm out of ammo! They're swarming in!</color>
+HK416(0)<Speaker>RO635</Speaker><||:<color=#00CCFF>Grenade! SOP-II, duck!</color>
+()||<SE1>Explode</SE1>:
+()||<SE1>Explode</SE1>:...BOOM! Explosions go off one after the other.
+AK12(2)<Speaker>AK-12</Speaker>||:416! SOP-II! What's happening out there?! Answer me! +416! Do you copy?!
+HK416(0)<Speaker>416</Speaker><通讯框>||<SE1>Gunfight</SE1>:<color=#00CCFF>They've breached our defenses! Yegor has entered the building!</color> +<color=#00CCFF>We must get them off our tail fast!</color>
+AN94(2)<Speaker>AN-94</Speaker>||:AK-12, where is the detonator?!
+AK12(2)<Speaker>AK-12</Speaker>;AN94(2)||:We're not gonna make it...
+AK12(2);AN94(5)<Speaker>AN-94</Speaker>||:What...?
+AK12(2)<Speaker>AK-12</Speaker>;AN94(5)||:Now that the enemies are inside the building, I can't wire them all together! +It's simply impossible to set up all the IEDs within such a limited amount of time!
+AK12(2);AN94(4)<Speaker>AN-94</Speaker>||:...Is it impossible? +We are...so close...
+AK12(2)<Speaker>AK-12</Speaker>;AN94(4)||:We've come so far... Ange, is it really over...just like that?
+AN94(4)<Speaker>AN-94</Speaker>||:Ange...what should we do now? Is there a backup plan...?
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<BGM>BGM_Truth</BGM>:...
+AK12(2)<Speaker>AK-12</Speaker>||:...Ange?
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>SOP-II, keep up! Those trip mines won't hold them off for long!</color> +<color=#00CCFF>AK-12, are the bombs ready yet?!</color> +<color=#00CCFF>AK-12?! AN-94?! Scheiße! Somebody answer me!</color>
+()||:The very air grows still. The sound of crossfire is getting closer and closer.
+NPC-AngeDamage(0)<Speaker></Speaker>||:Ange raises her head slowly.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Give me another dose of adrenaline.
+AN94(0)<Speaker>AN-94</Speaker>||:But in its current condition, your body cannot...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Give me another dose of adrenaline.
+AK12(0)<Speaker>AK-12</Speaker>||:...94, give it to her.
+()||:Ange lets out a painful groan as she injects herself with more adrenaline.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker><Shake>0,1</Shake>||:(Pants)
+NPC-AngeDamage(3)<Speaker></Speaker>||:Beads of sweat are rolling down her forehead. She keeps breathing laboriously to drown out the pain.
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Here's the plan - take everyone to the roof and stay as far away from me as you can.
+AK12(2)<Speaker>AK-12</Speaker>||:You want us to retreat without you? +Sorry, we can't do that. Yegor's forces already have this place completely surrounded.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Of course I know that. That's why I'm giving such an order.
+AK12(3)<Speaker>AK-12</Speaker>||:...
+AK12(3)<Speaker></Speaker>||:AK-12 looks Ange in the eye and finds no hesitation in her steady gaze.
+AK12(0)<Speaker>AK-12</Speaker>||:I see. Then good luck. +94, tell SOP-II and 416 to retreat to the roof. We'll meet them there.
+AK12(0);AN94(4)<Speaker>AN-94</Speaker>||:But Ange...
+AK12(0)<Speaker>AK-12</Speaker>;AN94(4)||:Ange is going to sort this out her own way.
+AK12(0);AN94(0)<Speaker>AN-94</Speaker>||:Understood. I will notify them.
+AK12(0)<Speaker>AK-12</Speaker>||:Ange, how sure are you about this?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:There's a 10% chance that this will work, maybe less.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:Optimistic as ever, I see.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:If it does work, try to get me out as fast as you can.
+AK12(0)<Speaker>AK-12</Speaker>||:Understood. I'll be waiting for your order.
+()||:AK-12 and AN-94 take their leave.
+()||:Ange picks up the detonator that AK-12 didn't manage to set up. She grabs an old chair and sits down slowly. +She fishes out the pistol AK-12 handed back to her and snickers to herself.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1>0,0.7<黑屏1>:If I'd known, I wouldn't have emptied the mag back then. I could've blown Yegor's damn brains out now.
+()||<SE1>RunStep</SE1><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:...Footsteps coming from downstairs.
+NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:There's a sound. The bio signature is just upstairs. +The T-Dolls' signals are further up - on the roof, a considerable distance away from the bio signature... +Could this be a trap?
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Attention, our target is on the third floor. Hold your positions and stay alert. +Let me see what she's up to.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:Sir, are you going up alone?
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:She's provoking me...which is why I must end her myself. +The T-Dolls aren't by her side; she must've prepared something. Check the building carefully and report to me at once if you find anything.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:Yes, sir.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Now let's see what kind of tricks you've still got with one foot already in your coffin, Ange.
+()||:...Yegor walks up the stairs. Finally, he is face-to-face with the woman.
+叶戈尔()<Speaker>Yegor</Speaker>||<黑屏1>:Angelia.
+安洁莉娅()<Speaker>Angelia</Speaker>||<BIN>155</BIN><黑屏2><BGM>BGM_stage10</BGM>:Captain Yegor. +We meet again.
+叶戈尔()<Speaker>Yegor</Speaker>||:You don't have your subordinates with you.
+安洁莉娅()<Speaker>Angelia</Speaker>||:Neither do you.
+叶戈尔()<Speaker>Yegor</Speaker>||:I am more than enough to deal with you.
+安洁莉娅()<Speaker>Angelia</Speaker>||:You talk big for a guy who made a huge fuss and dragged an entire crowd along to pursue me. That's a rather pathetic way of chasing women.
+叶戈尔()<Speaker>Yegor</Speaker>||:Are these your last words? You're even more boring than I thought. Ange, you really disappoint me.
+安洁莉娅()<Speaker>Angelia</Speaker>||:Sorry, I really am just a boring woman. +So, are you planning to make a lengthy speech before you kill me?
+叶戈尔()<Speaker>Yegor</Speaker>||:Do I look like a second-rate villain in some trashy movie?
+安洁莉娅()<Speaker>Angelia</Speaker>||:You look like one, but I know your head isn't clear enough for the part anymore... +Collapse Fluid doesn't just ravage the flesh. You've been enduring the mental instability caused by the radiation while letting me play you for a fool. You must be very close to losing it.
+叶戈尔()<Speaker>Yegor</Speaker>||:You're right. My subordinates and I were a bit out of control because ever since the dirty bomb went off, we've been driven by a single motive - to kill you! +The puppet show you put on with your Griffin Dolls hasn't quenched our thirst for vengeance in the slightest, as there is only one thing we're after - your death. Now, it's time!
+安洁莉娅()<Speaker></Speaker>||:...Ange gives no response, but Yegor notices her obscured hand making a move.
+叶戈尔()<Speaker>Yegor</Speaker>||<SE2>Reload</SE2>:Die!
+()||<黑屏1>0,10</黑屏1>:Yegor pulls out his gun, but at the same time...
+安洁莉娅()<Speaker>Angelia</Speaker>||<BIN>153</BIN><黑屏2>0,10</黑屏2>:That fast draw was beautiful. If you weren't an enemy, I might just fall for you.
+叶戈尔()<Speaker>Yegor</Speaker>||:...!
+安洁莉娅()<Speaker>Angelia</Speaker>||:But why haven't you fired? +If I'm not mistaken, you seem to be afraid of this?
+()||:Ange lifts the detonator.
+安洁莉娅()<Speaker>Angelia</Speaker>||:Barging into the building in such a hurry. You didn't even think about why I'd been staying here, did you?
+()||:Right then, Yegor receives a transmission.
+军方士兵()<Speaker>Military soldier</Speaker>||:<color=#00CCFF>Sir, we've discovered multiple IEDs hidden around the building!</color> +<color=#00CCFF>We only located a few with our scan, but judging by the rigging pattern, we estimate there are a lot more that we haven't picked up yet!</color>
+安洁莉娅()<Speaker>Angelia</Speaker>||:Finally caught on? That's right, I put on an act and fooled you into thinking I was extremely weak and feeble, so that you'd have this building surrounded. Then I had my T-Dolls buy time for me to prepare the bombs and just waited for you to come bursting into the building like an idiot. +It has always been my plan to get you all in one go and make you pay for betraying me.
+叶戈尔()<Speaker>Yegor</Speaker>||:An...ge...!
+安洁莉娅()<Speaker>Angelia</Speaker>||:Oh, don't look at me like that. And I suggest you relax your hand. If you shoot me, my T-Dolls will immediately set off the bombs with the spare detonator.
+叶戈尔()<Speaker>Yegor</Speaker>||:You think you can threaten me?!
+安洁莉娅()<Speaker>Angelia</Speaker>||:Of course I can. +One last thing - these aren't just regular bombs in the building. They're rigged to a Collapse Fluid canister. If it goes off, all your forces out there will be going down with us.
+叶戈尔()<Speaker>Yegor</Speaker>||:...Collapse Fluid? Trying to trick me again even now? Cut the crap! You have no way of doing that!
+安洁莉娅()<Speaker>Angelia</Speaker>||:What makes you so sure?
+叶戈尔()<Speaker>Yegor</Speaker>||:You're lying! Where can you get so much Collapse Fluid? There can't be more canisters!
+安洁莉娅()<Speaker>Angelia</Speaker>||:Why not? Just because I've used one before? +Who do you think is more likely to press the detonator - a person who's set off a nuclear bomb or one who hasn't? +Why don't you ask your subordinates? They must be busy trying to find the little present we've hidden for you.
+()||:Yegor keeps one hand on his gun and fishes out his communicator with the other.
+叶戈尔()<Speaker>Yegor</Speaker>||:Are you detecting a high concentration of Collapse Fluid in the building?
+军方士兵()<Speaker>Military soldier</Speaker>||:<color=#00CCFF>We heard her. We're running a scan right now.</color> +<color=#00CCFF>But the contamination is so severe in the area the scanner can't get a proper reading.</color>
+叶戈尔()<Speaker>Yegor</Speaker>||:...
+安洁莉娅()<Speaker>Angelia</Speaker>||:Well? Believe me now?
+叶戈尔()<Speaker>Yegor</Speaker>||:Then what are you waiting for? Push the trigger as you've planned!
+安洁莉娅()<Speaker>Angelia</Speaker>||:Hahaha...!
+叶戈尔()<Speaker>Yegor</Speaker>||:What's so funny...?
+安洁莉娅()<Speaker>Angelia</Speaker>||:You. You're on the verge of collapsing under all this pressure, but you're still trying to pressure ME. +Not bad. I'll give you some good news - you're in luck; I just changed my mind. +Order your troops outside to withdraw to the outskirts and let me - and all my T-Dolls - leave this place. +Then I'll think about letting you all off the hook.
+叶戈尔()<Speaker>Yegor</Speaker>||:You wish, Ange! I've finally made it this far, I won't just let you slip away again! +Push that trigger and let's go to hell together if you dare!
+安洁莉娅()<Speaker>Angelia</Speaker>||:Don't try me! This is your final chance! +Or you'll take another radiation bath! But this time, neither you nor your subordinates will survive!
+叶戈尔()<Speaker>Yegor</Speaker>||:You think I'm scared of dying here? We're soldiers, Ange! And you know what soldiers are made of!
+安洁莉娅()<Speaker>Angelia</Speaker>||:I know you, Yegor - you're their commanding officer! +You may consider T-Dolls worthless, but these humans are your comrades and brothers! Will you endanger them again just so you can have your revenge?
+叶戈尔()<Speaker>Yegor</Speaker>||:My men...don't mind making sacrifices!
+安洁莉娅()<Speaker>Angelia</Speaker>||:So you want them to eat another dirty bomb?! Just how selfish can you be?! Think about their future! Think about their families! The moment I use this detonator, you, as well as everyone here, won't ever get a chance to have your revenge!
+叶戈尔()<Speaker>Yegor</Speaker>||:You're bluffing! Either that, or you're fucking insane!
+安洁莉娅()<Speaker>Angelia</Speaker>||:I am! That's why I'm capable of anything! They have all left me for dead and this is my last lifeline! +I'm not afraid of anything! I'm happy to trade my own life and my worthless T-Dolls in exchange for bringing down so many enemies! +...No matter what you do, I win. +So...take your pick. Either we all live...or you're all coming with me!
+()||:...Ange grins wolfishly. Yegor can't discern any ulterior motive from her cold eyes. She is only forcing him to do one thing...to make a choice. +...Yegor knows that at this point, he really doesn't have one. +...Slowly, he lays down his weapon.
+叶戈尔()<Speaker>Yegor</Speaker>||:... +This time, you win.
+叶戈尔()<Speaker>Yegor</Speaker>||<BIN>154</BIN>:I'll spare your worthless life for now.
+叶戈尔()<Speaker>Yegor</Speaker>||<黑屏1>:Attention, this building is suspected to be rigged with explosives containing Collapse Fluid. Withdraw three kilometers and keep a safe distance from this structure. That's an order - everyone out, NOW!
+()||<BIN>9</BIN>:...Ange stands up and walks slowly toward the window.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||:Ange, do you copy? The Military is starting to withdraw. Our path to the extraction point is clear!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<黑屏1>0,3</黑屏1>:I know. Come and get me.
+()||<黑屏2><BIN>46</BIN>:She turns back to Yegor.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:You make a fine commanding officer. I'll admit you're a good soldier, but you're fighting on the wrong side.
+NPC-AngeDamage(0)<Speaker></Speaker>||<SE2>Reload</SE2>:AK-12 and AN-94 jump in through the window and aim their weapons at Yegor.
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:So you're getting rid of me after all.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:Kill you? There's nothing in it for me. +The Sangvis mastermind has given us the slip. Is there any reason why we must tear each other's throats out?
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:You know I have a reason.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:I once had a million reasons to kill you, too. +But not now. I've got more important stuff to do.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:This isn't the end, Angelia... +...Just you wait.
+()||<SE1>ClothingUp</SE1>:...Ange lets herself be pulled onto AK-12's back under Yegor's vicious glare.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Leave it till next time. Here, a little souvenir for you. I hope it'll help you remember a hard lesson learned.
+()||<黑屏1>:Ange tosses the detonator onto the floor as AK-12 and AN-94 jump out through the window with her. +Yegor walks steadily toward the window and picks up the detonator. He stares wordlessly at the empty sky outside.
+()||<BIN>157</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Half an hour later.
+NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:Sir, according to the bomb disposal unit's report, the IEDs installed in the building...weren't connected to any detonator... +The drone has run a detailed scan on the whole structure and found no sign of any canister containing a high concentration of Collapse Fluid either...
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:...
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:Sir...
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:I knew it... I knew it...
+NPC-YegorDamage(0)<Speaker></Speaker>||:...Yegor remains incredibly calm. He merely gazes emptily at the detonator Ange left behind.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:I knew she was bluffing... +It wasn't unexpected at all... +But I had no choice. You all know what that woman is capable of. I couldn't put your lives in danger again.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:Sir... +Next time, no matter what happens, we are ready to sacrifice ourselves at your command.
+NPC-YegorDamage(0)<Speaker></Speaker>;NPC-Yegor(3)||:Yegor peers at the corporal. He takes a deep breath and claps his subordinate on the shoulder.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑屏1>:Save that for our next operation. Our country will demand greater sacrifices from us all. +For the country's bright future, we must proceed to the next stage of the plan...
+()||<黑屏2><BIN>159</BIN>:...Meanwhile.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:Ange! I didn't know you threw in some Collapse Fluid! But what actually is Collapse Fluid?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;SOPIIDamage(0)||:Haha...as if. I had no more cards up my sleeve back then; all I could do was give them a scare. +I knew Yegor would be suspicious when he saw me on my own. I merely stoked his suspicions and made him scare the pants off himself.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:That was real dirty.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:If I didn't strike him where it hurt, I couldn't have shaken his resolve. +He isn't afraid to die, but he can't bear to watch so many of his men die before him. It wasn't the first time...
+NPC-AngeDamage(0);HK416(0)<Speaker>416</Speaker>||:Ange, I'm curious - if the IEDs were fully functional, would you really have detonated them?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;HK416(0)||:...I don't know. We'll see if it ever comes to that. I'll improvise.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK-12</Speaker>||:You always devise very elaborate plans with provisions made for various contingencies, yet now you talk about improvising. +I mean, I don't mind winging it when something unexpected happens, but you really went off the deep end this time - even I think so.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:To be honest, it was all empty bravado. I banked everything on three things - one, the Military couldn't find all of the IEDs that quickly; two, the radiation had spread enough to affect the entire area and interfere with their scanner; and three, Yegor was befuddled by my high-pressure tactics... +The result...was mostly down to luck. If Yegor hadn't been infected, if he hadn't been so impatient to have his revenge, with his experience, he could most certainly have come up with something else, and my hands would've been truly tied...
+NPC-AngeDamage(0);AN94(0)<Speaker>AN-94</Speaker>||:But in the end, we did survive - that's what truly matters. You saved us, Ange.
+NPC-AngeDamage(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, I didn't actually expect all of us to live!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:I'm the one who's saved; you just got dragged into this because of me. +I'm very grateful to you all and the commander...
+RO635(6)<Speaker>RO635</Speaker>||:Now we're going to rescue the commander, aren't we?
+AK12(0)<Speaker>AK-12</Speaker>||:Hmm... The military has resumed their pursuit.
+AN94(0)<Speaker>AN-94</Speaker>||:They are currently occupied with cleaning up the scene and treating their wounded. This is our best chance.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Thank goodness you haven't been in any kind of danger so far, Commander. You managed to stay hidden in the secret safe house this whole time - how lucky!
+()||:...<c>It's not actually that safe, but I do have help. <c>I've been enjoying myself. <c>It's almost over - don't jinx it!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Huh? Help?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:See? But aren't you bored having been on your own for so long?
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:The commander does have company. They aren't together, but they can still chat.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>3</分支>:Haha! Sorry, but you're so well hidden I doubt there could be any threat.
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:Rather, they have neutralized all the threats.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh? Who do you mean?
+HK416(0)<Speaker>416</Speaker>||:The two elite T-Dolls Fräulein Kalin sent to protect the commander.
+RO635(6)<Speaker>RO635</Speaker>||:She only sent...two?
+HK416(0)<Speaker>416</Speaker>||:We're understaffed, but those two are more than enough for the job.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? I'm not sure about that. Who are they?
+HK416(0)<Speaker>416</Speaker>||:One is an elite model that IOP has kept under wraps for a long time. She isn't exactly a team player, but she's good. +Her name is...
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Griffin T-Doll M82A1.</color>
+M82A1(0)<Speaker></Speaker>||<SE1>Gunfight</SE1>:The sound of a ferocious shootout comes through the channel.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Is there a fight somewhere?
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>I've been fighting the whole time.</color> +<color=#00CCFF>Kalina told me a rescue party was on their way, but I didn't know you'd take so long. The commander is in trouble. Please hurry up.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;M82A1(0)||:Trouble? What trouble?
+()||<SE1>MachineGunBurst</SE1>:...Bang!
+M870P(0)<Speaker>M870</Speaker><通讯框>;M82A1(0)||:<color=#00CCFF>Gunshot! They're coming, bearing 300°!</color>
+M870P(0);M82A1(0)<Speaker>M82A1</Speaker>||:<color=#00CCFF>I heard that too, thank you very much. Don't interrupt me.</color> +<color=#00CCFF>Allow me to introduce M870 - a problematic T-Doll that's good for nothing if not for her skills.</color>
+M870P(0)<Speaker>M870</Speaker>;M82A1(0)||:<color=#00CCFF>"Good for nothing if not for her skills and COOLNESS", thank you very much!</color> +<color=#00CCFF>Nice to meet you, guys, but I'm not interested in going out for drinks with strangers under such dangerous circumstances!</color> +<color=#00CCFF>Right now, there are only the two of us protecting the commander, so can you please hurry the fuck up?!</color>
+AK12(0)<Speaker>AK-12</Speaker>;M82A1(0)||:What enemies have you run into? Can you describe them?
+AK12(0);M82A1(0)<Speaker>M82A1</Speaker>||:<color=#00CCFF>I've been trying to figure that out myself. These things we're coming up against...</color> +<color=#00CCFF>What exactly are they...? T-Dolls? ...Humans? Or...some sort of "emissaries"?</color>
+AK12(0);M870P(0)<Speaker>M870</Speaker><通讯框>||:<color=#00CCFF>I'm not sure if I can take care of them!</color> +<color=#00CCFF>Just to make it clear, girls - you do understand that by "I'm not sure", I actually mean "I can't", right?</color>
+AK12(0)<Speaker>AK-12</Speaker>||:Now we do. But what kind of enemies are we talking about?
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>I don't know what they are.</color> +<color=#00CCFF>Have you seen these white Dolls before?</color>
+M870P(0)<Speaker>M870</Speaker><通讯框>||:<color=#00CCFF>And...that kinky slut wearing a white tunic over there?</color>
+HK416(0)<Speaker>416</Speaker>||:...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:What...white Dolls?
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:We really must hurry. +Commander, we're in big trouble!

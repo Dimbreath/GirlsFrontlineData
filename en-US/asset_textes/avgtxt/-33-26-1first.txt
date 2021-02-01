@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Room</BGM>:...
+HK416Mod(0)<Speaker>416</Speaker>||:What's going on...? Why are all these Griffin Dolls...
+G11(2)<Speaker>Gr G11</Speaker>||:They look like statues. Why aren't they moving...?
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:It must be because of the forced connections... 45 was right, this is the real deal.
+HK416Mod(0)<Speaker>416</Speaker>||:Should we be glad that we managed to close off our neural access ports? How's 45?
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:There's no response from her yet... We need to hurry up. +Stay close; we don't have the Zener Protocol to help pinpoint our position, our GPS is shot...and comms are cut off too. Fortunately, the control center isn't too far away. It might be better to go over there directly and find M4.
+UMP9Mod(6);HK416Mod(0)<Speaker>416</Speaker>||:I don't think M4 did this.
+UMP9Mod(2)<Speaker>UMP9</Speaker>;HK416Mod(0)||:...What makes you think so?
+UMP9Mod(2);HK416Mod(0)<Speaker>416</Speaker>||:Instinct. She's a very weird Doll, but I don't think she's the ruthless type. 
+UMP9Mod(6)<Speaker>UMP9</Speaker>;HK416Mod(0)||:Then...what should we do...?
+UMP9Mod(6);HK416Mod(0)<Speaker>416</Speaker>||:We'll take things one step at a time.
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:Right...
+UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点1>:Ah, there are more Dolls here. They're not moving either. These should be the Griffin echelons who were ordered by the Commander to defend the outer perimeter. We should be close to the control center.
+()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:In the command post.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Truth</BGM>:What's wrong...? Have comms been jammed?
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:No...communications are fine, it's just that our Dolls aren't responding...
+()<Speaker>Commander</Speaker>||:...Tsk, are those forced connections back again? +Persica, are you still there? Persica?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm still here.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:What's going on? You said you knew what William was trying to do, and what did you mean when you told me not to let them fuse?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm sorry, Commander...but I'm feeling very scared now...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:Scared?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>If William arranged for me to pick up that girl... Then when did he begin carrying out his plan? </color>+<color=#00CCFF>Three years ago? Five years ago? Or did it start from the moment Lyco and I refused him?</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:The girl you picked up?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Yes... M4's neural cloud was made from the connectome of a dead girl's brain scan...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:So when you said M4 was special...it was because her neural cloud was based on a human being, and not computed from a simulation?
+NPC-Persica(0);NPC-Kalin(7)<Speaker>Kalina</Speaker>||:But that would mean blurring the boundary between humans and Dolls. That would be treading on the bounds of ethics... If I remember correctly, such things are strictly forbidden, aren't they?!
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>It's because I pitied her, and didn't want her to vanish just like that...</color>+<color=#00CCFF>...</color>+<color=#00CCFF>Well, that was what I thought at first, but it wasn't really the case...</color>+<color=#00CCFF>Actually, I just wanted to try it. I was pursuing the ultimate neural cloud model, and any simulation would pale in comparison to a real brain.</color>+<color=#00CCFF>The pity I spoke of was nothing more than an excuse I found for myself... William must have set things up like this because he understood that...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:He set it up?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I've already looked into it. There were cases of homicidal children rampaging with guns several years ago... What they all had in common was those kids were all very aggressive, and all these incidents happened in Griffin-controlled sectors...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Is that true? Are there reports on this in Griffin's archives?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Obviously, they're not going to reveal scandals like a PMC shooting children. Most of the external case files were deleted. Only a few pictures were left, and I only just recently learned about this.</color>+<color=#00CCFF>And after I scanned the brain of that girl who was about to die, those incidents stopped immediately.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:So that was his so-called setup? What was William's aim, then?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>He wanted me to make a neural cloud for him.</color>+<color=#00CCFF>When I was still in 90wish, he wanted Lyco to build a neural cloud to duplicate "a certain someone". He wanted to resurrect "a certain someone" in the form of a Doll.</color>+<color=#00CCFF>Naturally, Lyco refused him, and I think that was what led to his death.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:What do you mean by resurrecting "a certain someone"?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Those kids were probably "made" by William. If my guess is correct, then the "test subjects" in the city must have some similarities with the data of that girl in my database.</color>+<color=#00CCFF>William didn't know M4 was special at first, but then you ran into the Nytos many times, so I guess he must have discovered something, which was why he lured you here...</color>
+NPC-Persica(0)<Speaker>Commander</Speaker>||:Then...the aim of these connections is to seize M4's neural cloud?
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>I don't think William fully understands what M4 is...which is why he's just probing and testing now. And if these "test subjects" were abandoned, then I think that these creations of William might not necessarily share his will.</color>+<color=#00CCFF>This might be a chance for us...</color>+<color=#00CCFF>But until the forced connection ends, all we can do is wait and see how M4 chooses to deal with the situation. I made the AR Team specifically to protect her, and I'm sure they'll be able to overcome this difficulty.</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+()||:Inside the control room. +With the assistance of OGAS, ST AR-15 starts forging a connection to M4A1's neural cloud.
+()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:<color=#00CCFF>【System Message】 Synchronizing Level II Data...</color>+<color=#00CCFF>【System Message】 Level II Data Synchronization at 10%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Well... Doesn't this feel nostalgic.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【System Message】 Level II Data Synchronization at 25%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I'm not the same as before, and neither are you.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【System Message】 Level II Data Synchronization at 55%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:But I know...that some things never change.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【System Message】 Level II Data Synchronization at 76%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:No matter how strong you become, you'll always be that dork who doesn't know how to take care of herself, who always tries to bear everything by herself, who's far too kind to others...
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【System Message】 Level II Data Synchronization at 98%</color>
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:And that's why...whenever you run into trouble, I'll be there to help you.
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【System Message】 Level II Data Synchronization at 100%</color>
+()<Speaker>Clear Voice</Speaker>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>The two of you have very good compatibility, but it seems there are still a few small obstacles.</color>
+()<Speaker>Faint Voice</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Pzzt...zzzt...</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Oh great. Now I'm hearing TWO annoying voices...
+AR15Mod(4)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>Hmm, it does seem rather inconvenient. This little one has been locked in the depths of your neural cloud and never got the chance to mature, so I easily absorbed it.</color>+<color=#00CCFF>Now you will no longer hear the voice that you hate.</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Is that so? That's a great help.
+AR15Mod(4)<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>In its place, you will hear my voice from now onwards.</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<白屏1>:...
+()<Speaker></Speaker>||<BIN>204</BIN><白屏2>:The virtual space around ST AR-15 slowly stabilizes, and she finds herself standing underneath that patch of inverted forest as well.
+()<Speaker>ST AR-15</Speaker>||:This digital realm... It seems to be a patchwork of different memories...+That's right, it isn't just M4's neural cloud that's making up this place.+While I can't find her signal, I can feel many connections here...and each connection points to a different neural cloud. Given a single Doll's neural cloud volume and processing limits, the amount of data here is too much even for M4's neural cloud... Could this be a stretch of space generated after connecting with the others?
+()<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>That appears to be the case. This place is filled with memories which do not belong to M4. It seems those Isomers did not hold very good memories either.</color>
+()<Speaker>ST AR-15</Speaker>||:Isomers?
+()<Speaker>Clear Voice</Speaker>||:<color=#00CCFF>That is what M4 and I call them. These Isomers have connected in great quantities, so finding M4 directly does not seem possible. Let us clear these fragments away before venturing deeper into her neural cloud. </color>
+()<Speaker>ST AR-15</Speaker>||<黑屏1>:Humph... I'd have done that even if you didn't say so.

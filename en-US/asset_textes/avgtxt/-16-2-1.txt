@@ -1,0 +1,53 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
+AK12()<Speaker>AK-12</Speaker>||<BIN>9</BIN><黑屏1><SE2>AVG_Rain2</SE2>:How unsightly. +The Griffin forces have all withdrawn. She won't survive if we leave her here. +...What do you think?
+熟悉的人形声音()<Speaker>Familiar voice of a T-Doll</Speaker>||<BIN>113</BIN><黑屏2>0.6</黑屏2><SE1>AVG_Rain2</SE1><BGM>BGM_Truth</BGM>:Angelia didn't ask us to take her in. +You said yourself that our job this time is to observe. We can't get involved until new orders come.
+AK12()<Speaker>AK-12</Speaker>||<BIN>113</BIN>:Even if she dies...? Are you really okay with that?
+熟悉的人形声音()<Speaker>Familiar voice of a T-Doll</Speaker>||<BIN>113</BIN>:Orders are orders. T-Dolls can't disobey.
+AK12()<Speaker>AK-12</Speaker>||<BIN>113</BIN><SE2>AVG_Rain2</SE2>:I know you can, and so do you.
+熟悉的人形声音()<Speaker>Familiar voice of a T-Doll</Speaker>||<BIN>113</BIN>:... +Are you abetting me in breaking the rules?
+AK12()<Speaker>AK-12</Speaker>||<BIN>113</BIN>:I remember you're quite famous for disobeying orders. +Well, do indulge my curiosity.
+熟悉的人形声音()<Speaker>Familiar voice of a T-Doll</Speaker>||<BIN>113</BIN><SE1>AVG_Rain2</SE1>:You're right. +I suppose no one would bat an eye no matter what I do on a team with such a name.
+熟悉的人形声音()<Speaker>Familiar voice of a T-Doll</Speaker>||<BIN>113</BIN>:Then here's a question, AK-12... Is Task Force DEFY hiring?
+AK12()<Speaker>AK-12</Speaker>||<BIN>113</BIN>:Humph, sly old fox... +We actually do have an opening.
+()||<BIN>113</BIN><黑屏1>:...
+AK12()<Speaker>AK-12</Speaker>||<BIN>114</BIN><黑屏2>0.5</黑屏2><黑屏1>0.5<黑屏1><SE2>AVG_Rain2</SE2>:In that case, DEFY will welcome its second temporary member. +Don't let her drag us down, because this team... +Well, it's made up of brand new, elite Doll models.
+()||<BIN>9</BIN><黑屏1>:...35 minutes ago. +Current time is 1600 hours.
+AK12()<Speaker>AK-12</Speaker>||<BIN>130</BIN><黑屏2>:It's no different from an actual battlefield at this point... +I honestly couldn't imagine that a PMC could cause such a huge disturbance, just going by the data we received.
+AK12()<Speaker>AK-12</Speaker>||<BIN>130</BIN><黑屏1>:But this ought to be a good thing, right? At the very least, it'll be easier for us to take action.
+AK12()<Speaker>AK-12</Speaker>||<BIN>131</BIN><黑屏2><黑屏1>:Ah, it's time. +Now then... +Guess it's time for us to make our entrance.
+AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM><BIN>99</BIN><黑屏2>:Ange, this is about the situation just now. +We've confirmed that a team of human soldiers attacked the safe house where our target M4A1 was located. +The exact casualty status of Griffin is unknown, but we can be sure that M4A1 herself was left in place. +This is very strange, do you know why they would do that?
+AK12(0);NPC-Ange(0)<通讯框><Speaker>Ange</Speaker>||<BIN>99</BIN>:There's nothing strange about that. They must have their own agenda. +What about the disconnection procedure I had you execute?
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN><BGM>BGM_Sneak</BGM>:I've verified its completion, though it's a bit...flawed. +The Doll M4A1 seems to be the center of attention for both sides. Is it alright to not recover her?
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Let AR-15 decide. She knows what to do.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:You do know your old subordinates well.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:You sound jealous.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Don't say I didn't warn you. Excessive self-confidence is an undesirable trait in commanders.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Oh, I know that better than anyone else.
+AK12(0)<Speaker></Speaker>||<BIN>99</BIN>:...The transmission ends.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN>:Yet another troublesome day, and I can't help but worry... +Laws, systems, orders...why do humans have to live like Dolls?
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN>:Have you thought about that question before... + ...AR-15?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:...I'm prepping my gear. Leave me alone.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Oh? And where are you going all by yourself?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Do you have to ask about everything I do? Ange authorized me to act independently, didn't she?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Are you sure you want to go at it alone? You've still got Parapluie in you now, right? +While it hasn't completely spread throughout your neural cloud, all your external connection functions have been locked down to avoid further contagion.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:So?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Which means, you can't control dummies and you can't sync information on battlefield conditions with us. I trust I don't need to explain the implications of that.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Indeed, I can't access the Zener Network, but I can still use the radio to establish basic comms. +That's good enough for me. I'm best suited to working alone.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:I'm simply worried that you'll regret working alone afterwards.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:...I never regret anything.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:There's often a price to be paid for speaking in absolutes. Don't you want to hear about the new mission that Ange handed down?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:... +I'll hear you out for now.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Ange wants us to rescue M4A1.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:... +Are...are you doing this on purpose?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:On purpose? Whatever could you mean?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Tsk... +I don't believe you. This contradicts the initial plan.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Plans change. Just like your destiny.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:... +Then let's head out.
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN>:Not planning to go alone anymore?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Do you enjoy mocking others so much?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||<BIN>99</BIN><黑点1>:Haha, not under most circumstances, but your reactions are just too amusing.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>10</BIN><黑点2>:There's still some distance from here to M4A1. What do you intend to do?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||:I'll hail a drone cab, and then we'll have a nice comfy ride to our stop. Sounds good? +Give me a break, of course we're going on foot.
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Just the two of us, fighting our way there?
+AK12(0)<Speaker>AK-12</Speaker>;AR15Mod(0)||:There are a lot of surviving Griffin T-Dolls along the way. All we have to do is recover them and temporarily overwrite their directives. That ought to be enough. +Well? Surely you'd want to help out your old war buddies, right?
+AK12(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I don't care. +But there's no denying that it's the best shot we've got, so let's head out.

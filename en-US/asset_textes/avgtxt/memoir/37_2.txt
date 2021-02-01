@@ -1,0 +1,95 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:At the Griffin base.
+()||:M1911 hears some faint gunshots coming from the shooting range.
+M1911(0)<Speaker>M1911</Speaker>||<黑点1>:Hmm? Who's practicing at this time of night? +...Guess I'll go take a look.
+()||<BIN>73</BIN><黑点2>:M1911 leaves the database and makes her way to the shooting range.
+M14(0)<Speaker>M14</Speaker>||<BGM>BGM_Moon</BGM>:Oh, M1911! +Good evening!
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Good evening, M14. +Was that you shooting just now?
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Yeah. We couldn't sleep so we came to practice! +Are you also here to practice?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:No, I'm here to look through the kids' training data. +The mission in two days is gonna be tough so we're preparing as thoroughly as we can.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Another mission? +But we guess you won't be taking us this time either...
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Well...I'm afraid I can't answer that right now. +Candidates for the mission are chosen depending on the job requirement.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Thompson doesn't want us on missions. Miss Kalin doesn't want us at work. Even other T-Dolls don't want our help... +Are we only causing everyone trouble?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Miss Kalin? Other T-Dolls? +M14...what have you been up to in the last few days?
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:(Sobs) +These couple days...we've been...
+M14(0);M1911(0)<Speaker>M1911</Speaker>||<黑屏1>:Slow down. Let's sit down and hear it...
+()||<BGM>BGM_Empty</BGM><BIN>89</BIN><黑屏2>:Three days ago, in the warehouse at the Griffin base.
+M14(0)<Speaker>M14</Speaker>||<BGM>BGM_Sunshine</BGM>:We're back, Miss Kalin!
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Oh, M14. Have you brought the supplies?
+M14(0)<Speaker>M14</Speaker>||:All here!
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Great. Let me check...
+()||:Kalin inspects the supplies delivered by M14.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:That's not right... There should be 40 boxes this time. Why are we missing so many?
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(0)||:That can't be right. +This is all we saw at the factory warehouse.
+M14(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:The factory only provided...these supplies, M14?
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(0)||:The person in charge said all the goods were at the warehouse reserved for Griffin, so we moved all the boxes outside the warehouse over here!
+M14(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:...What about those INSIDE the warehouse?
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(0)||:Inside the warehouse?
+M14(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:All our goods are always placed together... I told you as much before you set off.
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(0)||:Oh! +W-we're sorry...we forgot.
+M14(0);NPC-Kalin(3)<Speaker>Kalin</Speaker>||:Can't be helped. I'm afraid you'll have to make another trip. +But the supply schedule is ruined for the day. What a pain... +You'd better not miss a single box this time, M14.
+M14(0)<Speaker>M14</Speaker>;NPC-Kalin(3)||:We're really sorry...Miss Kalin.
+M14(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||<黑屏1>:Alright, alright. Just go.
+M1911(0)<Speaker>M1911</Speaker>||<BIN>73</BIN><黑屏2><BGM>BGM_Empty</BGM>:I see... +There's more, right?
+M14(0)<Speaker>M14</Speaker>;M1911(0)||<黑屏1>:Yeah...
+()||<黑屏2><BIN>89</BIN>:The previous morning.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BGM>BGM_Sunshine</BGM>:M14, I have to go and inspect a new delivery. +If anyone comes asking for supplies while I'm gone, tell them to wait here.
+M14(0)<Speaker>M14</Speaker>||:Okay!
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Right, then I'll be back soon. +I'm leaving things here to you.
+()||:Kalin leaves the warehouse.
+MK2(0)<Speaker>STEN</Speaker>||:Miss Kalin, I'm here for ammo- +M14? Why are you here? Where's Miss Kalin?
+M14(0)<Speaker>M14</Speaker>;MK2(0)||:She's off to inspect a new delivery! +We're watching the warehouse for her while she's gone.
+M14(0);MK2(0)<Speaker>STEN</Speaker>||:Did she say when she'll be back?
+M14(0)<Speaker>M14</Speaker>;MK2(0)||:Soon, she said!
+M14(0);MK2(0)<Speaker>STEN</Speaker>||<黑点1>:Hmm, then I'll wait here.
+()||<BGM>BGM_Empty</BGM><黑点2>:...20 minutes later.
+MK2(0)<Speaker>STEN</Speaker>||<BGM>BGM_Room</BGM>:Why isn't she back yet...? I'm running out of time.
+M14(0)<Speaker>M14</Speaker>;MK2(0)||:Are you on some urgent business, Sten?
+M14(0);MK2(0)<Speaker>STEN</Speaker>||:Yeah, our team has to go on an emergency mission. I need to get some ammo pronto.
+M14(0)<Speaker>M14</Speaker>;MK2(0)||:Then just take it first. +We'll tell Miss Kalin when she comes back!
+M14(0);MK2(0)<Speaker>STEN</Speaker>||:Huh? Is that okay? +I think it's better if I wait till she's here...
+M14(0)<Speaker>M14</Speaker>;MK2(0)||:But aren't you in a hurry?
+M14(0);MK2(0)<Speaker>STEN</Speaker>||:I am... My leader was rushing me just now. +Hmm...can't be helped. +I'm taking these then. Please apologize to Miss Kalin on my behalf when she's back.
+M14(0)<Speaker>M14</Speaker>;MK2(0)||<黑点1>:Okay, we'll definitely tell her!
+()||<黑点2>:...A few minutes later.
+NPC-Kalin(3)<Speaker>Kalin</Speaker>||:Jeez. Suppliers nowadays are SO tenacious... +I'm back, M14. Did anyone come by?
+M14(0)<Speaker>M14</Speaker>||:Sten was here!
+()||:M14 tells Kalin about what happened.
+NPC-Kalin(8)<Speaker>Kalin</Speaker>||<震屏>:...WHAT?! You let Sten take the ammo?!
+M14(0)<Speaker>M14</Speaker>||:Because she looked like she was in a hurry, you know.
+()||:Kalin rushes over to the shelves and checks the ammunition.
+NPC-Kalin(4)<Speaker>Kalin</Speaker><Shake>||<黑屏1>:Arghhhhh!! +She took blank rounds used for practice!! +I need to tell the Commander right now!!
+M14(0)<Speaker>M14</Speaker>||<黑屏2><BIN>73</BIN><BGM>BGM_Empty</BGM>:That's what happened... +We wanted to do our logistic duties properly, but we always ended up causing trouble.
+M14(0);M1911(0)<Speaker>M1911</Speaker>||<BGM>BGM_Moon</BGM>:Looks like you've been apologizing all the time...
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Will Thompson sack us, M1911? +We want to stay here with everyone at Griffin... We don't want to have our core removed and get sent away...
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Slow down, slow down. Things are that bad yet... +Right. Since you've been practicing, mind if I take a look at your data? I might find something you're good at.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Really? +Can we really come back to the team?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:You never left, M14.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:What?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:We only hope you can readjust yourself and come back on duty at a better time. +If all you care about is playing the hero and sulk in defeat whenever you botch something up, how could you expect anyone to trust you with their backs?
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:We...we simply...don't want to be abandoned...
+M1911(0)<Speaker>M1911</Speaker>||:We haven't abandoned you...
+M1911(0)<Speaker></Speaker>||:M1911 kneels down and looks at M14.
+M1911(0)<Speaker>M1911</Speaker>||:If you don't want to give up, then calm down and find something that you really want to do.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:We've tried many things, but none of them really worked out.
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Were you actually trying, or were you just trying to get lucky? +Have you put in any effort for what you want?
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Effort...
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:That's right. Put in the effort until you're up for the job. +It's like love... If you don't make an effort, you'll never know the darling of your dreams. If you don't give everything you've got, you'll never win their heart. 
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:That's an odd metaphor... +But...we think we get it. +Yeah, we'll do our best! For what we want to do!
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:Great. So, since I'm here anyway...let me see the results from your practice just now.
+()||:M1911 pulls up M14's shooting data.
+M1911(0)<Speaker>M1911</Speaker>||:Hmm...
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:...Is it terrible?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:No...it's much better than I expected. +Perhaps rather than being in the vanguard, M14, you'd be more suited for providing cover from the back.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Providing cover? Like M21?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:That's right. You'll have to stay back to give support. This will make your fighting style vastly different than what you're used to. +You'll have to rein in your personality to maximize the use of your Imprinted weapon.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Our Imprint... +We're not sure if we can do that...
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:It depends on how much change you're willing to make. +Learning to compromise is also a kind of effort, you know.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Compromise...is also a kind of effort?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:In a team, everyone has to sacrifice a bit of themselves in order to work side by side with each other. +This kind of sacrifice isn't always noticeable, but it's essential to achieving victory.
+M14(0)<Speaker>M14</Speaker>;M1911(0)||:Have you, and has Miss Thompson also made this compromise?
+M14(0);M1911(0)<Speaker>M1911</Speaker>||:If you know how Thompson used to do things, you'll realize how easy we have it now. +If you really want to help us, then you have to change. +Well? If you want to give that a try, I can talk to Thompson and ask her to take you on our next mission.
+M14(0)<Speaker>M14</Speaker>||:... +We want to fight with you. +It doesn't matter from which position. We'll do our best! +We'll also work hard on our shortcomings in order to stay with you... +So...please, M1911, please ask Thompson to let us fight!
+M1911(0)<Speaker>M1911</Speaker>||:I can see that you do have the determination. I'll keep my promise. +But next time, if you still charge straight to the front, Thompson might really just tear out your core and dump it in a coal mine...
+M14(0)<Speaker>M14</Speaker><shake>||:Ughh... That's scary...
+M1911(0)<Speaker>M1911</Speaker>||<黑屏1>:Haha, just kidding. +Then I look forward to your performance! +Don't disappoint us, okay?

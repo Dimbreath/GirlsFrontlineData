@@ -1,0 +1,26 @@
+Agent()<Speaker>Agent</Speaker>||<BGM>BGM_Empty</BGM><SE1>Heartbeat</SE1><BIN>9</BIN><黑屏1>:I have brought Death to your doorstep.+Now, open your eyes...
+Agent()<Speaker>Agent</Speaker>||<睁眼><SE1>m4a1_015</SE1><火花>1.7</火花><BIN>11</BIN>:Look at me, Tactical Doll M4A1, look at me.
+Agent()<Speaker>Agent</Speaker>||<BGM>BGM_Sad</BGM>:It's time for your finale, and you must stay till the show is over.
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2><黑屏1>:Cough...+A...gent...
+Agent()<Speaker>Agent</Speaker>||<拉伸><BIN>12</BIN>:Interesting. Even the look in your eyes is different from theirs in the face of Death.+But this is the look I want. Show more shock! More indignation! More hatred!
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013b</SE2><黑屏1><关闭火花>:Cough...cough...
+Agent()<Speaker>Agent</Speaker>||<黑屏2><黑屏1><平移><SE1>Battlefield</SE1><刮花><边框>2</边框><BIN>20</BIN>:You've stolen something that's very important to Master. Do you think you can just leave?+I'll kill you first, then your AR Team, and those Griffin T-Dolls still slaving away for you.+Very soon, they'll be completely at a loss, like infants who've lost their parents.+They'll struggle blindly on the battlefield, and fall prey to us...
+Agent()<Speaker>Agent</Speaker>||<SE1>Rope</SE1><黑屏2><BIN>12</BIN><火花>:You just have to die... And you will, in just a few more seconds!
+M16A1()<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1><打海猫2>:...Sorry, but she won't be dying here.
+Agent()<Speaker>Agent</Speaker>||:...!
+()||<关闭火花><快跑><SE1>RunStep</SE1>：
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2>0,4</黑屏2><SE1>MachineGunBurst</SE1><BIN>14</BIN><BGM>BGM_Danger</BGM><开火>:I'll spare you the wait! Go to hell right now,+Sangvis scum!
+()||<开火><SE1>MachineGunBurst</SE1><SE2>TiexueDie</SE2><黑点1>：
+M4A1(1)<Speaker>M4A1</Speaker>||<黑点2><BIN>15</BIN>:Cough...cough...
+M16(0)<Speaker>M16A1</Speaker>;M4A1(1)||:Yeah, thank me. Death's scythe missed you by a hair's breadth yet again.
+M16(0);M4A1(1)<Speaker>M4A1</Speaker>||:Phew... M16, how is the situation outside? AR-15 and SOP-II are still...
+AR15(0)<Speaker>ST AR-15</Speaker>;M4A1(1)||:We're back, but Sangvis reinforcements are here. We have to retreat soon.
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:The backup squad can hold them off for a while. Let's go!
+M16(3)<Speaker>M16A1</Speaker>;SOPII(0)||:M4, you all right issuing commands? You seem to be in pretty bad shape.
+M16(3);M4A1(1)<Speaker>M4A1</Speaker>||<黑屏1>:I am fine...cough... M16, please do some repairs on me. I will run a diagnostic on my command system first.
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>10</BIN>:It is fine. The tactical maps are intact. What about the comms system?
+VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:Comms are functioning normally! We're hearing you loud and clear!
+M4A1(2)<Speaker>M4A1</Speaker>||:(...So they are the squad that stayed behind.)+...I am so sorry, but you will have to bring up the rear.
+PPSh41(0)<Speaker>PPSh-41</Speaker><通讯框>||:No problem, comrade. It's our duty.
+M4A1(0)<Speaker>M4A1</Speaker>||:(...They...still have no idea they are being left behind.)+Thank you. We will finish evacuating as soon as possible.
+AR15(2)<Speaker>ST AR-15</Speaker>||:The backup squad can't hold them off forever. We have to hurry!

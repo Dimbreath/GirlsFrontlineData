@@ -1,0 +1,134 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:... +...In the command room.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BGM>BGM_Sunshine</BGM>:Commander, here is the confirmed roster of the investigation team. +You've really got yourself a huge assignment this time – no mermaids have been sighted in almost half a century. +And the latest sighting just so happened to be near the sector under your jurisdiction.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Yeah, it's a perfect chance for us to investigate.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:"Perfect", huh.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Get everyone here for the briefing.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||<黑屏1>:Alright, I'll summon them now.
+<Speaker>???</Speaker>()||<BIN>9</BIN><黑屏2>:I'm in luck! I got picked!! +I knew the Goddess of Luck wouldn't desert me!
+()||<黑屏1>:A Doll is muttering to herself in the corner of the command room.
+R93(0)<Speaker>R93</Speaker>||<BIN>8</BIN><黑屏2>:Heeheehee... Looks like even I have my moments of good fortune.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Um...hi!
+R93(0)<Speaker>R93</Speaker>(0)||:Maybe I should gamble a bit while this streak of good luck is still with me... In my purse, I still have 1...2...3...
+Lewis(0)<Speaker>Lewis</Speaker>||:...Hello! +Do you hear me...?
+R93(0)<Speaker>R93</Speaker>||:Oh! +You're...Lewis, right?
+Lewis(0)<Speaker>Lewis</Speaker>||:That's right, I'm Lewis... +We'll be on the same team for this operation.
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:So you're going to be my teammate! Nice to meet you!
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Likewise.
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:Yay! +Such a pretty girl! I'm drowning in good fortune today!
+R93(0)<Speaker>R93</Speaker>||:(Wait...maybe I'm way too lucky?) +... +(No, the more I think about it, the more fishy this feels... This isn't a dream, is it?) +(...I had a nightmare about failing my neural upgrade not too long ago.)
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:W...what's the matter? +R93?
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:Lewis, please hit me!
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:...Pardon?
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:I'll explain later. Just hit me.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Then...don't blame me afterwards.
+Lewis(0);R93(0)<Speaker>R93</Speaker>||<黑屏1>:Uh, you don't have to hit me too hard either...
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_Punch</SE1>:
+()||<黑屏1>:Lewis punches R93 in the abdomen, and R93 passes out immediately.
+()||<BIN>82</BIN><黑屏2>:...In the Griffin dorms. +Hugging her belly, R93 slowly sits up in bed.
+R93(0)<Speaker>R93</Speaker>||<BGM>m_avg_casual</BGM>:It hurts...so this really isn't a dream...
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Sorry, I don't really know how to control my strength.
+Lewis(0);R93(0)<Speaker></Speaker>||:R93 gives Lewis a nonchalant wave, indicating that she's fine.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Why did you think you're dreaming? Being chosen to be part of the investigation isn't that big of a deal...
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:That's because...my luck has always been rotten. It feels really odd how things have been going so smoothly today.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:You don't have to worry too much. There's this law, right? I believe it's called the law of conservation of luck? 
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:The law of conservation of luck? I don't believe in such a thing! +Lewis, do you know about Helian?
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Yeah...what about her?
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:Let me tell you a secret. Come closer.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:... +......! +She's failed so many times?!
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:If the law of conservation of luck was valid...she'd have met a good guy long ago.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:You know how they say it all comes down to luck and physical appeal in terms of love. With luck, you will run into the right person; with physical appeal, this person will be attracted enough to find out more about your personality...
+Lewis(0);R93(0)<Speaker>R93</Speaker>||:Wait! Hold it, hold it. +Let's end the discussion right there. I have a feeling we shouldn't say any more on the subject.
+Lewis(0)<Speaker>Lewis</Speaker>;R93(0)||:Yeah, I suppose that's enough chit-chat. +I'm going to change into my battle gear. I'll see you later at the beach!
+Lewis(0);R93(0)<Speaker>R93</Speaker>||<黑屏1>:Sure, see ya!
+()||<BIN>162</BIN><黑屏2>:...An hour later, R93 arrives at the location where the mermaid sighting was reported.
+R93(2)<Speaker>R93</Speaker>(0)||:Lewis isn't here yet... Guess I'll wait for a bit.
+()||:15 minutes later...
+R93(2)<Speaker>R93</Speaker>(0)||:If Lewis doesn't show up soon, I'll have to execute Plan B...
+()||:Another 15 minutes passed... +R93 fishes out a coin from her storage case and tosses it into the air.
+R93(2)<Speaker>R93</Speaker>(0)||:I'll let the Goddess of Luck decide. Heads, I keep waiting for Lewis; tails...I initiate Plan B and carry out the mission on my own!
+()||:The coin's spin starts slowing down. +Suddenly, a strong gust blows it into the ocean.
+R93(2)<Speaker>R93</Speaker>(0)||:...That...doesn't bode too well. +Though it may be the Goddess' intention. +Now that I've been chosen by the Commander, I must repay the favor by returning with outstanding results.
+()||:With a splash of glittering water, R93 dives into the sea without even shutting her case.
+R93(2)<Speaker>R93</Speaker>(0)||<黑屏1>:R93 – commencing operation.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:
+()||<黑屏1>:After searching along the coasts for two hours...
+R93(2)<Speaker>R93</Speaker>(0)||<BIN>162</BIN><黑屏2>:...Nothing. +Do mermaids actually exist? +There have been sighting reports for centuries, but no one has left behind any conclusive photographic evidence.
+()||:All of a sudden, a glowing object drifts past R93. +She snatches it out of the water with great agility.
+R93(2)<Speaker>R93</Speaker>(0)||:This is... +A round object with the Griffin insignia. It's reflecting the brilliant sunlight... +...This must be one of those tokens that the Commander is always obsessed about. I'd better hand it over.
+()||:Suddenly, another glimmering object drifts past R93. She catches it as well.
+R93(2)<Speaker>R93</Speaker>(0)||:A purple triangular disk? Could be a Doll's memory fragment. Guess I'll give this to the Commander too.
+()||:R93 has just put the fragment into her case when she plucks out another silvery item from the water.
+R93(2)<Speaker>R93</Speaker>(0)||:...!! +Oh my gosh, it's a brand new, unused Oath ring! +...More and more shiny objects come drifting towards me. Looks like my treasure hunt is just starting.
+()||:After a while, R93 prepares to return to shore with a case full of loot.
+R93(2)<Speaker>R93</Speaker>(0)||:Can't believe I found so many valuables. My good fortune today might beat the Goddess of Luck herself. +But...I still haven't gathered any intelligence on the mermaid. Is it really okay if I just go back empty-handed?
+()||:R93 tilts her head in deliberation...
+R93(2)<Speaker>R93</Speaker>(0)||<黑点1><BGM>BGM_Empty</BGM>:I can't go back just yet. I haven't completed my mission... +I can't betray the Commander's trust in me. I'd better keep— +Huh, what's that buoy...? Whoaaa!
+()||<震屏><BIN>162</BIN><黑点2>:The rescue team from not far away hears R93's scream.
+Type88(4)<Speaker>QJY-88</Speaker>||:Did you hear that, Serdyukov?
+SPS(2)<Speaker>Serdyukov</Speaker>||:Hear what?
+Type88(4)<Speaker>QJY-88</Speaker>||<黑屏1>:I think someone's shouting for help over there...
+SPS(2)<Speaker>Serdyukov</Speaker>(0)||<黑屏2><黑屏1>:A scream coming from 10 o'clock. It sounds like...R93. +QJY-88, R93 might be in trouble, we'd better hurry— +Wait, QJY-88, don't just rush out by yourself!
+<Speaker>QJY-88</Speaker>()||<BIN>9</BIN><黑屏2>:(Forgive me, Serdyukov. I want to change...because...) +(I...I'm always making trouble for everyone...but no one ever blames me...)
+<Speaker>QJY-88</Speaker>()||<黑屏1>:(So this time, let me do something...)
+Type88(4)<Speaker>QJY-88</Speaker>||<BIN>162</BIN><黑屏2><BGM>BGM_War</BGM>:I'm going to save her with my anti-drowning device!
+()||:QJY-88's half-rim glasses flash under the bright sun. +She seems to have found her sense of direction.
+SPS(2)<Speaker>Serdyukov</Speaker>(0)||<黑点1>:Oooh, QJY-88 is on fire! Looks like my work here is done. +...ADS, I made a nice friend today.
+()||<黑点2>:Two hours later.
+SPS(2)<Speaker>Serdyukov</Speaker>(0)||:QJY-88! QJY-88!
+SPS(2);Type88(4)<Speaker>QJY-88</Speaker>||:Cough...cough... +...Ser...dyukov.
+SPS(2)<Speaker>Serdyukov</Speaker>(0);Type88(4)||:Don't push yourself to talk.
+SPS(2);Type88(4)<Speaker>QJY-88</Speaker>||:But...R93...
+SPS(2)<Speaker>Serdyukov</Speaker>(0);Type88(4)||<黑屏1>:Calm down. I've already notified the Commander. +Let's make our full report later.
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:...When they finally find the Commander, the rescue team members both lower their heads in shame.
+SPS(2)<Speaker>Serdyukov</Speaker>(0)||:...That's all for our report.
+SPS(2);Type88(4)<Speaker>QJY-88</Speaker>||:I'm sorry...Commander... It was all my...
+SPS(2)<Speaker>Serdyukov</Speaker>(0);Type88(4)||:No, I didn't do my duty to protect everyone.
+<Speaker>Commander</Speaker>()||:... +It wasn't either of your fault... I'll try to think of something.
+SPS(2)<Speaker>Serdyukov</Speaker>(0)||:Dammit! +I didn't expect interference to our comms.
+SPS(2)<Speaker>Commander</Speaker>(0)||:(We haven't been able to contact R93 ever since she went into the water. Could it be...) +There might be a possibility of a Sangvis invasion...
+()||:At the sound of the word "Sangvis", QJY-88 and Serdyukov look up with widened eyes at the same time.
+<Speaker>Commander</Speaker>()||:It's just a possibility... But don't worry, I'll provide all the support I can. +You're dismissed for now. Let me handle this.
+()||:... +The two Dolls turn to leave. Their footsteps gradually fade into the distance, where the sun is about to sink beneath the horizon. +Just as the Commander is also about to take off, Lewis suddenly runs over and carefully reveals an object from behind her back.
+Lewis(2)<Speaker>Lewis</Speaker>||:Commander! I don't have any news regarding R93, but I've made a huge discovery! +Please look...!
+()||:The Commander takes a good look at this "huge discovery".
+Lewis(2)<Speaker>Commander</Speaker>(0)||:This is...
+Lewis(2)<Speaker>Lewis</Speaker>||:I fished this up from the sea. Doesn't it look like a mermaid top? +R93 must've been captured by a mermaid!
+Lewis(2)<Speaker>Commander</Speaker>(0)||<黑屏1><BGM>BGM_Empty</BGM>:... +I see.
+()||<BIN>163</BIN><黑屏2>:The Commander then walks along the beach for a while.
+<Speaker>Commander</Speaker>()||<BGM>m_avg_casual</BGM>:According to Lewis' report, it should be around here.
+()||:The Commander finally stops and shouts toward the ocean.
+<Speaker>Commander</Speaker>()||:R93! R93⁠—
+()||:As expected, there is no answer. +But the Commander sees a figure appear behind a large reef.
+<Speaker>Commander</Speaker>()||:Looks like I was right.
+()||:Then the Commander places the bag given by Lewis on the coast near the reef.
+<Speaker>Commander</Speaker>()||:R93, I've put your top here!
+()||:The Commander shouts toward the sea again. +Then a tiny, tiny voice comes through the comms.
+R93(3)<Speaker>R93</Speaker>(0)<通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Cough.</color>
+<Speaker>Commander</Speaker>()||:I knew you didn't go missing.
+R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>Sorry, Commander... I turned off my comms without permission.</color>
+<Speaker>Commander</Speaker>()||:It's alright. I can guess why you did that. +You weren't actually in any trouble... You only screamed because your bikini top got snatched away.
+R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>I knew you'd understand, Commander.</color> +<color=#00CCFF>...Ugh... I I-I can't believe I made such a stupid mistake during the operation. How could I let my top slip off because of a fishing hook?</color>
+<Speaker>Commander</Speaker>()||:It's okay now. +You must've been terrified.
+R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>...</color>
+()||:After a short while... +R93, now with her "mermaid top" back on, walks out from behind the reef. +But her head hangs dejectedly and she won't look up from her feet, sinking in the sand.
+R93(2)<Speaker>R93</Speaker>(0)||:I'm sorry, Commander... I didn't complete the mission. +I even lost all the bounties that I found... Ahaha, looks like I've got really bad luck today.
+<Speaker>Commander</Speaker>()||:(R93...)
+()||:The Commander gazes into the distance while thinking of a way to cheer her up.
+R93(2)<Speaker>Commander</Speaker>||<震屏><BGM>BGM_Moon</BGM>:(Ah, got it.) +R93, how about a bet?
+R93(2)<Speaker>R93</Speaker>(0)||:Huh? +...On what?
+R93(2)<Speaker>Commander</Speaker>||:Let's bet if a mermaid will actually appear here.
+R93(2)<Speaker>R93</Speaker>(0)||:...You still haven't given up, Commander? +Mermaids aren't real... +And even if they are...a clumsy Doll like me won't be of any help...
+R93(2)<Speaker>Commander</Speaker>||:What are you talking about? I know how you truly feel. +You only kept on searching for so long because you haven't given up. +I saw the records. You hadn't reported back for a long time – you must've been looking for clues.
+R93(2)<Speaker>R93</Speaker>(0)||:... +You saw right through me. Indeed, I only stayed for so long because I wanted to gather intelligence on the mermaid... +Still...as you can see, I'm not at all outstanding. +My luck might've occasionally made me useful on the battlefield, but I ended up slowing you down on this mission.
+R93(2)<Speaker>Commander</Speaker>||:No, R93. +Luck isn't something so objective. +To me, I count myself lucky being able to go on a vacation with a lucky star like you.
+R93(2)<Speaker>R93</Speaker>(0)||:C-Commander...what are you talking about... +How can someone like me be a lucky star...? +A-and what's the deal with this v-vacation?
+R93(2)<Speaker>Commander</Speaker>||:I'll tell you what this is all about. +All of you have been fighting tough battle after tough battle for a long time. +So I've been trying to find a chance for you to relax. +Then I just so happened to have received a commission to investigate a mermaid sighting in the area, so I brought you girls here.
+R93(2)<Speaker>R93</Speaker>(0)||:Oh, and there "just so happened" to have been a mermaid sighting...?
+R93(2)<Speaker>Commander</Speaker>||:That hardly matters anymore. +I just want to make a bet with you, R93. +Because I'll bring you all here some other time and keep looking for the mermaid.
+R93(2)<Speaker>R93</Speaker>(0)||:...Are you serious, Commander?
+R93(2)<Speaker>Commander</Speaker>||:Of course.
+()||:The girl inhales deeply.
+R93(2)<Speaker>R93</Speaker>(0)||:Fine, I can't possibly pass up a wager so heavily tilted in my favor. 
+()||:A light sea breeze blows as the Commander and R93 exchange a smile. They then start walking back shoulder-to-shoulder.
+<Speaker>Commander</Speaker>()||<黑屏1>:(I don't know...where our fate will take us.) +(But I won't let some random goddess play dice with our destiny...) +(I'm going to take the dice in my own hands with this lucky star next to me...and roll boxcars.)

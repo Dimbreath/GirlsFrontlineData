@@ -1,0 +1,15 @@
+()||<BGM>BGM_Sunshine</BGM><BIN>8</BIN>:...Assessment passed.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Astonishing...+I knew you would complete the mission, but your efficiency still surprised me...
+()||<BIN>8</BIN>:...The door opens.+Miss Kalin enters.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Oh! Miss Helian, you're back.
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kalin(1)||:Indeed. If I had entrusted the test with you, it would have been delayed.
+NPC-Helian(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Says who? I did turn in Commander's results on time last time, you know!
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kalin(3)||:What about this time? Don't tell me you overslept again.
+NPC-Helian(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:This time... Heheh...
+NPC-Helian(3)<Speaker>Helian</Speaker>;NPC-Kalin(0)||:...? What are you snickering about?
+NPC-Helian(3);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I just found out from another colleague...
+NPC-Helian(3);NPC-Kalin(1)<Speaker>Kalina</Speaker>||:The reason why...Miss Helian...was absent for the last test.
+NPC-Helian(2)<Speaker>Helian</Speaker>;NPC-Kalin(1)||:...Ack!!
+NPC-Helian(2);NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Another failed mixer, huh... Sorry to hear that.
+NPC-Helian(2)<Speaker>Helian</Speaker>;NPC-Kalin(1)||:I-I don't know what you're talking about!
+NPC-Helian(3)<Speaker>Helian</Speaker>;NPC-Kalin(1)||<黑屏1>:That's all for today, Commander!+D-Dismissed!

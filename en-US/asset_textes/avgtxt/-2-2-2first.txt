@@ -1,0 +1,16 @@
+()||<BIN>7</BIN><BGM>BGM_Sneak</BGM>:...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Haha! Look, another communication outpost!
+RO635(2)<Speaker>RO635</Speaker>||:Fantastic. The door isn't locked either. +M16, could you please check the comms system inside?
+M16(0)<Speaker>M16A1</Speaker>||:Fully functional and shows no sign of having been hacked. We're really in luck.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Woohoo! Then let's go in! +We have to set up a new communication network and warm ourselves up while we're at it. I'm literally turning into a popsicle!
+()||<黑屏2><BIN>8</BIN>:Three minutes later.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:M4... +Wait, no. M16, is that you?
+M16(3)<Speaker>M16A1</Speaker>;NPC-Helian(0)||:Yes, Miss Helian. We are all okay. +We found several survivors and are now contacting you at a communication outpost to the west of where we crashed.
+M16(3);NPC-Helian(0)<Speaker>Helian</Speaker>||:That's good news... +HQ has been doing everything they can to mount a rescue mission once they learned of your survival. +However, this is going to take some time due to the distance and poor weather conditions.
+M16(3)<Speaker>M16A1</Speaker>;NPC-Helian(0)||:We are relatively safe for now, but S.F. has probably already detected our presence. +We've been gathering our forces by searching for other survivors, but the weather is simply too terrible. +Low temperatures and strong winds are severely impeding our movements and replenishments.
+M16(3);NPC-Helian(0)<Speaker>Helian</Speaker>||:I'm dispatching... +...aircraft to the heli...in the southeast...
+M16(3)<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM>:Pardon? Miss Helian?
+赫丽安()<Speaker>Helian</Speaker>||:...to provide supplies... +But...careful...
+()||:... +Connection broken.
+M16(3)<Speaker>M16A1</Speaker>||<震屏>:(Slams the table) Dammit!
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:The blizzard must be interfering with the signal... +If there's a heliport in the southeast, then they must be able to keep sending in supplies. +In any case, let's move out.

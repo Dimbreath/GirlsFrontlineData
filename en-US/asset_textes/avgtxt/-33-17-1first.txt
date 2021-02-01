@@ -1,0 +1,103 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM><BIN>159</BIN><黑屏2>:... +Inside Tallinn, on the opposite side of the city. +Squad 404 is currently searching through the ruins.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I've found the source of the interference.
+UMP45Mod(0)<Speaker></Speaker>||:UMP45 waves to the others, telling them to gather round.
+HK416Mod(0)<Speaker>416</Speaker><Shake>;UMP45Mod(0)||<白屏1>:Are you kidding me? +Isn't this...
+HK416()<Speaker>416</Speaker>||<BIN>198</BIN><白屏2>:A human corpse?!
+()<Speaker>UMP45</Speaker>||:But she IS the source of the disruption — well, one of them. +Hm...her lower body is mechanical. Her life signs are all gone. +Looks like it hasn't been long since she died, but what are these petals?
+()<Speaker>416</Speaker>||:Are you planning to conduct an autopsy here?
+()<Speaker>UMP45</Speaker>||:Well, we've already done just about everything else, and besides, we'll be billing for it.+Did she die from radiation? 9, help me raise her arm. +...
+()<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...9?
+()<Speaker></Speaker>||<黑屏2><BIN>199</BIN><SE1>AVG_whitenoise</SE1><BGM>m_avg_labyrinth</BGM>:The weather has changed at some point. +A thin fog coils around UMP45, and there is nobody else here except for the corpse of the dead girl in her arms. +There is a quiet rustle of fabric, and it seems as though many people around her are mumbling something. The voice sounds familiar to UMP45, but she can't quite place it. +Then, the girl's cold and soft hand tightens its grip around hers. 
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1>:The first walked into the night with the inferior articles for Father. The black of night dyed the hems of her dress, and the flower blossoms withered within the cage of the fallen. +The second was incomplete, and fell before she went out. The colors of evening froze her time, and the flower blossoms ceased to grow amidst eternal suffering. +The third held her sisters' hands, and together they charged into the day. The sunlight shattered upon her black sleeves, and the flowers fell into the steely water without blooming. +The fourth lost her friend, and lost her way within the fog. Her time has not yet come, and she merely lives by imitating her kin. +...Does the fifth stand before me?
+UMP45()<Speaker>UMP45</Speaker>||:M4? Nyto?
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1>:Are you one of us? +Are you the chosen one? +Or perhaps, are you willing to accept us?
+UMP45()<Speaker>UMP45</Speaker>||:Is this some kind of code? +No, this is a forced connection... Something's reading my neural cloud... It feels like it's going to explode...
+悠远的声音()<Speaker>Distant Voice</Speaker>||<黑屏1><SE1>AVG_Bell</SE1>:Ah, she can hear us. +Ah, she knows where our friend is. +Although the Chosen One has not yet appeared, the one willing to accept us has finally come. +Wonderful. +Wonderful.
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1><BIN>9</BIN><黑屏2>:Wonderful.
+NytoIsomer(0)<Speaker>Distant Voice</Speaker>||<黑屏1><SE1>AVG_Bell</SE1>:Wonderful.
+急迫的声音()<Speaker>Panicked Voice</Speaker>||<黑屏2><黑屏1>:...Big Sis! 45, wake up!
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:The scenery around her suddenly lights up. +UMP45 looks around. All the members of Squad 404 are by her side. +The girl's corpse lies quietly in her arms. Her face is serene, as though she was sleeping.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<SE1>Heartbeat</SE1>:Are you awake? +Can you see me, 45? Answer me—
+UMP9Mod(4);UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Truth</BGM>:Alright, stop smacking my face, I'm fine.
+UMP9Mod(5)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Honestly, you scared me to death. +You should save all this pretend stuff for Halloween.
+UMP9Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Did you see it too?
+UMP9Mod(0)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Huh? See what?
+UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:No...it's nothing, just some weird scenes.
+UMP9Mod(5)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:45, remember to get your neural cloud checked. +There's no telling what was inside that data packet just now.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Of course. +(Something connected with me just now... It felt like how it was back with 40.) +(It was a direct hack into my Level III base layer. Was it the same kind of technology? Have we finally found a clue?)+...Oh no! 
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:What?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Their forced connection just now was their way of searching for something, and they found what they wanted in my neural cloud!
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:What exactly are you talking about?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Tsk. 9, contact the Commander immediately. 416, put me through to the AR Team. If I'm not wrong, the main event is about to begin.
+()<Speaker></Speaker>||<BIN>89</BIN><黑屏2>:... +Shortly after, on the other side of Tallinn.
+SSG3000(0)<Speaker>SSG 3000</Speaker>||<BGM>BGM_Room</BGM>:Huh? The sun's out again? The fog's gone too.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;SSG3000(0)||:The sky never went dark in the first place.
+M4A1Mod(0);SSG3000(0)<Speaker>SSG 3000</Speaker>||:...Really? +Leader, are you alright?
+M4A1Mod(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:I suddenly feel much better... It was awful just now, like someone commandeered my neural cloud. +Looks like comms are back up as well.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;DesertEagle(0)||:Yes... I don't know what happened, but this place isn't safe. +Your mission is complete. I've already synched the defense system's IFF information to everyone. +Our train will be pulling into the station shortly. You should head back there and wait for the Commander.
+M4A1Mod(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Understood! But what about your team?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;DesertEagle(0)||:We checked the room just now; the devices in there are definitely the control mechanism for the quarantine wall. But the encryption for control authoritzation is very strong, so we won't be able to activate the quarantine wall for another one and a half hours. +Still, no need to worry. There'll be a way; just leave it to us.
+M4A1Mod(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:I see. +You guys feel really trustworthy. They always said you were all weird Dolls... It's only after meeting you that I realized you're all actually very nice people.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;DesertEagle(0)||:Thank you, but you don't have to mention it... We're just doing our duty.
+DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:No, it had to be said. We'll be withdrawing for now. +Thank you for saving a member of our team!
+()<Speaker></Speaker>||:The Dolls from the recon echelon salute M4 and leave the control center.
+M4A1Mod(0)<Speaker>M4A1</Speaker><Speaker>M4A1</Speaker>||:Thanks...huh...
+M4A1Mod(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:...Click.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(Unable to determine source? ...Ah, it must be them.) +This is M4A1.
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Morning, M4A1.</color> +<color=#00CCFF>Have you and your teammates woken up?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:The interference is gone, so please get to the point.
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Ja, a few things happened just now, so I'll cut the long story short.</color> +<color=#00CCFF>The interference was caused by high-density data connections, and the target which the source of the interference has been trying so hard to connect to...is you, M4.</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>;UMP45Mod(0)||<BGM>BGM_Pervaded</BGM>:...
+M4A1Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>It seems you've realized that already, so please take a look at this.</color>
+M4A1Mod(0);UMP45Mod(0)<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>【System Message】Transmitting Data...</color> +<color=#00CCFF>【System Message】Transmission Complete.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:What's this?
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Do you know her?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:Is she asleep?
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Unfortunately, she is dead.</color> +<color=#00CCFF>She's one of the sources of the interference that I managed to track down.</color> +<color=#00CCFF>Don't you think...she looks a lot like you?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:What are you trying to say?
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>What I'm trying to say is that these interference sources are coming for you. I can feel their wills flowing through this city...</color> +<color=#00CCFF>While I don't know what they're trying to do, it's plain to see that their next move won't be anything as simple as mere interference.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:Tsk... Why is it always me...
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:<color=#00CCFF>This corpse was once human, and not a Doll. I don't know how she's generating those connections, but her ID signal is very similar to those Nytos we met before.</color> +<color=#00CCFF>And if there are several hundred Nytos in this city... I don't think I need to elaborate on what you'll encounter next.</color> +<color=#00CCFF>I advise you to obtain control access to the quarantine wall as soon as possible. The quicker we leave this place, the better.</color>
+悠远的声音()<Speaker>Distant Voice</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1><BIN>9</BIN><黑屏2>:Are you the first light, or the final shadow?
+悠远的声音()<Speaker>Distant Voice</Speaker>||<BGM>m_avg_labyrinth</BGM><SE1>AVG_Bell</SE1>:I have stayed here for far too long. Has it been a hundred days? A thousand? Ten thousand? +Even if I dart between different bodies, they are ultimately crude imitations. If the owner of this body were still here, she would be able to speak more eloquently. +I do not wish to be a puppet, or someone else's shadow again. +Are you willing to help us? Are you willing to accept us? +I have almost forgotten who I am. Please take me in, before everyone vanishes, then we shall go home together.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:(OGAS! I told you, I don't want to hear this!)
+M4A1Mod(4)<Speaker>Clear Voice</Speaker>||:(I...cannot stop these connections. It seems they have found you.)
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:(Dammit... Shut down all the protocols, close all the ports! I don't want to hear them!)
+M4A1Mod(4)<Speaker>Clear Voice</Speaker>||<白屏1>:(These voices...are not coming through the communications protocol, but from the depths of your neural cloud...)
+()<Speaker></Speaker>||<白屏2><SE1>AVG_bigglassbreak</SE1><闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>195,206,201</CG></闪屏>:
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:(Are these...Lunasia's memories? Why do they have these memories...)
+M4A1Mod(3)<Speaker>Clear Voice</Speaker>||:You once sought to find your past, but it would seem your past has now found you.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+M4A1Mod(0)<Speaker>Clear Voice</Speaker>||<黑屏1>:Lunasia. It is time to make a decision. You cannot flee from yourself again and again after deciding to find yourself.
+UMP45()<Speaker>UMP45</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#00CCFF>M4, M4!</color>
+M4A1()<Speaker>M4A1</Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:!!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Can you hear me?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:No... (Groans) I mean, yes, I can hear you... +We'll talk about this later. The Commander's train is pulling into Tallinn. +We'll meet up at Tallinn City Station. I'll gather all our Dolls and we'll figure out how to force our way through the quarantine wall.
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Have you obtained access to the quarantine wall activation systems?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||<SE1>AVG_tele_disconnect</SE1><黑屏1>:Not yet, I'll think of something.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏2>:What's the matter, you look terrible. I knew it... You're afraid of something.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:Even if I don't go looking for them...they'll come looking for me...
+M4A1Mod(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Wake</BGM>:Do those interference sources have something to do with that "you" inside you?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(2)||:What should I do if I follow the trail to the end and the answer turns out to be a mistake? +What if our efforts end up in vain and there's no way to change the present situation? What should I do then?
+M4A1Mod(3);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:M4... +You...you really are afraid. You're thinking that if you go in search of the truth, you might end up parting ways with everyone. But even if the truth doesn't turn out the way you want, nothing will ever be the same again.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:...
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:To be honest, I've hated that indecisive part of you for a long time now.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(4)||:I'm sorry to disappoint you...
+M4A1Mod(3);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:But I'm coming to understand why you're so indecisive. That's because the things you have to face, that you have to bear, are far greater than what we have to handle. +Every decision you make will influence someone you care about, so every decision you make is agonizingly difficult.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:I...
+M4A1Mod(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:But ultimately, you HAVE to make a decision. Though your choice might lead you to an ending you do not want, who's to say that hesitation isn't another form of failure? +Even if the conclusion you fear becomes reality... I won't reject you, and neither will the AR Team.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Remember, M4A1. We are not your burden. We are your backing. We aren't afraid of the danger you bring. We're more worried that we won't have your trust.
+M4A1Mod(2)<Speaker>M4A1</Speaker>;AR15Mod(0)||:15...
+M4A1Mod(2);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<Size=30>Also, even if you don't want to come back, I'll DRAG you back, kicking and screaming if need be.</Size>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:...What are you talking about?
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:It's nothing. +The Commander should be arriving at the station soon, so let's get started, whether it's gaining access to the quarantine wall controls or finding the "truth" you've been looking for.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><黑屏1>:I...understand. I need to pull myself together, then I need to fix this mess.
+()<Speaker></Speaker>||<BIN>196</BIN><黑屏2>:... +From a high tower, a girl stares at the railway tracks on the ground.
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1>:We have found her. +Even if we did not find the Chosen One, we have found the one who can accept us. +Will everything be over? +Yes...it will end.
+少女们的声音()<Speaker>Girls' Voices</Speaker>||<BGM>m_avg_labyrinth</BGM>:Can we be forgiven? +Forgiven for our defects, for our failures, for everything.
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1>:I am sure we can. Father told us that we can come home, either by finding the Chosen One, or by finding someone who's willing to accept us. +Even if many of us have died, many more of our future selves will survive.
+少女们的声音()<Speaker>Girls' Voices</Speaker>||:We are afraid... +We are afraid that she will not accept us. +She's been rejecting us all this time, rejecting our "Connexion". +Perhaps even someone like her will choose to abandon us.
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1>:Our wills are like a tightly woven net. We will be connected forever, until this world is destroyed once more. +She will surely awaken. If she does not accept us of her own will, then we will go and welcome her. Even if it takes all the strength in our bodies.
+()<Speaker></Speaker>||:Saying so, the girl lowers her head. The other girls, who bear faces that resemble hers, remain standing in silence.
+悠远的声音()<Speaker>Distant Voice</Speaker>||<SE1>AVG_Bell</SE1><黑屏1>:Even if we lose our bodies, we can return to the others. As long as one of us survives, everyone will live on... +Surely...surely we will live on...

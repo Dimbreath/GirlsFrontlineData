@@ -1,0 +1,39 @@
+()||<BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><火花>:Bullets fly through the air. +Muzzle flashes and tracer rounds are the only thing lighting up the night.
+()||<BIN>1</BIN><Night><关闭火花>:The one thing that's certain is that there are far more S.F. than anticipated.
+AK47(0)<Speaker>AK-47</Speaker>||<BIN>1</BIN><Night>:Yo, boss, this is really something, isn't it? Looks like we hit the jackpot!
+OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night>:Even maggots can be annoying when there are a whole bunch of them. +We'll retreat for now and pay them back in spades next time. +Did you hear that, SV-98, SVD? It's a bit earlier than expected, but we'll be falling back to the LZ now. +We'll use Plan B for our withdrawal route, so please cover our rears. And don't miss your chance to fall back too.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Roger! Leave it to us!
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:Hehe, I couldn't ask for anything more. +A dire situation is where the elite can truly show their strength.
+SV98(0)<Speaker>SV-98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:The withdrawal route for Plan B is... +Mm, we'll be able to use Location 6 to cover the entire area. Let's go!
+()||<BIN>1</BIN><Night>:SV-98 moves with SVD and they set up at the sniping spot, pointing their muzzles at the distant withdrawal route.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Range is 700 meters. Wind is 40m from the west. Humidity 60%. Targeting armored S.F. units, their numbers... good.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Select</SE1>:Hit target. This distance isn't a problem at all.
+SV98(0)<Speaker></Speaker>||<BIN>1</BIN><Night>:The sound of SV-98's shooting is almost completely muffled by the huge suppressor on her weapon.。+The number of S.F. pursuers decreases with every pull of her trigger.
+SV98(0);OTs14(0)<Speaker>OTs-14</Speaker><通讯框>||<BIN>1</BIN><Night>:That's the way, keep firing!
+SV98(0);OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night>:AK-47, this is our chance. We'll pull back now.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:(Do you see now, SVD?) +(I can take out a S.F. unit with every shot because of elaborate planning!) +(And with that, the units pursuing Leader and the others have all been eliminated...)
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:OTs, your three!
+OTs14(0)<Speaker>OTs-14</Speaker><通讯框>;SVD(0)||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Ah, what a pain! +AK-47, look out! Ambush!
+OTs14(0);AK47(0)<Speaker>AK-47</Speaker><通讯框>||<BIN>1</BIN><Night>:Oh, this is bad, this is really bad!
+OTs14(0)<Speaker>OTs-14</Speaker>;AK47(0)||<BIN>1</BIN><Night>:We're being completely suppressed... Get to cover, AK-47! +Can we get some sniper support, SV-98?
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Huh, but how...
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:I didn't calculate for that region... +I can't target them directly! The hills are in the way! +It'll take time for me to find and move to a new location.
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Empty</BGM>:Tsk. Guess you can't do without me.
+SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:I'll be back, SV-98. Stay here and keep an eye on the other directions while I'm gone!
+SV98(0)<Speaker>SV-98</Speaker>;SVD(0)||<BIN>1</BIN><Night>:Huh? Wait...
+()||<BIN>1</BIN><Night>:SVD slides down the slope from the sniping point and sprints to the other side of the hill.
+()||<BIN>1</BIN><Night><SE1>Gunfight</SE1>:The fighting is intense, but it all takes place on the other side of the hill where SV-98 can't see.
+()||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Before long, the sound of gunfire gradually dies down.
+AK47(0)<Speaker>AK-47</Speaker>;SVD(0)||<BIN>1</BIN><Night>:We're saved~ That was close.
+SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:See that? That's the strength of the elite.
+OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night><BGM>BGM_Truth</BGM>:I don't want to admit it, but you did help us out a lot. +Still, now's not the time to celebrate. There's more where they came from. +Everyone, carry on to the evac point. You keep up too, SV-98!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:R-right!
+SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:(I can't believe I made a mistake like that... I didn't expect S.F. troops to show up there...)  +(If not for SVD's rescue... If only I'd planned more...)
+()||<BIN>1</BIN><Night>:SV-98 questions herself over and over again until she gets onto the evac chopper, but she just can't find a clear answer.

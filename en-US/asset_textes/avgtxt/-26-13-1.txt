@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>157</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...Shrieks and clamor come through Yegor's communicator.
+人类女性的声音()<Speaker>Human female voice</Speaker>||:<color=#00CCFF>I'm one of your own! Don't kill me!</color> +<color=#00CCFF>Cough...please! I was forced into this! I didn't do anything! Oh god!</color>
+NPC-Yegor(3)<Speaker>Military soldier</Speaker><通讯框>||:<color=#00CCFF>Sir, we've captured the target that appeared to be Ange. We've confirmed that she is one of our medical personnel, given a simple makeover to resemble Ange.</color>
+人类女性的声音()<Speaker>Human female voice</Speaker>||:<color=#00CCFF>That T-Doll knocked me out and left me here...cough... I need...cough, cough! I beg you...</color>
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:...
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker><通讯框>||:<color=#00CCFF>She is infected and in need of treatment... Sir?</color>
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Bring her back and treat her on the way.
+NPC-YegorDamage(0)<Speaker></Speaker>||:...Yegor leans against one of the tanks and massages his brows with his fingers.
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Ange is in the building... +She was just buying time to treat herself! FUCK!
+()||:...Yegor punches the tank in fury, then gets up and walks toward the command room.
+NPC-Yegor(3)<Speaker>Military soldier</Speaker><通讯框>||:<color=#00CCFF>Sir! The Griffin party is making a run for the building!</color>
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:They're going back to defend it! This is their last attempt to protect Ange! +Where are the scouts? Can they enter the building before Griffin gets there?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military soldier</Speaker>||:<color=#00CCFF>They can, but the building is within the range of Griffin's HOCs. They may come under attack if they get too close!</color>
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Then have them stand by on the spot. All combat personnel, head toward the target building and surround it!
+NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑屏1>0,0.7</黑屏1>:Ange! All those tricks are for nothing! Even if your Dolls make it back to the building, they'll just be heading to their deaths! +This time, there'll be no escape for you!
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>:...Ten minutes later, the rescue party returns to the building. 416 gives Ange a dose of adrenaline.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||<BGM>BGM_Brain</BGM>:Phew... Thanks. I'm feeling a lot better.
+HK416(0)<Speaker>416</Speaker>||:I should've recorded your scream when I stabbed you with the needle.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Don't play it at my funeral, thanks. +Now I can finally do some simple thinking.
+AK12(0)<Speaker>AK-12</Speaker>||:Commander, Griffin's party has returned to the building. We'll start mounting our final defenses. +The artillery shells have been modified into IEDs. AN-94 and I are installing them as fast as we can. We'll also sort out the detonator!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;AK12(0)||:Are we really doing this? I'm seriously not sure if...
+NPC-AngeDamage(0);AN94(0)<Speaker>AN-94</Speaker>||:Worst case, we all die here, but we are all prepared for that.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:SOP-II and 416 aren't... +They have another mission - the commander... The commander is still in danger. You can't die here.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Sorry, Commander's orders. I can't very well disobey them, can I?
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:Commander, I don't understand. Why are you so hellbent on saving me?
+()||:... <c>I'm used to being in danger. This is just another mission. <c>Finish the job right before us first. Then we can think about what comes next. <c>You've given me so much help. It's time I did something for you.
+指挥官()<Speaker>Commander</Speaker>||<分支>1</分支>:I'm used to being in danger. This is just another mission.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>1</分支>:In other words, you haven't realized just how important you are, have you?
+AK12(0)<Speaker>AK-12</Speaker>||<分支>1</分支>:That's exactly why the Commander is so important, don't you think? We can't win if we never take any risks.
+NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>2</分支>:Griffin needs commanders with an eye for tactics, not an idiot like me.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Sorry, I don't think any of us qualifies. I guess that's why we're all on the same boat?
+NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<分支>3</分支>:This is the battlefield! It's no place to talk about personal debts! Commander, we don't owe each other anything!
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:Now you owe the commander one, Ange. Better start drafting your thank-you letter.
+AN94(0)<Speaker>AN-94</Speaker>||:Since it is all decided, Ange, start thinking about what we are going to do.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:...Alright. +Our priority is to slow the enemies down until the IEDs are all in place. +The Military will storm the building at all costs. We must buy ourselves more time!
+RO635(6)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:SOP-II, 416, the military is surrounding us in four directions!
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_Reverse</BGM>:Jeez...they're calling in their entire main force.
+HK416(0)<Speaker>416</Speaker>||:They've already caught on. They know Ange is in the building!
+RO635(6)<Speaker>RO635</Speaker>||:Now that I think about it, this is the first time...we're engaging the military's main force directly. +I wish...I could fight in my T-Doll body.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Just take a good nap, RO. +When you wake up, we'll be leaving this place with Ange!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:Well, there's nothing much for me to do. I'll leave it to you then.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Actually...will you stay awake, RO?
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:Huh? Why?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:It's only the AR Team when the two of us are together.
+RO635(6)<Speaker>RO635</Speaker>||:...Suit yourself. +I'll record everything for you - the glorious battle in which the AR Team takes on the military's main force.
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:They're coming! HOCs, prepare for battle! +Commander, this is our last stand. We must fend off their attack and buy time for Task Force DEFY!
+()||<BIN>10</BIN><黑点2>:

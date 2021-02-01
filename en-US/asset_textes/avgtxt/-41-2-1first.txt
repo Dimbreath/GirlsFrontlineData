@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Room</BGM>:格里芬指挥室。
+()<Speaker>指挥官</Speaker>||:……
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:您在想什么呢？
+()<Speaker>指挥官</Speaker>||:……不，没什么。+我只是在想，哈维尔接下来还会准备让我们做什么。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:看来，您也认为他提出的要求和他给予的帮助并不是等价的。
+()<Speaker>指挥官</Speaker>||:我不确定，但经历了这么多以后。+我觉得凡事更多考虑总不会是坏事。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:我并不建议您对他过分信任。+或许在那一边的眼中，您只是个有着价值的工具。+不管之前他的话有多么慷慨激昂，实际上我们对全局的情况还是被蒙在鼓里。+好好利用这次的机会，用我们获得的情报多从他的嘴里换取对我们真正有用的东西吧。
+()<Speaker>指挥官</Speaker>||:我知道。+对了，你真的要和AR小队一起执行任务吗？
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:没有比直接连接帕拉蒂斯更简单的获取情报的方式了。+还是说您担心我离开基地后就会不辞而别？
+()<Speaker>指挥官</Speaker>||:你要真想走我也拦不住你。+不过这样的话可就没人帮你寻找M4了。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:那是自然。+您觉得还有什么不妥吗？
+()<Speaker>指挥官</Speaker>||:该怎么说呢，虽然你说不用担心那些人形。+但是以我的经验来看，每当出现有成员暂时离队的情况时。+AR小队的成员大都会陷入消沉的状态。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:你担心RO她们因为M4的事情一蹶不振？
+()<Speaker>指挥官</Speaker>||:只是存在这样的可能。+你我都知道M4对于AR小队的意义。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:相比普通的人形，我和她们更加相似。+我会代替她们原本的队长，好好照顾她们的。
+()<Speaker>指挥官</Speaker>||:麻烦你在她们面前千万不要这么说……
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:开玩笑的，我明白该怎么做。
+()<Speaker>指挥官</Speaker>||:还有件事要提前做个准备。+丹德莱，你把这件衣服穿上吧。
+NytoIsomer(3)<Speaker>丹德莱</Speaker>||:您的制服？
+()<Speaker>指挥官</Speaker>||:你现在的样子太显眼了。+人形你可以让她们看不见你，但这招对普通的人类可不管用。+换上制服的话，你大概看起来就像个普通的格里芬雇员。+暂时也没有多的给你，就先穿我的吧。
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:您考虑地真是周到呢。
+()<Speaker>指挥官</Speaker>||:我能听出来你话中有话。+在格林娜采购到新衣服前，先用这个凑合用下吧。
+()||:随着一阵敲门声，有人影出现在了门窗外。
+()<Speaker>RO635</Speaker>||:指挥官，我们能进来吗？
+()<Speaker>指挥官</Speaker>||:请进。
+()||:随着一声巨响，门被一脚踢开了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:指挥官！你快看你快看！RO变得超级帅气！+——咦！为什么丹德莱在这里啊！
+()<Speaker>指挥官</Speaker>||:因为她会和你们一起去执行任务。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:——咦！那为什么丹德莱披着指挥官的衣服啊！
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:是指挥官暂时借给我的，羡慕吗？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:欸……好好哦！+我也想穿嘛！为什么只有丹德莱啊！指挥官偏心！
+AR15Mod(0)<Speaker>AR15</Speaker>||:你能不能不要老是这么一惊一乍的，我们是来听任务简报又不是来玩的。
+RO635Mod(0)<Speaker>RO635</Speaker>||:好了好了，一定是指挥官考虑到丹德莱不能太显眼才让她穿的。+所以这次是这个办公室里的所有人形都会参加任务么？
+()<Speaker>指挥官</Speaker>||:是的，现在人手有限，所以我想集中还能单独行动的人形去完成任务。
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:那这个家伙也要参加吗？
+()||<BGM>BGM_Hello</BGM>:所有人看向了AR15指向的角落。+一个鲨鱼玩偶直挺挺地站在墙角，正在朝这里张望。
+()<Speaker>？？？</Speaker>||:呜哇！总算有人注意到我了！我差点都要以为我是不是已经变成幽灵了呢！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:竟然说话了！+我还以为这是指挥官的新装饰品呢！
+RO635Mod(0)<Speaker>RO635</Speaker>||:我也以为只是个摆设而已……大意了，竟然没有意识到铁血的存在。
+AR15Mod(0)<Speaker>AR15</Speaker>||:我觉得还是不要意识到比较好。+总觉得一旦搭话会非常地麻烦。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:但是鲨鱼玩偶还蛮可爱的啊！+让人有种想把它折成两半的冲动呢！
+()<Speaker>？？？</Speaker>||:知道了知道了！+不要把我折成两半！+我脱掉就是了！
+BOSS-9(0)<Speaker>建筑师</Speaker>||:真是的，一点幽默感也没有，我诅咒你们头发全都掉光光！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:嘎嗷！
+BOSS-9(0)<Speaker>建筑师</Speaker>||:呜哇！
+()||:看着变得热闹起来的房间，指挥官看向了丹德莱。
+()<Speaker>指挥官</Speaker>||:怎么样？感觉她们状态如何？
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:比我想象中要好一些，至少没有流露出什么异样。+但她们是人形，您明白我的意思。
+AR15Mod(0)<Speaker>AR15</Speaker>||:……在指挥官边上嘀嘀咕咕的方式真是让人不愉快。+指挥官，是有什么新的任务了吗？
+()<Speaker>指挥官</Speaker>||:嗯，没错。+虽然原本的计划是休养，但是事出突然。+有个任务希望能拜托你们完成。
+RO635Mod(0)<Speaker>RO635</Speaker>||:您客气了，这是我们的工作。+比起这个，我更在意的是……
+()||:RO看向了建筑师。
+RO635Mod(0)<Speaker>RO635</Speaker>||:为什么她会在这里？+是她私自闯进您的办公室吗？+如果必要的话，等会我们可以代替您教训她。
+BOSS-9(0)<Speaker>建筑师</Speaker>||:诶！？+我是被指挥官叫到这里来的啊！
+()<Speaker>指挥官</Speaker>||:太没存在感了一时给忘了……
+BOSS-9(0)<Speaker>建筑师</Speaker>||:怎么能这样……
+()<Speaker>指挥官</Speaker>||:这次任务中，不仅丹德莱会参加。+建筑师也会协助你们这次的任务。
+AR15Mod(0)<Speaker>AR15</Speaker>||:丹德莱也就算了。+……我可不接受是这家伙当我们的新队员。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:嘎嗷！
+BOSS-9(0)<Speaker>建筑师</Speaker>||:呜哇！又来！+不要靠近我啊！
+()<Speaker>指挥官</Speaker>||:关于这一点，先听我说明。+RO，我应该已经把计划书发给你了。+你阅览过了吗？
+RO635Mod(0)<Speaker>RO635</Speaker>||:是的。+我们需要到一个目的地点进行侦查，将所有可疑的物品都带回来。
+()<Speaker>指挥官</Speaker>||:这是哈维尔的要求。+他说只要你们到那里就会知道该带回什么。
+AR15Mod(0)<Speaker>AR15</Speaker>||:真是个含糊的任务呢。
+()<Speaker>指挥官</Speaker>||:除了他的要求外，那块区域正好有一个半废弃的铁血工厂。+完成哈维尔的任务后，移动到那里进行侦查。
+AR15Mod(0)<Speaker>AR15</Speaker>||:所以，这跟这家伙会出现在这里有什么关系？
+()<Speaker>指挥官</Speaker>||<BGM>BGM_Empty</BGM>:那里曾是建筑师本人的辖区。+同时，就情报而言。+似乎有人在那里目击到了铁血头目“计量官”的身影。+如果条件允许，就利用建筑师作为诱饵，将计量官捕捉回来。+我们正在着手对铁血的精英人形进行回收，有太多的情报需要从它们的心智中寻找出来。
+BOSS-9(0)<Speaker>建筑师</Speaker>||:就是这样，暂时要打扰一下咯，AR小队的各位。+真不好意思这次我是不可或缺的重要角色，到时让我们好好相处吧~
+AR15Mod(0)<Speaker>AR15</Speaker>||:……
+RO635Mod(0)<Speaker>RO635</Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:只是诱饵的话，把头拆下来带过去不就好了么？+铁血人形只留一个脑袋也可以继续运作的吧？
+BOSS-9(0)<Speaker>建筑师</Speaker>||:等下，你想做什么！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没事，不会疼的，一瞬间就结束了。
+BOSS-9(0)<Speaker>建筑师</Speaker>||:不要靠近我啊啊啊啊啊啊啊啊！+那边的指挥官，不要就这么看着啊！
+()<Speaker>指挥官</Speaker>||:诶……不要在办公室里吵闹了，赶紧去执行任务吧，早去早回。
+RO635Mod(0)<Speaker>RO635</Speaker>||:是，我们马上就出发。
+AR15Mod(0)<Speaker>AR15</Speaker>||:别在指挥官面前丢人现眼了，赶紧去格纳库吧。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:啊……真可惜，下次一起执行任务时我再把你的脑袋拆下来吧？
+BOSS-9(0)<Speaker>建筑师</Speaker>||<黑屏1>:不会再有下次了！

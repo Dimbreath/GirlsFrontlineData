@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>167</BIN><黑屏2>:
+()||<BGM>BGM_Boss</BGM>:...Under the city of Belgrade.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||<SE2>Gunfight</SE2>:Is that the best you can do, Sangvis Ferri? What an utter disgrace.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Oh, Pestilence! Oh, War! Oh, Famine! And I - am Death!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<SE2>Gunfight</SE2>:Here to deliver your bespoke demise!
+()||:Even under the pervasive and deafening barrage, the condescending smile and over-the-top inflection are transmitted to M16's transciever with perfect clarity.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:This isn't the first time I've been in this kind of situation, but I must say I'm surprised. +We're hopelessly outmatched. +Even though they've already opened the doors to the Node, we haven't even been able to take a single step inside...
+()||<SE2>Gunfight</SE2>:The Sangvis forces are quite literally being cut down by the White Faction, completely unable to fight back. +The dazzling lasers, continuously exploding grenades, and never-ending gunshots together weave a symphony following the Nytos' conducting gestures.
+()||<SE1>Explode</SE1>:It's as if an opera duet titled "Carnage" is being performed in these depths of this city.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:In the end, these so-called Sangvis are exactly like the Griffins - nothing more than stinking rats sneaking around the sewers. +What's the point in playing hard-to-get? Come on out and let me put an end to this meaningless battle.
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Without destruction, there will be no rebirth! +Oh, my angels, sound the trumpet! Unleash the devastation! +In the name of the Father, let the world burn in the lake of fire!
+()||<SE2>Gunfight</SE2>:Under the overwhelming firepower of the massive amount of white units, the Sangvis forces are slowly pushed back until they're huddling together as a compact group in the center of the White Faction's encirclement. +However, despite the extreme disadvantage her forces are in, M16's face remains totally impassive.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I didn't want to do this, but...
+()||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:Suddenly, M16 raises an eyebrow almost imperceptibly.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Gunfire? +A single...no, two shots fired simultaneously?
+()||<黑点1>:Some distinctive noises can be heard from amidst the commotion of intense crossfire.
+()||<黑点2>:On the other side of the passage...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Did I miss? Then I'll just get in another shot...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Wait, look!
+()||:The gunfire gradually dies down, and the white units come to a halt one after the other. They all freeze in place like puppets whose strings are cut. +With M4's and AR-15's weapons still trained on them, the two Nytos merely look stunned.
+NPC-Nimogen(0)<Speaker></Speaker>||<黑点1>:But unlike the white units, one of them is still capable of movement. She slowly looks down and stares at the her broken hairband lying on the ground in pieces. Then...
+()<Speaker>Nimogen</Speaker>||<BIN>173</BIN><黑点2><BGM>BGM_Brain</BGM>:AAAAAAAAAAAAARGHHHH!!!
+()<Speaker>Nimogen</Speaker>||:It-it hurts! Fa-Father! Help me!
+()<Speaker>Nimogen</Speaker>|||<黑点1>:Who was it?! Who did this?! Stop it! Don't come in! It hurts! It hurts! AHHH...AAAAHHHHHHH!!!
+()||<BIN>167</BIN><黑点2>:The piercing wails break the silence and these high-pitched shrieks slowly turn into hoarse moans. +The crazed Nyto stumbles her way through the inanimate legion of white units and makes a clumsy escape.
+()||:As she scrambles away, the white forces also drop their weapons and fall over each other trying to reach the exit.
+NPC-Mercurows(0)<Speaker></Speaker>||:As for the other Nyto, she's still frozen on the spot, completely motionless.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...It worked! The white forces have gone out of control! +You're pretty good when you put your heart in it, M4.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:The plan could only work with your help.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Still, how did you do that? +I mean, so we know that the blocking device is a weak spot, but even AN-94, who specializes in electronic warfare, wouldn't have been able to hack two Nytos so quickly.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:<color=#A9A9A9>What on earth happened? Why could I hack those Nyto...those people?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:I suppose I've learned a few new tricks since we last saw each other.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Glad to see you've become so dependable. I'd better put more effort in improving myself as well. +Now that we've dealt with the white stuff, it's time to settle things with Sangvis Ferri...and her, isn't that right?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Hold on.
+NPC-Mercurows(0)<Speaker></Speaker>||:Following M4A1's gaze, AR-15 looks over to the Nyto still standing there like a statue.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I've still got some questions that need answering.
+()||<黑屏1>:

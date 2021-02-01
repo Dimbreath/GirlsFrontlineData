@@ -1,0 +1,56 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>3</BIN><BGM>BGM_stage8</BGM>:...On the streets of Belgrade.
+()||:With M16 on the passenger's seat, Beak drives rapidly through the streets scattered with remains.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:The operation was a success. +Now all that's left is to shake off our pursuers and withdraw from the city.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Tsk, you make it sound so easy. +You know what we're gonna run into later, right?
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:The white units have lost their commander and won't pose any threat to us. +As for the ELIDs, our firepower is more than enough to handle those blind, bumbling monsters. +What else is there to worry about?
+Beak_M16(0)<Speaker>Beak</Speaker>;M16A1BOSS(0)||:Have you already forgotten about your Griffin pals in the city?
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:According to the latest recon report, they've already withdrawn from Belgrade. No threat there.
+Beak_M16(0)<Speaker>Beak</Speaker>;M16A1BOSS(0)||:Heh, I bet you're secretly relieved that you won't have to face them again.
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:... +Anyone who gets in my way are my enemies, whoever they may be.
+Beak_M16(0)<Speaker>Beak</Speaker>;M16A1BOSS(0)||:Oh? How reassuring.
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Cast aside your irrelevant doubts, Beak. +Your computational capacity can be better used on more constructive things.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Blockade ahead!
+()||<SE1>Gunkill</SE1><BGM>BGM_Empty</BGM>:Beak slams the brakes and a series of bullets land right in front of her motorbike.
+UKM2000(0)<Speaker>UKM-2000</Speaker>||<BGM>BGM_Battle</BGM>:Earthling Dolls over there, hand over your cargo! +Or things are gonna get ugly!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Griffin troops, huh. +Move or you'll die here.
+UKM2000(0)<Speaker>UKM-2000</Speaker>||:Don't be stupid! Dolls don't die - neither on Earth nor my home planet! +Just hand over the goods or you'll be the ones to "die"!
+Beak_M16(0)<Speaker>Beak</Speaker>||:What the hell is she on about? Are all Griffin Dolls so weird? +M16, what now?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Destroy them and force our way through.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Nice, exactly what I want to hear.
+()||:Just as Beak and M16 prepare to go on the offensive, a voice comes shouting from behind.
+M4A1()||:Wait!! M16!!!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...!
+M4A1Mod(0)<Speaker></Speaker>||:M4 catches up on her own motorbike and skids to a halt directly in front of Beak's vehicle.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Tsk, you're quick.
+()||:M16 turns and eyes M4 for a second. Then she trains her weapon on her.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:M16, what's the matter with you? +What is going on with you? Why...why are you siding with Sangvis Ferri?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Stop getting involved in this mess, M4.
+M16A1BOSS(0);M4A1Mod(4)<Speaker>M4A1</Speaker>||:I'm the leader of the AR Team! +I will not take orders from you!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;M4A1Mod(4)||:This isn't an order, it's a warning.
+M16A1BOSS(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:If you're under the control of the Parapluie virus...I'll do everything I can to save you!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;M4A1Mod(3)||:Seeing as we used to be on the same team, I didn't go all out last time. +But if you still refuse to listen, I won't show you any more mercy, M4.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:I won't let you run away this time, M16!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4! Look out, on your left!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE1>ClothingUp</SE1>:?!
+()||<BGM>BGM_Empty</BGM><SE1>MachineGunBurst</SE1>:M4 shifts to her right as a bullet hits the spot where she's just been standing.
+???()||<BGM>BGM_Boss</BGM>:Sorry for crashing your little reunion.
+AN94(5)<Speaker>AN-94</Speaker>||:That Sangvis...
+AK12(0)<Speaker>AK-12</Speaker>||:Match found. Sangvis elite Doll codenamed "Judge".
+Beak_M16(0)<Speaker>Beak</Speaker>||:Right on time, pipsqueak.
+BossJustice(0)<Speaker>Judge</Speaker>||:You little... Since we're in the middle of a mission, I'm going to let it slide this time. +Take what Master wants and go. Just leave things here to me.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Thanks.
+BossJustice(0)<Speaker>Judge</Speaker>||:Right, and you...M16. +You'd better carry out your orders properly. Don't try anything funny.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Of course. +I know my position very well.
+BossJustice(0)<Speaker>Judge</Speaker>||<黑点1>:Humph...that had better be true. +Now go.
+()||<黑点2>:... +Under Judge's cover, M16 and Beak break through the Griffin encirclement.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We're left with a tricky one.
+AK12(0)<Speaker>AK-12</Speaker>||:We need to go after them. There's no point in getting distracted here. Get on the bike!
+BossJustice(0)<Speaker>Judge</Speaker>||:You are not going anywhere!
+UKM2000(0)<Speaker>UKM-2000</Speaker>||:Hey, the Sangvis midget over there! We're the ones who set up this barricade! +Don't just go pick a fight with someone else!
+BossJustice(0)<Speaker>Judge</Speaker>||:Tsk, you blasted Griffins are such a pain!
+AK12(0)<Speaker>AK-12</Speaker>||:Oh, what a clever Griffin Doll. We'll leave this to you then.
+UKM2000(0)<Speaker>UKM-2000</Speaker>||:I don't quite get it...but since we have a common enemy, we'll help you out! +The Sangvis who just ran off are the ones you're after, right? Just go after them!
+AK12(0)<Speaker>AK-12</Speaker>||:Perfect. You seem to be a very perceptive alien.
+UKM2000(0)<Speaker>UKM-2000</Speaker>||:Ooooh?! I've never met you, but you sure know what's up! +I'm sure we'll make a great team!
+BossJustice(0)<Speaker>Judge</Speaker>||<黑屏1>:Humph, what a bunch of weirdos. +Then let me see what you've got! Show me if you can surpass my justice!

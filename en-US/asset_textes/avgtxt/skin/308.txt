@@ -1,0 +1,60 @@
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:8 am, December 24th. Griffin Control.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Morning, Commander!
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:You're early today, Kalin... A mission?
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Heheh, chill! +Miss Springfield asked me to remind you about the Christmas preparations. +Do you remember what you have to do, Commander?
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Check the progress of the preparations and find someone to help deal with any unexpected situations. +Don't worry. As a commander, I won't slack off even during the holidays.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Haha, you seem to be in high spirits. I guess I have no reason to worry! +Then you'd better get started. The sooner you finish you work, the sooner you can enjoy this special occasion~
+()||<黑点1>:After receiving Springfield's event proposal last night, I've already decided on whom to pick as my bouncer.
+()||<BIN>82</BIN><黑点2>:I head towards the dorm where Squad FAL lives.
+Commander()<Speaker>Commander</Speaker>||:Good morning, FAL.
+FAL(0)<Speaker>FAL</Speaker>||:Oh, Commander... What brings you here so early in the morning? +Just telling you, my schedule is full today. +If it's some last-minute mission, give it to other squad members.
+FAL(0)<Speaker>Commander</Speaker>||:But you'll be attending the ball tonight, right?
+FAL(0)<Speaker>FAL</Speaker>||:Oh? So are you inviting me to be your partner? +Your taste seems to have improved immensely, Commander. +Since you're inviting me so gallantly, I'll give it a thought...
+FAL(0)<Speaker>Commander</Speaker>||:Uh...Um, hold it, FAL. Listen...
+FAL(0)<Speaker></Speaker>||:I briefly explain my reason for dropping in.
+FAL(0)<Speaker>FAL</Speaker>||:Quoi? Asking me to work at a time like this? +I'm so wrong about you, Commander.
+FAL(0)<Speaker>Commander</Speaker>||:Only because you're the best choice. +You're good at dealing with emergencies. This job requires some improvising, so I'll rest easy if you take it.
+FAL(0)<Speaker>FAL</Speaker>||:Humph, quite the silver tongue, aren't you. +Still, I'm not working for nothing... So, how are you gonna repay me?
+FAL(0)<Speaker>Commander</Speaker>||:It's not an official operation, so you won't get paid... +Is it okay if I grant you a wish that's within my ability?
+FAL(0)<Speaker>FAL</Speaker>||:Then come shopping with me.
+FAL(0)<Speaker>Commander</Speaker>||:Is that it?
+FAL(0)<Speaker>FAL</Speaker>||:Oui. +Easy, right?
+FAL(0)<Speaker>Commander</Speaker>||:...You're an absolute angel, FAL.
+FAL(0)<Speaker>FAL</Speaker>||:Leave that boot-licking till we're out, Commander. +Give me a sec.
+()||<黑屏1>:FAL turns and gets back to her dorm.
+()||<黑屏2>:Ten minutes later. +FAL comes out in a Christmassy dress.
+FAL(2)<Speaker>Commander</Speaker>||:It suits you, FAL.
+FAL(2)<Speaker>FAL</Speaker>||:Bien sur, my taste is exceptional among T-Dolls. +Let's go then.
+FAL(2)<Speaker>Commander</Speaker>||:...Huh?
+FAL(2)<Speaker>FAL</Speaker>||:What are you spacing out for? +We're going shopping now. The shopping list isn't gonna cross itself out.
+FAL(2)<Speaker>Commander</Speaker>||:But...FAL, I can't leave NOW!
+FAL(2)<Speaker>FAL</Speaker>||:What? +So you're already regretting the promise you just made?!
+FAL(2)<Speaker></Speaker>||:FAL's face darkens.
+FAL(2)<Speaker>Commander</Speaker>||:I still have some preparation work to do, so...
+FAL(2)<Speaker>FAL</Speaker>||:...Is that so. +It's quite cold today. I don't feel like heading out anyway. +Talk to 57 about the mission. She just might help you out.
+FAL(2)<Speaker>Commander</Speaker>||:I'm really sorry, FAL! +I'll finish my job really quickly and we'll go shopping together in the afternoon, okay?
+FAL(2)<Speaker></Speaker>||:FAL stares at me coldly.
+FAL(2)<Speaker>Commander</Speaker>||:Trust me! I won't go back on my word!
+FAL(2)<Speaker>FAL</Speaker>||<黑点1>:Fine. Don't make me wait too long.
+()||<BIN>84</BIN><黑点2>:That afternoon. +I pant heavily as I follow FAL, carrying a bunch of paper bags.
+Commander()<Speaker>Commander</Speaker>||:H-Hold up... +FAL, you're walking too...too fast!
+FAL(2)<Speaker>FAL</Speaker>||:All the shops will be closed if we don't hurry. +We're still missing one-third of the items on the list.
+FAL(2)<Speaker>Commander</Speaker>||:It's already been three hours... +Can't we just take...take a rest?
+FAL(2)<Speaker>FAL</Speaker>||:It's entirely your fault for messing up my plans. +You have no one but yourself to blame, so you'd better give it all you've got to make up for it.
+FAL(2)<Speaker></Speaker>||:FAL prances into the mall.
+FAL(2)<Speaker>FAL</Speaker>||:Now, where should we go next...
+()||<黑点1><BGM>BGM_Empty</BGM>:FAL cheerfully studies the mall directory, +While I can only silently pray for this hellish shopping spree to end soon...
+()||<BIN>82</BIN><黑点2>:4 pm. +After putting everything FAL has bought into her room, I all but collapse onto the chair.
+FAL(2)<Speaker>FAL</Speaker>||<BGM>GF_Memorial</BGM>:So tired after just a few hours of shopping, Commander...? +Looks like you lack exercise. You should train harder.
+FAL(2)<Speaker>Commander</Speaker>||:Don't compare a human's stamina to a T-Doll's. +Besides, shopping is much more exhausting than I thought...
+FAL(2)<Speaker>FAL</Speaker>||:Only because you didn't enjoy it. +If you buy something for yourself, you won't feel so tired. Like so...
+FAL(2)<Speaker></Speaker>||<SE1>ClothingUp</SE1>:FAL fishes out a Christmas hat from her shopping and puts it on my head.
+FAL(2)<Speaker>Commander</Speaker>||:What's this?
+FAL(2)<Speaker>FAL</Speaker>||:Fitting apparel for festivities. +It's a treat for shopping with me. Accept it gratefully.
+FAL(2)<Speaker>Commander</Speaker>||:Thanks, FAL... +My motivation is back again all of a sudden.
+FAL(2)<Speaker>FAL</Speaker>||:Then our goal is a perfect Christmas. Let's work hard together, Commander.
+FAL(2)<Speaker>Commander</Speaker>||:You'll be there at the ball tonight, right?
+FAL(2)<Speaker>FAL</Speaker>||:Bien sur. I'd never miss an occasion to show off my exquisite taste.
+FAL(2)<Speaker>Commander</Speaker>||:How about a dance with me?
+FAL(2)<Speaker></Speaker>||:After a brief moment of surprise, FAL's lips curl up into a small smile.
+FAL(2)<Speaker>FAL</Speaker>||<黑屏1>:C'est ma plaisir.

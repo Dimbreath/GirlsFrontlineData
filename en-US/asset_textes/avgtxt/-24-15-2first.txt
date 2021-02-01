@@ -1,0 +1,27 @@
+()||<BIN>9</BIN><BGM>BGM_Sunshine</BGM>:...After wiping out the enemies, 416 leads SOP-II onward.
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Commander, we're heading towards Outpost 76 to repel the white enemies' attack.</color> +<color=#00CCFF>By the way, we happened to have picked up...</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Commander! Commander! Commander!</color>
+HK416(0)<Speaker></Speaker><通讯框>||:...Click! +...416 forcibly switches off SOP-II's comms channel.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Hey! That was really mean, 416!</color> +<color=#00CCFF>RO couldn't even say a word!</color>
+RO635()<Speaker>RO635</Speaker>||:<color=#00CCFF>L-leave it. Just let the Commander think I died...</color>
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>We picked up SOP-II and RO from the AR Team along the way. Storm and her echelon are also with them.</color> +<color=#00CCFF>They look a bit...different, but at least they can still move about.</color>
+RO635()<Speaker>RO635</Speaker>||:<color=#00CCFF>I can't move about! I'm not free at all!</color>
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>Save the chit-chat for later. We're about to arrive at Outpost 76.</color> +<color=#00CCFF>Commander, since we didn't rescue all the trapped echelons, we'll have a tough battle ahead of us.</color> +<color=#00CCFF>Please prepare for all possibilities and do your best in achieving this objective.</color>
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN>:And so, we reunited with the Commander, thanks to 416 and her team. +Though we were tattered and torn, we came back from the battlefield alive. +Of course, that was only for a while, because we would soon be facing an unknown enemy and an unknown situation... +But I will survive... +And this time, I'll survive with everyone...
+()||<黑屏1>:...
+()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:
+()||:... +The Nytos listen to the entire story. It isn't the whole truth, but I guess it's close enough to what they know.
+Nyto(0)<Speaker>Nyto</Speaker>||:We believe your account to be fundamentally true.
+Nyto(0)<Speaker></Speaker>||:...Beep beep. +I hear a quiet sound in my ear. Of course, none of the Nytos react to it.
+()<Speaker>Calm T-Doll's Voice</Speaker>||<BGM>BGM_Truth</BGM>:<color=#00CCFF>No need to answer, Commander. I know you're enjoying their hospitality.</color>
+()||:I know I've heard that voice before, but I can't quite place it. There's no doubt that she's with the T-Doll who hacked the Nytos.
+()<Speaker>Calm T-Doll's Voice</Speaker>||:<color=#00CCFF>We are currently figuring out the defensive system of the treatment facility where you're being held in order to work out an infiltration plan. It's going to take a while.</color>+<color=#00CCFF>Therefore, we need you to buy us more time, Commander. I know it will hurt, but currently we have no other options.</color>+<color=#00CCFF>The only solace I can offer you is my hope that you will come to enjoy it.</color>
+()||:She ends the transmission after leaving me with that thoroughly unfunny joke. +The Nytos' work is still going on, and today's interrogation will probably go on for a long time, but I know that is my part of the job.
+Nyto(0)<Speaker>Nyto</Speaker>||:Next, please tell us about another matter. +It concerns the Tactical Doll 416, a member of the black ops Squad 404. +She played an important role in this mission. We need to know what exactly she did.
+Nyto(0)<Speaker>Commander</Speaker>||:... <c>If you don't know what she did, how do you know she's important? <c>I'm sure you know more than I do. <c>How did you know about Squad 404?
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>1</分支>:We do not understand the details of her involvement with the operation. Her actions do not conform to the records of her previous behavior patterns. We need to know the reason for it.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>2</分支>:We have indeed made contact before, but it was not me. It was another Nyto. +We also need to understand the situation in which Griffin and their T-Dolls found themselves.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>3</分支>:That is an unnecessary question. We know many things, such as what you know and what you do not know, but that is none of your concern.
+Nyto(0)<Speaker>Nyto</Speaker>||:Now, tell us. Tell us how 416 came to take part in this Griffin operation and why she rescued so many T-Dolls. +...Tell us, and you will live.
+()||:...And that would be another story.
+()||<黑屏1>:

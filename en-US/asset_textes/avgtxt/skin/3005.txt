@@ -1,0 +1,108 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>83</BIN><黑屏2><BGM>BGM_Room</BGM>:At the Griffin base, during the changing of shifts.
+Spitfire(0)<Speaker>Spitfire</Speaker>||:Sure thing, 75.
+Spitfire(0);CZ75(0)<Speaker>CZ75</Speaker>||:Huh? Are you really okay with it? +I feel bad just asking this of you.
+Spitfire(0)<Speaker>Spitfire</Speaker>;CZ75(0)||:We're just swapping shifts. It's no big deal. +After all, I didn't prepare any new clothes for Lunar New Year... +Have fun making your New Year visits, and don't forget to take some pictures.
+Spitfire(0);CZ75(0)<Speaker>CZ75</Speaker>||:Then I'll leave this to you, Spitfire! +I'll tell you all about it when I'm back!
+CZ75(0)<Speaker></Speaker>||<SE1>RunStep</SE1>:CZ75 waves happily at Spitfire and dashes off.
+CZ75(0)<Speaker>CZ75</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>Thank goodness Spitfire agreed to help me out, or all the careful preparations I've made for the New Year visits would have gone to waste...</color> +<color=#A9A9A9>Let me take a rest back in the dorm, get changed, then gather everyone who's ready—</color>
+()<Speaker></Speaker>||<BIN>82</BIN><黑点2>:In CZ75's room at the Griffin dormitories.
+CZ75(0)<Speaker>CZ75</Speaker>||<震屏><BGM>BGM_Sneak</BGM>:<color=#00CCFF>...What?! Why would it be you?!</color>
+NZ75(0)<Speaker>NZ75</Speaker><通讯框>;CZ75(0)||:<color=#00CCFF>What are you talking about, CZ75? Didn't you have a night shift today? Of course I'll be leading the group.</color> +<color=#00CCFF>Wait, why are you here now?</color> +<color=#00CCFF>Don't tell me you're ditching work!</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>I just swapped shifts with someone else!</color> +<color=#00CCFF>And didn't we agree that I'll be leading the group?!</color>
+NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>Why are you so inflexible? Since you had a shift, of course there had to be a change of plans.</color> +<color=#00CCFF>Now that everything's settled, you just have to deal with it!</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>As if I'd give in so easily to a rip-off of myself!</color>
+NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>Can we stop with this kind of unconstructive argument? Even if I'm your copy, I'm still a proper leader here!</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:... +<color=#00CCFF>You're right, there's no point in having this kind of pointless argument.</color>
+NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>How unusual for you to yield.</color> +<color=#00CCFF>In that case, just...</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>But I don't plan on giving in so easily.</color> +<color=#00CCFF>Let's have a duel, NZ75. We'll settle the issue on who will lead the New Year visits that way.</color>
+NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>Ha...</color> +<color=#00CCFF>Say, have you been hanging around SAA a bit too much lately?</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>As if I'd associate myself with a frivolous soda addict like her!</color> +<color=#00CCFF>What, too scared to accept the challenge?</color>
+NZ75(0)<Speaker>NZ75</Speaker><Shake>;CZ75(0)||:<color=#00CCFF>You think I'm scared?! I've wanted to settle the score with you for a long time, CZ75... Then let's find out which of us is superior today!</color> +<color=#00CCFF>The leader position may have been decided, but it's not set in stone! If you beat me, I'll tell the others you'll be leading the procession tonight!</color>
+NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>So you're not a complete wuss.</color> +<color=#00CCFF>Then we have an agreement. I'll be seeing you at 2000 at the base entrance.</color>
+NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>In the courtyard? Phew...</color> +<color=#00CCFF>Alright, 8pm it is.</color> +<color=#00CCFF>If you're so eager to humiliate yourself in public, I'll humor you.</color>
+CZ75(0)||:NZ75 ends the call. +CZ75 glares at her new outfit hanging in her wardrobe and clenches her fist.
+CZ75(0)||<黑点1><BGM>BGM_Empty</BGM>:I'll show you, NZ75... that there's the reason why I'm the original, and more outstanding than you'll ever be!
+()<Speaker></Speaker>||<BIN>161</BIN><黑点2><Night><BGM>BGM_Hello</BGM>:Later, at the main entrance of the Griffin base.
+CZ75(4)<Speaker>CZ75</Speaker>||:You showed up on time and didn't run away... Not bad, NZ75.
+NZ75(4)<Speaker>NZ75</Speaker>;CZ75(4)||:I won't back down, CZ75. I'll show you I'm the stronger one! +So how are we going to do this?
+NZ75(4);CZ75(4)<Speaker>CZ75</Speaker>||:I intend to beat you fair and square so I won't exploit your weaknesses. +Let's do the thing that you performed for the Commander last Spring Festival.
+NZ75(4)<Speaker>CZ75</Speaker><Shake>;CZ75(4)||:W-What? You—
+NZ75(4);CZ75(4)<Speaker>CZ75</Speaker>||:You're quite proud of your great sense of balance and coordination, aren't you? +Then that's where I'll beat you head-on and win back what I deserve!
+NZ75(4);97type(2)<Speaker>Type 97</Speaker>||:Things are looking lively here. What's going on? +Can I join in?
+NZ75(4)<Speaker>NZ75</Speaker>;97type(2)||:Hmph... I suppose you're not deliberately trying to embarrass me... Fine, I accept. +And you arrived at the perfect time, Type 97. +CZ75 and I are about to have a duel. Mind being the referee for us?
+95type(4)<Speaker>Type 95</Speaker>;97type(2)||:Don't stick your nose into things that don't concern you, 97.
+95type(4);97type(2)<Speaker>Type 97</Speaker>||:But this sounds fun, doesn't it? We've still got some time till we have to meet up with CZ52 anyway. Why not give them a hand? +I wanna try posing as a pheasant standing on one leg too, and I don't mind being the referee! Then let's begin in five, four—
+95type(4)<Speaker>Type 95</Speaker>;97type(2)||:Oh dear... alright. I'll wait for you.
+95type(4);97type(2)<Speaker>Type 97</Speaker>||<黑屏1>:Three, two, one! GAME START!
+()<Speaker></Speaker>||<黑屏2><Night>:30 minutes later.
+95type(4)<Speaker>Type 95</Speaker>||:We still don't have a winner, 97?
+95type(4);97type(2)<Speaker>Type 97</Speaker>||:My leg is getting sore... Standing on one leg isn't as easy as you'd think, but it isn't over yet...
+CZ75(4)<Speaker>CZ75</Speaker>;97type(2)||:I can do this all day.
+NZ75(4)<Speaker>NZ75</Speaker>;97type(2)||:Hmph, don't get cocky. The same goes for me!
+()<Speaker></Speaker>||:Another 25 minutes went by.
+97type(2)<Speaker>Type 97</Speaker>||:Ugh...hnggg... +N-No! I can't do it anymore... I give up! +Look at that, NZ75 and CZ75 are still going strong.
+95type(4)<Speaker>Type 95</Speaker>;97type(2)||:(Sighs) You've had your fun. Haven't you had enough, 97?
+95type(4);97type(2)<Speaker>Type 97</Speaker><Shake>||:Hmm... I know, sis... +But the duel isn't over yet, and I agreed to be the referee.
+95type(4)<Speaker>Type 95</Speaker>;97type(2)||:You're right - a promise is a promise. You can't just break your word. +Then I'll start preparing without you. Come find me when you're done.
+95type(4);97type(2)<Speaker>Type 97</Speaker>||:Alright, alright!
+CZ75(4)<Speaker>CZ75</Speaker>;97type(2)||:No... you can go with Type 95. We don't mind.
+CZ75(4);97type(2)<Speaker>Type 97</Speaker>||:Huh?? But don't you need a referee? +Shouldn't I be keeping an eye on you?
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:I agree with CZ75. I can keep going for a long time, and she doesn't seem to be giving up any time soon either. +Hey, CZ75, you aren't jamming your foot firmly into the ground with some secret contraption, are you?
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:You think I'd resort to such shoddy tricks?
+CZ75(4)<Speaker></Speaker><Shake>;NZ75(4)||:CZ75 does a little hop.
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:See? That was all smooth sailing, and there's nothing underneath my shoe. +Just admit defeat, NZ75.
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:Sorry for making a false accusation. My bad. But that doesn't mean I'm admitting defeat! We'll see who can last till the very end!
+97type(2)<Speaker>Type 97</Speaker>;NZ75(4)||:Then I'll be going, okay? +See you later at the New Year visits. Bye... Wait for me, sis!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><黑屏1>:Type 97 takes off running after Type 95.
+()<Speaker></Speaker>||<黑屏2>:The time is 2235.
+IWS2000(4)<Speaker>IWS 2000</Speaker><通讯框>||:<color=#00CCFF>Hailing NZ75. Most of the participants of the New Year visits are ready. Where are you?</color>
+IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>Hmph... I can still go on.</color> +<color=#00CCFF>IWS 2000, sorry but you'll have to wait a bit. I have to win this duel!</color>
+IWS2000(4)<Speaker>IWS 2000</Speaker>;NZ75(4)||:<color=#00CCFF>...Duel?</color> +<color=#00CCFF>What are you doing? Are you in danger, NZ75?</color> +<color=#00CCFF>Give me your location!</color>
+IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>No, I'm at the base. Don't worry, IWS 2000... I'm just having a showdown with CZ75.</color>
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:The call is distracting you. Your body is swaying, you know?
+NZ75(4)<Speaker>NZ75</Speaker>||<黑屏1>:<color=#00CCFF>...Crap! Anyway, please give me some time. I need to focus! Bye!</color>
+()<Speaker></Speaker>||<黑屏2>:The time is 2305.
+IWS2000(4)<Speaker>IWS 2000</Speaker>||:I heard you were having a duel... So this is how you're dueling?
+IWS2000(4);CZ75(4)<Speaker>CZ75</Speaker>||:Sure. Got a problem with that?
+IWS2000(4)<Speaker>IWS 2000</Speaker>;CZ75(4)||:Not at all. I find it a bit puzzling, but it's none of my business. +New Year's is only 55 minutes away. I'm here to see if NZ75 can make it on time.
+IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:...If I put my foot down and go, I'll lose to CZ75. That's unacceptable.
+IWS2000(4)<Speaker>IWS 2000</Speaker>;NZ75(4)||:Then the alternative is...
+IWS2000(4);CZ75(4)<Speaker>CZ75</Speaker>||:Same here. If I give up now, I'll lose to her! +This is no longer just a fight to decide who gets to lead the activity tonight. It has turned into a showdown to determine who is superior.
+IWS2000(4)<Speaker>IWS 2000</Speaker>;CZ75(4)||:But someone has to organize the whole thing... Can't you continue the duel some other time? +We should prioritize the group activity...
+IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:... +IWS 2000, we're counting on you.
+IWS2000(4)<Speaker>IWS 2000</Speaker>;NZ75(4)||:...Huh?
+IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:You'll have to organize it. +Neither CZ75 nor I will admit defeat for any reason, so someone has to take charge... It's in your hands, IWS 2000.
+IWS2000(4)<Speaker>IWS 2000</Speaker>;NZ75(4)||<黑屏1>:But... +...I understand. Leave it to me.
+()<Speaker></Speaker>||<Night><黑屏2><BGM>BGM_Empty</BGM>:Midnight. As the New Year bell starts ringing, the base grows lively. +CZ75 is distracted by the hubbub coming from inside the base.
+CZ75(4)<Speaker>CZ75</Speaker>||:They're making their visits.
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:Do you regret not going?
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:A bit. +But I can't go back on my promise.
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:Yeah...? That's what I think too. +... +Happy New Year, CZ75.
+CZ75(4)<Speaker>CZ75</Speaker><Shake>;NZ75(4)||<BGM>BGM_Moon</BGM>:You beat me to saying that! +...Happy New Year to you too, NZ75.
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:That's because you let down your guard. You can't be complacent even when it comes to making well wishes. That's what it takes to be a good leader, don't you think?
+CZ75(4)<Speaker>CZ75</Speaker>||<黑点1>:What kind of nonsense is that?! +Whatever. I can't be bothered to argue with you... It's New Year after all. We'll continue this discussion after I beat you!
+()<Speaker></Speaker>||<黑点2>:The time is 0300. The New Year visits are over. New figures appear at the base entrance.
+Spitfire(0)<Speaker>Spitfire</Speaker>||:Is it this way?
+HK45(0)<Speaker>Gr HK45</Speaker>;Spitfire(0)||:I only heard that they're somewhere around here, but I can't get in touch with them at all... I'm a bit worried.
+HK45(0);Spitfire(0)<Speaker>Spitfire</Speaker>||<BGM>BGM_Empty</BGM>:...What on earth... Oh, I see them! They're over there! 75, answer me! Are you two alright?
+CZ75(4)<Speaker>CZ75</Speaker>;Spitfire(0)||:...
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:...
+HK45(0)<Speaker>Gr HK45</Speaker>;NZ75(4)||:No hostile signals in the vicinity. I'm going in! +...
+HK45(0);Spitfire(0)<Speaker>Spitfire</Speaker>||:What is it, Gr HK45? +... +What...
+HK45(0)<Speaker>Gr HK45</Speaker>;Spitfire(0)||:They've completely drained their own batteries... +What the hell have they been doing here?
+HK45(0);Spitfire(0)<Speaker>Spitfire</Speaker>||:I don't know either... +In any case, I'll bring CZ75 back. Can you carry NZ75, Gr HK45?
+HK45(0)<Speaker>Gr HK45</Speaker>;Spitfire(0)||<黑屏1><BGM>BGM_Empty</BGM>:Of course! Piece of cake for an Idol!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Moon</BGM>:The time is 0500.
+CZ75(4)<Speaker>CZ75</Speaker>||<BIN>82</BIN><睁眼><立绘延迟>:...Hmm... +How did I get back to the dorm...?
+CZ75(4);Spitfire(0)<Speaker>Spitfire</Speaker>||:Good morning, 75. The New Year visits were a great success.
+CZ75(4)<Speaker>CZ75</Speaker>;Spitfire(0)||:...What? Is it over already?! +Where's NZ75?
+CZ75(4);Spitfire(0)<Speaker>Spitfire</Speaker>||:Like you, her battery ran out, so she must also be charging up back in her own dorm. +So, what exactly were the two of you doing?
+CZ75(4)<Speaker>CZ75</Speaker>;Spitfire(0)||:We were having a duel... Damn! Now we can't tell who won!
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:What are you talking about, CZ75? +So you're all charged up already.
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:...Humph. +We'll have another duel. I won't settle for a draw.
+CZ75(4);NZ75(4)<Speaker></Speaker>||:NZ75 grins. She obviously has no intention of giving up either.
+CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:In that case, let's prepare for a second round. +At 0700, when QJY-88 leads the morning visits. We'll see if you are any match for me!
+CZ75(4)<Speaker>CZ75</Speaker>;NZ75(4)||:My thoughts precisely! Just you wait, NZ75!
+Spitfire(0)<Speaker>Spitfire</Speaker>;NZ75(4)||:Jeez, it's the first day of a new year. +But I'll admit... 75 looks pretty cool...
+Spitfire(0);NZ75(4)<Speaker>NZ75</Speaker>||<黑屏1>:New year, new look, new battles! It all starts now!

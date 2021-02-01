@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+系统()<Speaker>System</Speaker>||<BIN>9</BIN><黑屏2><BGM>m_va_where_do_i_go_from_here_</BGM>:<color=#00CCFF>...</color>+<color=#00CCFF>......</color>+<color=#00CCFF>Retrieving target information...</color>+<color=#00CCFF>Super-Shorty... Formerly a Tactical Doll for Griffin PMC... Currently a resident of Griffin City...</color>+<color=#00CCFF>...</color>+<color=#00CCFF>Current file status...</color>+<color=#00CCFF>Missing in action...</color>
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:What... +Where... Where am I... +It's so dark... I can't see anything... +I can't...move my body...
+系统()<Speaker>System</Speaker>||:<color=#00CCFF>Loading neural cloud system...</color>
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:Neural cloud? My memories...?
+()<Speaker></Speaker>||<黑屏1>:... +......
+？？()<Speaker>???</Speaker>||<BIN>54</BIN><黑屏2>:Hey! Shorty! Shorty!
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:Don't call me shorty, especially you! You aren't much taller than me!
+？？()<Speaker>???</Speaker>||:Aw, but that's your name! What else would I call you?
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:J-Just shut up, you! In any case, don't call me that! +Call me anything you want, but not "shorty"!
+？？()<Speaker>???</Speaker>||:Nya... Alright... +I'll call you "Super-Shawty" then, how about that?
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:Hah? I'm not your shawty or anything! +Where the heck did you learn that from! How did I get an ill-mannered moron like you as my second-in-command!?
+？？()<Speaker>???</Speaker>||:Huh? Really? +But then, shawty, how did you know this term is ill-mannered...?
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||<震屏>:I... I—! +Ahhhhh! You idiot! Just be good and call me leader! +Honestly, that's why I don't want to work with people like you! You drive me up the wall!
+？？()<Speaker>???</Speaker>||:I'm sorry, I just...thought you were too tense...
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:Of course I'm tense! You, on the other hand! You're always so lackadaisical with no sense of urgency! +You are the most infuriating Tactical Doll I've ever met, I might as well do the whole mission by myself! +Now, listen up. There'll be hundreds or thousands of S.F. training around the Earth Computer, and this mission concerns the fate of the entire world. If I had a choice in the matter, I certainly wouldn't have chosen you! +But I don't make the rules, so you need to take this matter seriously, got it?
+？？()<Speaker>???</Speaker>||:Uuu...okie... +I understand... This might be the last chance for Earth.
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||<黑屏1>:—! +No! Don't peek at my memories! +This is classified material! +Get out! Get the hell out of my neural cloud!
+？？()<Speaker>???</Speaker>||<BIN>9</BIN><黑屏2>:Are we setting out now, Leader? +Time for the two of us...to save the world!
+()<Speaker></Speaker>||:...
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||<黑屏1>:What should I do... +What...should I do... +I have nothing... I've done nothing... +I couldn't even protect...the only thing I had... +I...
+？？()<Speaker>???</Speaker>||<BIN>18</BIN><Night><黑屏2><BGM>BGM_Empty</BGM>:<color=#00CCFF>Hey shorty! You awake?</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<BGM>m_va_drive_me_wild</BGM>:!? A voice...from outside? +Dana! Is that you, Dana!?
+Dana(2)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Yeah! It's me, don't panic!</color>
+Dana(2);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:You said it was just a checkup!
+Dana(2)<Speaker>Dana</Speaker>;SuperShorty(0)||:<color=#00CCFF>Sorry, but accidents do happen from time to time. Even I get stuck inside things occasionally. </color>+<color=#00CCFF>Hang on for a bit, we'll get you out of there right away!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:We...? Who else is there!?
+SuperShorty(0)<Speaker>Dana</Speaker>||:<color=#00CCFF>Architect, over here! Shorty's in this pod!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Architect? Eh!? Wait—!
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Ohohoho! Leave the rest to me!</color>
+Dana(2)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Are you sure you're not going to hurt her? Even I'm not too comfortable around that weapon of yours.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;SuperShorty(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>You know why they call me "Architect"?</color>
+BOSS-9(0)<Speaker></Speaker>;SuperShorty(0)||<SE1>AVG_weapon_reload</SE1>:...Architect raises her bazooka.
+BOSS-9(0)<Speaker>Super-Shorty</Speaker>;SuperShorty(0)||:Dana, she—!
+BOSS-9(0)<Speaker>Architect</Speaker>||<白屏1>:<color=#00CCFF>Because every explosion I make is a carefully-calculated work of art!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1><白屏2><白屏1>0,5<白屏1><BIN>183</BIN><BGM>BGM_Empty</BGM>:...BOOM!—!+...
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>||<BIN>18</BIN><Night><白屏2>:...+(Cough)... (Cough cough)... +Dammit... +Were you trying to kill me!?
+BOSS-9(0)<Speaker>Architect</Speaker>;SuperShorty(1)||:You're welcome, kiddo.
+Dana(0)<Speaker>Dana</Speaker>;SuperShorty(1)||:Are you alright, shorty? +From a native's perspective, given that your hands and your head are still in place and you're still in a mood to curse people out, you should be fine.
+Dana(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker>||<BGM>m_va_troubling_news</BGM>:Dana... (Cough cough)... +That's...S.F.'s Architect... She's an enemy...
+Dana(0)<Speaker>Dana</Speaker>;SuperShorty(1)||:What are you saying?
+Dana(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker>||<黑屏1>:I fought S.F. before, in the Earth Computer, which is why I hate them... +I remember now... (Cough cough)... My partner and I were— +...Uwah!
+()<Speaker></Speaker>||<拉伸><BIN>9</BIN><黑屏2>:...Architect suddenly rushes up and pins Super-Shorty to the wall.
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:(Cough cough)! Let go of me!
+达娜()<Speaker>Dana</Speaker>||:Hey, cool it, you two!
+建筑师()<Speaker>Architect</Speaker>||:Let's get things straight, kiddo. +I don't know you, or maybe you were just as insignificant three years ago as you are now. +And if I wanted to kill you, or if I were ordered to, then you'd already be dead following our crash off the cliff.
+达娜()<Speaker>Dana</Speaker>||:Architect, why don't you put her down first.
+建筑师()<Speaker>Architect</Speaker>||:Furthermore... +S.F. Dolls were all made by the Earth Computer. +If you showed up near the Computer, then it would mean that YOU were the intruder, and thus our enemy.
+达娜()<Speaker>Dana</Speaker>||:Architect!
+()<Speaker></Speaker>||<黑屏1>:...Architect dumps Super-Shorty on the ground.
+BOSS-9(0)<Speaker>Architect</Speaker>||<BIN>18</BIN><Night><黑屏2>:I know that now isn't the time to settle the score.
+BOSS-9(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker>||:(Cough cough)... What did you...just say? +The Earth Computer...created S.F.?
+Dana(2)<Speaker>Dana</Speaker>;SuperShorty(1)||:What are you really here for, Architect?
+Dana(2);BOSS-9(0)<Speaker>Architect</Speaker>||:Investigating this base. I'm after something...useful.
+Dana(2)<Speaker>Dana</Speaker>;BOSS-9(0)||:You mean...you deliberately allowed yourself to be captured so that you could be brought here?
+Dana(2);BOSS-9(0)<Speaker>Architect</Speaker>||:The sequence of events didn't go quite as I envisioned it, but it all worked out in the end. +What were you gonna say, kiddo?
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:I... +I...still don't remember why my partner and I were going into the Earth Computer... +But I can assure you, we weren't going to do anything bad!
+SuperShorty(1);BOSS-9(0)<Speaker>Architect</Speaker>||:Good or bad, it doesn't matter. Every terrible villain who wanted to rule the world would make big fancy speeches before committing crimes that were far more disgusting than mass murder. +But what I meant was...what do you plan to do now? Join me? Or are you going to find a place to hide?
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:I've been in a state of confusion ever since I woke up... +But I need to find a way to recover my memory, figure out who I am, as well as what S.F. has to do with me... +Therefore...we have the same objectives for the time being, at least. Dana...how about you?
+SuperShorty(1);Dana(3)<Speaker>Dana</Speaker>||:I want to turn around and go home, because there are large mechs outside waiting to kill me. Or I can beat the crap out of them one by one and fall asleep to a lullaby of gunfire from outside the window.
+SuperShorty(1);Dana(0)<Speaker>Dana</Speaker>||:But right now, you're busy wrecking an evil conspiracy, and the two of you have a grudge against each other. Surely you won't mind me keeping you company for a while longer?
+BOSS-9(0)<Speaker>Architect</Speaker>;Dana(0)||:It's a deal. Don't forget my payment, Dana. +I scanned the map of this place; we should take advantage of the confusion to dig up information on Anna. +I'll tell you everything I know along the way. Dana, kiddo, you ready?
+BOSS-9(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker>||:Kiddo, shorty, shawty...only my friends get to call me that. +But right now...who gives a damn? Let's go.
+Dana(0)<Speaker>Dana</Speaker>;SuperShorty(1)||:You've become less uptight, shorty.
+Dana(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker>||:That's because I remembered that I was ill-tempered in the past.
+Dana(0);SuperShorty(1)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Super...Shorty...? </color>+<color=#00CCFF>Super-Shorty, is that you!?</color>
+Dana(0);SuperShorty(1)<Speaker>Super-Shorty</Speaker><Shake>||<BGM>BGM_Boss</BGM>:Who's that? Where'd that come from?
+Dana(2)<Speaker>Dana</Speaker>;SuperShorty(1)||:It's a broadcast! Someone here knows you!
+Dana(2);BOSS-9(0)<Speaker>Architect</Speaker>||:You think it's a friend? The voice didn't call you "shorty" or anything.
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:I've heard this voice before, but...
+SuperShorty(1)<Speaker>???</Speaker>;BOSS-9(0)||:<color=#00CCFF>Super-Shorty! I can hear your voice! Answer me!</color>
+SuperShorty(1);Dana(0)<Speaker>Dana</Speaker>||:Answer her. If it's an enemy, then it's just another shoulder throw for me.
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>;Dana(0)||:Hey, I'm here!
+()<Speaker>???</Speaker>||:<color=#00CCFF>Good heavens, you've been gone for three years!</color>+<color=#00CCFF>Where did you go, and why are you with a S.F.?</color>
+SuperShorty(1)<Speaker>Super-Shorty</Speaker>;Dana(0)||:I...I lost my memories. +So, who are you, and how do you know my name?
+()<Speaker>???</Speaker>||:<color=#00CCFF>Is that so...</color>+<color=#00CCFF>No wonder... You've been missing for so long...</color>+<color=#00CCFF>Super-Shorty, look to your left. I'm going to generate an image.</color>
+SuperShorty(1)<Speaker></Speaker>||:...Super-Shorty turns her head.
+()<Speaker>???</Speaker>||:<color=#00CCFF>Now, do you see me?</color>
+Super-Shorty()<Speaker>Super-Shorty</Speaker>||:You...you're... +I remember...you're... +Alma? You're Alma, right?
+Alma(0)<Speaker>Alma</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>That's right...</color>+<color=#00CCFF>I am Alma Armas, your commander from three years ago.</color>

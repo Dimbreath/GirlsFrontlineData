@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><BGM>BGM_Brain</BGM>:...
+M4A1()<Speaker>M4A1</Speaker>||:Unforgivable... Unforgivable! I'm gonna kill you!
+稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:It wasn't me.
+M4A1()<Speaker>M4A1</Speaker>||:Shut up, liar! Get out!! +I'll kill you!!
+()||:...
+稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:She rejected me again. Will we get another chance?
+代理人()<Speaker>Agent</Speaker>||:We are running out of time, Master. +The Military has already reached the designated location. +All our preparations are in place. May we initiate the final plan?
+稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Why... +What on earth happened...? +I can't hear her anymore...
+清澈的女声()<Speaker>Clear female voice</Speaker>||:Due to the humans' interference, all connections have been severed. +She made her choice. Now you must make yours. +Don't worry. I will keep an eye on her. +But for you...time is running short... +...Elisa.
+主脑·伊莱莎()<Speaker>Mastermind/Elisa</Speaker>||<黑屏1>:I understand. +It's a shame, but let's do it. +Agent, unleash the full power of Parapluie.
+()||<BIN>9</BIN><黑屏2>:...Meanwhile, at the Military's temporary command center.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:It's begun... Finally, it's begun! +Sangvis Ferri is fully activating Parapluie. Let us spice up their show. +Carter, what's the status of your forces?
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Our human troops have already retreated. The mechanical units are all left behind along the defense line as planned. +The active defense system on Level II is deactivated while the connection to the main server is open.
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Good. Very good.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Are you sure Mastermind is capable of acquiring what we want her to get?
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:What are you talking about? +This is the Parapluie virus that we pride ourselves on. Our lovely lady can do whatever she pleases with it.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:I look forward to it, though it's ironic how we are staking the future of the country on these T-Dolls...
+经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:A long time ago, our nice, peaceful world was destroyed because of several kids. +Isn't this what you'd call "fate"? It's interesting precisely because it's unpredictable. +Speaking of which, I'm quite surprised a small company like Griffin ended up playing such an important role.
+NPC-Carter(0)<Speaker>Carter</Speaker>||:Though their part is coming to an end.
+()||:...Carter bows his head and chuckles.
+NPC-Carter(0)<Speaker>Carter</Speaker>||<黑屏1>:Kryuger, I'll save the apology for when next we meet. You'll probably be in prison by then.
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Danger</BGM>:...Meanwhile, Griffin Control.
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Commander, this is a super emergency! +Some of our T-Dolls have suddenly stopped receiving orders and started attacking our logistic facilities! +The situation is temporarily under control, but according to various reports, we are also under the attack of multiple military units!
+()||:...Click. Click.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Commander, our...mand system is suffering...large-scale attack...
+()||:(Static)
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:...almost completely paralyzed...
+()||:(Static)
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:...guess...infected by a more potent version of the Parapluie virus! +Commander, your forces are within the coverage... +Take all uninfected T-Dolls with you and withdraw this instant!
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Commander, what about M4 and the others?! +Their location is completely overrun by Parapluie... Our T-Dolls would lose their mind the moment they set foot in there! +Even the AR Team and the Carcano sisters could already be... +And there's nothing we can do... +Why... How did this happen...? We even promised them...
+()||:...Click.
+SoundOnly()<Speaker>SoundOnly</Speaker>||<黑屏1>:Griffin Commander. +Do you trust me? +Don't try to track my signal. This isn't the time for that. At the very least, I'm not your enemy. +If you trust me just as Persica does... +...give me M4A1's coordinates. +...I can't guarantee anything. All I can do is to make up for what I did before. +No need to thank me. I'm getting paid for this. +You fought well today, but the AR Team aren't your only subordinates. +Protect all the T-Dolls that you can and leave the rest to me. Best of luck to the both of us.
+NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏2><BIN>10</BIN>:Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11! +There has been a contingency in Area S09. The area is in total disarray! +We are currently coordinating a large-scale withdrawal from the area, and our retreating forces will be passing through Area S11! +All commanders on standby, please report immediately to your command center! +All Griffin personnel in Area S11 are to prepare for battle. Repel the Sangvis assault and protect as many of our troops as you can! +Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11! +Battle stations! Repel the Sangvis assault and protect as many of our troops as you can!
+NPC-Kalin(4)<Speaker>Kalin</Speaker>||<黑点1>:We have no choice but to trust that person. +They're right, Commander, a lot of our T-Dolls are waiting for rescue! +We must keep the routes open and help them escape!

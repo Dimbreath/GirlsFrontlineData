@@ -1,0 +1,64 @@
+()||<BIN>88</BIN><BGM>BGM_Sad</BGM>:...In a certain abandoned depot.
+BrenMK(1)<Speaker>Bren</Speaker>||:Dammit... I'm trapped in such a place...
+BrenMK(1)<Speaker></Speaker>||:Bren is leaning against the door in the depot. +She peeks through the cracks on the old, battered door and watches as a troop of Sangvis units draws closer and closer.
+BrenMK(1)<Speaker>Bren</Speaker>||<黑屏1>0,3</黑屏1>:If I had moved quickly enough, I wouldn't have been backed into such a corner... +I'm already in a different team, so I should've become stronger!
+()||<BIN>9</BIN><黑屏1>0.3</黑屏1>:⁠—But is that really true?
+()||:In a team made out of elite Dolls, it's challenging enough just to keep up with everyone else. +I thought it would only be temporary, but my current predicament...won't be solved by stroking my own wounded ego.
+BrenMK(1)<Speaker>Bren</Speaker><Shake>1.5</Shake>||:Dammit. Goddammit! +Why can't I get any stronger?! WHY?!!!!
+()||<黑屏1>0.3</黑屏1>:⁠—Actually, I've always known this.
+()||:I can never be as strong as an elite Doll. +No matter how hard I work, there is a limit that I simply can't surpass. +Is this where I have to stop?
+BrenMK(1)<Speaker>Bren</Speaker>||<黑屏1>0,0.3</黑屏1>:Will I always have to gaze upon their backs...? +As if I'd let that happen! +But what...what should I do?
+()||<BIN>88</BIN><黑屏2>0,0.5</黑屏2>:Bren gets up on her feet and picks up her machine gun.
+BrenMK(0)<Speaker>Bren</Speaker>||:...I can't just wait to die here like a loser. +If I ever see you again, I'll hear you out... +Welrod...
+()||<SE1>Gunfight</SE1>:Gunshots from outside the depot.
+BrenMK(0)<Speaker>Bren</Speaker>||<白屏1>0,2</白屏1>:What now?!
+Welrod(0)<Speaker>Welrod Mk II</Speaker>||<白屏2>0,0.5</白屏2><BIN>89</BIN>:Bren! +Are you alright?
+BrenMK(0)<Speaker>Bren</Speaker>||:Welrod?! +Why are you here?!
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Our team was carrying out a mission nearby and the Commander dispatched us here as reinforcements. +Our iron hammer of justice is about to strike. Let's settle things first and leave the chit-chat for later.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:...Your involvement is utterly unnecessary. +Even without you, I could still kill my way out of here...
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:I know. +But for now, please help me punish these sinful Sangvis Ferri in the name of justice!
+BrenMK(0)<Speaker>Bren</Speaker>||<黑屏1>:...Let's get started then, Welrod.
+()||<BIN>9</BIN><黑屏1><SE1>Gunfight</SE1><BGM>BGM_Empty</BGM>:... +...Combat over.
+()||<BGM>BGM_Wake</BGM><黑屏2><BIN>2</BIN>:At the Griffin squad's temporary rendezvous point.
+L85A1(0)<Speaker>L85A1</Speaker>||:(Sobs) Thank goodness you're okay, Bren! +We were worried sick when we learned that you were trapped in there!
+BrenMK(0)<Speaker>Bren</Speaker>;L85A1(0)||:...It wasn't that serious. +Where's the other one?
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:You mean IDW? +She's getting herself patched up. She'll regroup with us soon!
+BrenMK(0)<Speaker>Bren</Speaker>;L85A1(0)||:Tsk... That stupid cat got herself all banged up again. +Go and check on her... +I need to talk to Welrod.
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:...Alright. +Um... +Bren, when this mission is over...would you like to join our tea party?
+BrenMK(0)<Speaker>Bren</Speaker>;L85A1(0)||:...We'll see.
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:No matter what your answer is... Please tell me when you've decided.
+BrenMK(0)<Speaker>Bren</Speaker>;L85A1(0)||:I will.
+L85A1(0)<Speaker>L85A1</Speaker>||<黑点1>:Then I'll see you later!
+()||<黑点2>:L85A1 runs off.
+Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Bren, what is it you want to talk to me about?
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:Welrod...how are you so strong?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:That's your question?
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:I have always wanted to be strong. +But no matter how hard I try...I can never be as good as you...as the elite Dolls. +You're always so outstanding, both in and out of combat. +Tell me, Welrod, what makes you so strong?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Because I'm an elite T-Doll.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:I don't want that kind of answer! +You have such an eccentric neural cloud. You're morose, by-the-book, and so damn preachy! +Yet even though you let those complacent idiots do as they please, you still complete your missions splendidly. +You keep spouting weird things but everyone still loves you...
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Bren...
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:I have given up so much in my pursuit of strength, but I still can't compare to elite Dolls... +Dammit, it's so unfair...when I'm up against people like you...
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:If you're only seeking strength for the sake of being strong, you won't get any further than this, Bren.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:Why?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:I'll tell you why I'm strong— +I'm strong because I'm a staunch protector of justice.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:You became strong so that you can protect "justice"?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:No.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:Then why?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Justice comes with strength. +It is just precisely because it is strong. +Therefore, as the protector of justice, I have to be strong as well.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:...What even. +I'm afraid...I don't follow.
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:You've always wanted to be strong, but do you even understand what it truly means to be strong, Bren?
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:Then, Welrod... +What is strength to you?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Strength isn't better stats. It isn't stepping on others' faces either.
+Welrod(0)<Speaker>Welrod Mk II</Speaker>||:A seed of aspiration that is buried deep in barren soil, when irrigated by faith and perserverance, shall one day touch the sky with its branches and leaves. +To understand where one is headed and to never swerve from the straightest path leading towards this goal... +The determination to never give up...is otherwise known as "strength".
+BrenMK(0)<Speaker>Bren</Speaker>||:...Welrod, you're saying weird things again.
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:To be able to embody justice no matter when or where - this is my reason for being strong. +Bren, what is yours?
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:I...
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:Find a reason, Bren. +Only then can you truly become strong.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:Easier said than done, Welrod... +Things like that don't grow on trees, you know.
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:I'm sure you can find it. +You will find what it is you want to do, the role that you want to "play".
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:But...I've already reached my limit, Welrod. Maybe I can never become any stronger than this.
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:I don't think so, Bren. +You want to become stronger... You have earned the right to do so. +What you lack...is just an opportunity.
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:...Opportunity?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||:I have a way. Would you like me to tell you?
+BrenMK(0)<Speaker>Bren</Speaker>;Welrod(0)||:What way?
+BrenMK(0);Welrod(0)<Speaker>Welrod Mk II</Speaker>||<黑屏1>:You see—

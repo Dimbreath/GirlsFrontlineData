@@ -1,0 +1,47 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:It feels like ages have passed since then... +Back then I had almost completely given up hope of ever reuniting with the AR Team.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Thank goodness it was only "almost". We did end up finding each other again.
+()<Speaker>Commander</Speaker>||:That's why you only showed yourselves during the operation in Belgrade...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:That's right. It took us a long time to finally board Task Force DEFY's transport, and we had no source of information while Ange's body was still recovering. +We couldn't relax until Squad 404 finally told us your rescue mission was successful. +When we learned that Griffin would be operating in Belgrade, we set off at once.
+RO635(0)<Speaker>RO635</Speaker>||:So that time... Was it also you who helped us out in the sewers?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Sorry, that was all I could do.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I knew you couldn't have done something so impressive, RO~
+RO635(0)<Speaker>RO635</Speaker>||:No one would've been able to crack that deadlocked system from within, okay?!
+()<Speaker>Commander</Speaker>||:I didn't know you could even hack a Nyto, Dandelion.
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:If Squad 404 can do it, why can't I? +Still, Paradeus has since strengthened the interference within the Isomers' brains, so I couldn't seize control over this body directly back then.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||:So that's why you wanted M4 and I to shoot the blocking devices on the Nytos' heads.
+AR15Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Yes, these bodies do not transmit messages and signals through radio waves or any kind of network protocol. They just have to think.
+AR15Mod(0);NytoIsomer(4)<Speaker>Commander</Speaker>||:Think?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Exactly. That's why there's a resonance between the Nytos and me. When they're thinking, I can sense their presence, their emotions, and even their thoughts.
+NytoIsomer(4)<Speaker>Commander</Speaker>||:I'm a bit puzzled here... How exactly do you do that?
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I'm not too sure either. It's practically some kind of instinct. +My objective is to figure out the answers to all these questions, haven't I told you?
+NytoIsomer(4)<Speaker>Commander</Speaker>||:Right...
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:In any case, we're finally one step closer to our goal. +I believe I have also demonstrated my sincerity to convince you that my existence poses no threat to you?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Your existence is temporarily tolerated because you are of strategic value to us. I'll be watching your every move.
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's good enough for me.
+()<Speaker></Speaker>||:Knock knock – it's the door.
+()<Speaker>UMP45</Speaker>||:Looks like your emotional reunion is over. Can we come in?
+()<Speaker>Commander</Speaker>||:Please.
+G11(0)<Speaker>Gr G11</Speaker>||:Wow, this room is so warm. Must I head out to the freezing cold outside later?
+HK416Mod(0)<Speaker>416</Speaker>||:You won't feel cold if I set you on fire.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:The Commander is standing right there! Stop fooling around, you two!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Ah, Squad 404 is here. How's the file?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:All sorted.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:File?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We just received what we suspect to be a transmission from Ange, but the file was severely corrupted. Miss 45 fixed it up in just a few minutes though.
+RO635(0)<Speaker>RO635</Speaker>||:So Ange finally got in touch?
+RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:You'll just have to watch it, but I don't think you're gonna like it. +Fräulein Kalina, I just sent it to you.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;UMP45Mod(0)||:Many thanks. Received.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Should I just play it on the big screen?
+()<Speaker>Commander</Speaker>||:Go ahead.
+()<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Task Force DEFY to Griffin Commander.</color> +<color=#00CCFF>This is RPK-16. I haven't had the pleasure of meeting you yet, but don't worry, we'll meet very soon.</color> +<color=#00CCFF>We are now currently in control of the entrance of the quarantine wall just outside the Paldiski Submarine Base, but we've lost contact with Angelia and our other teammates.</color> +<color=#00CCFF>The path to the base is clear. We will stay and defend this position and await Griffin reinforcements.</color> +<color=#00CCFF>RPK-16 out.</color>
+()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:That's certainly not quite what I expected...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ange seems to be in trouble.
+M4A1Mod(0)<Speaker>Commander</Speaker>||:But looks like our priority is now certain.
+M4A1Mod(0)<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:RO, are the simulations ready?
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||<BGM>BGM_War</BGM>:Yes, Commander, I've completed the simulations. +It's good news that the entrance is under friendly control, but we can't be sure how long that will remain true, so we must rally to this new DEFY member as soon as possible. +Also, the simulations indicate that the coastal defense artillery and the military armored trains are both enormous threats to us. If our echelons come within the range of either threat, they will be targets of intense barrage. +Given the fact that we've already suffered considerable casualties in the previous operation, we must do our best to avoid that possibility.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:So the best strategy is to launch a three-way attack and handle the following objectives at the same time – slow down and distract the Military, eliminate the threat posed by the coastal defense artillery, and enter the base to find Ange. +Once these objectives are completed, we'll think about what measures to take against the unknown threats within the base and ultimately fulfill our mission by occupying the facility.
+()<Speaker>Commander</Speaker>||:Looks like we'll have to split up again. +I know that this is another grueling mission, but you have all come a long way. +You now have access to the battle plan, so I won't waste any more time. +Godspeed and return safely. +Move out!
+()<Speaker>Members of the AR Team</Speaker>||:Yes, Commander!
+()<Speaker>Members of Squad 404</Speaker>||:Understood!
+NytoIsomer(4)<Speaker>Dandelion</Speaker>||<黑屏1>:I'm finally on my journey home. What's going to happen next? I can't wait to find out.

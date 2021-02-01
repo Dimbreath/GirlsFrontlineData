@@ -1,0 +1,60 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BGM>BGM_Sneak</BGM><BIN>159</BIN>:...Somewhere in Belgrade.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, M16 will be at our barricade any minute now, won't she...?
+RO635(0)<Speaker>RO635</Speaker>||:Yeah, it's about time.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:I'm really worried. +I don't want M16, or any of our other friends at Griffin, to get hurt... +Why...why must we fight M16?
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:SOP-II... +Don't worry, the Commander will definitely try to help us get M16 back. +Haven't you confirmed the Commander's intentions yourself?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Yeah, the Commander promised not to kill M16.
+RO635(0)<Speaker>RO635</Speaker>||:So let's just focus on our mission for now. +There will be other opportunities.
+()||:...An incoming comms request.
+RO635(0)<Speaker>RO635</Speaker>||:This is RO635. Is something the matter?
+RO635(0);Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>Report from the first barricade - it seems that the Sangvis convoy is attempting to change course to avoid the route that we've sealed off.</color> +<color=#00CCFF>Should we regroup with you?</color>
+RO635(0)<Speaker>RO635</Speaker>;Lewis(0)||:I understand. Please stay where you are for the time being and keep track of Sangvis Ferri and any other enemies. +Keep in touch. We'll send you new directives later.
+Lewis(0)<Speaker>Lewis</Speaker>||<通讯框>:<color=#00CCFF>Copy that. We'll keep our eyes open.</color>
+()||:...Transmission ends.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Is M16...avoiding us on purpose?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Perhaps... But if they want to get out of the city, there's no way they can go around our current location. +SOP-II, we'll definitely get to see her again this time.
+()||<黑屏2>:...In the streets of Belgrade. +Beak's motorbike zooms down the road.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Have we lost her?! +I still can't believe she got away from that one! It was incredible!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Instead of babbling, just keep your attention on the road.
+Beak_M16(0)<Speaker>Beak</Speaker>;M16A1BOSS(0)||:Tsk, who are you to lecture me? +You totally went easy on them, didn't you?! You couldn't have missed from such a short distance!
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Your driving sucks! We keep lurching so much I couldn't have hit an elephant, let alone a Doll!
+Beak_M16(0)<Speaker>Beak</Speaker>;M16A1BOSS(0)||:You let them off the hook! Wait till I see Agent and tell— Huh?!
+Beak_M16(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:What is it?
+Beak_M16(0)<Speaker>Beak</Speaker>||:Another barricade! Griffin again?!
+()||<BGM>BGM_Empty</BGM>:M16 looks ahead and sees two familiar figures standing on top of a truck that's blocking the road not too far away.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>(Why...are they here?)</color>
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:The Sangvis in the driver's seat, stop right there! +M16, get off that weirdly-shaped motorbike this instant!!
+Beak_M16(0)<Speaker>Beak</Speaker>||:Hey, my motorbike is NOT "weirdly-shaped"! +What a rude Griffin Doll! I'm gonna run you over with this NOT-weirdly-shaped bike!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hey, M16?! It's me, SOP-II! +I'm begging you, please get off the bike! If you don't listen, I'll have to do this the hard way!
+()||<SE1>Explode</SE1>:BOOM!!!
+()||<震屏>:SOP-II fires a grenade at the motorbike. The massive explosion flings M16 and Beak into the air.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Dammit, guess I'll just do this—
+()||<黑屏1>:Beak launches a smoke grenade the moment she hits the ground.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:Have they stopped?! +I can't see anything...through this thick smoke...
+()||:...Click.
+RO635(0)<Speaker>RO635</Speaker>||:A comms request? +Hang on, this signal ID...
+AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>RO635, it's me.</color> +<color=#00CCFF>I need your assistance right now.</color>
+()||<黑屏2>:...
+M16A1()||<黑屏1>:Cough...
+()||<BIN>159</BIN><黑屏2>:The air is filled with heavy smoke. M16 gets to her feet and hears a familiar voice from nearby.
+M4A1()||:We've intercepted them... +We managed to catch them in a pincer move thanks to the shortcut I took. +RO and SOP-II are here as well... Come over and regroup.
+Beak_M16(0)<Speaker>Beak</Speaker>||:Darn it! We even made it out of the city, but they still caught us!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:If you have time to moan, then get to work.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||<黑屏1>0,3</黑屏1>:Alright! +All Sangvis units, abort all directives and rally at my location! We must stop the enemies' advance at all cost!
+Low Female Voice()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:What's wrong? I can sense you're getting nervous.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Brain</BGM>:I told you I don't want to hear your voice.
+Low Female Voice()||:So? Are you planning to meet them here? Then watch them be corrupted and assimilated?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Only I...should have to bear that fate...
+Low Female Voice()||:Hahaha, I knew you would say that, which is why I'd like to propose something that might interest you.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:And what would that be?
+Low Female Voice()||:The Pike Node core is with you, correct? +Link your neural cloud to it and I can help you out of your predicament.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...I refuse.
+Low Female Voice()||:Look at your enemies - your former comrades-in-arms and that Griffin Commander. +Do you really have the resolve to fight them to the last person standing? +If you perish here and your friends get their hands on the core, a connection will still be established with the Node, so what's the difference?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...
+Low Female Voice()||:I know you need time to consider if this deal could work to your advantage...but they're getting closer and closer, M16. +If you don't make up your mind, we'll be out of time.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Then what do you offer in exchange? Surely you know I won't agree to obey your command for no good reason.
+Low Female Voice()||:Of course. Here is my offer - you and your new friends will be able to get out of this unscathed. +As for your old friends... Haha, I promise they won't come to any harm either. +I will resolve this peacefully.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...
+Low Female Voice()||:So what do you say?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:I suppose...there's only one answer.

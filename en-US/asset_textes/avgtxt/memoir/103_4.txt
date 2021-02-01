@@ -1,0 +1,102 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>70</BIN><睁眼>:
+()||:Beep, beep, beep... +Upon opening her eyes, the first thing that comes into view is an unfamiliar ceiling.
+()<Speaker>UMP45</Speaker>||:Hmm...
+()<Speaker>???</Speaker>||:Oh...? S-she's awake! I'll check on her now! Go tell the others, Sier. +Hey, can you hear me, 45? Can you see me?
+()<Speaker>UMP45</Speaker>||:Dier... +You don't have to yell; I can hear you just fine.
+NPC-Deele(0)<Speaker>Dier</Speaker>||<BGM>BGM_Room</BGM>:Sigh... What a relief... +You've been unconscious for a whole day after the repair. +Your little friends waiting outside even threatened to break my legs if you didn't wake up any time soon.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's fine. Even with your legs broken, you can still work with your arms. +Still... you've got guts. How did THIS come about?
+()||:Since UMP45 pulled her upper torso into an upright position from the repair bench, she has been hearing a strange whirring noise. +She looks to her right, only to find that her right arm has been replaced by a mechanical arm painted in gunmetal gray. It creaks as she moves it.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I told you not to worry about the costs. Couldn't you find a better model?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:This kind of outdated stuff is frankly an assault to my eyes, but your specs are just too unusual. All the parts manufactured by IOP and other mainstream producers have compatibility issues and are unusable. +So I dug through all the parts I have in the entire depot before I finally found a robotic arm that fits the bill. +Don't be fooled by the scraggy appearance. Its strength is way beyond a normal domestic Doll's. If you're unhappy with it or have other specific needs in the future, I'll forge another custom arm for you.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I see, and these haphazardly placed pieces of tape are also your meticulous handiwork?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Don't belittle that tape. It's been used to patch up spaceships and space stations!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Should I laugh?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Jeez, just be thankful that I managed to find you all the needed parts. +An outlawed T-Doll with wonky specs has no right to complain so much. You should be groveling in gratitude.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Let's say you're right. Then explain these exposed wires.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:A lot of thought went into those innovative modifications! In order for this scrap from the previous century to respond at an acceptable speed, it needs more effective cooling and conduction! +Apart from that, I've expanded your neural cloud capacity and installed an amplifying antenna on your skull for electronic warfare. Furthermore, I've made countless improvements to your external mainframe capacity, battery backup durability, and even network connectivity!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:What... about my eye?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Well... I couldn't find a suitable eyeball, so that's the best I can do for now, okay? I've given you more sensors to compensate. Missing an eye won't matter too much. +Th-the bottom line is, you can't appreciate all the hard work I put in just by looking. Try it out and you'll understand!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Is that so? I suppose I have no reason to make a fuss then.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Huh... You're uncharacteristically reasonable today.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:But I won't just take your word for it. I'll give your masterpiece a full review when the trial period is over, Dier. +I'll pay when I make sure my performance is indeed as good as you say it is.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Argh, I knew it! You didn't mention any trial period before the repair! What if you kick the bucket before it ends?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I won't... +I won't give up hope, nor will I die just like that... You have my word.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:...Where did that come from? Are you really UMP45? +I... I don't remember touching your neural cloud itself. M-maybe this arm is also incompatible and has fried your brains...?
+UMP9(0)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:45! 45!
+NPC-Seele(0)<Speaker>Sier</Speaker>||:Uh, wait! As I said, it's still—
+()||:The door to the repair room swings open again. First to come charging in is 9, who shoves Dier aside and takes UMP45's hand. +Gr G11 stumbles forward and eyes the altered 45 apprehensively.
+UMP9(0)<Speaker>UMP9</Speaker>||<BGM>BGM_Wake</BGM>:Are you okay, 45?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm fine—
+UMP9(0)<Speaker>UMP9</Speaker>||<SE1>ClothingUp</SE1>:Ahhhhh! What happened to 45?! (Seizes Dier by his cuff) Look what you've done to her! Unforgivable!
+NPC-Deele(0)<Speaker>Dier</Speaker>||:The arm is an expedient measure! It's only temporary! It couldn't be helped!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's alright, 9. The arm is quite practical. I'll get used to it.
+UMP9(0)<Speaker>UMP9</Speaker>||:45... +Ja, you're still alive... Nothing could be better!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Sorry for making you worry...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Wow, you actually spoke in my defense...
+G11(2)<Speaker>Gr G11</Speaker>||:45... I thought you were gonna leave us behind again.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:You wouldn't have let me even if I wanted to, would you... +Where's 416?
+()||:UMP45 looks toward the door.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Why isn't she here?
+UMP9(0)<Speaker>UMP9</Speaker>||:45...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:... +Where... has she gone? Didn't she come back?
+()||:A frigid voice comes from behind her.
+HK416(0)<Speaker>416</Speaker>||:How nice of you to think of me.
+()||:...UMP45 turns her head and finds 416 standing behind her.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:When did you sneak in here?
+HK416(0)<Speaker>416</Speaker>||:I was here the whole time... to watch your final moments.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Looks like I disappointed you.
+HK416(0)<Speaker>416</Speaker>||:Don't worry. It would've been boring if you'd died just like that. It's more worth it to ask you a favor the way you are now.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Really? And here I thought you came back to take over as squad leader from me.
+HK416(0)<Speaker>416</Speaker>||:If I wanted to lead T-Dolls, I wouldn't have to stay. You know you can no longer keep me here.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:In that case, do forgive my curiosity... but why ARE you here?
+HK416(0)<Speaker>416</Speaker>||:I'm here because... I need your help. There's something beyond my power... that only you can do.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Oh? The high and mighty 416 is actually asking me for help? Has your massive ego been crushed by cruel reality while I was comatose? Or has 416's neural cloud been taken over by someone else?
+()||<SE1>Rope</SE1>:416 tightens her fists inconspicuously, then loosens them again just as imperceptibly.
+HK416(0)<Speaker>416</Speaker>||:Mock me all you want. I won't withdraw my request.
+()||:45 flashes her usual sly smirk and gives no answer.
+HK416(0)<Speaker>416</Speaker>||:There are times when even T-Dolls have to change. There are also times when change isn't necessarily a bad thing - as in the case of your body.
+()||:45 smiles at that and rotates her mechanical arm.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Then do you like this changed UMP45?
+HK416(0)<Speaker>416</Speaker>||:At the very least, your new arm looks pretty dependable.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:If the skill of making flattery was an indicator to a Doll's capabilities, I'm afraid you'd be sent straight to the dismantling room to be scrapped for parts.
+HK416(0)<Speaker>416</Speaker>||:I'm just afraid that if I were completely honest with you, you'd be knocked out cold again for an entire week.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Give me a hand.
+()||:416 extends her hand with a rare smile.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, a part of me has to stay the same.
+()||<SE1>ClothingUp</SE1>:UMP45 takes 416's hand with her new arm and teeters onto her feet. She looks around at her teammates, partners, and friends...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:So... will you spill the beans about your request already, 416?
+HK416(0)<Speaker>416</Speaker>||:Do you know how you were transported here? +The Griffin Commander helped out a lot to get all of us here safely.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I know; my memory on this is intact.
+HK416(0)<Speaker>416</Speaker>||:The Commander was abducted by enemies of unknown origin after helping you retreat.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...So what you want me to do is...?
+HK416(0)<Speaker>416</Speaker>||:I know you can find a way to locate the Commander. You're the only one who can do that here. +Whatever illegal means you have to resort to, be it gathering intelligence or hacking into networks, as long as you can find the location...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hmm, you seem to know me very well, but please refrain from emphasizing the word "illegal" in the future. +I'm sure you know how challenging this kind of mission would be, and as you also know, Squad 404 never works for nothing...
+HK416(0)<Speaker>416</Speaker>||:I knew you'd say that. Remember the Logistic Officer called Kalina? +She says Griffin just received a new sum from a sponsor, so don't worry about the reward.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I was counting on that. That'll cover the repair bill, Dier.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:So you really don't have enough money on you!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'll need capital to help 416 rescue the Commander. Don't worry, I'm not going to die in debt. +Sier, can you confirm Griffin's commission for us?
+NPC-Seele(0)<Speaker>Sier</Speaker>||:Miss 416 was telling the truth, and they're offering even more money than usual. +Still, we know absolutely nothing about the enemy this time. Will you manage on your own?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:We're the only ones who can manage at all, isn't that right?
+()||<BGM>GF_Memorial</BGM>:...UMP45 puts out a fist with her other arm. She looks around at her companions; the others catch on immediately.
+UMP9(0)<Speaker>UMP9</Speaker>||:Wherever you go, I'll follow!
+G11(0)<Speaker>Gr G11</Speaker>||:It's not like I have anywhere else to be.
+HK416(0)<Speaker>416</Speaker>||:Guess I'll trust you a few more times.
+()||:The four T-Dolls share a fist bump and smile at each other in their own idiosyncratic ways.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's gonna be a proper expedition, girls. Are you ready?
+UMP9(0)<Speaker>UMP9</Speaker>||:Ja, let's go!
+G11(3)<Speaker>Gr G11</Speaker>||:Huh? What's going on? Are we heading out again? 45 literally just woke up; shouldn't she rest up for a bit first?! 
+HK416(0)<Speaker>416</Speaker>||:Move it, Dummkopf! It costs money just hanging around here!
+G11(3)<Speaker>Gr G11</Speaker>||:S-stop kicking me!
+()||<黑屏1>:UMP45 stands with her back facing Sier and Dier and gives them a wave. There is no need to turn around and look. She knows they will meet again.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>9</BIN><黑屏2>:<color=#A9A9A9>UMP40...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>I've started to accept this reality...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>I killed you with my own hands... It was me...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>But I finally understand it doesn't mean that you'll leave me one day. On the contrary, I'll truly become the proof that you've ever existed...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>And you... will become a part of me... and live on forever.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>That's why I must reconcile with the world. I must accept myself. Only then can I embody what you mean to me...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>Only then will you never... truly disappear from my neural cloud.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>Is this the change you spoke of, UMP40?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>Perhaps right now, I'm embarking on the path that you wanted me to walk - the destiny that belongs to both of us.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>So please watch over me. Our change has finally begun.</color>
+()||<黑屏1>:

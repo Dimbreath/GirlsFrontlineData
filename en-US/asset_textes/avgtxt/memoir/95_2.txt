@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>22</BIN><BGM>BGM_Room</BGM>:In the Repair Bay.
+G36(0)<Speaker>Gr G36</Speaker>||:How is she, Miss Kalina?
+G36(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:...Looks like it wasn't scorched after all.+A big part of Ai's neural cloud is encrypted and it's been eating up processing capacity. +Her internal memory is almost full, and if we don't clear it out, she won't be able to make new records.
+G36(0)<Speaker>Gr G36</Speaker>;NPC-Kalin(4)||:So it was a cache issue after all?
+G36(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:That's not all. The same thing is going to happen again unless we delete the encrypted content. +(But just deleting it doesn't seem right either...) +...Just in case, I ought to take a look at it. +Would you like to go back for now, Gr G36?
+G36(0)<Speaker>Gr G36</Speaker>;NPC-Kalin(4)||:I understand. Would you like me to send your coffee over?
+G36(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:I'll head over afterwards.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM><黑屏1>:After watching Gr G36 leave, Kalina puts on her earphones and focuses all her attention on the projector screen of the Repair Bay.
+()||<BIN>9</BIN><黑屏1>:<color=#00CCFF>【Decryption Complete.】</color>+<color=#00CCFF>【Reading Serial Number 2051-01-05...】</color>+<color=#00CCFF>【Beginning playback.】</color>+...
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||<黑屏2>:Is this my test Doll?
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:Yes, 59898 will be boarding the Assault Artillery platform in your place. During the test, all you need to do is give the appropriate commands and she will handle the fine details of control.
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||:That's pretty advanced.
+冷静的男声()<Speaker>Calm Male Voice</Speaker>||:Well, that's what it says in the manual. If she can't do it, we'll have to complain to the supplier.+Now then, I've delivered the goods, so I'll be off now.
+温柔的女声()<Speaker>Gentle Female Voice</Speaker>||<黑屏1>:See you. +My, she really is cute. +Let me see, according to the manual, the startup command is... +"Good morning, 59898."
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>18</BIN><睁眼><BGM>GF_Memorial</BGM>:Blonde hair and blue eyes, she really does match the standards of beauty in this part of the world... Still, it's not bad. +Hello, my very own test Doll.
+TestPilot(0)<Speaker></Speaker>||:<color=#00CCFF>【Recording visual input.】</color>+<color=#00CCFF>【Login complete.】</color>
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:...<c>(Touch)<c>...
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:Good morning. Now, as for my first order... Here, rather than touching my face, you should be shaking my hand.+Time is tight, so let's go look at the mech you'll be piloting after this.
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:...What a cold test Doll. Time is tight, so let's go look at the mech you'll be piloting after this.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||<黑屏1>:【Need for movement detected.】+【Commencing owner automatic follow mode.】
+格琳()<Speaker>Kalina</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:And the rest of this is all combat data... "Assault Artillery" test records from 2051?+Doesn't seem useful. Let's back it up first. +Hm, and after that is...
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【Serial Number 2051-01-06.】</color>+<color=#00CCFF>【Reading Data... Beginning Playback.】</color>
+()<Speaker></Speaker>||<BIN>73</BIN><睁眼>:【Owner idle status detected.】+【Make contact?】
+88typePilot(0)<Speaker>59898</Speaker>||<BGM>BGM_Wake</BGM>:......<c>(Stand by)<c>(Touch)
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:(Sigh) +At this rate... I'll...
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||<分支>1</分支>:【Owner depressed status detected. Executing Comfort mode.】
+88typePilot(0)<Speaker>59898</Speaker>||<分支>2</分支>:【Owner depressed status detected. Executing Comfort mode.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<震屏>:Whoa! +...You scared me, 59898. +While your hands are very soft, you don't need to pat my head like that. I'm fine.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:【Detecting conversational direction...】+【Executing: Head-tilt.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:You want to know why? +Oh, it's no big deal. It's just that when I look around, I'm the only Chinese person in Base 3303. +...Unlike a war refugee like me, it seems everyone is here in order to fight. I'm the only one who has to eke out a living here because I can't go back.+Do you know how far this place is from China?
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:【Query received. Searching...providing data.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:Yeah, that far. All the travel routes heading there have been sealed because of the war...+The only one that's still running is so expensive I can't afford a ticket for it.+I'll go back once I make enough money over here.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:【Unable to respond to query. Executing - Imitation of a human's puzzled expression.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:...What nonsense am I talking.+Still, if only you could speak... At least that way, I'm sure that...+I wouldn't feel as lonely as I do now.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:【Owner mood improvement detected. Executing - Further observation.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:It's alright, I'm happy just knowing that you're listening to me.+It feels weird to keep addressing you by your serial number, though.+Ah, I've got it! What if I gave you a new name?
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:...<c>(Tilt head)<c>(Nod)
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:Like, a proper human name. Just like mine; my name is ■■■...
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>1</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>WARNING - Data corrupted, please select (R)eload or (S)kip.</color>+<color=#00CCFF>Reloading...</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:Like, a proper human name. Just like mine; my name is ■■■...
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>1</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Data corrupted, please select (R)eload or (S)kip.</color>+<color=#00CCFF>Skipping...</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:So it'd be easier to address you if you had a human name too.
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:Really? You want a new name too, right?! Just like how my name is ■■■...
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>2</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>WARNING - Data corrupted, please select (R)eload or (S)kip.</color>+<color=#00CCFF>Reloading...</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:Really? You want a new name too, right?! Just like how my name is ■■■...
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>2</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Data corrupted, please select (R)eload or (S)kip.</color>+<color=#00CCFF>Skipping...</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:In that case, let me think of one...+My birthplace was also known as Jiangcheng. I'll call you Jiangcheng Ai, how about that?
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:【Name changed from 59898 → Jiangcheng Ai.】+【Executing - Confirmation.】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:That's it, then!+Jiangcheng Ai, or Ai!+Anyway, since these aren't working hours, why don't we give you a change of clothes? How about my maid outfit from my previous job? Or maybe you'd rather have casual clothing like mine?
+TestPilot(0);88typePilot(0)<Speaker>Jiangcheng Ai</Speaker>||<黑屏1>:【Executing - Imitation of a human smile.】
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>【Serial Number 2051-01-06 Playback Complete.】</color>

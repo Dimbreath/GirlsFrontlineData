@@ -1,0 +1,112 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM><黑屏2>:...Inside the Griffin base. +In the command room.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:In light of my analysis on the base's financial situation, I'd advise you to carefully consider your candidates for this mission, Commander. +Whatever happens, we need to please our client. We can't afford to have any more violent incidents, otherwise all our losses will be coming out of your paycheck.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||<黑屏1>:Seriously, how does our budget keep disappearing so fast...
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:... +In the café.
+()<Speaker></Speaker>||:My headache from pulling all-nighters is bad enough, and now I've got more trouble on my hands.
+()<Speaker>Commander</Speaker>||:Nobody really comes to mind when you suddenly ask me who to send... <c>Why am I not a woman? <c>I might as well nominate myself and Kalin...
+()<Speaker>Commander</Speaker>||<分支>1</分支>:Why am I not a woman? This wouldn't have been a problem if I were a woman!
+()<Speaker>Commander</Speaker>||<分支>2</分支>:I might as well nominate myself and Kalin... Here I am, a young woman of a marriageable age who's never worn a wedding dress before.
+()<Speaker>Commander</Speaker>||:How annoying. So where the hell did the budget for the base go...
+()<Speaker></Speaker>||:I walk from my office to the base's parade square with these questions in my head, and before I knew it, I've wandered over to the cafe's door. +If there were a mirror here, I would have realized that I look every bit as tired and frustrated as the Doll who's come up to welcome me.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:...
+GepardM1(0)<Speaker>Commander</Speaker>||:...
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:...Um, szia, Commander.
+GepardM1(0)<Speaker>Commander</Speaker>||:You look like you've been up for ten nights straight...are you okay?
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:Ah...I'm fine, it's just that for some reason, my schedule's been so packed lately I can't even find the time to rest... Fortunately, I finally got everything out of the way. +You came right on time. I was just thinking about submitting a leave request...
+GepardM1(0)<Speaker></Speaker>||:Gepard also looks really tired. Are we're running low on manpower due to a shortage of funds...? +As I look at Gepard's eyebrows, which are perpetually furrowed into an inverted V, an idea suddenly comes to mind.
+GepardM1(0)<Speaker>Commander</Speaker>||:Given our present situation, I can't give anyone time off... +Ahem, still, this is quite a coincidence. As it happens, I have some easy work for you. Are you interested?
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:...Can work really be easy?
+GepardM1(0)<Speaker>Commander</Speaker>||:Aha! You're about to find out. +Basically, all you'll have to do is dress up nice and pretty, have nice and pretty photographs taken, and walk around looking nice and pretty. +What do you think?
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:That really does sound...pretty easy, I guess?
+GepardM1(0)<Speaker>Commander</Speaker>||:Well, we don't run a sweatshop here at Griffin, and as the one who assigns missions, it's my fault for overwhelming you with so much work. +Which would you prefer, an unpaid vacation or doing easy work for easy money?
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:I-I'll go with the second option... +You aren't scamming me, are you, Commander...?
+GepardM1(0)<Speaker>Commander</Speaker>||<黑屏1>:What nonsense, how could I trick my dependable subordinates? +Besides, I'll be going too. If you think I coerced you, you're free to slug me one. +So it's a deal, then? Come, let's head over to the command room to fill in a few forms...
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2>:...Several days later. +Backstage at the fashion show.
+()<Speaker></Speaker>||:Gepard and the other Dolls have been sent to prepare for the job in the backstage dressing room on the first day of the mission. +As Gepard waits for her turn on the side, she watches her colleagues sitting quietly on their chairs with staff members fussing around them, and breathes a sigh of relief.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:Looks like this job is really going to be easy after all. I don't need to tidy up documents and I don't need to play a maid either...
+GepardM1(0)<Speaker>Makeup Artist</Speaker>||:Excuse me, Miss...
+GepardM1(0)<Speaker>Gepard M1</Speaker>||<震屏>:...!
+GepardM1(0)<Speaker>Makeup Artist</Speaker>||:Oh, I'm sorry, did I startle you?
+GepardM1(0)<Speaker></Speaker>||:Just as Gepard is idly congratulating herself on her good fortune, she jumps at the sudden voice that just spoke into her ear and stumbles a few steps back. +As she sees that it is a makeup artist, Gepard waves her hands sheepishly.
+GepardM1(0)<Speaker>Makeup Artist</Speaker>||:Hah, just as well then. Please come with me to the dressing room next door, we're going to start styling you now.
+GepardM1(0)<Speaker>Gepard M1</Speaker><Shake>||<黑屏1>:Mm... Please do...
+()<Speaker></Speaker>||<黑屏2>:...An hour later. +In the dressing room.
+()<Speaker></Speaker>||:Compared to the tremendous relief she had felt when she first arrived, Gepard's feelings are now somewhat ambivalent.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:<color=#A9A9A9>I'm stiff all over... I can't feel my butt anymore...</color>
+GepardM1(0)<Speaker></Speaker>||:It's been an hour since she entered the room and Gepard hasn't changed her posture ever since she took her seat. +She hasn't even begun the process of putting on her wedding dress yet.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:<color=#A9A9A9>I wonder if I'll disrupt the makeup artist's work if I move just a little...</color>+<color=#A9A9A9>But we just finished applying the makeup, why do we have to do it all over again?</color>
+GepardM1(0)<Speaker></Speaker>||:As Gepard grows increasingly restless, she peeks at the figure standing behind her reflection in the mirror. +From what she can see, the person is studying Gepard's image in the mirror intently.
+GepardM1(0)<Speaker>Designer</Speaker>||:Yes...this feels right. The dress she's going to wear is more subdued, and that eyeshadow she had on just now was too striking. +As for her hair...let's change the style. No need to be too prim, try a slightly loose braid. +Our previous makeup drafts need to be reworked...
+GepardM1(0)<Speaker></Speaker>||:That person continues commenting from time to time, causing the work on Gepard's face and hair to be altered again and again.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||<黑点1>:<color=#A9A9A9>Why is styling such a drag? Back at the base, I saw the other Dolls do their makeup in five minutes...</color>+<color=#A9A9A9>Oh, my legs. I can't feel my legs...</color>
+()<Speaker></Speaker>||<黑点2>:Gepard doesn't know how long she's been sitting there, but finally the designer nods twice, then moves on to another mirror, standing beside another Doll in the middle of being dressed up.
+GepardM1(0)<Speaker>Gepard M1</Speaker>||:Whew...my legs are numb... Is it finally over?
+()<Speaker></Speaker>||:Another staff member comes over from the side.
+()<Speaker>Designer</Speaker>||:Yes, miss. We'll be trying on the wedding dress now.
+GepardM1(0)<Speaker>Gepard M1</Speaker><Shake>||<黑点1>:Mm... I'll leave that to you...
+()<Speaker></Speaker>||<黑点2>:...15 minutes later. +As she stands in front of the full-length mirror, watching the reflected image of the stylist adjusting her veil, Gepard's eyebrows begin to furrow again.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||<黑屏1>:<color=#A9A9A9>For some reason...or should I say "as I expected"...it feels like the commander tricked me again...</color>
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2>:...Several days later. +On the runway.
+GepardM1(4)<Speaker></Speaker>||:Gepard gingerly holds up the hem of her dress in one hand and carries her bouquet in the other as she walks stiffly down the glass catwalk.
+()<Speaker>Designer</Speaker>||:Wait!
+()<Speaker></Speaker>||:At the designer's command from below the stage, Gepards stops dead in her tracks.
+()<Speaker>Designer</Speaker>||:Um, you don't have to hold up your skirts, you know? Just hold the bouquet in both hands. +And try to relax when you walk. Let's do it again. 
+GepardM1(4)<Speaker>Gepard M1</Speaker><Shake>||:O-okay...
+GepardM1(4)<Speaker></Speaker>||:Gepard returns to her starting position and sighs.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:<color=#A9A9A9>That's easier said than done...</color>+<color=#A9A9A9>We've practiced the runway walk about ten-odd times already. How am I supposed to walk in a more relaxed way...?</color>
+()<Speaker></Speaker>||:When I enter the show area, I see Gepard walking down that long ramp over and over again, with a martyr's resolve on her face.
+()<Speaker>Commander</Speaker>||<黑点1>:Gepard seems to be in much better shape than she was back in the base, but what's with that expression of hers...?
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:After Gepard's rehearsal is over, I wave to her from the audience and walk up to her. +As I draw close, I see Gepard glaring at me...with a combination of resentment and "I knew it".
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:So it's you, Commander... Jó napot.
+GepardM1(4)<Speaker>Commander</Speaker>||:Ahem, I'll walk you to the break room... +What do you think of this mission?
+GepardM1(4)<Speaker></Speaker>||:Gepard looks at me balefully and sighs.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||<BGM>BGM_Moon</BGM>:This isn't anything like what you said it would be...
+GepardM1(4)<Speaker>Commander</Speaker>||:What happened?
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:I have to sit down for so long every day for makeup my butt goes numb. +Wearing the wedding dress is a chore too, and I have to be careful about it each time. +This isn't easy work at all, you should have just given me no-pay leave, Commander...
+GepardM1(4)<Speaker>Commander</Speaker>||:But...all you need to do is look pretty. Surely that counts as easy? +And the rest is just taking a few pictures and walking around, right?
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:Hey, don't even get me started on the photo shoot, Commander. My head's starting to ache again. +It is just so exhausting! +I need to change poses all the time, and the photographer keeps muttering "don't look like you're in pain" or "please try not to look like you're about to cry..." +That prop must be my sworn nemesis. If I had to hold a bouquet, I'd rather lie flat on the ground than stand upright...
+GepardM1(4)<Speaker>Commander</Speaker>||:Hey, that doesn't sound like a very joyous occasion!
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:(Sighs) At least the photo shoot is almost done. I never want to take another picture in my life again...
+GepardM1(4)<Speaker>Commander</Speaker>||:I didn't get that feeling when I was checking out how the work was going at the studio, you know. 
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:Hm?
+GepardM1(4)<Speaker>Commander</Speaker>||:The photos you took all came out beautiful.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:I'm not going to feel better just because you praise me, you know.
+GepardM1(4)<Speaker>Commander</Speaker>||:It's like how what's-his-name...that 17th-century mystic poet put it. +"The rose is without 'why'; it blooms simply because it blooms. It pays no attention to itself, nor does it ask whether anyone sees it."
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:I'm not going to feel better either just because you praise me in a roundabout way with things I don't understand, you know.
+GepardM1(4)<Speaker>Commander</Speaker>||:I was simply stating the facts.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:...About what?
+GepardM1(4)<Speaker>Commander</Speaker>||:About how the things you're doing are worth it from an objective point of view. The same goes for you yourself. +Anything valuable come with a price, and the fatigue you're feeling now is that price.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:But is "exhaustion" really worth it? I don't know... +I just want to close my eyes and lie peacefully on a bed of flowers...
+GepardM1(4)<Speaker>Commander</Speaker>||:Stop imagining that at once! That scenario is really grim!
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:I'm too tired to bash you either... +In any case, please take my leave request into consideration once this mission is over...
+()<Speaker></Speaker>||:Gepard listlessly nods at me and heads back to the dressing room.
+()<Speaker>Commander</Speaker>||:Should I go up and give her a bit more encouragement? +Perhaps...she needs to think it through herself... +Still, is wearing makeup and having your picture taken really so tiring?<c>Good thing I didn't go myself... <c>Thank goodness I didn't ask Kalina to make up the numbers, she would have robbed me blind...
+()<Speaker>Commander</Speaker>||<分支>1</分支><黑屏1>:Good thing I didn't go myself...
+()<Speaker>Commander</Speaker>||<分支>2</分支><黑屏1>:Thank goodness I didn't ask Kalina to make up the numbers, she would have robbed me blind ...
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Empty</BGM>:... +In the dressing room.
+()<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:Gepard pushes the door open and is surprised to see Gr Mk23 spacing out in front of the mirror.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:Oh, you're here too, Gr Mk23.
+()<Speaker></Speaker>||:Gepard greets Gr Mk23 wearily.
+Mk23(6)<Speaker>Gr Mk23</Speaker>||:You don't look well... Is something the matter? Are you feeling alright?
+()<Speaker></Speaker>||:Gepard gloomily responds to Gr Mk23's question. +Gr Mk23 drags her in front of the mirror, and the bright lights dazzle Gepard's eyes. +After some gentle coaxing from Gr Mk23, Gepard finally lets out all the troubles which have been plaguing her for several days. +Not just what she told the Commander, but also more emotional complaints that only come up in girl talk.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:...And that's how it is. I'm tired every day, it's just like working overtime all the time! +(Groans) In any case, it's all Commander's fault! +I ended up in this situation because I was deceived by Commander's definition of "easy work"...
+()<Speaker></Speaker>||:Having spilled all these things that she couldn't bring herself to say out loud in front of the commander, Gepard feels somewhat better now.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:<color=#A9A9A9>Well, no matter what, the work still needs to be done...</color>+<color=#A9A9A9>I should just tough it out and go on a vacation afterwards...</color>
+GepardM1(4)<Speaker></Speaker>||:As Gepard becomes lost in thought, Gr Mk23 suddenly turns her around and makes her look at her reflection in the mirror.
+GepardM1(4);Mk23(6)<Speaker>Gr Mk23</Speaker>||:Don't you think you look pretty, Gepard?
+GepardM1(4)<Speaker>Gepard M1</Speaker>;Mk23(6)||:I... 
+Mk23(6)<Speaker>Gr Mk23</Speaker>||:Trying on makeup is a chore. Finding my best angle is also a chore. Don't even get me started on walking the runway again and again till the designer is satisfied. +But if you think about it, the fact is that we Tactical Dolls now have a rare chance to show off our charm beyond fighting and killing on the battlefield. +Gepard, you've been thinking of the whole thing as a sort of "drudgery" all this while, right? Why don't you try thinking of it as a "reward" for once? +Even if just for your own sake, cheer up a little.
+()<Speaker></Speaker>||:Gepard studies her own reflection in a bit of a daze. +During the last two weeks, she has spent almost every single day staring at that face in the mirror. +Still, she can't deny the fact that every time she sees herself, she feels a vague sense of surprise..
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:<color=#A9A9A9>It's true that I never thought I would ever wear bridal makeup.</color>
+()<Speaker></Speaker>||:Gepard turns to look at Gr Mk23.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:Even when you sit until your butt goes numb and you do the catwalk until your legs go stiff, you don't mind? +Like, you still believe it to be a..."reward"...
+()<Speaker></Speaker>||:Gr Mk23 covers her mouth and chuckles.
+Mk23(6)<Speaker>Gr Mk23</Speaker>||:Of course...that's because I feel it's all worth it.
+GepardM1(4)<Speaker>Gepard M1</Speaker>;Mk23(6)||:I don't know if it's worthwhile or not, but to be frank, I do feel very good when I put on these clothes, and the makeup IS very pretty... +Though my fatigue drowns out the happiness soon enough... +Still, I don't think I've ever done anything just for myself...
+GepardM1(4);Mk23(6)<Speaker>Gr Mk23</Speaker>||:That's true, I always see you working overtime, Gepard.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||:That's so I can apply for long vacations! +Though my vacations usually involves lying in bed without saying a word...
+GepardM1(4)<Speaker></Speaker>||:Gepard turns back to her melancholic face in the mirror and takes a deep breath.
+GepardM1(4)<Speaker>Gepard M1</Speaker>||<黑屏1>:My legs are aching after my rehearsals just now, and I'm too tired to even straighten my back, but...köszönöm, Gr Mk23. I feel a lot better now. +There's nothing wrong with being happy about looking this pretty...wouldn't you say so?
+()||<BIN>9</BIN><黑屏2>:...+As I sneak away from the door and down the corridor, I breathe a sigh of relief.
+()<Speaker>Commander</Speaker>||<黑屏1>:Alright, after this mission's over, I'll go plan out a certain someone's vacation. +Yeah, I wouldn't mind taking part in it either... +After all, if it's just lying wordlessly in bed... Wait, that doesn't sound right at all...

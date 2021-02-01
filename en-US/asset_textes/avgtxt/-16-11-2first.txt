@@ -1,0 +1,44 @@
+()|||<BIN>99</BIN><BGM>BGM_Brain</BGM><Night>:...The battle ends.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4, that's enough. Those are friendlies up ahead. +They're members of Task Force DEFY, Ange and AN-94.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
+AK12(0)<Speaker>AK-12</Speaker>||:Nice work, AN-94.
+AN94(0)<Speaker>AN-94</Speaker>||:...It's nothing. It is the least I could do.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Ange, you actually came over in person.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:That's right, I'm a good boss who doesn't balk at risking her life to protect her people. How about some thanks?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:(Sighs) That's just like you, and who am I to say anything about it? +Anyway, here's our new member, as you wanted.
+NPC-Ange(0)<Speaker>Angelia</Speaker>||:... +Looking good. It seems the final neural upgrade went very well... +Didn't it, M4A1?
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...How do you do, Miss Ange. + I am M4A1, awaiting your orders.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||:No need to be so formal, you're one of us already.
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I am very grateful for the help you gave me earlier.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||:That's fine. What matters is that you're safe, otherwise someone would yell at me. +Also...
+NPC-Ange(0);M4A1Mod(0)||:
+()||:Ange glances at the case left behind by M16, currently on M4A1's back.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||:...So you actually brought this thing over.
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Miss Ange, what's inside this case?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||:...Do you want to know?
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yes, but I can't open it, no matter what I do.
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||<黑屏1>:Well, of course you can't open it. That's simply because you're mistaken about its nature.
+()||<BIN>9</BIN><黑屏2><SE1>ClothingUp</SE1>:Ange takes the case from M4A1. +She presses her thumb to the biometric scanner. +...Click! Click!
+M4A1()<Speaker>M4A1</Speaker>||:This...this is!
+()||:...The case changes shape and becomes a weapon that looks like a cannon.
+安洁莉娅()<Speaker>Angelia</Speaker>||<黑屏1>:This case was originally a miniature fire support platform made using a Sangvis Ferri technical design. +Only authorized human beings can activate it. T-Dolls can't use it by themselves.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏2><BIN>99</BIN><Night>:A Sangvis Ferri...miniature fire support platform...? +Miss Ange, can you teach me how to operate this thing?
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(3)||:Hmm, judging by the ammo count, +M16 never used it, which is good. +If possible, I hope you'll never have to use this either. +I'll only permit it when there's no other alternative. Got it?
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yes...
+NPC-Ange(0);M4A1Mod(0)<Speaker></Speaker>||:...
+NPC-Ange(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:(Last time...and even now...) + (Miss Ange feels very familiar to me...Why is that?) + (What's this feeling?) + (It's just like...) + (I've seen something like this before...)
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(0)||:AK-12, AN-94, did you find anything new in the central database earlier? Let's put our information together.
+NPC-Ange(0);AK12(0)<Speaker>AK-12</Speaker>||:We found some interesting files, but what AN-94 discovered was sufficiently comprehensive.
+AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||:No...I'm sure you could have found files that were buried deeper, AK-12.
+AN94(0);AK12(0)<Speaker>AK-12</Speaker>||:I doubt it. Given the way Parapluie's completely spread now, even simple searches are gonna be hard. +AN-94, do you still have a way to connect to Level II?
+AN94(4)<Speaker>AN-94</Speaker>;AK12(0)||:I can't, the interference is too strong now. I wouldn't be able to do anything even if I got in. +I'm sorry, AK-12...I...
+AN94(4);AK12(0)<Speaker>AK-12</Speaker>||:That's fine, you were never meant for this sort of thing in the first place. In any case, you did well.
+AN94(4)<Speaker>AN-94</Speaker>;AK12(0)||:Mm...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;AK12(0)||:The things you can do on a safe circuit are limited to begin with. We'll wait for the pros to show up and let them handle the rest.
+NPC-Ange(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Ange, by pros, do you mean...
+NPC-Ange(0)<Speaker>Angelia</Speaker>;AR15Mod(5)||:That's right. They're the only ones who can operate on Level II without regard for Parapluie's interference. +Also, AK-12, set up another signal blockade when the time comes. That way we'll know what the Military's up to.
+NPC-Ange(0);AK12(0)<Speaker>AK-12</Speaker>||:Acknowledged.
+NPC-Ange(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Who are "they"?
+NPC-Ange(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Ange's personal black ops squad. You should've heard of them and the rumors about them... +The squad which "doesn't exist."
+NPC-Ange(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Doesn't exist... +Ah, it's them!
+NPC-Ange(0)<Speaker>Angelia</Speaker>;M4A1Mod(3)||<黑屏1>:That's right. +It's my Squad 404.

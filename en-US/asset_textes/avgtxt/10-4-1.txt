@@ -1,0 +1,43 @@
+()||<BIN>8</BIN><BGM>BGM_Room</BGM><黑屏2>:Half an hour later.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BIN>8</BIN>:Commander, Captain Yegor is on the line. Their combat units are all in position. Should I patch it through to the command center? +Alright! Coming through!
+NPC-Kalin(0);NPC-Yegor(2)<Speaker>Yegor</Speaker><通讯框>||:Griffin Commander, the Military forces have entered the Parapluie zone. We are currently setting up an interference neutralizer, which will render the Parapluie virus completely ineffective once activated. +I need your troops to protect it.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>;NPC-Yegor(2)||:What will the Military units be doing in the meantime?
+NPC-Kalin(0);NPC-Yegor(2)<Speaker>Yegor</Speaker>||:They will be advancing towards the heart of Sangvis territory. I believe both parties are allocated suitable duties. Any objections? +...No? Good. +Sangvis forces have already taken notice of our equipment and are moving in to surround it. Your troops must destroy them in due haste.
+NPC-Kalin(4)<Speaker>Kalin</Speaker>;NPC-Yegor(2)||:Isn't this a bit difficult...with only our echelons, Commander?
+NPC-Kalin(4);NPC-Yegor(2)<Speaker>Yegor</Speaker>||:That's an order. It must be done.
+NPC-Kalin(4)<Speaker></Speaker>||:Captain Yegor terminates the call.
+NPC-Kalin(3)<Speaker>Kalin</Speaker>||:How inconsiderate...
+NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Ah, the AR Team is hailing us!
+NPC-Kalin(2);M4A1(2)<Speaker>M4A1</Speaker><通讯框>||:Commander, we've just arrived at the coordinates you sent us. I'll hand over to RO to explain the situation.
+NPC-Kalin(2);RO635(0)<Speaker>RO635</Speaker><通讯框>||:Commander, we've pinpointed the location of the paralyzed military units discovered around the anti-interference equipment! +I believe they were forcibly disconnected after being hacked by Sangvis Ferri.
+NPC-Kalin(0)<Speaker>Kalin</Speaker>;RO635(0)||:You found them? That's great!
+NPC-Kalin(0);RO635(0)<Speaker>RO635</Speaker>||:I asked SOP-II to get us one of the signal repeaters destroyed by S.F., which can hopefully help us restore control over the military units. +If the Military is willing to direct them in protecting the interference neutralizer, it'll make our job a lot easier...
+NPC-Kalin(0)<Speaker>Kalin</Speaker>;RO635(0)||:Yes, Commander! Connecting to the Captain's channel!
+NPC-Kalin(0);M4A1(2)<Speaker>M4A1</Speaker><通讯框>||:Captain Yegor?
+NPC-Yegor(2)<Speaker>Yegor</Speaker><通讯框>;M4A1(2)||:Looks like you're getting down to business.
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||:Thank you for your help earlier, but now we have a new favor to ask. +We found several paralyzed military units, if you could...
+NPC-Yegor(2)<Speaker>Yegor</Speaker>;M4A1(2)||:I've learned of your situation. +Our forces have already vacated the area where the equipment is located, so we are unable to aid you by directing those units.
+NPC-Yegor(2);RO635(0)<Speaker>RO635</Speaker><通讯框>||:We only need you to activate the basic firing protocol! +If they could at least give us some cover...
+NPC-Yegor(2)<Speaker>Yegor</Speaker>;RO635(0)||:That's impossible.
+NPC-Yegor(2);RO635(0)<Speaker>RO635</Speaker>||:What do we do now, M4A1...?
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker><通讯框>||:Then with permission, Captain Yegor, may we...borrow them for a bit?
+NPC-Yegor(2);RO635(0)<Speaker>RO635</Speaker><通讯框>||:Huh?
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker><通讯框>||:If the Military cannot spare anyone to direct them, we'll do it ourselves. You don't want Sangvis Ferri to destroy the equipment, do you, Captain?
+NPC-Yegor(2)<Speaker>Yegor</Speaker>;M4A1(2)||:... +Permission granted. +Those units were disposables with the sole purpose of defending against Sangvis electronic assault in the first place. +Use them as you please, though I highly doubt you possess the technological compatibility.
+NPC-Yegor(2);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:Then...can we let our Commander direct them?
+NPC-Yegor(2)<Speaker>Yegor</Speaker>;NPC-Kalin(0)||<黑屏1>:The Griffin Commander must focus on protecting the interference neutralizer. That's your order. +Other than that, do as you see fit.
+()||<BIN>98</BIN><黑屏2><BGM>BGM_Empty</BGM>:Five minutes later.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Huh? Are you certain? +You sure it's a good idea to forcibly establish a link with these military units...?
+M4A1(0)<Speaker>M4A1</Speaker>||:We don't have any other choice. If the interference neutralizer is destroyed, the whole operation will be set back. +RO, the odds aren't in our favor to begin with. We must work with whatever we have.
+RO635(0)<Speaker>RO635</Speaker>||:I understand... Theoretically speaking, the Zener Protocol should be compatible, +but it might overload your neural cloud. Do you think you can deal with it?
+M4A1(0)<Speaker>M4A1</Speaker>||:Don't worry about me. Do your part.
+RO635(0)<Speaker>RO635</Speaker>||:I was literally made to worry about you, M4. +I couldn't wait to see what kind of T-Doll you are before I met you, but now that you're finally here in the flesh, you're completely different than what I imagined.
+M4A1(0)<Speaker>M4A1</Speaker>||:In what way, good or bad?
+RO635(0)<Speaker>RO635</Speaker>||:SOP-II always said you were a very gentle T-Doll, but I think you're a lot tougher than you seem.
+M4A1(0)<Speaker>M4A1</Speaker>||:Gentle, you say...?
+RO635(0)<Speaker>RO635</Speaker>||:You may have changed. +But no matter what you were like in the past, right now, you're more suited for the battlefield, as well as for command.
+M4A1(0)<Speaker>M4A1</Speaker>||:...Thanks. Are we set to make the connection?
+RO635(0)<Speaker>RO635</Speaker>||:Yes, M4A1. Are you sure you're ready for this?
+M4A1(0)<Speaker>M4A1</Speaker>||:Affirmative.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Then let's do this.
+()||<黑点2><BIN>10</BIN>:

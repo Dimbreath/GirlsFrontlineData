@@ -1,0 +1,14 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:...SOP-II chooses to sneak into the Sangvis reserve outpost and steal an auxiliary power supply.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Found it! Now RO can—
+()||<闪屏><duration>5</duration></闪屏>:
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:...Boom!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! What's that sound?! 
+SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>Excellent, that remaining batch of Griffin trash has been cleared away.</color>+<color=#00CCFF>Except for...one last scrap.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:...Scarecrow!
+SOPIIDamage(3);BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||:<color=#00CCFF>Why are you hiding in our warehouse?</color>+<color=#00CCFF>Did you think the most dangerous place would be the safest?</color>+<color=#00CCFF>Then again, you did delay your death by quite a bit thanks to the sacrifice of your friends.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Shut up, you bitch! +I'll kill you in ways you can't even imagine!
+SOPIIDamage(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>By all means. After all, we're both just...doing our jobs.</color>+<color=#00CCFF>Wiping out those trash. Wiping you out. It's all the same to me.</color>
+SOPIIDamage(3)<Speaker></Speaker>||:...
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Scarecrow can't have many minions left after that battle just now... +I've still got a chance to beat her...+I need to defeat her... +In order to avenge everyone and get out of here alive!
+()||<黑点2><BIN>10</BIN>:

@@ -1,0 +1,43 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2><SE1>Runstep</SE1><BGM>BGM_Hello</BGM>:On a certain afternoon, at the Café's doorway.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Good afternoon, lovely ladies~+Did you have a good rest? Did I make it in time for your shift?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(1)||:You seem to be in a good mood today, Miss Kalina.
+88type(0);NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Of course! I finished writing aaaalllll the combat reports for today!+Now I can spend the afternoon here in a leisurely manner and nobody's going to give me grief for it.
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(1)||:Congratulations. Now then, what would you like, Miss Kalina?
+88type(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:While it's not often that I get the chance to idle around and do nothing without having to hide myself, it's best to keep a clear head. +Since the time for afternoon naps has passed, I'll have a special-brew latte.
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(3)||<SE1>AVG_whitenoise</SE1>:■■■
+88type(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM>:...Ai?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(3)||:■■■
+88type(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BGM>BGM_Room</BGM>:Ai? Can you hear me?+Can you see what I'm doing?+...Did she crash?
+88type(0);G36(0)<Speaker>Gr G36</Speaker>||:Good afternoon, Miss Kalina.+I heard some noise at the front counter. Is something the matter?
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;G36(0)||:Ai's crashed. Is it because of the heat? But the Café is air-conditioned, so that shouldn't have happened.
+NPC-Kalin(2);G36(0)<Speaker>Gr G36</Speaker>||:In truth, Type 88 has been crashing quite frequently. The first time was about a month ago, but she recovered soon afterwards. +Her situation has been getting worse over the course of the past month. Springfield and I have urged her to go in for maintenance.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>;G36(0)||:Huh? But I haven't received any maintenance requests on my end.
+NPC-Kalin(2);G36(0)<Speaker>Gr G36</Speaker>||:That's the problem. It's possible that she might not have the habit of regularly clearing her neural cloud, leading to memory loss. +And since she insists on working, I have no reason to chase her away.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;G36(0)||:...Gr G36, you really are too soft-hearted.
+NPC-Kalin(0);G36(0)<Speaker>Gr G36</Speaker>||:What do you mean?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;G36(0)||:It's nothing. My guess is her cache is overloaded and her neural cloud can't take it. Let's start her up again and see how it goes.
+NPC-Kalin(0);G36(0)<Speaker>Gr G36</Speaker>||:If you don't mind.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;G36(0)||<BGM>BGM_Empty</BGM><黑屏1>:Just doing my job. +(Still, this neural cloud is really old. How strange. Are Griffin neural clouds really this bad?)
+()<Speaker>Kalina</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Right, I've restarted her.+And now, open your eyes...
+汉阳造()<Speaker>Type88</Speaker>||<BIN>80</BIN><睁眼>:Mmm...
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Morning, sleepyhead. How do you feel?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(0)||<BGM>BGM_Truth</BGM>:...+Did I oversleep? My head hurts... I still need to get back to school tonight for classes.
+88type(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(2)||:Excuse me, but who are...
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(2)||<震屏>:Whoa! What am I doing sitting down?! +I'm sorry, please pardon my rudeness! Welcome to the Jiangcheng Café! I'm Maid No. 88, Ai, at your service!
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Jiangcheng Café? Ai, what are you talking about?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(4)||:Huh...are you not customers?
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Well, I'm sort of a customer, but... Ai, do you remember who you are?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(4)||:What a strange question to ask, dear customer. +I'm Ai, am I not? +Don't tell me you're not a customer of Jiangcheng Café?
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:...Jiangcheng?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(4)||:Ah, you must be unfamiliar with the Jiangcheng Café. Allow me to give you a brief introduction.+We're a themed Café that opened last year, providing services to customers of all ages. Recently, our theme has been maids and butlers, so please enjoy your afternoon teatime as nobles to your heart's content.
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Last year?
+88type(0)<Speaker>Type88</Speaker>;NPC-Kalin(4)||:Yes, we opened our doors in 2023. Although we haven't been around for long, we take great care in our service, so I hope you ladies will enjoy your experience.
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:... +This looks bad.
+88type(0);G36(0)<Speaker>Gr G36</Speaker>||:Is her neural cloud scrambled?
+88type(0)<Speaker>Type88</Speaker>;G36(0)||:What are you talking about?
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Crap, what if forcibly restarting her after a crash scorched her neural cloud? +Gr G36, help me get her to the Repair Bay!
+88type(0);G36(0)<Speaker>Gr G36</Speaker>||:Understood.
+88type(0)<Speaker>Type88</Speaker>;G36(0)||<震屏>:A moment please, dear customer. What are you doing to... no! We're against viole—
+88type(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||<SE1>Runstep</SE1><黑屏1>:All we can do is switch her off for now and hope not too much got fried!

@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>86</BIN>:...With my assistance, RO635 successfully planted the virus. +Five minutes later, we are at the gates. SOP-II takes the lead and walks up.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Relax, Commander. The operation was a success and Miss Persica's virus will work perfectly. It's going to be fi—
+NPC-Yegor(3)<Speaker>Human soldier</Speaker>||:That Doll over there, stop!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Me?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(What? Are we busted?)</color>
+NPC-Yegor(3)<Speaker>Human soldier</Speaker>||:Yes, you!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(Do we fight? But even if we win, we won't be able to board the train... What do we do, Commander?)</color>
+NPC-Yegor(3)<Speaker>Human soldier</Speaker>||:That's an electronic pet in your arm, isn't it? They need identifications,too. You can't board the train with it just like that!
+NPC-Yegor(3);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh, I can't? But it's so small. It's hardly a pet if I just stuff it inside myself, right?
+NPC-Yegor(3)<Speaker>Human soldier</Speaker>||:Who gave you permission to speak, Doll!
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:...Ahahaha, s...sorry. We'll register the pet right away.
+()||:RO hurriedly forges an ID for the dinergate.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Why must I do this for that blasted dinergate...?
+RO635-NoArmor(0)<Speaker></Speaker>||:Click.
+NPC-Yegor(3)<Speaker>Human soldier</Speaker>||:So it's been registered as an electronic good... Humph, off you go. Be more careful next time.
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||<黑点1>:Right, we definitely will...
+()||<黑点2><BIN>9</BIN><BGM>BGM_Empty</BGM>:Two minutes later, we are safely onboard the train. We find our carriage and take our seats.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_Memorial</BGM>:Wow! The seat is as soft as the sofa in your office, Commander!
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Keep your voice down. We may have weaseled our way through the digital security check, but it'll all be over if we draw too much attention and get recognized by any of the humans on the train. +What happened just now scared the crap out of me. I don't want to go through that again...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:But we're the only ones in this carriage.
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Maybe this train is just particularly empty? According to our intel, there should be a guard Doll in each carriage...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:Hmm...maybe they're understaffed?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:That is a possibility. +The last battle did happen a long time ago. The Military probably won't devote resources to monitor every single train station 24/7 just to capture a PMC employee.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:Humph, then they're still underestimating us. +I suppose the Military also suffered a defeat in the last operation? That's why they have to rein it in a bit.
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:At least they failed to achieve their objective, but they'll never give up.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||<黑点1>:And neither will we! We'll definitely find M4A1 and the others!
+()||<黑点2>:...The train pulls away from the station. SOP-II looks through the window and watches the scenery flash by in excitement; RO635 puts on her headphones and retreats into her own world; while I turn on the digital magazine at my seat. +The magazine is full of fashion news, business ads, and scenic pictures of what's left of the tourist attractions on the planet – things that have little to do with our lives... +I randomly flip to a page with an ad featuring a half-length portrait of the latest Domestic Doll model. Out of boredom, I start imagining what she'd look like if she got an Imprint and took up a firearm. +All the nitty-gritty details weave into a heavy blanket of drowsiness that gradually wraps around my mind...
+RO635()||:...Commander? Commander?
+()||:After who-knows-how long, RO635's voice pulls me from a weird patchwork of a dream back into reality.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Commander, the broadcast just notified us that we'd arrive in 30 minutes. The train is starting to slow down. +Oh...
+RO635-NoArmor(0)<Speaker></Speaker>||:...RO635 stares at the page on which I've left the digital magazine open and gives me an odd look.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:So that's what you are into, Commander.
+Commander()||:Uh...I just happened to have fallen asleep on this page.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Ha...right... Seeing this kind of Doll makes you so at ease it puts you right to sleep, eh?
+M4 SOPMOD II()||<BGM>BGM_Empty</BGM>:Hey, RO, Commander! What is that?!
+()||<黑屏1>:...RO635 and I look out of the window.
+RO635()||<黑屏2>0,0.5</黑屏2><BIN>169</BIN><BGM>BGM_Truth</BGM>:A quarantine wall and a purification tower. Put the word "ELID" in front of these words and you'll get the picture.
+M4 SOPMOD II()||:Huh? So that's...a purification tower? +Wow, it's huuuuge! It's almost like a fortress!
+RO635()||:This is relatively new model – a standard built in 2055. Look at the bottom. It's even equipped with tracks so it's mobile. +These towers dispel Collapse Fluid radiation by emitting neutralizing particles and create a purified zone to keep the contamination outside the city. +Now look at the quarantine wall behind the tower. It's for blocking windblown particles and ELIDs. Of course, humans without legal identifications are also barred from entering.
+M4 SOPMOD II()||:All these are built just to protect the city we're going to? That's some really special treatment...
+RO635()||:It's a big city – there's no reason to desert it. +Besides, WWIII and the fallout happened ages ago. Life in the city has long since returned to its usual state of debauchery... Not that it has anything to do with us. +To us, cities like these are more alien than the contamination zones beyond the wall... This mission could be tougher than we first expected...
+()||:The train glides onto the filtering tracks within the quarantine wall and the exterior undergoes rapid decontamination. +The wall separates two completely different worlds. With my social standing, I have no right to ever set foot in the Green Zone. +However, despite having entered the civilized world, for some reason I just can't shake off the feeling of unease.
+RO635()||:We'll find Ange, then we'll find M4A1, AR-15, and M16... +We will reunite the AR Team, won't we, Commander?
+()||<黑屏1>:I look into RO's eyes and nodded lightly. I can't disappoint them. +This is just the beginning – the beginning of the process to restore normality...
+()||<黑屏2><BIN>9</BIN>:...I will not allow anyone or anything to undermine us when it comes to that.

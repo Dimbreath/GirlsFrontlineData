@@ -1,0 +1,49 @@
+ ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:...Infiltration success. UMP9 and 416 have split off to their target locations.
+HK416(0)<Speaker>416</Speaker>||:This is 416. I've reached my destination. Currently seaching for Gr G11.
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:Huh? According to the radar, shouldn't Gr G11 be right beside you?
+HK416(0)<Speaker>416</Speaker>||:It's all trees here. I don't know where she is hiding...+...Oh, nevermind.+Wake up, Gr G11.
+G11()<Speaker>Gr G11</Speaker>||:No... I don't wanna...
+HK416(0)<Speaker>416</Speaker>||<震屏>:Wake up, we don't have time.
+G11()<Speaker>Gr G11</Speaker>||<黑屏1>:Uuuu... Don't kick...
+G11(0)<Speaker>Gr G11</Speaker>||<黑屏2>:Ah, 416... What are you doing here?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Are you still dreaming?+You said you needed protection, didn't you?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Oh... 45 said you might've kicked the bucket.+That's why I was gonna nap 'til after midnight and then sneak out.
+HK416(0);G11(0)<Speaker>UMP45</Speaker>||:Sorry to bother you while you were napping, Gr G11 ♪. 416 insisted that she came.
+HK416(0)<Speaker>416</Speaker>;G11(0)||:...You guys.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Don't get violent, 416... Aren't you here to protect me?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:(Deep breath) ...This area is full of enemies. Let's find a place to hide first.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Uuuu... Hold on.+I fell asleep earlier... Let me check the sound recording first.
+HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:......+You got one minute, otherwise I'll bring you back in six different pieces.
+ ()||<BIN>9</BIN><黑屏2>:Recording playback starts...
+？？()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:...Good evening.+Welcome to Area S06, my dear friends from Griffin.
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:Hey, what's going on!
+G11(2)<Speaker>Gr G11</Speaker>||:I-I don't know. I was very careful.
+？？()<Speaker>???</Speaker>||:How are you finding this night assault? Are you satisfied?
+HK416(2)<Speaker>416</Speaker>||:This voice... Is this their Ringleader?
+？？()<Speaker>???</Speaker>||:...The night is still young...+But unfortunately for you guys, it will be over very soon...
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:Shit!+Gr G11! Get down!!
+()||<黑屏1><震屏><SE1>Explode</SE1>:Boom!!!
+()||<黑屏2><BIN>3</BIN><Night>:Meanwhile at Area S06 Sangvis command center.
+HunterElite(0)<Speaker>Hunter</Speaker>||<BGM>BGM_Boss</BGM>:Ouroboros, a sound triggered bomb has went off in point F3 of Area S06.+Based on the captured images, the enemies are confirmed to be Squad 404, but we cannot confirm if they have been wiped out.
+Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Then get closer and send out a team to ensure that they've been eliminated.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:Are you sure? Agent has said that we should avoid conflict with Griffin as much as possible.
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Hunter, it is exactly because you are too inflexible and too reliant on your experience that you got crushed by AR-15.+Listen, my goal is their leader, not these few small fries.+The point is to lure out their boss.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:404 and AR Team are different, though. How do you know their boss won't write them off as a loss?
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Exactly because they are 404.+Humans will betray friends in times of hardship, but they will not abandon pawns while they're still valuable.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:Ouroboros...+Then, what about me? Why not pick a stronger Doll to work for you? Why did you rescue me?
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Because you have experienced failure. You will be more cruel in vengeance, and you will be more cautious after suffering humiliation.+It is evident that you are the perfect choice against Griffin.+Now, my question to you is... Will you disappoint me?
+Weaver(0);HunterElite(1)<Speaker>Hunter</Speaker>||:......+No, I will not betray your expectations, Ouroboros.
+Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:I'll leave for the outpost now...
+Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||<黑屏1>:Go, Hunter. Protect the Area S06 outpost and eliminate all the Griffins that show up!
+()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:Ten minutes later at the location of 416 and Gr G11.
+G11(2)<Speaker>Gr G11</Speaker>||<SE2>Gunfight</SE2>:Uuu... Hurry up, 416! The Sangvis are gonna catch us!
+HK416(3)<Speaker>416</Speaker>||:Shut up! Why don't you try to carry me while you're running instead?+...Shit, there's nowhere to go up ahead. 45, where's our extraction?
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:Very close by. We're right under you!
+HK416(3)<Speaker>416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:Are you serious? We're on a cliff!
+HK416(3);UMP45(2)<Speaker>UMP45</Speaker>||:I know. Just keep running and jump!
+HK416(2)<Speaker>416</Speaker>;UMP45(2)||<SE1>Gunfight</SE1>:...So you're finally disposing of us, 45?
+HK416(2);UMP45(2)<Speaker>UMP45</Speaker>||:Not yet, 416, trust me.
+HK416(2);G11(2)<Speaker>Gr G11</Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:Listen to her and jump! I know what's down there!
+HK416(2)<Speaker>416</Speaker>||:(Sigh) I'll trust you, Gr G11.+Since you're a death-fearing coward...
+HK416(3)<Speaker>416</Speaker>||:Get ready! One, two...
+()||<BIN>9</BIN><SE2>Gunfight</SE2><黑屏1>:Three!+......

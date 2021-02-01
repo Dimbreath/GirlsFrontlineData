@@ -1,0 +1,54 @@
+()||<BIN>55</BIN><Night><BGM>bossbattle_loop</BGM><SE1>Battlefield</SE1>:...
+BossCerberus(0)<Speaker>Destroyer</Speaker>||<SE2>Gunfight</SE2>:UMP45... +It didn't really have anything to do with you, but I'm back from hell!
+G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Damn, this huge dog runs fast for its size!
+HK416(3)<Speaker>416</Speaker><通讯框>||:45, I've grouped up with Gr G11. We're now heading towards the rendezvous point as fast we can! +How is it on your end?
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(3)||<SE2>Gunfight</SE2>:9 is making for the rendezvous point as well. I'm directing the echelons. Not in any danger for now. +I'm consulting Zeele regarding a plan of retreat. Hurry up but make sure you steer clear of Destroyer!
+UMP45(2);UMP9(4)<Speaker>UMP9</Speaker><通讯框>||<SE1>Battlefield</SE1>:I'm sorry, 45, but...that's proving rather difficult... +There's more than one big dog!
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(4)||:...!
+UMP45(2);UMP9(4)<Speaker>UMP9</Speaker>||:Four have appeared on the map at the same time! + I'm afraid they're coming for all of us!
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(4)||:But their primary target is me... +(Mutters) If I can somehow cut myself off from everyone...
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Come again, 45?
+HK416()<Speaker>416</Speaker>||:One sec! 9, new incoming transmission! +Take it. Gr G11 and I will figure out a way to move. Take care of 45!
+()||:Click.
+UMP45(2);DSR50(0)<Speaker>Gd DSR-50</Speaker><通讯框>||<SE1>Battlefield</SE1>:Hello, everyone from Griffin. +It's so nice of you to answer my call under such circumstances.
+UMP45(2)<Speaker>UMP45</Speaker>;DSR50(0)||:Sorry, but we're not from Griffin. We are kinda on your side though.
+UMP45(2);DSR50(0)<Speaker>Gd DSR-50</Speaker>||:Mysterious heroes? Why, that only makes it more romantic. +Anyhow, my subordinates and I are trapped in several outposts. I don't mind hanging around for a while, but as a T-Doll, I still prefer keeping my tools sharp out in the field. +Seeing that fate has a hand in our meeting, why don't we help each other out?
+UMP45(2)<Speaker>UMP45</Speaker>;DSR50(0)||:Humph... +Looks like a victory...can depend entirely on a stroke of luck... +Gd DSR-50, we'll get you out of there, but you'll have to fight for us till we're safely out of danger. Deal?
+UMP45(2);DSR50(0)<Speaker>Gd DSR-50</Speaker>||:I like that smile... I think we'll get along just fine. +Deal, Süsse. I'll be waiting for you in my room. Don't be too late.
+()||:Transmission terminated.
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker><通讯框>||:Are you sure it's a good idea to help her, 45? +Is it worth the risk to rescue hostages while being chased by big dogs?
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:I know her - this Gd DSR-50. +Get her out and killing Destroyer won't be a problem.
+UMP45(2);UMP9(0)<Speaker>UMP9</Speaker>||:Understood. More good news, the T-Dolls we rescued before have agreed to help us as well! +But they'll need an operation objective, or they're completely unorganized.
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(0)||:Their objective is simple, protect you three at all costs.
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:Huh? But what about you? +You're the primary target here!
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:That's right. They think all problems will be solved once they have me. +Their Ringleader seems more clever than we expected so there must be someone else other than Destroyer... +Which makes this a perfect opportunity. When they come charging at me, you'll have a shot at getting the drone.
+UMP45(2);UMP9(4)<Speaker>UMP9</Speaker>||:Perfect opportunity? +No...you're more important than the drone!
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(4)||:So? Do I look like the kind of idiot who would sacrifice my own life for some mission? +Don't be ridiculous. I'm not on the AR Team. Plus, I've already found out how S.F. is monitoring me. I just need some time to fix that... +So don't mind me. Get the drone and be done with the mission.
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:But...
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:I told you. I'm not playing the bait as a suicide move. All my decisions are made so that we can complete the mission and go home. +Meet up with the others, rescue Gd DSR-50, and take the drone. That's an order. Do it at once.
+UMP9(2)<Speaker>UMP9</Speaker>||<黑屏1>:Understood... I trust your judgment. But I'm coming back for you after we have the drone!
+()||<黑屏2>:UMP9 takes her leave.
+UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:I'm counting you, 9... +Now then, time to get busy...
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>5</BIN><Night><黑屏2>:Zeele! Zeele!
+UMP9(4);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Miss UMP9, I am aware of the situation. I have already started tracing the Sangvis signal.
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:And?!
+UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker><通讯框>||:UMP45's neural cloud is experiencing an abnormal amount of traffic. These ports should've been encrypted and sealed.
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:I don't understand all this techno-babble! Get to the point!
+UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker>||:I suspect...that some Sangvis virus is rewriting her authorization!
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:What? Virus?!
+UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker>||:Yes, I can't determine what virus it is yet, but the hack isn't too severe at the moment. +45 has already forcibly shut down the ports that the traffic was coming through, but some of the dataflow cannot be cut off due to their high authorization. +Hey, wait... +She just severed her connection with us!
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:I can't see her signal either... +Do you think she's doing this to keep us safe from the virus...?
+UMP9(4);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:45 has only been forcibly connected to the Sangvis system, so the virus wouldn't have spread to you yet. +She must have another reason for doing this. I think we should trust her judgment.
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:Ja... We still have a mission to complete. I must have faith in 45.
+UMP9(4)<Speaker></Speaker>||:...Click.
+UMP9(4)<Speaker>UMP9</Speaker>||:416, you still there?!
+UMP9(4);HK416(3)<Speaker>416</Speaker><通讯框>||:Hey, what's going on with you? We've been waiting for you to get in touch!
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(3)||:Destroyer keeps making a beeline for 45, so 45 is playing the bait for us to get the drone!
+UMP9(4);HK416(2)<Speaker>416</Speaker>||:What? 45? Risking herself and playing the bait??
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||:She might also have run into some problem so this is the only solution for now... +But she's gonna be fine. We must hurry and get the drone, then we're going back for her!
+UMP9(4);HK416(0)<Speaker>416</Speaker>||<黑屏1>:How unlike her... +Got it. Gr G11, we're meeting up with 9. Then we're moving towards the drone signal.
+G11(0)<Speaker>Gr G11</Speaker>||<黑屏2><BIN>3</BIN><Night>:Is 45...in trouble?
+G11(0);HK416(0)<Speaker>416</Speaker>||:Kinda, so we have to be quick. +What, you worried about her?
+G11(0)<Speaker>Gr G11</Speaker>;HK416(0)||:Of course? +If she dies, I'll have nowhere to go.
+G11(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:Haha, I'm so touched. +C'mon you little egoist. Get a move on if you don't want that to happen.
+()||<BIN>10</BIN><黑点2>:

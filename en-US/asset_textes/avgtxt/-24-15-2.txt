@@ -1,0 +1,148 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Kalina, the Military's tanks have breached our defense outpost! Permission to retreat?</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)||<BGM>BGM_Danger</BGM>:Hold...hold on a minute! There's still a lot of people who haven't—
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>There's too many tanks, our defense line is broken!</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:Isn't...isn't there anything else you can do? Once the army takes those outposts, not only will everyone be stuck here, even the Commander—
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>So it can't be helped, huh...</color>+<color=#00CCFF>Looks like...we'll just have to hold the line, then...</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||<黑屏1>:What should I do...? Are we...really finished? +Commander... +Is today really the end for us...
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...
+()<Speaker></Speaker>||<白屏1>0,4</白屏1>:My experience has taught me that miracles always happen when the end is nigh.
+9A91(0)<Speaker>9A-91</Speaker>||<BIN>159</BIN><黑屏1>0,3</黑屏1><白屏2>0,3</白屏2><BGM>BGM_Empty</BGM>:That light! What IS that?
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><黑屏2><SE2>Alarm</SE2>:Or rather, that the end itself is a miracle, as long as you can survive it. +And at this very moment, it happened...
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<BIN>161</BIN><黑屏2>0,3</黑屏2><震屏><SE1>Explode</SE1>:Everybody down!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<震屏><黑屏1>:(Wails)
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><黑屏2><CGDelay>0.8</CGDelay>:Thanks to that apocalypse, we survived.
+()<Speaker></Speaker>||<黑屏1>:... +...An unknown amount of time later.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<黑屏2><BIN>161</BIN>:(Coughs heavily) +Is everyone alright? (Coughs)
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We're fine...</color>+<color=#00CCFF>But what was that just now?</color>
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>There was a green light, and then my neural cloud shut down for a bit, and then...</color>
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Wait a minute...</color>+<color=#00CCFF>Our enemies...aren't moving any more? They've stopped responding!</color>
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||:Are we...saved?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:What happened... (coughs) +Well, whatever it was, this is great news...(coughs)
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Everyone, get up! Fill the gaps in the defense line! The enemy might counterattack at any time!</color>+<color=#00CCFF>Kalin, we need a resupply ASAP!</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:Right, I'll get MP40's logistics team on it (cough)!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>Miss Kalin, your reaction isn't normal, don't tell me that was...</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:I'm fine, maybe I'm just a little allergic... (coughs) +Wait a minute... This stuff...don't tell me this stuff is...
+()<Speaker></Speaker>||:Kalina suddenly realizes the true nature of that green light just now, and hurriedly makes a call.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||<黑屏1><震屏>:Commander! Commander, are you alright? Were you caught in that Collapse Fluid explosion just now?! +Commander, Commander, please answer me! +Commander—!
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><CGDelay>0.6</CGDelay>:...
+()<Speaker></Speaker>||:But sometimes, survival does not imply being lucky. +When we leave Hell, it is hard to tell if the light before us is that of Heaven, a dream, or a memory of the truth...
+()<Speaker>??</Speaker>||:Can you see me? +Can you hear what I am saying?
+()<Speaker></Speaker>||:I feel dizzy as I wake up to an uncomfortable light and the beeping of machines monitoring my vital signs...
+()<Speaker>??</Speaker>||:If you can speak, then you do not need to move your head to respond.
+()<Speaker>??</Speaker>||:Look at us. How do you feel now?
+()<Speaker></Speaker>||<黑屏1>:...Three hours later.
+()<Speaker>??</Speaker>||<BIN>146</BIN><睁眼><黑屏1>0,5</黑屏1><BGM>BGM_Brain</BGM>:Greetings, Griffin Commander. +Now...you need to remain calm. Do not panic. +I have something to say to you. Is that alright? +You must be calm. You have been in a coma all this while... +...Yes, I understand, you must want to know how long you were unconscious.
+()<Speaker>??</Speaker>||<黑屏2>0,5</黑屏2><BIN>9</BIN><CGDelay>0.6</CGDelay>:You have been comatose for...+...Nine weeks.
+()<Speaker></Speaker>||:...At this very moment, I am certain that I have gone deeper into Hell.
+()<Speaker></Speaker>||:...One day later.
+()<Speaker>??</Speaker>||<黑屏1>:...Nine weeks ago, you were severely injured by the detonation of a large Collapse Fluid bomb. +We treated you and allowed you to regain consciousness.
+()<Speaker>??</Speaker>||<BIN>146</BIN><黑屏2>:Griffin Commander, now that you are awake, let us begin.
+()<Speaker></Speaker>||:...<c>Who are you?<c>Who am I?<c>M4...A1...?
+()<Speaker>??</Speaker>||:...
+()<Speaker></Speaker>||:They do not answer me. They simply continue their monologue. +When I think back, I realize that I knew them. They appeared after the dirty bomb explosion, and then... +...+But this is my first time observing them up close. They look very familiar — am I imagining things?
+()<Speaker>Commander</Speaker>||:<c>You're called Nyto, right? <c>Can you speak? <c>Can I have a glass of water?
+()<Speaker></Speaker>||<分支>1</分支>:The Nytos do not answer, but their gazes grow more focused as they stare at me. +The way they look at me makes me very uncomfortable, more so than the looks in the eyes of the first batch of experimental Dolls. +There is no emotion or curiosity there. They're just...looking at me... +What am I in their eyes? Perhaps I am nothing more than a form that needs to be filled up for work.
+()<Speaker></Speaker>||<分支>2</分支>:The Nytos do not respond in any way, like a group of emotionless machines that lack any personality. +I had seen them on the battlefield before, killing all targets in sight...my T-Dolls, perhaps, or maybe it was me... +They are a more hateful enemy than even the Military, but right now...they are not doing anything.
+()<Speaker>??</Speaker>||<分支>3</分支>:You will have one, but not in this place.
+()<Speaker></Speaker>||<分支>3</分支>:The Nytos speak, and their voices make me doubt my ears. +I've heard these voices before...but I can't remember where exactly, and it makes me feel uncomfortable... +Perhaps it's because I've just woken up and my head isn't too clear, or perhaps it's because I really need a glass of water...
+()<Speaker>Nyto</Speaker>||:Griffin Commander, you are now a prisoner of our Master.
+()<Speaker></Speaker>||:I don't like their voices. I can't say why they repulse me. The words they speak sound very real, and very hollow...and very familiar.
+()<Speaker>Nyto</Speaker>||:The only way you will gain your freedom is by telling us everything you know about what happened after the Collapse Fluid explosion.
+()<Speaker></Speaker>||:<c>What happened after that? My memories might not be too clear. <c>Who wants to know? Your master?
+()<Speaker>Nyto</Speaker>||<分支>1</分支>:We will check your statement against the facts. If any contradictions arise, we will force you to amend it through punishment.
+()<Speaker></Speaker>||<分支>2</分支>:The Nytos do not answer. They remain completely still. Even their faces do not betray their refusal to answer. Like a coin tossed into a wishing well, my question is met with silence.
+()<Speaker>Nyto</Speaker>||<黑屏1>:Now, get up. +Complete this order in ten seconds, or we will consider you to be harboring rebellious intentions and employ coercive measures on you. +10. +9. +8.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:7.+6.
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...Suddenly, the puppets fall silent. +And then...
+()<Speaker>Nyto?</Speaker>||<黑屏1>:Commander?
+()<Speaker></Speaker>||<BIN>147</BIN><黑屏2>:Only one Nyto is staring at me. The look in her eyes is completely different from before.
+()<Speaker>Nyto?</Speaker>||:Long time no see.
+()<Speaker>Commander</Speaker>||:... <c>Who...ARE you? <c>What are you up to, Nyto? Is this some kind of verbal cosplay?
+()<Speaker></Speaker>||<分支>1</分支><BGM>BGM_Room</BGM>:The Doll draws a line down over her left eye with her index finger. +What does this imply? I think for a while, and then I think I have the answer...
+()<Speaker>Nyto?</Speaker>||<分支>2</分支><BGM>BGM_Room</BGM>:Are you into that kind of thing, Commander? However, we can't do that now. I'm here to help you. All you need to do is listen.
+()<Speaker>Nyto?</Speaker>||:I didn't expect these bodies to have such complex neural networks. It took me a long time to identify and hack their simulated consciousnesses. +Still, I can temporarily invade these Nytos' electronic synapses, and I hacked all four of them this time round in order to cover up the fact that we've managed to get into their system. +However, taking control of all these Nytos is a huge drain. I prepared for an entire week just for this moment. I won't be able to do it next time. +Each hack only allows me to control my target for two minutes, so I'll cut to the chase — we're here to rescue you, Commander.
+()<Speaker>Commander</Speaker>||:...<c>Whoever you are, I've been waiting too long for this. <c>Who's on the mission? Can you ensure your own safety?
+()<Speaker>Nyto?</Speaker>||<分支>1</分支>:Sorry, it took us a long time to find this place, and...it took me a long time to fully recover from the previous battle.
+()<Speaker>Nyto?</Speaker>||<分支>2</分支>:Oh my, I'm touched. But you should be more concerned about yourself now, Commander.
+()<Speaker>Nyto?</Speaker>||:What you need to know is that these Nytos were tasked with obtaining information from your body. They tried scanning your brain for data, but that clearly failed, so they had to question you in person. +We're currently preparing to infiltrate this place. You need to delay these puppets for as long as possible during this time. +They asked you about what happened during the previous mission, right? +Whether you tell them the truth or make something up, we need you to delay them for as long as possible. We need to make a lot of preparations to ensure the operation goes off without a hitch. +I know you'll suffer as a result. These "puppets" were created to force confessions from people, but they need your cooperation to achieve their aim.
+()<Speaker>Commander</Speaker>||:...<c>So you want me to make up stories, then? <c>I...will try... <c>No human alive is better than me at lying.
+()<Speaker>Nyto?</Speaker>||<分支>1</分支>:Humans are good at that. I'm sure you can do it.
+()<Speaker>Nyto?</Speaker>||<分支>2</分支>:Then try your best, Commander. It doesn't matter what you say, just stall for time.
+()<Speaker>Nyto?</Speaker>||<分支>3</分支>:Oh? Really now?
+()<Speaker></Speaker>||<分支>3</分支>:The Nyto narrows her eyes.
+()<Speaker>Nyto?</Speaker>||<分支>3</分支>:I've heard some rumors. You'll have to tell me all about it the next time we meet.
+()<Speaker>Nyto?</Speaker>||:Time's almost up. I've planted a miniature transmitter on you. It can only send and receive at short ranges. +After that, I'll hack into one of these four Nytos and save you from the inside. +The situation will be very dangerous and you may need to fight as well. I found a pistol, which I've hidden under your restraints. You DO know how to use one, right?
+()<Speaker>Commander</Speaker>||:... <c>I still remember. Don't look down on me. <c>Will I have to use it?
+()<Speaker>Nyto?</Speaker>||<分支>1</分支>:Hehe, my apologies, Commander. I look forward to your performance.
+()<Speaker>Nyto?</Speaker>||<分支>2</分支>:We'll try to avoid that, but I can't make any guarantees. +This is also a battlefield, Commander. You can't be soft-hearted here.
+()<Speaker>Nyto?</Speaker>||:Also, I'm not sure which of these Nytos I'll be able to hack into. When the time comes, I'll say a code phrase so I don't get hurt by accident when you're fighting back. +Listen closely. The phrase is... +"I've brought misfortune."
+()<Speaker>Commander</Speaker>||:...<c>Who came up with that code phrase, anyway? <c>Do I need to say anything?
+()<Speaker>Nyto?</Speaker>||<分支>1</分支>:I just like it.
+()<Speaker>Nyto?</Speaker>||<分支>2</分支>:You don't need to do anything. Just don't hit her by accident.
+()<Speaker>Nyto?</Speaker>||<黑屏1>:Got that? Once you hear the code phrase, you'll know which Nyto's under my control. You don't need to respond, just don't kill her, because she's going to help us open the room from the inside and ensure that we can rescue you ASAP. This is crucial. +Well, I guess you already understand. In any case, don't worry, Commander. We'll get you out of there. +Until then, you'll just have to grin and bear it. I'm going to release control now. Good luck.
+()<Speaker>Nyto</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:5. +4.
+()<Speaker>Nyto</Speaker>||<BIN>146</BIN><黑屏2><黑屏1><BGM>BGM_Brain</BGM>:Very good . You carried out the order in only 6 seconds.  +Now we shall proceed to the interrogation room.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:The Nytos lead me to the interrogation room. +To be precise, it's less like leading me and more like frog-marching me along. I see many things during my journey.
+()<Speaker></Speaker>||<BIN>158</BIN><黑屏2>:...In the interrogation room.
+Nyto(0)<Speaker>Nyto</Speaker>||<黑屏1>0,0.4<黑屏1>:Griffin Commander. Do not attempt to struggle against your restraints. The only thing you may move is your mouth. +We require you to provide your memories. For starters, we need to know how you survived on the battlefield. +We need more details. We need to know how you survived and reached that safe house. Tell us. +We need the truth. Don't get it wrong.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Indeed, the only thing I'm certain of is that I survived the battlefield. +...That I had survived the explosion.
+()<Speaker></Speaker>||:...+A great force had awakened me back then. I struggled free of something, and then fell heavily to the ground. +I looked at the ceiling. Time seemed to slow down, while my breathing grew more and more rapid as I thrashed around on the ground... +Just then, I noticed two dark silhouettes approaching me. I instinctively lay down and closed my eyes. +Where was I? What had happened? Who were those two silhouettes? Were they enemies? Or perhaps...
+()<Speaker>Sagacious female voice</Speaker>||<BGM>BGM_Sneak</BGM>:...Commander? Commander, are you awake?
+()<Speaker>Choleric female voice</Speaker>||:Oi! Commander—! +Wake the hell up, scumbag Commander! +Otherwise I'll dump you on the ground and drag you to Kalin, how do you like that?
+()<Speaker>Commander</Speaker>||:... <c>I'm awake! I'm awake! <c>You could tell? I thought my acting was pretty good. <c>Are you Griffin T-Dolls?
+()<Speaker>Choleric female voice</Speaker>||<分支>1</分支>:Don't play dumb if you're awake! Open your eyes and get up!
+()<Speaker>Sagacious female voice</Speaker>||<分支>1</分支><黑屏1>:Don't shake the Commander. You mustn't subject human heads to vigorous motion.
+()<Speaker>Choleric female voice</Speaker>||<分支>2</分支>:That's 'cause your breathing changed! I can feel that!
+()<Speaker>Sagacious female voice</Speaker>||<分支>2</分支><黑屏1>:Given your breathing and line of sight, I could tell where you were looking.
+()<Speaker>Choleric female voice</Speaker>||<分支>3</分支>:Of course we are! We're dyed-in-the-wool Griffin T-Dolls!
+()<Speaker>Sagacious female voice</Speaker>||<分支>3</分支><黑屏1>:Commander, this place is safe and there's no need to worry...for now.
+M82A1(0)<Speaker>M82A1</Speaker>||<BIN>85</BIN><睁眼>:Pleased to meet you. I am Griffin Tactical Doll M82A1. +It's normal for you not to know me, but I know you very well. I've been watching you for very long now.
+M870P(0)<Speaker>M870</Speaker>||:I'm M870, from Griffin. +Are you up now, scumbag?
+()<Speaker>Commander</Speaker>||:... <c>Good to see you. Thanks for rescuing me. <c>How did you find me? <c>Where are we?
+M82A1(0)<Speaker>M82A1</Speaker>||<分支>1</分支>:I was just following my orders to take you from the battlefield to this safe house.
+M870P(0)<Speaker>M870</Speaker>||<分支>1</分支>:Don't think we like it, though. We had to come all the way to this shithole because of you!
+M82A1(0)<Speaker>M82A1</Speaker>||<分支>2</分支>:Miss Kalina gave us the coordinates and the two of us came here.
+M870P(0)<Speaker>M870</Speaker>||<分支>2</分支>:That's right, you're going to praise us for it, right? You'd better, we could have died here because of you!
+M82A1(0)<Speaker>M82A1</Speaker>||<分支>3</分支>:We're still in your command room. You were unconscious from the radiation when we found you.
+M870P(0)<Speaker>M870</Speaker>||<分支>3</分支>:We're not far from the contaminated zone. This place is well-hidden, but it's not going to be safe if anyone finds out about it.
+M82A1(0)<Speaker>M82A1</Speaker>||:We gave you some "treatment". You should have regained the ability to move for the time being.
+M870P(0)<Speaker>M870</Speaker>||:Or rather...we gave you a shot in the arm. Adrenaline, of course. I didn't expect it to be so effective.
+M82A1(0)<Speaker>M82A1</Speaker>||:Still, you were not badly contaminated to begin with. If you receive proper treatment for the other symptoms in time, you should be able to recover within three months, although that may vary depending on your personal lifestyle and habits.
+M870P(0)<Speaker>M870</Speaker>||:You'd better cherish the life we gave you. Now leave this place with us and link up with Kalina. Hurry!
+()<Speaker></Speaker>||<黑屏1>:M870 prepared to help me up, and I made to grab her. +Just then, I heard a clear transmission through the endless sea of static from the comms equipment.
+()<Speaker>Mature woman's voice</Speaker>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Has Griffin left already...</color>
+()<Speaker></Speaker>||:...
+()<Speaker>Mature woman's voice</Speaker>||:<color=#00CCFF>Is this...how it ends...?</color>
+()<Speaker>Persica's voice</Speaker>||:<color=#00CCFF>Ange...</color>
+()<Speaker>Mature woman's voice</Speaker>||<黑屏1>:<color=#00CCFF>Haha, then it can't be helped. I didn't expect things would turn out like this...</color>
+M82A1(0)<Speaker>M82A1</Speaker>||<BIN>85</BIN><黑屏2>:Commander...aren't you going?
+()<Speaker></Speaker>||<黑屏1>0,5<黑屏1>:After hearing that voice, I knew my work here wasn't done yet.
+()<Speaker>Nyto</Speaker>||<BIN>9</BIN><黑屏2>:Your statement just now and the information you provided earlier matches our records. We can continue our work. +You could have withdrawn at the time, but you did not. Instead, you remained where you were and helped to evacuate your other personnel. +That is why you possess the information we wish to know. +Now, tell us the reason why you did this.
+()<Speaker></Speaker>||<黑屏1>:...
+M870P(0)<Speaker>M870</Speaker>||<BIN>85</BIN><黑屏2>:What are you saying? You want to stay here, Commander? Are you insane?
+M82A1(0)<Speaker>M82A1</Speaker>||:Human, what are you thinking?
+()<Speaker>Commander</Speaker>||:... <c>There's still a lot of people who haven't been rescued yet, I can't leave! <c>Kalina...  She's still in the base, I can't abandon her! <c>I just spoke with Persica. There's someone I need to rescue.
+M870P(0)<Speaker>M870</Speaker>||<分支>1</分支>:You do know that you're a hell of a lot more important to Griffin than those Dolls and humans, right? +Still, that's the kind of person you are...which is why you're so important...
+M82A1(0)<Speaker>M82A1</Speaker>||<分支>2</分支>:You can't just leave your faithful logistics officer behind, right? +We ought to think of a solution for that, although I do admit...the situation in the Griffin base is critical, and I'm not sure...
+M82A1(0)<Speaker>M82A1</Speaker>||<分支>3</分支>:Is that person so important? Why are you doing this, human?
+M870P(0)<Speaker>M870</Speaker>||<分支>3</分支>:These are the boss' words, but I'll use them to remind you — Commander, you can bring your ideals into war, but you have to face the facts when you're on the battlefield!
+M870P(0)<Speaker>M870</Speaker>||:Still, that's fine. You don't have to say any more, I understand. You're staying behind, regardless of whether you live or die to help the remaining people fall back. Is that it? +Still, I'd like to remind you that our mission is to get you to the base airfield and put you on an evacuation chopper, Commander. +Miss Kalin kept nagging about how this was my top priority, even if I had to knock you out...and maybe I should.
+M82A1(0)<Speaker>M82A1</Speaker>;M870P(0)||:You have let your emotions go to your head, Commander. +Although, I believe that is the difference between humans and us Dolls. 
+M82A1(0);M870P(0)<Speaker>M870</Speaker>||:M82A1? You...
+M82A1(0)<Speaker>M82A1</Speaker>;M870P(0)||:You cannot disobey that order, M870, because the Commander is also protecting Miss Kalin and Griffin. +This is our most important mission, more important than any other order we've received so far.
+M82A1(0);M870P(0)<Speaker>M870</Speaker>||:Hmph... +Eh, whatever. It's just extra overtime, anyway.
+M82A1(0)<Speaker>M82A1</Speaker>;M870P(0)||:There is an intact command platform and communications equipment here. Relax and give your commands. We will find a suitable terrain from which to protect you.
+M870P(0)<Speaker>M870</Speaker>||:Don't disappoint me, scumbag. Dying for your arrogant ideals is the most laughable way to go.
+()<Speaker></Speaker>||<黑屏1>:M82A1 and M870 pushed open the door and left.
+()<Speaker>M82A1</Speaker>||<BIN>9</BIN><黑屏2>:Show me what you can do today...as a human who trusted by all Dolls.
+()<Speaker></Speaker>||:After that, I got to work, completing the final evacuation of the battlefield.
+()<Speaker></Speaker>||:...
+()<Speaker>Nyto</Speaker>||<黑屏1>:Your answer tallies with our information for the time being. +We now require more recent information. +We need to know the location of M4 SOPMOD II of the AR Team. Tell us what she experienced during the mission. +Answer us, Griffin Commander.
+()<Speaker>Commander</Speaker>||<BIN>158</BIN><黑屏2>:... <c>She was killed by the Military's soldiers. <c>I don't know what happened to her. <c>I know she might have killed one or two of you.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>1</分支>:We know she was not. +She survived. We witnessed it with our own eyes. So tell us what happened to her.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>2</分支>:She was in contact with you. We know that she took part in the final operation to rescue you. She must have told you something.
+Nyto(0)<Speaker>Nyto</Speaker>||<分支>3</分支>:You are attempting to anger us. It will not work. However, from another point of view you are admitting that she is still alive.
+Nyto(0)<Speaker>Nyto</Speaker>||<黑屏1>:You cannot hide it any further. Tell us what that T-Doll experienced. We need to know everything, from the beginning to the end. +...Tell us. That is the only way you will survive.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:I consider that I only have a few minutes to spin a tale, to decide whether the story would make us look like heroes, a bunch of luckless fools, or just a pack of corpses. +I also know what lying entails for me, but I don't care. What I need is time, and at the very least they will spare my life. I can imagine what else they can do up to that point, but I can take it. +Hopefully I will still think the same way after they start working me over...
+()||<黑屏1>:

@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+TT33(0)<Speaker>Tokarev</Speaker>||<BIN>240</BIN><黑屏2><BGM>BGM_Room</BGM>:How appalling.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:The author was very emotional. They seemed to be experiencing some kind of mental health issue.
+TT33(0)<Speaker>Tokarev</Speaker>||:This must be the journal of the mansion's owner.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Yes, it turns out the owner was a wedding dress designer and had nothing to do with this ghostly bride. +The journal dates roughly back to the war, and the content also matches up with the time frame.
+TT33(0)<Speaker>Tokarev</Speaker>||:It appears the mansion has been deserted since the death of this person. +...But that doesn't really seem to be the case here. Could there be another more recent journal somewhere?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:This one here is the journal of an explorer. Some daredevil adventurer.
+TT33(0)<Speaker>Tokarev</Speaker>||:Explorer? Why is it here? What does it say?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Mostly just blowing his own horn. +Basically, it's an account of how he broke into the mansion with his friends as a test of courage. +The first half isn't particularly interesting, but there's this part in the second half that bothers me.
+TT33(0)<Speaker>Tokarev</Speaker>||:Which part?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:He mentioned how one of his friends started acting very strangely. +Not only was he not himself, he did very bizarre things and even attacked the author and the others. +According to the author, he's been "possessed".
+TT33(0)<Speaker>Tokarev</Speaker>||:That's horrific. +Being possessed by a ghost... Could something so creepy really happen?
+()||<SE1>AVG_tele_connect</SE1>:Click.
+G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||:<color=#00CCFF>This is Gr G36c. Please respond if you copy.</color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:This is Lee. I copy. It isn't time to check in yet, is something wrong? 
+G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||:<color=#00CCFF>Fräulein Sten got too impatient and decided to participate in the investigation.</color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:What?! +Tell her she mustn't do anything without orders!
+G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||:<color=#00CCFF>I'm really sorry...but she ran off before Fräulein PK and I could stop her.</color>+<color=#00CCFF>She's as hot-headed as ever.</color>
+TT33(0)<Speaker>Tokarev</Speaker>||:This isn't good...
+G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||:<color=#00CCFF>Fräulein PK has gone after her while I'm still at the church. What should I do, Leader?</color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:We're coming right now. Stay where you are and wait for us.
+G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||:<color=#00CCFF>Understood. Please remain calm. I'll exercise caution.</color>
+TT33(0)<Speaker>Tokarev</Speaker>||:Let's go, Miss Lee!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:...
+TT33(0)<Speaker>Tokarev</Speaker>||:Miss Lee, what's the matter?
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:It seems a bit odd that Sten would disobey her orders and act on her own at a time like this. +Or maybe it's nothing. Might just be my imagination. +Let's go.
+G36C(0)<Speaker>Gr G36c</Speaker>||<黑屏2><BGM>m_wv_battle</BGM>:Leader!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Gr G36c! Where are the other two?
+G36C(0)<Speaker>Gr G36c</Speaker>||:Sorry, I lost them. They were too fast for me to keep up... I didn't expect Fräulein PK to be so nimble.
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:That's alright. I'm just glad you're safe. +Tokarev, contact your teammate.
+TT33(0)<Speaker>Tokarev</Speaker>||:Uh...right, I can talk to Sten directly! +I'll do that right now.
+()||<SE1>AVG_tele_connect</SE1>:Click.
+TT33(0)<Speaker>Tokarev</Speaker>||:Sten!
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>This is Sten. Please go ahead.</color>
+TT33(0)<Speaker>Tokarev</Speaker>||:Cease your unauthorized action immediately and return to formation!
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>Huh?! How do you know... N-nothing. I couldn't bear just sitting there and doing nothing.</color>+<color=#00CCFF>Besides, when I was in that room, I had the feeling that I was being watched and it freaked me out...</color>
+TT33(0)<Speaker>Tokarev</Speaker>||:Return at once! Where is Miss PK?
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>PK? Isn't she at the church? I didn't see her.</color>
+G36C(0)<Speaker>Gr G36c</Speaker>||:She's gone after you. Hasn't she run into you?
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>What? No, I didn't notice her at all!</color>
+TT33(0)<Speaker>Tokarev</Speaker>||:That...
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Bloody hell.
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>What's wrong? What happ- Whoa!</color>
+()<Speaker>PPSh-41</Speaker>||:Aaaaaaah!
+G36C(0)<Speaker>Gr G36c</Speaker>||:That's Papasha!
+TT33(0)<Speaker>Tokarev</Speaker>||:New orders, Sten! +Head towards Group B! Did you hear that?
+StenMK2(0)<Speaker>STEN MkII</Speaker><通讯框>||:<color=#00CCFF>Of course I did! I almost lost my hearing from that!</color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker>||<黑点1>:Go!

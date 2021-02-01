@@ -1,0 +1,193 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏1><黑屏2>:...One hour after the dirty bomb went off, at Griffin's temporary outpost.
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<BIN>85</BIN><黑屏2>:<color=#00CCFF>...Now you see.</color> +<color=#00CCFF>There's no way we can get out of this, Boss Kalin.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:No, we're waiting for you to come back! +There must be a way! We—
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>We can't keep this up for long. These bastards are a bunch of monsters, pure and simple.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:There's been no intel on them at all... Just what on earth...are "they"?
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>Unfortunately, we haven't been able to determine what they are or where they came from even having been locked in a stalemate with them for so long.</color> +<color=#00CCFF>All we know is that they appeared all of a sudden for one reason: to destroy us.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||<黑屏1>:...But why? I don't get it. +Where the hell did they come from? Why are they attacking us...? +Not to mention...why now, of all time...?
+()<Speaker>Kalina</Speaker>||<BIN>9</BIN><黑屏1><黑屏2>:And we...almost got everyone out of here safely...
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<BIN>85</BIN><黑屏2>:<color=#00CCFF>How's the base doing so far?</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:Backup circuits no. 13, 15 and 27 are all damaged... We only have two strongpoints left in the outskirts other than you. +All Griffin forces have already withdrawn from the theater so Miss Helian probably has no way of giving us support...
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>Ha, looks like we're done for.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:We'll think of something; just hang in there!
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>Just kidding. I'll hold out till the bitter end, of course.</color> +<color=#00CCFF>But my squad needs ammo - both large caliber and small, and you just said—</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:I'll find a way to have a logistics team send them over!
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>That's too risky. They fire indiscriminately on all moving targets.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;M1928A1(0)||:The Commander will come up with a safe route, but that'll take some time so hold on tight. +Also, don't expect too much supply. I'm sorry but our inventory is running very low...
+NPC-Kalin(8);M1928A1(0)<Speaker>Thompson</Speaker>||:<color=#00CCFF>Every little bit helps. I'll make sure every round finds its way into an enemy's skull.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Please, you must survive until our reinforcements arrive!
+()<Speaker></Speaker>||:...A new transmission is patched in.
+9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>Miss Kalina, status report - we eliminated three detachments from the unknown enemy during our last encounter.</color> +<color=#00CCFF>The outpost is safe for the time being. We have suffered intermediate losses. Please dispatch ten Dummies to assist us in patching up the line of defense.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)||:9A-91, we...don't have any more Dummies.
+NPC-Kalin(8);9A91(0)<Speaker>9A-91</Speaker>||:<color=#00CCFF>...In that case I'd like to request retreating two T-dolls.</color> +<color=#00CCFF>They have both sustained severe damage in their mainframe. If they do not receive repair...</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)||:Understood, permission granted. Send them back to us immediately.
+NPC-Kalin(8);9A91(0)<Speaker>9A-91</Speaker>||:<color=#00CCFF>Much obliged. Executing order at once.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)||:Do you know what's the situation with Python's defense echelon? I haven't been able to contact them for a while.
+NPC-Kalin(8);9A91(0)<Speaker>9A-91</Speaker>||:<color=#00CCFF>Unclear. We were separated.</color> +<color=#00CCFF>Due to unstable reception, we have temporarily shut down part of our access to the Zener Protocol to avoid Parapluie infection. We are not capable of synchronizing with T-Dolls that are too far from us.</color> +<color=#00CCFF>However, their defense line appears to be holding from what I can see so they should still be able to maintain it.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker>;9A91(0)||:<color=#00CCFF>Roger that. Please keep defending your post. I'll think of a way to send you reinforcements!</color>
+9A91(0)<Speaker>9A-91</Speaker>||:<color=#00CCFF>For everyone's sake, not one step back.</color>
+()<Speaker></Speaker>||:...Transmission terminated.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Still...how do I even give them support...? +The situation is beyond FUBAR. Can I even get out of this alive...? +Being a logistics officer is very safe, they say. How...is this any different than how things used to be...?
+()<Speaker></Speaker>||:...Kalina flips her diary open.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||:If I'm killed in action today... +I want to be reincarnated... +...as a fat orange tabby... +Hiding in the small bush outside some office building... Other than bringing other stray cats to the feeding spot, I won't need to work at all... +Just meow along and—
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM>:Huh?! A transmission from the Commander!
+(0)<Speaker>Commander</Speaker>||<BGM>BGM_Sneak</BGM>: +<c><color=#00CCFF>You look exhausted.</color><c><color=#00CCFF>How's the extraction point doing?</color><c><color=#00CCFF>What is the status of the strongpoints?</color>
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||<分支>1</分支>:Haha... Just...a little...
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||<分支>2</分支>:All T-Dolls in charge of defense are in key positions, just waiting for transport to arrive.
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||<分支>3</分支>:The outposts were attacked by an unknown force. Our defense is stretched really thin...
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||:In any case, Miss Ange's intel is accurate. Enemy forces are relatively sparse here. I have also been supplying the defense teams you dispatched. Hopefully we'll make it till extration flight gets here...
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? Another mission for me? +The legendary "Not Found" squad? +R...right...if it's for a mission...
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:I have picked up their IFF signals. I'll input them into the command system so that our T-Dolls won't attack them—
+NPC-Kalin(8)<Speaker>??</Speaker>||:So this is our liaison?
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh?!! +W-who's there?!
+HK416(0))<Speaker>416</Speaker>||:Are you Fräulein...Kalina, the logistics officer here?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:That's me, alright... +Concurrently manning many other positions as well 'cause we're a bit understaffed here, haha...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Then please help us.
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:What? Help? Sure, my job is to help T-Dolls... Wait a minute... +I've never seen you before... You—
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:...
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Oh! You're 416, aren't you?! I remember now! From Operation Hypothermia!
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:Guten Tag. +Not being able to wipe a human's memory seems to be a huge security risk.
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:A-are you still trying to do that?!
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:A physically induced memory loss is worth attempting, although such orders were never given.
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:That's good to hear, haha...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:Have you not started the retreat?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:We're still waiting for transport to arrive, but we don't know when exactly it...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:I trust the Commander has informed you about us?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Ah, the Commander just briefed me. I was just about to input your IFF sig...
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Hold on! I haven't done that yet, so how did you get in here?! There are six layers of defense lines out there—
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:So what?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:S-so... +So that's the reason you're known as the "Not Found" squad... +I finally understand why the other T-Dolls fear you so much...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:And you? Do you fear us, too...?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Ahaha...of course not! I'm sure those are all just rumors, haha...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Regardless of what you've heard about us in the past, we're just Griffin T-dolls seeking help today.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Right, I only know that you're an elite Griffin T-Doll, everything else is way above my paygrade. +And since the Commander has given the order, I'll do everything I can to help you. +But come to think of it, the Commander's exact words were, "Squad 404 needs your help", so where are your teammates?
+G11(3)<Speaker>Gr G11</Speaker>||:(Pants) 41...6... +You were too fast...I can't catch up at all...
+G11(3);HK416(0)<Speaker>416</Speaker>||:You're too slow, Gr G11. Did you crawl all the way here? Where are 9 and 45?
+G11(2)<Speaker>Gr G11</Speaker>;HK416(0)||:9 moved 45 to a temporary repair site...and Dier is doing a remote inspection on her... +Even if you're worried about 45, you didn't have to run so fast— Ow ow ow ow...
+HK416(0)<Speaker>416</Speaker>||:Stop spouting nonsense from your stupid mouth!
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Is this your teammate?
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:Kinda. This is Gr G11, our snipe—
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:She's...so cute! +How is such a cute T-Doll also on the "Not Found" squad?!
+G11(2)<Speaker>Gr G11</Speaker>||:Ugh...that doesn't sound like a compliment at all... +Why are all the humans I run into so weird...?
+G11(2);HK416(0)<Speaker>416</Speaker>||:How dare you say that... She's the logistics officer here, you know? +If she wants, she can remove your Imprint this instant and throw you back out onto the street.
+G11(3)<Speaker>Gr G11</Speaker><Shake>;HK416(0)||:Huh?! R-really?! Nein, nein, nein, please don't s-s-scrap me!
+G11(3);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:I won't. +Besides, only the Commander has the authority to order a T-Doll dismantled.
+G11(2)<Speaker>Gr G11</Speaker>;NPC-Kalin(8)||:Phew... I see...
+G11(2);HK416(0)<Speaker>416</Speaker>||:Look at your stupid face; you don't seem anxious at all. +Right, bring us to the repair site. Hurry.
+G11(3)<Speaker>Gr G11</Speaker>;HK416(0)||:Okay, okay! Stop kicking me!
+HK416(0)<Speaker>416</Speaker>||:Please come with us, Fräulein Kalina. We aren't authorized to allocate resources.
+HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:What do you need me for...? To save your teammate?
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:Ja. Please, you must save her.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<黑屏1>:...
+()<Speaker></Speaker>||<BIN>161</BIN><黑屏2>:...Kalina follows 416 and Gr G11 to the temporary repair site.
+HK416(0)<Speaker>416</Speaker>||:Are all those T-Dolls in the queue waiting for repair?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:That's right... The previous battle took a heavy toll on us. +On top of that, everyone's neural clouds lost connection to the Griffin's main server, making it impossible to upload their memory. +That's why I'm trying to at least restore their mobility so they can hold out until our transport plane gets here.
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Griffin's neural cloud upload isn't functional right now, you said?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Yeah... Our server has been very unstable ever since the Military launched their attack against us. +Then the massive explosion completely disconnected us. +We haven't been able to get in touch with either HQ or Helian... Our other echelons withdrew yesterday, only the Commander stayed behind...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Massive explosion... Was that the dirty bomb with Collapse Fluid...?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Dirty bomb?
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:N...nothing. What's the status of the repair site?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Very bad... +We don't have enough spare parts, the only option for ones we can't repair is to have their neural cloud data backed up. +Even so, we can't guarantee all the T-Dolls can be backed up as we only have a limited number of data blocks...
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:If that ends up being the case, you'll have to resort to physical backup...
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:But that method—
+NPC-Kalin(2)<Speaker>Kalina</Speaker><Shake>||:...Whoa!
+()<Speaker></Speaker>||:...A T-Doll dashes out from the repair room all of a sudden.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Sorry sorry, are you alright?
+AK74U(0)<Speaker>AK-74U</Speaker>||:Even if I wasn't, I should be the one to apologize. +Kalin, do you know where AK-47's logistics team has gone?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Oh, 9A-91 asked for someone to pick up the wounded from her echelon so I sent them to carry out the mission.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Then I'm going over to help.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Uh, wait, you literally just came out of the repair bay—
+()<Speaker></Speaker>||:...AK-74U leaves paying no heed to her.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Oh...she left... +Uh, sorry, Miss 416. Where were we?
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:Is that T-Doll always so rude to you?
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:I'm used to it; everyone has their own quirks.
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:You're okay with that?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Well...I'm not the one on the frontline, after all.
+UMP9(4)<Speaker>UMP9</Speaker>||:Oh, Gr G11! And 416! Where the hell did you run off to?!
+G11(2)<Speaker>Gr G11</Speaker>||:416 found the logistics officer here. I almost died of exhaustion trying to catch up with her!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Just call me Kalin. Is this the injured T-Doll?
+UMP9(2)<Speaker>UMP9</Speaker>;NPC-Kalin(8)||:That's right. UMP45 is our squad leader. She protected us from an explosion and took the brunt of it...
+UMP9(2);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Hmm...this is very severe damage... Please back off a bit. I'd like to inspect her condition.
+UMP9(2)<Speaker>UMP9</Speaker>;NPC-Kalin(8)||:S-sure!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:This doesn't look good at all... Her torso support structure snapped into two; the right arm got torn off by shrapnel; more shrapnels buried in the other limbs... +I can't detect her power supply; are both the main and auxillary circuits damaged?
+UMP9(2)<Speaker>UMP9</Speaker>||:Ja... The only thing still working is the backup power supply on the neural core itself. We've shut down most of her systems.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Is that so...? That's very decisive of you, but the damage is critical... +I don't recommend a repair, especially when the power supply isn't functional.
+HK416(0)<Speaker>416</Speaker>||:How about a physical backup? At least that'll make sure we can transfer her data...
+UMP9(2)<Speaker>UMP9</Speaker>||:...A physical backup?
+HK416(0)<Speaker>416</Speaker>||:Fräulein Kalina has a few data blocks that can be used to store neural data. We can transfer 45's neural cloud in there for now and find a way to get her a new body...
+UMP45(5)<Speaker>UMP45</Speaker>||:Ugh... Wait...
+UMP9(4)<Speaker>UMP9</Speaker>||:45! Didn't I tell you not to come out of hibernation mode? If you use up all the battery...
+UMP45(5)<Speaker>UMP45</Speaker>||:No...I refuse.
+UMP45(5);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Um... Miss 45, the extent of your damage makes repair very difficult. +Not to mention your parts... don't seem to be standard parts that Griffin uses. A neural transplant is your best choice at the moment.
+UMP45(5)<Speaker>UMP45</Speaker>;NPC-Kalin(8)||:Transplant... +You mean replacing this body...?
+UMP45(5);HK416(0)<Speaker>416</Speaker>||:That's the only way to save you. +It's not like you're more entitled to their already limited data blocks. There are a lot of other damaged T-Dolls here.
+UMP45(5)<Speaker>UMP45</Speaker>;HK416(0)||:No... +I can't...undergo a neural transplant now...
+UMP45(5);UMP9(2)<Speaker>UMP9</Speaker>||:Huh? But why, 45?! +Even now, you're still...
+UMP45(5)<Speaker>UMP45</Speaker>||:"That" chunk of data isn't stored in my neural cloud... If I'm moved to a new body...
+UMP45(5);HK416(0)<Speaker>416</Speaker>||:Do you wanna die, 45? +Isn't your life worth more than all of us combined?
+UMP45(5)<Speaker>UMP45</Speaker>||:(Sneers) Are our lives...worth anything at all? +In any case, this body...is more important than my own life...
+UMP9(2)<Speaker>UMP9</Speaker>||:45, are you really...not doing it?
+()<Speaker></Speaker>||:...UMP45 struggles to shake her head.
+HK416(0)<Speaker>416</Speaker>||:How about having 9 backup your oh-so-precious data? Data-sharing should be pretty easy since you're the same model, right?
+UMP9(2)<Speaker>UMP9</Speaker>||:No... I...
+HK416(0)<Speaker>416</Speaker>||:9, you won't be in combat for a while. You should have enough storage to—
+UMP9(2)<Speaker>UMP9</Speaker>||:45 and I...aren't of the same model...
+HK416(0)<Speaker>416</Speaker>||:What...? +Seriously...just how many more secrets are the two of you keeping...?
+()<Speaker></Speaker>||:...416 lets out a sigh.
+HK416(0)<Speaker>416</Speaker>||:Whatever... Looks like we're getting a new squad leader.
+UMP45(5)<Speaker>UMP45</Speaker>;HK416(0)||:Isn't that...what you've always wanted...?
+UMP45(5);HK416(0)<Speaker>416</Speaker>||:What I wanted is to finish you off myself, not watching you die here like a piece of trash.
+UMP45(5)<Speaker>UMP45</Speaker>;HK416(0)||:Ha... Don't worry, you'll have to wait a long time...
+()<Speaker></Speaker>||:...UMP45 turns toward Kalin.
+UMP45(5)<Speaker>UMP45</Speaker>||:Fräulein Kalin...I know I'm being unreasonable, but I would very much like to keep this body. Please think of a way...
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:A-alright, let me see if I can patch up the power supply system first... +Don't worry! The Commander asked me to do everything I can to help you, and I don't plan on letting you down!
+UMP45(5)<Speaker>UMP45</Speaker>||:Danke schön... And please relay my gratitude to the Commander as well. I—
+()<Speaker></Speaker>||:...There is suddenly a commotion from outside the repair room.
+()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:Outta the way!!
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:W-what is it now?!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Clear the way! Move the wounded to the repair room!
+()<Speaker></Speaker>||:...Seven or eight T-Dolls are carried into the room.
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:74U? What happened?!
+AK74U(0)<Speaker>AK-74U</Speaker>||<BGM>BGM_Danger</BGM>:Kalin, I've been looking for you everywhere! +We got ambushed when we were picking up the wounded from 9A-91's team and suffered heavy losses! +The enemies appeared out of nowhere and punched a hole right through our defense line! Judging from the silhouettes, they were not from either Sangvis Ferri or the Military!
+AK74U(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Not the Military? Then...they're the unknown enemies... Did they already breach the perimeter?! +...Commander! Do you copy? Our outpost were attacked!
+AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(2)||:That's right, the attackers are currently storming our strongpoint! +There aren't many of them, but they've cut off communication between us and our defense echelons out there!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Commander, can you see the situation of our echelons? Please give your orders! +Sure... +Alright, I'll support you from here!
+AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(8)||:What did the Commander say?
+AK74U(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Apparently new troops are coming to reinforce us, but it'll take some time for them to get here. +Right now, we need to organize a fireteam to help out the defense echelons out there, but our numbers... Who else is still operational?
+AK74U(0)<Speaker>AK-74U</Speaker>||:I can still go; are there any other T-dolls still mobile?
+()<Speaker></Speaker>||:...A few T-Dolls step forward unsteadily.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Right, you lot come with me.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Are those the only T-Dolls we have left? That's a bit...
+HK416(0)<Speaker>416</Speaker>||:Fräulein Kalina. +Are there more openings for this fireteam?
+UMP9(2)<Speaker>UMP9</Speaker>||:...416?
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? +Are you...in?
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(2)||:If this place falls, we can't get out of here either.
+HK416(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Then please! I'm updating your IFF signal to the system right now!
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(8)||:Danke. Please also establish a direct line of communication to the Commander; I would like to acquire more combat intel.
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Huh...? Oh, okay! I've set up an encrypted channel; it should be interfaced via your IFF signal now.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Direct communication with the Commander, eh? Not just any T-Doll gets such special treatment. +Who the hell are you?
+HK416(0)<Speaker>416</Speaker>||:Just a Griffin T-doll temporarily back on duty. +You're AK-74U, correct? I hope you won't object to my involvement.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Why would I? We could use all the help we can get. +Just don't die too quickly, I won't mourn for you.
+G11(0)<Speaker>Gr G11</Speaker>||:Sh...should I also come and help?
+G11(0);HK416(0)<Speaker>416</Speaker>||:We'll be dashing about all the time. With your mobility...just forget it and stay here.
+G11(2)<Speaker>Gr G11</Speaker>||:Hnng...
+HK416(0)<Speaker>416</Speaker>||:9, Gr G11 and you are the last line of defense. +Keep Fräulein Kalina safe; she will fix 45. Leave the rest to me.
+UMP9(2)<Speaker>UMP9</Speaker>||:Sure... +But 416... +You...you'll come back, right?
+HK416(0)<Speaker>416</Speaker>||:... +I told you. I won't drop dead before I finish her off myself. +Isn't that right, 45?
+UMP45(5)<Speaker>UMP45</Speaker>||<黑屏1>:...That's entirely up to you.
+()<Speaker></Speaker>||<BIN>10</BIN><黑点2>:...
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Commander, this is T-Doll 416. You know I'm here, let's cut to the chase. </color> +<color=#00CCFF>I am synchronized to Griffin's intel database. Allow me to reiterate the information we have so far. 
+</color> +<color=#00CCFF>Griffin T-Dolls were attacked by unknown enemies while organizing a retreat. The identity of these enemies are unclear, but judging from their appearance and armaments, we can basically rule out Sangvis Ferri and the Military.
+</color> +<color=#00CCFF>Their equipment shows that they are even more technologically advanced than the military units we've seen so far. Furthermore, these enemies seem to be low-tier models. It is highly likely that we will run into even more troublesome enemies.
+</color> +<color=#00CCFF>A fireteam has been assembled. Our main objective is to support the T-Doll echelons along the outer defensive line.
+</color> +<color=#00CCFF>Griffin T-Dolls are garrisoned in three strongpoints at the moment. We have to help them repel enemy attacks and bring them back.
+</color> +<color=#00CCFF>For now, our priority is to eliminate enemy units that are inside the wire before we can get to the defense line. The situation is very dire both in and out the outpost. Please give your orders.
+</color> +<color=#00CCFF>Also, if you don't' mind, allow me to serve as your adjutant. I may not be a command-type T-Doll, but I can more or less coordinate a fight on the scene.
+</color> +<color=#00CCFF>...Are you sure you find the arrangements acceptable?</color>
+()<Speaker>Commander</Speaker>||:...<c>I'll be counting on you then! <c>Can I...trust you? <c>Actually, I don't mind if you stay as my adjutant.
+HK416(0)<Speaker>416</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>A wise decision. But of course, I understand this is only temporary.</color>
+HK416(0)<Speaker>416</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>You may not know this, but out of all the T-Dolls here, I probably have the most experience in actual combat. I strongly advise you to accept my suggestion.</color>
+HK416(0)<Speaker>416</Speaker><通讯框>||<分支>3</分支>:<color=#00CCFF>I don't mind a joke like that...unless you can actually make me stay.</color>
+HK416(0)<Speaker>416</Speaker>||<黑点1>:<color=#00CCFF>Now, please give your orders, o temporary Commander of mine.</color>
+()||<黑点2><BIN>10</BIN>:

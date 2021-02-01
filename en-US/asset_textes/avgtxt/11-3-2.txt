@@ -1,0 +1,73 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>72</BIN><黑屏2>:
+()||:...
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:And that's the end of the espionage part.
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:None of you are getting away!
+()||:Pzzzt!
+NytoWhite(0)<Speaker>Doll tracker</Speaker>||:...? Report...my...
+()||:Snap—!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Sweet dreams. +If I run an analysis on their neural cloud, I may be able to find out more about the Nytos—
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO, are you done?! Wake up, the maid is running away!</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:What?
+()||<BIN>84</BIN><黑屏2><Night>:...RO635 returns to reality right away.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>She suddenly accelerated and strayed off her original course!</color>
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:She sensed it... +She sensed that the signals of all the trackers have disappeared, so she's planning to make a run for it. +Dammit, I didn't expect her to be that fast! Can you catch up?
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:<color=#00CCFF>I can handle that, but you'd better make your way here quickly. I'm no good at talking.</color>
+()||<黑点2><BIN>86</BIN><Night>:...Meanwhile.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:...Hurry. +I need to hurry—! +No more signals following me. +What is going on? All of a sudden... +In any case, this is an advantage. But I can't return to the safe house now. I must leave...
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||<SE1>Rope</SE1>:Mmm—!
+()||:...As the maid runs past an alley, two arms suddenly shoot out and drag her right in.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Gotcha!
+NPC-Maid(0)<Speaker>Maid Doll</Speaker><Shake>||:Mmm! Mm!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Sorry, miss. She doesn't know how to look less threatening. +SOP-II, uncover her mouth. Miss, please don't scream or call the police.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:(Nods frantically) ...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Do you know the person in this photograph?
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:I...don't...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't play dumb. We know what you're up to. +If it weren't for us, those guys would've snatched you long ago.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Who? Is someone after me? I have no idea...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:They'll wake up any second now! You think you can outrun them all on your own?!
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:You...you must be mistaken... +I...I honestly have no idea what you're talking about...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Miss, I heard them when I was hacking them. +If it weren't for us, they'd probably have you surrounded by now. +To catch you and get to your human, they'll step up the operation and attack people indiscriminately. +You and the human under your protection are in grave danger. You can keep trying to deceive us, but then we'll have no reason to protect you.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:...
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(The look in her eyes have changed...)</color>
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:Watch out!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:!!
+()||<闪屏><duration>5</duration></闪屏>:
+()||:A sharp blade comes shooting out of the maid's arm, making a beeline for RO's head. Having expected this to happen, SOP-II grabs the maid by the arms and pins her face against the wall.
+()||<震屏>:
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Argh!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I knew it. No amount of modification can make up for pure physical strength.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Civilian Dolls can't get their hands on 16LAB's good stuff, you know.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Let go! Let me go!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Sorry, we'll have to talk this way. We're doing this to protect you.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:...Protect me?! You don't find many Dolls that can outperform me in this city! +I'm surprised you monsters that came out of nowhere have the audacity to say you're trying to protect me!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:If we meant you any harm, you'd be at the mercy of those guys by now.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:How would I know you aren't just another group of enemies?
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:We aren't bad people and we won't hurt you. +We're senior employees from Griffin & Kryuger PMC. Our sources tell us that this human has information that can help us find another very important human. +Judging from your reaction, you definitely know the man in this picture.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Griffin...?
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:You've got something to say about that?
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:I have heard of that name. +Could the human you're looking for, by any chance, be...?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Ange. Angelia. Do you know this name?
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Angelia... I've been told that someone would come and find her, and that they can be trusted.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right, that's us!
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:But how can I be sure you are who you claim to be?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:If we were under any form of pretense, we'd have simply hacked you by force to obtain the information we want. +We're opening negotiations to express our...good intention.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:By pinning me against the wall?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Miss Maid, as long as you give us what we want, we are more than happy to aid you... +We have reason to believe that the human in the photo is currently in grave danger. I need to know his exact location to ensure his safety.  +This is our Commander's authorization code. I can open our connection for you to verify our identities on Level II.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Alright... I'll believe you for now. Things are pretty urgent right now, so I'll leave the verification for later. +For now, I can only tell you that the man in the photograph is indeed in danger. If you can help me get out of here, I'll tell you where he is.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:That won't be a problem, but I'd rather you tell us his location first in case something happens.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||:Fine...I'll tell you. But before that, could you please release me from this undignified position? This isn't the best way to talk.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:SOP-II, let her go.
+NPC-Maid(0)<Speaker>Maid Doll</Speaker>||<BGM>BGM_Empty</BGM>:!!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM><震屏>:Huh?!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Whoa!!
+()||<SE1>RunStep</SE1>:The moment SOP-II relaxes her grip, the maid kicks RO away and dashes out into the street at lightning speed.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Dammit, she tricked us! Can you catch up, SOP-II?
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:She's too quick! It'll be too late if she runs onto the square... Should I open fire?!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:No...we can't risk it!
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:But—! Huh???
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:What...what just happened?
+RO635-NoArmor(0)||:
+()||:... +The sprinting maid suddenly keels over as if she'd run into an invisible obstacle. Inertia propels her body forward and she rolls over several times before coming to a stop. 
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:... +Holy...what...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||<黑屏1>:This isn't looking good... I have a bad feeling about this...

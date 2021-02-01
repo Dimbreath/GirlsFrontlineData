@@ -1,0 +1,131 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>186</BIN><黑屏2><BGM>BGM_Empty</BGM>:
+G28(2)<Speaker>Gr G28</Speaker>||<BGM>m_va_welcome_to_va11_hall_a</BGM>:Enjoy the present day and the present time! +Good South Hemisphere, er... Wait—
+Dorothy(6)<Speaker>Dorothy</Speaker>||:FINALLY! DOROTHY HAS RETURNED TO VALHALLA!
+Dorothy(4)<Speaker>Dorothy</Speaker>||:Huh? Weren't you that girl from earlier...
+G28(2)<Speaker>Gr G28</Speaker>||:Ahaha, we meet again, Prime Minister Dorothy! +That's right, my other part time job is being a bartender here. It really is an honor to be able to meet you twice in just three hours— +Uh...and you are...
+Stella(0)<Speaker>Stella</Speaker>||:I'm Stella Hoshii. Sorry about the mess I made earlier.
+G28(2)<Speaker>Gr G28</Speaker>||:Ah, don't worry about it. There's an even bigger mess now.
+Stella(0)<Speaker>Stella</Speaker>||:Sei, you told me there were no sexily-dressed bartenders here...
+Sei(2)<Speaker>Sei</Speaker>||:Jill was the one bartending when I was here previously... +She's a human with a figure that's...very different from this Doll.
+G28(2)<Speaker>Gr G28</Speaker>||:Hehe, the boss won't be happy to hear that, although you're telling the truth. +I'm Gr G28, but everyone in the bar likes to call me Gillian. I forgot who was the first one to call me by that name, but you can just use that name for me when I'm bartending.
+Sei(2)<Speaker>Sei</Speaker>||:...It sounds like a puppy's name.
+Dorothy(4)<Speaker>Dorothy</Speaker>||:How are you guys still open even when all of Griffin City is in chaos?
+G28(2)<Speaker>Gr G28</Speaker>||:Well, the boss once said, "If the end of the world comes for us, then the bar is the one place that must exist." +What would you like to drink?
+Dorothy(6)<Speaker>Dorothy</Speaker>||:The usual, give me a Piano Woman!
+G28(2)<Speaker>Gr G28</Speaker>||:This is my first time doing this.
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Yeah, the boss herself always used to make drinks for me. +Now give me your first time, honey!
+Stella(2)<Speaker>Stella</Speaker>||:The boss...you mean the human girl called Jill?
+G28(2)<Speaker>Gr G28</Speaker>||:"Jill"? Yes. But "girl"? She's 27, you know. +Prime Minister Dorothy, your Piano Woman—
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Thank you!
+Dorothy(4)<Speaker>Dorothy</Speaker>||:...Hm...is it me, or does this taste a little different?
+G28(2)<Speaker>Gr G28</Speaker>||:Huh? I made it according to the recipe. Does the boss have some kind of secret formula for it?
+Stella(2)<Speaker>Stella</Speaker>||:So, where is Miss Jill, anyway?
+G28(2)<Speaker>Gr G28</Speaker>||:Ah...the boss... +She went home to take shelter. After all...it's pretty dangerous outside.
+Dorothy(0)<Speaker></Speaker>||:...Dorothy finishes her drink and presses up against Stella.
+Dorothy(4)<Speaker>Dorothy</Speaker>||:I think she's lying. That's what my instincts as a woman and a Lilim are telling me.
+Stella(2)<Speaker>Stella</Speaker>||:...Gr G28. +Jill's still here, isn't she?
+Stella(2);G28(2)<Speaker>Gr G28</Speaker>||<BGM>BGM_Empty</BGM>:What... +Of course not! She went back long—
+Stella(2)<Speaker>Stella</Speaker>||<BGM>m_va_troubling_news</BGM><黑屏1>:Miss Gr G28, please look me in the eye.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:
+G28(2)<Speaker>Gr G28</Speaker>||:Hm?
+()||<SE1>AVG_tele_disconnect</SE1>:...Whum!
+Stella(0)<Speaker>Stella</Speaker>||:Jill is at the back door.
+Stella(0);G28(2)<Speaker>Gr G28</Speaker>||:Huh... +You...you hacked me? +I...I can't move!
+Stella(2)<Speaker>Stella</Speaker>||:I'm sorry, Miss Gillian, but please stay put for five minutes. We're coming over—
+Sei(3)<Speaker>Sei</Speaker>||:There's movement behind the door. Be quiet and don't alert her. Let's go over and have a listen.
+()||:...The three of them press their heads to the back door. +...
+()<Speaker>Jill</Speaker>||:Today...
+Sei(3)<Speaker>Sei</Speaker>||:It's Jill's voice...
+G28(2)<Speaker>Gr G28</Speaker>||:Uuu... I'm doomed...
+()<Speaker>Jill</Speaker>||:My card readings showed me that... +A ghost would bring me tremendous change.
+Stella(0)<Speaker>Stella</Speaker>||:What...?
+()<Speaker>Jill</Speaker>||:The ghost...that black-haired ghost girl told me... +"Everything will begin and end here."
+Dorothy(4)<Speaker>Dorothy</Speaker>||:Hey! Stella, your boobs are squishing my head!
+Stella(2)<Speaker>Stella</Speaker>||:What? They are not!
+Sei(3)<Speaker>Sei</Speaker>||:Quit moving around, you two!
+()<Speaker>Jill</Speaker>||:I knew it! + "A Scientific Theory on the Idea of Auras" is as revolutionary as I thought! +Soon I'll bring the entire world into the occult-science singularity!
+()||<黑屏1>:...Creak—!
+()<Speaker>Dorothy & Stella & Sei</Speaker>||<Night><BIN>86</BIN><黑屏2><BGM>BGM_Empty</BGM>:Uwah!—!
+()||<SE1>ClothingUp</SE1><震屏>:...The back door is suddenly forced open from the weight of the three people pressing up against it, and the rusty hinges emit an ear-piercing shriek as the door collapses to the ground.
+Jill(2)<Speaker>Jill</Speaker>||<BGM>m_va_every_day_is_night</BGM>:Who— +Wait a minute... +Sei? Miss Stella? ...And Prime Minister Dorothy?
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Hi, Jill.
+Sei(0)<Speaker>Sei</Speaker>||:Good Southern Hemisphere, Miss Jill. We meet again.
+Jill(2)<Speaker>Jill</Speaker>||:What kind of team is this? +It looks like any two people among you have a good reason to kill the third.
+Stella(0)<Speaker>Stella</Speaker>||:We're willing to explain, but that's not important. Why don't you tell us what you were doing?
+Jill(4)<Speaker>Jill</Speaker>||:I...
+G28(2)<Speaker>Gr G28</Speaker>||:S-She was conducting research into her occultism theories...+It's a hobby that's...not too well understood...
+Jill(4)<Speaker>Jill</Speaker><Shake>||:This is science! Artificial lifeforms would never understand!
+Dorothy(4)<Speaker>Dorothy</Speaker>||:Oh my...as a DFC-72 android and the last Prime Minister on Earth, it pains me to hear that. +So in the end, the last hope for the world that we did our best to find turns out to be the chuuni antics of a human friend of mine who's still wearing twin tails at the age of 27.
+Jill(4)<Speaker>Jill</Speaker>||:Er... chuuni-what? +No! This is real! Listen, I can speak with ghosts! I've always been able to! She's going to show herself today, and I'm trying to summon her true form!
+Sei(3)<Speaker>Sei</Speaker>||:I'm sorry, Miss Jill, but the world outside is in chaos. +The Dolls and natives are brawling with all kinds of mechs on the streets, and a White Knight deserter, a S.F. boss, and a Griffin City Prime Minister have teamed up to save the world. +I think...now isn't a good time to draw the attention of the world with your childish dreams.
+Dorothy(4)<Speaker>Dorothy</Speaker>||:I'm glad to have discovered your other secret. All the best with your research into the occult, honey.
+Stella(2)<Speaker>Stella</Speaker>||:Wait a minute. +There may be a connection between all of this. Let me ask a few more questions. +Miss Jill, what did that ghost look like?
+Jill(2)<Speaker>Jill</Speaker>||:Uh...She had shoulder-length black hair and looked to be in her teens. +She wore a long black robe and her face was as stiff as a Doll's.
+Stella(2)<Speaker>Stella</Speaker>||:What was her name?
+Jill(2)<Speaker>Jill</Speaker>||:She asked me to call her Anna. +Anna Graem.
+Dorothy(6)<Speaker>Dorothy</Speaker>||:Anna? Good heavens, it really is Anna!
+Stella(2)<Speaker>Stella</Speaker>||:Jill, can you still see her? That ghost?
+Jill(2)<Speaker>Jill</Speaker>||:I...I did as she instructed, and she said she would be officially guiding me today. +And then she vanished, and I've been trying to summon her... Maybe she might show up soon. +So what happened to Anna? +She said, "if you want to learn the truth, you will have to trust me". I don't think she's a bad person!
+Dorothy(4)<Speaker>Dorothy</Speaker>||:Er... Guys...
+Stella(2)<Speaker>Stella</Speaker>||:Miss Jill, you're 27 years old already; don't you think that sounded really dangerous?
+Jill(2)<Speaker>Jill</Speaker>||:Growing old isn't a curse, it's an achievement! It's because I'm 27 that I'm not worried about danger. +Or are you saying...it's even more dangerous than the state of this city right now?
+Dorothy(2)<Speaker>Dorothy</Speaker>||<BGM>BGM_Empty</BGM>:Guys! Have...have I grown taller?
+Sei(3)<Speaker>Sei</Speaker>||:Grown taller? +No! Good heavens, you're floating up into the air, Dorothy!
+Dorothy(2)<Speaker>Dorothy</Speaker><Shake>||:Ehhhhhh!? I-I-I-I-I'm actually flying!
+Jill(3)<Speaker>Jill</Speaker>||:What's going on!? To think I'm not the only one witnessing a practical manifestation of the occult!
+Stella(2)<Speaker>Stella</Speaker>||:No! It's a levitation potion! +Sei, grab onto her, or else Dorothy's going to fly off!
+Sei(2)<Speaker>Sei</Speaker>||:I got you! I got you!
+Stella(2)<Speaker>Stella</Speaker>||<BGM>m_va_synthestitch</BGM>:It was the drink... It must have been Gr G28!
+()||:...Just as Stella is about to turn around—
+()||<震屏>:...Bam! +...She is suddenly knocked down by something.
+Sei(2)<Speaker>Sei</Speaker>||:Stella—!
+Stella(2)<Speaker>Stella</Speaker>||<SE1>ClothingUp</SE1>:Something hit me! +Dammit, Gr G28! You hit me with your boobs!
+G28(2)<Speaker>Gr G28</Speaker>||:Sorry, everyone. +Miss White Knight, you'd better not let go, otherwise Prime Minister Dorothy is going to fly off into the sky.
+G28(2)<Speaker>Gr G28</Speaker>||<SE1>Rope</SE1><震屏>:And you, Miss Stella, don't think you can look into my eyes again!
+Stella(2)<Speaker>Stella</Speaker>||:Gwaaahhh! It's the "Walls of Jericho"!
+G28(2)<Speaker>Gr G28</Speaker>||:I learned that from you from before! —Boss, now's your chance, hurry up and run!
+Jill(2)<Speaker>Jill</Speaker>||:Huh?
+G28(2)<Speaker>Gr G28</Speaker>||<震屏>:They're looking for Anna! Run!
+Jill(2)<Speaker>Jill</Speaker>||:Uh... +But! I...where should I go!
+G28(2)<Speaker>Gr G28</Speaker>||:Some place where you can see Anna!
+()||<BGM>BGM_Empty</BGM>:...Jill freezes.
+Jill(2)<Speaker>Jill</Speaker>||<BGM>m_va_follow_the_trail</BGM>:A place...where I can see Anna...
+G28(2)<Speaker>Gr G28</Speaker>||:Hurry, boss! +Anna said that you'll definitely be able to find her!
+Dorothy(2)<Speaker>Dorothy</Speaker>||:Hey—!
+Sei(2)<Speaker>Sei</Speaker>||<震屏>:Don't squirm, you'll fly off!
+G28(2)<Speaker>Gr G28</Speaker>||:Run, Jill, run!
+Stella(2)<Speaker>Stella</Speaker>||:Dammit! Sei, your gun!
+()||<SE1>AVG_weapon_reload</SE1>:...Kachak! Sei pulls out her gun with one hand.
+Sei(2)<Speaker>Sei</Speaker>||:I'm sorry, Miss Jill! Please don't move!
+Jill(2)<Speaker>Jill</Speaker><Shake>||:You, what are you doing! Please don't shoot!
+G28(2)<Speaker>Gr G28</Speaker>||:Hey, you're scaring the boss! +Uwah—!
+()||<SE1>ClothingUp</SE1><震屏>:...Stella takes advantage of Gr G28's moment of distraction to reverse the hold and pins her to the ground.
+Stella(2)<Speaker>Stella</Speaker>||:That'll settle you, you goddamn Doll! +Sei! Throw Dorothy to me! Hurry up and subdue Jill!
+Dorothy(2)<Speaker>Dorothy</Speaker>||<震屏>:Ahhhh! ...Gently, gently!
+Dorothy(0)<Speaker>Dorothy</Speaker>||:—All right, I'm home free!
+Sei(2)<Speaker>Sei</Speaker>||:Miss Jill, please work with us!
+Jill(2)<Speaker>Jill</Speaker>;Sei(2)||:St-Stay back, Sei!
+Sei(2)<Speaker>Sei</Speaker>||:I won't hurt you. I just want to ask you a few questions. May I do that?
+()||:...Sei puts her gun away.
+Sei(4)<Speaker>Sei</Speaker>||:Don't be scared. Please give me your hand.
+Dorothy(4)<Speaker>Dorothy</Speaker>||:Sei, you look like you're better cut out for the Valkyries.
+Jill(2)<Speaker>Jill</Speaker>||:I...
+G28(2)<Speaker>Gr G28</Speaker>||:Boss...
+Sei(4)<Speaker>Sei</Speaker>||:Take your time, it's alright...
+Jill(2)<Speaker>Jill</Speaker>||:Sei, everyone... +I—
+Sei(3)<Speaker>Sei</Speaker>||:What—!
+()||<BGM>BGM_Empty</BGM><白屏1>0,5</白屏1>:...Sei reaches out to grab Jill.
+()||<黑屏1><白屏2>0,5</白屏2>:...And then, her hand touches nothing but thin air.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>m_va_spirit_potion</BGM>:
+Dorothy(0)<Speaker>Dorothy</Speaker>||:Whoa...
+Sei(3)<Speaker>Sei</Speaker>||:Jill? Jill, where did you go!?
+Stella(2)<Speaker>Stella</Speaker>||:Did...she vanish?
+Sei(3)<Speaker>Sei</Speaker>||:Looks like it... +She just...vanished all of a sudden.
+Dorothy(3)<Speaker>Dorothy</Speaker>||:Alright, my dear little dairy barmaid! +You must have something you want to tell us, right?
+G28(2)<Speaker>Gr G28</Speaker>||:Uuu...
+Stella(2)<Speaker>Stella</Speaker>||:You don't have to tell me, I'll scour your neural cloud for it.
+G28(2)<Speaker>Gr G28</Speaker><Shake>||:D-Don't! I'll tell you! +Although, you won't be able to accept...the truth...
+Sei(3)<Speaker>Sei</Speaker>||:Miss Gillian, no matter what Miss Jill turns out to be, it won't change how we see her.
+G28(2)<Speaker>Gr G28</Speaker>||:No...I'm not just talking about the boss or Anna...
+()<Speaker>Gr G28</Speaker>||<黑屏1>:I'm talking about...the truth of this world.

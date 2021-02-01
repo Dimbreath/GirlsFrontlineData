@@ -1,0 +1,92 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><Night><黑屏2>:
+OTs14(0)<Speaker>OTs-14</Speaker>||<BGM>BGM_Room</BGM>:...Did I oversleep?
+()||:OTs-14 opens her eyes and sits up on her bed. She looks around at the empty beds around her and breathes a sigh of relief.
+OTs14(0)<Speaker>OTs-14</Speaker>||:Doesn't look like it. +The others have all used the Spring Festival as an excuse to go out for dinner and drinks. +I'm guessing they won't return until it's very late or even morning... Perfectly fine by me.
+()||:She walks over to her wardrobe, punches in the passcode, and takes out a package sealed securely in a waterproof bag.
+()||<SE1>ClothingUp</SE1>:
+OTs14(0)<Speaker>OTs-14</Speaker>||<黑屏1>:The Commander really does know my measurements. This tailor-made dress fits me just right. +The Commander was grumbling about how I didn't put it on right away... +But it'd be such a waste to just throw on such an important gift for no apparent reason.
+()||<黑屏2>:OTs-14 studies her own reflection wearing the qipao-inspired dress in the mirror, then, based on her self-determined aesthetics, picks out a fur scarf, gloves, and accessories to complete her "arsenal".
+OTs14(4)<Speaker>OTs-14</Speaker>||:Xорошо, flawless. +Though it's a joy to share nice wine with others, sometimes enjoying a drink alone is a kind of luxury, too. +It's also great to travel every now and then. It may not be possible to actually leave and run to the other side of the planet...+...but going on a getaway in a neighboring city and enjoying a night all to myself sounds like a pretty good idea as well.
+()||:As a Griffin Tactical Doll and the leader of a team... +...who also enjoys living life at her own pace, OTs-14 has been waiting for this for a long time. +An opportunity to temporarily let go of all responsibilities and throw herself into joyous abandon.
+OTs14(4)<Speaker>OTs-14</Speaker>||:And finally, this lacquered trunk ordered especially for the festivity. With that, all the preparations are...
+()||:Knock, knock!
+OTs14(4)<Speaker>OTs-14</Speaker>||<黑屏1>:A delivery at this hour?
+()||<BGM>BGM_Empty</BGM><黑屏2>:OTs-14 opens the door hesitantly and finds two Griffin T-Dolls outside her dorm. +A dazzling lantern in hand, one of them greets her cheerfully.
+m45(0)<Speaker>m45</Speaker>||<BGM>BGM_Hello</BGM>:Happy New Year! We're giving you an early New Year visit! Let's take care of each other in the coming year, too!
+OTs14(4)<Speaker>OTs-14</Speaker>||:...Sorry?
+()||:At OTs-14's stony response, m45 pauses uncertainly, then offers another bright smile.
+m45(0)<Speaker>m45</Speaker>||:Um, you know, it's the Spring Festival! Lunar New Year! Happy Year of the Pig!
+OTs14(4)<Speaker>OTs-14</Speaker>;m45(0)||:Nyet, I understood every word you said; I didn't mean to make you repeat yourself. +It's just... why now?
+OTs14(4);m45(0)<Speaker>m45</Speaker>||:Well, I did say it's an early New Year visit...
+OTs14(4)<Speaker>OTs-14</Speaker>;m45(0)||:It doesn't have to be THIS early, does it? It's just past midnight.
+OTs14(4);m45(0)<Speaker>m45</Speaker>||:Well, um... +W-What do I do now? Groza is even sterner than I thought. (Whispers)
+OTs14(4)<Speaker>OTs-14</Speaker>;m45(0)||:Not all flowers will bloom to welcome spring; there is no need to wish so hard for that. +So, are you carrying out some kind of special mission? +Let me guess, Commander's orders?
+OTs14(4);m45(0)<Speaker>m45</Speaker>||:Yes, uh... The Commander has asked me to visit all the T-Dolls in the base and give them a New Year present. It's some bread that I made myself. 
+OTs14(4)<Speaker>OTs-14</Speaker>;m45(0)||:So kind to the point of being meddlesome. That's exactly like the Commander.
+OTs14(4);m45(0)<Speaker>m45</Speaker>||:I'm glad you understand...! +And as expected of you, Groza. You've dressed up so properly for New Year's Day. The other T-Dolls really could learn a thing or two from you about etiquette. +I'm very happy to have run into you. Seeing you makes me realize I'm not the only one who has worked very hard to prepare for this day!
+OTs14(4)<Speaker>OTs-14</Speaker>||:Nyet, this is... +A-Anyway, you still have to complete your mission, right? Then I'll be taking the gift. Good luck.
+()||:OTs-14 grabs the gift and hurriedly shuts the door.
+m45(0)<Speaker>m45</Speaker>||<黑点1>:Somehow, she seemed a bit desperate to end the conversation right then and there. +Did I cause her any distress? +Maybe she's dressed like that for some important guest?
+()<Speaker></Speaker>||<黑点2>:
+OTs14(4)<Speaker>OTs-14</Speaker>||:...Guess I'll just put this away for now.
+()||:Knock, knock!
+OTs14(4)<Speaker>OTs-14</Speaker>||<黑屏1>:Again?
+()||<黑屏2>:She shoves the bread she just received to one side and opens the door again. +The moment she does, an overwhelming smell assaults her nose.
+OTs14(4)<Speaker>OTs-14</Speaker>||:<color=#A9A9A9>That's a really strong smell... It doesn't stink and actually smells nice, but still...</color>
+OTs14(4)<Speaker>OTs-14</Speaker>||:Good evening. How may I help you?
+OTs14(4);56-1type(4)<Speaker>Type 56-1</Speaker>||:The Dog has completed its watch, and the Pig ushers in a new and prosperous year! Happy New Year!
+OTs14(4);97typeS(0)<Speaker>Type 97S</Speaker>||:May the God of Wealth grace you with a visit and the auspicious Pig come through your door! Happy New Year!
+OTs14(4)<Speaker>OTs-14</Speaker>;97typeS(0)||:I understand the last bit, but what do you mean by the first part?
+OTs14(4);56-1type(4)<Speaker>Type 56-1</Speaker>||:We're wishing you wealth, a pay raise, and good fortune!
+OTs14(4)<Speaker>OTs-14</Speaker>;56-1type(4)||:...Spasibo. +What's that you're holding?
+OTs14(4);97typeS(0)<Speaker>Type 97S</Speaker>||:These? They're our homemade smoked sausages.
+OTs14(4);56-1type(4)<Speaker>Type 56-1</Speaker>||:100% natural pork with no chemical composites and or artificial seasoning! The fresh and rich aroma can be smelled from miles away!
+OTs14(4)<Speaker>OTs-14</Speaker>;56-1type(4)||:Are you peddling...?
+OTs14(4);97typeS(0)<Speaker>Type 97S</Speaker>||:Why would we be peddlers? We wouldn't dream of asking you for money; we're colleagues! These are your New Year gift.
+OTs14(4)<Speaker>OTs-14</Speaker>;97typeS(0)||:But our fridge is running out of space.
+OTs14(4);56-1type(4)<Speaker>Type 56-1</Speaker>||:Don't worry, these can be stored in room temperature for a really long time. +Besides, you can use them for making sausage fried rice, glutinous rice sausages, sausage rolls, or even sausage and beer casserole! +I hear you're very good at cooking yourself, Groza. I'm sure you can make something that suits the Commander's palate out of them!
+OTs14(4)<Speaker>OTs-14</Speaker>;56-1type(4)||:Then why don't you cook for the Commander yourselves?
+56-1type(4)<Speaker>Type 56-1</Speaker>||:Well...
+97typeS(0)<Speaker>Type 97S</Speaker>||:I mean...
+()||:The two visitors study OTs-14 from head to toe.
+97typeS(0)<Speaker>Type 97S</Speaker>||:You'd probably do a better job?
+56-1type(4)<Speaker>Type 56-1</Speaker>||:Yeah, it's absolutely perfect. Even I can't stop myself from looking.
+OTs14(4)<Speaker>OTs-14</Speaker>||<黑点1>:I have no idea what you two are thinking about, nor do I want to know... +But I'll be taking these. Happy New Year.
+()||<黑点2>:OTs-14 gives up and accepts the present with a strong and unique aroma, then shoves it into the kitchen cabinet.
+OTs14(4)<Speaker>OTs-14</Speaker>||:This won't do. Let's not dawdle any further, and set off right away.
+()||:Knock, knock, knock, knock!
+OTs14(4)<Speaker>OTs-14</Speaker>||<黑屏1>:...
+()||<黑屏2>:OTs-14 has never felt so out of her depth since her employment at Griffin, or perhaps even since her creation. +But even so, she answers the door.
+M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Hey, tovarisch! I've brought you a tea brick. +We may be on different teams now, but do come by for a nice cup of tea every now and then!
+SKS(0)<Speaker>SKS</Speaker>||:Is AK-47 out? Thank goodness you're here. Please accept this present on her behalf... +Oh, I've got one for you too, of course.
+PM(0)<Speaker>Makarov</Speaker>||:We'll be counting on you in the coming year as well, OTs-14. +After all, not just any T-Doll deserves a special visit like this... Let's both do our best.
+OTs14(4)<Speaker></Speaker>||:T-Dolls come incessantly one after another, group after group, to visit OTs-14 and offer their New Year gifts. +Though most of them didn't actually prepare anything and only remembered it was Lunar New Year today after m45 had knocked on their door past midnight... +Still, a lot of T-Dolls followed suit and joined in on the occasion.
+()||:OTs-14 takes it all in stride. She accepts gift after gift and shakes hands with all her visitors to show her thanks.
+()||<黑屏1><BGM>BGM_Empty</BGM>:Time flies, and before she knows it, the sun has already risen.
+AK47(0)<Speaker>AK-47</Speaker>||<BIN>82</BIN><黑屏2>:I had a blast! It was so much fun visiting the neighbors and chatting with them!
+SVD(0)<Speaker>SVD</Speaker>||:But going from door to door till the sun comes up is exhausting. +...Whoa!
+SV98(0)<Speaker>SV-98</Speaker>||:What is it, SVD? +...Wow.
+()||<BGM>GF_Memorial</BGM>:At the sight of the massive pile of gifts in the dorm and an OTs-14 hard at work trying to sort them into categories, her teammates' eyes widen in shock.
+SVD(0)<Speaker>SVD</Speaker>||:So many gifts! Groza, you're way too popular! Give some to me!
+OTs14(4)<Speaker>OTs-14</Speaker>;SVD(0)||:You're back? Perfect. I'll be going to bed once I finish sorting them out. Sigh...
+OTs14(4);AK47(0)<Speaker>AK-47</Speaker>||:Why the heavy sigh? It's a day of joy and celebration!
+OTs14(4)<Speaker>OTs-14</Speaker>;AK47(0)||:I suppose things don't always go the way one wants.
+OTs14(4);AK47(0)<Speaker>AK-47</Speaker>||:Is... something wrong?
+OTs14(4)<Speaker>OTs-14</Speaker>;AK47(0)||:Not really, I simply don't understand why everyone came running to me with gifts. +There must be better things to do.
+OTs14(4);SV98(0)<Speaker>SV-98</Speaker>||:That's because you're super dependable, Groza.
+OTs14(4);SVD(0)<Speaker>SVD</Speaker>||:Rather than dependable, I say it's more like Groza is really easy-going and helpful. +She throws harsh criticisms right at your face and they all hit home, but that's exactly why she's always so useful to have around. +Anyone who knows OTs-14 would want to shove their work to her, right?
+OTs14(4);AK47(0)<Speaker>AK-47</Speaker>||:Da, my thoughts exactly.
+OTs14(4);SV98(0)<Speaker>SV-98</Speaker>||:How could you say that, SVD?! And you, too, AK-47!
+OTs14(4);SVD(0)<Speaker>SVD</Speaker>||:I'm not being sarcastic at all. Groza is amazing; I mean it. +There are so many losers at Griffin who can't do anything about the situation even if you ask them for help... +On the other hand, if you ever have any trouble, get OTs-14 and she'll solve the problem quickly and effectively.
+OTs14(4)<Speaker>OTs-14</Speaker>;SVD(0)||:But I don't really go out of my way to help anyone.
+OTs14(4);SV98(0)<Speaker>SV-98</Speaker>||:That brisk and direct attitude of yours is precisely what makes you so dependable! +You don't always offer your hand. You're like a predator - you only make a move when success is guaranteed! +That's the kind of professional vibe you give off.
+OTs14(4)<Speaker>OTs-14</Speaker>;SV98(0)||:It may simply be that I hide my failures well.
+OTs14(4);AK47(0)<Speaker>AK-47</Speaker>||:Nonsense! If no one sees them, they might as well never have happened, right?
+SVD(0)<Speaker>SVD</Speaker>;AK47(0)||:Oooh, such wise and philosophical words from AK-47. +Is it because of the booze, or has the real AK-47 been kidnapped by Sangvis Ferri and replaced by a fake?
+AK47(0)<Speaker>AK-47</Speaker>||<黑屏1>:Whaaaat? I do think with my neural cloud before I open my mouth, okay?!
+()||<黑屏2>:Her teammates all put down their belongings and climb into bed. OTs-14 stares at her trunk standing right beside the wall.
+OTs14(4)<Speaker>OTs-14</Speaker>||:Looks like this little trip of mine has to be postponed due to a flight delay. +Still...
+()||<黑屏1>:She lets her gaze drift over to the mountain of New Year gifts and recalls what her teammates just said about her, and a faint smile appears on her impassive face.
+()<Speaker>OTs-14</Speaker>||<BIN>9</BIN><黑屏2>:Others depend on me? +While it cost me some luxurious "me" time, I suppose it's not too bad of a deal.
+()||<黑屏1>:

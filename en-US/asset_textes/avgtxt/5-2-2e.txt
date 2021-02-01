@@ -1,0 +1,16 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:The AR Team entered the control center.+...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:(Gestures) 'There's a human target in there.'
+M4A1()<Speaker>M4A1</Speaker>||:... (Nods)+(Gestures) Ready. 3, 2, 1...
+()||<BIN>22</BIN><SE1>Explode</SE1><震屏>:...Bang!
+M4A1(3)<Speaker>M4A1</Speaker>||:Human over there! Arms in the air! Face us!
+??()<Speaker>??</Speaker>||:...
+M4A1(3)<Speaker>M4A1</Speaker>||:Last warning. Put your arms in the air, or we will have the license to shoot!
+??()<Speaker>??</Speaker>||:No, you don't...
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:...Not at me.
+M4A1(3)<Speaker>M16A1</Speaker>;NPC-Kyruger(0)||<BGM>BGM_Sad</BGM>:...!!+My deepest apologies, Mr. Kryuger!
+M16(3)<Speaker>M16A1</Speaker>;NPC-Kyruger(0)||:Sorry to be blunt, Mr. Kryuger.+But this doesn't match up with what we've learned about this mission.+Not to mention, it's very dangerous not to carry any signal identification device on your person on enemy territory.
+M16(3);NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:It'd be even more dangerous if my signal didn't pass Sangvis' authorization authentication.+The new device is still flawed. I need to get 16Lab to make some improvements.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||:Are you here...just to test out this new device?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||:We're a special operations force, not some security squad!
+M4A1(3)<Speaker>M4A1</Speaker>;NPC-Kyruger(0)||:SOP-II, calm down!
+M4A1(3);NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<黑屏1>:...+I still trust you.+Finish collecting data from this place, then bring this new assignment to your commander.

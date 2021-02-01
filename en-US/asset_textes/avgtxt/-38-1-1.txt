@@ -1,0 +1,74 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>259</BIN><黑屏2><BGM>GF_xGS2_27</BGM>:... +The garden is imbued with faint aroma. It smells of flowers and tea leaves.
+指挥官()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Is this what it's like on Level II? It looks more realistic than I imagined.</color>
+NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This girl seems to be a neural cloud consciousness stored within this space. I can detect a massive torrent of data from her.</color>
+NPC-Kalin(2)<Speaker>Commander</Speaker>||:<color=#00CCFF>So have we found the culprit?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>I would say so...but how could such a sweet girl be the nasty hacker that we're after?</color> +<color=#00CCFF>She doesn't seem to have any motive for seizing the neural clouds of our Dolls.</color>
+NPC-Kalin(4)<Speaker>Commander</Speaker>||:<color=#00CCFF>In any case, let's try talking to her.</color> +<color=#00CCFF>Is this "Signore Giuseppe" the original user of this account?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Probably. I think you might need to do some roleplay. Just improvise while you talk to her; we might find out more.</color>
+()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Alright, I'll give that a try.</color>
+Henrietta(1)<Speaker>Henrietta</Speaker>||:We're here, Signore Giuseppe. Please take a seat. +I'm so glad I've prepared snacks beforehand so our tea party could start on time.
+Henrietta(1)<Speaker>Commander</Speaker>||:Thank you, the tea is wonderful. +Henrietta...isn't it? Have you been here the whole time?
+Henrietta(1)<Speaker>Henrietta</Speaker>||:Yes, I've been waiting for you ever since you left. I wanted to be the first to welcome you home... +You must've been very busy. May I ask what you've been doing?
+Henrietta(1)<Speaker>Commander</Speaker>||:Hmm...nothing out of the usual.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:So it was a mission with Section 1?
+Henrietta(1)<Speaker>Commander</Speaker>||:Section 1? +Yeah...I suppose.
+Henrietta(2)<Speaker>Henrietta</Speaker>||:I see... So it really was a covert operation. +You mentioned no Cyborgs were allowed on the mission so I suspected it had something to do with Section 1. +But that's okay, we've all been waiting for you to come back.
+Henrietta(2)<Speaker>Commander</Speaker>||:"We"?
+()<Speaker></Speaker>||:I look around. The garden is charming but empty. A building is partially obscured in the distance. But no matter how I look at it, Henrietta and I appear to be the only people in the garden.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:Are you looking for Triela and the others? They're out playing. +We've all been waiting for a long time so they've all headed off to do their own thing.
+Henrietta(1)<Speaker>Commander</Speaker>||:Who's Triela...? +Never mind, let's leave that for now. +Henrietta, have you seen any strangers lately?
+Henrietta(1)<Speaker>Henrietta</Speaker>||:Strangers? I did see quite a lot of them the past few days... +What kind of strangers are we talking about?
+()<Speaker>Commander</Speaker>||:...<c>A. A tall, cheerful girl with red hair. <c>B. A gloomy-looking girl with purple hair and a green cape. <c>C. A clumsy girl with bluish gray hair. <c>D. A girl with dazzling blonde curls.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<分支>1</分支>:A red-headed girl...? I did see a distinctive Cyborg like that, but I wouldn't say she's particularly tall. Her hair was in twin tails and she was wearing what looked like a custom-made ceremonial dress. +She's with Angelica right now.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<分支>2</分支>:A girl with purple hair... I did see her. She seemed really shy. +She's with Triela.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<分支>3</分支>:Oh, you mean the lady in the immaculate uniform! She was dressed like a military police officer. She looked really awe-inspiring but was very approachable at the same time... +She's with Rico.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<分支>4</分支>:Many women match that description...
+Henrietta(1)<Speaker>Commander</Speaker>||<分支>4</分支>:Her hair is especially fluffy. It's fanned out like this.
+Henrietta(1)<Speaker>Henrietta</Speaker>||<分支>4</分支>:Oh, now that you mention it, I remember seeing something like that. She came in a pumpkin – like that princess in the fairy tale. +She's with Claes.
+Henrietta(3)<Speaker>Henrietta</Speaker>||:...Are they enemies...or maybe spies from the Five Republics?
+Henrietta(3)<Speaker>Commander</Speaker>||:No, no, they're not enemies. They're my friends.
+()<Speaker></Speaker>||:Her hands ball up into fists as she clutches at the hem of her dress.
+Henrietta(4)<Speaker>Henrietta</Speaker>||:...I see. Friends, you say...? +Then I suppose I'll have to thank them.
+Henrietta(4)<Speaker>Commander</Speaker>||:Thank them?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:They must be your new Fratello, that's why you've come back to look for them, right? +But...I miss you so much... So you didn't come back for me?
+Henrietta(4)<Speaker>Commander</Speaker>||:<color=#A9A9A9>Has she been waiting for the owner of this account the whole time? She still doesn't know she's been abandoned? That's kinda sad.</color> +Don't worry... Henrietta, I did come back for you.
+Henrietta(2)<Speaker>Henrietta</Speaker>||:Hmmm... ehehe
+Henrietta(2)<Speaker>Commander</Speaker>||:What is it?
+Henrietta(2)<Speaker>Henrietta</Speaker>||:Nothing... I'm just very happy to hear you say that, Signore Giuseppe. +It has always been like this between the two of us - "there's no need for words between brothers and sisters."
+Henrietta(2)<Speaker>Commander</Speaker>||:Right... Hold on, brothers and sisters? +You mean us?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Have you forgotten, Signore Giuseppe? +We're partners working for the Social Welfare Agency – a "Fratello". +You're my Handler, and I'm your Cyborg. As Cyborgs, we protect our Handler with our own life and do everything we can to help you fulfill your wish.
+Henrietta(4)<Speaker>Commander</Speaker>||:<color=#00CCFF>Kalin, some explanation, please?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>On it. I searched the database and found an explanatory document of the setting. Sending it to you right now.</color>
+()<Speaker></Speaker>||:Kalina sends me the document and I skim through it quickly without letting Henrietta know.
+()<Speaker></Speaker>||:In the setting, the "Social Welfare Agency" is a special service department within the government that operates under the facade of a welfare organization. +They take in girls who fell victims to unfortunate accidents and give them a second chance at life by converting them into Cyborg assassins. They are then paired with agents known as "Handlers" and undertake missions for the government under the table.
+()<Speaker></Speaker>||:Cyborgs... They're similar to T-Dolls, but also vastly different. +The fact that they're called Cyborgs means these are living, breathing human beings with flesh and blood. Their "Handlers" must've carried a much heavier burden than us T-Doll Commanders.
+()<Speaker></Speaker>||:So the owner of this account played the role of a "Handler"? Then I suppose it makes sense why he never came back. +Still, what has all this got to do with our Dolls? +Looks like I must start investigating this girl to get to the bottom of this.
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Signore Giuseppe?
+Henrietta(4)<Speaker>Commander</Speaker>||:Sorry, I spaced out for a bit. +...You're right, of course. +I'm sorry for not coming back earlier. The mission took a lot longer than I'd thought.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:It's alright, missions from the Agency always come first. +Besides, I don't mind waiting because I know you'd come back the second you can!
+Henrietta(1)<Speaker>Commander</Speaker>||:Uh... Indeed. +Henrietta, do you mind showing me to the new...Cyborgs?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Don't you want to stay a little longer? +You literally just came back... +<size=25>Or do they matter more than me?</size>
+()<Speaker></Speaker>||:I notice an odd gleam in Henrietta's eyes. +The Agency demand absolute loyalty from their Cyborgs, so they brainwash the girls through a "Conditioning" process to make them obey their Handlers without question, but this pure devotion instilled by their Conditioning would inevitably get twisted into something else. +Which is why I must tread carefully when communicating with this girl.
+指挥官()<Speaker>Commander</Speaker>||:Those girls have information concerning our previous mission and I need that information.
+Henrietta(2)<Speaker>Henrietta</Speaker>||:Oh...is that so...
+Henrietta(2)<Speaker></Speaker>||:Henrietta's eyes soften, much to my relief.
+Henrietta(2)<Speaker>Henrietta</Speaker>||:But even I don't know their exact location.
+指挥官()<Speaker>Commander</Speaker>||:Why?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Have you forgotten about that as well? Look at that building. That's "Vita". +You told us we could spend our free time there while you were out with Signore Jean and the others.
+Henrietta(4)<Speaker>Commander</Speaker>||:Vita?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:That's right. In this place called Vita, we can wish for anything; we can create the perfect world for ourselves to play freely in. +Angelica, Rico, Triela, and Claes are all in there.
+Henrietta(4)<Speaker>Commander</Speaker>||:What about you?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:...
+()<Speaker></Speaker>||:The question seems to have caught her off-guard and made her a bit uncomfortable. She hunches up in the chair while her eyes dart around frantically.
+指挥官()<Speaker>Commander</Speaker>||:Henrietta?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:I...I was waiting for you to come back. +I didn't want to go there on my own... I thought it'd only be appropriate if I went together with you, Signore Giuseppe.
+Henrietta(4)<Speaker>Commander</Speaker>||:I...I see. +Then when are they coming out?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Hmm...I'm not sure, but it's probably going to take a while.
+Henrietta(4)<Speaker>Commander</Speaker>||:I'm afraid I can't wait that long.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:Then let's go find them together! +You can come with me!
+Henrietta(1)<Speaker>Commander</Speaker>||:Going into Vita? Just like that?
+Henrietta(4)<Speaker>Henrietta</Speaker>||:Is there a problem?
+Henrietta(4)<Speaker>Commander</Speaker>||:N-no, let's set off right away.
+Henrietta(1)<Speaker>Henrietta</Speaker>||:Okie~ Ehehe~
+()<Speaker></Speaker>||:As if suppressing strong feelings, she takes my hand and pulls me toward the building outside the garden. +The sun shines through the foliage and sprinkles Henrietta's smiling face with spots of light and shadow. For some reason, I feel strangely protective of her. +Are these girls' stories just fiction? Or did they actually happen somewhere and were somehow documented in this stretch of cyberspace? +With these questions buzzing in my head, I am led by Henrietta into the building known as "Vita".

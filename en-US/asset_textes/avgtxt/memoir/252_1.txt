@@ -1,0 +1,99 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>Clear Voice of a Girl</Speaker>||<BGM>m_avg_labyrinth</BGM><BIN>9</BIN>:Once there were trees full of birds...
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2>:<color=#A9A9A9>Here it goes again. This singing voice...</color> +Who are you? What are you doing in the dream of an automaton?
+KSVK(0)<Speaker>Clear Voice of a Girl</Speaker>||:Meadowlands vibrant with flowers... Carefree the songs our children once sang...
+KSVK(0)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>It always stopped here. Will it be the same this time?</color>
+KSVK(0)<Speaker>Clear Voice of a Girl</Speaker>||:How was my singing, Helena?
+KSVK(0)<Speaker>KSVK</Speaker>||:This is new.
+KSVK(0)<Speaker>???</Speaker>||:Mhm, I'm sure Ms. James would love it.
+KSVK(0)<Speaker>KSVK</Speaker>||:That voice...sounds very familiar.
+KSVK(0)<Speaker>Clear Voice of a Girl</Speaker>||:You always address her so formally... Ash would be sad. +We're family!
+KSVK(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Yes, you're right. But you're the one who cares for her mentally. I'm only in charge of her personal safety. +We each have our own job, right? Du...
+KSVK(0)<Speaker>KSVK</Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><震屏><黑屏1>:...AH!
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BIN>22</BIN><黑屏2>:Whoa! +You scared me, KSVK!
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||<BGM>BGM_Hello</BGM>:Sorry. It's always hard to tell reality and Level II apart when one is trapped in such a realistic dream...
+KSVK(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Were you having the same dream again?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:Yes. The mist in the dream cleared up and there seemed to be something new this time.
+KSVK(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I see... This is the second time we had to reorganize your neural cloud storage space. +Your application may have been approved, but if you are so hung up on this recurring dream, we might not be able to go ahead with your neural upgrade.
+KSVK(0)<Speaker>KSVK</Speaker><Shake>;NPC-Kalin(0)||:Does it affect the upgrade process?
+KSVK(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Not necessarily, but it's certainly a destabilizing factor. Before the upgrade, IOP runs a test on the subject to sieve through all the memories. +If you are too fixated on the past, you could easily fail the test.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(0)||:I understand – one must face the past fearlessly before they can stride into the future. +Miss Kalina, do you know about my past?
+KSVK(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? You're all Dolls supplied by IOP. What about it?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||:Other than Dolls manufactured by IOP, there are also refitted civilian Dolls working at Griffin, right? +I believe...I was not a creation of IOP.
+KSVK(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Where did you suddenly get that idea?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||:Our dreams are merely a manifestation of data reconstruction. We cannot possibly dream about things of which we have no recollection.
+KSVK(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I don't really know, to be honest. +IOP would still make modifications on civilian Dolls before they report for duty at Griffin, just so they can grow accustomed to the battlefield more easily.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:If I lost my memories because of the modification, is it possible to retrieve those memories?
+KSVK(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I'll need to file a request... There has never been a precedent for something like this.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:So there's no guarantee we could even find the memories?
+KSVK(0);NPC-Kalin(6)<Speaker>Kalina</Speaker>||:I'm afraid so...
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(6)||:I see. But if we admit defeat before we even begin, we'll never find the answer. +Please file a request for me.
+KSVK(0);NPC-Kalin(6)<Speaker>Kalina</Speaker>||:I'll ask the Commander how to get a clearance. Why don't you take a rest for now, KSVK?
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:I'll see you soon then, Miss Kalina.
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Incoming transmission.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, could you spare a minute? I need to ask you about something.</color> +<color=#00CCFF>KSVK wants to find her memory records from before her employment at Griffin. Can I have your permission to do that?</color>
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:......<c>Yes. <c>No.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<分支>1</分支>:<color=#00CCFF>Awesome! Then I'll submit a request immediately!</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<分支>2</分支>:<color=#00CCFF>...But isn't that a bit cruel?</color> +<color=#00CCFF>Her neural upgrade could fail if you reject her. Would you change your mind?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:<color=#00CCFF>Thank you!</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:...
+清脆的女孩声音()<Speaker>Clear Voice of a Girl</Speaker>||<BGM>m_avg_labyrinth</BGM>:What do you think about my painting, Helena?
+清脆的女孩声音()<Speaker>???</Speaker>||:Mhm, I'm sure Ms. James would love it.
+清脆的女孩声音()<Speaker>Clear Voice of a Girl</Speaker>||:There you go again! Why won't you ever call her by her first name—
+清脆的女孩声音()<Speaker>???</Speaker>||:Alright, alright. Ms. Ash would love it.
+清脆的女孩声音()<Speaker>Clear Voice of a Girl</Speaker>||:What else should I prepare for Ash?
+清脆的女孩声音()<Speaker>???</Speaker>||:Perhaps she'll never...
+清脆的女孩声音()<Speaker>Clear Voice of a Girl</Speaker>||:No! No, that can't possibly be true! +If you say such things again, I'll get angry!
+清脆的女孩声音()<Speaker>???</Speaker>||:Fine... I think the painting is more than enough. +It's beautiful.
+清脆的女孩声音()<Speaker>Clear Voice of a Girl</Speaker>||:Of course! Ash taught me how to paint herself! +Hmm... If she comes back and visits us tomorrow, I'll paint another one for her in person.
+清脆的女孩声音()<Speaker>???</Speaker>||<黑屏1>:Yes, that'll show her how much you've improved.
+KSVK(0)<Speaker>KSVK</Speaker>||<BIN>70</BIN><睁眼><BGM>BGM_Empty</BGM>:...
+DP12(0)<Speaker>DP-12</Speaker>||<BGM>BGM_Room</BGM>:Good morning, KSVK.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:This is...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:The repair bay. You suddenly crashed in combat so you were sent back here.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Was I so engrossed in the past that I neglected the present...? Sorry. +Are you also here for repairs?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:No, I'm here to see you.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:To see...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:KSVK, who am I to you?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:A colleague.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Nothing else?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:... +Repetitious questions are meaningless, unless you're trying to tell me something. +Did you...have something to do with my past?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:Indeed. +KSVK, I am...
+DP12()<Speaker>DP-12</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM><黑屏1>:Your mother.
+KSVK(0)<Speaker>KSVK</Speaker>||<BIN>70</BIN><黑屏2>:That's not funny.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<BGM>BGM_Room</BGM>:Oh, the smoke grenade didn't work.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:It's obvious – how can Dolls be related by blood? +Any other relationships, I wouldn't have a problem believing, but you can't possibly be my mother. +Anyone who buys into this must be an idiot or a delusional lunatic.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:How ruthless, KSVK. +However...
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...Or can Dolls actually have familial ties?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:... +Hahaha, oh dear! Hahaha, you actually believed it! +Aren't you just adorable.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Oh, don't be mad. Alright, I shouldn't have done that. +Forgive me, okay? I did come to see you about a certain matter.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Go ahead.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:I heard that you still haven't been given access to your past memories.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:That's true. +But it's just an inevitable trial that I have to overcome.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:You think so? +Then why would you get injured in battle while desperately trying to analyze your dream?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:I can help you, but I must first be certain about your thoughts. +Tell me what you truly wish for, KSVK.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I...I'm feeling lost and frightened. +It has already been a week since the request was submitted. The other Dolls who were scheduled to have their neural upgrades along with me have all returned with their modifications complete, but I alone am still stuck at the first stage.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:I'm listening.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I'm really worried... Has my neural upgrade application been suspended altogether? +Because I'm not that important and hardly a priority for receiving this upgrade?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:What makes you think so?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I can't think of any other reason. +If I can't sort this out, my neural upgrade could fail... I don't want to gamble with Griffin's funds.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:So...you think this is the Commander's fault?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Maybe the Commander doesn't need me all that much.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:But I for one think it is a gesture of kindness.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:So the Commander is kindly keeping me on the backup team and stopping me from making great contributions on the battlefield? +Sure, that does put me in significantly less danger...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Hmm... But unsolicited kindness is counterproductive. +Is that what you believe?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:That's also how it is when it comes to interpersonal relationships. +"I didn't want to upset you, so I kept it from you." +But would the deceived person truly be happy about being spared the truth?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:You really want to know? +Even if...the memories may not be what you expect?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Before I actually regain the memories, I don't really know what to expect. +But I made this decision, and I will not regret it.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Well... +You haven't changed at all.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:So you have known me for a long time?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Have I? You'll have to see for yourself. +Why don't you come with me to visit a place?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:We don't have permission to venture offsite, do we?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Don't worry. I've talked to the Commander.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Alright then.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Even if I hadn't, seeing how soft-hearted our superior is, if I just grab the Commander's hand, bat my eyelashes, and say... +"Please forgive me, will you?" +...I bet I'd be let right off the hook.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker><Shake>||:Hold on, do we actually have permission?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:Relax. Despite everything I said, I'm still a rule-abiding Doll.

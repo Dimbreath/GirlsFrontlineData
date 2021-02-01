@@ -1,0 +1,110 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>167</BIN><BGM>BGM_Room</BGM>:...Somewhere in the sewers.
+()||:The Doll traffickers hire thugs and gangsters to abduct Dolls wandering in the streets, especially the ones without masters or who have already been reported as lost. +But sometimes, when they discover new or high-end civilian Dolls walking around outside on their own, they also think of ways to capture them. +The precious memories between Dolls and their owners are not their concern. Most of the Dolls who fall victim to them have their neural clouds reformatted at the first possible opportunity.
+()||:These Dolls whose neural clouds have been wiped clean are restored to their factory default settings and await new buyers, while outdated Dolls are taken apart and sorted into their respective components to be sold cheaply. +And right now, this dark corner of the city plays host to Doll traffickers as well as those Dolls who have fallen victim to them and become second-hand products...or Doll components.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:This isn't what we agreed on, is it? An intact A-Doll shouldn't go for this little.
+()<Speaker>Trafficker</Speaker>||:You call this intact? There are visible dents in the head and even bullet holes in the body! Do you think anyone would buy this misshapen piece of crap? +Even if it's operational, do you know how much it would cost to patch it up? Plus, it's not even a new model, so all it's good for is being scrapped for parts. I can't pay you any more than this.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:But how...
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:That's why I said you needed to control yourself. +(Sighs) Our luck's gone down the crapper ever since those two Dolls escaped us.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Tsk, our take recently has been pretty bad.+Seems like all the ownerless Dolls in the area have been cleared out. Competition's really stiff.
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:I hear that some Doll dealerships are playing their customers. +On the one hand, they sell Dolls to their customers, and on the other, they hire people to steal the Dolls back, format and restore their neural cloud settings, then sell them again.
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker>||:Oh! That sounds like a great idea. It would be good if we could find someone like that to work with...
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><闪屏><delay>20</delay><duration>5</duration></闪屏>:Suddenly, the lights over their heads flicker and go out.
+()<Speaker>Male Punk</Speaker>||:...A blackout?
+()<Speaker>Female Punk</Speaker>||:Whoa, it's so dark I can't even see my hand in front of me... Good thing my phone still has power...
+()<Speaker>Trafficker</Speaker>||:Wait, stop!
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker>||:Huh?
+()||<SE1>AVG_pistol_finalshot_sup</SE1><BGM>BGM_stage1</BGM>:Several flashes of light appear at the end of the sewer as the first person tries to light up the darkness with their phone flashlight. +It is soon followed by the sounds of the air being torn apart, and someone soon cries out.
+NPC-PasserbyF(0)<Speaker>Female Punk</Speaker><Shake>||:Owowowowow — my arm! My arm!
+NPC-PasserbyM(0)<Speaker>Male Punk</Speaker><Shake>||<SE1>AVG_pistol_finalshot_sup</SE1>:Intruders! Dammit, is it the police...whoa!
+()<Speaker>Trafficker</Speaker>||:The cops? I should have bought every single one in this area! +Is this some kind of cross-jurisdiction enforcement? Have we been sold out? In any case, we need to get out of here ASAP.
+()||:After sensing something off about the situation, the traffickers feel through the darkness and pack up their valuables as quickly as they can. Someone even starts up the Dolls that were supposed to be merchandise, activating combat programs so they can serve as bodyguards to cover their retreat.
+()||:For them, there is no shame in running. Besides, this isn't the first time they've done this.
+()||<黑屏1><BIN>167</BIN><SE2>Gunfight</SE2>:The sounds of gunfire echo through the sewers. They sound very intense.
+()||<BGM>BGM_Empty</BGM><黑屏2>:The trafficker runs wildly for several minutes until the sound of gunfire fades away. He finally looks back while panting heavily.
+()<Speaker>Trafficker</Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:(Pants) Alright, now I'm safe... gurk!
+()||<BGM>BGM_Sneak</BGM><SE2>AVG_pistol_finalshot_sup</SE2>:Just as he thinks he's in the clear, a pair of bullets cleanly pierce the trafficker's legs, dropping him to the ground.
+UMP9(0)<Speaker>UMP9</Speaker>||:...45, I've taken care of the fish that slipped the net in the escape tunnel. How about you?
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:I'm fine. This side is settled.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<SE2>Gunfight</SE2>:...So that intense gunfire isn't your doing?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)><通讯框>||:Of course not. I only pulled my trigger once during the course of the entire battle.
+UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑点1>:Got it. In that case, tighten the net. We'll meet at the appointed rendezvous point.
+()||<黑点2>:After UMP9 walks a short distance forward, she sees UMP45 emerge from another passage.
+()||<SE2>Gunfight</SE2>:Just as she's about to greet her, she sees intermittent flashes dispersed among the darkness from the corner at the end of the sewer passage, interspersed with human wails and cries.
+UMP9(0)<Speaker>UMP9</Speaker>||:...45, how many of them did you take out?
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:I didn't even open fire. I only ran into a few civilian Dolls with some slapdash fire control cores. All it took to deal with them was simple hacking.
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Which means Miss Part-Timer is single-handedly...
+UMP45(0)<Speaker>UMP45</Speaker>||:Mm, ja. I didn't expect her to be so passionate about her work.
+()||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:By the time UMP9 and UMP45 reach the rendezvous point, they see a completely expressionless 416 pointing her gunsights their way with lightning speed.
+UMP45(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:Hey, relax. We're friendlies.
+HK416(0)<Speaker>416</Speaker>||:Friendlies...for the time being.
+UMP9(0)<Speaker>UMP9</Speaker>||:Wow... I heard a lot of screams coming from your side...
+UMP45(0)<Speaker>UMP45</Speaker>||:Did you kill them all? You just fought your way in without waiting to meet up with us?
+HK416(0)<Speaker>416</Speaker>||:I'm not a modified civilian toy. I'm a Tactical Doll.
+UMP45(0)<Speaker>UMP45</Speaker>||:You used to be. Still, despite your boasting, none of your shots hit their vitals. Their screams just now sounded like a slaughterhouse.
+HK416(0)<Speaker>416</Speaker>||:I did that on purpose. I snuck close to them and once I was sure I could avoid their vitals, I simply shot their weapons out of their hands and hit them in non-fatal areas.
+()||<BGM>BGM_stage1</BGM>:UMP45 narrows her eyes at that.
+UMP45(3)<Speaker>UMP45</Speaker>||:...Oh. And why is that? Isn't that very troublesome?
+HK416(0)<Speaker>416</Speaker>||:You left the decision to us. +I decided that allowing them to die here would be letting them off too easily.
+HK416(3)<Speaker>416</Speaker>||:They ought to taste more fear and suffering before they die. It's what they deserve.
+UMP45(3)<Speaker>UMP45</Speaker>||:How ruthless of you, but I like your style.
+()||:UMP45 smiles thinly and takes out a cell phone, which she tosses to 416.
+UMP45(0)<Speaker>UMP45</Speaker>||:Let's head back to our maintenance room. You can call the cops. +Let me think... Just say you heard gunshots from here and you think there's a gangland shootout going on. That ought to do.
+UMP45(3)<Speaker>UMP45</Speaker>||<黑屏1>:Ja, the cops will probably laugh at how bad these gangsters' aim was.
+()||<黑屏2><BIN>70</BIN><BGM>BGM_Empty</BGM>:
+UMP9(0)<Speaker>UMP9</Speaker>||<SE1>AVG_door_storehouse</SE1>:Dier, I'm home~
+UMP9(0);NPC-Deele(0)<Speaker>Dier</Speaker>||<BGM>BGM_factory</BGM>:Welcome back, 9! Is everyone safe?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Not even a scratch. Piece of cake. Still, I won't take less pay for it.
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Haha, that's not a problem. I saw the news; no deaths, 18 lightly- and heavily-wounded casualties. Well done! +At the same time, the media also got the anonymous email that I sent. Right now, there's debate about police corruption and how they're protecting the Doll trafficking syndicates.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Well, as long as you're happy. I didn't think that a rich playboy like you would have such a strong sense of justice.
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Of course I do! Dolls deserve to live with dignity! What they do to Dolls is a disgrace to Doll technicians!
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker><Shake>||:Wait a minute, when did I ever become a playboy?!
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Alright, alright, in any case, the matter's settled. All I care about is our deal.
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:...How is she?
+NPC-Deele(0)<Speaker>Dier</Speaker>||<黑点1>:Oh, you mean the little cutie? Rather than listen to me talk about her, why don't you see for yourself?
+()||<SE1>AVG_door_elecport</SE1><黑点2><BGM>BGM_Empty</BGM>:The young technician leads the group into the repair room of his workshop.
+()||<BGM>BGM_Moon</BGM>:The white-haired Doll hops and bounces around an A-Doll in a maid outfit, until she notices the big group at the door. +Startled, she pauses mid-hop and darts behind the maid Doll.
+G11story(0)<Speaker>White-Haired Girl</Speaker><Shake>||:Eeeep!
+HK416(0)<Speaker>416</Speaker>||:Don't be scared... Nobody's going to hurt you here. I promise.
+G11(0)<Speaker>White-Haired Girl</Speaker>||:You're that...
+HK416(0)<Speaker>416</Speaker>||:Ja, I'm 416. How about you? Do you have a name? What should I call you?
+G11story(0)<Speaker>White-Haired Girl</Speaker>||:I... I'm... I don't know...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:As you can see, the repairs are done. The external repairs and system recovery have all been completed. +However, she has a lot of data in her neural cloud. They don't seem to be good memories.
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:I thought as much... Is there no way to solve this?
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:The quickest way is to directly format her neural cloud and revert her to factory defaults — but I really don't want to do that. +I consider Doll repair to be something like restoring a piece of art. Any damage involved should be limited to a minimum.
+HK416(0);NPC-Deele(0)<Speaker>Dier</Speaker>||<BGM>BGM_Empty</BGM>:Still, the exact way in which we fix her is up to the person paying the bills. What say you?
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||<BGM>BGM_Wake</BGM>:I...I shouldn't be the one to decide her fate. +My life...what should have been a perfect career as a Tactical Doll...was wrecked by a bitch who completely disregarded my wishes. +I can't do that to another Doll.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:If you didn't want to get involved, you shouldn't have played hero in the first place. The fact is that no matter what you think, you've already taken her fate into your hands. +Maybe this girl's place should have been on the shelves of some second-hand electronics mart, but your decision has dragged her back into this cruel and troublesome world. +Have you thought about what you'll do after this, 416?
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:... +I'll take responsibility for this and protect her.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:You're going to drag a millstone around and continue wandering aimlessly? It won't turn out well for either of you.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:It's not aimless. I'll return to Griffin someday. One day...
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:In that case, maybe we can stay on the same train for the time being.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:...What do you mean?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:I've been investigating certain things, and they're inextricably linked to Griffin... +Our destinations might differ, but we're still headed in the same direction. And that girl can come with us too.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:I won't hand her over to you.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:Oh, don't worry. I don't want to walk around with an albatross around my neck. +I'll pay Dier to install a core into her and get a gun so she can be upgraded into a Tactical Doll. That way, she'll have a weapon to protect herself. What do you think of my proposal?
+HK416(0)<Speaker>416</Speaker>||:You...
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Aha, that's a great idea! I've got quite a few guns over here; a lot of weird guns from the previous century with designs so complicated that their innards look like clockwork. +But as it happens, I have an awesome modified fire control core that can be paired with them. That way, we can turn her into a super-deadly Tactical Doll; the kind you can't even find on the market!
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Plus, that'll make you a group of four. One more and you'll be able to form a superhero group. How about it, hm? Yes, I really am a genius! +How about this; I'll pay you and you change into uniforms of my design and we'll set up a secret organization to beat up bad guys, what do you think? I think maid heroes dressed up in maid outfits ought to be very popular...
+UMP9(0)<Speaker>UMP9</Speaker>||:What the hell, just hearing it sounds so tacky. Which century did that horrendous idea come from, anyway?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Oof, that's mean... If you don't like it, then forget it...
+UMP45(0)<Speaker>UMP45</Speaker>||:It looks like Dier isn't good at making offers that you can't refuse. +Also, I think you need a more capable accountant to help you manage your finances. +All the checks we got after the past few missions we took bounced, and I even had to calculate the payment for you. An employer like that doesn't inspire much confidence.
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Erm, that's because Sier says there's a lot of stuff to do at home and she doesn't have the time to take care of me for the moment...
+UMP9(0)<Speaker>UMP9</Speaker>||:Ah, so it's a pain when your big sis isn't around, is that right?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:Shut up! It's just because business is booming right now!
+NPC-Deele(0)<Speaker>Dier</Speaker>||:After this, I'll make a suuuuuuper capable Doll to help me manage my finances and other daily chores. The day will come when I won't need any help from Sier!
+UMP9(0)<Speaker>UMP9</Speaker>||:Oh? I'm kind of looking forward to that.
+()||<BGM>BGM_Empty</BGM>:UMP45 leaves UMP9 to chat with Dier, then smiles as she turns to 416.
+UMP45(0)<Speaker>UMP45</Speaker>||:Well, 416? Have you thought it through? You know, my proposal.
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_stage1</BGM>:...
+()||:After a period of silence, 416 nods.
+HK416(0)<Speaker>416</Speaker>||:I don't have any other choice for the time being.
+HK416(0)<Speaker>416</Speaker>||:But if you show the slightest sign of wanting to betray me or the others, I'll get off the train halfway — or maybe I'll kill you first before getting off.
+UMP9(0)<Speaker>UMP9</Speaker>||:Ohhhh! Big talk! However, you'll have to do it over my dead body...
+UMP45(0)<Speaker>UMP45</Speaker>||:Don't get worked up, 9. I believe this is her way of showing we've come to terms.
+()||:With a fake, thin smile on her face, UMP45 steps forward and extends her right hand to 416.
+UMP45(3)<Speaker>UMP45</Speaker>||:Welcome to Squad 404.
+HK416(0)<Speaker>416</Speaker>;UMP45(3)||:...What's that?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:I just came up with it. it'll be our new name. After all, we have four Dolls now. And as it turns out, we're all Dolls who should have vanished from this world  — don't you think it fits?
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:You have no taste to speak of...
+()||<黑屏1>:Despite her grumbling, 416 still clasps UMP45's hand. +At that time, they all believed this was no more than a temporary entanglement of their fates that came to be because they happened to be going the same way. Little did they know.

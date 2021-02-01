@@ -1,0 +1,56 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>70</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...In the Griffin repair room.
+UMP9(4)<Speaker>UMP9</Speaker>||:Sier! Answer me, Sier! +Have you guys figured anything out yet? Why can't 45... +...be rebooted at all?!
+NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:<color=#00CCFF>Uh, um... Please don't panic...</color> +<color=#00CCFF>It's just that...well...</color>
+NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:<color=#00CCFF>Argh, shut up! I shut down her Level II consciousness to save power!</color> +<color=#00CCFF>Stop bothering me; I'm remotely giving her emergency maintenance right now!</color>
+G11(2)<Speaker>Gr G11</Speaker>;NPC-Deele(0)||:Will 45 live?
+NPC-Deele(0)<Speaker>Dier</Speaker>||:<color=#00CCFF>The Griffin logistics officer did a good job.</color> +<color=#00CCFF>However, even with the minimal power supply secured, we can only save a few core modules and buy her some time.</color> +<color=#00CCFF>You'll need to move her to a more advanced repair facility for me to sort this out completely!</color>
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:There's no such facility here. We'll need transport to move 45. Could you arrange for that, Sier?
+UMP9(4);NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:<color=#00CCFF>I'm sorry...but your coordinates are way too dangerous at the moment.</color> +<color=#00CCFF>According to intel, the area is embroiled in conflict among different forces and heavily contaminated by Collapse Fluid. Your temporary base is also under attack...</color>
+UMP9(2)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:It can't be done?
+UMP9(2);NPC-Seele(0)<Speaker>Sier</Speaker>||:<color=#00CCFF>Well, it can, anyone willing to take such risks is bound to be pretty expensive...</color> +<color=#00CCFF>As you know, our capital reserve...</color>
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:I don't care how much it costs; just get the best extraction team here ASAP!
+NPC-Seele(0)<Speaker>Sier</Speaker>||:<color=#00CCFF>U-understood! I'll do that right awa—</color>
+()<Speaker></Speaker>||:...Beep!
+HK416(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>9, how's 45 doing?!</color>
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(0)||:I was just talking to Sier and Dier. 45 will probably have to be transferred soon!
+UMP9(4);HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>You can't do that now! The enemies have breached the base!</color>
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(0)||:Is it that bad?!
+UMP9(4);HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>We're buying time for the Commander's reinforcements, though I'm not sure what exactly that is.</color> +<color=#00CCFF>In any case, keep 45 safe with Gr G11, they might break through our defense lines any time.</color>
+UMP9(2)<Speaker>UMP9</Speaker>;HK416(0)||:I will, but 416... +You know that you no longer owe 45 anything, right?
+UMP9(2);HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>I know. She said so.</color>
+UMP9(2)<Speaker>UMP9</Speaker>;HK416(0)||:So...is it time?
+UMP9(2);HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>All I want is to prove myself.</color> +<color=#00CCFF>But first of all, I must make sure you all survive.</color>
+UMP9(2)<Speaker>UMP9</Speaker>;HK416(0)||:Then... we are counting on you, we WILL save 45 here.
+G11(2)<Speaker>Gr G11</Speaker>;HK416(0)||:Are you alright over there, 416?
+G11(2);HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>The Commander is here, and we have a lot of T-Dolls.</color> +<color=#00CCFF>Make sure you stay alive. We'll meet again.</color>
+G11(2)<Speaker>Gr G11</Speaker>;HK416(0)||:Even though we don't know when, right? +I just hope...we'll get to fight together one last time.
+HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>Not this time. I can't carry you on my back anymore.</color>
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...Transmission terminated.
+HK416(0)<Speaker>416</Speaker>||<BIN>159</BIN><黑屏2><SE2>Gunfight</SE2><BGM>bossbattle_loop</BGM>:...Not to mention, you won't be of much help here anyway. +Scheiße! How the hell can we penetrate their armor?! And what the hell are they?!
+AK74U(0)<Speaker>AK-74U</Speaker>||:Save your bullets, this is exactly what I meant. They have force fields designed especially to deflect our ammunition. It's practically impossible to get through them. +But thanks to you, we can at least organize a counterstrike behind the defense line.
+HK416(0)<Speaker>416</Speaker>||:You're very welcome.
+()<Speaker></Speaker>||:...Bang bang!
+AK74U(0)<Speaker>AK-74U</Speaker>||:416, I just want to say that I'm very sorry about what I said. Also... +You're pretty dependable...and a lot more capable than all the T-Dolls on the base now.
+HK416(0)<Speaker>416</Speaker>||:Just do your job; I only care about orders on the field.
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:Now that you mention it, 416, you remember the Commander's order?
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:Draw the enemies' attention, slow them down, and don't let them find our extraction point.
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:That's right, if we can't do that, it's over. +416, our mission is to buy time till the Commander's "reinforcements" get here, not to destroy the enemy, so I don't think we have to stand our ground here—
+AK74U(0);HK416(0)<Speaker>416</Speaker>||:We still don't know when the so-called "reinforcements" will arrive so count on getting lucky. +Besides, we don't even know how much we can count on them.
+AK74U(0)<Speaker>AK-74U</Speaker>;HK416(0)||:In any case, we can't win on our own, right?
+HK416(0)<Speaker>416</Speaker>||:One moment you wanna charge in blindly, the next you wanna retreat like a coward, what kind of T-doll are you?
+()<Speaker></Speaker>||:...Bang bang!
+AK74U(0)<Speaker>AK-74U</Speaker>||:(Sighs) I was just making a suggestion, since you said so, I'll stay with you. +I just think we should trust the Commander. After all, you don't have a command module, and this place is not the most defendable...
+HK416(0)<Speaker>416</Speaker>||:The Commander is still busy mobilizing these "reinforcements". Once that's done, I'll hear from...
+HK416(0)<Speaker></Speaker>||:...Click.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Ah, here they come.
+HK416(0)<Speaker>416</Speaker>||:Fire at will, don't fall back.
+()<Speaker></Speaker>||:...
+HK416(0)<Speaker>416</Speaker>||:Commander, we can't stay holed up here! +We can barely hold them off for now, they'll break through other strongpoints in no time!
+()<Speaker>Commander</Speaker>||: +<c>I'm working on it! <c>You think I haven't prepared for that? <c>Just hold out for a bit longer, help is on the way!
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支><黑屏1>:Please hurry up! The extraction point will be done for once the enemy realizes that our numbers are pitifully small!
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支><黑屏1>:Whatever you have planned, I hope it works!
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支><黑屏1>:I sure hope this won't be the last order I ever get!
+HK416(0)<Speaker>416</Speaker><通讯框>||<黑点1><黑点2><BIN>10</BIN>:<color=#00CCFF>Anyway, we'll obey your order and slow the enemies down...so that the reinforcements can get here safely! </color> +<color=#00CCFF>But Commander, what exactly are these "reinforcements"? Can they really fight off the enemy? </color> +<color=#00CCFF>Sorry, it's not that I don't trust you, I simply don't want... </color> +<color=#00CCFF>...Nevermind. I'll focus on the mission at hand. </color> +<color=#00CCFF>Time is running out, here's our objective again: we must strengthen our defense line within the time limit to ensure our reinforcements' safe arrival at the base!</color>
+()||<黑屏1>:<color=#fff775>Completing different objectives in this mission will lead to different routes. Once you complete an objective, you will not be able to proceed to other, uncleared routes during this playthrough. You will only be allowed to pick a new choice by backtracking.</color>
+()||<黑点2><BIN>10</BIN>:

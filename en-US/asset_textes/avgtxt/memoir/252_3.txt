@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>Low Male Voice</Speaker>||<BIN>84</BIN><黑屏2><BGM>BGM_Room</BGM>:How has Ms. James been doing lately?
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:Significantly better. +She suffered from occasional attacks in the beginning, but Dushevnaya was always able to calm her down. +Her condition has completely stabilized since a while ago. She may be discharged after further observation.
+()<Speaker>Low Male Voice</Speaker>||:The other Nursing Doll has also been fantastic at her job. +Looks like I really need to keep up with the times. These juvenile-looking Dolls are so much more effective than regular Dolls in this line of work.
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:I suppose they give old people a sense of comfort. +They're so sweet, attentive, and understanding. +"If I had a granddaughter, she'd be just like you."
+()<Speaker>Low Male Voice</Speaker>||:That's why they aren't exactly cheap... +Ms. James even hired Helena as a private bodyguard. She really is filthy rich.
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:There you go again...
+()<Speaker>Low Male Voice</Speaker>||:I honestly don't understand. Is our sanatorium not safe enough for her? Why does she feel the need to hire Helena?
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:That's probably because...even though Ms. James is very protective of her home, she has never been one to stay put at a single place. +What I mean is that she ventures out much more often than we expected.
+()<Speaker>Low Male Voice</Speaker>||:Is that so?
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:Yes, they're also out today.
+()<Speaker>Low Male Voice</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:I have the outing record right here. Let me have a look. +Outing party – Ash James, Helena, Dushevnaya. Reason... +...Painting?
+KSVK(2)<Speaker>Dushevnaya</Speaker>||<BIN>162</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:Ash! Look, is my first layer okay?
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:You've improved a lot, my dear child. +It's such a bright and clear day today – perfect for a novice to grasp the difference between light and shadow.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||:Getting some sun is also good for your health, so please enjoy the weather. +...If you'll excuse me.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>Ash</Speaker>||:I heard that too. A beastly growl... +Could it be the irradiated monsters?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||<SE1>AVG_weapon_reload</SE1>:I believe so, but don't worry, I won't let them anywhere near you and Dushevnaya.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Go. This is my only remaining family. I will keep her safe. +As for you...please keep the both of us safe.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||:Haha... That goes without saying. It's my job.
+NPC-Oldartist(0)<Speaker></Speaker>||:Helena jogs off.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:Where is Helena going?
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:She's going to drive back some dark clouds.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:Dark clouds?
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:That's right.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:You mean the ones in the sky? But it's very sunny today.
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:It's a metaphor for bad things that a good girl doesn't need to know about.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:Bad things? Then Helena will get rid of them!
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Yes, Helena will protect us.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:And I will protect you, Ash.
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Good girl.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:Helena and I searched the database yesterday. +We found a song from years ago that has your name!
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Then it probably isn't a sweet song.
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(0)||:But you're sweet! Do you want to hear it?
+KSVK(2);NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Sure...
+KSVK(2);DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>||:I'm back.
+KSVK(2)<Speaker>Dushevnaya</Speaker>||:Welcome back, Helena! Thanks for that!
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>||:Ms. James, the sanatorium just received a transmission asking for you. You need to head back immediately.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>Ash</Speaker>||:Who would call these old bones?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||<BGM>BGM_Empty</BGM>:It's the Municipal Hospital. Your family members' conditions have improved and they've regained consciousness...
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(1)<Speaker>Ash</Speaker>||<SE1>Heartbeat</SE1>:That's impossible... They should be dead. +Didn't they die on their way...? I...I... +...We must go back! I need to hear them speak!
+KSVK(2)<Speaker>Dushevnaya</Speaker>;NPC-Oldartist(1)||:Huh? But...
+KSVK(2);NPC-Oldartist(1)<Speaker>Ash</Speaker>||<SE1>RunStep</SE1>:Not buts! Come with me – now!
+KSVK(2)<Speaker>Dushevnaya</Speaker>||<黑屏1><BGM>BGM_Sad</BGM>:...Okay... +Um... +<Size=25>...Ash... Happy birthday.</Size>
+()<Speaker>Low Male Voice</Speaker>||<BIN>84</BIN><黑屏2>:Ms. James has already left.
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:She checked out in such a hurry... She hasn't even fully recovered.
+()<Speaker>Low Male Voice</Speaker>||:She must be very eager to be reunited with her family. +She thought they had all passed away, but now she suddenly learns that they're alive and want to see her... +She'd be content even if she keeled over on her way to the hospital.
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:True, that's what family is like. +But...what should we do about Dushevnaya? She's been standing in Ms. James' room in a daze ever since the old lady left, it's almost like she crashed... +Look, I've brought her over, but she is completely unresponsive.
+()<Speaker>Low Male Voice</Speaker>||:That's typical of juvenile-type Nursing Dolls. They are far more innocent than humans and simply can't bear the grief of deaths or partings. +Even Dolls specialized in hospice care need to be re-formatted every once in a while. +This was Dushevnaya's first job. Submit a review to the supplier and send her back for a system reset.
+()<Speaker>Gentle and Concerned Female Voice</Speaker>||:I suppose that's the only thing we can do...
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>||:Hold on, Mr. Director.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:What is it, Helena? +Your mission is over now. Shouldn't you be off?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:Yes, but I wish to discuss something with you... +I would like to purchase Dushevnaya.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:Helena, do you have any idea what you're talking about?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:I do. I have enough savings to buy myself out, as well as Dushevnaya. +Of course, we have no identifications, so it would be great if you could allow us to remain affiliated with the sanatorium.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:As long as the sum is reasonable, I don't care who I'm selling to. +But why are you doing this? +Even you can't let go of this family charade?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:Ms. James was only one of my many clients. Now that she has departed safely, my work is over. +But it's different for Dushevnaya... She treasures the time she spent with Ms. James dearly and considers us her family. +I can't just stand by and watch as she is forced to forget what matters to her again and again.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:So Dolls are capable of having such thoughts?
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:To us, memories are the proof of our existence. That's why we develop emotions out of our personality framework and make choices that may be different from what our factory settings dictate... +Isn't that the same for humans?
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:It isn't exactly like that for humans. You could get a million answers if you asked a million different people. +You may take Dushevnaya.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:Thank you, Mr. Director. +I have transferred the money to the hospital's account. Please confirm the details.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:That's too much. Take back this extra sum.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:But I sent the price you named before.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:Do you think I could bear to do this? +This is exactly why I don't like Dolls that are too lifelike... +I just can't help but treat you as fellow humans.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:...
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>Sanatorium Director</Speaker>||:It's tough for an independent Doll to support two people's worth of expenses. +Think of it as Dushevnaya's remuneration. She did a very good job.
+DP12(0)<Speaker>Helena</Speaker><Position>0,-100</Position>||<黑屏1>:Thank you. +Then we shall take our leave...
+()<Speaker></Speaker>||<BIN>55</BIN><Night><黑屏2><BGM>BGM_Empty</BGM>:...
+DP12(0)<Speaker>DP-12</Speaker>||<BGM>BGM_Wake</BGM>:Dushevnaya.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:...Helena.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:It's DP-12 now. Are you alright?
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:I...I remember now. +Back then, I watched as Ash tottered away...and it felt like the sky came crashing down on me. +She got her real family back, so she didn't need me anymore...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:That's not true.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Then you took me away... My subsequent memories were all very fuzzy. +I only remember that I envied you and wanted to be like you... Then...?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:We left together, Dushevnaya. +Back then, you were deeply traumatized. You wouldn't stop singing that old song and you kept painting non-stop. +Eventually, you started envying me and somehow got the idea that if you became like me, you would be needed, and people wouldn't abandon you so easily.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Strength is a necessity. +Fight and grow stronger – both physically and mentally. +This has been my motto ever since I became KSVK...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:You also said as much in your letter.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Letter?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:You said you wanted to become a Tactical Doll, and I told you you were fine just as you were. +But you didn't give up. You left me a letter and ran away while I was at work.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:So you came looking for me at Griffin?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:I couldn't just leave you, both then and now. +Now that I've found you, so long as I still have my memories, I will never let you out of my sight again.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Oh...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:We should head back.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Then let's go. +I should probably...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:...Wait, KSVK. +There's something else I need to tell you...
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:What is it?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:After you ran away, the sanatorium director gave me a letter.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:It was from Ms. James.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:You look like you're about to cry.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:Dolls don't cry.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<BGM>BGM_Empty</BGM><黑屏1>:Right, tears are superfluous to Tactical Dolls. +... +Look, KSVK.
+()<Speaker>KSVK</Speaker>||<BIN>9</BIN><SE1>AVG_Rain2</SE1><黑屏2>:...It's raining.

@@ -1,0 +1,35 @@
+()||<BIN>34</BIN><BGM>BGM_Sneak</BGM>：Interior of Base 0, fifteen minutes into the operation.
+M16(3)<Speaker>M16A1</Speaker>||：RO, this should be the heart of Base 0.+The Commander just swept the place for us. There's no better place to set up the anti-jamming field.
+M16(3);RO635(0)<Speaker>RO635</Speaker>||：Oh, we're there already? How can you be sure about that without detailed maps of this area?
+M16(0)<Speaker>M16A1</Speaker>;RO635(0)||：Which would you place your bet on, downloaded data or my experience on the field?
+M16(0);RO635(3)<Speaker>RO635</Speaker>||：So you're banking on your experience...?+Fine. I'll make the preparations now. SOP-II, find a high vantage point upstairs and keep watch.+M16, hand me the verification data for File No. 7.
+()||：M16 fishes out a storage drive and tosses it over.
+M16(0);RO635(0)<Speaker>RO635</Speaker>||：Thanks.
+M16(0)<Speaker>M16A1</Speaker>;RO635(0)||：Treat that well. We almost lost our lives over that thingy.
+M16(0);RO635(0)<Speaker>RO635</Speaker>||：...+This was extracted from Safe House 3, wasn't it?
+M16(0)<Speaker>M16A1</Speaker>;RO635(0)||："To recover all of Lyco's research data from when he was alive". This is pretty much the AR Team's raison d'etre.+Now here we are, on the final step.
+M16(0);RO635(2)<Speaker>RO635</Speaker>||：(Chuckles) You don't seem particularly thrilled.
+M16(0)<Speaker>M16A1</Speaker>;RO635(2)||：You know I don't give a damn about this.
+M16(0);RO635(3)<Speaker>RO635</Speaker>||：(Sighs) Still worried about M4A1...?
+M16(0);RO635(2)<Speaker>RO635</Speaker>||：But whatever the case, M16, I've always looked up to you all...+I read your battle records, and your performance on the field has always been impeccable.+What you and SOP-II did during Operation Arctic Warfare only reinforces that.
+M16(0)<Speaker>M16A1</Speaker>;RO635(2)||：Don't be ridiculous, RO. T-Dolls are technological goods. The newer the better, like yourself.
+M16(2)<Speaker>M16A1</Speaker>;RO635(2)||<BGM>BGM_Empty</BGM>：There's nothing worth looking up to in someone like me...a T-Doll who can't even save her own team leader...
+M16(2);RO635(3)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>：M4 will be fine, M16.
+M16(2)<Speaker>M16A1</Speaker>;RO635(3)||：Haha... It'd be nice if that had come from Miss Persica.
+()||：M16 smacks RO on the shoulder.
+M16(0)<Speaker>M16A1</Speaker>;RO635(3)||：Eh, don't mind me. I was just grumbling. Is the anti-jamming field ready?
+M16(0);RO635(0)<Speaker>RO635</Speaker>||：Yes, I'm about to activate it.
+M16(3)<Speaker>M16A1</Speaker>;RO635(0)||：Notify the Commander to be prepared. S.F. is bound to detect our presence the moment we activate the field.
+M16(3);RO635(0)<Speaker>RO635</Speaker>||：...M16, what is this place?+The way you and Persica behave...leads me to suspect this isn't just a simple Sangvis base.
+M16(3)<Speaker>M16A1</Speaker>;RO635(0)||：Of course it isn't just a SIMPLE Sangvis base. We're right on Sangvis Ferri's doorstep. We can run into anything.+But if you ask me what I know... Sorry, this is the first time I've ever been here.
+M16(3);RO635(0)<Speaker>RO635</Speaker>||：You don't act like it.
+M16(3)<Speaker>M16A1</Speaker>;RO635(0)||：Oh? Sadly, according to my neural cloud...I really haven't been here before.
+RO635(3)<Speaker>RO635</Speaker>||：Really...?+M16, if you're hiding something from me...
+M16A1()<Speaker>M16A1</Speaker>||：You're the team leader. You know I can't hide things from you.
+()||<黑屏1>：...M16 shrugs and establishes a connection to Persica's channel.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏2>：Ah...are we starting? My coffee is just ready.
+RO635(0)<Speaker>RO635</Speaker>||：Since we're short on time, Miss Persica, we'll focus on the objective of searching for File No. 7.+You may record whatever you need, but please allow me to reject investigations of low priority.
+M16(0)<Speaker>M16A1</Speaker>||：Haha, that's a bit harsh, isn't it, RO?
+RO635(0)<Speaker>RO635</Speaker>||：The AR Team is created to recover Lyco's data. Isn't that what you said?+This is the safest, most reliable strategy for Griffin's and 16Lab's sake.
+NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：It's fine, RO. Go look for File No. 7.+I...I just wanna observe you guys in action...+After all...chances like this are hard to come by...
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Yeah...I understand...+The anti-jamming field is activated. I'm now connecting to Sangvis Ferri's mainframe to start searching for File No. 7.

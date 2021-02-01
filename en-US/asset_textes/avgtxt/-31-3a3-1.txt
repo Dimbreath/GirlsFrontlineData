@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...On the other end of the battlefield. +In an alleyway.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Dammit... Screw everything! That Nyto deliberately showed her face to us before running off! +When I find her, I'm gonna tear her in two with my teeth...no, I'll just do it with my hands!
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:But first, we must locate the Chairwoman... +I handed her a signal emitter a while ago just to be safe. That Nyto hasn't gone very far. Rather... Why have they stopped all of a sudden...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Is she giving up? Has she finally figured out that there's no escape from me?!
+RO635(2)<Speaker>RO635</Speaker>||:Don't be silly... There must be a reason. We'd better be careful. I've sent out the coordinates to everyone else in the team. We'll surround them to make sure they don't slip away.
+()<Speaker></Speaker>||<黑点1>:RO635 promptly marks out several points on the map. SOP-II and the others start moving immediately.
+()<Speaker></Speaker>||<BIN>166</BIN><黑点2>:...Ten minutes later. +Outside an abandoned old building.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We've already got this battered building surrounded. No one has reported any sign of Nyto or the Chairwoman.
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:This is the only place...that Nyto could appear.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But no one seems to be stationed here...?
+()<Speaker></Speaker>||:SOP-II points out what is puzzling me. Not a single enemy signal has been detected throughout the entire structure, but for whatever reason, that's also what makes me so apprehensive.
+RO635(4)<Speaker>RO635</Speaker>||<黑屏1>:In any case, let's go in first... +Stay alert!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||:As we enter the spacious room, we find nothing out of the ordinary... Just Chairwoman Ulrich bound to a wooden chair, watching us barge in with a cheerless smile.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||<黑屏1>:I'm sorry...
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><回忆><BGM>BGM_Room</BGM>:...Five minutes ago. +Inside the room at the outpost.
+()<Speaker></Speaker>||:Ulrich glares back at the black-clad woman staring down at her. That smile leaves her slightly unsettled.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Kill me...if you want! But the living won't give in! Do you think you can achieve anything through violence and terrorism?
+()<Speaker></Speaker>||:Nimogen gazes down at Ulrich. Her smile suddenly disappears and her face becomes completely emotionless and serene. +But this new serenity makes the Chairwoman even more uneasy.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:I have no interest in humans' capricious "ideals".
+NPC-Nimogen(0);NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Capricious...
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:No matter how great you claim your "whateverism" is, in the end it's just another way of packaging your own greed. Big yawn.
+()||:Nimogen suddenly stops talking. She's still looking at Ulrich, but her eyes are unfocused. +Ulrich naturally doesn't know Nimogen is receiving new commands. All she can see is that after a brief period of dazed silence, that eerie smile returns to Nimogen's face again.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Oh dear, so that's how it is... +You've just become worthless. Heeheehee, that's right, that's what makes it all so interesting~ +Now, I'd better go back and teach those pieces of trash a lesson—
+()<Speaker></Speaker>||:Nimogen suddenly stops in her tracks again.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Oh, looks like my cute little sister has run into some trouble. No matter. You lot will soon have to deal with the calamity brought about by your so-called "ideals". Suffering slowly is the only ending you deserve, heeheeheehee...
+()<Speaker></Speaker>||:With that, Nimogen turns to leave.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Wait! +The calamity caused by my ideals... What do you mean by that?
+()<Speaker></Speaker>||:Nimogen glances back at the Chairwoman and gives her a meaningful grin.
+NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||<黑屏1>:You still haven't noticed?
+()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:...Back in the present.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||<BGM>BGM_Sad</BGM>:She said that, then left. +Then not long afterwards, you appeared at the entrance of the room.
+NPC-Ambassador(0);RO635(4)<Speaker>RO635</Speaker>||:Calamity... Could she be referring to the ELIDs...?
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>;RO635(4)||:I don't know... I didn't understand a thing she said... +I don't know who she is or why I've been taken. I also don't understand why she just left after she went to all that trouble to abduct me. But back then she looked like she's completed some kind of mission... +My instinct tells me they must've achieved something very important...
+RO635(4)<Speaker>RO635</Speaker>||:Something very important...you say? +In any case, your safety comes first. Let's hurry to the extraction point while we still have time!
+()<Speaker></Speaker>||:RO gently helps Chairwoman Ulrich get up from the chair. The Chairwoman takes her hand in a strong grip.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:I know it isn't my place to say this, but the world could be a better place because of you. +No matter what the enemy plans on doing, it can't be anything good. Please stop them if you can.
+NPC-Ambassador(0);RO635(2)<Speaker>RO635</Speaker>||:And be "a shining beacon in a brave new world"?
+NPC-Ambassador(0)<Speaker></Speaker>;RO635(2)||:Chairwoman Ulrich pauses briefly, then smiles at RO.
+NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>;RO635(2)||:Yes, a shining beacon in a brave new world.
+NPC-Ambassador(0);RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:Don't worry. Even if you hadn't asked, we won't let them get away with this. +Now, Madam, let's go! The Commander is still waiting for us!

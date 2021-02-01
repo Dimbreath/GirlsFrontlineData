@@ -1,0 +1,60 @@
+M1873(0)<Speaker>SAA</Speaker>||<BGM>BGM_Danger</BGM><BIN>72</BIN>:Th-this really is...unexpected.
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:I haven't taken a shot at anybody in a while. My aim seems to be a bit off.
+PM(0)<Speaker>Makarov</Speaker>;Weaver(0)||:(Whispers) SAA...wait for the rescue signal while I distract her.
+PM(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:You must be joking. +Do you honestly think either of you are getting away? +You and the rubbish T-Doll I have defeated countless times before... +Will both die to my next shot.
+M1873(0)<Speaker>SAA</Speaker>;Weaver(0)||:Defeated countless times? I've never seen you in my life! +I've been out many times looking for cola, but I don't remember seeing you at all...
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:Of course you wouldn't understand. I'm referring to the many battles that "never happened". +SAA, one of the earliest key members of Griffin... +Fighting you was the first stage of my early training. Now, are you ready to die?
+M1873(0)<Speaker>SAA</Speaker>;Weaver(0)||:Hey... I could've sworn the Sangvis units were all been targeting me on my recent missions. So it WASN'T just my imagination!
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:It's only natural for an old model to be studied thoroughly. +Well, are you done with your final words?
+M1873(0)<Speaker>SAA</Speaker>;Weaver(0)||:Wait, wait, wait! +How about a bet? +Let's see if an old model like me can beat you in some way.
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:Why should I give you a chance?
+PM(0)<Speaker>Makarov</Speaker>;Weaver(0)||:Are you scared you'd lose to me?
+PM(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:Ha! As if. +Well? Name your game. I will make it clear to you that resistance is futile.
+M1873(0)<Speaker>SAA</Speaker>;Weaver(0)||:Russian Roulette. Surely you've heard of it even if you've never done it before?
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||:Load a revolver with a single bullet and take turns firing at your own head... +A gamble of pure luck that requires no skill at all. Looks like you Griffin Dolls are only good for such parlor tricks.
+M1873(0)<Speaker>SAA</Speaker>;Weaver(0)||:I know I can't beat you anyways. Might as well gamble on my luck. +Besides, I'm sure the God of cola will be on my side.
+M1873(0);Weaver(0)<Speaker>Ouroboros</Speaker>||<黑屏1>:Then I shall make you see just how hopeless you are. +Don't worry. Losing to me is not humiliating at all. But I'm afraid your neural cloud will be mine after that.
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:...
+()||<SE1>Reload</SE1>:Click.
+()||<SE1>Reload</SE1>:Click.
+()||<SE1>Reload</SE1>:Click.
+()||:After a few turns of the chamber...
+M1873(0)<Speaker>SAA</Speaker>||<BIN>72</BIN>:...
+M1873(0);Weaver(1)<Speaker>Ouroboros</Speaker>||<BGM>BGM_Boss</BGM>:Well? That's the last chamber, aren't you pulling the trigger? Are you worried that it's going to go right through your head?
+M1873(0)<Speaker>SAA</Speaker>;Weaver(1)||:W...what the hell...? +You...anticipated this to happen?
+M1873(0);Weaver(1)<Speaker>Ouroboros</Speaker>||:I can easily predict when each bullet is going to be fired from that antique piece of junk you wield. +Now, enough of this. Time for you to bear the consequences of losing.
+M1873(0)<Speaker>SAA</Speaker>||<黑屏1>:I see... Sangvis AI really is advanced. However, I think—
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...!! An axe...from where?!
+CZ75()<Speaker>CZ75</Speaker>||:It's over!!
+M1873()<Speaker>SAA</Speaker>||:Looks like we have the upper hand.
+衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏1>:Humph... This is always how it ends...
+M1873(0)<Speaker>SAA</Speaker>||<黑屏2><BIN>6</BIN><BGM>BGM_Moon</BGM>:Jeez! What took you so long, CZ75?
+M1873(0);CZ75(0)<Speaker>CZ75</Speaker>||:Shut up, troublemaker. Do you have any idea how long it took for Tokarev and me to bring the Commander here?! +And this isn't the Neural Cloud Corridor at all!
+M1873(0)<Speaker>SAA</Speaker>;CZ75(0)||:That can't be helped. It looks just like the corridor! +Anyway, wanna have another game to decide the winner once and for all, Makarov?
+M1873(0);PM(0)<Speaker>Makarov</Speaker>||:...Never mind. I am letting you off this time seeing as you've bought us some time with your terrible acting skills.
+M1873(0)<Speaker>SAA</Speaker>||<黑屏1>:Then the winner is—
+()||<BIN>8</BIN><黑屏2>:(At the Griffin base.)
+M1873(0)<Speaker>SAA</Speaker>||:Here's my report on the accidental encounter.
+M1873(0)<Speaker>Commander</Speaker>||:You did well on your crisis management, SAA. +However, not reporting a bug and letting it endanger yourself and others is totally unacceptable.
+M1873(0)<Speaker>SAA</Speaker>||:...I'm sorry, Commander. I was too reckless.
+M1873(0)<Speaker>SAA</Speaker>||:And I didn't expect things to turn out that way with Ouroboros... If only my neural cloud was more...
+M1873(0)<Speaker>Commander</Speaker>||:That wasn't your fault.
+M1873(0)<Speaker>SAA</Speaker>||:Sigh... I know you're just trying to make me feel better, Commander.
+M1873(0)<Speaker>SAA</Speaker>||:But Ouroboros almost broke loose because of me.
+M1873(0)<Speaker>Commander</Speaker>||:That wasn't actually a bug, nor was it the real Ouroboros.
+M1873(0)<Speaker>SAA</Speaker>||<震屏>:Huh?!
+M1873(0);PM(0)<Speaker>Makarov</Speaker>||:Hold on... She was so intimidating though. You're saying she's a fake?
+M1873(0)<Speaker>Commander</Speaker>||:That was a replica we created based on Ouroboros' AI as an "Easter Egg" in the combat simulation to test our T-Dolls' ability to manage a crisis. +Only her computational capacity is identical to the real Ouroboros.
+M1873(0)<Speaker>SAA</Speaker>||:So... Ahaha... I couldn't tell she was a fake. I even gambled with my own life... +And lost.
+指挥官()<Speaker>Commander</Speaker>||:Her purpose is to expose our T-Dolls to their own shortcomings, so it's not surprising that you lost to her. +Losing isn't really the point. Do you now understand your own weaknesses?
+M1873(0)<Speaker>SAA</Speaker>||:Yeah... I'm too reckless, impatient, and I don't listen to others. +I overestimate my computational capacity...and put too much faith in my experience.
+指挥官()<Speaker>Commander</Speaker>||:Experience can indeed help you navigate through a situation and improve the outcome, but you must never let it get to your head.
+M1873(0)<Speaker>SAA</Speaker>||:But I still lost. If only I were stronger, more collected, and had a higher computational capacity to plan a few more steps ahead...
+指挥官()<Speaker>Commander</Speaker>||:I won't say being able to take things lightly is necessarily a weakness. +But speaking of your neural cloud... Would you be interested in IOP's newest technological breakthrough? +A Neural Upgrade?
+M1873(0)<Speaker>SAA</Speaker>||:What...would that do to me?
+指挥官()<Speaker>Commander</Speaker>||:Make you stronger.
+M1873(0)<Speaker>SAA</Speaker>||:Will I still be able to drink cola? +Of course I'd like to be stronger, but cola is more...
+指挥官()<Speaker>Commander</Speaker>||:It's an upgrade, not a remake.
+M1873(0)<Speaker>SAA</Speaker>||<震屏>:Then...!
+指挥官()<Speaker>Commander</Speaker>||:...?!
+M1873(0)<Speaker>SAA</Speaker>||<黑屏1>:For you...and for Griffin! +I'll go! YAHOOOO!

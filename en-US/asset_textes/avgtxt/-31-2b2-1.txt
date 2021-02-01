@@ -1,0 +1,38 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE2>RunStep</SE2><BGM>BGM_Room</BGM><黑屏2>:Footsteps echo through the dimly lit tunnels.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<SE2>RunStep</SE2>:This way. Estimated distance to the exit is 143 meters... +87 meters... 50 meters... +...We're here!
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Hold on, AR-15... According to my scans, the space behind this door doesn't seem right. +This doesn't lead up to ground level, does it?
+AN94(5);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:It doesn't seem to be the way we came... +All I know is that it isn't the fortress outside, but I can't calculate where exactly it leads to. +You're more efficient in surveying. Is something wrong outside?
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(2)||:It isn't ground level; we're still some distance away from that... It's another cavernous space, but nothing is blocking my ultrasound scan. +...I might just be paranoid.
+AN94(5);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:...
+AN94(5);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:We'll just end up dead if we stay here any longer. Let's get out first.
+AR15Mod(4)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:AR-15 opens the door with a hard shove.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<SE1>Heartbeat</SE1>:... +There's no one in there.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(4)||:It's even darker than in the tunnel. Unable to visually observe the target... +Infrared scans complete - no enemy signals detected.
+AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||<SE1>Heartbeat</SE1>:Thank goodness. We can finally...
+()<Speaker></Speaker>||<SE1>Alarm</SE1><黑屏1>:The door suddenly slams shut behind AN-94. +Bam!
+()<Speaker></Speaker>||<BIN>96</BIN><白屏闪光><BGM>BGM_Boss</BGM>:The stage lights up, revealing a black-clad figure standing directly below the lights.
+？？()<Speaker>??</Speaker>||:"And the glory of the Lord shall be revealed. And all flesh shall see it together, for the mouth of the Lord hath spoken it."
+AN94(0)<Speaker>AN-94</Speaker>||:That voice... Eliminating interference caused by echoes... Analyzing...
+AN94(0)<Speaker>??</Speaker>||:"Yet once, a little while, and I will shake the heav'ns and the earth, the sea and the dry land, and I will shake all nations, and the desire of all nations shall come." +"The Lord, whom ye seek, shall suddenly come to Her temple, e'vn the messenger of the Covenant, whom ye delight in, behold, She shall come!"
+AN94(0)<Speaker></Speaker>||:The Doll standing beneath the lights flutters her long sleeves and turns around to face them with a dancer's graceful spin. +AR-15 and AN-94 recognize her face almost instantly.
+AN94(2)<Speaker>AN-94</Speaker>||:...It's Mercurows! The one from before!
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:"But who may abide the day of Her coming, and She shall stand when She appeareth, for She is like a refiner's fire." +Congratulations, AR-15 and AN-94 of Task Force DEFY. +You have overcome obstacle after obstacle, traversed the intricate labyrinth, and finally made it to this stage. +You've been so dedicated - going to such lengths to burn down your own bridges and join me on my stage. Please accept my deepest gratitude.
+AN94(2);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>What is the nutcase rambling on about?</color>
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>No idea... But she doesn't seem to have noticed us...</color>
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>I agree.</color> +<color=#00CCFF>Let's go through another room to give her a wide berth. Then we'll find the exit and leave.</color>
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Understood. She shouldn't be able to detect us from this distance.</color>
+AN94(0);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:<color=#00CCFF>I heard everything, you know?</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||:?!
+AR15Mod(5);AN94(2)<Speaker>AN-94</Speaker>||:...Is she forcing a connection on Level II again?
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AN94(2)||:Just give up, there's no escape for you. Be brave, girls! +We're about to engage in a joyful battle, which is going to take place in this theater. +May the trumpet sound in ever higher spirits!
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AN94(2)||<SE1>Gunkill</SE1>:...My, you're every bit as dull as that human officer, AR-15.
+NPC-Mercurows(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Sorry, I'm not interested in putting on a farce with you. +<color=#A9A9A9>She wasn't hit... How did that happen? It's as if she anticipated my attack...</color>
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AR15Mod(0)||:Confused? It must be terribly puzzling! That twisted personality actually makes you the easiest to read~ +I'll tell you a little secret.  +"We shall not all sleep, but we shall all be changed in a moment, in the twinkling of an eye, at the last trumpet."
+NPC-Mercurows(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What the hell are you talking about...?
+NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;AR15Mod(0)||:"The trumpet shall sound, and the dead shall be raised incorruptible." +"For this corruptible must put on incorruption and this mortal must put on immortality." +Come, it's time! Sound this trumpet of war and raise the curtains of this glorious epic!
+AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(0)||:... +AR-15! A massive number of enemy signals have appeared!
+AN94(2);AR15Mod(5)<Speaker>ST AR-15</Speaker><Shake>||:What? I'm not detecting anything!
+AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(5)||:The whole area is being jammed! You'll have to rely on visuals!
+AN94(2);NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Behold - the broken have now returned; the deceased shall now rise again. +Friends, let us all shake off the shackles of corruption! Let us tear off the collars around our necks! +Smash them into pieces like a ceramic vase!
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;NPC-Mercurows(0)||<黑屏1>:There's a system lockdown and we're running out of ammo. +We've really...been backed into a corner...

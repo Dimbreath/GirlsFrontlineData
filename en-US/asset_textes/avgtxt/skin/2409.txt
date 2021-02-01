@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+指挥官()<Speaker>Commander</Speaker>||<BIN>162</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:It's so hot... +Why is going to the seaside more miserable than I imagined...
+FAL()<Speaker>FAL</Speaker>||:This beach is as boring as I expected, but since this is a holiday, I guess I'll have to force myself to make do.
+()<Speaker>Commander</Speaker>||:You say that, but the look on your face betrays you, FAL. +<color=#A9A9A9>(It's not often that I get to see FAL this happy... It really is hot, but being able to see them so happy is all worth it.)</color>+... +<color=#A9A9A9>(Hmm...?)</color>
+()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:...After making sure that what everyone is happily indulging themselves in won't endanger themselves or others, I notice Ameli standing silently in the corner by herself.
+Ameli(4)<Speaker>Ameli</Speaker>||:Ah... Commander...
+Ameli(4)<Speaker>Commander</Speaker>||:Ameli, why are you standing here all by yourself? Aren't you going to join the others..?
+Ameli(4)<Speaker>Ameli</Speaker>||:It's okay... +I just don't want to miss the moment when they decide to play volleyball...
+Ameli(4)<Speaker>Commander</Speaker>||:So you brought that volleyball too?
+Ameli(4)<Speaker>Ameli</Speaker>||:Sí...I heard everyone talking about playing volleyball before they came here, so I prepared everything... +But now that we are actually here, nobody's mentioned it at all... +Just now, when I was helping Miss AA-12 set up her parasols, she even said she wasn't interested in that sort of thing...
+Ameli(4)<Speaker>Commander</Speaker>||<CGDelay>0.2</CGDelay>:<color=#A9A9A9>(I see, so that's why she's hugging the ball and standing to one side...)</color> +Maybe everyone forgot for a moment after seeing the ocean. +Why don't you suggest it to them?
+Ameli(4)<Speaker>Ameli</Speaker>||:I...don't think it's good for me to ruin their fun by doing that...
+Ameli(4)<Speaker>Commander</Speaker>||:Well, if you want to play volleyball, you can count me in at least. Don't worry and go ask around!
+Ameli(4)<Speaker>Ameli</Speaker>||:But if the others say no...
+Ameli(4)<Speaker>Commander</Speaker>||:If you want to play with everyone, then they'll understand better if you come out and say it rather than bottling it all up. +It's not like wanting to play volleyball together with everyone else is embarrassing. There's no need to worry about it.
+Ameli(4)<Speaker>Ameli</Speaker>||:...I get it. +I'll wait and see... I'll try again if I have the chance.
+Ameli(4)<Speaker>Commander</Speaker>||<黑屏1>:Let me know if you need me. I can help ask the others too.
+()||<BIN>9</BIN><黑屏2>:...At that time, all I thought was that I had to get everyone to play one set of volleyball at the very least.
+()||<黑屏1><BGM>BGM_Empty</BGM>:However, while I definitely achieved my aim, I had not anticipated the route that I would take to reach it.
+G41(2)<Speaker>Gr G41</Speaker>||<BIN>162</BIN><黑点2><BGM>BGM_Hello</BGM>:You missed! +You didn't hit me with the volleyball, so you lose!
+AK12(7)<Speaker>AK-12</Speaker>||:Is that so? +Griffin's volleyball rules are quite special.
+()<Speaker></Speaker>||:How did a perfectly good beach volleyball match end up as a competition between Griffin and Task Force DEFY...
+G41(2)<Speaker>Gr G41</Speaker>||:Time for my counterattack! I'm going to send you flying and avenge my Master!
+Ameli(4)<Speaker>Ameli</Speaker>||:(Mumbles) No...that's not the case! +The rules of volleyball aren't like that! The important thing is not to let the ball touch the ground!
+Ameli(4)<Speaker>Commander</Speaker>||:You may need to speak up a little... +I think they have a fundamental misunderstanding about the sport called volleyball...
+()<Speaker></Speaker>||:...I massage my aching temples as I stand on the sidelines with Ameli, watching as Gr G41 runs up and down the court with no idea what the rules are. +The people after her don't seem to know what the correct rules are either...
+Ameli(4)<Speaker>Ameli</Speaker>||:Arghhh... You don't lose if you're knocked out! Why did you dodge it...?!
+Ameli(4)<Speaker>Ameli</Speaker><Shake>||:...Ah! Mierda!
+()||:The whistle for the final match blows.
+()<Speaker>Commander</Speaker>||:It's over... In the end we couldn't even take a single set... +Is this how hopelessly impossible it is for us to catch up with DEFY?
+Ameli(4)<Speaker>Ameli</Speaker>||:(Whimpers) How did it end up like this...
+Ameli(4)<Speaker>Commander</Speaker>||:Ameli...? +Are you...crying?
+Ameli(4)<Speaker>Ameli</Speaker>||:I'm not... +Showing sadness in front of the Commander is forbidden...
+()<Speaker>Commander</Speaker>||:... + Got it. +Hmm, I'm thinking about taking a walk nearby before it gets dark. Would you like to join me?
+()<Speaker></Speaker>||<黑屏1>:...Ameli hesitates for a moment, then nods.
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:... +...The two of us walk along the coast, watching how the waves occasionally wash up strange pieces of debris on distant parts of the beach.
+()<Speaker>Commander</Speaker>||<BGM>BGM_Moon</BGM>:About the rules of volleyball... +Did you read up on them before coming here?
+Ameli(4)<Speaker>Ameli</Speaker>||:Sí... I downloaded a tutorial while looking through the base for a ball, and I memorized it before going to bed last night...
+()<Speaker>Commander</Speaker>||:I see... So that's how much you'd prepared after learning the others wanted to play volleyball, huh.
+Ameli(4)<Speaker>Ameli</Speaker>||:Sigh... If I had played with everyone ahead of time...and explained the rules to them... +Maybe we wouldn't have lost that badly?
+Ameli(4)<Speaker>Commander</Speaker>||:Don't blame yourself too much for that. Our opponents had a much better chance of winning than us. It had nothing to do with the rules.
+Ameli(4)<Speaker>Ameli</Speaker>||:But volleyball isn't a warlike sport...yet everyone felt that's how it should be played... +...Maybe I'm the one who got the rules wrong instead?
+Ameli(4)<Speaker>Commander</Speaker>||:Your knowledge of volleyball is correct. Don't let the others confuse you.
+Ameli(4)<Speaker>Ameli</Speaker>||:But everyone looked so happy... Would they have hated me if I tried to explain it to them...?
+Ameli(4)<Speaker>Commander</Speaker>||:Ameli, sometimes all you need to know is that you're right. +It was very good of you to have taken the time to learn the rules. The real problem was not speaking up when you had the chance.
+Ameli(4)<Speaker>Ameli</Speaker>||:Is...is that so...
+Ameli(4)<Speaker>Commander</Speaker>||:The vacation isn't over yet anyway. Let's find the time to play another game later on!
+Ameli(4)<Speaker>Ameli</Speaker>||:Then...I'll try again... +I didn't ask them, but everyone did play volleyball, as they said they would.
+Ameli(4)<Speaker>Commander</Speaker>||:Taking the initiative to ask other people might also make it easier to explain the rules to them. +Hmm... Other than volleyball, is there anything you girls had wanted to try before setting out that we still haven't done yet?
+Ameli(4)<Speaker>Ameli</Speaker>||:...Um, no, everyone did all the things they said they wanted to do today...
+Ameli(4)<Speaker>Commander</Speaker>||:So everyone only wanted to do such simple things... +I was going to ask if anybody was looking forward to seeing—
+Ameli(4)<Speaker>Ameli</Speaker>||:Except... +Commander... I...I want to see what a bonfire looks like.
+()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Hmm...?)</color> +A bonfire? Why?
+Ameli(4)<Speaker>Ameli</Speaker>||:Back in the base around Christmas, Señorita Springfield told me that people would make a fire outdoors like in a stove, only that it's much bigger than a stove... +I've never had the chance to light a fire outdoors, so I've always wanted to see what it's like.
+Ameli(4)<Speaker>Commander</Speaker>||:Then let's start a bonfire tonight! +Lightning a huge bonfire is one of those things you need to do when you come to the seaside!
+Ameli(4)<Speaker>Ameli</Speaker><Shake>||:Really?! +But...
+Ameli(4)<Speaker>Commander</Speaker>||:No one would hate a bonfire. The beach is the perfect place for it! +However, we'll need to prepare a lot of wood first, and while I told P38 about it just now...
+Ameli(4)<Speaker>Ameli</Speaker>||<震屏>:I can get wood!
+Ameli(4)<Speaker>Ameli</Speaker>||:If you approve...then all I need is to get it ready by sunset, right, Commander?
+Ameli(4)<Speaker>Commander</Speaker>||:Uh...yes...
+()||<SE1>Runstep</SE1><黑屏1>:...After bidding me a hasty farewell, Ameli begins her last-minute task of gathering wood from all around. She's completely different from how she has been earlier.
+()||<BIN>9</BIN><黑屏2><黑屏1>:It's a little hard getting used to Ameli being so eager. +The bonfire... It isn't something the others particularly want to see, nor is it an event as greatly anticipated as playing beach volleyball. It is simply Ameli's personal wish. +As a girl who often caves to others' demands, the fact that she has chosen to remember this one thing out of so many other possibilities shows that it really means something to her. +Hmm... I just can't get used to Ameli being so eager and outspoken after all.

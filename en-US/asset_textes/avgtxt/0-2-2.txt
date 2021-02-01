@@ -1,0 +1,17 @@
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:Calling Persica. The operation is going smoothly. The AR Team has reached Safe House 3.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;M4A1(0)||:Woo-hoo! Can you find Lyco's stuff?
+NPC-Persica(0);M4A1(0)<Speaker>M4A1</Speaker>||:We have probed the interface, but the system is so archaic we cannot break the verification structure.+We will need a passcode to activate the system promptly.
+NPC-Persica(0)<Speaker>Persica</Speaker>;M4A1(0)||:Hmm... Try '90WISHROCK', followed by the letter 'X', all in caps.
+NPC-Persica(0);M4A1(0)<Speaker>M4A1</Speaker>||:...Verified. Browsing database.
+NPC-Persica(2)<Speaker>Persica</Speaker>;M4A1(0)||:Splendid! Copy everything into your memory bank and bring them back.
+NPC-Persica(2);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:Understood. Copying data. Comms system will be shut off temporarily.
+AR15(0)<Speaker>ST AR-15</Speaker>||<黑屏2>:...So, we're messing with a Sangvis database in Sangvis territory, looking for information that even Sangvis Ferri have no idea they have?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Haha♪ Isn't that fun? It's like a treasure hunt!
+??()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:Indeed. Thanks to you, the treasure is finally ours.
+BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:'Agent', Sangvis Ferri Manufacture. I have been awaiting your arrival.
+M16(3)<Speaker>M16A1</Speaker>;BOSS-8(0)||:...Agent?!+Why would such a high-ranking Sangvis unit be here?!
+M16(3);BOSS-8(0)<Speaker>Agent</Speaker>||:This safe house holds something 'Master' seeks.+Unfortunately, the system is from a bygone time so even we were not able to crack it.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-8(0)||:And so...we've done you a huge favor, haven't we?
+BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:Master said you would come for sure.+I just have to capture you, dismember you, and extract your memory banks, and Master will have the 'answer'.
+AR15(2)<Speaker>ST AR-15</Speaker>||:Detecting signals of numerous Sangvis units! This bitch... She's for real!
+M4A1(3)<Speaker>M4A1</Speaker>||:Copying still in progress. We must persist until it is complete.+Everyone, prepare for defensive maneuver!

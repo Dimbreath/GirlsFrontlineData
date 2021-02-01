@@ -1,0 +1,97 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>m_va_youve_got_me</BGM><SE1>AVG_door_elecport</SE1><黑屏2>:...+In the White Knights base. Underground.
+Alma(2)<Speaker>Alma</Speaker>||:Super-Shorty!
+()||<SE1>ClothingUp</SE1>:...Alma embraces Super-Shorty as she enters the office.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><Shake>||:Ooog! Too tight! Too tight!
+SuperShorty(0);Alma(3)<Speaker>Alma</Speaker>||:Ah, sorry, I got too excited, but I'm really glad that you're alright.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(3)||:I'm sorry, I still don't quite remember who you are...
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:It's fine, I'll explain it to you slowly. +As for the others...
+Alma(4)<Speaker>Alma</Speaker>||:Haha...a Griffin Doll, a S.F. Doll, and a native human. Quite the balanced team you have.
+Dana(0)<Speaker>Dana</Speaker>||:I'm Dana Zane. I found this shorty in the ruins of the Earth Computer.
+Alma(2)<Speaker>Alma</Speaker>||:I've seen you on TV before, "Red Comet". I'm grateful to you. +And this S.F. Doll would be...?
+BOSS-9(0)<Speaker>Architect</Speaker>;Alma(2)||:Architect of Sangvis Ferri Manufacture. There's hardly anyone in this day and age who doesn't know me.
+Alma(2)<Speaker>Alma</Speaker>||:I don't have any information on you, which is quite strange. +In any case, welcome to my office-slash-prison cell. +The White Knights have me under house arrest, but life here is pretty good. At the moment, they're busy tearing down Griffin City on the surface, so we can have a good chat for the time being. +Sit anywhere you like. Coffee? Or would you like a Brandtini?
+Dana(0)<Speaker>Dana</Speaker>||:Let's get to the point, shall we? What do you know about this shorty? +She looks so scared that she doesn't dare to speak.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I...I just...I just don't know what this is all about! +Who are you? Who am I...
+()||:...Alma pours herself a cup of coffee and leans against a wall.
+Alma(2)<Speaker>Alma</Speaker>||:I could really use some alcohol right now, but I'd be better off sober for the work I need to do after this. +Super-Shorty, I'm going to tell you about your past, my past, and that of the world. Are you ready?
+()||<黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker>Alma</Speaker>||<BIN>9</BIN><黑屏2><BGM>m_va_glitch_city</BGM>:Much like every human being here, I was faced with the ruins my ancestors had left from as far back as I could remember.
+()<Speaker>Alma</Speaker>||:However, what was uncommon in this day and age was the fact that I had a large, close-knit middle-class family. +I enjoyed solving puzzles and was curious about the prehistoric culture that my father would talk about, and so I ended up with an interest in prehistoric electronic security and cracking. +After that, I taught myself to be a hacker, and I even remodelled my hands to support that. See?
+()<Speaker>Dana</Speaker>||:That's a full cyberarm. That's way cool.
+()<Speaker>Alma</Speaker>||:I'm very proud of it. This sort of prosthetic is very suitable for people that have lost their arms in accidents.
+()<Speaker>Dana</Speaker>||:It's nothing special. +One time during a baseball match, I used too much force when throwing a pitch and my arm went with it.
+()<Speaker>Super-Shorty</Speaker>||:If that happened to you, I'd actually believe it... Go on, Alma.
+()<Speaker>Alma</Speaker>||:Mhm. I can say with pride that I am the best native hacker on Earth. +After that, I accepted an invitation from Stella Hoshii to work at her 16Lab research institution under IOP.
+()<Speaker>Alma</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Until one day, I received a request from boss Stella herself to find the location of the S.F. Mastermind.
+Dana(2)<Speaker>Dana</Speaker>||<BIN>8</BIN><黑屏2><BGM>m_va_follow_the_trail</BGM>:Stella...
+Alma(4)<Speaker>Alma</Speaker>||:Yes. The name "Sangvis Ferri" was always lurking in the dark corners of her heart.+But to me, it was just a job, and it would help keep the peace in Griffin City. You get what I mean?
+BOSS-9(0)<Speaker>Architect</Speaker>;Alma(4)||:Of course. To you, we were just a bunch of terrorists.
+Alma(2)<Speaker>Alma</Speaker>||:And so I studied S.F.'s OGAS protocol and back traced their signals to the source. +In the end, I learned of a shocking revelation...
+Dana(2)<Speaker>Dana</Speaker>||:The source of S.F. was the Earth Computer, right?
+BOSS-9(0)<Speaker>Architect</Speaker>||:Hehe, I already told them ten minutes ago. Sorry to spoil your surprise.
+BOSS-9(0);Alma(2)<Speaker>Alma</Speaker>||:Oh... How regretful it is that I missed your "say what now!?" response.+But yes, the S.F. Dolls were produced by the Earth Computer, but why would the Earth Computer make something so dangerous to attack us?
+BOSS-9(0)<Speaker>Architect</Speaker>;Alma(2)||:Frankly speaking, I don't know the reason myself. +But let me just say this, I've never once taken the initiative to attack a Doll or a human, but it is true that the first S.F. units were made to wipe out all life on Earth.
+Alma(2)<Speaker>Alma</Speaker>||:Why would the device that managed this world want to exterminate us...? That was what I needed to find out. +But the Earth Computer was buried underground, and it was heavily guarded by S.F., and in order to get into the Earth Computer to learn what was going on, we needed to dispatch someone nimble and small-framed. +So IOP picked their two smallest Tactical Dolls to carry out this mission.
+Dana(0)<Speaker>Dana</Speaker>||:That seems like the only sensible thing in this entire story so far. (Looks at Super-Shorty)
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><Shake>||:Don't call me short!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...+Alma, you chose me...and another Doll?
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:Yes, do you remember who she was?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:No, I only remember her voice... +She was really loud...
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:(Laughs) That's right. That's the kind of personality she had, the opposite of yours. +Now then...would you like to see her?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:How can I see her? Where is she?
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:I don't know. But you know. +Once your neural cloud is restored, you'll be able to regain your memories.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:Regain...my memories?
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:That's right. Nobody knows what you two went through down there. +All I know is that...the two of you vanished with the Earth Computer. +And then sand began to rain from the sky, and Stella vanished after that.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:What on Earth happened... +Alma, can my memories really be restored?
+Alma(2)<Speaker>Alma</Speaker>||:Of course, but I can't do it by myself. I need your efforts too. +I'm going to install an electronic warfare module into you, and you're going to use simulated combat to rebuild the foundation for your memories. +You need to investigate as much deeply-buried data on the level 2 layer as possible and use it to restore the fragments of your neural cloud, and then you will know what happened to you on the day when Earth stopped spinning.
+BOSS-9(0)<Speaker>Architect</Speaker>||:Hehe, even I'm getting a little excited about this. I bet even I don't know the truth of what went down.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...What exactly do I need to do?
+SuperShorty(0);Alma(2)<Speaker>Alma</Speaker>||:You need to break through the firewalls in your neural cloud and eliminate the errors along the way. +I have to point out that there is a certain degree of risk associated with this, because you will need to win those simulated battles on the level 2 layer. If you lose, you will be lost forever in the depths of level 2... It all rests on you, Super-Shorty.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Alma(2)||:I...I don't know, this is all too sudden.
+SuperShorty(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Let me remind you that we don't have too much time. The White Knights are still going berserk outside.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I was originally prepared to accept everything. But, having me fight by myself all of a sudden... +I'm not sure if I can handle it...
+Dana(0)<Speaker>Dana</Speaker>||:...Shorty. +The key thing is, do you want to recover your lost memories?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:I don't know... I may not be able to accept what I experienced in the past... +Dana, you said earlier that losing my memories might be a good thing.
+SuperShorty(0);Dana(0)<Speaker>Dana</Speaker>||:But do you truly believe in what I said?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:I...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><Shake>;Dana(0)||:Of course I don't believe you!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:You were clearly lying to me back then! Just like how you were talking about your prosthetic arm and how we'd meet again next time!
+SuperShorty(0);Dana(0)<Speaker>Dana</Speaker>||:Haha, yes. I should have kept lying to you, and I should have told you that forgetting everything would be good...
+Dana(0)<Speaker>Dana</Speaker>||:...But it seems like you won't believe my lies anymore.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:I'm just mad...at the noisy voice that keeps calling me short!
+()<Speaker></Speaker>||<BIN>70</BIN><黑屏2>:...Super-Shorty walks in front of the bed.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I don't remember her, and she's clearly not my friend. +Alma, I've decided. Help me regain my memories!
+Alma(2)<Speaker>Alma</Speaker>||:Thank you, Super-Shorty. I believe you can do it.
+BOSS-9(0)<Speaker>Architect</Speaker>||:You'll be on your own for what comes next, kiddo.
+Dana(0)<Speaker>Dana</Speaker>||:Relax. Memories are things that have already happened. +Since the past couldn't kill you before, it won't be able to do it this time around.
+Dana(0)<Speaker>Dana</Speaker>||<黑屏1>:Go, Shorty. Take them all back!
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......+...
+()<Speaker>???</Speaker>||:Leader... +Leader, wake up!
+()<Speaker>Super-Shorty</Speaker>||:Uuuu...
+()<Speaker>Super-Shorty</Speaker>||<黑屏1><BGM>m_va_those_who_dwell_in_shadows</BGM>:I told you, don't call me—
+()<Speaker>???</Speaker>||<BIN>88</BIN><黑屏2>:Sshhh—!
+()<Speaker>???</Speaker>||:There's S.F. everywhere outside. We're dead meat if they hear us, didn't you say that?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I...
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>（That's right...I'm in my memories of the past.）</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Er...you... +You are...
+IDW(0)<Speaker>IDW</Speaker>||:I'm IDW! +What's the matter, Leader Shorty?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><Shake>||:D-Don't call me that!
+IDW(0)<Speaker>IDW</Speaker>||:Ah, I'm sorry, I forgot...
+()||<BGM>BGM_Empty</BGM>:Pomf...!
+()||<BGM>m_va_youve_got_me</BGM><SE1>ClothingUp</SE1>:...Super-Shorty suddenly hugs IDW.
+IDW(0)<Speaker>IDW</Speaker><Shake>||:...Nya!?
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I...I remember, you're my partner! +It was you...IDW...
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:What are you saying all of a sudden, of course we're partners! We're going to save the world together! +Although this is our first time working together, I hope we can get along. +But but! I don't mind it if you wanna hug me like this!
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>（Our first time working together...?）</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>（Right... Our personalities aren't very compatible, so it'd be unlikely that we would be long-time partners...）</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>（But why is it that whenever I see IDW...my emotional coefficient goes down...）</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:<color=#A9A9A9>（I need to keep exploring and find more memories...）</color>
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:...
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:Do you still remember our mission, Leader?
+IDW(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:I do. We're going into the Earth Computer, right?
+IDW(0)<Speaker>IDW</Speaker>;SuperShorty(0)||:That's right! We're already in the Earth Computer's underground chamber. Now we need to get inside the Computer. +After that, we need to find the control console, insert Alma's hacking program, and then figure out what kind of orders the Computer is carrying out!
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Roger... +But there are S.F. patrols all around. We need to find a way to avoid them.
+IDW(0)<Speaker>IDW</Speaker>||:Yup, it'll be up to you to lead us around them. +Let's move out, Leader!
+IDW(0)<Speaker>IDW</Speaker>||<黑屏1>:Let's...save the world together!

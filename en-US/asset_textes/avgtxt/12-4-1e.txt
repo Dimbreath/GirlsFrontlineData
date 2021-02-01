@@ -1,0 +1,41 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:Several minutes ago. +On the train.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, Miss 45. Shouldn't you be in the command center?</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:We'll be there in a second. We just need to finish this maintenance. +Once I'm done here, I'll switch the circuit to Repair Bay A23. Your Griffin Dolls could use some extra help there, right?
+NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Thanks. Sorry for having to borrow your hardware.</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's okay, we'll be charging for it.
+NPC-Kalin(5)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Ahahaha...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Right, then can I ask another favor?</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:What is it?
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>We just received a problematic encrypted file. I'm guessing Ange finally managed to send her information over.</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:She finally got in touch? +But why didn't she just call you?
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>That's what worries us as well...</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:...If she can't talk through a direct transmission, then she could be in danger right now.
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>It was already odd enough that she didn't contact us at the agreed time.</color> +<color=#00CCFF>On top of that, the file we received is completely garbled due to some kind of interference...</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:So the content is damaged and you want us to recover it?
+NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Sorry, I'm rendering the holographic map using the computer mainframe while M4 and RO are busy running battle simulations.</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:Nobody's got time, eh? +I understand. Send me the file. We'll sort it out in five minutes.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I'll leave that to you then~</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Kalina terminates the transmission.
+HK416Mod(0)<Speaker>416</Speaker>||:Extra work?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Kinda.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:We don't need to be armed to repair some file on Level II, do we?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:We'll reach the submarine base in half an hour. Better be prepared ahead of time.
+HK416Mod(0)<Speaker>416</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Humph... I've never seen you take an operation so seriously. +I'll help. There's also something I want to talk to you about.
+()||<黑点2><BIN>72</BIN><BGM>m_avg_labyrinth</BGM>:On Level II.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:So the interference was really caused by Sangvis Ferri, but it's so...amateurish. Hard to imagine how S.F. is now in such a sorry state.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Didn't Dandelion mention that S.F. was involved in this mission?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:And you believe her?
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:The other Dolls don't seem particularly hostile to her.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:First she's related to OGAS, then she's related to the Pike Node. Now this Pike Node is somehow connected to the Butterfly Incident. +This thing that's neither human nor machine is the most suspicious subject on the entire train.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:If you're so concerned, why don't you just ask her?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Humph... This Dandelion has already noticed that I've been monitoring M4's neural cloud the whole time.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:I know. I could tell many of the things she said weren't directed at the Dolls she was talking to. +Just leave it be. You and I both know that you aren't keeping tabs on M4 just to complete Persica's mission.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:What are you getting at?
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:I'm not sure what you're trying to achieve here, but it's obvious that you have common interests with those Dolls, so why don't you just let those special Dolls handle it? +After all, we aren't like them.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:You always pride yourself on being an elite, yet you're admitting your inferiority at a time like this?
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Change is only natural after going through so much. +The AR Team aren't the only ones who have changed. I realized when I came back that even we're not the same. +One could easily drown in the past if they refuse to let go. +The UMP45 I know would never be stupid enough to make such a mistake.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:You're quite chatty today.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:You don't have to listen if you don't want to. I'm just giving you some friendly advice. +We'll be entering that submarine base soon. I don't want to drag your tattered body out of there like what happened last time.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:I appreciate your concern, now focus on cleaning up the Sangvis corruption in the file.
+()||<黑点2><BIN>10</BIN>:

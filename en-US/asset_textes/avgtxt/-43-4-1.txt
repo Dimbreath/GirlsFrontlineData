@@ -1,0 +1,70 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<黑屏2><BGM>BGM_Truth</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agent? Agent?</color>+<color=#00CCFF>I'm not picking up your position. Your signal echo vanished in Manhattan.</color>+<color=#00CCFF>Please respond, I repeat, please respond...</color>
+HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_amb_wilderness</SE1><黑屏1><BIN>9</BIN>:...Shut up.
+()||<BIN>299</BIN>:Lexington Avenue.+416 re-emerges onto the streets, illuminated by a street lamp.<下雪></下雪>
+HK416Mod(0)<Speaker>416</Speaker>||:I narrowly managed to escape death just now, I don't want you to blow out my eardrums with your whining.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>I'm glad you're alright, Agent.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:Save it. I don't recall you showing the least bit of concern for me when I was running around just now.+If you really want to make yourself useful, then why don't you think of a way to help me out?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>I can't assist you from my current position, Agent...</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:...Then forget it.
+HK416Mod(0)<Speaker>416</Speaker>||:It's not like I was really expecting an NPC to be of much help anyway.
+()||:The fog slowly clears...<火焰销毁></火焰销毁>+The storm is over, and only a few scattered snowflakes still flit through the sky.+The street lights are evenly distributed throughout the darkness, illuminating the street corners. The cold air forms a mist close to the ground, making this city of death look even more menacing.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>We dispatched a wave of Agents into the Dark Zone before you, but the results were not what we were hoping for — namely, the rogue agents that you encountered.</color>+<color=#00CCFF>I'm glad you're much more capable than our previous Agents. I believe that with your help, this operation's success won't be too far off.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:Success...
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker></Speaker>||:416 purses her lips as she walks down the road.
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:I am not the least bit interested in winning or losing this game. +I was dragged into this unwillingly in the first place. +45's the one who wants the prize money.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>B-but...</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:I'm not backing out.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>Hm?</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:You're just an NPC, so you probably don't understand.+Anyone would get mad after being treated that way. +And while I'm not particularly driven to win, I hate losing pointlessly even more.
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:Just as 416 finishes speaking, her communicator suddenly lights up for the first time in a long while.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||<BGM>BGM_Room</BGM>:<color=#00CCFF>Good evening. I see you managed to survive?</color>+<color=#00CCFF>I thought Griffin sent out some kind of badass, but turns out she didn't manage to do much to you.</color>
+UMP45Mod(0)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:You sound disappointed.+Upset that I didn't die?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>Well, considering this is a game, I don't see why we couldn't give it a try.</color>+<color=#00CCFF>After all, we rarely get to experience such things, don't you think?</color>
+UMP45Mod(0)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:The two of us actually agree on something. That is rare indeed.+I also feel that since this is a game, we should cherish these rare opportunities. +Like say, by doing things we can't do outside.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>I'm very glad to hear you say that. Now, if you could rein in that murderous intent you're radiating I would be even happier.</color>+<color=#00CCFF>I, for one, have nothing but the deepest faith in an elite Doll like yourself, which is why I've entrusted such an important task to you. </color>+<color=#00CCFF>I wouldn't rest easy if it had been someone else. </color>
+UMP45Mod(0)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:Why, what an honor.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>You're welcome. I'll accept a drink from you once the game is over.</color>+<color=#00CCFF>Ah~ That's right, thanks to you delaying the enemy, I managed to find the medicine that NPC wanted. There are six doses in total.</color>+<color=#00CCFF>I'll bring your share onto the departure craft with me, so you'd better do your best, okay?</color>
+HK416Mod(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:We'll see who gets the last laugh.+The last person who made me mad is still...
+()||<黑屏2><BIN>288</BIN><BGM>BGM_Empty</BGM>:...
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>AVG_footsteps_cave</SE1>:Forget it.+This is weird.+There's no more fog, but it feels even more disorienting than before.+I'm having difficulty finding the right path.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>That's because hardly anyone has come here before.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:Why is it you can still contact me?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>We have a special SHD-only frequency.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:Really?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>After this, please pay attention to the contaminated areas within the Dark Zone. Staying there for extended periods of time will worsen your infection.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:If you're talking about the passages by the road which seem to be glowing green, I already guessed they were bad news. I have no intention of going into them.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>After Black Friday, they moved a large number of the people who needed help to this region, then built a wall around them and established Manhattan's final defensive line.</color>+<color=#00CCFF>The situation deteriorated beyond what the line could handle.</color>+<color=#00CCFF>When Manhattan lost power, this place was quickly abandoned. The only thing left behind other than the cutting edge weapons and gear they once used is death.</color>+<color=#00CCFF>Nobody went in again, and nobody has come out alive either.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:The Dark Zone.+...It takes a light to cast shadows.+But I can't see the slightest bit of light in this world.+It's just going from one Hell to a worse one.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>No, we still have a thread of hope left here—</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:"The people outside desperately need the medicine."+You're trying to say that light is hidden in the darkest place, right?+Cliches like that went out of style 40 years ago.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>That's the most important objective to me.</color> +<color=#00CCFF>The medicine itself means more than its mere existence.</color>+<color=#00CCFF>What it symbolizes—hope—is far more important.</color>+<color=#00CCFF>People always try to save things because they need a purpose.</color>+<color=#00CCFF>This is also why we're so weak when we try to save ourselves.</color>
+NPC-Dima(1)<通讯框>;HK416Mod(0)<Speaker>416</Speaker>||:What you said sounds pretty deep and profound, but do you actually know what it means?+It doesn't match at all with what I said. You sound like you're reading off a script.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>There seems to be a good extraction point near the Russian Embassy. If you find the medicine, you can call for help there.</color>
+HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Danger</BGM>:Well, isn't that a "personalized" suggestion... Hm?
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Thud!+As a chill creeps up her spine, 416 silently curses herself for her carelessness — she was so caught up in talking to Dima that she failed to noticed the rapid footsteps behind her.+By the time she realizes that someone was approaching, her opponent has already gotten to within two body lengths - a somewhat dangerous range for her.+Before even verifying the identity of the person behind her, 416 explosively maxes out her body's physical parameters by turning to face the source of the sound and holding down the trigger.+From the corner of her vision, she notices a familiar figure swiftly evading the attack.
+Vector(0)<Speaker>Vector</Speaker>||:Silvery hair and lime green eyes... I won't let you get away this time.
+Vector(0);HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:Again? +—Alright then, this time I'll silence you for good!
+()||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:... + Several minutes ago.
+()<Speaker>System</Speaker>||<BGM>BGM_Truth</BGM>:The transmission ends. +X Hellfire has killed Good Luck Doesn't Last. +X Hellfire has killed Philosopher Fairy.
+Vector(0)<Speaker>Vector</Speaker>||:...
+Vector(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:R93 and K5's transmissions are suddenly interrupted, and the announcement of their deaths soon follows.+Vector clenches her fists. It implies that she is now totally alone.+PP-90's words are still echoing in her ears.
+Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:...Even without the Commander's mission to drive me... +Even if it's just for the sake of my friends, I will NOT lose.
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:I have to win.+This thought burns brightly within Vector's neural cloud.+Not only does she have to win, but also...
+Vector(0)<Speaker>Vector</Speaker>||:Silvery hair and lime green eyes...+I know, I know there is no right or wrong on the battlefield.+But...the deaths of my friends must be avenged.
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Agent, please continue advancing, there's not much time left!</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:I know that, can't you see I'm moving forward?+...How many agents are left, Miss Dima?
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>...There should be three left, I think.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:You actually answered me?+...Before this you didn't seem to care.
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Surely you jest, Agent.</color>+<color=#00CCFF>The enemy forces are still very strong, so I need you all to work together.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:I can't do that.+One of the other surviving agents...has silvery hair and lime green eyes, right?+I will never forgive her for what she did.
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Agent, there is no need to continue fighting among yourselves. Please...</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:...!
+Vector(0)<Speaker></Speaker>;NPC-Dima(1)<通讯框>||:Just as Vector slowly approaches the center, a familiar yet eye-catching form comes into view.
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<BGM>BGM_Empty</BGM>:—It's her!
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>W-wait, Agent!</color>
+()<Speaker>Vector</Speaker>||<快跑><BGM>BGM_Battle</BGM><SE1>RunStep</SE1>:Blood for blood!
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Please wait! Agents! You don't need to fight anymore!</color>
+HK416Mod(0)<Speaker>416</Speaker>||:You should be telling her that.
+HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_weapon_reload</SE1><黑点1>:However, you'll have to pray that she survives this time.

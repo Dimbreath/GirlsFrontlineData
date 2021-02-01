@@ -1,0 +1,40 @@
+()||<BIN>46</BIN><BGM>BGM_Sneak</BGM>：At the AR Team's temporary safe house one week after M16A1's disappearance.
+RO635(3)<Speaker>RO635</Speaker>||：Hey...SOP II.
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：What's up?
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：Does the AR Team get into situations like this often?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：What do you mean?
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：I mean right now... A situation where we've lost contact with HQ and are surrounded by hundreds of Sangvis troops in a run-down factory with only a single magazine of ammo left...
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Well...I was in a similar situation a year ago when I got split up with M4 and the others, though there weren't this many enemies...
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：That is to say...it's even worse right now?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Mmmm... I guess so?
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：Right...right...
+RO635(3)<Speaker></Speaker>;SOPII(0)||：...RO suddenly stands up.
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||：Yet you still opened fire on the enemy! SOP II! Didn't I say that we would sneak past that outpost!
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：I don't think it would've been possible to sneak past them under those conditions.+Rather than waiting to be discovered by the enemy, why not take the initiative ourselves?
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||：I had already disguised our signals. Those low-level Sangvis troops wouldn't have been able to recognize us!
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Even if we were right in their face?+Wow...it's that awesome?
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||：Of course it is... Wait, that's not the point! What I mean is that you should trust me. I'm the commander and I won't put us into unnecessary danger, understand?
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Alright, alright...+But that's pretty awesome, is it new technology from 16Lab?
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||：Heh, what's even better is that I can scan the number of enemies behind me while running right now.
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：But we're not running right now...
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||：That's why I said "now"! Run, they're going to surround us!+Want to guess how many Sangvis troops are on our tail, you little troublemaker?!
+RO635(5);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Lemme see... A little over a hundred?
+RO635(5)<Speaker>RO635</Speaker>;SOPII(0)||<黑屏1>：Stop looking and run!+Aaaaah! Help us, Commander! Hurry and locate our position already!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>：The previous day, Griffin headquarters.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<BIN>22</BIN><黑屏2><BGM>BGM_Room</BGM>：...What's the problem?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||：Mr. Kryuger, regarding the search operation for M16A1...+In my opinion, there is no need for further investigation. We'll simply be wasting our resources.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||：Losing an irreplaceable advanced T-Doll is a hard loss to swallow. We should not give up if there is still hope.+Besides, I've already promised the Commander.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||：Yes...+Speaking of the Commander...do you really intend to bring that person to the banquet along with you?+I believe a person of such rank isn't suitable for attendance to that kind of event, at least in regards to information security... I suggest that you reconsider.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||：The Commander has the right to know what's going to happen, especially as we will be heading into a grueling war very soon. This will be the guarantee for our ensuing victory.+You've interacted with the Commander far more than myself, so you should be well aware that we don't have many options remaining. 
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<黑屏1>：...I understand.+The Commander should be arriving soon. I will set up a meeting as soon as possible.
+()||<BIN>8</BIN><黑屏2>：Meanwhile, in the Control Center...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Really, Commander? We can continue our search for M16?
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||：Being able to convince Miss Helian...you're so awesome, Commander!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||：But we've already searched through the entirety of the area where M16 went missing, yet we couldn't find any clues at all...
+SOPII(2);RO635(0)<Speaker>RO635</Speaker>||：That's true, but that also means M16 must've left the area unscathed.+If she had come across Sangvis troops, there would've been signs of battle, right?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||：Of course!+That's right! The M16 that I know wouldn't go down that easily!
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||：So please continue to support our search, Commander.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||：Eh? The Commander won't be heading to the frontlines this time?
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||：The Commander has a mission at HQ this time.+However, the Commander will continue to give us long-distance support even without being at the frontlines.
+SOPII(0);RO635(4)<Speaker>RO635</Speaker>||：Commander, M16's disappearance is my responsibility. I hope that when M4 returns, she'll be able to see the AR Team with everyone present...or at least back to how it was when I first joined...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(4)||<黑屏1>：RO...it'll be fine, I'm sure of it! There's nothing to be afraid of with the Commander here!+Let's head out now. M16 is waiting for us!

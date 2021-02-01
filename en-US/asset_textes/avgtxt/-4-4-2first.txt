@@ -1,0 +1,27 @@
+()||<BIN>7</BIN><BGM>BGM_NightOPS</BGM><SE2>Gunfight</SE2>:...
+BOSS-7(0)<Speaker>Gager</Speaker>||<SE1>Battlefield</SE1>:Hey! Architect, where are you aiming? +Griffin T-Dolls are running all over the place! Where is your artillery?!
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;BOSS-7(0)||:Arghhhhhh I'm having a hard time over here too! The black shirts have cut off my power supply again! +My forces can't guard all the power sources so my cannons are only functioning at half capacity! Come help me out!
+BOSS-9(0);BOSS-7(0)<Speaker>Gager</Speaker>||<SE2>Gunfight</SE2>:If I come back to base, all our important outposts will be taken by Griffin. +I'll send you some of my troops to guard the auxiliary power supply.
+BOSS-9(0)<Speaker>Architect</Speaker>;BOSS-7(0)||<SE1>Battlefield</SE1>:Arghhhhhh can't I just come out and fight them myself?!
+BOSS-9(0);BOSS-7(0)<Speaker>Gager</Speaker>||<SE2>Gunfight</SE2>:You're too dumb. If you head out, you'll definitely be surrounded. +Stay in the base and blow up any T-Doll that runs past you! +Leave everything outside to me...
+BOSS-9(0)<Speaker>Architect</Speaker>||<SE1>Battlefield</SE1>:Gager... +B-Be safe! +Make sure you come back alive! Do you hear-
+()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:Bang! +Connection broken.
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:Architect? +Calling Architect! Do you copy?! +Even comms are down... Could it be 404's doing...?
+计量官()<Speaker>Gager</Speaker>||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:I was going to let them be, but looks like I was too soft... +I will never surpass Dreamer if I keep wavering... +I must be more brutal! More deranged!
+计量官()<Speaker>Gager</Speaker>||<SE2>Alarm</SE2><黑屏1>:All troops heed my order! Change of objective! Abandon previous plan of capture! +From now on, kill every non-AR Team T-Doll on sight!
+()||<黑屏2><BIN>6</BIN>:Meanwhile.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sneak</BGM>:RO, looks like Squad 404's move is working!
+M16(3)<Speaker>M16A1</Speaker>||:It's our turn. +Let's infiltrate the base and open the gateway now.
+RO635(0)<Speaker>RO635</Speaker>||:...
+M1887(0)<通讯框><Speaker>M1887</Speaker>;RO635(0)||:Calling RO. Gager's attack is getting more ferocious. +Can we retreat now?
+M1887(0);RO635(0)<Speaker>RO635</Speaker>||:Not yet, M1887... +Not even close...
+M1887(0)<Speaker>M1887</Speaker>;RO635(0)||:But we might not be able to keep this up for long.
+M1887(0);RO635(0)<Speaker>RO635</Speaker>||:It would actually be more dangerous if you do.
+M1887(0)<Speaker>M1887</Speaker>;RO635(0)||:What?
+RO635(4)<Speaker>RO635</Speaker>||:Everyone, a slight change of plan. +Please keep engaging the two Ringleaders.
+M16(3)<Speaker>M16A1</Speaker>||:Where are we going, RO?
+RO635(0)<Speaker>RO635</Speaker>||:A communication outpost. I'm leaving it to you to get in touch with Helian, M16.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:But...Helian's rescue party is too big! They won't make it here in time!
+RO635(0)<Speaker>RO635</Speaker>||:Then what if...+What if we ask the Commander to come first?
+M16(3)<Speaker>M16A1</Speaker>||:... +The weather condition and the Sangvis blockades on the way all pose considerable risks to the vanguard...
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:That's not the point, M16, SOP II... +If it were M4, she would trust her commander, wouldn't she?

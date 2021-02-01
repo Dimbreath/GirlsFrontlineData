@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>301</BIN><BGM>GF_xDivision_Scene2</BGM>:00:08AM, on a cleared-out street near Times Square.+After ensuring that there are no enemies in sight, Squad Springfield finally stops to rest, having shaken off M870 and company at last.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Congratulations on escaping a tight spot, Agents. However, this won't be the last battle where you may have to fight your friends.</color>+<color=#00CCFF>Apart from those who stand with you, there are traitors here as well...they're only going to make this city that much more chaotic.</color>
+NPC-Dima(1)<通讯框>;97type(0)<Speaker>Type 97</Speaker>||:We...we made it at last! You should help us too, Dima! +Can't you send out someone to assist us?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>Unfortunately, I am unable to summon assistance for you in most areas, Agents.</color>+<color=#00CCFF>The situation here is too dangerous and we cannot risk our precious airmen without a guarantee of safety. </color>
+NPC-Dima(1)<通讯框>;97type(0)<Speaker>Type 97</Speaker>||:Not even a little?
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>I am very sorry. Please do your best to reach the Dark Zone and fire the signal flare once the mission is complete. The chopper will take everyone to safety.</color>
+M1903(13)<Speaker>Springfield</Speaker>;97type(0)||<SE1>AVG_tele_disconnect</SE1>:Don't make things difficult for Dima, 97. We need to find a place to have a rest. +Whew... we managed to escape battle, at least.
+M1903(13);97type(0)<Speaker>Type 97</Speaker>||:Our gear isn't fantastic either. I wasn't confident in our chances of winning against them just now. +Good thing Springfield and that last Molotov helped us out!
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Where's the next safe house? I want to lie down for a bit, I was so tense earlier that I feel like throwing up now. +They were a strange bunch, though. If Springfield hadn't stopped me, I'd have chopped them all to bits.
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||:Well, you can't choose to chop them up in the game, only shoot them. But you were basically spacing out back then, weren't you?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I was taking screenshots, and by the time I looked back they already had you in their sights.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...You were taking screenshots?! When life and death were at stake?!
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:It's called enjoying the game, Gr MP7. The screenshots I took came out awesome.
+MP7(4)<Speaker>Gr MP7</Speaker>;97type(0)||:I'd rather charge outside right now and take on all the mobs out there on my own than look at your stupid screenshots.
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Let me see! Are we cool? +Wow, this angle is great! I'm going to turn on burst shooting when I run into something like this next time!
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I took a bunch of pictures, everyone's in them. +This one is of Gr MP7 leaving during the snowstorm, I'll edit it when I get back to make it look even better.
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||:This one looks cool too. Was it when Springfield stopped us from shooting? +Ah, Gr MP7's there too.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Yep, it was one second before that flashbang. She looked like she was going to ambush them from behind. I liked the steely look in her eyes, so I decided to screenshot it too.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...Could I see?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:"I'd rather charge outside right now...?"
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Fine. I can easily handle those mobs all by myself.
+MP7(0);97type(4)<Speaker>Type 97</Speaker>||:I suppose only the strong can speak with such confidence! +Come, Gr MP7, I'm going to give you a buff!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:A what?
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Once this ritual is complete, you will see through all falsehood and accurately comprehend all truths. +I call it, "Eye of the Snow Wolf"!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:This is just mineral water, right? I can't believe you used your description for it as a buff name...
+MP7(0);97type(4)<Speaker>Type 97</Speaker>||:And what's wrong with that? As long as it works, it works. Don't sweat the small stuff.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Fair enough. This buff is really handy. +Give me some of that water, soda, chocolate and canned rations.
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Hm? You didn't mean it when you said you would take on those people on your own, so please don't force yourself. +There are many dangerous players outside right now and strange local cops as well... We'd better go together.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Sure. I don't mind moving in a group.
+MP7(0)<Speaker>System</Speaker>;97type(0)<同时置暗>||<BGM>BGM_Empty</BGM>:
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||<BGM>BGM_Brain</BGM>:I think there was some fighting in the area just now. +I want to go take a look. Who knows, we might be able to mop up the survivors.
+97type(0)<Speaker>Type 97</Speaker>||:Spoken like a pro gamer!  Wait for me, Gr MP7! I want to go too!
+AA12(0)<Speaker>AA-12</Speaker>||<黑屏1>:I'll go as well.
+()||<黑屏2><BIN>301</BIN>:Two minutes later, Springfield and company arrive at the scene  of the battle. +An item gleams quietly on the ground.
+M1903(10)<Speaker>Springfield</Speaker>||:There's only one bottle of soda left... I guess they must have taken the other supplies. +97, you take this.
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Sure thing! Although, they only left one bottle behind. Maybe their packs are full?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||<BGM>BGM_Empty</BGM>:It's also possible that they just couldn't be bothered to take a single bottle of soda.
+AA12(0);97type(0)<Speaker>Type 97</Speaker>||<BGM>BGM_Wake</BGM>:Aw, the poor thing. +Just imagine, the entire city's gone mad and she's walking alone down the street, with calamities striking left and right and rioters running rampant... And as she shivers in the wind, her only companion is a dog.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Wait a minute, there are no dogs in this game, right? Don't go making them up out of whole cloth.
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:But dogs are man's best friend! There MUST be a reason why this game doesn't have dogs in it! Perhaps the dog died to protect her before she reached this place. +After using up all her supplies and without cold-weather clothing to keep herself warm, she must have been immersed in despair.+But when she encountered an enemy in this place, it sparked her survival instinct! She thought, "even if I must die, I won't let myself die here! I'll struggle to the bitter end!"
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:And then she was shot dead by a well-armed and supplied opponent. A single bullet took this unfortunate girl's final hope.
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Ah, how sad! M500 would cry if she heard that story. In order to remember this player, I'll save this bottle of soda for the last.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...It's really a shame you aren't writing scripts for that serialized manga artist who keeps posting on Griff-chan.
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:(Chuckles) Your ideas are always so wild and fanciful, yet they have a ring of realism to them, 97.
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||<BGM>BGM_Empty</BGM>:Hehe, as they say, dare to dream but put one foot in front of the other!
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||<BGM>GF_xDivision_Scene2</BGM>:In any case, we must avoid running out of supplies and being undergeared. In order to prevent ourselves from going through the tragedy 97 described, we must seriously consider our battle strategy from now on.
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Seriously... Just hearing that word makes me a little nervous. +(Dry-heaves)
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:At least put more effort into that hurling act. +What did you have in mind, Springfield? Could you go into a little more detail?
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Dima, is there a way to quickly acquire supplies? +Are there stockpiles we can raid or perhaps enemies who guard supply caches?
+M1903(10);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:The local landmarks are usually occupied by tough enemies. +They possess large quantities of supplies and they have excellent equipment. If you could defeat them, you'd be able to obtain plenty of supplies and very good gear in one go.
+MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Dima(1)||:So you want us to challenge the landmark bosses?
+M1903(10)<Speaker>Springfield</Speaker>;NPC-Dima(1)||:That way we won't need to fight with the other players but still be able to quickly gather items.
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Oh! We have enough cold-resistant clothing and plenty of food, but we need to be sufficiently threatening. +Therefore, the landmarks are the best choice for quickly upgrading our gear and ensuring we have enough supplies!
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Just so. What does everyone else think?
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I don't mind. Whatever you say, goes.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:I don't mind either.
+MP7(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Their repeated victories have given these rioters great confidence, and fearless opponents are the toughest foes.</color>+<color=#00CCFF>Be careful, Agents.</color>
+()||<BIN>312</BIN><黑屏2><BGM>BGM_Empty</BGM>:With that, Squad Springfield moves out. Just as Dima said, many local landmarks have tough enemies nearby. +The team members search for traces of the enemy and wipe them out, while also harvesting the items by the roadside and inside the buildings. After many battles, they manage to gather enough supplies to fill their backpacks.+After checking the status of each others' inventories, they decide to rest their feet for a while in a certain safe house near the Dark Zone.
+97type(0)<Speaker>Type 97</Speaker>||<BGM>m_avg_casual</BGM>:What— a— haul—! +Those NPCs were soooo weak, I want to fight more of them!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:If I hadn't shot one off your back, you'd be watching us from outside the game.
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Thanks, Gr MP7. These battles are easy because we're working as a team. Has anyone taken stock of the supplies we've obtained?
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Hm... We have enough to upgrade everyone's gear to the maximum, with plenty left over.
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Aren't I awesome? Praise me, praise me—
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Yes, you're amazing, Type 97. You too, AA-12 and Gr MP7. You truly are elite Dolls.
+M1903(10);MP7(0)<Speaker>Gr MP7</Speaker>||:No need to praise me. I'm a genius. This was only to be expected.
+M1903(10);AA12(0)<Speaker>AA-12</Speaker>||:Ohhhh, there it is, "Springfield's Energizing Praise", as mentioned on Radio Kalina. +But yeah, I was just doing my job... Still, now that we've gotten all this stuff, does that mean we won't be taking the other resources outside? Don't we have enough in our packs?
+M1903(10)<Speaker>Springfield</Speaker>;AA12(0)||:We'll only take the best gear and weapons. Don't let these useless weapons take up your inventory space. Also, dump the excess ammo. +That way we'll have enough space in our backpacks.
+M1903(10);AA12(0)<Speaker>AA-12</Speaker>||:You're the boss. Still, it's not good to leave these weapons lying around, right? +Why don't we make a few more weapons that we don't load, but instead just carry on ourselves?
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Sounds awesome! I'm going to carry eight of them as a super bulletproof vest.
+M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Hm...That might turn out to be surprisingly effective. We'll do that, then. +Have we cleared out all the food and medicine in this area?
+M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Nothing spotted by the Eye of the Snow Wolf has been left behind!
+M1903(10)<Speaker>Springfield</Speaker>||:Good. Once our equipment is made, we'll sweep the surrounding streets one more time and then we'll enter the Dark Zone. +We might be late that way, but ample preparation will give us a more stable path to victory.
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I'm sure the mission will be successful with an agent squad that boasts such meticulous planning and excellent overall ability.</color>+<color=#00CCFF>But don't relax just because you've been praised. No matter how perfectly you prepare, there's still a chance you might fail until the mission is actually completed.</color>
+97type(0)<Speaker>Type 97</Speaker>||<黑屏1>:Yes, yes, we know. This Dima's as naggy as a mom.
+()||<BIN>301</BIN><黑屏2>:After organizing their equipment, the squad leaves the safe house and begins a carpet search of the surroundings.
+97type(0)<Speaker>Type 97</Speaker>||:There really are no more players harassing us.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:That's because we look super badass at a glance, right? Or maybe we look like complete weirdos running around covered in guns.
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:In any case, we just need to find the surrounding landmarks and stuff our packs full, then hurry over to the Dark Zone!
+AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I bet the Dark Zone will look cooler than this. I hope I get the chance to take screenshots.
+MP7(0)<Speaker>Gr MP7</Speaker>;AA12(0)||:You're waiting for a chance to take screenshots? The screenshot sound has never stopped throughout our battles.
+MP7(0);AA12(0)<Speaker>AA-12</Speaker>||:Well, we've never been in real danger so far. From what we know, the Dark Zone is way more dangerous than this place.
+MP7(0)<Speaker>Gr MP7</Speaker>;AA12(0)||:A real threat, hm. I don't feel like anything here could threaten a Doll, though.
+MP7(0)<Speaker></Speaker>;AA12(0)<同时置暗>||:Just then, a mournful howl cuts through the snowstorm, echoes down the streets, and reaches the group.
+MP7(0)<Speaker>???</Speaker>;AA12(0)<同时置暗>||<BGM>BGM_Empty</BGM>:P—P—9—0—
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Huh, that sounds like a cry of utter despair. Something must have happened over there. +I want to go over and see what's going on.
+MP7(0);AA12(0)<Speaker>AA-12</Speaker>||:I didn't hear any gunshots. If it's not a big firefight, we should go take a look.
+MP7(0);AA12(0)<Speaker>System</Speaker><同时置暗>||<BGM>m_avg_labyrinth</BGM>:X Not A Wig They're Drills died of hunger.
+MP7(0)<Speaker>Gr MP7</Speaker>||:...Springfield.
+M1903(10)<Speaker>Springfield</Speaker>||:What is it? Are you hungry?
+MP7(0)<Speaker>Gr MP7</Speaker>||:No. Look up ahead. There's a light in that street we searched... It's the light of an item drop. +Someone died there, and it's probably...
+MP7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Gr MP7 pauses. It seems she's having trouble stating the username of the player in question.
+MP7(0)<Speaker>Gr MP7</Speaker>||:...The light is from "Not A Wig They're Drills" .
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Pfffft.
+MP7(4)<Speaker>Gr MP7</Speaker>;97type(0)||:What kind of weird username is that, anyway? +In any case, do you want to go take a look? There might be other supplies we can take.
+M1903(10)<Speaker>Springfield</Speaker>||<黑屏1>:You've been calling the shots all this time. Nobody's decision would be more reliable than yours. +Let's go take a look.
+()||<黑屏2><BIN>289</BIN><BGM>BGM_Truth</BGM>:The four of them carefully approach the location of the light. +As the wind dies down, the landscape comes into view around them. A girl with short silver hair is kneeling on the ground, frozen as she embraces nothing but thin air. +The light of an item pack shines through her palms and forehead, quietly bridging heaven and earth.
+()<Speaker>Type 97</Speaker>||:Is that Vector? It looks like her. +But the heaviness in the air... Could it be that...
+()<Speaker>Gr MP7</Speaker>||:Do you have any idea what's going on?
+()<Speaker>Type 97</Speaker>||:Look, Gr MP7. She's a very alert Doll, but now she has her back to us and she is completely oblivious to us whispering to each other at such close range! +There's no smoke without fire. This can only mean one thing.
+()<Speaker>Gr MP7</Speaker>||<BGM>BGM_Empty</BGM>:You're saying that she can't move because of some kind of negative status?
+()<Speaker>Type 97</Speaker>||<BGM>m_avg_casual</BGM>:No. Miss Springfield said that we were a squad founded on mutual trust. She must have shot a friend by accident, and she's shedding tears for her even as she's looting her stuff!
+MP7(4)<Speaker>Gr MP7</Speaker>||:...
+MP7(4);97type(0)<Speaker>Type 97</Speaker>||:Why are you looking at me like that again?!
+MP7(4)<Speaker>Gr MP7</Speaker>;97type(0)||:Drill Girl died of starvation.
+MP7(4);97type(4)<Speaker>Type 97</Speaker>||:Then it means all the supplies were with Drill Girl, so Vector didn't notice she was low on food. Although they were out of ammo and rations, Drill Girl, the resource keeper, kept it a secret all this time and constantly encouraged Vector with her positivity, giving her all the resources, until she starved to death herself...
+MP7(4)<Speaker>Gr MP7</Speaker>||:...Honey Badger must have had a bad influence on me, because I'm actually buying the stuff you BS-ed up. +Springfield, should we ambush her? That way we'll have two backpacks we can plunder.
+M1903(10)<Speaker>Springfield</Speaker>||:Shh... Let's go.
+MP7(0)<Speaker>Gr MP7</Speaker>||:We're not taking them?
+M1903(10)<Speaker>Springfield</Speaker>||:It would be a shame to disturb the mood over there. +A death in a game is still a death, and they must have been really close after going through thick and thin together... So let's go. There's an entire street of resources to collect, and we don't have much time.
+MP7(0)<Speaker>Gr MP7</Speaker>||:While I don't quite agree with that... You're the boss, and what you say, goes.
+MP7(0)<Speaker></Speaker>||:Gr MP7 puts her gun away and walks off.
+M1903(10)<Speaker>Springfield</Speaker>||:Pain will surely let you get more into the game, Vector... +May we meet in the Dark Zone, if all goes well.
+M1903(10)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:With that, Squad Springfield vanishes into the snowstorm once more.
+()||<BIN>295</BIN><黑屏2><SE1>AVG_applause_indoor</SE1>:... +In Griffin. +As PP-90 leaves the game, some Dolls sigh, while others cheer.
+()<Speaker>Doll A</Speaker>||<BGM>BGM_Sunshine</BGM>:(Sniffles) Vivi and PP-90 have such a touching bond...
+()<Speaker>Doll B</Speaker>||:Weren't you still calling her Vector yesterday?
+()<Speaker>Doll A</Speaker>||:I now know that she's cold on the outside but warm on the inside! +I want to be her friend and lie in her arms and have her look at me...
+()<Speaker>Doll B</Speaker>||:...You should start by curing your habit of falling for pretty girls at the drop of a hat.
+()<Speaker>Kalina</Speaker>||:Oh, what a shame, Squad Vivi has suffered its first casualty! +Meanwhile, Squad Springfield is steadily growing under Springfield's management skills, Gr MP7's great fighting ability and the wholehearted support of the other two members. +With a chipped blade on one hand and a solid shield on the other, as well as the unique styles of all the other teams, everyone is converging toward a meetup in the Dark Zone!
+()<Speaker>Dolls</Speaker>||:(Cheering)
+()<Speaker>Kalina</Speaker>||<黑屏1>:Who will be the first into the Dark Zone, and who will be the final victor? +Perhaps today's boldness and ambition will win you a landed home in a White Zone tomorrow! +Come, don't hesitate, everyone! Turn your accurate guess into an investment, don't wait until the moment of truth to regret your indecision! Come, come, bet big and win big!

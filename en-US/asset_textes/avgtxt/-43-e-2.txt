@@ -1,0 +1,103 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>288</BIN><黑屏2><BGM>BGM_Room</BGM>:... +Sixth Avenue. +After A-91 has left.
+Vector(0)<Speaker>Vector</Speaker>||:What was A-91 trying to do?
+PP90(0)<Speaker>PP-90</Speaker>||:I don't know either. Maybe she came all the way here to clown around?
+Vector(0)<Speaker>Vector</Speaker>||:Do vodka Dolls all have such weird senses of humor?
+PP90(0)<Speaker>PP-90</Speaker>||:They're funnier than the Schwarzbier Dolls, at least.
+Vector(0)<Speaker>Vector</Speaker>||:And for some reason, she was the only one left of her squad. +What kind of team leader would allow her team members to be stranded and isolated? +I'd really like to meet her.
+PP90(0)<Speaker>PP-90</Speaker>||:Haha, well, if she only had one team member left, the leader can't be in a much better position herself. +Still, it's better than a leader who gets herself isolated and dies after all her other team members.
+Vector(0)<Speaker>Vector</Speaker>||:Now that's just sad.
+()<Speaker>ISAC</Speaker>||:Warning. Agent is suffering from starvation.
+Vector(0)<Speaker>Vector</Speaker>||:Did you hear that?
+PP90(0)<Speaker>PP-90</Speaker>||:Oh, your hunger gauge is in the red! Ehhhh? How come mine is even lower than yours? People in this world get hungry way too soon.
+Vector(0)<Speaker>Vector</Speaker>||:Well, I sampled some of that food from before to figure out its effect, so mine was topped up a little. +Do you have anything to eat?
+PP90(0)<Speaker>PP-90</Speaker>||:I've got some, but it's not much.
+Vector(0)<Speaker>Vector</Speaker>||:Hm... I don't have anything left on me. +Just save it for now, it's definitely not enough for both of us. +We'll decide later, when we have to.
+PP90(0)<Speaker>PP-90</Speaker>||:Yep, okay!
+Vector(0)<Speaker>Vector</Speaker>||:We don't have much time. Let's hurry and find more food!
+PP90(0)<Speaker>PP-90</Speaker>||<黑点1>:M'kay!
+PP90(0)<Speaker>PP-90</Speaker>||<黑点2>:Ammo, grenades, gun parts... There are surprisingly quite a lot of supplies. +Hm... But none of these are edible.
+Vector(0)<Speaker>Vector</Speaker>||:You can try it, if you aren't afraid of breaking your teeth. +Besides, it won't affect your body.
+PP90(0)<Speaker>PP-90</Speaker>||:Ew... I don't wanna. +Ah, there's something over there!
+Vector(0)<Speaker>Vector</Speaker>||<黑点1>:Wait a minute... I told you, don't rush!
+PP90(0)<Speaker>PP-90</Speaker>||<BIN>312</BIN><黑点2>:That's strange. Nobody should have passed through here. +The ammo and whatnot are intact. +But there isn't a single bit of food here. +And what's this...
+()||:PP-90 picks up the piece of paper in front of the counter.
+Vector(0)<Speaker>Vector</Speaker>||:...It's a bill. +Looks like someone took all the food here and was kind enough to leave a shopping list behind.
+PP90(0)<Speaker>PP-90</Speaker>||:...I don't get it.
+Vector(0)<Speaker>Vector</Speaker>||:Me neither. But it proves that other teams have been here before. +They were right here, but they ignored all the guns and ammunition and just took all the food. +Are they planning to starve their rivals to death?
+PP90(0)<Speaker>PP-90</Speaker>||:You can't possibly be serious. +As if anyone could be that underhanded. +...Nobody would do that, right?
+Vector(0)<Speaker>Vector</Speaker>||:I would very much like to agree with you. +But the facts are laid out before our eyes, and regardless of what their aims are... +This is what they have done.
+PP90(0)<Speaker>PP-90</Speaker>||<黑点1>:I'm really worried we're going to starve to death now...
+PP90(0)<Speaker>PP-90</Speaker>||<BIN>288</BIN><黑点2>:There's no food at all...
+Vector(0)<Speaker>Vector</Speaker>||:What a pain... Why are player characters designed to get hungry, anyway? +A Tactical Doll who can't fight without eating? +That makes us no better than regular human soldiers...
+PP90(0)<Speaker>PP-90</Speaker>||:It can't be helped, it's just how the game works. +Also, this experience is kind of new. +Let's keep looking.
+Vector(0)<Speaker>Vector</Speaker>||:...If, and I'm just saying if, PP-90. +If we really can't find any supplies...
+PP90(0)<Speaker>PP-90</Speaker>||:...Don't be silly, you're the leader! +Get a grip!
+Vector(0)<Speaker>Vector</Speaker>||:So I'm a team leader who puts her team members at risk of starvation...
+PP90(0)<Speaker>PP-90</Speaker>||:That's not your fault! +Oh, right! R93! Why don't you contact them and see how things are?
+Vector(0)<Speaker>Vector</Speaker>||:I... Yes, I should talk to them. +They might have supplies on their side.
+()||<SE1>AVG_tele_connect</SE1>:Click—
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Hello? Vivi? What's wrong?</color>
+Vector(0)<Speaker>Vector</Speaker>||:It's an emergency, R93. +Do you have any food with you?
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Food? Sure we do. We're all very full. Practically stuffed, in fact.</color>
+PP90(0)<Speaker>PP-90</Speaker>||:Being overstuffed isn't a good thing... She should rephrase it.
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>We're still collecting supplies on our end, but most of it is ammo.</color>+<color=#00CCFF>We basically eat all the food we find on the spot./color>+<color=#00CCFF>Seeing your temperature or hunger gauge drop feels really bad, even if it's only a little.</color>
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Seeing a full stat bar is as comforting as looking at a 100% charged battery...</color>
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>That's it for us. How are things on your end?</color>
+Vector(0)<Speaker>Vector</Speaker>||:...Is that so? I see. +We'll think of something for ourselves, then. +See you later, Queen Marie.
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>What? Wait a—</color>
+()||<SE1>AVG_tele_disconnect</SE1>:Click— +The transmission ends.
+Vector(0)<Speaker>Vector</Speaker>||:...
+PP90(0)<Speaker>PP-90</Speaker>||:...
+Vector(0)<Speaker>Vector</Speaker>||:We're pretty much at our limit. +What about that food from earlier?
+PP90(0)<Speaker>PP-90</Speaker>||:Actually...
+Vector(0)<Speaker>Vector</Speaker>||:...There's only one can of food, right?
+PP90(0)<Speaker>PP-90</Speaker>||:Yeah...
+Vector(0)<Speaker>Vector</Speaker>||:...+Well, there's no time, PP-90. +Go ahead and have it.
+PP90(0)<Speaker>PP-90</Speaker>||:What...! +What are you saying, Vivi?! +You want me to abandon you?!
+Vector(0)<Speaker>Vector</Speaker>||:This is my responsibility as team leader!
+PP90(0)<Speaker>PP-90</Speaker>||:That's nonsense!
+()||<SE1>AVG_weapon_reload</SE1>:Ka-chak—! +Vector suddenly raises her gun.
+Vector(0)<Speaker>Vector</Speaker>||:This is an order, PP-90. +I'm the leader.
+PP90(0)<Speaker>PP-90</Speaker>||:...! +...Even so, I refuse.
+()||:PP-90 returns Vector's gaze, unwilling to back down. She even goes as far as to rest her forehead against the muzzle of Vector's gun.
+Vector(0)<Speaker>Vector</Speaker>||:...
+PP90(0)<Speaker>PP-90</Speaker>||:...
+()||:The air seems to freeze solid around the two of them. Neither is willing to back down, and they remain at an impasse.
+()<Speaker>ISAC</Speaker>||<BGM>BGM_Empty</BGM>:Warning. Agent is suffering from starvation.
+()||<BGM>BGM_Wake</BGM>:At least, until ISAC's notification breaks the stalemate.<下雪></下雪>
+Vector(0)<Speaker>Vector</Speaker>||:You heard him. We're out of time.
+PP90(0)<Speaker>PP-90</Speaker>||:I did, which is why you should hurry up and eat.
+Vector(0)<Speaker>Vector</Speaker>||:I can't. It's my fault we ended up like this... +If I had realized the importance of food earlier, we wouldn't have ended up in this state. +I need to take responsibility for it.
+PP90(0)<Speaker>PP-90</Speaker>||:...Don't be silly. +I joined this squad because of you, Vivi. +I have no objections or complaints about your leadership. +And besides, between the two of us, you've got a better chance of winning this thing, right?
+Vector(0)<Speaker>Vector</Speaker>||:I...!
+PP90(0)<Speaker>PP-90</Speaker>||:Vivi. Stop making a fuss.
+()||:PP-90 sighs, then gently pushes away the muzzle of Vector's gun.
+PP90(0)<Speaker>PP-90</Speaker>||:You want to play the hero, and I can't do anything about that. +That's because it's just the way you are. +Put nicely, you could call it a fierce sense of duty, but in a not-so-nice way, it's a form of martyr complex.
+Vector(0)<Speaker>Vector</Speaker>||:...What do you mean?
+PP90(0)<Speaker>PP-90</Speaker>||:I know, Vivi. You think this is just a game, right? +The Commander gave you a mission, but you never really wanted to win.
+Vector(0)<Speaker>Vector</Speaker>||:That...that's not true. +Why do you say that? Do I look like I'm slacking off?
+PP90(0)<Speaker>PP-90</Speaker>||:No, but I'm sure you could do better if you wanted, Vivi.
+Vector(0)<Speaker>Vector</Speaker>||:How do you...
+PP90(0)<Speaker>PP-90</Speaker>||:I know what I'm saying is going to put more pressure on you. +But I...I really want to win! +I want to win the prize! I want money, both for the Commander and myself! +It's been...so long since the dorms were last renovated.
+Vector(0)<Speaker>Vector</Speaker>||:PP-90...
+()<Speaker>ISAC</Speaker>||:Warning. Agent is suffering from starvation.
+()||:ISAC's warnings are coming more and more frequently. They both know that they're close to their limit. +PP-90 slowly walks up to Vector, then takes out the only remaining ration can from her backpack.
+PP90(0)<Speaker>PP-90</Speaker>||:You must survive until the end, for my sake.
+Vector(0)<Speaker>Vector</Speaker>||:PP-90, you...!
+()||:Vector stares at PP-90, and the words she wants to say lodge in her throat, like she's contracted some kind of illness.
+PP90(2)<Speaker>PP-90</Speaker>||:Remember, I want a renovated dorm—
+()<Speaker>System</Speaker>||:X Not A Wig They're Drills died of hunger.
+()<Speaker>Vector</Speaker>||<BIN>289</BIN>:—!!
+()||:Vector reaches out desperately, but PP-90's body, which has been right in front of her just moments ago, evaporates into a pillar of light +Her hands flail wildly, but the only thing they grasp is the empty air.
+()<Speaker>Vector</Speaker>||:...You idiot...
+()||:Vector slumps weakly to the ground. All that remains in front of her is the item pickup light, which is as bright as ever. +The last can of food remains where PP-90 left it, in front of her.
+()<Speaker>Vector</Speaker>||:No... I'm the idiot.
+()||:Vector picks up the ration can. PP-90's voice still echoes in her ears. +She stares at the can, still utterly stunned.
+()||:...To think that this tiny can was what had landed the both of them in this predicament. +They...they had been talking normally just a moment ago. +And in the end, for such a laughably trivial reason—!
+()<Speaker>Vector</Speaker>||<震屏>:—!! +P—P—9—0—!
+()<Speaker>ISAC</Speaker>||:Warning. Agent is suffering from starvation.
+()||:After letting her balled-up fists fall weakly to the ground, Vector gulps down the contents of the can through gritted teeth.
+()<Speaker>ISAC</Speaker>||:Agent is no longer in a state of hunger.
+()<Speaker>Vector</Speaker>||:...Watch me. +...I WILL survive, until the very end.
+()||<黑屏1>:She wipes the corner of her mouth, and her eyes flash with steely determination. +...It's time to move out.<火焰销毁></火焰销毁>

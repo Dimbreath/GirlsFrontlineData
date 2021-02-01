@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>85</BIN><黑屏2>:The time is 21:30. In a corner of the safe house...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:Ugh... Do we really have to burrow into this hole...? +It looks really dark and scary...
+RO635(0)<Speaker>RO635</Speaker>||:The informant must've escaped through this secret passage. The dust on the edge of the entrance has clearly been disturbed recently.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:You'd better be right, RO... I hope this isn't another trap...and we won't be surrounded by dozens of Dolls the moment we go in...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Hmm...you do have a point... Any suggestions?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't we have a Fairy?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Fairy? It's probably still circling around outside. How do we use it?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Get it to come here. +We have to scout out the structure and gather telemetry on the sewers. Otherwise, we'll still be screwed if we get lost down there. +I'm going down first with the Fairy and I'll send it off halfway through. The Fairy is smaller so it can fly around and run a thorough scan. +This way, even if there really are enemies lying in ambush, I'm fast enough to run back right away.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:I don't have to come with you?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Let me do the risky stuff! Besides, it'll actually be more dangerous for two people to be in such a confined space...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Right...I see your point. +Ah, the Fairy is here.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:That's quick!
+FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||<BGM>BGM_stage1</BGM>:Finally, it's my turn to shine! What are my orders?!
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)<Position>0,150</Position>||:We need you to head down to the sewers to do some recon work. If you run into any enemies, make sure you don't get spotted.
+RO635(0);FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||:Huh? Isn't that super dangerous?!
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)||:If you complete the mission successfully, I'll get you an upgrade when we get home.
+FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||:Okay, deal!
+()||:...RO635 hands the Fairy drone to SOP-II. 
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I've always had the feeling...that Fairies really aren't the smartest...
+RO635(0)<Speaker>RO635</Speaker>||:Miss Persica only developed their AI program on a whim, after all.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I hope she didn't also design us on a whim...
+FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||:We're gonna make a fantastic team!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Right, we're starting the mission, Fairy. Let's go—
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>10</BIN>:Whoa... Looks like the enemies beat us to it again... RO, can you see the scans?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Things aren't looking very good... They've already tracked him to the sewers. And since they're no longer out in the open, they have nothing to fear...</color> +<color=#00CCFF>We don't stand a chance with just the two of us...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Then what do we do? Should we just watch?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>I'll get in touch with the Commander... Before that, let's run a few scenario simulations.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Scenario simulations?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>We should predict all the possible conflicts and outcomes that could happen. That'll give the Commander more information to work with when making judgment calls.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Wow, you've really thought of everything, haven't you...
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Eh, it's nothing... Keep scanning and sending me data on the enemies. I'll run the simulations myself.</color> +<color=#00CCFF>I'm leaving everything down there to you!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Kay, I'll handle it.
+()||<黑点2>:

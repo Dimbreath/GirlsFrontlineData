@@ -1,0 +1,21 @@
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:The first wave is over. Let's catch our breath.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Dammit! There's no end to this! Can't we contact Persica?
+M16(3)<Speaker>M16A1</Speaker>||:Sangvis Ferri has already sniffed us out. All pre-set communications modules have been automatically deactivated to avoid leaking 16Lab's intelligence.
+M4A1(2)<Speaker>M4A1</Speaker>;M16(3)||:Transfer only at 50%. Can you hold on till it is complete?
+M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||:No, we're too outnumbered. Another round and we're sitting ducks.
+M16(3)<Speaker>M16A1</Speaker>;AR15(2)||:...Guys, there is a way.+A backup squad from Griffin is in the area. They've been on stand-by for a long time, so they were most likely left behind.+M4, change our authorization signals and make it their priority to support us.
+M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:Understood. AR-15, SOP II.+Please direct the squad in repelling enemy forces. M16, stay here and protect me.
+M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Got it. Make sure you hang in there till we come back for you!
+()||<BIN>9</BIN><黑屏2>:Half an hour later.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...Transfer complete!
+M16(3)<Speaker>M16A1</Speaker>||<BIN>8</BIN><黑屏2>:Phew!+The backup squad seems to be working.
+M4A1(0)<Speaker>M4A1</Speaker>||:Yes. Get AR-15 and SOP-II. We are getting out of here.
+Agent()<Speaker>Agent</Speaker>||<BGM>BGM_Empty</BGM>:No, you aren't...
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>:Agent's signal is fast approaching!
+Agent()<Speaker>Agent</Speaker>||<BIN>9</BIN><黑屏2>:...Rubbish T-Dolls that can only wield useless metal sticks in petty fights against maggots in the kitchen!
+()||<黑屏1><SE1>Explode</SE1>:...!!
+()||<BIN>15</BIN><黑屏2>:...
+M4A1()<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:...Cough...cough! M16...cough...where are you...
+Agent()<Speaker>Agent</Speaker>||:You don't have time to worry about someone else, M4A1.
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2>:Ugh!
+Agent()<Speaker>Agent</Speaker>||<黑屏1>:...Because...I have brought Death to your doorstep.

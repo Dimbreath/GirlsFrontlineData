@@ -1,0 +1,35 @@
+M1873(0)<Speaker>SAA</Speaker>||<BIN>6</BIN><BGM>BGM_Sneak</BGM>:Oooh, they've taken the bait! +Makarov is much too green for this. Looks like I'm winning this game for sure!
+M1873(0);CZ75(0)<Speaker>CZ75</Speaker>||:Don't let down your guard before the final die is cast, SAA.
+M1873(0)<Speaker>SAA</Speaker>;CZ75(0)||:Fine, I'll shut up for now. +I can boast in her face all I want afterwards.
+M1873(0);CZ75(0)<Speaker>CZ75</Speaker>||:(Sighs) ...Here they come. The bug is straight ahead. What now?
+M1873(0)<Speaker>SAA</Speaker>||<黑屏1>:We let them go, of course...NOT! We hide and wait for them to get here.
+()||<黑屏2><BIN>6</BIN>:(On the node.)
+TT33(0)<Speaker>Tokarev</Speaker>||:They're gone. Have they entered already? That's way too risky...
+TT33(0);PM(0)<Speaker>Makarov</Speaker>||:Nyet. SAA is not stupid. At least not THAT stupid. She must be around here somewhere. +Judging by her character, she is probably lying in ambush... Let me see.
+PM(0)<Speaker></Speaker>||:Makarov looks around carefully.
+PM(0)<Speaker>Makarov</Speaker>||:Strange... Maybe she really...
+PM(0)<Speaker></Speaker>||<SE1>Gunkill</SE1>:BANG!
+PM(0)<Speaker></Speaker>||<震屏>:As the shot is fired, Tokarev throws herself on top of Makarov. The two T-Dolls crash haphazardly onto the floor by the entrance of the bug.
+PM(0)<Speaker>Makarov</Speaker>||:... Ugh! Are you okay, Tokarev?!
+PM(0);TT33(0)<Speaker>Tokarev</Speaker>||:I'm fine... I was thinking if she could be there but thought it was way too obvious.
+PM(0);M1873(0)<Speaker>SAA</Speaker>||:Haha! The most dangerous place is the safest. Haven't you heard that before?
+PM(0)<Speaker>Makarov</Speaker>||<SE1>Select</SE1>:How dare you mess with my teammate. Don't even think about winning today.
+()||:Makarov raises her gun and fires at SAA, but SAA dodges the shot and retaliates.
+TT33(0)<Speaker>Tokarev</Speaker>||:Crap. They're moving closer to the bug... Keep your distance, Makarov!
+M1873(0)<Speaker>SAA</Speaker>||:Now that we're here, of course you're going in!
+PM(0)<Speaker>Makarov</Speaker>||<BGM>BGM_Empty</BGM><BIN>6</BIN>:You pushed me...?! I'm taking you with me!
+M1873(0)<Speaker>SAA</Speaker>||:Eh...?
+()||<快跑><SE1>RunStep</SE1>:
+托卡列夫()<Speaker>Tokarev</Speaker>||<BIN>9</BIN><黑屏1>:Makarov! SAA!
+M1873()<Speaker>SAA</Speaker>||<BIN>72</BIN><睁眼>:Oww... We seem to have come to a bad place.
+PM(0)<Speaker>Makarov</Speaker>||:It was all your fault... So this really is the Neural Cloud Corridor. Now how do we get back...?
+M1873(0)<Speaker>SAA</Speaker>;PM(0)||:Since we're here, we can only wait for our teammates to ask the Commander to come get us out, right? +But until then, I'm up for some exploring. Wanna come?
+M1873(0);PM(0)<Speaker>Makarov</Speaker>||:There's a limit to how far you should veer away from a plan, SAA. I hate it when you do this.
+M1873(0)<Speaker>SAA</Speaker>;PM(0)||:So you plan on just sitting here and waiting for time to pass, scaredy-cat?
+M1873(0);PM(0)<Speaker>Makarov</Speaker>||:I will NOT be provoked. Go if you want.
+未知的人形()<Speaker>Unknown Doll</Speaker>||<BGM>BGM_Boss</BGM>:Looks like some Griffin filth has wandered in. How unexpected.
+M1873(0)<Speaker>SAA</Speaker>||:Watch out!
+PM(0)<Speaker>Makarov</Speaker>||<震屏>:...?!
+()||<白屏闪光><SE1>Explode</SE1>:BOOM!
+()||:SAA pulls Makarov aside, and an high explosive shell lands right next to where the two T-Dolls were just standing.
+Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>||<黑屏1>:Doesn't matter... You shall be the stepping stone to my escape. +Be honored, second-rate Griffin Dolls.

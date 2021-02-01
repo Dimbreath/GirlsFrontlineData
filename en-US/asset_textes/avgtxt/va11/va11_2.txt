@@ -1,0 +1,155 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+Dana(0)<Speaker>Dana</Speaker>||<黑屏2><BIN>186</BIN><BGM>m_va_hopes_and_dreams</BGM>:Good evening, Jill.
+吉尔()<Speaker>Jill</Speaker>||:Good evening, Boss— +(Cough cough)...! +You...(cough)...bought a bucket of spicy fried chicken again?
+Dana(0)<Speaker>Dana</Speaker>||:Ah, sorry about that, is the smell too strong? +I'd better enjoy this in my office, then. +Alright, back to work with you. Also, you'd better get a Griffin Doll to come over tonight, or else you can kiss Gillian's bonus goodbye.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:Fine, fine (cough)...leave it to me.
+吉尔()<Speaker>Jill</Speaker>||<BIN>9</BIN>:(I'm sorry, Gillian...but I'm actually more curious about what excuse she'll use to give me a bonus tonight if she doesn't get her wish.) <c>Welcome To Va-11 Hall-A<c>Your Love is a Drug<c>Where Do I Go From Here
+()||<分支>1</分支><BGM>m_va_welcome_to_va11_hall_a</BGM><黑屏1>:
+()||<分支>2</分支><BGM>m_va_your_love_is_a_drug</BGM><黑屏1>:
+()||<分支>3</分支><BGM>m_va_where_do_i_go_from_here_</BGM><黑屏1>:
+吉尔()<Speaker>Jill</Speaker>||<黑屏2><BIN>186</BIN>:Time to mix drinks and change lives. +Welcome to Valhalla.
+K2(0)<Speaker>???</Speaker>||:Good evening.
+K2(0);TMP(0)<Speaker>TMP</Speaker>||:How... How do you do...
+吉尔()<Speaker>Jill</Speaker>||:Good evening, ladies. + (There sure is a huge contrast in the way these two customers are dressed.) +...It looks like you're Dolls from Griffin too?
+K2(0)<Speaker>K2</Speaker>;TMP(0)||:My name's K2, she's TMP. +Are you Miss Jill?
+吉尔()<Speaker>Jill</Speaker>||:Yes, it looks like I've become famous in Griffin overnight. +I'm guessing that this is all thanks to *Kira* Miki's hard work. + (Dammit, looks like I won't be able to see the Boss thinking hard about a reason to give me a bonus tonight.)
+K2(0)<Speaker>K2</Speaker>;TMP(0)||:Our original reason for coming here was because *Kira* Miki had come here. +But if that was all, we might have just left after taking a picture at the entrance.
+K2(0);TMP(0)<Speaker>TMP</Speaker>||:I... I was planning to do that...
+吉尔()<Speaker>Jill</Speaker>||:In that case, if you're willing to spend, I can provide a bit of proof.
+K2(0)<Speaker>K2</Speaker>;TMP(0)||:We were planning to have a drink in the first place. +I'd like a Bloom Light. What about you, TMP?
+K2(0);TMP(0)<Speaker>TMP</Speaker>||:I...I want a...uh...
+K2(0)<Speaker>K2</Speaker>;TMP(0)||:Order whatever you want. I told you, this is my treat.
+K2(0);TMP(0)<Speaker>TMP</Speaker>||:I...let me think...
+吉尔()<Speaker>Jill</Speaker>||:I'll make Miss K2's drink first, then.
+吉尔()<Speaker>Jill</Speaker>||:(Let's make a Bloom Light for this Doll who's dressed like a K-pop idol but whose tone is as soft as a sea sponge.)+<va11><perfect>4<good>3,14
+K2(0)<Speaker>K2</Speaker>;TMP(0)||<分支>1</分支>:Ah...it really does taste like what the magazines say!
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:I'm honored.
+K2(0)<Speaker>K2</Speaker>;TMP(0)||<分支>2</分支>:Hm...it's not quite what I expected. +But I do like this spicy sensation.
+吉尔()<Speaker>Jill</Speaker>||<分支>2</分支>:(So she does like this taste after all.)
+吉尔()<Speaker>Jill</Speaker>||<BGM>BGM_Empty</BGM>:Alright, I won't leave you hanging. Please have a look at this. +You should have seen this glass the moment you entered, but I just put it under the counter lest the spicy powder from the Boss' spicy chicken bucket got it dirty.
+K2(0)<Speaker>K2</Speaker>;TMP(0)||<BGM>m_va_shine_spark</BGM>:I love spicy chicken wings! Wait...this glass... +Ah! This is *Kira* Miki's signature! Quick, TMP, come look!
+K2(0);TMP(0)<Speaker>TMP</Speaker>||:Uuuuu—! It really is her autograph! +"For Jill. Never lose your star."
+K2(0)<Speaker>K2</Speaker>||:Oh god, I'm so jealous! +I would have taken it by force if she hadn't written "For Jill" on it!
+吉尔()<Speaker>Jill</Speaker>||:(Let me amend my previous statement; she's a Doll who's dressed like a K-pop idol and whose tone is as soft as a sea sponge, but she's more dangerous than M870...)
+达娜()<Speaker>Dana</Speaker>||:I heard someone talking about using force!
+吉尔()<Speaker>Jill</Speaker>||:We were discussing international politics, Boss!
+达娜()<Speaker>Dana</Speaker>||:You've watched too many anime, Jill!
+吉尔()<Speaker>Jill</Speaker>||:(It's not like I could have watched more than you...)
+K2(0)<Speaker>K2</Speaker>||:Quick, tell me, what is *Kira* Miki like?
+吉尔()<Speaker>Jill</Speaker>||:I've said this many times to many people already. I'll need to make a recording and play it next time. +She's a friendly and graceful person, just like what you see on stage.
+K2(0)<Speaker>K2</Speaker>||:That's wonderful... +Sometimes I get worried that the idols I chase aren't how they appear, or if they're just puppets of the record agency, you get what I mean?
+吉尔()<Speaker>Jill</Speaker>||:I can understand, but I'd advise you not to get so hung up on this. +Idols are just a product in an idealized package, and there's bound to be many entanglements in reality behind their manufacture.
+K2(0)<Speaker>K2</Speaker>||:I understand, it's like a totem of sorts, a sort of spiritual trust. +But there are times when I worry if *Kira* Miki enjoys the process of this commercialization from the bottom of her heart.
+吉尔()<Speaker>Jill</Speaker>||:I don't know much about idols, but I can assure you that based on what I've seen and heard, she really does like her job, and she's proud of every fan she has. +Although, rather than fans, she'd rather you call yourselves "ardent admirers of *Kira* Miki's music".
+K2(0)<Speaker>K2</Speaker>||:Yup yup, I know! +God, TMP, just listen to this! *Kira* Miki really is the best!
+Dana(0)<Speaker>Dana</Speaker>;K2(0)||:I think I heard someone talking about *Kira* Miki.
+Dana(0);K2(0)<Speaker>K2</Speaker>||:Are you a fan of hers too?
+Dana(0)<Speaker>Dana</Speaker>;K2(0)||:Not really, I just have a good impression of that Lilim. +Wait a minute...are you Griffin Dolls? +Jill! I can't believe you were talking to them for so long without telling me!
+吉尔()<Speaker>Jill</Speaker>||:I have to go step by step, Boss. They're our customers, not UFOs passing in the night.
+Dana(0)<Speaker>Dana</Speaker>;K2(0)||:Alright, at least there's a chance now. +Good evening, ladies, my name's Dana. I'm the boss here.
+Dana(0);K2(0)<Speaker>K2</Speaker>||:Good evening, Boss Dana. +...Do I smell spicy fried chicken?
+Dana(0)<Speaker>Dana</Speaker>;K2(0)||:That's right, do you like fried chicken? +It's from the best fried chicken place in Glitch City. I ordered a lot; want to try some?
+Dana(0);K2(0)<Speaker>K2</Speaker>||:I would like to try some. Don't mind if I do, then.
+Dana(0)<Speaker>Dana</Speaker>;K2(0)||:Come to my office. Poor little Jill can't take spicy stuff, how unfortunate for her.
+Jill(2)<Speaker>Jill</Speaker><Position>0,8000</Position>||<BGM>BGM_Empty</BGM>:I don't think not being able to finish an entire can of anti-wolf pepper spray counts as not being able to handle spicy stuff. +Alright, they're in her office now. That actually makes me a little jealous...
+TMP(0)<Speaker>TMP</Speaker>||<BGM>m_va_youve_got_me</BGM>:...
+吉尔()<Speaker>Jill</Speaker>||:...+ (I almost forgot that she's a Doll who can talk, and not a tent with cat ears...) +Er...have you thought of what you want yet, Miss TMP?
+TMP(0)<Speaker>TMP</Speaker>||:Um...I want... +A...Bad Touch...
+吉尔()<Speaker>Jill</Speaker>||:Pfffft... +Ah, sorry, one Bad Touch, coming up.
+吉尔()<Speaker>Jill</Speaker>||:(I can't believe this shy Doll who's all covered up actually ordered a Bad Touch, I shouldn't laugh out loud...)+<va11><perfect>1
+TMP(0)<Speaker>TMP</Speaker>||<分支>1</分支>:Wow! +This is intense! Is this really a Bad Touch?
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:That's exactly what it is.
+吉尔()<Speaker>Jill</Speaker>||:Here's a Bad Touch, hang on to it.
+TMP(0)<Speaker>TMP</Speaker>||:Is this really a Bad Touch?
+吉尔()<Speaker>Jill</Speaker>||:You can take it to be verified by the BTC, and if it's even a little off then I'll pay you with Fore.
+TMP(0)<Speaker>TMP</Speaker>||:Who's Fore?
+吉尔()<Speaker>Jill</Speaker>||:My cat.
+TMP(0)<Speaker>TMP</Speaker>||:Um...it tastes good...
+吉尔()<Speaker>Jill</Speaker>||:Thank you, I'm glad to hear that.
+TMP(0)<Speaker>TMP</Speaker>||:So this signature...is real?
+吉尔()<Speaker>Jill</Speaker>||:Of course it is.
+TMP(0)<Speaker>TMP</Speaker>||:Um...of course...you'd say it is.
+吉尔()<Speaker>Jill</Speaker>||:Then why did you ask?
+TMP(0)<Speaker>TMP</Speaker>||:I'm reading your expression...
+吉尔()<Speaker>Jill</Speaker>||:Don't tell me... You've been reading my face from the start?
+TMP(0)<Speaker>TMP</Speaker>||:Yes...civilian Dolls all have their own little functions, and my observations...take a long time. +You don't look like...you're lying...
+吉尔()<Speaker>Jill</Speaker>||:That "look like" part is unnecessary. I would never lie about things like that.
+TMP(0)<Speaker>TMP</Speaker>||:I'm sorry, I just get suspicious easily... Suspicious of anything unfamiliar.
+吉尔()<Speaker>Jill</Speaker>||:That's fine, I heard someone say that Doll personalities and preferences are set before they're rolled out of the factory, and that they're very hard to change afterwards. +Were you designed that way too?
+TMP(0)<Speaker>TMP</Speaker>||:Um...no, that came later. Or rather... +Right now, for these few days... +My factory settings are...more tuned towards delusions...
+吉尔()<Speaker>Jill</Speaker>||:Delusions?
+TMP(0)<Speaker>TMP</Speaker>||:My neural cloud works especially fast when it's processing orders that aren't related to my main tasks.
+吉尔()<Speaker>Jill</Speaker>||:I'm a little curious, what kind of customers request Dolls with...lower processing efficiency?
+TMP(0)<Speaker>TMP</Speaker>||:That's because Dolls weren't made for high-speed calculations, but to imitate human beings. +Machines are concerned with efficiency. Wasting time is a human characteristic...don't you think?
+吉尔()<Speaker>Jill</Speaker>||:After summing up my time in school I would have to give it a double thumbs up. +Then why have you become so...skeptical?
+TMP(0)<Speaker>TMP</Speaker>||:Do you know of...electric monks?
+吉尔()<Speaker>Jill</Speaker>||:I've only read of them in stories.
+TMP(0)<Speaker>TMP</Speaker>||:Do you remember what an electric monk is?
+吉尔()<Speaker>Jill</Speaker>||:Right, just like how electric fans substitute for hand fans and computers are substitutes for our brains, electric monks substitute for our belief. +They use subjective logic to convince us about what we want.
+TMP(0)<Speaker>TMP</Speaker>||:Someone already made a practical implementation of that technology, although...it's not very useful.
+吉尔()<Speaker>Jill</Speaker>||:So you're saying...things like that can be used to help me believe certain things?
+TMP(0)<Speaker>TMP</Speaker>||:Yes, to be precise...it's a brainwashing machine that's custom-made to your personal specifications. +If you're too busy or too smart...you'll need one.
+吉尔()<Speaker>Jill</Speaker>||:Then I need an electric monk, stat, to convince me that the color of the new wall paper I bought goes with that of the kotatsu... +Although what does this have to do with you?
+TMP(0)<Speaker>TMP</Speaker>||:My job in this city...is to test out an anti-electric monk. +I'm supposed to see if the effects of an electric monk on a user can be negated in a safer and more lifestyle-friendly way... +At that time, I just thought of making use of my neural cloud's strengths...so I applied to be fitted with an "anti-electric monk" module...
+吉尔()<Speaker>Jill</Speaker>||:(I'm guessing that would be called an "electro-bar module") +And then you became an avowed skeptic?
+TMP(0)<Speaker>TMP</Speaker>||:At first, I started wondering if the oxygen was poisoned, if tomorrow morning's alarm clock would really get me up, if humanity's first and last moon landings were faked, and if dinosaur fossils were real... +These few days, when I see any topics that need discussion, I'm immediately filled with doubt... +But fortunately...these are the last two days of the test, and I'll be able to get my payment soon...
+吉尔()<Speaker>Jill</Speaker>||:TMP, are you sure you can make it? +It sounds like you're having trouble thinking... No, thinking itself is the problem.
+TMP(0)<Speaker>TMP</Speaker>||:I'll follow K2 around for the next two days... She'll take care of me and ensure I don't do anything stupid.
+吉尔()<Speaker>Jill</Speaker>||:Your team leader looks like she's good at taking care of people.
+TMP(0)<Speaker>TMP</Speaker>||<BGM>BGM_Empty</BGM>:K2 is the best team leader... My teammates are also good too.
+TMP(0);AEK999(0)<Speaker>???</Speaker>||<BGM>m_va_drive_me_wild</BGM>:I heard someone praising me!
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:AEK! You're here!
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Good evening, TMP . +Ahhh...I'm parched, give me something to drink. +Hello Miss Bartender, can I have a Pile Driver?
+吉尔()<Speaker>Jill</Speaker>||:No problem.
+吉尔()<Speaker>Jill</Speaker>||:(Let's give the punk girl who just barged in a Pile Driver.) +<va11><perfect>19
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||<分支>1</分支>:Mm! This taste— it's so cool! TMP, come try some!
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||<分支>1</分支>:Ngg... Uwah! It's too strong!
+吉尔()<Speaker>Jill</Speaker>||<分支>1</分支>:It's much gentler than a real pile-driving machine.
+吉尔()<Speaker>Jill</Speaker>||:So, how should I address you, AEK?
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:My full name is AEK-999, but AEK works. +Although, I'd prefer to have everyone call me 999, it's cooler that way.
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:That's too much of a mouthful, AEK!
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:But that makes it cool!
+吉尔()<Speaker>Jill</Speaker>||:(Then I think the coolest thing on earth would be the name of the bald editor of the Augmented Eye that I served.) +Miss AEK, I think I heard the sound of a bike engine just now. Did you drive one here?
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Yup. I tried to lean it far away from the door. It won't interfere with your business, will it?
+吉尔()<Speaker>Jill</Speaker>||:No, it's not like anyone comes here anyway.
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:Do you do bike-racing?
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:I went to the Motor District, but I couldn't find that... +"Christmas Love", was that her name?
+吉尔()<Speaker>Jill</Speaker>||:Christine Love. I think she's been busy developing a new game recently, so she doesn't go outside much.
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:What! Then why am I even in this city!?
+吉尔()<Speaker>Jill</Speaker>||:(Aren't you here on company business...)
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:So you came straight here...and didn't do anything else?
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Of course not, I played around with a few bikers. +But the web said that the "Death Lane" was closed these past few days, so all I could do was do a couple of laps in an abandoned district. +My opponents and the track were all boring, like going to a pizza place that was famous on the web and then finding out that they only had fries because they ran out of flour.
+吉尔()<Speaker>Jill</Speaker>||:I'm sorry, but there were deaths on the GATE Highway — in other words, the "Death Lane" in question — due to illegal racing, so it's been locked down ever since. +Most of the biker gang leaders were arrested too, so you're only going to meet those easy-going bike lovers there.
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Bike lovers...sound as stupid as "rock and roll fans". +People who are into that sort of thing should address each other as "killers"!
+吉尔()<Speaker>Jill</Speaker>||:(Then you'd only be able to hold future rock and roll concerts in supermax prisons.) +In any case, Miss AEK, you may have had some expectations before coming to Glitch City. However, I regret to say that for the most part, this is a law-abiding city.
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:I understand. After all, for humans, you only live once.
+吉尔()<Speaker>Jill</Speaker>||:Then...do Dolls risk their lives purely to chase thrills?
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:They don't normally. After all, our lives and our body belong to Griffin. +Rather than death itself, what's scarier is being forcibly resurrected after dying and facing demotion, a pay cut, and a disciplinary hearing, right?
+吉尔()<Speaker>Jill</Speaker>||:It sounds like being unable to completely die isn't necessarily a good thing.
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:To certain Dolls, yes, that might not be a good thing. +As for me, I haven't lived enough yet, and this world is filled with cool things that I need to discover.
+吉尔()<Speaker>Jill</Speaker>||:To a human...that sounds a little negative.
+TMP(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Negative? +I'll have you know that I'm a good girl who hands in her tests early!
+K2(0)<Speaker>K2</Speaker>;AEK999(0)||:AEK, quit spouting your delusions. As long as you can't reach higher notes than M950A, you will never be cool enough.
+K2(0);AEK999(0)<Speaker>AEK-999</Speaker>||:Hey, Leader! What happened to your mouth, were you eating hot wings again?
+K2(0)<Speaker>K2</Speaker>;AEK999(0)||:Yup, could you tell? I drank a lot of ice water.
+吉尔()<Speaker>Jill</Speaker>||:Miss K2, you don't look like you're good with spicy stuff.
+K2(0);Dana(0)<Speaker>Dana</Speaker>||:She gave up halfway through the first piece. +And here I thought I'd found an opponent, but her courage was admirable.
+吉尔()<Speaker>Jill</Speaker>||:Then why did you two spend so long in there?
+K2(0)<Speaker>K2</Speaker>;Dana(0)||:We wanted to reach a mutual understanding with each other about a lot of things — in particular, regarding the management of one's subordinates.
+Jill(2)<Speaker>Jill</Speaker><Position>0,8000</Position>||:(The first half of that sentence could very easily be misunderstood... If only Dorothy were here.)
+TMP(0)<Speaker>TMP</Speaker>||:Mutual...understanding...!
+吉尔()<Speaker>Jill</Speaker>||:(Looks like we have a cat-eared Dorothy here already.)
+K2(0)<Speaker>K2</Speaker>||:It's getting late, we should be heading back. Jill, Dana, I'm glad to have met you.
+TMP(0)<Speaker>TMP</Speaker>||:Thank you for hearing me out...Jill.
+AEK999(0)<Speaker>AEK-999</Speaker>||<黑点1>:I'll come again, and not just for the "Death Track"!
+()||<黑点2><BGM>BGM_Empty</BGM>:...
+Dana(0)<Speaker>Dana</Speaker>||<BGM>m_va_snowfall</BGM>:Wow, so those were Griffin Dolls.
+吉尔()<Speaker>Jill</Speaker>||:What do you think about them?
+Dana(0)<Speaker>Dana</Speaker>||:They're not quite like Lilims. They're more..."Griffin".
+吉尔()<Speaker>Jill</Speaker>||:You only met one.
+Dana(0)<Speaker>Dana</Speaker>||:That's why I can only describe them as being "Griffin", just like how you're very "Jill".
+吉尔()<Speaker>Jill</Speaker>||:I'm Jill, very Jill. +It sounds like some kind of advertisement for a low-end trendy brand. Your name would be more stylish, Boss.
+Dana(0)<Speaker>Dana</Speaker>||:Alright, ten points for ass-kissing. Want a break, Jill?
+吉尔()<Speaker>Jill</Speaker>||:Sure, but I won't help you eat those spicy wings.
+Dana(3)<Speaker>Dana</Speaker>||:That's another ten points off. Go out back and reflect on your actions, Jill.
+吉尔()<Speaker>Jill</Speaker>||<黑屏1>:Got it, Boss.
