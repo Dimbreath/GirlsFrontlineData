@@ -445,8 +445,7 @@ patch2070=
 "2070/BattleSimulatorController",
 "2070/CommonPicLoader",	
 "2070/MissionData",
-"2070/MissionSkillData",
-"2070/MissionSelectionDroneTrainSettingController",		
+"2070/MissionSkillData",	
 "2070/ParticleScaler",
 "2070/OPSPanelBackGround",
 "2070/DeploymentController",
@@ -458,11 +457,9 @@ patch2070=
 "2070/DeploymentPlanModeController",
 "2070/DeploymentTeamInfoController",
 "2070/DeploymentBuildingController",
-"2070/DeploymentBuildingInfo",	
 "2070/DeploymentRandomEventController",
 "2070/DeploymentExplainItem",
 "2070/DeploymentUIController",
-"2070/OPSPanelController",
 "2070/OPSActivityEventPrizeController",
 "2070/OPSRuler",	
 "2070/TargetTrainMultiSettingItem",	
@@ -482,7 +479,6 @@ patch2070=
 "2070/Requests",	
 "2070/RequestGunMindupdate",
 "2070/HomeController",
-"2070/HomeOperationButton",	
 }
 --[[
 -- va11
