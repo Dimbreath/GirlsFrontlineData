@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:Inside the café, two hours after the news about the Division survival tournament has begun circulating.
+()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:Inside the café, two hours after the news about the Division survival tournament began to circulate.
 M1903(10)<Speaker>Springfield</Speaker>||:Oh, hello. Would you like something, 97?
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||<震屏>:Springfield! Take part in the tournament with me!
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:What tournament?
@@ -150,5 +150,5 @@ M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Oh? What do you mean by that
 M1903(10);97type(4)<Speaker>Type 97</Speaker>||:Time to make the first strike— Take this!
 M1903(10);97type(4)<Speaker></Speaker>||:Type 97 feints an attack at Springfield, then suddenly launches herself at AA-12's back. AA-12 is unable to dodge in time and the two of them roll into a pile across the safe house, causing a series of loud noises as they crash into different objects.
 AA12(0)<Speaker>AA-12</Speaker>;97type(4)||:Hey! That was a cheap shot!
-AA12(0);97type(4)<Speaker>Type 97</Speaker>||:Heehee, all warfare is deception, as they say.
+AA12(0);97type(4)<Speaker>Type 97</Speaker>||:Heehee, all warfare is based on deception, as they say.
 MP7(4)<Speaker>Gr MP7</Speaker>||<黑屏1>:(Sighs) I don't even remember why I even came along in the first place...

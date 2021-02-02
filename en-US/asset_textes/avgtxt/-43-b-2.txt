@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>298</BIN><BGM>BGM_Sneak</BGM>:... +On Sixth Avenue. +After losing VSK-94, AK-47 leads the remainder of her squad onward, but due to "circumstances beyond control", the formerly motivated squad's fighting strength has been cut in half.
+()||<黑屏2><BIN>298</BIN><BGM>BGM_Sneak</BGM>:... +On Sixth Avenue. +After losing VSK-94, AK-47 leads the remainder of her squad onward, but due to "circumstances beyond our control", the formerly motivated squad's fighting strength has been cut in half.
 AK47(2)<Speaker>AK-47</Speaker>||:Hahaha, it's down to the two of us.
 AK47(2);A91(0)<Speaker>A-91</Speaker>||:Those two were real jerks~ +What do we do now, leader? +It's down to us.
 AK47(2)<Speaker>AK-47</Speaker>;A91(0)||:We'll be enough. +Hell, I could do it by myself, no problem!
@@ -65,11 +65,11 @@ AK47(2)<Speaker>AK-47</Speaker><通讯框>;A91(0)||:<color=#00CCFF>Huh? Didn't w
 AK47(2);A91(0)<Speaker>A-91</Speaker>||:Regroup? In the Dark Zone?!
 AK47(2)<Speaker>AK-47</Speaker><通讯框>;A91(0)||:<color=#00CCFF>Yeah, I said there was no need to fight with them, so we should just avoid them and head straight into the Dark Zone...</color>
 AK47(2)<Speaker>AK-47</Speaker><通讯框>||:<color=#00CCFF>I thought you got it? You told me it was OK. Where are you, anyway?</color>
-A91(0)<Speaker>A-91</Speaker>||:(Russian profanity)
+A91(0)<Speaker>A-91</Speaker>||:BLYAT!
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 Vector(0)<Speaker>Vector</Speaker>||:So what's your game?
 A91(0)<Speaker>A-91</Speaker>||:...+...+...Hahaha!+I was just kidding, see, I was just, uh, having a laugh with you!+Take your time, you two! I'll buy you a drink when we get back!+G-goodbye!
-()||<SE1>RunStep</SE1>:A91 pivots on her heels and runs away without looking back.
+()||<SE1>RunStep</SE1>:A-91 pivots on her heels and runs away without looking back.
 Vector(0)<Speaker>Vector</Speaker>||<黑点1>:...+...What was that all about?
 A91(0)<Speaker>A-91</Speaker>||<黑点2><BIN>299</BIN>:(Pants heavily)+Govno! You screwed me good, AK-47!！
 ()||:A-91 grits her teeth. She recalls her disgraceful exit just now and it's plain that she's still very unhappy about it.

@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-()<Speaker></Speaker>||<黑屏2><BIN>301</BIN><BGM>GF_xDivision_Scene2</BGM>:00:08AM, on a cleared-out street near Times Square.+After ensuring that there are no enemies in sight, Squad Springfield finally stops to rest, having shaken off M870 and company at last.
+()<Speaker></Speaker>||<黑屏2><BIN>301</BIN><BGM>GF_xDivision_Scene2</BGM>:0008 hours, on a cleared-out street near Times Square.+After ensuring that there are no enemies in sight, Squad Springfield finally stops to rest, having shaken off M870 and company at last.
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Congratulations on escaping a tight spot, Agents. However, this won't be the last battle where you may have to fight your friends.</color>+<color=#00CCFF>Apart from those who stand with you, there are traitors here as well...they're only going to make this city that much more chaotic.</color>
 NPC-Dima(1)<通讯框>;97type(0)<Speaker>Type 97</Speaker>||:We...we made it at last! You should help us too, Dima! +Can't you send out someone to assist us?
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>Unfortunately, I am unable to summon assistance for you in most areas, Agents.</color>+<color=#00CCFF>The situation here is too dangerous and we cannot risk our precious airmen without a guarantee of safety. </color>
@@ -10,10 +10,10 @@ M1903(13);97type(0)<Speaker>Type 97</Speaker>||:Our gear isn't fantastic either.
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Where's the next safe house? I want to lie down for a bit, I was so tense earlier that I feel like throwing up now. +They were a strange bunch, though. If Springfield hadn't stopped me, I'd have chopped them all to bits.
 AA12(0);97type(0)<Speaker>Type 97</Speaker>||:Well, you can't choose to chop them up in the game, only shoot them. But you were basically spacing out back then, weren't you?
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I was taking screenshots, and by the time I looked back they already had you in their sights.
-MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...You were taking screenshots?! When life and death were at stake?!
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...You were taking screenshots?! When our lives were at stake?!
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:It's called enjoying the game, Gr MP7. The screenshots I took came out awesome.
 MP7(4)<Speaker>Gr MP7</Speaker>;97type(0)||:I'd rather charge outside right now and take on all the mobs out there on my own than look at your stupid screenshots.
-MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Let me see! Are we cool? +Wow, this angle is great! I'm going to turn on burst shooting when I run into something like this next time!
+MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Let me see! Are we cool? +Wow, this angle is great! I'm going to toggle to burst shooting when I run into something like this next time!
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I took a bunch of pictures, everyone's in them. +This one is of Gr MP7 leaving during the snowstorm, I'll edit it when I get back to make it look even better.
 AA12(0);97type(0)<Speaker>Type 97</Speaker>||:This one looks cool too. Was it when Springfield stopped us from shooting? +Ah, Gr MP7's there too.
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...
@@ -33,16 +33,16 @@ MP7(0)<Speaker>System</Speaker>;97type(0)<同时置暗>||<BGM>BGM_Empty</BGM>:
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||<BGM>BGM_Brain</BGM>:I think there was some fighting in the area just now. +I want to go take a look. Who knows, we might be able to mop up the survivors.
 97type(0)<Speaker>Type 97</Speaker>||:Spoken like a pro gamer!  Wait for me, Gr MP7! I want to go too!
 AA12(0)<Speaker>AA-12</Speaker>||<黑屏1>:I'll go as well.
-()||<黑屏2><BIN>301</BIN>:Two minutes later, Springfield and company arrive at the scene  of the battle. +An item gleams quietly on the ground.
+()||<黑屏2><BIN>301</BIN>:Two minutes later, Springfield and company arrive at the scene of the battle. +An item gleams quietly on the ground.
 M1903(10)<Speaker>Springfield</Speaker>||:There's only one bottle of soda left... I guess they must have taken the other supplies. +97, you take this.
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Sure thing! Although, they only left one bottle behind. Maybe their packs are full?
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||<BGM>BGM_Empty</BGM>:It's also possible that they just couldn't be bothered to take a single bottle of soda.
 AA12(0);97type(0)<Speaker>Type 97</Speaker>||<BGM>BGM_Wake</BGM>:Aw, the poor thing. +Just imagine, the entire city's gone mad and she's walking alone down the street, with calamities striking left and right and rioters running rampant... And as she shivers in the wind, her only companion is a dog.
-MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Wait a minute, there are no dogs in this game, right? Don't go making them up out of whole cloth.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:Wait a minute, there are no dogs in this game, right? Don't go cutting them out of whole cloth.
 MP7(0);97type(0)<Speaker>Type 97</Speaker>||:But dogs are man's best friend! There MUST be a reason why this game doesn't have dogs in it! Perhaps the dog died to protect her before she reached this place. +After using up all her supplies and without cold-weather clothing to keep herself warm, she must have been immersed in despair.+But when she encountered an enemy in this place, it sparked her survival instinct! She thought, "even if I must die, I won't let myself die here! I'll struggle to the bitter end!"
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:And then she was shot dead by a well-armed and supplied opponent. A single bullet took this unfortunate girl's final hope.
 MP7(0);97type(0)<Speaker>Type 97</Speaker>||:Ah, how sad! M500 would cry if she heard that story. In order to remember this player, I'll save this bottle of soda for the last.
-MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...It's really a shame you aren't writing scripts for that serialized manga artist who keeps posting on Griff-chan.
+MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:...It's really a shame you aren't writing scripts for that serialized manga artist who keeps posting on Grifchan.
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:(Chuckles) Your ideas are always so wild and fanciful, yet they have a ring of realism to them, 97.
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||<BGM>BGM_Empty</BGM>:Hehe, as they say, dare to dream but put one foot in front of the other!
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||<BGM>GF_xDivision_Scene2</BGM>:In any case, we must avoid running out of supplies and being undergeared. In order to prevent ourselves from going through the tragedy 97 described, we must seriously consider our battle strategy from now on.

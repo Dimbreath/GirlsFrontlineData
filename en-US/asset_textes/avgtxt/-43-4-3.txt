@@ -2,7 +2,7 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM>:—Somewhat earlier, at the United Nations Plaza.+After being taken over by the Last Man Battalion, this place, which once safeguarded peace, was converted into a military stronghold.+The defenders here were cleared out not long ago. UMP45 spots the human agent who's been guiding them over the radio all this time on the plaza...<下雪></下雪>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Yo, have you been waiting here the whole time?+Come to think of it, I've been wondering where you were all along.+So you were waiting for us at the destination after all, hm?
 UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:It's you...!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:It's me?+Something wrong with that?+It sounds like you have a bone to pick with me.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:"It's you"? +Got a problem? +Sounds like you've got a bone to pick with me.
 UMP45Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker>||:...No, that's not what I meant, Agent.+What about the other agents? Are they not here yet? As I recall, you weren't operating alone.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:I'm the only one here, and I'm going to be the only winner.+...You have the flare gun, right? Give it to me.
 NPC-Dima(1)<Speaker>Dima</Speaker>||:...
@@ -82,7 +82,7 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||:Scheiße!
 ()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:BOOM!
 NPC-Dima(3)<Speaker>Dima</Speaker>||:Aaaaaaaahhhh!
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:I can't believe she could react under those circumstances... That's why I hate high-spec Dolls.
-()<Speaker></Speaker>||:The shockwave from the explosion lifts 45 bodily off the ground and smashes her into a pile of rubble. She can see a huge chunk fall off her HP bar in an instant.+She reflexively bounces back up like a spring, but then she freezes.
+()<Speaker></Speaker>||:The shockwave from the explosion lifts 45's body off the ground and smashes her into a pile of rubble. She can see a huge chunk fall off her HP bar in an instant.+She reflexively bounces back up like a spring, but then she freezes.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Humph.
 Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:Checkmate.
 ()<Speaker></Speaker>||:As the dust from the explosion clears and UMP45 stumbles to her feet...+The vacuous black muzzle of Vector's gun looms before her.

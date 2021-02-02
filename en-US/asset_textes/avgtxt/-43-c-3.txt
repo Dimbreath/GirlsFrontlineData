@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:00:19AM, Lexington Avenue. +Squad Springfield has just finished hunting down the landmark bosses. +After watching the collapse of the tall figure shining with golden light, AA-12 puts her gun away and approaches it with Type 97 to gather the spoils.
+()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:0019 hours, Lexington Avenue. +Squad Springfield has just finished hunting down the landmark bosses. +After watching the collapse of the tall figure shining with golden light, AA-12 puts her gun away and approaches it with Type 97 to gather the spoils.
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Very good, Agents.</color>+<color=#00CCFF>Carry on at this pace. Ample preparations and a careful attitude will bring you closer to success.</color>
 MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Dima(1)||:Springfield told us to leave the ammo, but if other players pick up the gear we leave behind, it'll be a threat to us.
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:We'll take it all, then. Besides, it's not like Springfield will go through our backpacks.
@@ -67,7 +67,7 @@ MP7(0)<Speaker>Gr MP7</Speaker>;97type(4)||:<color=#00CCFF>You'll get caught, yo
 MP7(0);97type(4)<Speaker>Type 97</Speaker>||:<color=#00CCFF>You won't know until you try!</color>
 AA12(0)<Speaker>AA-12</Speaker>;97type(4)||:<color=#00CCFF>Fine, I'll block you for a bit.</color>
 97type(4)<Speaker>Type 97</Speaker>||:<color=#A9A9A9>Sweet! Please, Springfield, delay her for just a little longer...</color>
-97type(4)<Speaker></Speaker>||:While A91 is being distracted by Springfield's words, Type 97 clutches the explosives she's holding tightly to her chest and begins tiptoeing off towards the Dark Zone. +However, she suddenly feels a keen gaze fall on her, and a shout from A-91 soon follows.
+97type(4)<Speaker></Speaker>||:While A-91 is being distracted by Springfield's words, Type 97 clutches the explosives she's holding tightly to her chest and begins tiptoeing off towards the Dark Zone. +However, she suddenly feels a keen gaze fall on her, and a shout from A-91 soon follows.
 A91(0)<Speaker>A-91</Speaker>||<BGM>BGM_Empty</BGM><震屏>:You, Twintails! Put my stuff down!
 97type(5)<Speaker>Type 97</Speaker><Shake>||<BGM>BGM_Danger</BGM>:Ah! She spotted me! But how? I was really careful, wasn't I?
 A91(0)<Speaker>A-91</Speaker>;97type(5)||:Did you think I wouldn't notice your little stunt just because I look drunk? +This is my normal working state! The more drunk I am, the keener my senses are.
@@ -86,7 +86,7 @@ M1903(12)<Speaker>Springfield</Speaker>;MP7(0)||:Gr MP7! Don't provoke her.
 A91(0)<Speaker>A-91</Speaker>;MP7(0)||<震屏>:Oh?! You think I'm scared just because there's more of you? +I won't go before I get rid of her! These are the components for the trap I'm setting up. Don't even think of getting away with any of them.
 AA12(0)<Speaker>AA-12</Speaker>;MP7(0)||:...What a pain.
 M1903(12)<Speaker>Springfield</Speaker>;MP7(0)||:But how can we be certain that you'll let us go if we put down those items? +Like you said, we've already stepped into your trap, haven't we?
-A91(0)<Speaker>A-91</Speaker>;MP7(0)||<震屏>:You know this and you STILL want to talk terms with me? I am the ruler of this place! +I am the Absolut god of vodka!
+A91(0)<Speaker>A-91</Speaker>;MP7(0)||<震屏>:You know this and you STILL want to talk terms with me? I am the ruler of this place! +I am the Abzolut god of vodka!
 MP7(0)<Speaker>Gr MP7</Speaker>||:AA-12 was right, she's a total drunkard and impervious to reason.
 97type(0)<Speaker>Type 97</Speaker>||:If only there was a way to talk this over... +Hey, look, behind A-91... What's that in the fog?
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:It looks like the landmark boss we didn't find earlier... I'll head over to take care of him now.
@@ -114,4 +114,4 @@ M1903(11)<Speaker>Springfield</Speaker>||:Oh no...
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:Squad Springfield turns and flees, but it is already too late.
 A91(1)<Speaker>A-91</Speaker>||:DIE!
 AA12(0)<Speaker>AA-12</Speaker>||<SE1>AVG_The_Division_Camera</SE1><黑屏1>:Meh, might as well screenshot this too.
-()<Speaker>System</Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2><黑屏1>:X Honey Muffin died from an explosion.+X Chain Charge 81 died from an explosion. +X Dazzling Mouse Tamer died from an explosion. +X Candy Cannon died from an explosion.+X Absolut Vodka died from an explosion.
+()<Speaker>System</Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2><黑屏1>:X Honey Muffin died from an explosion.+X Chain Charge 81 died from an explosion. +X Dazzling Mouse Tamer died from an explosion. +X Candy Cannon died from an explosion.+X Abzolut Vodka died from an explosion.

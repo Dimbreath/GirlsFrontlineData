@@ -14,7 +14,7 @@ Vector(0)<Speaker>Vector</Speaker>||:...
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:She's ignoring you.
 PP90(0)<Speaker>PP-90</Speaker>||:C-come on, say something!
 ()<Speaker></Speaker>||:Vector remains unresponsive to PP-90's prompt. Instead, she leans against a nearby piece of cover, then stands up and leans over it again...+Finally, she raises her gun and accurately hits several beer bottles and empty cans in the distance.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done, Agent.</color>+<color=#00CCFF>The streets are now fields of slaughter. Hopefully your participation will bring a ray of hope to this city.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done, Agent.</color>+<color=#00CCFF>The streets are now fields of slaughter. Hopefully, your participation will bring a ray of hope to this city.</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...Is she going through the newbie tutorial?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Well, if we were to list the Dolls who always follow instructions to a tee, Vivi would have to be one of them.
 K5(0);PP90(0)<Speaker>PP-90</Speaker>||:Didn't you go through the tutorial as well?
@@ -22,21 +22,21 @@ K5(0)<Speaker>K5</Speaker>||:I skipped it all!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Don't proclaim that so proudly in front of your squad leader!
 PP90(0)<Speaker>PP-90</Speaker>||:Speaking of which, how come you're also playing the game? And why are you calling Vivi your leader?+We're not even on the same squad!
 K5(0)<Speaker>K5</Speaker>||:Well, the Commander said we'd get a share of the prize money if we won.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Also it seems like this game is a free-for-all, which means we can team up among ourselves.+Since we're all here to help the Commander win, we'll have a better chance if we work together, right?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Also, it seems that this game is a free-for-all, which means we can team up amongst ourselves. +Since we're all here to help the Commander win, we'll have a better chance if we work together, right?
 PP90(0)<Speaker>PP-90</Speaker>||:Your motives are so impure... All Vivi needs is a reliable squadmate like me.
 Vector(0)<Speaker>Vector</Speaker>||:I think I could have handled this on my own without the extra manpower the Commander arranged for me.+Still, with this many players, I'm sure the competition will be intense...+Every extra companion will be someone else to look out for, but since this is what the Commander wants, I will accept this grouping.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Hehe, don't sound so grudging. In any case, Squad Vivi is officially founded!+Let's all do our best then, 90!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Hehe, don't sound so reluctant. In any case, Squad Vivi is officially founded!+Let's all do our best then, 90!
 PP90(0)<Speaker>PP-90</Speaker>;R93(0)<Position>0,-100</Position>||:You should thank Vivi for her generosity... Hey, quit pulling my hair!
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Speaking of which, did you make any special preparations for this tournament, Vivi? +Do you have some sort of game plan?
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:Dima just gave us a suggestion, didn't she?+Before we can win, we need to solve the problem of keeping ourselves warm. Then we need to stay healthy, and we have to procure supplies within the city...
-K5(0)<Speaker>K5</Speaker>||:Those sound like human survival needs.
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:Dima just gave us some recommendations, didn't she? +Before we can even consider winning, we have to solve the problem of having to keep ourselves warm. Then, we need to stay healthy, and we also have to procure supplies within the city...
+K5(0)<Speaker>K5</Speaker>||:Those sound like basic needs for human survival.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Yes, yes, I know, they're the sort of external factors that we can normally disregard because we're Dolls...
 ()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Player "Pink Nyan Nyan Punch" has died of hypothermia.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Ehhh? Who's "Pink Nyan Nyan Punch"?!+And how did she die of hypothermia, is she human or something?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Ehh? Who's "Pink Nyan Nyan Punch"?! +And how did she die from hypothermia, is she human or something?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Didn't the Commander say that all the players were Dolls?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like a squad of agents has taken casualties because they couldn't adapt to the environment.</color>+<color=#00CCFF>The current temperature in Manhattan is -25 degrees centigrade, going as low as -30 in some places.</color>+<color=#00CCFF>If you're not careful, you'll meet the same fate as that fallen agent.</color>+<color=#00CCFF>Please make sure you keep warm, Agents.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like a squad of agents has taken casualties because they couldn't adapt to the environment.</color>+<color=#00CCFF>The current temperature in Manhattan is -25 degrees centigrade, going as low as -30 in some places.</color>+<color=#00CCFF>If you're not careful, you'll meet the same fate as that fallen agent.</color>+<color=#00CCFF>Please make sure to keep warm, Agents.</color>
 NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I don't feel anything though. Can we really freeze to death?
-Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:Well, the game is played on Level II, after all. Our virtual avatars probably share certain algorithms with this world in order to maintain data compatibility.+There are advantages and drawbacks to this, of course. We can use weapons freely, but it also means poor conditions will affect us, especially since we aren't used to taking human survival needs into consideration.+In order to avoid danger, we should plan carefully and tread lightly.
+Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:Well, the game is being played on Level II, after all. Our virtual avatars probably share certain algorithms with this world in order to maintain data compatibility.+There are advantages and drawbacks to this, of course. We can use weapons freely, but it also means poor conditions will affect us, especially since we aren't used to taking human survival needs into consideration. +In order to avoid danger, we should plan carefully and tread lightly.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:That sounds tough. K5, what did you say about our chances of winning earlier?
 K5(0)<Speaker>K5</Speaker>||:I think we shouldn't rely so much on fate when the game's just begun.+Also, when you think about it, this kind of playstyle is pretty fun, isn't it?+Oh yeah, why don't we find some enemies for target practice?
 PP90(0)<Speaker>PP-90</Speaker>||:We're going on the offensive?
@@ -47,7 +47,7 @@ R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well, if we need to pr
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:Bang bang bang bang bang — bang bang bang bang—
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...Er.
 PP90(0)<Speaker>PP-90</Speaker>;R93(0)<Position>0,-100</Position>||:Whoa, they really are charging over!
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Looks like you have potential as an oracle.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Looks like you hold some potential as an oracle.
 K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I don't want that kind of potential!
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Still, I expected this. Since they're here, let's shoot back! Get them!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Uh... Leader, K5's charging out. Should we follow her?

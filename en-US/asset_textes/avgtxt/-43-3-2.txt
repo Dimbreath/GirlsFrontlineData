@@ -33,7 +33,7 @@ R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00C
 K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>Ah! Are you some kind of jinx?!</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>Sorry, shutting up now.</color>
 Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_tele_disconnect</SE1>:What happened?
-()<Speaker></Speaker>||:There seems to be an undercurrent of fear in ISAC's warning. It is the first time Vector has felt uneasy listening to him.+As she ducks behind cover upon receiving the warning, she notices that someone has appeared in the direction of Grand Central Terminal - someone who isn't anything like the tall, bulky enemies from before. +On the contrary, the other party seems to be about the same height as herself, and she looks completely different from the other NPCs in this game.
+()<Speaker></Speaker>||:There seems to be an undercurrent of fear in ISAC's warning. It is the first time Vector has felt uneasy listening to them.+As she ducks behind cover upon receiving the warning, she notices that someone has appeared in the direction of Grand Central Terminal - someone who isn't anything like the tall, bulky enemies from before. +On the contrary, the other party seems to be about the same height as herself, and she looks completely different from the other NPCs in this game.
 Vector(0)<Speaker>Vector</Speaker>||:Is that...a Doll?
 HK416(6)<Speaker>???</Speaker>||<BGM>GF_xDivision_Scene3</BGM>:...
 Vector(0)<Speaker>Vector</Speaker>||:I've never seen that face before.
@@ -53,7 +53,7 @@ K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>To hell with yo
 K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:No, there's no need! Stay where you are and keep waiting!
 K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>But will you really be okay by yourself?</color>
 Vector(0)<Speaker>Vector</Speaker>||:...I'll need to get rid of the obstacles in the way if we're going to meet up.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Uh, I think you might want to listen to your friends' suggestions, really.</color>+<color=#00CCFF>It might be better to get some help if you want to deal with them...
+NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Uh, I think you might want to listen to your friends' suggestions, really.</color>+<color=#00CCFF>It might be better to get some help if you want to deal with them...</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...
 K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>Whoa! R93, someone's shooting at us!</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>Vivi, we're being attacked on our end!</color>

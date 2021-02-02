@@ -1,10 +1,10 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>297</BIN>:...<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_xDivision_Battle1</BGM>:The night, which was previously ravaged by a blizzard, has now settled down and is dyeing the city a dark navy blue. There is a brief scream, and a swathe of brilliant orange blazes up at the origin of the sound.+Flames spew forth with a "foom", melting every snowflake which they touch.+A pair of black-faced, petite figures rush out of the smoke left in its wake. They're trying to flee this danger zone as quickly as possible, but...
+()<Speaker></Speaker>||<BGM>GF_xDivision_Battle1</BGM>:The previously raging blizzard soon settles down and the night dyes the city in a dark navy blue. There is a brief scream, and a swathe of brilliant orange blazes up at the origin of the sound.+Flames spew forth with a "fwoom", melting every snowflake they touch.+A pair of black-faced, petite figures rush out of the smoke left in its wake. They're trying to flee this danger zone as quickly as possible, but...
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Ehhh?! Why is there a dead end here?!
 P7(0)<Speaker>P7</Speaker>;ART556(0)<Position>0,40</Position>||:Because we ran the wrong way just now!+Eeeeeep! That big guy's coming this way!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Oh no, we're doomed!
-()<Speaker></Speaker>||:Foooom!+The flames billowing forth from the Cleaner fill every corner of the cramped blind alley.+However, after the flames recede, his targets are not lying there in a scorched heap...
+()<Speaker></Speaker>||:Fwoooom!+The flames billowing forth from the Cleaner fill every corner of the cramped blind alley.+However, when the flames finally recede, there's a conspicuous lack of scorched targets.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><Night><BIN>276</BIN>:...<火焰销毁></火焰销毁>
 P7(0)<Speaker>P7</Speaker>||:Wow, that was close!+It wasn't real fire, but seeing it spray toward us was really scary!！
@@ -42,7 +42,7 @@ P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Well, no mat
 P7(0)<Speaker>P7</Speaker>;ART556(0)<Position>0,40</Position>||:That said, it's time to settle this, right here and now!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:<size=55>COME ON!</size>
 P7(0)<Speaker>P7</Speaker>||:<size=55>BRING IT ON!</size>
-()<Speaker></Speaker>||:The pair throw all their explosives at the opposition, and just before the glare of the explosions scrambles their vision, the two of them see the same thing—+The Cleaner, who was charging out to attack them, has taken all their explosives square on his body.
+()<Speaker></Speaker>||:The pair throw all their explosives at the opposition, and just before the glare of the explosions scrambles their vision, the two of them see the same thing—+The Cleaner, who was charging out to attack them, magnificently catches the explosives with their body.
 ()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:BOOOOM!!!
 ()<Speaker></Speaker>||:After the thunderous explosions, their huge attacker, who was still radiating menace just a moment ago, rolls back down the stairs.
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:...+It...
@@ -88,7 +88,7 @@ P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:As if we'd r
 P7(0)<Speaker>P7</Speaker>;ART556(0)<Position>0,40</Position>||:B-but I just saw a sign on the road saying something about a Last Man Battalion camp up ahead...+Hey, wait up!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:We've got no time to waste...
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:Eeeeek—?!
-()<Speaker></Speaker>||:ART556 has completely dismissed P7's concerns, but then a bullet whistles through the air past her ear.+She stops abruptly in her tracks and rolls behind a roadside planter of flowers. When P7 catches up, the two of them see a horde of heavily-armed enemies swarming towards them.
+()<Speaker></Speaker>||:ART556 has completely dismissed P7's concerns, but then a bullet whistles through the air past her ear.+She stops abruptly in her tracks and rolls behind a raised flowerbed. When P7 catches up, the two of them see a horde of heavily-armed enemies swarming towards them.
 P7(0)<Speaker>P7</Speaker>||<BGM>GF_xDivision_Battle1</BGM>:This...this is an enemy stronghold!
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||<SE2>Gunfight</SE2>:So what, we can always double back— Aaaaahhhhhh!
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Why are there enemies behind us too...? No, wait, have we been surrounded?!
@@ -114,14 +114,14 @@ ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:P-P7?
 P7(0)<Speaker>P7</Speaker>;ART556(0)<Position>0,40</Position>||:Yeah, I see it.
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:It must be the Boss! She came back to save us!
 P7(0)<Speaker>P7</Speaker>||:Look, over there!
-()<Speaker></Speaker>||:They look in the direction P7 is pointing at, and they can see a figure slowly advancing towards them, cloaked by the wind and snow.+ART556 and P7 happily jump out of their cover and run towards the figure, but as they draw closer, the silhouette that resolves into clarity does not match that of M870's.+They slowly grind to a halt and watch as the figure walks up to them.
+()<Speaker></Speaker>||:They look in the direction P7 is pointing at, and they can see a figure slowly advancing towards them, cloaked by the wind and snow.+ART556 and P7 happily jump out of their cover and run towards the figure, but as they draw closer, the silhouette resolving into clarity does not match that of M870's.+They slowly grind to a halt and watch as the figure walks up to them.
 VectorAgent(0)<Speaker>???</Speaker>||:Are you alright?
 P7(0)<Speaker>P7</Speaker>||<BGM>GF_xDivision_Scene2</BGM>:Vivi? It's Vivi! 556, Vivi saved us!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Is-is that really you, Vivi?! Thank goodness! We didn't know you were playing too!+Speaking of which, what's with that outfit of yours...?
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like you're alright, Agents.</color>
 P7(0)<Speaker>P7</Speaker>||:Dima! Where the hell were you?! We got into so much crap because you didn't warn us!
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I've brought a new agent, haven't I? That should help a little, right?</color>
-ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:What do you mean "a little"? If Vivi teams up with us, we're a cinch to win!
+ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:What do you mean "a little"? If Vivi teams up with us, winning will be a cinch!
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Is she really that amazing?</color>+<color=#00CCFF>Looks like I backed the right horse, then.</color>
 P7(0)<Speaker>P7</Speaker>||:This NPC keeps saying weird things, doesn't she? +Right, Vivi, let's team up. You can't just leave us to face the enemy alone on such a cold night, can you?
 NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Don't you two already have a team?</color>

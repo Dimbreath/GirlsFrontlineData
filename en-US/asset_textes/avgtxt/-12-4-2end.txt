@@ -35,9 +35,9 @@ BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:True, she's not that important t
 G11(0)<Speaker>Gr G11</Speaker>||<BGM>BGM_Sunshine</BGM>:Ugh... +Is this...sunrise? +It's dazzling my eyes. Can I go back online?
 G11(0);UMP9(3)<Speaker>UMP9</Speaker>||:Heheh, not a chance, lazybones! +Ah, 45, have you recovered?
 UMP45(0)<Speaker>UMP45</Speaker>;UMP9(3)||:I'm alright. Haven't run into any problem. +Actually...never been better.
-UMP45(0);NPC-Deele(0)<Speaker>Deele</Speaker><通讯框>||:That's all thanks to me! I literally had to pull out every single trick I know to wake you up as fast as we could! +Well? Y'all believe me when I say I'm a genius mechanic?
-UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Indeed, it was thanks to you. +And Zeele too, for finding the safest evacuation route so we could break through the SF encirclement.
-UMP45(0);NPC-Deele(0)<Speaker>Deele</Speaker>||:Hehe, she'll be glad to hear that. +Unfortunately, she's in a call right now, so I'll tell her later!
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:That's all thanks to me! I literally had to pull out every single trick I know to wake you up as fast as we could! +Well? Y'all believe me when I say I'm a genius mechanic?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Indeed, it was thanks to you. +And Sier too, for finding the safest evacuation route so we could break through the SF encirclement.
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Hehe, she'll be glad to hear that. +Unfortunately, she's in a call right now, so I'll tell her later!
 HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:A call? I have a bad feeling about this.
 HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:A new job's not a bad thing.
 HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I just want some rest. This was the most exhausting op I've been on this year...
@@ -52,7 +52,7 @@ UMP45(0);HK416(0)<Speaker>416</Speaker>||:(Laughs bitterly) And here I thought w
 UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Heheh, I'm hardly that scary. +It's not like it's terribly important. Right now, things are as good as they can get. +I'll tell you the whole story if I get the chance. IF I get the chance...
 HK416(0)<Speaker>416</Speaker>||:UMP45 turns to leave.
 UMP9(2)<Speaker>UMP9</Speaker>||:45...
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Zeele has a message to pass on to us. Hang on.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Sier has a message to pass on to us. Hang on.
 ()||<黑屏2><BIN>55</BIN>:...
 G11(0)<Speaker>Gr G11</Speaker>||:416, do you believe what she said?
 G11(0);HK416(0)<Speaker>416</Speaker>||:Humph... +Never believe a word she says unless she's giving an order.

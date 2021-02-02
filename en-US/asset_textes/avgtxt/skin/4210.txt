@@ -1,133 +1,132 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:……家具展门外。
-M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>MG34，真的很抱歉……</color>
-MG34(0)<Speaker>MG34</Speaker>||:为什么要道歉？这又不是你的错啦。+再说，宣传家具展这么简单的任务，本来我一个人就没问题的。+你就安心配合K记炸鸡拍摄宣传片吧。
-M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>嗯……如果有什么我能帮上忙的……</color>+<color=#00CCFF>请一定要告诉我……</color>
-()||<SE1>AVG_tele_disconnect</SE1>:通讯结束。
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>34姐，真的不要紧吗？</color>+<color=#00CCFF>明明出发前，任务还只是采购新年服装的……</color>+<color=#00CCFF>现在不仅任务完全变了，连唯一的队友也被借走了……</color>
-MG34(0)<Speaker>MG34</Speaker>||:根据任务的调整，灵活地改变应对策略，可是战术人形的基本能力。+而且，为家具展造势，吸引人流量，已经算是很简单的任务了吧？+就算只有我一个人，也肯定能完美搞定的。
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>我没有接到过销售类型的任务，我也不了解啦。</color>+<color=#00CCFF>我只是担心新的任务会让34姐很辛苦……</color>+<color=#00CCFF>不过34姐说没问题的话，那就一定没有问题！</color>
-MG34(0)<Speaker>MG34</Speaker>||:没错，相信我就对了。+等我的好消息吧。
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>好——那我也去努力完成后勤维护了！</color>
-()||<SE1>AVG_tele_disconnect</SE1>:通讯结束。
-MG34(0)<Speaker>MG34</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:那么，我也该换好衣服开始任务了……
-()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:……热闹的街头。
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:<color=#A9A9A9>说起来，这还是我第一次单独执行和人类直接接触的任务呢……</color>+<color=#A9A9A9>不过……应该没什么太大的不同吧？毕竟只是宣传家具展而已……</color>+<color=#A9A9A9>只要避开矛盾冲突，完成任务就好。</color>+<color=#A9A9A9>另外关于任务策略问题……对我们人形来说，家具主要是用来提高心情的愉悦指数的道具。</color>+<color=#A9A9A9>而对于人类来说……</color>
-NPC-Kalin(1)<Speaker>格琳娜</Speaker>||<回忆><黑点2><BIN>18</BIN><黑点1>:这是格里芬新进的家具哦，材质优良，物美价廉。+不要99999，也不要9999，首周只要998！+一个998就能把这些家具全部带回家！
-NPC-Kalin(5)<Speaker>格琳娜</Speaker>||<黑点2><BIN>89</BIN>:我的天啊，是谁把我价值29998的货物收纳架啃成了这样？！
-NPC-Kalin(2)<Speaker>格琳娜</Speaker>||<黑点1>:是你吗？还是你？！
-NPC-Kalin(7)<Speaker>格琳娜</Speaker>||<黑点2><BIN>139</BIN><黑点1>:这张桌子完全由柚木打造，安全结实，看看桌面这微微闪耀着的光泽，还有这淡淡的柚香……+不愧是曾经在拍卖会上拍出惊天高价的国宝级家具……
-MG34(2)<Speaker>MG34</Speaker>||<关闭蒙版><BIN>86</BIN><黑点2>:<color=#A9A9A9>我明白了，总之就是要突出数字，以家具本身的价值来吸引人类。</color>+<color=#A9A9A9>宣传战略方向确定，虽然具体策略还没想好，但是先开始进行第一步吧！</color>+<color=#A9A9A9>前往目标地点！</color>
-()||<黑点1>:MG34用力地挺直脊背，挤进熙熙攘攘的人潮中。
-MG34(2)<Speaker>MG34</Speaker>||<BIN>166</BIN><黑点2>:<color=#A9A9A9>不愧是繁华的市中心，人流密度和人流更换频率都非常适合宣传。</color>+<color=#A9A9A9>游走在人群中进行推销的宣传人员也很多，不过果然还是有固定摊位的宣传效率更高吧？</color>+<color=#A9A9A9>还好格琳娜小姐提前帮我申请到了宣传摊位……</color>
-()||:顺着人潮走动，MG34很快发现了几个并列在一起的宣传摊位，几名年轻人类女性正热情地向路人推销。
-()<Speaker>推销员A</Speaker>||:<color=#FF69B4>您好，请问您闻过新鲜的玫瑰混合在干涸的海泥中再加入芦荟汁的味道吗？</color>+<color=#FF69B4>没有对吧？那么请来试试我司新推出的香水……</color>
-()<Speaker>推销员B</Speaker>||:<color=#7B68EE>您有多久没有提起笔写过字了呢？</color>+<color=#7B68EE>越来越便捷的生活让人们养成了依赖电子设备输出文字的习惯，您又是否想过……</color>
-()<Speaker>推销员C</Speaker>||:女士，您相信命运吗……
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>……竞争这么激烈吗？看来即便占据了黄金位置，这次的宣传也不会那么顺利。</color>+<color=#A9A9A9>但我必须想些办法突出重围，大家还在等着我吸引顾客前去家具展，MG42也在等着我……</color>+不好意思，麻烦让一让，这个摊位是我的。
-()||:在充满敌意和竞争的目光中，MG34开始收拾起了自己的摊位。
-()<Speaker>推销员A</Speaker>||:<color=#FF69B4>喂，你是来推销什么的？</color>
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>竟然被人类主动搭话了！保持礼貌友善的态度应付过去吧……</color>+你好，我是来为家具展做宣传，都是从三战前遗留下来的高级定制家具……
-()<Speaker>推销员B</Speaker>||:<color=#7B68EE>哇哦，居然跑来这里推销高级定制家具？</color>
-MG34(2)<Speaker>MG34</Speaker>||:不是奢侈品，这批家具都会用很合理的价格售出……
-()<Speaker>推销员A</Speaker>||:<color=#FF69B4>合理的价格？那你们是怎么定义合理的价格呢？</color>+<color=#FF69B4>对身上分文不剩的穷人来说，十块钱都显得那么奢侈。</color>+<color=#FF69B4>而对富裕的有钱人来说，也许一百万也不是什么事呢。</color>
-MG34(2)<Speaker>MG34</Speaker>||:这……我……
-NPC-PasserbyF(0)<Speaker>推销员C</Speaker>||:你们呀，怎么还是这么喜欢欺负新人？+明明大家推销的领域都完全不一样，又不存在什么竞争关系嘛。
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>呼……被成功解救了……</color>
-()<Speaker>推销员B</Speaker>||:<color=#7B68EE>你就只会和稀泥，别忘了同一时间这里的摊位能吸引到的人流量是有限的。</color>+<color=#7B68EE>每多一个人我们自己的宣传成功率就会下降一些。</color>+<color=#7B68EE>虽然我们各自的宣传领域完全不沾边，但也是实打实的竞争关系！</color>
-()<Speaker>推销员A</Speaker>||:<color=#FF69B4>没错，正是这个道理。</color>+<color=#FF69B4>所以赶快终止浪费时间的对话，各做各的吧。</color>
-MG34(2)<Speaker>MG34</Speaker>||:那个……或许合作的话效率会更高？
-NPC-PasserbyF(0)<Speaker>推销员C</Speaker>||:她们好不容易才消气，你就别再去惹事啦。+好好宣传你的家具展吧。
-MG34(2)<Speaker>MG34</Speaker>||:好……谢谢你，美丽的女士……
-NPC-PasserbyF(0)<Speaker>推销员C</Speaker>||:哈哈，别客气，叫我丝儿吧。
-MG34(2)<Speaker>MG34</Speaker>||:4、42？
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:对哦，你叫什么呢？
-MG34(2)<Speaker>MG34</Speaker>||:我叫34……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:三丝？听上去跟我很像姐妹名嘛。+那边两个讨厌的家伙叫海茵和里希。
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>不要随便把我的名字告诉可疑的家伙。</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>没错，正是这个道理。</color>
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:好好好，那么，就开始各自的工作吧。
-MG34(2)<Speaker>MG34</Speaker>||:好！+<color=#A9A9A9>我也不会认输的……</color>
-()||:很少接触人类的MG34此刻却和三位人类女性站在一起工作，望着人类辛勤劳动的背影，她的心智云图中产生了一些奇妙的情愫。
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>不管是内部构造，还是生活方式，人形和人类明明都有着巨大的差异……</color>+<color=#A9A9A9>但为什么我总有种在和同伴执行任务的错觉？是因为外表过于相似的关系吗？</color>+<color=#A9A9A9>不要再胡思乱想了……好好完成任务才是最重要的！</color>+您好，会展中心正在举办家具展，全是三战前的高级定制家具！+材质优良，工艺精湛，曾经价格高昂，但现在全部都按低价出售！
-MG34(2)<Speaker>MG34</Speaker>||:您好，高级定制家具正在会展中心以非常划算的价格出售！+每一件都是孤品，买到就是赚到！
-MG34(2)<Speaker>MG34</Speaker>||:您好，最近有选购家具的打算吗……
-()<Speaker>路人A</Speaker>||:什么家具展？
-()<Speaker>路人B</Speaker>||:三战前的高级定制家具！
-()<Speaker>路人C</Speaker>||:这旗袍好别致……
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>喂喂喂，路人全被吸引到她那边去了！</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>这就很过分了吧！穿得少就可以为所欲为了吗？！</color>
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:伤脑筋呢……
-()||:不知不觉间，路人们已经层层叠叠地将MG34裹在了中心。
-MG34(2)<Speaker>MG34</Speaker>||:您好，请不要拥挤！+关于家具展的说明手册请扫描这里的二维码获取哦。+还有我不对外出售的……
-()||<BGM>BGM_Empty</BGM>:海茵和李西钻进了MG34身边的包围圈，企图争夺回部分路人的注意力。
-()<Speaker>海茵</Speaker>||<BGM>m_avg_tension</BGM>:<color=#FF69B4>无聊的家具展哪里比得上多变的香水有趣呢？！</color>+<color=#FF69B4>优雅的玫瑰作为前调，随后是海边咸——</color>
-()<Speaker>路人D</Speaker>||:不要把香水往人脸上喷啊！
-()<Speaker>里希</Speaker>||:<color=#7B68EE>忙碌于快节奏的生活，您是否也想过回到从前慢节奏的生活？</color>+<color=#7B68EE>不妨先从手写一封信件开始？</color>
-()<Speaker>路人E</Speaker>||:喂喂喂——你的笔尖距离我的眼球只有3厘米！！！
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>怎么回事？是想要抢走我吸引到的顾客吗？</color>+<color=#A9A9A9>不行！就算是人类，我也不会让她们得逞……</color>+<color=#A9A9A9>对了，用数字吸引顾客……</color>+我们家具展为了表示诚意，特意准备了大额的抵扣券！+数量有限，先到先得哟！
-()<Speaker>路人A</Speaker>||:抵扣券！！！我来了！！！
-()<Speaker>路人B</Speaker>||:走开啊！别跟我抢！
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>啧……香水小瓶分装免费赠送了！！！</color>
-()<Speaker>路人C</Speaker>||:请给我一份！
-()<Speaker>路人D</Speaker>||:给我一份，我就原谅你往我脸上喷的事！
-()<Speaker>里希</Speaker>||:<color=#7B68EE>你们……</color>+<color=#7B68EE>可恶，我也要使出大招了，免费代写信件名额现在开启预定了！</color>+<color=#7B68EE>不限字数不限主题！</color>
-()<Speaker>路人A</Speaker>||:……今天是什么日子？
-()<Speaker>路人B</Speaker>||:让开让开，我要先预约一个名额！
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>我是不会认输的！</color>+家具展五、五折券——
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>香水正装抽奖免、免费送了啊！</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>……代写信件服务年卡免费送！</color>
-()<Speaker>路人众</Speaker>||:哇哦——
-()||:围观的路人轰动起来，原本平缓的河流瞬间掀起了滔天巨浪。
-MG34(2)<Speaker>MG34</Speaker>||<震屏>:别、别挤啊！+啊啊啊——
-()||<黑屏1><BGM>BGM_Empty</BGM>:MG34被卷入搅成一锅乱粥的人群中，沉重的压力立刻从四面八方传来，MG34感觉自己快要窒息。
-MG34(2)<Speaker>MG34</Speaker>||<黑屏2><BIN>9</BIN>:<color=#A9A9A9>……促销战略使用过度造成的反噬吗？</color>+<color=#A9A9A9>难道任务要失败了……</color>+<color=#A9A9A9>MG42……</color>+<color=#A9A9A9>这样的我回到基地，该怎么面对你？</color>
-()||<黑屏1>:MG34摇了摇头，一边保护着自己免遭踩踏，一边奋力朝人群外挤去。+一只纤细却有力的手抓住了她，将她带离了这个巨大的旋涡。
-MG34(2)<Speaker>MG34</Speaker>||<BGM>GF_Memorial</BGM><黑屏2><BIN>86</BIN>:呼——呼——+42？谢谢你……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:不客气哦。
-()||:注意到这场混乱，没有固定摊位的游走推销人员立刻发起进攻，瓜分了兴奋不已的潜在市场。+疲惫不堪的MG34无暇顾及，她注意到几乎沦为废墟的摊位边还躺着同样狼狈的海茵和李西。
-MG34(2)<Speaker>MG34</Speaker>||:……
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>可恶，刚刚积累起来的顾客全被那些没有固定摊位的混蛋瓜分了……</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>今天的业绩也完了吗……</color>
-MG34(2)<Speaker>MG34</Speaker>||:为什么……我们不能合作共赢呢？+一定要弄得大家都输得这么难看吗……
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>明明是你先抢走了所有的顾客！</color>+<color=#FF69B4>还有，为什么你这么轻松就可以吸引到那么多顾客？</color>+<color=#FF69B4>明明你的宣传词毫无吸引力……</color>
-MG34(2)<Speaker>MG34</Speaker>||:我只是和你们一样努力工作而已，这是我应得的回报！
-()<Speaker>里希</Speaker>||:<color=#7B68EE>凑近了看才发现，你的皮肤根本没有毛孔，简直不像人类的皮肤。</color>+<color=#7B68EE>连五官也完全对称，完美得像是假人……</color>
-MG34(2)<Speaker>MG34</Speaker>||:……
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>你该不会……</color>+<color=#FF69B4>不是人类，而是人形吧？</color>
-MG34(2)<Speaker>MG34</Speaker>||:我努力工作和我究竟是人类还是人形又有什么关系呢？+难道人形就不应该获得劳动的成果了吗？
-()<Speaker>里希</Speaker>||:<color=#7B68EE>……</color>
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>这里不欢迎人形，如果你是人形的话，最好识相地滚出去。</color>
-MG34(2)<Speaker>MG34</Speaker>||:我……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:我说你们呀，咄咄逼人地搅乱了人家的摊位，还把人家吓得话都不会说了。+人形又怎样，人类又怎样，大家不都是出来做销售完成任务的吗？+再说了，人家摊位的手续可是合法合规的，不信你们自己看。+来，三丝，帮把手，我们去把摊位都恢复了。
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:好……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||<黑点2>:别怕，三丝，我不会害你的。
-MG34(2)<Speaker>MG34</Speaker>||:谢谢你，你又救了我……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:客气，可能是因为你的名字和我的姐姐很像吧。
-MG34(2)<Speaker>MG34</Speaker>||:你的名字也和我的妹妹很像……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:……想不到人形也会有姐妹的？+那你的妹妹是个什么样的孩子？
-MG34(2)<Speaker>MG34</Speaker>||:是个粘人的撒娇鬼……
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||:哈哈哈，我的姐姐也经常这样说我。+我们明明那么不同，却又那么相似……
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>……</color>+<color=#FF69B4>咳咳，那个，你的摊位已经重新撑起来了。</color>+<color=#FF69B4>对不起了，姐妹，刚刚对你说了那么难听的话……</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>嗯……抱歉……刚刚是我冲昏头了……</color>+<color=#7B68EE>都是为了完成指标，你也是搞销售的，能理解的对吧？</color>
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:……
-JS9mm(2)<Speaker>JS9</Speaker>||<黑点2><BIN>9</BIN><边框>2</边框>:迎宾组的工作就交给你了。
-MG42(0)<Speaker>MG42</Speaker>||<边框>2</边框>:……不过42姐说没问题的话，那就一定没有问题！
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||<边框>2</边框><黑点1>:我们明明那么不同，却又那么相似……
-MG34(2)<Speaker>MG34</Speaker>||<黑点2><BIN>166</BIN>:<color=#A9A9A9>虽然因为人类的恶性竞争，导致我工作的效率大打折扣。</color>+<color=#A9A9A9>不过人类和人形的共同点比我想象中的还要多啊……</color>+我理解，我们都是为了完成任务，为了不辜负自己的同伴……+所以，我们合作吧。
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>诶？</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>什么？</color>
-MG34(2)<Speaker>MG34</Speaker>||:我一直以来的工作方式是小队合作，每个人会担当适合自己的角色。+我们可以将各自的部分整合在一起成为一个新的商品，以组合拳的形式出击吸引顾客。+相当于集合四个人的力量为同一件事出力。+这样，我们在分散的推销人员中更加显眼，而且只要顾客来到了我们的摊位，这位顾客就会同时浏览到所有商品的信息，然后选择出自己感兴趣的。
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>听上去倒是可行……</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>那我们就试试吧？</color>+<color=#7B68EE>毕竟今天下午的高峰期已经快要结束了……</color>
-NPC-PasserbyF(0)<Speaker>丝儿</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:我们就这样做吧！
-()||<黑屏2><BGM>m_avg_casual</BGM>:在大家合力协助下，四个狭窄的宣传摊位被重新布置为一个崭新的摊位。+空气中散发着淡淡的香水味，桌上整齐罗列着纸笔和塔罗牌，顾客可以坐在MG34带来的躺椅上进行免费的每日占卜或者领取一张手写明信片。
-()<Speaker>海茵</Speaker>||:<color=#FF69B4>您好，如果您现在有空的话，可以来免费体验下我们的活动哦，喜欢我们香氛的味道的话……</color>
-()<Speaker>里希</Speaker>||:<color=#7B68EE>欢迎来到我们的小屋，可以免费体验一次占卜或者领取一张手写明信片哦……</color>
-()||:游走在路人之间的MG34回头确认她们的情况，就像在之前上百次任务中下意识确认队友的情况一样。
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>干劲满满的样子嘛！明明是人类，却跟我的队友一样……</color>+<color=#A9A9A9>那么，我也要加油了！</color>+您好，有兴趣参与我们的——
-()||<SE1>AVG_tele_connect</SE1>:通讯器响了起来。
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||:<color=#00CCFF>迎宾组的任务指标已经完成，可以回到家具展来了。</color>
-MG34(2)<Speaker>MG34</Speaker>||:……好，我马上归队。
-()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:挂断通讯后，MG34朝着热热闹闹的摊位望去，三名人类少女正忙得手脚并用，看来至少今天的业绩是不用发愁了。+MG34远远地挥了挥手。+丝儿像是察觉到了什么，抬头望去——+人群的背后却什么都没有。
-
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:...Outside the furniture expo.
+M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>I'm really sorry about this, MG34...</color>
+MG34(0)<Speaker>MG34</Speaker>||:Why are you apologizing? This wasn't your fault. +Besides, advertising a furniture exhibition is a pretty simple task; I could have handled it on my own in the first place.+Just focus on filming the ad for KXD.
+M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>Okay... If there's anything I can help you with...</color>+<color=#00CCFF>Make sure you let me know...</color>
+()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Will you really be alright, 34?</color>+<color=#00CCFF>Before you set out, your mission was just to purchase clothing for the New Year...</color>+<color=#00CCFF>But now the mission is completely different and someone's gone and borrowed your only squadmate too...</color>
+MG34(0)<Speaker>MG34</Speaker>||:A T-Doll is expected to be able to adjust her strategies according to changes in the mission. +Besides, promoting a furniture expo and drawing in crowds should be a pretty straightforward mission, right? +I'm sure I can handle it perfectly well even on my own.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Well, I've never gotten any sales missions before, so I'm not too certain.</color>+<color=#00CCFF>I'm just worried your new assignment is going to give you a hard time, 34...</color>+<color=#00CCFF>But if you say you'll be fine, then I have every faith in you! </color>
+MG34(0)<Speaker>MG34</Speaker>||:Yep, trust me. +Wait for my good news.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Kay~ Then I'd better work hard and finish up my maintenance duties!</color>
+()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
+MG34(0)<Speaker>MG34</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Now then, I ought to get changed and commence my mission...
+()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:...On a busy street.
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:<color=#A9A9A9>Come to think of it, this is the first mission where I'll be interacting with humans on my own...</color>+<color=#A9A9A9>Still...it shouldn't be too different from talking to anyone else, right? After all, I'm just promoting a furniture expo... </color>+<color=#A9A9A9>As long as I avoid conflicts and finish the job, it should be fine.</color>+<color=#A9A9A9>Now, as for my strategy... For us Dolls, furniture mainly serves as fixtures and tools that improve our daily joy and comfort. </color>+<color=#A9A9A9>For humans...</color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||<回忆><黑点2><BIN>18</BIN><黑点1>:This furniture was just imported by Griffin! It's both high-quality and economical.+It won't cost you 99999 gems, or 9999 gems, but only 998 gems for the first week!+For a mere 998 gems, you can take all these pieces of furniture home!
+NPC-Kalin(5)<Speaker>Kalina</Speaker>||<黑点2><BIN>89</BIN>:Good heavens, who chewed up my 29998-gem storage shelf like this?!
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||<黑点1>:Was it you? Or was it YOU?!
+NPC-Kalin(7)<Speaker>Kalina</Speaker>||<黑点2><BIN>139</BIN><黑点1>:This table is made of pure teak. It's both safe and sturdy! Just look at the gleam on its surface and smell the faint fragrance of the wood...+You'd expect nothing less from a piece of furniture that once fetched astounding prices at an auction, a true national treasure...
+MG34(2)<Speaker>MG34</Speaker>||<关闭蒙版><BIN>86</BIN><黑点2>:<color=#A9A9A9>I see, so I need to emphasize the price tag and attract humans by highlighting the value of the furniture.</color>+<color=#A9A9A9>Alright, I've decided my advertising strategy. Granted, I haven't exactly fleshed out the angle I'll use, but it's a step in the right direction!</color>+<color=#A9A9A9>Onward to the objective!</color>
+()||<黑点1>:MG34 straightens up and squeezes her way into the bustling crowd.
+MG34(2)<Speaker>MG34</Speaker>||<BIN>166</BIN><黑点2>:<color=#A9A9A9>Well, this is a busy city center for you, both the density of the crowds and the high flow of traffic make it ideal for advertising.</color>+<color=#A9A9A9>There are lots of other salespeople walking through the crowd and advertising their wares, but surely a fixed position would be more effective, right?</color>+<color=#A9A9A9>Good thing Miss Kalina helped me book an promotional stall ahead of time...</color>
+()||:MG34 follows the flow of the crowd and soon discovers several promotional stalls lined up in a row, with several young human women passionately trying to sell the crowd on their wares.
+()<Speaker>Salesperson A</Speaker>||:<color=#FF69B4>Hello, have you ever smelled fresh roses blended with dried marine soil and just a hint of aloe vera extract?</color>+<color=#FF69B4>You haven't, right? Then why not try our company's latest perfume...</color>
+()<Speaker>Salesperson B</Speaker>||:<color=#7B68EE>How long has it been since you last wrote something by hand?</color>+<color=#7B68EE>The increasing pace of life has led to us relying on electronic touch-typing. Have you considered...</color>
+()<Speaker>Salesperson C</Speaker>||:Madam, do you believe in destiny...
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>...Wow, is the competition so fierce? It seems that advertising might not be so easy even at a prime spot like this.</color>+<color=#A9A9A9>But I need to find a way to overcome this difficulty. Everyone's counting on me to draw customers to the furniture expo, and MG42's waiting for me too...</color>+Sorry, excuse me, this stall is mine.
+()||:Amidst a sea of hostile and competitive glares, MG34 begins setting up her stall.
+()<Speaker>Salesperson A</Speaker>||:<color=#FF69B4>Hey, what are you selling?</color>
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>A human is initiating a conversation with me! I should respond in a polite and friendly manner...</color>+Hi, I'm promoting a furniture expo. We're selling high-end custom-made furniture left over from before WWIII...
+()<Speaker>Salesperson B</Speaker>||:<color=#7B68EE>Oh, so you actually came all the way here to sell high-end furniture?</color>
+MG34(2)<Speaker>MG34</Speaker>||:They aren't luxury items; all the furniture is on sale for perfectly reasonable prices...
+()<Speaker>Salesperson A</Speaker>||:<color=#FF69B4>Reasonable prices? What's your definition of a reasonable price, then?</color>+<color=#FF69B4>To penniless paupers, even 10 dollars is a luxury.</color>+<color=#FF69B4>And to wealthy people, perhaps even a million wouldn't be a big deal.</color>
+MG34(2)<Speaker>MG34</Speaker>||:Well... I...
+NPC-PasserbyF(0)<Speaker>Salesperson C</Speaker>||:Honestly, why do you all like bullying newbies so much? +We're all selling different products, it's not like we're competing with each other or anything.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>Whew...she saved me...</color>
+()<Speaker>Salesperson B</Speaker>||:<color=#7B68EE>All you know how to do is appease others and sit on the fence. Don't forget that there are only so many people that the stalls here can attract.</color>+<color=#7B68EE>Every additional person here lowers the chances that we can successfully make a sale. </color>+<color=#7B68EE>We might be advertising completely different things, but the fact is that we're still competing with each other!</color>
+()<Speaker>Salesperson A</Speaker>||:<color=#FF69B4>Precisely. That's how it is.</color>+<color=#FF69B4>So let's stop wasting time on idle banter and do our jobs.</color>
+MG34(2)<Speaker>MG34</Speaker>||:Ah...in that case, would it be better if we worked together?
+NPC-PasserbyF(0)<Speaker>Salesperson C</Speaker>||:They've only just calmed down, don't go riling them up again. +Just advertise your furniture exhibition.
+MG34(2)<Speaker>MG34</Speaker>||:Alright...thank you, ma'am...
+NPC-PasserbyF(0)<Speaker>Salesperson C</Speaker>||:Haha, no need to be so formal, just call me Fortitude.
+MG34(2)<Speaker>MG34</Speaker>||:Four...forty-two?
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Yes, and what's your name?
+MG34(2)<Speaker>MG34</Speaker>||:I'm Thirty-four...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Dufort? Our names could practically make us twins! +Those two annoying girls over there are Heine and Rishi.
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Don't go around telling my name to suspicious people. </color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Exactly.</color>
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Fine fine fine, let's get to work.
+MG34(2)<Speaker>MG34</Speaker>||:Okay!+<color=#A9A9A9>I'm not going to give up either...</color>
+()||:MG34 hasn't had much experience interacting with humans before, but now she is working alongside three human girls. As she watches the humans hard at work, a strange sense of camaraderie arises in her neural cloud.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>Humans and Dolls are very different, both in internal structure and their ways of life...</color>+<color=#A9A9A9>But why am I getting the impression that I'm on a mission with my friends?</color>+<color=#A9A9A9>Ugh, I'd better stop letting my imagination run wild... The most important thing is to complete my assignment! </color>+Greetings, we're holding a furniture expo at the convention center, they're all high-end pre-war bespoke pieces! +Their quality is excellent, their workmanship is impeccable, and they once went at a high price but now they're going for a song!
+MG34(2)<Speaker>MG34</Speaker>||:Hello, we're currently selling high-end custom-made furniture at the convention center at extremely affordable prices! +Each item is one of a kind, they're a steal!
+MG34(2)<Speaker>MG34</Speaker>||:Hi, have you thought about buying furniture recently...
+()<Speaker>Passerby A</Speaker>||:What furniture show?
+()<Speaker>Passerby B</Speaker>||:Pre-war high-end custom-made furniture!
+()<Speaker>Passerby C</Speaker>||:That qipao looks so exquisite...
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Hey hey hey, she's drawing all the passers-by over to herself!</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>That's too much! Does she think she can have her way around here just because she's skimpily dressed?!</color>
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:What a headache...
+()||:At some point, the passersby have all gathered around MG34.
+MG34(2)<Speaker>MG34</Speaker>||:Hi! There's no need to push! +Please scan this QR code for more information on the furniture expo. +Also, I'm not for sale...
+()||<BGM>BGM_Empty</BGM>:Heine and Rishi force their way into the throng surrounding MG34, trying to take back part of the crowd's attention.
+()<Speaker>Hein</Speaker>||<BGM>m_avg_tension</BGM>:<color=#FF69B4>How could a boring old furniture show be more interesting than perfume?!</color>+<color=#FF69B4>It's elegantly pre-scented with roses and accented with seaside—</color>
+()<Speaker>Passerby D</Speaker>||:Don't spray your perfume in people's faces!
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Are you tired of living your life in all this hustle and bustle? Have you ever wanted to return to the relaxed pace of the bygone days</color>+<color=#7B68EE>Why not start by writing a letter by hand?</color>
+()<Speaker>Passerby E</Speaker>||:Hey, hey, hey! The tip of your pen is just 3 centimeters away from my eyeball!!!
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>What's going on? Are they trying to pull away the customers I've attracted?</color>+<color=#A9A9A9>I can't let that happen! Even if they're humans, I won't let them get their way...</color>+<color=#A9A9A9>That's right, I need to attract them with figures...</color>+In order to show our sincerity, our exposition has prepared generous discount coupons for you! +Supplies are limited, first come, first served!
+()<Speaker>Passerby A</Speaker>||:Discount coupons!!! Here I come!!!
+()<Speaker>Passerby B</Speaker>||:Back off! I'll fight you if I have to!
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Tsk... We're giving away free samples of perfume!!!</color>
+()<Speaker>Passerby C</Speaker>||:Please give me one!
+()<Speaker>Passerby D</Speaker>||:Give me one and I'll forgive you for spraying it into my face!
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Why you... </color>+<color=#7B68EE>Dammit, time for me to play my trump card! Now taking names for free letter writing!</color>+<color=#7B68EE>There's no limit on content or word count</color>
+()<Speaker>Passerby A</Speaker>||:...What day is it today?
+()<Speaker>Passerby B</Speaker>||:Out of my way! I'm going to put my name on that list!
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>I won't lose!</color>+C-coupons that will give you a half-price discount at the furniture expo—
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Now giving away free lucky draws for full-sized perfume!</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>...Sign up with our letter-writing service and get free New Year cards!</color>
+()<Speaker>Pedestrians</Speaker>||:Wow—
+()||:The surrounding crowd begins to surge, and what had been a calm stream suddenly erupts into a massive tsunami.
+MG34(2)<Speaker>MG34</Speaker>||<震屏>:D-don't push! +Aaaahhh—
+()||<黑屏1><BGM>BGM_Empty</BGM>:MG34 is drawn into the whirlpool of pedestrians and is squeezed from all sides. She feels as if she's going to suffocate.
+MG34(2)<Speaker>MG34</Speaker>||<黑屏2><BIN>9</BIN>:<color=#A9A9A9>...Did I go too far with my sales tactics? Did they backfire on me?</color>+<color=#A9A9A9>Is the mission going to fail...?</color>+<color=#A9A9A9>MG42...</color>+<color=#A9A9A9>If I go back to the base like this, how will I ever face you...</color>
+()||<黑屏1>:MG34 shakes her head, trying to keep herself from being stepped on as she forces her way out of the crowd.+A slender yet strong hand grabs her and draws her out of the massive vortex.
+MG34(2)<Speaker>MG34</Speaker>||<BGM>GF_Memorial</BGM><黑屏2><BIN>86</BIN>:(Pants) +Forty-two, is that you? Thank you...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:You're welcome.
+()||:As they notice the commotion, the roaming salespeople without fixed stalls immediately go on the offensive, dividing up the excited crowd among themselves.+Utterly fatigued, MG34 can't spare the effort to worry about them. Instead, she notices Heine and Rishi. They look completely disheveled as they lie sprawled in the ruins of their stalls.
+MG34(2)<Speaker>MG34</Speaker>||:...
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Dammit, all the customers we gathered were taken away by those stall-less bastards...</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>So much for today's quota...</color>
+MG34(2)<Speaker>MG34</Speaker>||:Why...why can't we work together and make it a win-win situation for all of us? +Must we all return in undignified defeat?
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>You were the one who started stealing all our customers!</color>+<color=#FF69B4>Also, how did you attract so many of them so easily?</color>+<color=#FF69B4>Your pitch wasn't convincing at all...</color>
+MG34(2)<Speaker>MG34</Speaker>||:I just worked hard like you did! It's what I deserved!
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>I only realized now that I'm looking at you from up close, but there aren't any pores on your skin. That doesn't look natural at all.</color>+<color=#7B68EE>Your features are all symmetrical, like a mannequin's...</color>
+MG34(2)<Speaker>MG34</Speaker>||:...
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Don't tell me...</color>+<color=#FF69B4>You're not human, but a Doll?</color>
+MG34(2)<Speaker>MG34</Speaker>||:What difference does it make if I'm not human? I worked hard all the same. +Does being a Doll mean I don't deserve the fruits of my labor?
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>...</color>
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Dolls aren't welcome here. If you're a Doll, you'd better get the hell out.</color>
+MG34(2)<Speaker>MG34</Speaker>||:I...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Honestly, you lot. You went around messing up her stall, and now you've scared her speechless. +So what if she's a Doll or a human? Aren't we all here to do our jobs and make sales? +Besides, she got that stall legally, you can check her paperwork if you don't believe her. +Come, Dufort, give me a hand. We'll go fix up our stalls.
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:Okay...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||<黑点2>:Don't be afraid. I won't hurt you.
+MG34(2)<Speaker>MG34</Speaker>||:Thank you, you saved me again...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Don't mention it. I suppose I have a soft spot for you because your name reminds me of my elder sister.
+MG34(2)<Speaker>MG34</Speaker>||:Your name also sounds a lot like my little sister's...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:...Do Dolls also have siblings? +What's your little sister like?
+MG34(2)<Speaker>MG34</Speaker>||:She's clingy and acts spoiled all the time...
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||:Hahaha, that's what my sister always says about me. +We're clearly so different, yet so similar as well...
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>...</color>+<color=#FF69B4>(coughs) Ahem, uh, your stall's back up again.</color>+<color=#FF69B4>Sorry for being so rude to you...</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Um...sorry... I let my feelings get the better of me...</color>+<color=#7B68EE>I mean, we're all just desperate to hit our quotas. You're in sales, so you know how it is, right?</color>
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:...
+JS9mm(2)<Speaker>JS9</Speaker>||<黑点2><BIN>9</BIN><边框>2</边框>:I'll let you handle the reception team.
+MG42(0)<Speaker>MG42</Speaker>||<边框>2</边框>:...But if 34 says she's fine, then she'll definitely be fine!
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||<边框>2</边框><黑点1>:We're clearly so different, yet we're also so similar...
+MG34(2)<Speaker>MG34</Speaker>||<黑点2><BIN>166</BIN>:<color=#A9A9A9>Although malicious competition initiated by humans has greatly reduced my work efficiency... </color>+<color=#A9A9A9>Humans and Dolls have a lot more in common than I expected...</color>+I understand now - we're all doing this to finish our jobs so that we don't let our friends down... +In that case, let's work together.
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Huh?</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>What? </color>
+MG34(2)<Speaker>MG34</Speaker>||:I've always worked in a team where each of us has our own role.+We can combine parts of our products to create a brand new one, and attract the customers in a coordinated fashion.+It would be like combining the power of all four of us. +That way, we'll stand out more than the wandering salespeople, and if anyone comes to our stall, they'll see information about all our products at once. At that point, they can make their choice depending on what interests them.
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>That sounds like it could work...</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Shall we give it a try, then?</color>+<color=#7B68EE>After all, the afternoon peak hours are almost over...</color>
+NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Let's do it!
+()||<黑屏2><BGM>m_avg_casual</BGM>:With all of them working together, the four narrow advertising stalls are rearranged into a brand new stall.+The air is filled with the faint scent of fragrance, the tables are filled with neat rows of stationery and tarot cards, and with the chairs which MG34 has brought over, customers can sit for a free tarot reading or wait comfortably while a postcard is being written for them by hand.
+()<Speaker>Hein</Speaker>||:<color=#FF69B4>Hi, if you can spare the time, you can try our sample for free, and if you like our perfume...</color>
+()<Speaker>Rishi</Speaker>||:<color=#7B68EE>Welcome to our stall. You can get a free tarot reading or a hand-written postcard...</color>
+()||:MG34, who's walking among the pedestrians, looks back to check on them, not unlike the way she always reflexively makes sure her teammates are safe on the battlefield.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>They're all on fire! They might be human, but they're like my squadmates...</color>+<color=#A9A9A9>Then I'll have to do my best too!</color>+Hello, are you interested in taking part in our—
+()||<SE1>AVG_tele_connect</SE1>:Her communicator comes to life.
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>||:<color=#00CCFF>The reception team's mission is complete, you can now return to the venue.</color>
+MG34(2)<Speaker>MG34</Speaker>||:...Alright, I'm on my way.
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:After hanging up, MG34 looks over to the busy stall. The three human girls have their hands full with the incoming customers. At the very least, they won't have to worry about the day's quota.+MG34 waves to them from a distance.+Fortitude seems to sense something and looks up—+But there's nobody beyond the crowds.

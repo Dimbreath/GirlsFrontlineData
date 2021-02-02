@@ -2,7 +2,7 @@
 BossCerberus(0)<Speaker>Destroyer</Speaker>||<SE2>Gunfight</SE2>:UMP45... +It didn't really have anything to do with you, but I'm back from hell!
 G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Damn, this huge dog runs fast for its size!
 HK416(3)<Speaker>416</Speaker><通讯框>||:45, I've grouped up with Gr G11. We're now heading towards the rendezvous point as fast we can! +How is it on your end?
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(3)||<SE2>Gunfight</SE2>:9 is making for the rendezvous point as well. I'm directing the echelons. Not in any danger for now. +I'm consulting Zeele regarding a plan of retreat. Hurry up but make sure you steer clear of Destroyer!
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(3)||<SE2>Gunfight</SE2>:9 is making for the rendezvous point as well. I'm directing the echelons. Not in any danger for now. +I'm consulting Sier regarding a plan of retreat. Hurry up but make sure you steer clear of Destroyer!
 UMP45(2);UMP9(4)<Speaker>UMP9</Speaker><通讯框>||<SE1>Battlefield</SE1>:I'm sorry, 45, but...that's proving rather difficult... +There's more than one big dog!
 UMP45(2)<Speaker>UMP45</Speaker>;UMP9(4)||:...!
 UMP45(2);UMP9(4)<Speaker>UMP9</Speaker>||:Four have appeared on the map at the same time! + I'm afraid they're coming for all of us!
@@ -29,16 +29,16 @@ UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:I told you. I'm not playing the bait 
 UMP9(2)<Speaker>UMP9</Speaker>||<黑屏1>:Understood... I trust your judgment. But I'm coming back for you after we have the drone!
 ()||<黑屏2>:UMP9 takes her leave.
 UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:I'm counting you, 9... +Now then, time to get busy...
-UMP9(4)<Speaker>UMP9</Speaker>||<BIN>5</BIN><Night><黑屏2>:Zeele! Zeele!
-UMP9(4);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Miss UMP9, I am aware of the situation. I have already started tracing the Sangvis signal.
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>5</BIN><Night><黑屏2>:Sier! Sier!
+UMP9(4);NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:Miss UMP9, I am aware of the situation. I have already started tracing the Sangvis signal.
 UMP9(4)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:And?!
-UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker><通讯框>||:UMP45's neural cloud is experiencing an abnormal amount of traffic. These ports should've been encrypted and sealed.
+UMP9(4);NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:UMP45's neural cloud is experiencing an abnormal amount of traffic. These ports should've been encrypted and sealed.
 UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:I don't understand all this techno-babble! Get to the point!
-UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker>||:I suspect...that some Sangvis virus is rewriting her authorization!
+UMP9(4);NPC-Deele(0)<Speaker>Dier</Speaker>||:I suspect...that some Sangvis virus is rewriting her authorization!
 UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:What? Virus?!
-UMP9(4);NPC-Deele(0)<Speaker>Deele</Speaker>||:Yes, I can't determine what virus it is yet, but the hack isn't too severe at the moment. +45 has already forcibly shut down the ports that the traffic was coming through, but some of the dataflow cannot be cut off due to their high authorization. +Hey, wait... +She just severed her connection with us!
+UMP9(4);NPC-Deele(0)<Speaker>Dier</Speaker>||:Yes, I can't determine what virus it is yet, but the hack isn't too severe at the moment. +45 has already forcibly shut down the ports that the traffic was coming through, but some of the dataflow cannot be cut off due to their high authorization. +Hey, wait... +She just severed her connection with us!
 UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:I can't see her signal either... +Do you think she's doing this to keep us safe from the virus...?
-UMP9(4);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:45 has only been forcibly connected to the Sangvis system, so the virus wouldn't have spread to you yet. +She must have another reason for doing this. I think we should trust her judgment.
+UMP9(4);NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:45 has only been forcibly connected to the Sangvis system, so the virus wouldn't have spread to you yet. +She must have another reason for doing this. I think we should trust her judgment.
 UMP9(4)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:Ja... We still have a mission to complete. I must have faith in 45.
 UMP9(4)<Speaker></Speaker>||:...Click.
 UMP9(4)<Speaker>UMP9</Speaker>||:416, you still there?!

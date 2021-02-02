@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1>:...+The cold wind and snow cannot freeze the blazing remains of the helicopter wreckage, but the battle at the UN Plaza has come to an end.
 HK416(7)<Speaker>Fang</Speaker>||<黑屏2><BIN>288</BIN>:Ugh—! +It shouldn't... It shouldn't be like this!
-Vector(7)<Speaker>Vector</Speaker>||:Is this...my salvation?
+Vector(7)<Speaker>Hellfire</Speaker>||:Is this...my salvation?
 HK416Mod(0)<Speaker>416</Speaker>||:Whew... Those guys were tough. +Still, it's over now.
 Vector(0)<Speaker>Vector</Speaker>||:R93, K5, PP-90...
 ()||<BGM>m_avg_casual</BGM>:With "416" and "Vector" collapsed on the ground, the last of the enemy have been wiped out. Their opponents allow themselves to relax at last.+They are about to exchange looks of mutual approval amidst the firelight when "Dier" ruins the mood.
@@ -60,7 +60,7 @@ NPC-Deele(0)<Speaker>Dier</Speaker>||<SE1>AVG_whitenoise</SE1>:Oh crap crap crap
 ()||<SE1>Stop_AVG_loop</SE1>:Upon realizing something is wrong, Dier reaches out to cut the backup power, but a voice that sounds like 416 is talking through the VR helmet—
 ()<Speaker>Agent 416</Speaker>||:The data flow...is in disarray? Could this be some kind of virus attack?! +No, this feels...
 NPC-Deele(0)<Speaker>Dier</Speaker>||:Wait a minute, what's wrong with you, 416?
-()<Speaker>Agent 416</Speaker>||<SE1>AVG_whitenoise</SE1>:A cold winter day...an abandoned city and an armed unit...+Who...who am I?+Am I...part of the Last Man Battalion?
+()<Speaker>Agent 416</Speaker>||<SE1>AVG_whitenoise</SE1>:It was a cold winter day...an abandoned city and an armed unit...+Who...who am I?+Am I...part of the Last Man Battalion?
 NPC-Deele(0)<Speaker>Dier</Speaker>||<SE1>Stop_AVG_loop</SE1>:The Last Man Battalion? D-don't tell me 416's neural cloud has merged with the game data?+Oh no, I need to hurry and...ahhhh—!
 ()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:A terrifying notion dawns on Dier, but he is powerless to stop anything from happening—+As a sudden electrical current sweeps away his consciousness, everything is calm again...
 NPC-Dima(0)<Speaker>Dier</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_tension</BGM><关闭蒙版><黑屏2><BIN>288</BIN>:So in the end, the terminal activated safe mode, I couldn't log off normally, and I got stuck in the game.+From past experience, if I tried to forcibly break the connection, I'd end up losing years of game files!+And the worst part is, the neural cloud data I entered into the game was rewritten for some reason.+As you can see, 416 became "Fang" from the Last Man Battalion.+She was the main reason why safe mode kept running. In order to turn off safe mode, I'd have to beat the game and lure her out to defeat her, but...trying to beat the game by myself was way too hard!+A couple of days ago, I found a way to send a message to the outside world and got two Dolls to help me out while I pretended to be an NPC to guide them, but Fang, who had inherited 416's combat data, was way too strong, and they just weren't enough...
@@ -92,7 +92,7 @@ NPC-Kalin(2)<Speaker>Kalina</Speaker>||:...
 ()<Speaker>Unhappy Doll D</Speaker>||:...Heh.
 ()<Speaker>Commander</Speaker>||<黑屏1>:<color=#A9A9A9>While I don't know who you are... I believe you have lost something very precious, Mr. Dier.</color>
 ()||<黑屏2><BIN>70</BIN>:... +Inside 404's lair.
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:Holy, seriously?! So it was actually Dier?!
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:Holy crap, seriously?! So it was actually Dier?!
 G11(0)<Speaker>Gr G11</Speaker>||:(Groans) Seriously, it's kind of gross.
 ()||<SE1>AVG_Door_Hit</SE1>:Pomf!
 UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:Huh? 45! Where are you going in such a hurry? +Hey! 45! Don't just take the folding chair! Your gun! Your gun's here!
@@ -104,7 +104,7 @@ NPC-Dima(0)<Speaker>Dier</Speaker>||:I just started playing the game because I l
 HK416Mod(0)<Speaker>416</Speaker>||:...
 ()||:416 looks back and sees Vector, who's as stunned as she is. She takes a deep breath before pressing her gun muzzle into Dier's forehead and driving him backward until he's pressed against the chain link fence.
 NPC-Dima(0)<Speaker>Dier</Speaker>||:W-wait! Please give me a chance!
-HK416Mod(0)<Speaker>416</Speaker>||:My patience has run out.
+HK416Mod(0)<Speaker>416</Speaker>||:My patience has run dry!
 NPC-Dima(2)<Speaker>Dier</Speaker>||:Wait, wait, I know! I'll give you a big discount on your repairs next time! This is premium treatment that no other Doll gets to enjoy!
 HK416Mod(0)<Speaker>416</Speaker>||:...
 NPC-Dima(3)<Speaker>Dier</Speaker>||:I'll give you a 2—no, 3—no, 10... Alright, a 70% discount!!

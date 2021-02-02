@@ -1,13 +1,13 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Sneak</BGM><BIN>302</BIN>:—Not long ago, a squad that had been hiding in the shadows since the beginning of the game stops following Squad Vector.<下雪></下雪>
-()<Speaker></Speaker>||:While they are stationery, they occasionally come under the NPC enemies' attacks, but three of the squad members make short work of them.+However, their leader remains motionless and gives her squadmates no indication on how to proceed. She merely studies the holographic map projected from her wristwatch with a delighted gleam in her eyes.
+()<Speaker></Speaker>||:While they are stationary, they occasionally come under the NPC enemies' attacks, but three of the squad members make short work of them.+However, their leader remains motionless and gives her squadmates no indication on how to proceed. She merely studies the holographic map projected from her wristwatch with a delighted gleam in her eyes.
 ()<Speaker></Speaker>||:—Until one of her squad members has finally had enough.
 HK416Mod(0)<Speaker>416</Speaker>||:Come on, don't you have a goal in mind, even if it's to win by killing off everyone else?
 HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:The objective is to win.+I explained that before we logged on.
-HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Explained? All you said was "Let's get our hands on that sum!" and that was it.+What about a concrete plan of action?
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Explained? All you said was "Let's go get paid!" and that was it.+What about a concrete plan of action?
 HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Aw, don't be in such a hurry, I'm sure 45 must be coming up with something.+If you're feeling bored, we can go trade shots with the surrounding NPCs~ Who knows, we might be able to pick up some ration cans or whatnot from them?
 HK416Mod(0)<Speaker>416</Speaker>;UMP9Mod(0)||:You don't win by picking up cans!
-HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:But isn't this nice, 416? At least we can get a good rest while we wait...
+HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:But isn't this nice, 416? At least we can enjoy a good rest while we wait...
 HK416Mod(0)<Speaker>416</Speaker>;G11(0)||<BGM>BGM_Empty</BGM>:...?!
 HK416Mod(0)<Speaker>416</Speaker>;G11(0)||<BGM>m_avg_casual</BGM>:Are you Gr G11?!
 HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:What are you talking about, of course it's me.
@@ -29,10 +29,10 @@ UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ahahaha, so the system displays your name?
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:......
 ()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Pink Nyan Nyan Punch has obtained Electronic Parts. +Pink Nyan Nyan Punch has obtained Electronic Parts. +Pink Nyan Nyan Punch has obtained Electronic Parts.
 UMP9Mod(0)<Speaker>UMP9</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Whoa, 416's fists are clenched so tight they're trembling.
-HK416Mod(0)<Speaker>416</Speaker><Shake>0.1</Shake>;UMP9Mod(0)||:Can the two of you act normal for just one bloody moment?!
-HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Aw, don't be so hung up on it. Actually, Gr G11's username is pretty good. +I mean, everyone goes around calling themselves "Terminator" or "Robocop", but I'm sure nobody can bear the shame of being killed by "Pink Nyan Nyan Punch."
+HK416Mod(0)<Speaker>416</Speaker><Shake>0.1</Shake>;UMP9Mod(0)||:Why can't the two of you just be normal for once?!
+HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Aw, don't be so hung up on it. Actually, Gr G11's username is pretty good. +I mean, everyone goes around calling themselves "Verminator" or "Lobocop", but I'm sure nobody can bear the shame of being killed by "Pink Nyan Nyan Punch."
 HK416Mod(0)<Speaker>416</Speaker>;UMP9Mod(0)||:Just having someone with that username around me is shameful enough, okay?!
-HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:You're still talking about that? I'm back with all the loot already.
+HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:You're still on about that? I got all the loot already.
 HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Yeah yeah, you ought to relax and be more true to yourself. After all, it's just a game, right?
 HK416Mod(0)<Speaker>416</Speaker>;UMP9Mod(0)||:You are the ones who brought it up again, aren't you?+Besides, you're basically rubbing it in my face!
 HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:It's okay if you can't appreciate my choice of username yet, but you'll understand its greatness once I kill an enemy.
@@ -42,7 +42,7 @@ HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:The envi
 HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:I only have a soda, does that work?
 HK416Mod(0)<Speaker>416</Speaker>||:Of course not!
 ()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. Risk of hypothermia is rising.
-HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Seriously, ever since we signed on, we've been woefully unprepared. +If you still have no idea what we should do next, at least let we look for some warm clothing to protect us against the cold?
+HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Seriously, ever since we logged on, we've been woefully unprepared. +If you still have no idea what we should do next, at least let us look for some warm clothing to protect us against the cold?
 HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:Actually, I HAVE been looking for clothes, but for some reason all the backpacks along the way were emptied out.
 HK416Mod(0)<Speaker>416</Speaker>;G11(0)||:...You're right, I would have noticed it earlier if you had actually found any clothes.
 HK416Mod(0);G11(0)<Speaker>Pink Nyan Nyan Punch</Speaker>||:Now who's bringing that topic up again?
@@ -50,7 +50,7 @@ HK416Mod(0)<Speaker>416</Speaker>;G11(0)||:Erk!+Forget it, I need to forget that
 HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Still, these low-temperature environments are really dangerous. It's only a game, but it sure brings back memories.+Fortunately we don't have huge cannons firing at us this time round.
 HK416Mod(0)<Speaker>416</Speaker>;UMP9Mod(0)||:Fortunate or not, it doesn't change the fact that we're about to freeze to death!+Since we don't have clothes to keep warm, we should at least find a place to make a fire.
 UMP9Mod(0)<Speaker>UMP9</Speaker>||:Aw, don't worry. What sort of game would freeze you to death right out of the gate...
-()<Speaker>System</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_ISAC_On</SE1>:X Pink Nyan Nyan Punch died of hypothermia.
+()<Speaker>System</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_ISAC_On</SE1>:Player "Pink Nyan Nyan Punch" died of hypothermia.
 HK416Mod(2)<Speaker>416</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...
 UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>m_avg_casual</BGM>:Whoa whoa whoa, how come Gr G11 died all of a sudden?!
 G11(9)<Speaker>Pink Nyan Nyan Punch</Speaker>;UMP9Mod(4)||:...
@@ -85,7 +85,7 @@ HK416Mod(0)<Speaker>416</Speaker>||:As ruthless as ever...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:—Inside the Griffin Ops Room.+The tactical display terminal shows a map of "The Division", and many dots within the Manhattan Quarantine Zone can be seen converging on the Dark Zone.
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Don't tell me...these are all "players"?
-NPC-Kalin(2)<Speaker>Commander</Speaker>||:To be precise, they're our other Dolls.+Looks like that message on Griff-chan spread far and wide.
+NPC-Kalin(2)<Speaker>Commander</Speaker>||:To be precise, they're our other Dolls.+Looks like that message on Grifchan spread far and wide.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Is everyone aiming for the prize money too...?+No, we can't give in even if they're our own people.+Do your best, Vector!
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:I don't think they can hear you. After all, there's no way for players in the game to communicate with the outside world.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Comms are completely cut off?!+Argh, I can't believe we're reduced to watching helplessly while such an important battle is taking place. I'm so nervous!
@@ -118,7 +118,7 @@ NPC-Kalin(0)<Speaker>Dolls</Speaker>||:Ahhhhhh!
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:...
 格琳娜()<Speaker>Kalina</Speaker>||:Oh, are you going to join us too, Commander? +Come come come, this is the once in a lifetime, Griffin-only winner-takes-all betting pool for "The Division"!
-指挥官()<Speaker>Commander</Speaker>||:So this was the idea that struck you a moment ago...?
+指挥官()<Speaker>Commander</Speaker>||:So this was your eureka moment just now...?
 格琳娜()<Speaker>Kalina</Speaker>||:(Teehee, I won't let such an opportunity slip by.)+Come, come, step right up, step right up! Don't be afraid! Support your favorites with everything you have!
 人形A()<Speaker>Doll A</Speaker>||:I-I want to bet on Squad Vivi!
 人形B()<Speaker>Doll B</Speaker>||:Our friends are taking part, so I'm betting on them!

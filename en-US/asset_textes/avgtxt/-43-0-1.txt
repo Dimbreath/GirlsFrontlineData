@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN>:...
 ()<Speaker></Speaker>||:—Manhattan, USA.
-()<Speaker></Speaker>||<黑屏1>:After the crisis erupted, this isolated city on the verge of collapse has been engulfed by storms and the darkness of night...
+()<Speaker></Speaker>||<黑屏1>:After the crisis erupted, this isolated city on the verge of collapse was engulfed by storms and the darkness of night...
 ()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:......<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:The sounds of gunfire and the glint of bullets cut through the wind and snow.+The chaotic air currents churn the snowflakes into a whirling vortex which then slowly settles back down onto the icy-cold concrete roadblocks.+The silhouettes of two girls vault over a roadblock in rapid succession, then turn around to press their backs against the police car by the side of the road. One of them closes the half-opened driver-side door, and her form is reflected in the window's glass.
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:The sounds of gunfire and glint of bullets cut through the wind and snow.+The chaotic air currents churn the snowflakes into a whirling vortex which then slowly settle back down onto the icy-cold concrete roadblocks.+The silhouettes of two girls vault over a roadblock in rapid succession, then turn around to press their backs against the police car by the side of the road. One of them closes the half-opened driver-side door, and her form is reflected in the window's glass.
 RFB(0)<Speaker>Am RFB</Speaker>||<SE1>Select</SE1>:Hehehe, we're back here again.
 NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, looks like you're close to completing the mission. We'll meet at the rendezvous point as planned. Best of luck.</color>
 MDR(0)<Speaker>MDR</Speaker>||:I've heard those words so many times that I feel like they've worn a groove into my neural cloud.
@@ -45,14 +45,14 @@ NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color
 ()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:—4:36AM, in the Griffin dorms.
 RFB(0)<Speaker>Am RFB</Speaker>||<震屏3>:<size=55>Not agaaaaiiiiiiiiin—!</size>
 ()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:Am RFB wails in despair as she disconnects from Level II.+The response to this cry is an angry banging on the wall that connects to her neighbor's room.
-隔壁被吵醒的人形()<Speaker>Doll Who Got Woken Up</Speaker>||<SE1>AVG_doorknock_wood</SE1>:Oi! What the hell are you shouting about this late at night! Are the ELIDs attacking?!
+隔壁被吵醒的人形()<Speaker>A Doll Who Got Woken Up</Speaker>||<SE1>AVG_doorknock_wood</SE1>:Oi! What the hell are you shouting about this late at night! Playing ELID?!
 RFB(0)<Speaker>Am RFB</Speaker>||:Urgh...!
 ()<Speaker></Speaker>||:Knowing that she's inconvenienced the other Doll, Am RFB decides to just keep her mouth shut, but the voice of "that woman" scorning her for failing again resounds clearly in her mind.+Am RFB has always taken pride in her skills as a pro gamer, and the very thought of it pisses her off, but before she can reconnect to Level II, someone storms into her room with a huge scowl.
 MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>Let's play another game!</size>
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Huh? You're giving up already?
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Who would have thought The Division would be so hard.
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it's only natural for games to be a bit challenging. Otherwise, what would be the fun in playing them?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Fun?+In the first place, it was a very old game circulating on Griff-chan. I decided to go play it to unlock all the achievements because it seemed interesting, but instead we've been dying right before the mission finished, over and over again, from 9:30 PM to 4:30 AM.+I don't know if this is fun or not, but the lifespan of my parts is quickly running out!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Fun?+In the first place, it was a very old game circulating on Grifchan. I decided to go play it to unlock all the achievements because it seemed interesting, but instead we've been dying right before the mission finished, over and over again, from 9:30 PM to 4:30 AM.+I don't know if this is fun or not, but the lifespan of my parts is quickly running out!
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it's not like we've been on missions recently anyway, so what's wrong with killing some time?
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Have you heard that urban legend recently about a civilian Doll who had mobility issues because her parts got old and she ended up slipping and falling into a furnace ...
 RFB(0)<Speaker>Am RFB</Speaker><Shake>0.1</Shake>;MDR(0)||:<size=55>Aaaaaahhhhh! Ahh! Ahhh! Don't tell me about it!</size>
@@ -62,16 +62,16 @@ RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Play on Normal? What does that mean?
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, if it's difficult to play with just two people...+Then wouldn't it be easier if you had more people helping you?
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Can we really get that many people to help?
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Of course we can! This game supports up to 24 players at once!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:... +So you're saying you were just making the game harder for yourself?!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:... +So you're saying you were just making the game harder on purpose?!
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Ah, well, you can't really say that!+We were just starting out, so I wanted to test the waters...
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:(Sighs) So, how are you going to get another 22 players to join us?+I mean, we gamers aren't exactly numerous to begin with, and this is a pretty old game too. Even if we went and asked people, they might not be interested, you know?
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Oh, that's simple. We'll just have to offer them an incentive!
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What incentive?
-RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Didn't you say something about them browsing Griff-chan regularly? If you use "that", they'll be jumping at the chance to take part.
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Didn't you say something about them browsing Grifchan regularly? If you use "that", they'll be jumping at the chance to take part.
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What is "that", anyway?
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, to be precise, come a bit closer...+(Whisper whisper whisper)
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Hm...+Mhm...+Ohhhh! +That...that sounds really fun!
-RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hehe, all we need to do is post something like that on Griff-chan and the game will fill up in no time!
+RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hehe, all we need to do is post something like that on Grifchan and the game will fill up in no time!
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Plus, we'll get to show off our skills to those noobs. I'm kind of looking forward to it now, hahaha!
 RFB(0)<Speaker>Am RFB</Speaker>||:Well, it's only to be expected since we're pros, hahahaha!
 ()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:Bang! Bang bang!
@@ -79,7 +79,7 @@ RFB(0)<Speaker>Am RFB</Speaker>||:Well, it's only to be expected since we're pro
 ()<Speaker></Speaker>||:The two Dolls are swiftly silenced by the wrathful voice from next door, and they shush each other with index fingers held in front of their lips. However, they give each other a thumbs-up with their free hands...and so begins their plan.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...
-()<Speaker></Speaker>||:Late at night, a post shows up on Griff-chan...
+()<Speaker></Speaker>||:Late at night, a post shows up on Grifchan...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:—Griffin HQ.+It's morning, and the warm sunlight shines in through the skylight.+The corridors are still quiet. Groups of two or three people walk by every now and then, but when they pass by the Data Room, something seems to catch their attention. After stopping and watching for a while, they enter.
 ()<Speaker></Speaker>||:Inside the Data Room, a large group of Dolls have congregated outside the door of the innermost room.
@@ -111,7 +111,7 @@ K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well...we were m
 K5(0);R93(0)<Speaker>Commander</Speaker><Position>0,-100</Position>||:Kalina burned the midnight oil and she's resting now. I'd advise you not to disturb her for the time being.
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:I see. Well, that's a shame.
 K5(0)<Speaker>Commander</Speaker>;R93(0)<Position>0,-100</Position>||:What exactly happened? Can you tell me about it?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well, a friend just saw this on Griff-chan.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Well, a friend just saw this on Grifchan.
 ()<Speaker></Speaker>||:R93 seems ready to demonstrate and gestures for me to check my personal data terminal. It shows a connection request coming from R93 herself.+After clicking "accept", a message expands to fill the tablet's screen. There is a spiral-shaped logo on it.
 指挥官()<Speaker>Commander</Speaker>||:..."New major event — 'The Division' Survival Tournament"?+What's this, were you going to invite Kalina to play?
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Not really. The important part is the reward — the winner gets a prize of 10 million dollars! 10 million!
@@ -128,9 +128,9 @@ NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I'm perfectly fine!
 NPC-Kalin(0)<Speaker>Commander</Speaker>||:You look much better now, but you didn't sleep at all last night, so maybe you shouldn't take this kind of suspicious news so seriously.
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Wait a minute, Commander. Whether it's real or not, it's still 10 million dollars!+If we can get our hands on that prize money, all our financial woes will be solved!
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:Uh, maybe you should calm down a little.
-NPC-Kalin(8)<Speaker>Kalina</Speaker>||:How can I stay calm after hearing that? This is my ticket to not being known as "the financial black hole" among the adjutant set!
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:How can I stay calm after hearing that? This is my ticket to not being known as "the financial black hole" among the adjutant circle!
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:...Do base adjutants actually have their own social scene?
-NPC-Kalin(8)<Speaker>Kalina</Speaker>||:R93, this message was posted on Griff-chan, right?
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:R93, this message was posted on Grifchan, right?
 NPC-Kalin(8);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Huh? Y-yeah, but why?
 NPC-Kalin(8)<Speaker>Kalina</Speaker>;R93(0)<Position>0,-100</Position>||:Very good, then our mission for today will be to take part in this event and win 10 million dollars!
 NPC-Kalin(8)<Speaker>Commander</Speaker>;R93(0)<Position>0,-100</Position>||:Wait a minute, we're not on vacation today...
@@ -167,7 +167,7 @@ ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Intelligent S
 指挥官()<Speaker>Commander</Speaker>||:See, this is the tutorial for new players.
 NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Hehe, do we even need such a thing?
 ()<Speaker></Speaker>||:Kalina winks at me, a confident look on her face.
-指挥官()<Speaker>Commander</Speaker>||:Well, our objective is just recovering medicines, but we'll probably run into a lot of trouble on the way, so we'd best be careful.
+指挥官()<Speaker>Commander</Speaker>||:Well, our objective is just recovering medicine, but we'll probably run into a lot of trouble on the way, so we'd best be careful.
 NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Don't worry. I don't get a chance to do this very often, but now that I'm in the game, I ought to show my stuff!
 ()<Speaker></Speaker>||:And so the pair — who have entered the game as agents — chatter cheerfully as they walk down the streets.
 ()||<黑屏1>:
@@ -184,10 +184,10 @@ NPC-Kalin(12)<Speaker>Kalina</Speaker>||:Huh...?
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I take back what I just said...
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Dammit! I can't believe there were other players in the game besides us!
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:Well, the game's offering a prize of 10 million dollars. Obviously there'd be lots of people competing for it.
-NPC-Kalin(8)<Speaker>Kalina</Speaker>||:No, that's not the issue here. The point is - how is possible that the opposition could kill us all in an instant?!+It's like they're using p...what do they call those again? It's at the tip of my tongue—
+NPC-Kalin(8)<Speaker>Kalina</Speaker>||:No, that's not the issue here. The point is - how is it possible that the opposition could kill us all in an instant?!+This is just like, just like…what's the word again? It's at the tip of my tongue—
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:You mean... Someone was messing around?
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Yes, you're absolutely right!+That's got to be it!
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Actually, what if it's something else?+I mean, the event is publicized on Griff-chan, so it's possible that you were going up against...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Actually, what if it's something else?+I mean, the event is publicized on Grifchan, so it's possible that you were going up against...
 K5(0)<Speaker>K5</Speaker>||:Tactical Dolls... I think?
 K5(0)<Speaker>Commander</Speaker>||:That's actually quite likely.
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||:So Dolls can take part in this tournament too?
@@ -203,7 +203,7 @@ MDR(0)<Speaker>MDR</Speaker>||:Hahahahaha...
 ()<Speaker></Speaker>||<BIN>290</BIN>:...
 MDR()<Speaker>MDR</Speaker>||:Huh...?
 RFB()<Speaker>Am RFB</Speaker>||:<size=55>AHHHHHHHH!!!!</size>
-MDR()<Speaker>MDR</Speaker>||:W-what just happened?!
+MDR()<Speaker>MDR</Speaker>||:H-how come it's gone?!
 RFB()<Speaker>Am RFB</Speaker>||:Quick, reconnect, reconnect!
 MDR()<Speaker>MDR</Speaker>||:Ah, don't worry, the game's just started, so we should still have enough time!
 RFB()<Speaker>Am RFB</Speaker>||:But we'll lose our early-game progress... Hurry, hurry!

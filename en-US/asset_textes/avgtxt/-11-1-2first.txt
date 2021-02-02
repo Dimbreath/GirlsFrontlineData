@@ -13,29 +13,29 @@ BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:I've already activated the br
 BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||:I had to extract your neural consciousness and move your body to the local refit factory. It should be ready for assembly soon. +But now, I need to confirm our visitor's identity so the process will suffer a slight delay. Please help me lock on to the signal. +Next, I want you to make a broadcast for me as a test.
 BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||<黑屏1>:Tsk. Such a slave driver... Fine. I'll do as you say. +I'm cool as long as I can finish them with my own hands.
 ()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM><黑屏2>:Ten minutes after the search for an operation base concludes.
-UMP9(0)<Speaker>UMP9</Speaker>||:UMP9 hailing Zeele. I repeat, UMP9 hailing Zeele.
-UMP9(0);NPC-Seele(0)<Speaker>Zeele</Speaker><通讯框>||:Ah, 9. Anything to report?
+UMP9(0)<Speaker>UMP9</Speaker>||:UMP9 hailing Sier. I repeat, UMP9 hailing Sier.
+UMP9(0);NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:Ah, 9. Anything to report?
 UMP9(0)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:We've found a suitable base to launch our search. Our electronic warfare modules are fully functional. +We'll be starting our hunt for the drone soon. The others are setting things up.
-UMP9(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:That's great. Keep it up.
-UMP9(0)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:Heheh, Zeele is probably our only source of encouragement when we're on a mission. +By the way, I want to ask about something. Is Deele there?
-UMP9(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:One second. I'll fetch him. +Deele, come over here! +What game?! Can't you pause it?!
+UMP9(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:That's great. Keep it up.
+UMP9(0)<Speaker>UMP9</Speaker>;NPC-Seele(0)||:Heheh, Sier is probably our only source of encouragement when we're on a mission. +By the way, I want to ask about something. Is Dier there?
+UMP9(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:One second. I'll fetch him. +Dier come over here! +What game?! Can't you pause it?!
 UMP9(0);NPC-Seele(0)||:
 ()||:...
-UMP9(0);NPC-Deele(0)<Speaker>Deele</Speaker><通讯框>||:Tsk, jeez, what do you want? +Huh? Why the secure channel?
+UMP9(0);NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:Tsk, jeez, what do you want? +Huh? Why the secure channel?
 UMP9(0)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Just the tiny matter I asked you to look out for before.
-UMP9(0);NPC-Deele(0)<Speaker>Deele</Speaker>||:Ah, you mean the thing about UMP45?
+UMP9(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Ah, you mean the thing about UMP45?
 UMP9(0)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Ja, her 24-hour electroneuralography. It's been 24 hours now, hasn't it?
-UMP9(0);NPC-Deele(0)<Speaker>Deele</Speaker>||:Oh, the result is already out. Let me see... +Uh...
+UMP9(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Oh, the result is already out. Let me see... +Uh...
 UMP9(0)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:What is it?
-UMP9(0);NPC-Deele(0)<Speaker>Deele</Speaker>||:Emmmmm... +It looks alright, just a bit strange.
+UMP9(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Emmmmm... +It looks alright, just a bit strange.
 UMP9(2)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Hey, doesn't that mean it's NOT alright?!
-UMP9(2);NPC-Deele(0)<Speaker>Deele</Speaker>||:Well, every T-Doll has something strange about their neural cloud. +The dataflow in 45's cloud would spike at certain intervals but the surges always subsided instantly.
+UMP9(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Well, every T-Doll has something strange about their neural cloud. +The dataflow in 45's cloud would spike at certain intervals but the surges always subsided instantly.
 UMP9(2)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Spike? What's the cause?
-UMP9(2);NPC-Deele(0)<Speaker>Deele</Speaker>||:It's usually due to file transfer, cache dumping, or even watching video feeds. +These actions all result in an increase in dataflow, and the spikes in 45's cloud were still within normal parameters.
-UMP9(2)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:(Sighs) Deele, can I trust you?
-UMP9(2);NPC-Deele(0)<Speaker>Deele</Speaker>||:Don't worry. You may be outlawed T-Dolls, but this is still my job. +If even the slightest thing happens to you, it's gonna be on my head!
+UMP9(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:It's usually due to file transfer, cache dumping, or even watching video feeds. +These actions all result in an increase in dataflow, and the spikes in 45's cloud were still within normal parameters.
+UMP9(2)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:(Sighs) Dier, can I trust you?
+UMP9(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Don't worry. You may be outlawed T-Dolls, but this is still my job. +If even the slightest thing happens to you, it's gonna be on my head!
 UMP9(2)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Then I guess I'll just have to take your word for it... +Please keep an eye on 45's condition and make the safety of her neural cloud your priority. Can you do that?
-UMP9(2);NPC-Deele(0)<Speaker>Deele</Speaker>||:No problem, but only if it doesn't jeopardize your assignment.
+UMP9(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:No problem, but only if it doesn't jeopardize your assignment.
 UMP9(0)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Humph, of course. Then I'm leaving it to you.
 UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:9, have you finished your report?
 UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Ah, ja, just done with it. Is the prep work all sorted, 45?

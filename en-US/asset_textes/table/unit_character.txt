@@ -122,3 +122,53 @@ unit_character-10000910,Automated defense installation
 unit_character-20000910,This structure can attack autonomously
 unit_character-10000911,Failed Isomer
 unit_character-20000911,Failed Isomer
+unit_character-10000401,Shielded Advance
+unit_character-20000401,This unit uses a shield to decrease damage taken as he moves. The amount of damage negated equals the current damage this unit can do.
+unit_character-10000402,Accelerated Assault
+unit_character-20000402,This unit's attack speed increases with each normal attack that hits the target. The attack speed increase will be capped after 5 normal attacks.
+unit_character-10000403,Short-Range Fumigation
+unit_character-20000403,Throw an incendiary grenade at the closest enemy unit.
+unit_character-10000404,Flame Jet
+unit_character-20000404,This unit deals AoE damage using a special flamethrower. He moves to the closest enemy unit and blasts them with a flame jet. All units behind his target also take damage.
+unit_character-10000405,Moving Smash
+unit_character-20000405,This unit's first attack after coming to a stop deals extra damage.
+unit_character-10000406,Fragmentation Projectile
+unit_character-20000406,Throw a fragmentation grenade at a random enemy unit//c dealing damage to a 4-unit radius.
+unit_character-10000407,Prone Position
+unit_character-20000407,Stop moving and fire in the prone position after 3 seconds. When firing in this position//c target the enemy unit with the lowest HP//c and increase own accuracy and damage.
+unit_character-10000408,Hit Where It Hurts
+unit_character-20000408,Normal attacks have a chance of decreasing the target's damage and accuracy.
+unit_character-10000409,Range Increase
+unit_character-20000409,The attack range of this unit is increased by 3 when he comes to a stop.
+unit_character-10000410,Electric Projectile
+unit_character-20000410,Throw a flashbang at a random enemy unit//c decreasing the target's rate of fire and moving speed.
+unit_character-10000411,Incendiary Mortar
+unit_character-20000411,This unit sets up an incendiary mortar at certain time intervals. The mortar's normal attacks set the targeted area on fire.
+unit_character-10000412,Electric Mortar
+unit_character-20000412,This unit sets up an electric mortar at certain time intervals. The mortar's normal attacks stun the targets it hits.
+unit_character-10000413,Equipment Upgrade
+unit_character-20000413,This unit boosts all allies' rate of fire 5 seconds after the start of the battle.
+unit_character-10000414,Sticky Bomb
+unit_character-20000414,Throw a sticky bomb that attaches to the closest enemy unit. The sticky bomb explodes after a period of time//c dealing damage to the target and all units within a radius of 8.
+unit_character-10000415,Biotech
+unit_character-20000415,Regenerate the shield by an amount that is proportional to the unit's lost HP at certain intervals.
+unit_character-10000416,Incendiary Projectile
+unit_character-20000416,Throw an incendiary grenade at a random enemy unit.
+unit_character-10000417,Incinerator
+unit_character-20000417,This unit takes massive damage if his gas tank is destroyed. If his HP is lower than 30%//c he receives an extra damage boost.
+unit_character-10000418,Mobile Cover
+unit_character-20000418,This unit fights enemies using objects for cover//c which increase her evasion and accuracy. With every 30% HP lost//c this unit places an extra cover to absorb damage received.
+unit_character-10000419,Hellfire
+unit_character-20000419,When afflicted by negative status effects//c this unit immediate purges them and gains a shield.
+unit_character-10000420,Fang
+unit_character-20000420,This unit uses two different types of projectiles to weaken enemy units. Sticky bombs deal unavoidable damage to the nearest enemy unit while flashbangs decrease the damage and accuracy of units within the affected area.
+unit_character-10000421,Automatic Mortar
+unit_character-20000421,8 seconds after the start of the battle//c set up an automatic mortar every 10 seconds. All damage received by the mortar is fixed at 1.
+unit_character-10000422,Fracturing Threat
+unit_character-20000422,When HP is lower than 80%/50%/20%//c release a Cluster Seeker Mine that deals massive damage to flagged positions.
+unit_character-10000423,Strike Focus
+unit_character-20000423,Increase damage by 35% and accuracy by 100% for 5 seconds. Initial cooldown: 5 seconds. Skill cooldown: 8 seconds.
+unit_character-10000424,Shoot
+unit_character-20000424,Attacks from this unit can be avoided by taking cover behind objects.
+unit_character-10000425,Throw
+unit_character-20000425,Deal massive damage to flagged positions. Avoid with caution! Ammo is left behind where projectiles land. Make use of it and counterattack!

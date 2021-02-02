@@ -16,21 +16,21 @@ HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:I don't really care... Now that we've
 HK416(0)<Speaker>416</Speaker>;G11(0)||:This is just the beginning, isn't it, 45?
 UMP45(0)<Speaker>UMP45</Speaker>;G11(0)||:That was just a bit of experiment. Don't forget the real battle is still ahead. +Check up on your physical condition and supplies. We're setting off in twelve hours.
 UMP45(0);UMP9(2)<Speaker>UMP9</Speaker>||:...Are you okay, 45? Don't you need some rest?
-UMP45(0)<Speaker>UMP45</Speaker>;UMP9(2)||<黑屏1>:I'm fine. I've already adapted to the new module. I'll just charge myself for a while then get briefed by Zeele. +You all rest up. It's gonna be a busy night.
+UMP45(0)<Speaker>UMP45</Speaker>;UMP9(2)||<黑屏1>:I'm fine. I've already adapted to the new module. I'll just charge myself for a while then get briefed by Sier. +You all rest up. It's gonna be a busy night.
 ()||<BIN>9</BIN><黑屏1>:Twelve hours later.
 UMP45(0)<Speaker>UMP45</Speaker>||<BIN>70</BIN><黑屏2>:So this is the..."fairy" that Persica mentioned? +Doesn't look cute at all.
-UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:Well...it is just a drone when it's off. +But once it's activated, it'll project an interactive interface. THEN you'll understand what's so cute about it. Let's give that a try.
+UMP45(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:Well...it is just a drone when it's off. +But once it's activated, it'll project an interactive interface. THEN you'll understand what's so cute about it. Let's give that a try.
 UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:She sure loves her weird gadgets. +I suppose it's part of the objective of our mission to test this thing?
 搜救妖精()<Speaker>Rescue Fairy</Speaker>||:Ack, are you my commander?! +Whoa, you don't look friendly at all. In fact, I find you rather scary!
 UMP45(0)<Speaker>UMP45</Speaker>||:... +Hold on. This doesn't quite fit my idea of what a drone should be...
-NPC-Seele(0)<Speaker>Zeele</Speaker>||:Uh...haha... +I think this is the image the drone's AI has designed for itself. That's why Miss Persica calls them "Fairies". +This particular Tactical Fairy specializes in searching for signals. Persica has tweaked its program especially for this mission. It will automatically search for your target and direct you to its location.
+NPC-Seele(0)<Speaker>Sier</Speaker>||:Uh...haha... +I think this is the image the drone's AI has designed for itself. That's why Miss Persica calls them "Fairies". +This particular Tactical Fairy specializes in searching for signals. Persica has tweaked its program especially for this mission. It will automatically search for your target and direct you to its location.
 搜救妖精()<Speaker>Rescue Fairy</Speaker>||:Sure thing, sure thing! You can count on me!
 UMP45(0)<Speaker>UMP45</Speaker>||:(Chuckles) None but Persica could've programmed an AI that's so bored it decided to give itself a personality... +Besides, judging by her exploitative ways, she must be expecting us to be the testers for this thing for free, right?
-UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:The boss didn't give any specific instructions, and I don't personally know Miss Persica very well. +But even if that's the case, you won't have to deviate much from your mission. Just use the drone as you see fit for the job. After all, the mission that yields the reward is your priority. +The user manual should've already been sent to your neural clouds. Feel free to ask me anything whenever you have questions. One last thing, do you hate it, 45?
+UMP45(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:The boss didn't give any specific instructions, and I don't personally know Miss Persica very well. +But even if that's the case, you won't have to deviate much from your mission. Just use the drone as you see fit for the job. After all, the mission that yields the reward is your priority. +The user manual should've already been sent to your neural clouds. Feel free to ask me anything whenever you have questions. One last thing, do you hate it, 45?
 UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:No, I'm fine with anything that doesn't talk too much. +It's just that...these Tactical Fairies weren't developed by Persica alone, were they?
-UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:She didn't say. Does that bother you?
+UMP45(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:She didn't say. Does that bother you?
 UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||:I'm just curious. Everyone's curious about other people's past, right? +Mine, Persica's, even yours...
-UMP45(0);NPC-Seele(0)<Speaker>Zeele</Speaker>||:... +UMP45...
+UMP45(0);NPC-Seele(0)<Speaker>Sier</Speaker>||:... +UMP45...
 UMP45(0)<Speaker>UMP45</Speaker>;NPC-Seele(0)||<黑屏1>:Just kidding. I know the rule. I won't ask questions. +Get everyone here. It's time to get moving.
 ()||<BIN>34</BIN><黑屏2><BGM>BGM_Boss</BGM>:Meanwhile, in a Sangvis control room.
 BOSS-6(0)<Speaker>Destroyer</Speaker>||:Hey, Dreamer! +Dreamer! Do you copy?!

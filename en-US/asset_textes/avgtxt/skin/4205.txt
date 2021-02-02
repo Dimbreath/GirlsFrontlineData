@@ -1,137 +1,137 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>您有新的通讯请求。</color>
-MG36(0)<Speaker>MG36</Speaker>||:也就是说要把家具卖掉来赚经费吗？
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>;MG36(0)||:<color=#00CCFF>是的，销售可以拜托你吗？</color>
-JS9mm(2);MG36(0)<Speaker>MG36</Speaker>||:我认为让我后勤会更合适。不过……接到的工作就要好好完成。+我会尽全力去做到的。
-JS9mm(2)<Speaker>JS9</Speaker>;MG36(0)||:<color=#00CCFF>那就拜托了。</color>
-MG36(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>通讯结束。</color>
-MG36(0)<Speaker>MG36</Speaker>||<黑屏1>:那么……这些东西要在有限的区域内摆好啊。+仅仅说摆放的话完全没有难度。
-()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Empty</BGM>:十分钟后。
-NPC-PasserbyF(0)<Speaker>路人</Speaker>||<BGM>BGM_Room</BGM>:哎呀，那边的展区开放了！我们去看看吧？说不定和刚才的“银杏叶小姐”一样惊艳呢。
-NPC-PasserbyF(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:这个展会也真是的，怎么布置中就放人进来了？+走吧，去看看。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:欢迎光临。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:……
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:请问有什么需要吗？
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||<BGM>BGM_Empty</BGM>:那个……这个桌子为什么放在床上呢？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<BGM>m_avg_casual</BGM>:它是我们航行中的仪表盘。当我们从冬眠中醒来，它能让我们立即了解目前发生的事情，然后尝试去掌握事态。
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker><Shake>||:仪，仪表盘？+请问仪表在哪里呢？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:在您的操作守则里。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:这真是乱七八糟的展区，好好的家具怎么搞得像地摊货一样……哎哟！+这啥……怎么把灯笼随便放在地上啊！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:您是在说智能垃圾桶吗？
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:啊？智能垃圾桶？这个东西吗？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:是的，它能在夜晚发出柔和的光芒，使您不会丢错位置。+此外，上方的云纹也会减轻您浪费食物时的心理压力。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:……这都是什么啊。听着还挺有道理的，但怎么会有人用纸来糊垃圾桶啊？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:它的可更换性也是卖点之一。您可以往里面丢一切不要的东西，无论是糟糕的心情还是难吃的食物。+然后，只要握住这个……
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:用电子灯笼的开关……干什么呢？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:啪。+这样一下，垃圾桶内就会启动完全燃烧机制，把您丢弃的东西焚烧一空。
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:呃……完全焚烧的话，岂不是没有捡回来的可能了吗？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:是的，所以请您务必在丢弃垃圾之前考虑清楚。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:说得居然还挺有道理的……现在的拟态家具做得这么好吗？+等等，这根本就是灯笼吧！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:是智能垃圾桶。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:不可能，你这是在糊弄顾客！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:只要存在的东西就是有其必要性的。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:实用性呢，这东西只要被撑开不就废了吗！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:没有东西是不会坏掉的，就像生命终将迎来死去的那一天。
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:这……虽然听着很厉害，但这不是在给质量问题找借口吗？
-MG36(0)<Speaker>MG36</Speaker>||:这批家具的质量有保证，只要使用的方法正确……
-()<Speaker></Speaker>||:伴随着MG36与客人们的辩论，围过来的人越来越多。
-JS9mm(2)<Speaker>JS9</Speaker>||:抱歉各位！这个展区需要修正，还请大家去别的区域先转转！
-JS9mm(2)<Speaker>路人们</Speaker>||:哎呀，我还没听够呢……
-JS9mm(2)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:人们遗憾地散去了。
-MG36(0)<Speaker>MG36</Speaker>||<黑点2><BGM>BGM_Hello</BGM>:……JS9。你为什么冲得这么快？
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:你没有意识到刚才有多少人在这里吗？+我光是挤进来就花了很大力气啊。
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:辛苦了。要修正什么？
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:你真的没发现这些家具到底是用来做什么的吗……
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:我给它们找到了合适的用处。
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:我听到了一部分辩论……啊真是的，我也说不清到底哪里不对！+东西总是要用的，硬要按你说的用也可以啦。+但是产品的制造是顺应最开始的需求的。
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:牙膏不能把人类的牙刷干净，却可以做到其他很多事情。
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:那个是例外。+你看，这个灯笼当做垃圾桶用的话，能承受多少力呢？
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:很容易破坏，不如用这个瓷制品。+用它做垃圾桶吗？
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:那个是花瓶。
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:不能用来装其他东西吗？
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:容量太小了。它就是为插花做出来的啦。
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:知道了。
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:嗯……就摆成这样吧。+你觉得怎样？
-MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:比刚才看起来更有秩序感……像是普通的生活了。
-MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:那就好。+我先走了，加油吧！
-MG36(0)<Speaker>MG36</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:再见。
-MG36()<Speaker>MG36</Speaker>||<BIN>9</BIN><黑点2><黑点1><BGM>BGM_Room</BGM>:……家具是为了生活而制造的，我是为了被使用而出生的。+我也是家具的一种吗？
-路过的孩子()<Speaker>路过的孩子</Speaker>||<BIN>139</BIN><黑点2>:抓住它！
-？？()<Speaker>？？</Speaker>||:吱吱！！
-路过的孩子()<Speaker>路过的孩子</Speaker>||:呼……呼……别让它跑了！这只老鼠可肥了！
-？？()<Speaker>？？</Speaker>||:吱——！
-MG36(0)<Speaker>MG36</Speaker>||:吱吱……滴滴……10的平方根是3.162277660168379……10的自然对数是0.434294481903252……不对，我是说，以10为底，e的对数……
-MG36(0)<Speaker>？？</Speaker>||:吱？
-MG36(0)<Speaker>MG36</Speaker>||:……仓鼠。
-MG36(0)<Speaker></Speaker>||:MG36低下头，一只仓鼠正抬起头看着她。见她弯下腰来，仓鼠立即一个冲刺……
-MG36(0)<Speaker>MG36</Speaker>||:等等，没有打开……+啊，好像已经昏过去了。
-MG36(0)<Speaker>路过的孩子</Speaker>||:啊，大姐姐！
-MG36(0)<Speaker>MG36</Speaker>||:你好，有什么需要吗？
-MG36(0)<Speaker>路过的孩子</Speaker>||:你看见一只大老鼠了吗？
-MG36(0)<Speaker>MG36</Speaker>||:大老鼠？
-MG36(0)<Speaker>路过的孩子</Speaker>||:对，可肥了！+不知道几个冲天炮才能把它送上天呢，我们正打算试试看，它就从台子上跑了！
-MG36(0)<Speaker>MG36</Speaker>||:我没有看到“可肥了”的老鼠。+为什么要做那种实验？
-MG36(0)<Speaker>路过的孩子</Speaker>||:好玩儿啊。
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:你在这里啊……害我找了半天，爸妈都着急了。
-MG36(0);NPC-PasserbyF(0)<Speaker>路过的孩子</Speaker>||:啊，姐姐！
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:快走吧，爸爸说他的腿经不住逛了。
-MG36(0);NPC-PasserbyF(0)<Speaker>路过的孩子</Speaker>||:啊……那就没办法了，走吧！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<BGM>BGM_Empty</BGM>:一路顺风。
-MG36(0)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:送走了游客们，MG36稍微挪开了一步。刚才被撞昏过去的仓鼠此刻正抱着她的鞋跟瑟瑟发抖。
-MG36(0)<Speaker>MG36</Speaker>||:别怕，你不是什么“可肥了”。
-MG36(0)<Speaker>仓鼠</Speaker>||:吱……
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:哦，重新开张了啊！+这个灯笼多少钱？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:……来人了。这些饼干给你，好好在这里待着等我回来。
-MG36(0)<Speaker>仓鼠</Speaker>;NPC-PasserbyM(0)||:吱？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:欢迎光临，您是要这个灯笼吗？除了灯笼还有其他的需要吗？
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:刚刚你不是还叫它智能垃圾桶吗？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:不管是灯笼还是垃圾桶，都只是一个名字。+无论什么样的名字，都不会影响它在您手中物尽其用。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:好一张利嘴。比起家具，我倒是对你更有兴趣。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:抱歉，我不在出售的列表里。除了灯笼您还需要其他的东西吗？
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:就这个吧，还有“仪表盘”。+这个“仪表盘”现在叫什么？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:叫做虚拟仪表八仙桌。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:虚拟仪表和八仙桌有什么关系？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:人无法掌握命运时，会假定某种能影响事态发展的存在是神明。+那么在它无法掌握自己的命运时，我们也就是它的神明。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:所以八仙是说？
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:刚才有七个人来问过它的价格，您是第八个，也将是虚拟仪表最后的归属。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:哈哈，你真有意思！我就要这两个了。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:谢谢惠顾。
-MG36(0);NPC-PasserbyM(0)<Speaker>路人2</Speaker>||:真的不打算换个工作吗？你的口才做销售可惜了。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:……如果有机会换个工作的话，我确实想换。+到那时候，请您为我拍摄的电影捧场。
-MG36(0)<Speaker></Speaker>||:送走了第一位客人后，人们络绎不绝地来到这个展区，家具很快就卖得差不多了。+MG36眼看工作即将结束，便弯下腰打算看看仓鼠的情况。
-MG36(0)<Speaker>MG36</Speaker>||:你还好吗？
-MG36(0)<Speaker>仓鼠</Speaker>||:吱！
-MG36(0)<Speaker>MG36</Speaker>||:太好了，看起来还很精神。+继续乖乖地待在这里哦，等到结束后，我们一起玩……
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:啊我差点忘记要买东西了……你还在啊！
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:是的，请问您需要什么？
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:这个花瓶多少钱，我想要它。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:好的，除了它还需要其他的吗？
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:那个纸窗也很好看，那个我也要。
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:好的。+还有什么需要的吗？
-MG36(0);NPC-PasserbyF(0)<Speaker>路人</Speaker>||:没有了。哦对了，我弟弟托我带一句话来。+“大姐姐，你好漂亮。”
-MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<黑屏1>:谢谢您。
-()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:……家具展结束后。
-指挥官()<Speaker>指挥官</Speaker>||<BGM>BGM_Sneak</BGM>:MG36？你在吗？+准备集合了。
-MG36的声音()<Speaker>MG36的声音</Speaker>||<SE1>AVG_whitenoise</SE1>:绳索里面有光纤。而且宇航服里的步话机一直能正常工作。
-MG36的声音()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>在和谁说话？……光纤？步话机？</color>+<color=#A9A9A9>总之先确认一下情况好了。</color>
-MG36的声音()<Speaker>MG36的声音</Speaker>||<SE1>AVG_whitenoise</SE1>:放下你的疑心，哈尔。+在我们的期望中，最好的地点是小埃特纳环形山底部的那个喷泉，它已经干涸至少一千年了。+……要是看不到洞口，就不许再往里走了。如果与指挥官失去联络，没有我的命令，不许前往搜索。
-指挥官()<Speaker>指挥官</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1><白屏1>:<color=#A9A9A9>与我失去联络？</color>+<color=#A9A9A9>MG36没有指挥模块，这也不太像她的声音。得去看看！</color>
-指挥官()<Speaker>指挥官</Speaker>||<BIN>139</BIN><SE1>AVG_weapon_reload</SE1><白屏2>:MG36？你在这里吗？
-MG36(2)<Speaker>MG36</Speaker>||:……指挥官？
-MG36(2)<Speaker>指挥官</Speaker>||:没有别人在？
-MG36(2)<Speaker>MG36</Speaker>||<BGM>BGM_Hello</BGM>:是的，只有我和哈尔九千二世。
-MG36(2)<Speaker>指挥官</Speaker>||:哈尔九千二世……
-MG36(2)<Speaker>MG36</Speaker>||:是的，简称哈尔。+就是它。
-MG36(2)<Speaker></Speaker>||:MG36举起手里的仓鼠。
-MG36(2)<Speaker>指挥官</Speaker>||:呃……好名字。
-MG36(2)<Speaker>MG36</Speaker>||:它很有表演的天赋，我想它可以参加我筹备的电影，和我一起大放异彩。
-MG36(2)<Speaker>指挥官</Speaker>||:你在筹备电影吗？
-MG36(2)<Speaker>MG36</Speaker>||:只是一个想法……关于很久之前人类的一场梦，与很久之后对梦境的复现。+如果只是单纯地执行命令，我和灯笼就没有区别。
-MG36(2)<Speaker>指挥官</Speaker>||:灯笼？你后面的打印展板上那个？
-MG36(2)<Speaker>MG36</Speaker>||:不，是智能垃圾桶。
-MG36(2)<Speaker>指挥官</Speaker>||:……啊？
-MG36(2)<Speaker>MG36</Speaker>||:您现在还有其他的工作要做吧？
-MG36(2)<Speaker>指挥官</Speaker>||:不想仔细说说吗？
-MG36(2)<Speaker>MG36</Speaker>||:我不会提前剧透观影者的，尤其是概念还没有完全成型。+总之……请您期待吧。
-MG36(2)<Speaker>哈尔九千二世</Speaker>||:吱！
-()<Speaker></Speaker>||<黑屏1>:MG36在这次展会萌生了什么样的想法，又打算拍什么样的电影呢？+作为她预定观影者的我并不知道。+但是，一定是很不错的电影吧。这么想着，我向下一个展区走去。
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You have a new comms request.</color>
+MG36(0)<Speaker>Gr MG36</Speaker>||:So you're saying we need to sell furniture to generate income?
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>;MG36(0)||:<color=#00CCFF>Yes, can I leave sales to you?</color>
+JS9mm(2);MG36(0)<Speaker>Gr MG36</Speaker>||:I believe I would be better off handling logistics. However...I make it a point to complete whatever assignment I receive. +So I'll do my best.
+JS9mm(2)<Speaker>JS9</Speaker>;MG36(0)||:<color=#00CCFF>I'm counting on you then.</color>
+MG36(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Transmission terminated.</color>
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑屏1>:Now then... I need to arrange these items in the display area. +Just putting them in doesn't pose much of a challenge.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Empty</BGM>:10 minutes later.
+NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||<BGM>BGM_Room</BGM>:Look, the display over there are open! Shall we go take a look? Who knows, it might end up being as stunning as "Miss Ginkgo Leaf"!
+NPC-PasserbyF(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:What's with this expo anyway, why are they letting people in while they're still setting up? +Well, let's go take a look.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Welcome.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:...
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Can I help you?
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||<BGM>BGM_Empty</BGM>:Uh... Why is the table on the bed?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<BGM>m_avg_casual</BGM>:It is the dashboard for our voyage. When we awaken from our hibernation, it helps us get our bearings and swiftly take control of the situation.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker><Shake>||:A...dashboard?+Then where are the dials and displays?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:Inside your user manual.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:This booth is utterly ridiculous, why are all these perfectly good pieces of furniture scattered around like a junkyard sale... Ow! +What...what's this lantern doing on the floor?!
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Are you talking about the smart trash can?
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:Huh? Smart trash can? Is there even such a thing?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Yes, they glow dimly in the dark to ensure you don't misplace your garbage. +In addition, their cloud patterns ease the guilt you feel when wasting food.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:...What the hell is this wacky logic? It actually kind of makes sense, but who would make trash out out of paper-mâché?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Its replaceability is one of its selling points. You can discard anything you don't need inside it, be they bad feelings or disgusting food. +Then all you need to do is take hold of this...
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:That's the switch for the electric lantern... What are you going to do?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:(Clicks) +And just like that, the trash can engages its complete incineration protocols, burning everything you've thrown away into nothingness.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:Er...but if it burns everything away, doesn't that mean there's no way to retrieve the items inside?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:Yes, which is why you should think carefully before throwing trash away.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:That kind of makes sense... Are all pieces of replica furniture so well-made? +Wait a minute, this is just a lantern!
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:It's a smart trash can.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:It can't be, you're just messing with your customers!
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:All things exist for a reason.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:But where's the practicality? It's useless if you overstuff it and it breaks, right?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Nothing in this world is unbreakable, just as all life must someday end.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:That... Well, it sounds pretty profound, but aren't you just making excuses for its quality?
+MG36(0)<Speaker>Gr MG36</Speaker>||:This furniture is covered by a guarantee, as long as it's used correctly...
+()<Speaker></Speaker>||:As Gr MG36 continues stating her case to the customers, more and more people start to gather around.
+JS9mm(2)<Speaker>JS9</Speaker>||:Apologies, everyone! This booth needs to be rearranged, so please take a look at our other booths in the meantime!
+JS9mm(2)<Speaker>Passersby</Speaker>||:Aw, but I want to hear more...
+JS9mm(2)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:The people scatter in dejection.
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑点2><BGM>BGM_Hello</BGM>:...JS9. Why are you in such a hurry?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Didn't you realize how many people were here? +Just squeezing in took me a lot of effort.
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:Sorry about that. So what needs to be fixed?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Do you really not know the functions of all this furniture?
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:I found suitable uses for them.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Yeah, I heard... Arghhhhhh, I don't even know where you went wrong! +Things are meant to be put to use, and you can technically use them however you want.  +But products are all manufactured to serve an initial purpose.
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:Toothpaste doesn't actually sanitize human teeth, but it can be used for many other things.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:That's an exception. +Look, how much force can this lantern take if you use it as a trash can?
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:It would break easily, so maybe we should use this ceramic item instead? +Would it make a good trash can?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:That's a flower vase.
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:Can't it be used to hold other things?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Its capacity is too small. It was made to hold flowers.
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:Got it.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Hm... Alright, let's lay it out like this. +What do you think?
+MG36(0)<Speaker>Gr MG36</Speaker>;JS9mm(2)||:It definitely looks more orderly than just now...like something you'd see in everyday life.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:Good. +I gotta go, so do your best!
+MG36(0)<Speaker>Gr MG36</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:See you later.
+MG36()<Speaker>Gr MG36</Speaker>||<BIN>9</BIN><黑点2><黑点1><BGM>BGM_Room</BGM>:...Furniture was made for use in everyday life, and I was made to be used. +So am I a piece of furniture too?
+路过的孩子()<Speaker>Passing Child</Speaker>||<BIN>139</BIN><黑点2>:Get it!
+？？()<Speaker>??</Speaker>||:Squeeeeak!
+路过的孩子()<Speaker>Passing Child</Speaker>||:(Pants) Don't let it get away! That's one fat rat!
+？？()<Speaker>??</Speaker>||:Squeak—!
+MG36(0)<Speaker>Gr MG36</Speaker>||:Squeak squeak...beep beep...The square root of 10 is 3.162277660168379... The natural logarithm of 10 is 0.434294481903252... No, I mean, in base 10, the logarithm of e is...
+MG36(0)<Speaker>??</Speaker>||:Squeak?
+MG36(0)<Speaker>Gr MG36</Speaker>||:...A hamster.
+MG36(0)<Speaker></Speaker>||:Gr MG36 looks down and a hamster looks back up at her. As she bends down, the hamster immediately breaks into a sprint...
+MG36(0)<Speaker>Gr MG36</Speaker>||:Wait a minute, we're not open... +Ah, looks like it's fainted.
+MG36(0)<Speaker>Passing Child</Speaker>||:Uh, excuse me, miss!
+MG36(0)<Speaker>Gr MG36</Speaker>||:Hello, can I help you?
+MG36(0)<Speaker>Passing Child</Speaker>||:Did you see a big rat just now?
+MG36(0)<Speaker>Gr MG36</Speaker>||:A big rat?
+MG36(0)<Speaker>Passing Child</Speaker>||:Yeah, it was super fat! +I wonder how many rockets I'd need to send it into the sky. We were just about to find out when it ran off from the launch platform!！
+MG36(0)<Speaker>Gr MG36</Speaker>||:I haven't seen any rats that are "super fat" around. +Why are you conducting these experiments?
+MG36(0)<Speaker>Passing Child</Speaker>||:Just for fun.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:There you are... I've been searching for you all day, Mom and Dad are worried.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passing Child</Speaker>||:Oh, big sis!
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:Let's go. Dad says his legs are killing him.
+MG36(0);NPC-PasserbyF(0)<Speaker>Passing Child</Speaker>||:Ah well... It can't be helped, then. Let's go!
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<BGM>BGM_Empty</BGM>:Have a good trip.
+MG36(0)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:After sending away the customers, Gr MG36 moves her foot aside. The hamster that passed out just now is trembling as it hugs her heel.
+MG36(0)<Speaker>Gr MG36</Speaker>||:There there, you're not fat or anything.
+MG36(0)<Speaker>Hamster</Speaker>||:Squeak...
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:Oh, it's opened again! +How much is this lantern?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:...We have customers. Take these cookies and wait here until I come back.
+MG36(0)<Speaker>Hamster</Speaker>;NPC-PasserbyM(0)||:Squeak?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Welcome, would you like this lantern? Is there anything else you'd like?
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:Weren't you calling it a smart trash can?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Lanterns and trash cans are just names. +No matter what you call it, it won't keep you from using it as you see fit.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:You've got a silver tongue on you. I'm actually more interested in you than the furniture.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Sorry, but I'm not for sale. Would you like anything else besides the lantern?
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:That'll do. Oh, and that "dashboard" from just now. +What is this "dashboard" called now?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:It is the Eight Immortals Virtual Dashboard Table.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:And what does a virtual dashboard have to do with an Eight Immortals Table?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:When people are unable to control their destiny, they imagine beings who can influence the way things unfold and call them gods. +When the table is unable to control its own fate, we then become its gods.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:But why Eight Immortals?
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Seven people have stopped by to ask its price. You are the eighth, which means this virtual dashboard now belongs to you.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:Haha, I like you. I'll take these two items, then.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:Thank you for shopping with us.
+MG36(0);NPC-PasserbyM(0)<Speaker>Passerby 2</Speaker>||:Won't you consider changing jobs? With your gift of the gab, you could do well in sales.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyM(0)||:...If I had a chance to change jobs, I would. +Please support the movie that I may or may not film one day.
+MG36(0)<Speaker></Speaker>||:After sending off the first customer, people start pouring nonstop into the booth. The furniture is soon sold out. +Gr MG36 sees that her work is almost done and bends down to check on the hamster.
+MG36(0)<Speaker>Gr MG36</Speaker>||:Are you alright?
+MG36(0)<Speaker>Hamster</Speaker>||:Squeak!
+MG36(0)<Speaker>Gr MG36</Speaker>||:Wonderful, you seem to have recovered. +Now be good and stay here. Once I'm done, I'll play with...
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:Ah, I almost forgot I was supposed to buy something... And you're still here!
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:Indeed I am. May I know what you would like?
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:How much is this vase? I want it.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:Alright, anything else?
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:Those paper window shades look good, I'm taking them too.
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||:Very well. +Is that all?
+MG36(0);NPC-PasserbyF(0)<Speaker>Passerby</Speaker>||:Yes, thank you. Oh right, my little brother asked me to pass on a message. +"You're really pretty, miss."
+MG36(0)<Speaker>Gr MG36</Speaker>;NPC-PasserbyF(0)||<黑屏1>:Thank you.
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:...After the furniture expo is over.
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Sneak</BGM>:Gr MG36? Are you there? +Everyone's gathering up.
+MG36的声音()<Speaker>Gr MG36's Voice</Speaker>||<SE1>AVG_whitenoise</SE1>:The rope contains optical fibers. And the spacesuit's communicator is working normally.
+MG36的声音()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Who's she talking to... Optical fibers? Communicator?</color>+<color=#A9A9A9>I'd better go check things out.</color>
+MG36的声音()<Speaker>Gr MG36's Voice</Speaker>||<SE1>AVG_whitenoise</SE1>:Don't worry, Hal. +The best place we can hope for is that geyser under the caldera of Mini Mt. Etna, but it has dried up for nearly a thousand years.+...If we can't find the cave entrance, you are not to proceed any further within. If we lose contact with the Commander, you are not to explore any further without my orders.
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1><白屏1>:<color=#A9A9A9>Losing contact with me?</color>+<color=#A9A9A9>Gr MG36 doesn't have a command module, and this doesn't sound quite like her voice. I need to check it out!</color>
+指挥官()<Speaker>Commander</Speaker>||<BIN>139</BIN><SE1>AVG_weapon_reload</SE1><白屏2>:Gr MG36? Are you in there?
+MG36(2)<Speaker>Gr MG36</Speaker>||:...Commander?
+MG36(2)<Speaker>Commander</Speaker>||:There's nobody else in here?
+MG36(2)<Speaker>Gr MG36</Speaker>||<BGM>BGM_Hello</BGM>:That's right, the only ones here are myself and HAL 9002.
+MG36(2)<Speaker>Commander</Speaker>||:HAL 9002...
+MG36(2)<Speaker>Gr MG36</Speaker>||:Yes, Hal for short. +Here he is.
+MG36(2)<Speaker></Speaker>||:Gr MG36 holds up a hamster.
+MG36(2)<Speaker>Commander</Speaker>||:Er... That's a nice name.
+MG36(2)<Speaker>Gr MG36</Speaker>||:He is a talented performer, and I think he could act beside me in the movie I'm preparing for. We would shine on the silver screen.
+MG36(2)<Speaker>Commander</Speaker>||:Are you planning to shoot a movie?
+MG36(2)<Speaker>Gr MG36</Speaker>||:It was just an idea... About a dream that humanity had a long time ago, and the re-emergence of that dream a long time after. +If I simply carry out my orders, then I am no different from a lantern.
+MG36(2)<Speaker>Commander</Speaker>||:Lantern? You mean like the one printed on the poster behind you?
+MG36(2)<Speaker>Gr MG36</Speaker>||:No, that's a smart trash can.
+MG36(2)<Speaker>Commander</Speaker>||:...Huh?
+MG36(2)<Speaker>Gr MG36</Speaker>||:Do you have more work for me?
+MG36(2)<Speaker>Commander</Speaker>||:Not going to explain yourself?
+MG36(2)<Speaker>Gr MG36</Speaker>||:I never reveal spoilers to the audience, especially when the outline isn't finished yet. +All in all... Please look forward to it.
+MG36(2)<Speaker>HAL 9002</Speaker>||:Squeak!
+()<Speaker></Speaker>||<黑屏1>:What kind of idea has this expo given Gr MG36, and what kind of movie is she going to make? +As a prospective member of her audience, I have no idea. +However, it'll probably be a good one. +With that thought in mind, I move on to the next display booth.

@@ -1,96 +1,96 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:……+家具包装点。
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:你来得好早。
-SPP1(4)<Speaker>SPP1</Speaker>||:我……？怎么了吗，PKP？
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:没什么。
-SPP1(4)<Speaker>SPP1</Speaker>||:那你为什么离我这么远？+你不喜欢我和你一起工作吗？
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:没有，我只是一个人习惯了，不必在意。
-SPP1(4)<Speaker>SPP1</Speaker>||:这，这样啊……总之，合作愉快！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:合作愉快。
-()||<BIN>89</BIN><黑屏2>:……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:35号客人，这是您需求的简洁包装。+这里是推车，可以使用它到外面的送货点。
-()<Speaker>35号客人</Speaker>||:哎呀，正是我想要的！谢谢！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:40号客人在吗？您的包装已经完成了。
-()<Speaker>40号客人</Speaker>||:谢谢！包成这个样子，那家伙肯定猜不到里面是个花瓶了。啊哈！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:65号客人……
-SPP1(4)<Speaker>SPP1</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:……+虽然当时说得很轻松大气……+但是我现在完全帮不上忙啊！
-()||<回忆><黑点2><BGM>m_avg_casual</BGM>:家具包装点迎来第三位客人时。
-SPP1(4)<Speaker>SPP1</Speaker>||:客人变多了，你还撑得住吗，PKP？+包装好像也挺费心力的……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:没关系，还在运转限度内。
-SPP1(4)<Speaker>SPP1</Speaker>||:还是让我帮忙吧？像是帮忙找包装纸……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:你今天穿的这套衣服在包装区不好走，不用帮忙。
-SPP1(4)<Speaker>SPP1</Speaker>||:只要小心点就可以的，本来就是两个人的工作，一起做更好吧！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:……
-SPP1(4)<Speaker>SPP1</Speaker>||:刚才的客人是要喜庆风格，所以要红色的包装纸对吧！+这些纸都是红色的……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:谢谢，要R-2号的那个。
-SPP1(4)<Speaker>SPP1</Speaker>||:R-2？
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:我在材料柜上做了编号。
-SPP1(4)<Speaker>SPP1</Speaker>||:啊，我抱下来的时候没有注意标签……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:是有金色装饰线的那款。
-SPP1(4)<Speaker>SPP1</Speaker>||:啊，是这个……吗？
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:……我自己来拿吧。
-SPP1(4)<Speaker>SPP1</Speaker>||:唔……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:把这些看着花样放回去，我说哪一个编号你帮我拿。
-SPP1(4)<Speaker>SPP1</Speaker>||:好的，这个我——
-()||:在SPP1归好物品转身时，精致的裙边勾到了旁边的装饰材料架。
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:小心！
-SPP1(4)<Speaker>SPP1</Speaker>||<SE1>AVG_lifttable</SE1>:呜啊！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:……
-SPP1(4)<Speaker>SPP1</Speaker>||:啊……材料全散下来了……+那个，我来……
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:不用了，你在一边等着就好。+这里太窄了，两个人只会互相妨碍。
-SPP1(4)<Speaker>SPP1</Speaker>||<黑点1>:但是……+……好吧。
-SPP1(4)<Speaker>SPP1</Speaker>||<关闭蒙版><黑点2><BGM>BGM_Empty</BGM>:结果一点忙也没有帮上，还让PKP多费了这么大力气……+人也越排越多了。
-()||<BGM>BGM_Moon</BGM>:SPP1窝在废弃的巨大鱼缸里，越想越觉得不甘心。
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:132号客人，请来领取您的货物。
-()<Speaker>132号客人</Speaker>||:喔！包装得真不错。
-()<Speaker>150号客人</Speaker>||:<size=25>还有多久到我啊，这才133！</size>+<size=25>哦，我的排号在150，这得排20多个啊！</size>
-()<Speaker>201号客人</Speaker>||<黑屏1>:站得腿都酸了……唉，不然还是不买了……
-SPP1(4)<Speaker>SPP1</Speaker>||<BIN>9</BIN><黑屏2>:……+对啊！虽然包装不是我擅长的方向，但我还可以做我擅长的事情！+这个鱼缸够大，我可以转移他们的注意力！
-SPP1(4)<Speaker>SPP1</Speaker>||:这个鱼缸这么大，我完全可以来做一场表演！+展现我优秀的水下性能的时候到了！
-SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:好的，这里有电线和塑料壳，真赞！+做个小马达吧，然后要有发光的元素……从灯里拆一个……+然后是，包装用的纱……
-()<Speaker>路人1</Speaker>||<BIN>89</BIN><黑屏2><BGM>BGM_Empty</BGM>:诶，鱼缸里开始注水了？
-()<Speaker>路人2</Speaker>||<BGM>m_avg_casual</BGM>:这不是上次水族展的鱼缸吗，怎么家具展也用起来了？
-()<Speaker>路人3</Speaker>||:是给下一个展会做准备吗？啊，上头是不是有个人？
-SPP1(4)<Speaker>SPP1</Speaker>||:各位！请看这边！+为了缓解大家排队的枯燥和疲劳，现在开始表演特别节目——+水下舞蹈，《蓝莲夜》！
-()||:语罢，伴随着优雅的音乐，SPP1跃入水中。+水母在光线黯淡的环境下亮起，照亮了娇小少女的身姿。
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#A9A9A9>唔……！水好冷……</color>+<color=#A9A9A9>我可是战术人形，不过是这么一点温度差异，阻挡不了我完成任务！</color>
-()||:在渐渐响起的惊叹声中，她时而自己游向水母，时而由脚环带领她远离，柔软的纱质鱼尾与水母在水里舒展，画出优美的弧线。
-()<Speaker>路人1</Speaker>||:真美啊……
-()<Speaker>路人2</Speaker>||:是请来的专业表演人员吗？
-()<Speaker>路人1</Speaker>||:好像不是，刚才还在包装区见到……是这里的工作人员吧？
-()<Speaker>路人2</Speaker>||:管他呢，我还想再看会儿。这叫啥来着？大海的精灵？
-()<Speaker>路人1</Speaker>||:叫蓝莲夜啦！
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:150号客人，请来领取您的主题包装。
-()<Speaker>150号客人</Speaker>||:啊……啊，什么，这就到我了？+来了来了！
-SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:<color=#A9A9A9>大家的注意力转移到这边来了！作战计划有效！</color>+<color=#A9A9A9>太棒了，这就是我擅长的事情……这总是帮上忙了吧，PKP！</color>
-()||<黑屏2>:……+在我结束和PKP的交谈来到排队区时，SPP1仍然坚持在鱼缸里表演着。+在发光的水母映照着在水里翻滚的她，有一种超脱俗世的美感。+在我把目光投向她的一瞬，她也恰巧抬起头来看向这边……
-()<Speaker>指挥官</Speaker>||:……
-SPP1(4)<Speaker>SPP1</Speaker>||:……
-()||:她舒展开身体，向我露出一个笑容。
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>欢迎光临，指挥官。</color>
-()||:那是海妖？或者水中的女神？一时间，我也有点分不清楚。
-()<Speaker>指挥官</Speaker>||:排队的人已经走得差不多了，你也辛苦了。先出来吧？
-()||<BGM>BGM_Empty</BGM>:SPP1点了点头，向着上方游去。+……然而，她虽然做出了动作，却没有任何上浮的征兆。
-SPP1(4)<Speaker>SPP1</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>怎么回事，什么东西在拖着我！</color>+<color=#A9A9A9>……是脚环，糟了……临时改造的东西出问题了吗，给我关掉啊！</color>
-()<Speaker>指挥官</Speaker>||:SPP1，怎么回事？报告情况！
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>抱歉指挥官，我的脚环它好像关不掉了……</color>
-()<Speaker>指挥官</Speaker>||:能摘掉吗？
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>我在努力……</color>
-()||:SPP1在水里蜷起身体，试图强行摘下那枚仍然在拖行她的脚环。+然而那塑料外壳的东西被人形一捏，轻易地碎裂开来……电光一闪！
-SPP1(4)<Speaker>SPP1</Speaker>||<震屏>:啊——！咳咳呜……啊……啊咕……
-()||<SE2>Gunfight</SE2>:必须要放掉这些水，在我这么想的时候，背后一个红白相间的影子飞进了鱼缸，紧接着便是一串枪响。+鱼缸的半面玻璃被击得粉碎，水从侧边喷涌而出。+在站在正面的我丝毫没有受到波及的情况下，水位迅速下降了。
-()<Speaker>指挥官</Speaker>||:PKP？
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:请您先检查SPP1的状况，我去想办法解决掉地面的水。
-()||:说完，PKP便离开了现场。+剩在鱼缸里的水已经不多，SPP1抱着红白相间的救生圈爬出鱼缸，跪倒在地上。
-()<Speaker>指挥官</Speaker>||:你还好吗？能正常地运行吗？
-SPP1(5)<Speaker>SPP1</Speaker>||:还，还好……+她用力地蹭了两下地面，将破碎的脚环完全甩开。
-SPP1(5)<Speaker>SPP1</Speaker>||<BGM>BGM_Empty</BGM>:又在PKP面前出丑了……
-()<Speaker>指挥官</Speaker>||<BGM>GF_Memorial</BGM>:PKP是完美主义者，不用苛求自己和她一样。
-SPP1(5)<Speaker>SPP1</Speaker>||:就算这样……好不容易帮上了一点忙，最后却全搞砸了……+又欠了她一个人情……
-()<Speaker>指挥官</Speaker>||:我想她是不会在意这个的。
-SPP1(5)<Speaker>SPP1</Speaker>||:但是我在意啊。有了！
-()<Speaker>指挥官</Speaker>||:什么有了？
-SPP1(5)<Speaker>SPP1</Speaker>||:指挥官，请借我钱！
-()<Speaker>指挥官</Speaker>||:啊？
-SPP1(5)<Speaker>SPP1</Speaker>||:请借给我！拜托了，工资发了就还给您！
-()||<黑屏1>:……+架不住SPP1的软磨硬泡，我最后还是把身上所有的钱都借给了她。+这个数额可是她大半个月的工资……她究竟要做什么呢？+在当晚见到PKP的时候，谜底才终于揭晓。
+()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:... +At the furniture packing point.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:You're early.
+SPP1(4)<Speaker>SPP-1</Speaker>||:I... ? Is something the matter, PKP?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Never mind.
+SPP1(4)<Speaker>SPP-1</Speaker>||:Then why are you keeping your distance? +Do you not like working with me?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:No, I'm just used to being by myself. Don't worry about it.
+SPP1(4)<Speaker>SPP-1</Speaker>||:I-I see... In that case, nice working with you!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:Likewise.
+()||<BIN>89</BIN><黑屏2>:...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Customer No. 35, this is the simple packaging that you requested. +There's a cart here, you can use it to bring your item to the drop-off point outside.
+()<Speaker>Customer No. 35</Speaker>||:Wow, this is exactly what I wanted! Thank you!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Is Customer No. 40 there? Your package is ready.
+()<Speaker>Customer No. 40</Speaker>||:Thank you! The way it's wrapped, I'm sure he won't be able to guess there's a vase inside. Aha!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Customer No. 65...
+SPP1(4)<Speaker>SPP-1</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:... +Even though I was so upbeat and confident when talking to her... +I'm no help at all now!
+()||<回忆><黑点2><BGM>m_avg_casual</BGM>:While the furniture packing point is serving its third customer.
+SPP1(4)<Speaker>SPP-1</Speaker>||:The number of customers is growing. Can you handle it, PKP? +All that packing and wrapping looks pretty tiring.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:It's fine. Well within operational tolerances.
+SPP1(4)<Speaker>SPP-1</Speaker>||:Would you like me to help? I can, like say, help you fetch the wrapping paper...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Your clothes aren't suited to moving around in the packing area. I don't need your help.
+SPP1(4)<Speaker>SPP-1</Speaker>||:I can do it if I'm careful. I mean, this was supposed to be a two-Doll job in the first place; it'll be better if we worked together, right?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:...
+SPP1(4)<Speaker>SPP-1</Speaker>||:That customer just now wanted something festive, so we need red wrapping paper, right? +All these papers are red...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Thank you, get me R-2.
+SPP1(4)<Speaker>SPP-1</Speaker>||:R-2?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:I marked it on the shelf.
+SPP1(4)<Speaker>SPP-1</Speaker>||:Ah, I didn't notice the labels when I took these down...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:I need the one with golden stripes.
+SPP1(4)<Speaker>SPP-1</Speaker>||:Uh, you mean...this?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:...I'll get it myself.
+SPP1(4)<Speaker>SPP-1</Speaker>||:(Groans)
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Put these floral-print ones back. When I call out a number, get me the corresponding item.
+SPP1(4)<Speaker>SPP-1</Speaker>||:Okay, then I'll—
+()||:SPP-1 puts the items away, but just as she turns back, the elaborate train of her dress catches on the edge of the shelf holding all the wrapping materials.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Careful!
+SPP1(4)<Speaker>SPP-1</Speaker>||<SE1>AVG_lifttable</SE1>:Whoa!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:...
+SPP1(4)<Speaker>SPP-1</Speaker>||:Oh no...they all fell down... +Uh, I'll...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Save it, just stand aside. +It's too cramped in here; we'll just get in each other's way.
+SPP1(4)<Speaker>SPP-1</Speaker>||<黑点1>:But... +...Alright.
+SPP1(4)<Speaker>SPP-1</Speaker>||<关闭蒙版><黑点2><BGM>BGM_Empty</BGM>:I didn't manage to help out in the end, and I caused PKP all that trouble... +And more and more people are coming.
+()||<BGM>BGM_Moon</BGM>:SPP-1 curls up in a giant abandoned fish tank. The more she thinks about how things turned out, the more upset she gets.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Customer No. 132, please collect your package.
+()<Speaker>Customer No. 132</Speaker>||:Whoa, this is well done.
+()<Speaker>Customer No. 150</Speaker>||:<size=25>How much longer until it's my turn? She's only at No. 133!</size>+<size=25>Gosh, I'm number 150. There are still almost 20 people before she gets to my order!</size>
+()<Speaker>Customer No. 201</Speaker>||<黑屏1>:All the standing is starting to make my legs hurt... (Sighs) Maybe I shouldn't buy it after all...
+SPP1(4)<Speaker>SPP-1</Speaker>||<BIN>9</BIN><黑屏2>:... +That's right! I might not be good at packing and wrapping, but there's still something I'm good at! +This fish tank is big enough for me to draw their attention!
+SPP1(4)<Speaker>SPP-1</Speaker>||:It's so big that I can put on a full show! +Time to demonstrate my underwater agility!
+SPP1(4)<Speaker>SPP-1</Speaker>||<黑屏1>:Alright, I've got a power cable and a plastic casing. Awesome! +Now, I'll make a small motor, then add an LED to make it glow... I'll take one from the lights... +Now some tulle to decorate this little fellow...
+()<Speaker>Passerby 1</Speaker>||<BIN>89</BIN><黑屏2><BGM>BGM_Empty</BGM>:Huh? The fish tank is being filled up?
+()<Speaker>Passerby 2</Speaker>||<BGM>m_avg_casual</BGM>:Isn't this the fish tank from the previous aquaculture exhibition? Why are they using it in a furniture expo?
+()<Speaker>Passerby 3</Speaker>||:Are they preparing it for the next event? Ah, isn't there someone up there?
+SPP1(4)<Speaker>SPP-1</Speaker>||:Ladies and gentlemen, your attention please! +In order to alleviate the stress and fatigue of queuing up, we will be putting on a special program— +An underwater dance, "Blue Lotus Night"!
+()||:With that, SPP-1 dives into the water, accompanied by elegant music. +A jellyfish gleams in the dim surroundings, illuminating the slim body of a young girl.
+SPP1(4)<Speaker>SPP-1</Speaker>||:<color=#A9A9A9>Ack! The water is so cold...</color>+<color=#A9A9A9>But I'm a Tactical Doll; a tiny temperature difference like this won't stop me from completing my mission!</color>
+()||:The audience gasps in awe as she swims toward the jellyfish, then uses the anklet she's wearing to draw it away from herself. Her fishtail made of muslin and the jellyfish undulate in unison, tracing beautiful arcs in the water.
+()<Speaker>Passerby 1</Speaker>||:It's so pretty...
+()<Speaker>Passerby 2</Speaker>||:Did they hire a professional performer?
+()<Speaker>Passerby 1</Speaker>||:Doesn't look like it, I think I saw her in the packing area just now... Is she one of the workers here?
+()<Speaker>Passerby 2</Speaker>||:Who cares, I want to keep watching. What's this called, "Blue Sea Mermaid" or what?
+()<Speaker>Passerby 1</Speaker>||:It's the "Blue Lotus Night"!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Customer No. 150, please collect your themed package.
+()<Speaker>Customer No. 150</Speaker>||:Ah... Oh, is it my turn already? +Coming!
+SPP1(4)<Speaker>SPP-1</Speaker>||<黑屏1>:<color=#A9A9A9>Everyone's attention is focused over here! Looks like the plan is a success.</color>+<color=#A9A9A9>Thank goodness, this is something I'm good at... I managed to help you out at least, PKP!</color>
+()||<黑屏2>:... +As I finish talking to PKP and arrive in the queuing area, SPP-1 is still performing in the fish tank. +Seeing her dive and roll while illuminated by a glowing jellyfish has an otherworldly beauty to it. +As I look at her, she happens to look my way...
+()<Speaker>Commander</Speaker>||:...
+SPP1(4)<Speaker>SPP-1</Speaker>||:...
+()||:She stretches out, then smiles to me.
+SPP1(4)<Speaker>SPP-1</Speaker>||:<color=#00CCFF>Welcome, Commander.</color>
+()||:Is she a siren? Or some aquatic goddess? For a moment, I can't really tell myself.
+()<Speaker>Commander</Speaker>||:The queue is pretty much gone now, and you've worked hard. Want to come out?
+()||<BGM>BGM_Empty</BGM>:SPP-1 nods and swims upward. +...Or rather, she makes the motion to swim up, yet she's not ascending.
+SPP1(4)<Speaker>SPP-1</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>What's going on? Something's dragging me down!</color>+<color=#A9A9A9>...Oh no, it's the anklet... Did my improvised tinkering make it malfunction? I need to turn it off!</color>
+()<Speaker>Commander</Speaker>||:SPP-1, what's the matter? Sitrep!
+SPP1(4)<Speaker>SPP-1</Speaker>||:<color=#00CCFF>Sorry, Commander, it's my anklet. I can't deactivate it...</color>
+()<Speaker>Commander</Speaker>||:Can you pull it off?
+SPP1(4)<Speaker>SPP-1</Speaker>||:<color=#00CCFF>I'm trying...</color>
+()||:SPP-1 curls up in the water, trying to pull off the anklet that's dragging her down. +The plastic casing crumbles easily with a squeeze from a Doll... Then there is an electrical flash!
+SPP1(4)<Speaker>SPP-1</Speaker>||<震屏>:Ah—! +Ugh... ah...(glub glub)
+()||<SE2>Gunfight</SE2>:I need to get rid of the water. As I'm trying to figure out how to do that, a red and white object flies into the fish tank, followed by a series of gunshots. +The tank shatters on one side and water flows out. +The water level drops rapidly, while I, standing in front of the tank, remain completely dry.
+()<Speaker>Commander</Speaker>||:PKP?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:Please go check on SPP-1. I'll think of a way to get rid of the water on the ground.
+()||:Having said that, PKP leaves. +There isn't much water left in the fish tank at this point. SPP-1 crawls out, still clinging to the red and white life ring, and collapses to her knees on the ground.
+()<Speaker>Commander</Speaker>||:Are you alright? Can you function normally?
+SPP1(5)<Speaker>SPP-1</Speaker>||:I-I'm okay... +She stomps hard on the ground, completely shaking off the pulverized remains of the anklet.
+SPP1(5)<Speaker>SPP-1</Speaker>||<BGM>BGM_Empty</BGM>:I embarrassed myself in front of PKP again...
+()<Speaker>Commander</Speaker>||<BGM>GF_Memorial</BGM>:PKP's a perfectionist. You don't need to hold yourself to her standards.
+SPP1(5)<Speaker>SPP-1</Speaker>||:Even so... I finally managed to help her out, but I messed it up in the end... +Now I owe her another one...
+()<Speaker>Commander</Speaker>||:I don't think she minds, though.
+SPP1(5)<Speaker>SPP-1</Speaker>||:But I do. Ah, I've got it!
+()<Speaker>Commander</Speaker>||:Got what?
+SPP1(5)<Speaker>SPP-1</Speaker>||:Commander, please lend me money!
+()<Speaker>Commander</Speaker>||:Huh?
+SPP1(5)<Speaker>SPP-1</Speaker>||:Please lend me some! Please, I'll pay you back when I get my salary!
+()||<黑屏1>:... +In the end, I cave to SPP-1's pestering and give her all the money I have on me. +That amount is equivalent to half a month's pay for her...so what is she planning to do with it? +When I see PKP that night, the riddle is finally solved.

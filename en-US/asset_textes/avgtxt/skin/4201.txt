@@ -1,140 +1,140 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>会场开放了，请各位注意！</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:还没有布完展呢，就把客人们放进来了啊……+这个大衣柜，到底摆在哪里才好呢？
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>抱歉，DP12。是有不知道该放在哪里的东西吗？</color>+<color=#00CCFF>我待会儿就去帮你，先稍等一下！</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:没事的，这里交给我也可以。+稳住心态，JS9。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>我已经慌得这么明显了吗？</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:至少在我看来是这样的哦。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>也许这并不是适合我的事情……</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:到底适不适合，要等这个任务结束了才会知道。+在那之前，尽力去做你能想到的所有努力吧。我也会和你一起的。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>好的……总觉得稍微安心一点了。</color>+<color=#00CCFF>过一会儿见！</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:过一会儿见，JS9。
-DP12(2)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>通讯中断</color>
-DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:好的，现在要怎么处理这个巨大的衣柜呢……
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||<BGM>BGM_Hello</BGM>:哟，这个区域摆得还有点样子嘛。但是床正对着镜子，完全不合风水嘛！
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:抱歉，展区还没有完全布置好。那面镜子是贴在侧面的，您有兴趣吗？
-NPC-PasserbyM(0)<Speaker>路人</Speaker><Shake>;DP12(2)||:啊？还没布……布布布……
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<SE1>Heartbeat</SE1>:请问怎么了吗？+您看起来好像噎住了，需要一杯水吗？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||<震屏>:咳……咳咳！+谢谢你，得救了！倒是没什么……
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:您刚才提出了一些风水学相关的事情呢，看来为了新家的布置，您费心不少。
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:啊……这个也看得出来吗？
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:会来家具展的客人，总归是有这个需要的吧？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:嗯，对！是有这个需要……你这边啊，摆得就完全不合风水嘛！+你……呃……
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:我身上有什么东西使您不适吗？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:……我没法看着你说话。
-DP12(2)<Speaker>DP12</Speaker>||:请问是因为什么呢？+不说清楚的话，大家都会困惑呢。
-路人2()<Speaker>路人2</Speaker>||:哎呀，那边的售货员好漂亮……
-路人3()<Speaker>路人3</Speaker>||:是啊，比家具好看多了。
-DP12(2)<Speaker>DP12</Speaker>||:……
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:总之，那个，因为，呃……
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:您难道是在看我的脸吗？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:……+你长得就是挺好看的。
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:呵呵，谢谢夸奖。+对在工作上的疏忽，我感到十分抱歉。等到修正后再请您来看看吧？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||<SE1>RunStep</SE1>:唔呃呃呃！竟然还鞠躬……那，那就原谅你了，整改，赶紧给我整改！
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:我来晚了，DP12……诶？那个人怎么匆匆忙忙地跑了？+还流鼻血了？
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:大概吧？身体不舒服还要出来逛街，真是辛苦呢。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:我是不太懂人类这个倔强的想法啦。这些是还没有布置好的吗？
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:嗯，主要是这个大衣柜，实在不知道要放在哪里合适呢。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:啊，这个的话是贴墙放，然后和床留下这么长的空间……这样柜门可以顺利打开，也因为离床近，方便选第二天要穿的衣服。+不过这样的话，镜子的位置也要改变……
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:把镜子贴在柜门的内侧怎么样？
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:啊！是的，可以这么做……DP12对家具的布局也很有心得啊。
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:对美与合理性的追求而已啦。+辛苦你了，不愧是JS9呢，帮大忙了。
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:你这么说我都要脸红了……不用那么客气的！我先走了。
-DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:好，不要太累哦。
-DP12(2)<Speaker>DP12</Speaker>||<黑点1><BGM>m_avg_casual</BGM>:送走了JS9，方才散去的人群再次聚拢过来。+不知为何，家具卖得相当快速，客人们连讲价都很少。
-()<Speaker></Speaker>||<黑点2>:DP12的展区很快便几乎清空了。
-DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>果然还是这个大衣柜卖不掉啊……</color>
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:在想什么呢？把刚才的介绍说完啊！真有意思，我还想听听。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:好的。您购买的这件拔步床虽然制作时间尚新，但这个款式由来已久。它的制作工艺复杂，曾经的造价也非常昂贵，您能买得起也证明家庭相当富有呢。
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:哼哼，那是当然。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:虽然说是床，但更像一个独立的屋子，所以我们将它摆在外面。不过，这不是唯一的原因。关于拔步床……
-NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:哇啊——
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>好像……有什么声音？</color>
-NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:妈妈——妈妈……+在……嗝……在哪呀，我好怕……咕呃……
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>不是错觉……有孩子在哭。</color>
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:关于拔步床，有什么呀？快说呀。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:抱歉……好像有孩子在哭。我先失陪一下。
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||<黑屏1>:诶，真的有啊。
-DP12(2)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><黑屏2><BIN>97</BIN>:DP12快步走入人群，凭借自己的听力追寻那隐约的哭声。
-DP12(2)<Speaker>？？？</Speaker>||:妈妈……+怎么办啊，呜呜……咳！
-DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>是个小孩子啊。</color>+你和妈妈走丢了吗？
-DP12(2)<Speaker>孩子</Speaker>||:……
-DP12(2)<Speaker>DP12</Speaker>||:别担心，我不是坏人哦。
-DP12(2)<Speaker>孩子</Speaker>||:……嗝。
-DP12(2)<Speaker>DP12</Speaker>||:都打出哭嗝了，等待很辛苦吧？
-DP12(2)<Speaker>孩子</Speaker>||:妈妈说……不要和陌生人搭话……
-DP12(2)<Speaker>DP12</Speaker>||:嗯，妈妈说得很对。+不过我没有恶意哦。你看，我的工作地点就在那里。老师应该教过，遇到困难要和工作人员求助，对不对？
-DP12(2)<Speaker>孩子</Speaker>||:嗯……
-DP12(2)<Speaker>DP12</Speaker>||:所以，需不需要帮忙呀，小朋友？
-DP12(2)<Speaker>孩子</Speaker>||:嗯……我，我和妈妈走散了……
-DP12(2)<Speaker>DP12</Speaker>||:哎呀。大概走散多久了？
-DP12(2)<Speaker>孩子</Speaker>||:不记得了……我没有带表……+……我好害怕啊，阿姨。
-DP12(2)<Speaker>DP12</Speaker>||:不怕，不怕。阿姨的工作台那边有灯又空旷，很显眼，我们去那里等你妈妈找过来好不好呀？
-DP12(2)<Speaker>孩子</Speaker>||<黑屏1>:好……
-NPC-PasserbyF(0)<Speaker>客人</Speaker>||<BIN>139</BIN><黑屏2>:呀，这是你孩子？
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:您说笑了，怎么会呢。这孩子和妈妈走散了，在这里等比在人群中安全一些。
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:……
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:飘带不能拽哦。怎么了，还是害怕吗？
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:已经算是很坚强啦！我要是这么小的时候和我妈妈走散了，谁来都不顶用，肯定哭到妈妈抱着为止。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:哎呀……那是真的很坚强呢。+要阿姨抱抱吗？
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:不用了……+我就是，怕妈妈没发现就走了……
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:不会的，妈妈现在肯定在场地里找你呢。你看，会场这么大，她要找过来也要一点时间对不对？
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:嗯……
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:就先安心地坐着等她吧。+妈妈可是很厉害的，无论你在哪里，她总会找到你。
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:嗯！妈妈很厉害！
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:你可真会哄孩子。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:我还差得远呢。+希望那位妈妈早点过来吧，孩子总要在家人身边才能真正安心。
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:所以这个拔步床到底是有什么样的故事呢？
-NPC-PasserbyF(0)<Speaker>孩子</Speaker>;DP12(2)||:拔步床？
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:啊，是这张床的名字呢。
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:好大……
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:在科技还不发达的时代，做这样一张床需要三年的时间。每一个图案都需要精心打磨，造价也非常昂贵。+中国南方的富贵人家会定制这样的床作为嫁妆，一方面是对女儿新婚的祝福。+当然，在现代，拔步床早就不只有嫁妆的意义了。它的存在，就是一本故事书呢。
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:故事书？
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:是呀。就比如这一片，雕刻的东西是什么呢，看得出吗？
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:剑，葫芦，花……还有……
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:笛子。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:真棒，认出来了呢。+这个被称作“暗八仙”，是用八位仙人随身的宝物作为象征，以求吉祥。+你看，这个花篮代表的仙人叫做韩湘子。
-NPC-PasserbyF(0);DP12(2)<Speaker>孩子</Speaker>||:韩湘子是谁呀？
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:我对这个名字有点印象，似乎是位神仙？
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||<黑点1>:没错。他啊，是……
-()<Speaker></Speaker>||<黑点2>:随着时间流逝，来听故事的人不知不觉变多了不少。
-DP12(2)<Speaker>DP12</Speaker>||:……在这个时候，韩湘子的舅舅才恍然大悟，侄子当时的诗句正对应着现在的景象。+这就是八仙中韩湘子的故事。
-DP12(2)<Speaker>人们</Speaker>||:哇……
-广播声()<Speaker>广播声</Speaker>||<BGM>BGM_Empty</BGM>:明明小朋友，明明小朋友，请在听到广播后立刻来1号展台，你妈妈在找你。
-孩子()<Speaker>孩子</Speaker>||<BGM>BGM_Sunshine</BGM>:啊！是我妈妈！
-DP12(2)<Speaker>DP12</Speaker>||:你看，她果然想办法找到你了。
-DP12(2)<Speaker>孩子</Speaker>||:可是，可是……1号展台在哪呀？
-DP12(2)<Speaker>DP12</Speaker>||:在这边。你看，沿着这条红毯一路跑过去，就是1号展台了。
-DP12(2)<Speaker>孩子</Speaker>||:我看到妈妈了！
-DP12(2)<Speaker>DP12</Speaker>||:快去吧。
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:孩子跳下凳子跑了两步，忽然又回过头来，用力地抱了一下DP12。
-孩子()<Speaker>孩子</Speaker>||:谢谢你，阿姨！
-DP12(2)<Speaker>DP12</Speaker>||:哎呀……不用客气的。
-NPC-PasserbyF(0)<Speaker>客人</Speaker>;DP12(2)||:来搬床的工人也到了，我也先走了。谢啦，你的故事讲得挺不错的。
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:您谬赞了，欢迎下次光临。+<color=#A9A9A9>呼……应该可以休息一下了吧？</color>
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:啊，那个……刚才的故事，还有后续吗？
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:您对民俗故事有兴趣吗？
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||:我对那位何仙姑挺好奇的。你讲故事的技术真不错！
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:谢谢。既然您想听的话，我就……
-NPC-PasserbyM(0);DP12(2)<Speaker>路过的孩子们</Speaker>||:我们也想听！
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:哎呀……人数意料之外的多呢。
-NPC-PasserbyM(0);DP12(2)<Speaker></Speaker>||:这时，她的余光扫到了身后孤零零矗立的衣柜。
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:既然这样的话，我们来玩一个游戏吧？+有胆量的朋友们可以凭票进入这个衣柜，我们在柜子里面讲鬼故事。+要是听完还没有吓得跑出来的话，将会赢得一张可在全场使用的七五折优惠券，先来先得，仅限一张。
-NPC-PasserbyM(0)<Speaker>路人</Speaker>;DP12(2)||<震屏>:七五折？！通用吗？
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:通用哦。怎么样，有人想挑战一下吗？
-()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><Night><BGM>BGM_Empty</BGM>:……
-指挥官()<Speaker>指挥官</Speaker>||<BGM>BGM_Danger</BGM>:呼……看来还没有完全结束呢。+正好，我来看看她们都在做什么。
-客人()<Speaker>客人</Speaker>||<震屏>:哇啊啊啊！好可怕啊，我认输，我认输！
-指挥官()<Speaker>指挥官</Speaker>||:怎么回事？
-客人2()<Speaker>客人2</Speaker>||:我也认输，放我出去吧……
-指挥官()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>恐怖袭击吗？不对，那是DP12的展区……</color>+<color=#A9A9A9>去看看吧。</color>
-客人3()<Speaker>客人3</Speaker>||:啊，呼啊，不行，我认输了，让我出去透口气……
-DP12(2)<Speaker>DP12</Speaker>||:真是遗憾，没有人撑到最后呢。+还有人要来吗？
-DP12(2)<Speaker>指挥官</Speaker>||:……DP12？你在搞什么活动吗？
-DP12(2)<Speaker>客人3</Speaker>||:你想去试试？别吧，太可怕了，听一会儿我就受不了了……
-DP12(2)<Speaker>指挥官</Speaker>||:可怕？
-DP12(2)<Speaker>DP12</Speaker>||:是试胆比赛哦。
-DP12(2)<Speaker></Speaker>||:说着，DP12指了指身后敞开的衣柜。+那件衣柜明明不算深，内部却像是有着无尽的黑暗一般，使人望而生畏。
-DP12(2)<Speaker>DP12</Speaker>||:想试试吗，指挥官？+我有很多不错的故事想说给您听呢。
-DP12(2)<Speaker>指挥官</Speaker>||:……不必了，我还得去给展会收尾！别玩过头了啊，DP12！
-DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:哎呀，真是遗憾。+不过，以后还有很多机会吧……也不急于一时。+现在，就先继续想想这件衣柜要怎么卖出去吧……
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>Attention everyone, we're opening the doors now!</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I haven't finished setting up yet and they're already letting the guests in...+Now where should I put this big cabinet?
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>Sorry, DP-12. Do you have something that needs putting away?</color>+<color=#00CCFF>I'll come over in a bit to help you, so please hang in there!</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I'll be fine, just leave this place to me.+Relax, JS9.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>Is my anxiety so apparent?</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:It's quite obvious to me, at the very least.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>Maybe I'm not cut out for this...</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:We'll only know that once this mission is over.+Until then, do the best you can. I'll be with you too.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>Alright... I feel a little more at ease now.</color>+<color=#00CCFF>See you later!</color>
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:See you later, JS9.
+DP12(2)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>End of transmission.</color>
+DP12(2)<Speaker>DP-12</Speaker>||<BGM>BGM_Empty</BGM>:Alright, now what should I do with this huge cabinet...
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||<BGM>BGM_Hello</BGM>:Huh, the decor in this section is pretty decent! But the way the bed faces the mirror is terrible feng shui!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Pardon me, but we haven't finished setting up yet. That mirror is meant to be on the other side. Are you interested?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker><Shake>;DP12(2)||:Huh? It's not set... s-set-set...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||<SE1>Heartbeat</SE1>:Is something the matter?+You seem to have something stuck in your throat, would you like some water?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||<震屏>:(Coughs heavily)+Thank you, you saved me! Well, truth to be told, it's nothing much...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:You mentioned something about feng shui, you must be quite invested in the layout of your new home.
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:Ah...you could tell?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Surely all visitors who come to look at furniture expo have that thought in mind, am I wrong?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:Mm, yes! I did have that on my mind... And your part of the exhibit is completely at odds with the principles of feng shui!+You...er...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Is there something about me that makes you uncomfortable?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:...I can't speak while looking at you.
+DP12(2)<Speaker>DP-12</Speaker>||:May I know why?+Things won't be resolved unless you make yourself clear.
+路人2()<Speaker>Passerby 2</Speaker>||:Whoa, that salesgirl is so pretty...
+路人3()<Speaker>Passerby 3</Speaker>||:Yeah, she looks way better than the furniture...
+DP12(2)<Speaker>DP-12</Speaker>||:...
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:In any case, uh, that's because, er...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Are you staring at my face?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:... +You do look very beautiful.
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Hehe, why, thank you.+I apologize for any negligence in my work. Would you like to look at it again after I've corrected the mistakes?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||<SE1>RunStep</SE1>:(Groans) You're actually bowing... A-alright then, I'll let it slide. In any case, please fix it quickly!
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:Sorry I'm late, DP-12...huh? Why's that person running off like that? +And is he having a nosebleed?
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I think so? It must be hard to have to come out shopping even when you're ill.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:I don't understand why humans push themselves like that. So these items haven't been set up yet?
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:Yeah, it's mainly this big cabinet here. I honestly have no idea where it should go.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:Ah, this one goes against the wall. After that, leave a gap about this size away from the bed... That way you can open the cabinet door all the way, and you'll also have an easy time picking out the clothes you want to wear the next day because it's close to the bed.+However, that means you'll have to change the position of the mirror...
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:How about putting the mirror inside the cabinet door?
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:Oh! That would work... You sure know a lot about how to arrange furniture, DP-12.
+JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I simply value aesthetics and sensibility. +Thank you for your input, JS9. You helped me out a lot.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:You're making me blush... Don't mention it! I'd better go.
+DP12(2)<Speaker>DP-12</Speaker>||<BGM>BGM_Empty</BGM>:Alright, don't tire yourself out too much.
+DP12(2)<Speaker>DP-12</Speaker>||<黑点1><BGM>m_avg_casual</BGM>:After DP-12 sends off JS9, the crowds who had recently dispersed gather round again.+For some reason, the furniture is selling extremely fast, and few of the customers even bother to haggle.
+()<Speaker></Speaker>||<黑点2>:DP-12's display area is soon cleaned out.
+DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>I still can't sell off this big cabinet...</color>
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:What are you thinking about? Please continue with your pitch! It's quite interesting, I'd like to hear the rest of it.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Very well. The canopy bed you purchased might be newly made, but the design is vintage. Its workmanship is exquisite and the production cost was anything but cheap. The fact that you can afford one implies your family must be quite well-off.
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:Hehe, but of course.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:While it is a bed, it is practically a room in its own right, which is why we displayed it outside. However, that is not the only reason. Canopy beds like these...
+NPC-PasserbyF(0);DP12(2)<Speaker>???</Speaker>||:Waaaaahhhhhh—
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>Do you...hear that?</color>
+NPC-PasserbyF(0);DP12(2)<Speaker>???</Speaker>||:Mama— Mama... +Where... (sobs) ...are you, I'm scared... (sniffles)
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>It's not just my imagination... A child is crying.</color>
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:Well, what about canopy beds? Go on.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:My apologies... I think I heard a child crying. Excuse me for a moment.
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||<黑屏1>:Huh, so there is.
+DP12(2)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><黑屏2><BIN>97</BIN>:DP-12 strides quickly into the crowd, trying to track down the source of the muffled crying with her sense of hearing.
+DP12(2)<Speaker>???</Speaker>||:Mama... +What should I do... (sobs)
+DP12(2)<Speaker>DP-12</Speaker>||:<color=#A9A9A9>Hello there.</color>+Did you get separated from your mom?
+DP12(2)<Speaker>Child</Speaker>||:...
+DP12(2)<Speaker>DP-12</Speaker>||:Don't worry, I'm not a bad person.
+DP12(2)<Speaker>Child</Speaker>||:(Sniffles)
+DP12(2)<Speaker>DP-12</Speaker>||:Oh dear, look at that. You must have had a hard time waiting on your own.
+DP12(2)<Speaker>Child</Speaker>||:Mama said...not to talk to strangers...
+DP12(2)<Speaker>DP-12</Speaker>||:Mm, Mama is right.+But I mean you no harm. See, I work over there. Your teacher must have taught you to ask the staff for help if you run into trouble, right?
+DP12(2)<Speaker>Child</Speaker>||:Yeah...
+DP12(2)<Speaker>DP-12</Speaker>||:In that case, do you need help, little one?
+DP12(2)<Speaker>Child</Speaker>||:Yeah... I-I lost my mom...
+DP12(2)<Speaker>DP-12</Speaker>||:Oh my. How long has it been since you last saw her?
+DP12(2)<Speaker>Child</Speaker>||:I don't know... I don't have a watch on...+...I'm scared.
+DP12(2)<Speaker>DP-12</Speaker>||:There there, no need to be afraid. My counter over there is spacious and well-lit, so it's very eye-catching. Shall we go there and wait for your mom to find you?
+DP12(2)<Speaker>Child</Speaker>||<黑屏1>:Okie...
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>||<BIN>139</BIN><黑屏2>:Goodness, is this your child?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Surely you jest, how could that be? This child was separated from his mother. It would be safer for him to wait here than in a crowd.
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Don't pull at the ribbon, dear. What's the matter, still scared?
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:He's being very brave! If I were separated from my mom at that age, I'm sure I'd ignore everyone and bawl until my mom came to hug me.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Oh my...then you HAVE been very brave. +Would you like a hug?
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:That's okay...+I'm just, I'm just scared Mama will leave without finding me...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:That won't happen. I'm sure your mom is looking for you right now. But you see, the venue's so huge so it'll take a while for her to find you, don't you think?
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:Yeah...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Then sit tight and wait for her here.+Moms are amazing, you know? They can find you wherever you are.
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:Yeah! Mama's amazing!
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:You're good with children.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:I wouldn't go that far.+I just hope his mother comes soon. Children only feel truly at ease when they're with their families.
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:So, what's the story behind this canopy bed?
+NPC-PasserbyF(0)<Speaker>Child</Speaker>;DP12(2)||:Canopy bed?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Yes, that's what it's called.
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:It's so big...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:When technology wasn't as developed as it is now, it would take three years to make a bed like this. Each design had to be carefully carved into the frame, which naturally made the production cost quite significant. +Wealthy families in Southern China would make these beds as dowries and also as a blessing for their daughters' weddings.+Of course, in the present day, canopy beds aren't just dowries. They also serve as storybooks.
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:Storybooks?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Oh yes. Take for example these carvings over here. Do you know what they are?
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:There's a sword, a gourd, flowers, and...
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:A flute.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:Excellent, you recognized it. +These carvings are known as the "Hidden Eight Immortals". By invoking the personal items of the Eight Immortals, the bed becomes a symbol of good fortune.+See, this flower basket represents the Immortal called Han Xiangzi.
+NPC-PasserbyF(0);DP12(2)<Speaker>Child</Speaker>||:Who's Han Xiangzi?
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:The name sounds familiar, is he some kind of divinity?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||<黑点1>:Correct. He was...
+()<Speaker></Speaker>||<黑点2>:As time passes, the number of people stopping to listen to the story steadily increases.
+DP12(2)<Speaker>DP-12</Speaker>||:...That's when Han Xiangzi's uncle finally realized that his nephew's poem was actually describing the very scene before his eyes.+And that is the story of Han Xiangzi of the Eight Immortals.
+DP12(2)<Speaker>人们</Speaker>||:Wow...
+广播声()<Speaker>Broadcast</Speaker>||<BGM>BGM_Empty</BGM>:Ming Ming, Ming Ming, please come to Display Booth 1 if you can hear this, your mother is looking for you.
+孩子()<Speaker>Child</Speaker>||<BGM>BGM_Sunshine</BGM>:Ah! It's Mama!
+DP12(2)<Speaker>DP-12</Speaker>||:See? She found a way to find you after all.
+DP12(2)<Speaker>Child</Speaker>||:B-but...where's Display Booth 1?
+DP12(2)<Speaker>DP-12</Speaker>||:This way. You see that red carpet over there? Just follow it and you'll be at Display Booth 1.
+DP12(2)<Speaker>Child</Speaker>||:I see my Mama!
+DP12(2)<Speaker>DP-12</Speaker>||:Off you go.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:The child jumps off the bench and starts running, then he suddenly turns around and gives DP-12 a firm hug.
+孩子()<Speaker>Child</Speaker>||:Thank you!
+DP12(2)<Speaker>DP-12</Speaker>||:Oh my... You're welcome.
+NPC-PasserbyF(0)<Speaker>Customer</Speaker>;DP12(2)||:Well, the movers have arrived to transport the bed, so I'd better be going. Thank you for the riveting tale.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP-12</Speaker>||:You're too kind. Do come again.+<color=#A9A9A9>Whew... I can finally take a little break now, right?</color>
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:Uh, excuse me...but is there more to that story you were telling just now?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Do you like folk tales?
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||:I'm curious about that He Xiangu lady. You're a brilliant storyteller!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Thank you. If you want to hear more about her, I'll...
+NPC-PasserbyM(0);DP12(2)<Speaker>Passing Kids</Speaker>||:We want to listen too!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:Oh dear... It seems my audience is bigger than I expected.
+NPC-PasserbyM(0);DP12(2)<Speaker></Speaker>||:Just then, her gaze falls on the cabinet that's been left behind.
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||:In that case, let's play a little game, shall we? +Anyone who's brave enough can climb inside this cabinet, where I'll tell you a ghost story. +Whoever isn't scared out of the cabinet by the time we're finished will win a 25% discount coupon that's usable anywhere in this expo. However, there can only be one winner and the coupon is given out on a first come, first served basis.
+NPC-PasserbyM(0)<Speaker>Passerby</Speaker>;DP12(2)||<震屏>:25% off?! And I can use it anywhere?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP-12</Speaker>||<黑屏1>:Anywhere at all. How about it, anyone up for a challenge?
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><Night><BGM>BGM_Empty</BGM>:...
+指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Danger</BGM>:Whew... The expo is still in full swing...+Just as well, I'll go see what everyone is doing.
+客人()<Speaker>Customer</Speaker>||<震屏>:Eeeeeeeeeep! I give up, I give up!
+指挥官()<Speaker>Commander</Speaker>||:What's going on?
+客人2()<Speaker>Customer 2</Speaker>||:I give up too, let me out...
+指挥官()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Is it a terrorist attack? No, it's coming from DP-12's display...</color>+<color=#A9A9A9>Let's go take a look.</color>
+客人3()<Speaker>Customer 3</Speaker>||:Ahhh, I can't take it anymore! I give up, let me out! I need to catch my breath...
+DP12(2)<Speaker>DP-12</Speaker>||:What a shame, nobody managed to last until the end.+Does anybody else want to give it a try?
+DP12(2)<Speaker>Commander</Speaker>||:...DP-12? Are you hosting some kind of event?
+DP12(2)<Speaker>Customer 3</Speaker>||:Do you want to try your luck? Better not, it's way too scary. I couldn't take it after just a little bit...
+DP12(2)<Speaker>Commander</Speaker>||:Scary?
+DP12(2)<Speaker>DP-12</Speaker>||:It's a test of courage.
+DP12(2)<Speaker></Speaker>||:DP-12 gestures at the cabinet with the open doors behind her as she explains.+While the cabinet isn't too deep, the darkness within is as dreadful as an endless void.
+DP12(2)<Speaker>DP-12</Speaker>||:Well, Commander? +I have lots of stories to tell you.
+DP12(2)<Speaker>Commander</Speaker>||:...I'll pass, I need to start wrapping up the expo. Don't go overboard with this, DP-12!
+DP12(2)<Speaker>DP-12</Speaker>||<黑屏1>:Oh my, what a shame.+However, I'm sure I'll have many more opportunities in the future, so I'll let you off for now...+In the meantime, I should think about how to sell off this cabinet...

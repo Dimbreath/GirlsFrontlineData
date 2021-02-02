@@ -40,7 +40,7 @@ Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Thank goodness, i
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:They're long gone, probably because they lost one of their people.
 Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>I see... Was your opponent from Griffin too?</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Sorry, I got flashbanged before I could see them...
-K5(0)<Speaker>K5</Speaker>||:I did I did! I saw her! +I've never seen the enemy who chased us in Griffin before, but her silvery hair and lime green eyes were very striking!</color>
+K5(0)<Speaker>K5</Speaker>||:<color=#00CCFF>I did I did! I saw her!</color>+<color=#00CCFF>I've never met her at Griffin before, but her silver hair and lime green eyes were very striking!</color>
 Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Silvery hair and lime green eyes...?</color>
 K5(0)<Speaker>K5</Speaker>||:Is something wrong?
 Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I think we encountered the same enemy, but it's strange... How did she appear in two different places within such a short time frame..?</color>+<color=#00CCFF>I'm heading over to you ASAP. Be careful.</color>
@@ -128,8 +128,8 @@ HK416Mod(0)<Speaker>416</Speaker>||:...I have it. +This just might work.
 ()||:After checking the two pillars of light, 416 grabs the items she needs, then repositions herself behind another piece of cover, while also taking the chance to return fire in order to thin out the enemy's numbers.
 ()||<SE1>AVG_footsteps_cave</SE1>:Step—
 Vector(6)<Speaker>Hellfire</Speaker>||<SE1>Stop_AVG_loop</SE1>:You're struggling in vain... +The star of death is engraved in your destiny.
-HK416Mod(0)<Speaker>416</Speaker>||:Sorry about that, but treading destiny underfoot is my motto!
-HK416Mod(0)<Speaker>416</Speaker>||:<color=#A9A9A9>I'll have to take a shot.</color>+<color=#A9A9A9>Don't screw with me now—</color>
+HK416Mod(0)<Speaker>416</Speaker>||:Sorry about that, but trampling destiny underfoot is my motto!
+HK416Mod(0)<Speaker>416</Speaker>||:<color=#A9A9A9>I'll have to take a gamble here.</color>+<color=#A9A9A9>Don't screw with me now—</color>
 ()||<SE2>Gunfight</SE2>:Bang bang—
 ()||:The sound of brass casings tinkle crisply throughout the battlefield while 416's muzzle flashes more and more rapidly.
 Vector(6)<Speaker>Hellfire</Speaker>||:...Tsk.
@@ -172,7 +172,7 @@ Vector(7)<Speaker>Hellfire</Speaker>||:... +...Congratulations, 416. +But blood.
 HK416Mod(0)<Speaker>416</Speaker>||:...What the hell?
 ()||:416 carefully surveys her surroundings. Her sense of unease lingers. +It is only when she is certain that there is no sign of Hellfire pressing a counterattack that she finally relaxes.
 HK416Mod(0)<Speaker>416</Speaker>||:Good thing what happened to R93 wasn't a fluke. Otherwise I honestly have no idea what I could have done.
-()||:As 416 catches her breath, the remaining enemies start to gather again. +Even without their leader, they are still functional, and they soon redirect their attention to 416.
+()||:As 416 catches her breath, the remaining enemies start to regroup. +Even without their leader, they are still functional, and they soon redirect their attention to 416.
 HK416Mod(0)<Speaker>416</Speaker>||:Tsk... Never mind, time to split!
 ()||:But then she frowns in confusion.
 HK416Mod(0)<Speaker>416</Speaker>||:Wait, what was that again? +She said my name, didn't she? Does she know me? +This whole situation is really fishy...
