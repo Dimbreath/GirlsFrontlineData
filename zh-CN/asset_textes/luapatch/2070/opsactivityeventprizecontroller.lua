@@ -3,17 +3,21 @@ xlua.private_accessible(CS.OPSActivityEventPrizeController)
 
 local Start = function(self)
 	self:Start();
-	self.rightParent.gameObject:SetActive(false);
+	self.rightParent:GetComponent(typeof(CS.UnityEngine.RectTransform)).anchoredPosition = CS.UnityEngine.Vector2(-120,-400);
 	self.transform:Find("SideBar/ScrollRect").gameObject:SetActive(false);
 	self.transform:Find("SideBar/btnShowRewards").gameObject:SetActive(false);
+	self.transform:Find("Top/HorizontalLayout/Tile").gameObject:SetActive(false);
 end
-local InitRight = function(self)
-	self:InitRight();
-	self.rightParent.gameObject:SetActive(false);
-	self.transform:Find("SideBar/ScrollRect").gameObject:SetActive(false);
-	self.transform:Find("SideBar/btnShowRewards").gameObject:SetActive(false);
+
+local InitProcess = function(self,order)
+	self:InitProcess(order);
+	if order == 1 then
+		local image = self.PackageProcessParent:GetChild(order):Find("imgProgress/imgProgressFilled"):GetComponent(typeof(CS.ExImage));
+		local process = (self.currentEventPrizeData.Num -self.currentKeys[0])/(self.currentKeys[1]-self.currentKeys[0]);
+		image.fillAmount = process;
+	end
 end
 
 util.hotfix_ex(CS.OPSActivityEventPrizeController,'Start',Start)
-util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitRight',InitRight)
+util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitProcess',InitProcess)
 

@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Moon</BGM>:午后。+玛赫莲从睡梦中迷迷糊糊醒来。+床边坐着的人形也正在假寐。
+NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:唔……
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:你醒了。
+VP1915(0)<Speaker></Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:在玛赫莲轻轻伸懒腰之际，帕罗莎睁开了眼。
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:你睡得应该还不错吧？
+VP1915(0);NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:嗯，挺好的……+其他人呢？
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:她们在外面研究怎么制作人类食用的料理，听声音似乎进展得不太顺利。
+VP1915(0);NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
+VP1915(0);NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:玛赫莲侧耳倾听，房间外确实吵吵闹闹的，但听不太清她们到底在吵什么。
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:要出去看看吗？睡醒以后，走一走或许更易消乏。
+NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:好的。
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:玛赫莲从床上起身，跟着帕罗莎走出了屋外。
+()<Speaker></Speaker>||<黑屏2><BIN>129</BIN><BGM>m_avg_casual</BGM>:几个人形果然正在激烈争吵，厨房的灶台上摆放着几盘焦黑的不明物体。
+Kolibri(0)<Speaker>蜂鸟</Speaker>||:……你这样做菜，就算我把味觉模块关了都吃不下去！
+Kolibri(0);Derringer(0)<Speaker>德林加</Speaker>||<震屏>:你懂什么啊？！这可是我私藏的点心！
+Kolibri(0)<Speaker>蜂鸟</Speaker>;Derringer(0)||:那也不能拿来炸啊！
+Derringer(0)<Speaker>德林加</Speaker>||:指挥官说想吃热的嘛！
+NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:……
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(5)||:你们在吵什么？
+VP1915(0);Savage99(0)<Speaker>沙维奇</Speaker>||:帕罗莎，她们在争论饼干到底能不能和食材混在一起扔进油里炸。
+VP1915(0);Fedorov(0)<Speaker>菲德洛夫</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:快想想办法吧，帕罗莎，她们已经炸废好几盘了……
+()||<黑点2>:玛赫莲走到灶台边，轻轻拈了拈黑色的不明物体，然后放在唇边小小舔舐了一口……
+NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||<BGM>BGM_Danger</BGM>:……+这是……
+()<Speaker></Speaker>||<震屏>:一股强烈的鱼腥味纠缠着诡异的甜腻汹涌而来，以深海巨鲨的气势闯进口中，直冲天灵盖……+玛赫莲腿一软，坐到了地上。
+VP1915(0)<Speaker>帕罗莎</Speaker>||:玛赫莲！你没事吧？+快拿水来！
+VP1915(0);Savage99(0)<Speaker>沙维奇</Speaker>||<黑点1>:快用水漱漱口！
+()||<黑点2><BGM>BGM_Empty</BGM>:大口灌下纯净水，玛赫莲的意识清醒了过来。+看见玛赫莲小尝一口的反应后，蜂鸟和德林加更丧气了。
+VP1915(0)<Speaker>帕罗莎</Speaker>||<BGM>m_avg_casual</BGM>:你们看着玛赫莲，让我来吧。
+VP1915(0);Savage99(0)<Speaker>沙维奇</Speaker>||:诶，好久没见帕罗莎亲自下厨了。
+VP1915(0);Fedorov(0)<Speaker>菲德洛夫</Speaker>||:我来帮忙吧。
+VP1915(0)<Speaker></Speaker>||:帕罗莎娴熟地洗干净了鱼，然后去掉了骨头和头，将鱼切成片裹上面粉。+之后，帕罗莎将菲德洛夫处理好的土豆条和刚处理好的鱼一起放入了热油中。+不多时，一盘黄澄澄的炸鱼薯条已经端上了餐桌。
+Kolibri(0)<Speaker>蜂鸟</Speaker>||:哇——
+Kolibri(0);Derringer(0)<Speaker>德林加</Speaker>||:帕罗莎好厉害！
+Kolibri(0);NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:闻上去很香……
+VP1915(0)<Speaker></Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:帕罗莎将其中一份摆到了玛赫莲面前。
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:这是你的。
+VP1915(0);NPC-Machlian(8)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:我、我也有吗？谢谢你。
+NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:在人形们艳羡的目光中，玛赫莲紧张地拿起了一块薯条准备放入口中……
+()<Speaker></Speaker>||:AR小队结束采购回到了临时指挥处，正好赶上了这一幕。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:好香啊，你们在吃什么？
+AR15Mod(0)<Speaker>AR15</Speaker>||:给指挥官准备的下午茶好了吗？那我去叫指挥官了。
+()<Speaker></Speaker>||:AR15走向了指挥室。
+RO635Mod(0)<Speaker>RO635</Speaker>||:看上去，是英国料理啊。
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:好怀念基地的食堂啊！
+RO635Mod(0)<Speaker>RO635</Speaker>||:等我们回去就能吃到了。
+NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:玛赫莲缓慢地咀嚼着嘴里的薯条，外表酥脆，内里柔软，几乎没有加入调料，因而满嘴只有土豆本身的香气。
+Kolibri(0)<Speaker>蜂鸟</Speaker>||:你们基地的食堂……很好吃吗？
+Kolibri(0);Derringer(0)<Speaker>德林加</Speaker>||:爵士都不喜欢食堂什么的呢，说是有被投毒暗杀风险什么的……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Derringer(0)||:诶？我们基地的食堂可好吃了！各国风味的美食都有！+光说这个土豆啊，我们基地就有美式薯条、英式薯条、意式土豆泥、中式土豆丝……
+Derringer(0)<Speaker>德林加</Speaker>||:快别说了……
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:玛赫莲低头看了看盘中的炸鱼薯条，刚刚还觉得鲜美可口，现在突然就索然无味了起来。
+VP1915(0)<Speaker>帕罗莎</Speaker>||:不用这么丧气，说不定，我们也有机会拜访基地的食堂。
+Kolibri(0)<Speaker>蜂鸟</Speaker>||:真的吗？
+Kolibri(0);Savage99(0)<Speaker>沙维奇</Speaker>||:看爵士的意思，似乎是要我们长期跟着指挥官行动。
+Kolibri(0);Fedorov(0)<Speaker>菲德洛夫</Speaker>||:毕竟我们对帕拉蒂斯的了解还不够，和指挥官一起一定能学到很多东西。
+Kolibri(0);Derringer(0)<Speaker>德林加</Speaker>||:哇，好期待哦……
+Kolibri(0);NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:玛赫莲端着红茶杯，不知为何也点了点头。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Machlian(6)||:那你们要不要先跟大家打个招呼啊？
+M4 SOPMOD IIMod(0);Savage99(0)<Speaker>沙维奇</Speaker>||:打个招呼？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:就是录一个初次见面的打招呼视频！让基地的各位提前认识大家！
+RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官应该不会介意的，我待会再跟指挥官确认一下。
+()<Speaker></Speaker>||:狮鹫小队的目光齐刷刷转向了帕罗莎。
+VP1915(0)<Speaker>帕罗莎</Speaker>||:看你们的表情这么期待，我也不忍心拒绝了。
+Kolibri(0)<Speaker>蜂鸟</Speaker>||:太好了！等我整理一下仪容！
+Derringer(0)<Speaker>德林加</Speaker>||:该跟基地的各位说点什么好呢……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:快来呀，我的“香蕉”已经开始录了！
+()<Speaker></Speaker>||:狮鹫小队略带紧张地挨个走到“香蕉”的面前，开始自我介绍。+帕罗莎却来到了玛赫莲的身边。
+VP1915(0)<Speaker>帕罗莎</Speaker>||:你不过来一起吗？
+VP1915(0);NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:我就不必了吧……
+VP1915(0)<Speaker>帕罗莎</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:以我对指挥官的了解，说不定等任务结束了，我们还能在基地相遇。
+NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:嗯……
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:玛赫莲不安地握着茶杯，液体的表面无风无浪。+指挥官跟着AR15走出了指挥室，来到厨房。
+()<Speaker>指挥官</Speaker>||:我闻到了，好香啊。
+RO635Mod(0)<Speaker>RO635</Speaker>||:是帕罗莎亲自下厨做的炸鱼薯条。
+RO635Mod(0)<Speaker>指挥官</Speaker>||:看上去就很好吃，那我就不客气了。
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_Memorial</BGM>:指挥官，我想帮她们录一个和基地的大家打招呼视频！+要是大家知道有可爱的新人加入基地，一定会很高兴的！
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>指挥官</Speaker>||:好啊。
+VP1915(0)<Speaker>帕罗莎</Speaker>;M4 SOPMOD IIMod(0)||:指挥官，玛赫莲还没录呢。
+VP1915(0)<Speaker></Speaker>||:帕罗莎微笑着将玛赫莲从厨房中拉来。+玛赫莲涨红了脸，不知道该看向哪里。
+AR15Mod(0)<Speaker>AR15</Speaker>||:指挥官，她又不是——
+AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没关系嘛，15，你看铁血那帮家伙不也在基地过得开开心心的。
+AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker></Speaker>||:指挥官向AR15递过一个安抚的眼神，把薯条往她的方向推了推。
+AR15Mod(0)<Speaker>AR15</Speaker>||:……
+()<Speaker></Speaker>||:AR15没有吃薯条，但也没有再说反对的话。
+()<Speaker>指挥官</Speaker>||:过来吧，玛赫莲。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:来来来，看向这里，开始说吧！
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:玛赫莲局促不安地走到“香蕉”面前，看向了镜头。+一瞬间，她回想起了很多过去的画面，酸甜苦辣，百感交织。
+NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||<黑屏1>:……你们好，我叫玛赫莲。

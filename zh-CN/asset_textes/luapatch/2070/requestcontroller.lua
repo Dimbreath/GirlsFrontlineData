@@ -1,5 +1,6 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.RequestSangvisGashaDraw)
+xlua.private_accessible(CS.Package)
 local mySuccessHandleData = function(self, www)
     self:SuccessHandleData(www)
 	local jsonData = CS.ConnectionController.DecodeAndMapJson(www.text);
@@ -10,16 +11,9 @@ local mySuccessHandleData = function(self, www)
 			if(prizeInfo[i]:Contains("real_prize_info") == false) then
 				local prizeId = prizeInfo:GetValue(i).Int
 				prize = CS.GameData.listPrize:GetDataById(prizeId)
-			else
-				prize = Package(prizeInfo:GetValue(i):GetValue("real_prize_info"));
 			end	
 			if(prize ~= nil) then
-				--prize:GetPackage("sangvisPrize")
-				for  j = 0 , prize.listItemPackage.Count- 1 do
-					print("添加了道具")
-					local item = prize.listItemPackage[j];
-					item:GetItems(false);
-				end
+				prize:GetPackage("sangvisPrize")
 			end
 		end
 	end

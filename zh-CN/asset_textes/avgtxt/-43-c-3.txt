@@ -2,7 +2,7 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:0点19分 莱辛顿大道。+此刻，春田小队对地标boss的狩猎已经到了尾声。+看着闪着金光的高大人影轰然倒下，AA12收起枪，和97式一起靠近去收缴物资。
 NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>很好，特工。</color>+<color=#00CCFF>保持这个势头前进吧，充足的准备和慎重的态度，会让你们更接近成功。</color>
 MP7(0)<Speaker>MP7</Speaker>;NPC-Dima(1)||:春田说留下弹药，但是这些装备留下被别的玩家捡到的话，只会是我们的威胁。
-MP7(0)<Speaker>MP7</Speaker>;97type(0)||:那就都带上好啦，反正春田也不会来翻我们的背包。
+MP7(0);97type(0)<Speaker>97式</Speaker>||:那就都带上好啦，反正春田也不会来翻我们的背包。
 MP7(0);AA12(0)<Speaker>AA12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我们这里的boss已经消灭了，你们那边状况如何？</color>
 MP7(0)<Speaker>MP7</Speaker>;AA12(0)||:我这边的敌人消灭了，按春田之前说的，装到背包快满出来为止。+那么约个地方，我们会面？
 MP7(0);M1903(10)<Speaker>春田</Speaker><通讯框>||:<color=#00CCFF>呼……虽然还有一个地区boss没有找到，但是我们的确差不多该进去了。</color>+<color=#00CCFF>根据推测，最后一个boss附近刚好就能进入暗区。我把坐标发给你们，就在这个位置会合吧。</color>

@@ -16,5 +16,17 @@ local Resume = function(self)
 	self:Resume();
 end
 
+local _CancelPlan = function(self)
+	if CS.GameData.missionAction == nil then
+		CS.DeploymentPlanModeController.Instance:UpdateRecordMask();
+		CS.DeploymentPlanModeController.Instance:UpdatePlanMark();
+		CS.DeploymentPlanModeController.Instance.status = CS.DeploymentPlanModeController.PlanStatus.normal;
+		CS.DeploymentUIController.Instance:ShowHideButton(true);
+		CS.DeploymentUIController.Instance:SwitchAbovePanel(false);
+	else
+		self:_CancelPlan();
+	end
+end
 util.hotfix_ex(CS.DeploymentPlanModeController,'PausePlan',PausePlan)
 util.hotfix_ex(CS.DeploymentPlanModeController,'Resume',Resume)
+util.hotfix_ex(CS.DeploymentPlanModeController,'_CancelPlan',_CancelPlan)

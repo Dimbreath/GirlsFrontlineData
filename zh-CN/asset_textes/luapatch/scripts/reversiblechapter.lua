@@ -18,8 +18,6 @@ Start = function()
     local image = self:GetComponent(typeof(CS.ExImage));
     mat = CS.UnityEngine.Object.Instantiate(image.material);
     image.material = mat;
-    print(mat)
-    print(self.transform.parent.name)
     if mat ~= nil then
         timePerformanceWait = CS.UnityEngine.Time.time;
     else
