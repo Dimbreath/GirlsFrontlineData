@@ -9,7 +9,15 @@ local Start = function(self)
 	self.transform:Find("Top/HorizontalLayout/Tile").gameObject:SetActive(false);
 end
 
+local InitProcess = function(self,order)
+	self:InitProcess(order);
+	if order == 1 then
+		local image = self.PackageProcessParent:GetChild(order):Find("imgProgress/imgProgressFilled"):GetComponent(typeof(CS.ExImage));
+		local process = (self.currentEventPrizeData.Num -self.currentKeys[0])/(self.currentKeys[1]-self.currentKeys[0]);
+		image.fillAmount = process;
+	end
+end
 
 util.hotfix_ex(CS.OPSActivityEventPrizeController,'Start',Start)
---util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitRight',InitRight)
+util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitProcess',InitProcess)
 

@@ -8,4 +8,14 @@ local OnFinishAnimationEvent = function(self)
 	CS.DeploymentController.AddAction(SpotCapture,0.1);
 end
 
+local Init = function(self)
+	self:Init();
+	if self.effect ~= nil and not self.effect:isNull() then
+		CS.UnityEngine.Object.DestroyImmediate(self.effect);
+	end
+	if not self.packageIgnore then
+		self:ShowCommonEffect();
+	end
+end
 util.hotfix_ex(CS.DeploymentSpotController,'OnFinishAnimationEvent',OnFinishAnimationEvent)
+util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)

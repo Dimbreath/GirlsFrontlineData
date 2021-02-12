@@ -50,9 +50,20 @@ end
 local CheckEnemyDie = function()
 	CS.DeploymentController.Instance:CheckBuildCastSkillOnDeath();
 end
+
+local CheckLayer = function()
+	CS.DeploymentUIController.Instance:CheckLayer();
+	if CS.DeploymentBackgroundController.canClickLayers.Count == 1 then
+		local layer = CS.DeploymentBackgroundController.canClickLayers[0];
+		CS.DeploymentBackgroundController.Instance:SwitchLayer(layer,nil,true);
+	else
+		CS.DeploymentController.Instance:AddAndPlayPerformance(nil);
+	end
+end
 local RequestStartTurnHandle = function(self,www)
 	self:RequestStartTurnHandle(www);
 	CS.DeploymentController.Instance:AddAndPlayPerformance(CheckEnemyDie);
+	CS.DeploymentController.Instance:AddAndPlayPerformance(CheckLayer);
 end
 local AnalysisNightSpots = function(self,data,playSpotAnim,currentBelong,isSurrend)
 	self:AnalysisNightSpots(data,playSpotAnim,currentBelong,isSurrend);
@@ -65,10 +76,50 @@ local AnalysisNightSpots = function(self,data,playSpotAnim,currentBelong,isSurre
 		end
 	end
 end
+
+local startFriendAllyTeamTurn = function()
+	CS.DeploymentController.Instance:RequestFriendAllyTeamTurn();
+end
+
+local TriggerFriendAllyTeamTurnEvent = function()
+	CS.DeploymentPlanModeController.Instance.enabled = true;	
+	CS.DeploymentController.AddAction(startFriendAllyTeamTurn,0.1);
+end
+
+local canairborne = function(spot)
+	if spot.spotAction.HasTeam then 
+		return false;
+	end
+	if spot.spotAction.isRandom then 
+		return false;
+	end
+	if spot.CannotSee then 
+		return false;
+	end
+	for i=0,spot.spotAction.listSpecialAction.Count-1 do
+		local spotaction = spot.spotAction.listSpecialAction[i];
+		if spotaction.spotBuffInfo ~= nil and spotaction.spotBuffInfo.noairborne then
+			return false;
+		end
+	end
+	if spot.spotAction.buildingAction ~= nil and not spot.spotAction.buildingAction:CheckSpotActive() then 
+		return false;
+	end
+	return true;
+end
+
+local cantransfer = function(skill,spot)
+	if spot.spotAction.buildingAction ~= nil and not spot.spotAction.buildingAction:CheckSpotActive() then 
+		return false;
+	end
+	return CS.DeploymentController.cantransfer(skill,spot);
+end
 util.hotfix_ex(CS.DeploymentController,'RequestMoveTeamHandle',RequestMoveTeamHandle)
 util.hotfix_ex(CS.DeploymentController,'HasTeamCanUse',HasTeamCanUse)
 util.hotfix_ex(CS.DeploymentController,'CreateTeam',CreateTeam)
 util.hotfix_ex(CS.DeploymentController,'RequestStartTurnHandle',RequestStartTurnHandle)
 util.hotfix_ex(CS.DeploymentController,'AnalysisNightSpots',AnalysisNightSpots)
-
+util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
+util.hotfix_ex(CS.DeploymentController,'canairborne',canairborne)
+util.hotfix_ex(CS.DeploymentController,'cantransfer',cantransfer)
 

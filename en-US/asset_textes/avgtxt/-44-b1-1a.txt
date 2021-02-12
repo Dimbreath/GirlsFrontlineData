@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()<Speaker>M200</Speaker>||<BGM>m_avg_casual</BGM><黑屏2><BIN>197</BIN>:我正在整理与“帕拉蒂斯专项模拟作战”相关的数据。+为防止大家因为失误与实力波动产生争论，我将只介绍敌人的数据。
+()<Speaker>M200</Speaker>||:帕拉蒂斯的敌人大多拥有力场盾，因此我们需要重装小队的支持。+如何把握请求支持的时间，以及保护我们的援护者，这是我们初期就要面临的问题。
+()<Speaker>VHS</Speaker>||:和重装小队的配合吗……+这个交给我吧，我会跟G3好好沟通一下这方面的问题。
+NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:这是重剑士，该单位通常单独巡逻，但拥有高频率大范围伤害技能。+其中无法闪避的榴弹将对我们造成很大伤害，需要重装小队先破除力场盾后，我们再集火击杀。+我们需要考虑损伤，以及未来真正对上该类敌人时的减伤措施……
+NPC-Doppelsoldner(0)<Speaker>AUG PARA</Speaker>||:看上去这么神圣又漂亮的东西竟然是敌人？！
+NPC-Doppelsoldner(0)<Speaker>刘氏</Speaker>||:好遗憾哦……
+NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:的确，白色的外表很有迷惑性呢。+看起来神圣又漂亮的东西其实是敌人，看起来凶狠不留情的事物却是我们要保护的，这种事我们还会遇到多少次呢？
+NPC-Uhlan(0)<Speaker>M200</Speaker>||:第二个可能遇到的威胁是枪骑兵。+它们的速度较慢，但碾压造成的伤害是力场盾也无法免除的，因此需要特别注意它们发动碾压攻击的征兆。+但是如果我们能设置比较逼真的诱饵吸引火力，就能专注于破坏它……+当然，前提是它不会和其他敌人一起出现。
+NPC-Uhlan(0)<Speaker>VHS</Speaker>||:虽然速度较慢，但威力巨大吗？+我会留意它发起碾压的前摇动作的。
+NPC-Uhlan(0)<Speaker>刘氏</Speaker>||:看着比我们要大好多！
+NPC-Uhlan(0)<Speaker>AUG PARA</Speaker>||:格里芬的工作真是不简单啊。
+NPC-Rodelero(0)<Speaker>M200</Speaker><Position>0,+70</Position>||:剑盾士和射击士是我们在营救路上常常遇到的敌人类型，相对于枪骑兵和重剑士来说比较容易击败。
+NPC-Strelet(0)<Speaker>M200</Speaker>||:但它们常常成组出现，在数量上占据优势，混编的队伍还能互相弥补劣势，因此更难以击败。+听说汤姆森大姐的队伍面对混编情况时一次就推过去了，调色板的各位也很轻松，真是厉害！
+()<Speaker>AUG PARA</Speaker>||:厉害啊，不愧是人形。
+()<Speaker>VHS</Speaker>||:我们也一定没问题的。
+()<Speaker>刘氏</Speaker>||:……嗯！
+()<Speaker>M200</Speaker>||<黑屏2><BIN>9</BIN>:除了普通单位外，还有这些帕拉蒂斯的精英单位们。
+Nyto(1)<Speaker>M200</Speaker>||:黑涅托；
+NytoWhite(0)<Speaker>M200</Speaker>||:白涅托；
+NPC-Nimogen(0)<Speaker>M200</Speaker>||:妮莫金；
+NPC-Mercurows(0)<Speaker>M200</Speaker>||<黑屏1>:以及墨丘萝丝。
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||<BIN>73</BIN><黑屏2>:看上去只是穿着奇怪的小女孩啊……
+GeneralLiu(0)<Speaker>刘氏</Speaker>;AUGPARA(0)||:是啊，没想到竟然是敌方精英单位。
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||:她们不能像铁血一样被收归吗？+我还挺想和她们一起工作呢！
+AUGPARA(0)<Speaker>丹德莱的声音</Speaker>||:暂时没有找到收归帕拉蒂斯的方法，也许未来一天能实现你这个天真的想法也说不定。
+VHS(0)<Speaker>VHS</Speaker>||:M200，继续你的讲解吧。
+M200(0)<Speaker>M200</Speaker>||:啊，好的！+这些敌人大多同时有干扰和伤害的能力，速度极快，闪避也很高，而且还具备极强的电子渗透攻击。+相比起前面的敌人，我认为它们对我们的威胁才是最高的，一旦被渗透，我们将失去对素体的控制权……
+VHS(0)<Speaker>VHS</Speaker>||:对接下来要面对的敌人，你们还有什么问题吗？
+GeneralLiu(0)<Speaker>刘氏</Speaker>||:呜……没有了……
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||:没有问题！
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:就在这时，一个银发的人形匆匆跑了进来。
+SL8(0)<Speaker>SL8</Speaker>||:抱歉，我迟到了！+战前讲解进行到哪里啦？
+SL8(0);VHS(0)<Speaker>VHS</Speaker>||:……+已经结束了。+全体起立，出发。
+SL8(3)<Speaker>SL8</Speaker>||<黑屏1>:……哦。

@@ -21,17 +21,33 @@ local CheckControlUI  = function(self,teamcontroller)
 end
 
 local Init = function(self)
-	if CS.GameData.missionAction ~= nil then
-		local buildAction = CS.GameData.missionAction.listBuildingAction:GetDataById(self.spot.spotInfo.id);
-		buildAction._buildController = self;
-	end
 	self.buildAction._buildController = self;
 	--print(self.buildAction._buildController);
 	self:Init();
 	self.lastPercent = 0;
 end
 
+local buildAction = function(self)
+	if CS.GameData.missionAction ~= nil then		
+		local buildAction = CS.GameData.missionAction.listBuildingAction:GetDataById(self.spot.spotInfo.id);
+		return buildAction;
+	end	
+	return self.spot.buildingAction;
+end
+
+local CheckDefender = function(self,playcameramove,time)
+	if self.buildAction.CurrentCode == "iaso" then
+		if self.lastPercent>self.buildAction.percent then
+			local effect = CS.UnityEngine.GameObject.Instantiate(CS.ResManager.GetObjectByPath("Effect/Deployment/build_baoza"));
+			effect.transform:SetParent(self.spot.transform, false);
+		end
+		self.lastPercent =self.buildAction.percent;
+	end
+	self:CheckDefender(playcameramove,time);
+end
 util.hotfix_ex(CS.DeploymentBuildingController,'InitCode',InitCode)
 util.hotfix_ex(CS.DeploymentBuildingController,'CheckControlUI',CheckControlUI)
 util.hotfix_ex(CS.DeploymentBuildingController,'Init',Init)
+util.hotfix_ex(CS.DeploymentBuildingController,'get_buildAction',buildAction)
+util.hotfix_ex(CS.DeploymentBuildingController,'CheckDefender',CheckDefender)
 

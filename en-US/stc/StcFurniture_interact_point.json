@@ -624,6 +624,45 @@
         "group": ""
     },
     {
+        "id": 51,
+        "gun_action": "sit",
+        "is_cover": -1,
+        "sorting": 50,
+        "furiniture_action_interact": "",
+        "direction": 1,
+        "bone_name": "pointA",
+        "initial_angle": 0,
+        "end_action": "sit",
+        "need_action": "",
+        "group": ""
+    },
+    {
+        "id": 52,
+        "gun_action": "sit",
+        "is_cover": -1,
+        "sorting": 30,
+        "furiniture_action_interact": "",
+        "direction": 0,
+        "bone_name": "pointB",
+        "initial_angle": 0,
+        "end_action": "sit",
+        "need_action": "",
+        "group": ""
+    },
+    {
+        "id": 53,
+        "gun_action": "hotspring",
+        "is_cover": -1,
+        "sorting": 11,
+        "furiniture_action_interact": ",,,,action",
+        "direction": 0,
+        "bone_name": "",
+        "initial_angle": 0,
+        "end_action": "wait",
+        "need_action": "",
+        "group": ""
+    },
+    {
         "id": 104,
         "gun_action": "bird_sit",
         "is_cover": -1,

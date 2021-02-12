@@ -1,0 +1,50 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN><Night><BGM>m_avg_casual</BGM>:……玛赫莲的房间中。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_doorknock_wood</SE1>:15，我来换岗啦！
+AR15Mod(3)<Speaker>AR15</Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:15！
+()||:SOP2摇了摇AR15，AR15兀自紧闭双眼没有回应。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:诶？你在干嘛啊？+丹德莱也在……+哦，我懂了！你们在玛赫莲的虚识里！
+()||:SOP2绕着AR15和丹德莱跑了一圈。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你们怎么进去的？带带我啊！+我也想进去看看……
+AR15Mod(3)<Speaker>AR15</Speaker>||:……
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:……
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:怎么都不理我？！+真过分，我要告诉RO和指挥官！
+()||:SOP2生气地准备离开，手指无意中摸到了口袋里的颜料笔。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:诶，等等……
+()||<黑点1>:SOP2回过头来，目光停留在了AR15干净的脸上……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2>:嘻嘻，完成啦！+你真是个绘画小天才，SOP2！
+()||:SOP2满意地端详着自己的涂鸦作品。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那么，下一个！
+()||:SOP2蹦蹦跳跳地走到丹德莱面前，手中的笔逼近了丹德莱的脸。+丹德莱猛地睁开了眼，同时握住SOP2的手。
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:SOP2，别玩了。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:啊——
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:我和15正在执行指挥官的紧急任务，不要干扰。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我也可以来帮忙！
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:你乖乖回到房间里就是帮了最大的忙。
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:哼！
+()||<黑点1>:SOP2不甘心地扔掉了颜料笔，离开了玛赫莲的房间。
+()||<黑点2><BIN>332</BIN><BGM>BGM_Empty</BGM>:……玛赫莲的虚识中。+守卫空白区域的怪物已经被悉数消灭。
+AR15Mod(0)<Speaker>AR15</Speaker>||:你刚刚干什么去了？叫你半天没反应。
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:……没什么。
+()||:丹德莱玩味地在AR15的脸上搜寻了一圈，再次走向了空白区域的中心。
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:可以了。
+AR15Mod(0)<Speaker>AR15</Speaker>||:解锁成功了？
+NytoIsomer(7)<Speaker>丹德莱</Speaker>||:嗯。
+()||<黑屏1>:红色区域中浮现出了一个黑色的方块，AR15的手伸向其中……
+()||<黑屏2><BIN>317</BIN><common_effect>%%code=changjing_huafen%%</common_effect><边框>2</边框><BGM>10065</BGM>:……陌生的村庄。+昙花全部绽开，爆发般地喷出淡黄色花粉，将整个村庄淹没。
+NPC-Morridow(3)<Speaker>默莉朵</Speaker>||<边框>2</边框>:你做得很好。
+()<Speaker>村民</Speaker>||<边框>2</边框>:哪里哪里，不过是按照默莉朵大人的吩咐照做……
+NPC-Morridow(4)<Speaker>默莉朵</Speaker>||<边框>2</边框>:你已经完成了任务，没有什么价值了。
+()<Speaker>村民</Speaker>||<边框>2</边框>:……什么？
+()||<边框>2</边框><SE1>AVG_20Winter_Knife_Whoosh</SE1>:唰——+以肉眼无法捕捉的速度，默莉朵将面前跪在地上的村民劈成了两半。+血液飞溅到默莉朵的脸上，让她美丽的面孔显得诡谲可怖。
+NPC-Morridow(3)<Speaker>默莉朵</Speaker>||<边框>2</边框>:去村庄里确认下还没有幸存者。
+NytoWhite(0)<Speaker>白涅托</Speaker>||<边框>2</边框>:是。
+()||<黑点1><边框>2</边框>:白涅托涌向了黄雾笼罩的村庄，默莉朵舔舐掉刀上的血迹，离开了村庄……
+()||<黑点2><关闭蒙版><BIN>276</BIN><边框>2</边框><BGM>BGM_Empty</BGM>:……陌生的房间。
+()||<BGM>m_avg_labyrinth</BGM><边框>2</边框>:冰冷的地板上，躺着一具女性的尸体。+默莉朵坐在梳妆镜前，对着镜子擦掉脸上的血迹，然后重新化上妆。
+NPC-Morridow(3)<Speaker>默莉朵</Speaker>||<边框>2</边框>:“安洁，你好，我是乌尔利赫大使的秘书默莉朵，很高兴认识你。”
+()||<边框>2</边框><边框>2</边框>:默莉朵对着镜子不断调整着自己的表情和语气。
+NPC-Morridow(3)<Speaker>默莉朵</Speaker>||<边框>2</边框>:“你好啊，安洁，我是默莉朵，乌尔利赫大使的秘书。”+喂，那边的女人，你说我学得怎么样？跟你可以说是一模一样吧？
+()||<边框>2</边框>:默莉朵狞笑着揪起尸体的头发。
+NPC-Morridow(4)<Speaker>默莉朵</Speaker>||<边框>2</边框><黑屏1>:谢谢你哦，从今天开始，我会代替你好好生活的♪

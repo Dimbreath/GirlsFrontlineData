@@ -7,6 +7,7 @@ local Init = function(self)
 	if CS.DeploymentBackgroundController.currentLayerData ~= nil then
 		CS.DeploymentBackgroundController.currentLayerData:ShowEffect();
 	end
+	CS.DeploymentBuildSkillItem.showSelectSpot = false;
 end
 local Awake = function(self)
 	if CS.DeploymentBackgroundController.currentLayerData ~= nil then
