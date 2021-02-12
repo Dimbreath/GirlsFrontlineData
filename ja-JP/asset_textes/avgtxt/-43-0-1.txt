@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN>:……
-()<Speaker></Speaker>||:——アメリカ・マンハッタン。
+()<Speaker></Speaker>||:――アメリカ・マンハッタン。
 ()<Speaker></Speaker>||<黑屏1>:感染が爆発し、暗闇と吹雪がこの崩壊間近の区域を覆っていた……
 ()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:………………<下雪></下雪>
 ()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:銃声と弾頭が織り出す光の線は雪と風を貫く。+空中に漂う雪花は乱れた気流に吹き散らされ、//nそしてゆっくりと冷たいアスファルトのバリケードに落ちていく。+――二人の少女の影は相次いでそのバリケードを乗り越え、道端に//n止まっている一台のパトカーの片側に身を隠した。うち一人が半分空いた//n運転席のドアを閉めると、ドアのガラスにうっすらと彼女の顔が映し出された。
@@ -42,15 +42,15 @@ RFB(0)<Speaker>Am RFB</Speaker>||:離れすぎでしょ。+もうちょっと、
 NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>エージェント、残念だけど失敗よ。</color>+<color=#00CCFF>体勢を立て直し、再び――</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:……
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:——グリフィン宿舎、午前4時36分。
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:――グリフィン宿舎、午前4時36分。
 RFB(0)<Speaker>Am RFB</Speaker>||<震屏3>:<size=55>どうしてまたこうなるのよおおおおおおお——！</size>
 ()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:セカンダリレベルから戻ってきたRFBが苦悶の叫び声をあげた。+その声に反応したのは、//n騒音に耐えきれずに壁を「ドンドン！」と叩く隣の者だった。
-隔壁被吵醒的人形()<Speaker>隔壁被吵醒的人形</Speaker>||<SE1>AVG_doorknock_wood</SE1>:おい！こんな時間に何騒いでんだ！ELIDにでもかかったか？！
+隔壁被吵醒的人形()<Speaker>隣部屋の人形</Speaker>||<SE1>AVG_doorknock_wood</SE1>:おい！こんな時間に何騒いでんだ！ELIDにでもかかったか？！
 RFB(0)<Speaker>Am RFB</Speaker>||:うぅ……！
 ()<Speaker></Speaker>||:迷惑をかけていることに気づいたRFBは大人しく口をつぐんだ。//nしかし、自身が再び失敗したときの、実力不足を煽る「あの女」の声を、//n彼女ははっきりと覚えていた。+古参ゲーマーを自任してきたRFBは非常に不愉快だった。//nだが、セカンダリレベルに入り直す前に、//n苦い顔をした奴が勢いよく部屋に入ってきた。
 MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>違うゲームにしよう！</size>
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:へ？もう諦めるの？
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:『ディビジョン』がこんなに難しいなんて知らなかったもん。
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:このゲームがこんなに難しいなんて知らなかったもん。
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:これぐらい普通だよ、でないと楽しめないじゃん？
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:楽しむ？+そもそも匿名掲示板にすごい古いレトロゲーがあがってるから、//n興味が湧いてやってみただけじゃん。それなのに、//n夜の9時半から始めて気付けば朝の4時半だし、ボス戦で全滅するし。+楽しめたかどうかは分からないけど、//nそれ以前に身体の部品の寿命が尽きそうだよ！
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:最近は大した任務もないんだから、暇つぶしにちょうどいいじゃない。
@@ -75,7 +75,7 @@ RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:フフッ、こんな感じのメール
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:しかも、やってくる雑魚どもに私たちの実力を//n見せつけるチャンスじゃん！何だか楽しみになってきた、//nアハハハハ！
 RFB(0)<Speaker>Am RFB</Speaker>||:古参プレイヤーの私がいるんだから余裕でしょ、ハハハ！
 ()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:ドン！ドンドンッ！
-隔壁被吵醒的人形()<Speaker>隔壁被吵醒的人形</Speaker>||:<size=60>うるせーー！！！</size>
+隔壁被吵醒的人形()<Speaker>隣部屋の人形</Speaker>||:<size=60>うるせーー！！！</size>
 ()<Speaker></Speaker>||:お隣の怒りを買った二人は、大盛り上がりから一転、//n互いに人差し指を唇に当て口をつぐみ、//n次いで親指を立て――計画を始動させた。
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
@@ -84,7 +84,7 @@ RFB(0)<Speaker>Am RFB</Speaker>||:古参プレイヤーの私がいるんだか�
 ()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:――グリフィン本部。+朝、暖かな日差しが天窓から射し込んでいた。+廊下はまだ静かだった。ただ、時たま人形が二三名通りかかっては、//n何かに惹きつけられ、データルームの前に歩みを止めた。//nそしてしばらく眺めては、中へ入っていくのだった。
 ()<Speaker></Speaker>||:データルームに入ると、人形たちは部屋の奥の入り口に群がっていた。
 指挥官()<Speaker>指揮官</Speaker>||:そこに何かあるの？
-路过的人形()<Speaker>路过的人形</Speaker>||:あ、指揮官、おはようございます……+カリーナさんなんですけど、なんだか様子がおかしくて。
+路过的人形()<Speaker>通りすがりの人形</Speaker>||:あ、指揮官、おはようございます……+カリーナさんなんですけど、なんだか様子がおかしくて。
 ()<Speaker></Speaker>||:人形たちが指差す方向を見てみると、//nカリーナが微動だにせず、オフィスデスクに突っ伏していた。+全身から近寄りがたいオーラを発していたせいで、//n人形たちは病気ではないことは察した。
 NPC-Kalin(12)<Speaker>カリーナ</Speaker>||:ぁあ……指揮官、おはようございます……
 NPC-Kalin(12)<Speaker>指揮官</Speaker>||:うわっ、なんて顔色……+大丈夫なの？
@@ -102,7 +102,7 @@ NPC-Kalin(12)<Speaker>カリーナ</Speaker>||:はい、もう、お金がない
 NPC-Kalin(12)<Speaker>指揮官</Speaker>||:最近は確かに様々な原因のせいで委託を受けられなかったり、//n任務に派遣できなかったりしたけど、ここまで酷いはずはないんだけどな。
 NPC-Kalin(12)<Speaker>カリーナ</Speaker>||:いえ、財務で赤字を出すなんて、//n私のキャリアにおける汚点にほかなりません！
 NPC-Kalin(12)<Speaker>指揮官</Speaker>||:そんなに自分を責めないで、このことはヘリアンさんとも相談しておくから。//nその前に、君はまずしっかり休んでおいで。+君たち、カリーナの世話は任せたよ、私は司令室に用事がある。
-()<Speaker>围观的人形</Speaker>||:はい！
+()<Speaker>周囲の人形たち</Speaker>||:はい！
 ()<Speaker></Speaker>||:処理を終えて、指揮官がデータルームを去ろうとした時、//n思いがけず二名の人形と顔を合わせた。
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:あれ、ちょうど指揮官もいますね！
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:おっはよ～！
@@ -113,14 +113,14 @@ K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:そうなの、�
 K5(0)<Speaker>指揮官</Speaker>;R93(0)<Position>0,-100</Position>||:何があったのか、具体的に話してもらえる？
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:さっき仲間が匿名掲示板でこれを見つけたんですよ。
 ()<Speaker></Speaker>||:カリーナに見せるために準備をしてあったのか、//nR93は私が持ち歩いてるデータ端末を確認するよう促した。//n端末にはR93からの通信リクエストが届いていた。+許可すると、一通のメールが画面上に展開され、//n螺旋状のロゴが落款の場所に押されていた。
-指挥官()<Speaker>指揮官</Speaker>||:「……大型イベント――『ディビジョン』サバイバル大会？」+どうした、カリーナをこのゲームに誘うつもりなのか？
+指挥官()<Speaker>指揮官</Speaker>||:「……大型イベント――チーム対抗戦？」+どうした、カリーナをこのゲームに誘うつもりなのか？
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:そういうわけではなく、このメールのポイントはイベント報酬――//n勝者には一千万の賞金って部分です、一千万ですよ！
 R93(0)<Speaker>指揮官</Speaker><Position>0,-100</Position>||:こういう大げさな内容のものは大抵詐欺だよ、信憑性は低い。
 K5(0)<Speaker>K5</Speaker>||:ずいぶん経験があるみたいね？
 K5(0)<Speaker>指揮官</Speaker>||:ずっと昔の平和な時代でも、こういう詐欺は多かった。//nましてや今の世の中なんて……+まあいい、君たちも分かってるはずだ。
 K5(0)<Speaker>K5</Speaker>||:しかし、私が占ったところによると、今日はかなり金運が上がっているし、//nどう考えてもこのゲームが関係してるよ。+本当に検討しなくていいの？
 K5(0)<Speaker>指揮官</Speaker>||:そうは言っても、そんな怪しげなメールには誰も興味なんて……
-()<Speaker>格琳娜的声音</Speaker>||<震屏3>:一千万はどこ？！
+()<Speaker>カリーナの声</Speaker>||<震屏3>:一千万はどこ？！
 ()<Speaker></Speaker>||:……+……結論を下すには早かったようだ、//n現に興味を持つ人間が約一名存在したのだから。
 K5(0)<Speaker>K5</Speaker>||:あ、カリーナさん！
 指挥官()<Speaker>指揮官</Speaker>||:突然すごい元気出てるけど、身体は大丈夫なの？
@@ -156,13 +156,13 @@ NPC-Kalin(9)<Speaker>カリーナ</Speaker>||:い、いやぁ、そんなわけ�
 ()<Speaker>ISAC</Speaker>||:深部体温が低下、適正値を下回っています。
 NPC-Kalin(11)<Speaker>カリーナ</Speaker>||:このゲーム、そんな要素もあるんですか？！
 NPC-Kalin(11)<Speaker>指揮官</Speaker>||:この大雪だからね……よほどの劣悪な環境を再現してるんだと思う、//n恐らくグリーンエリア以上のね。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>エージェント、こちらディーマ。</color>+<color=#00CCFF>そちらの状況は最悪ってほどではないようね。ともかく、いまはミッションが最優先よ。一刻も早く、ダークゾーンで薬品を回収し帰還してちょうだい。</color>
+NPC-Dima(1)<Speaker>ディーマ</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>エージェント、こちらディーマ。</color>+<color=#00CCFF>そちらの状況は最悪ってほどではないようね。ともかく、いまはミッションが最優先よ。一刻も早く、ダークゾーンで薬品を回収し帰還してちょうだい。</color>
 NPC-Kalin(11)<Speaker>カリーナ</Speaker>;NPC-Dima(1)||:私たちの任務は薬品の回収みたいですね？+というか、このディーマさんって誰でしょう……？
-NPC-Kalin(11);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>SHDのエージェント「ディーマ」よ。</color>+<color=#00CCFF>私も数日早く送り込まれた程度だけど、これからは私があなたたちのミッションをサポートする。</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>ディーマ</Speaker><通讯框>||:<color=#00CCFF>SHDのエージェント「ディーマ」よ。</color>+<color=#00CCFF>私も数日早く送り込まれた程度だけど、これからは私があなたたちのミッションをサポートする。</color>
 NPC-Kalin(11);NPC-Dima(1)<Speaker>指揮官</Speaker>||:なるほど、ゲームの進め方を教えてくれるNPCなのね。
-NPC-Kalin(11);NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||:<color=#00CCFF>ISACは故障していないようね。でも、出発前に身の回りを一度整えた方がいい。</color>+<color=#00CCFF>必要なタイミングで情報は随時共有する。それじゃ、エージェント、幸運を祈る。</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>ディーマ</Speaker><通讯框>||:<color=#00CCFF>ISACは故障していないようね。でも、出発前に身の回りを一度整えた方がいい。</color>+<color=#00CCFF>必要なタイミングで情報は随時共有する。それじゃ、エージェント、幸運を祈る。</color>
 NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:【通信が切断されました】
-NPC-Kalin(11)<Speaker>カリーナ</Speaker>||:ISACっていうのは、さっきの人工智能みたいな声のことですかね……？
+NPC-Kalin(11)<Speaker>カリーナ</Speaker>||:ISACっていうのは、さっきの人工知能みたいな声のことですかね……？
 ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:インテリジェント・システム・アナリティック・コンピューター起動。//n全ISACシステム、ネットワークに接続。+武器のテスト開始……
 指挥官()<Speaker>指揮官</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:見て、チュートリアルだよ。
 NPC-Kalin(13)<Speaker>カリーナ</Speaker>||:へぇ～、チュートリアルなんて必要ですか？
@@ -173,10 +173,10 @@ NPC-Kalin(13)<Speaker>カリーナ</Speaker>||:任せてください！普段は
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……<火焰销毁></火焰销毁>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:間もなく、拡散する霧の中から銃声が響いてきた。
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>……</color>+<color=#00CCFF>残念だけど……</color>
+NPC-Dima(1)<Speaker>ディーマ</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>……</color>+<color=#00CCFF>残念だけど……</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:――司令室。
-()<Speaker>指挥官</Speaker>||:……
+()<Speaker>指揮官</Speaker>||:……
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:指揮官、カリーナさん……ずいぶん早いのですね？
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:言わなくても分かるよ、指揮官が一緒なんだから、//nもちろん勝ったんだよね？
 K5(0)<Speaker>指揮官</Speaker>||:ゴホン。これを見れば分かるよ。
@@ -214,6 +214,6 @@ RFB(0)<Speaker>Am RFB</Speaker>||:ふぅ～+なんとか戻ってこれた……
 RFB()<Speaker>Am RFB</Speaker>||<震屏3>:<size=60>NOOOOOOOOOOOO！！！！</size>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:……
-NPC-Dima(1)<Speaker>蒂玛</Speaker>||:はぁ、この人形たちで本当に大丈夫なのか？
-()<Speaker>系统</Speaker>||:――ゲーム内プレイヤー：残り20名。
+NPC-Dima(1)<Speaker>ディーマ</Speaker>||:はぁ、この人形たちで本当に大丈夫なのか？
+()<Speaker>システム</Speaker>||:――ゲーム内プレイヤー：残り20名。
 ()||<黑屏1>:

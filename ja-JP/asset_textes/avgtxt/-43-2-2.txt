@@ -39,7 +39,7 @@ P7(0)<Speaker>P7</Speaker>||:どうやら兄貴の解答範囲内にはなかっ
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:兄貴、図書館の中に敵がまだいるみたいだけど、//nまずなんとか門を開かないといけないね。
 P7(0)<Speaker>P7</Speaker>||:それとも、近くにカギがあるかも……
 M870P(0)<Speaker>M870</Speaker>||:カギ？そんなものは必要ないわ。
-()<Speaker></Speaker>||:ART-556とP7が道を譲ると、M870は図書館の門前に進み、//nカギを破壊した後、正門を蹴破った。+門の後ろには案の定ショットガンを構えた悪党が待ち構えていたが、//nM870が手を出すより早く、眼前の男は背後から急所を撃ち抜かれた。
+()<Speaker></Speaker>||:ART556とP7が道を譲ると、M870は図書館の門前に進み、//nカギを破壊した後、正門を蹴破った。+門の後ろには案の定ショットガンを構えた悪党が待ち構えていたが、//nM870が手を出すより早く、眼前の男は背後から急所を撃ち抜かれた。
 ()<Speaker></Speaker>||:敵は地面に倒れ、黒と赤のマントを身に纏い、//nアサルトライフルを手に持つツインテールの少女が現れた。
 97type(0)<Speaker>97式</Speaker>||:……+えっと、ハロー？
 M870P(0)<Speaker>M870</Speaker>||<SE1>AVG_weapon_reload</SE1>:警察だ！+蜂の巣にされたくなければ、今すぐに両手を上げろ！
@@ -49,13 +49,13 @@ VSK(0)<Speaker>VSK-94</Speaker>||:今度は他のプレイヤーですか？ま�
 P7(0)<Speaker>P7</Speaker>||:後輩ちゃん、惑わされちゃダメよ。//n何も抵抗しないよう見せかけて、//n背後で何か企んでることだってあるんだから。
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:全くもってその通り！
 VSK(0)<Speaker>VSK-94</Speaker>||:それって、自分たちのことを言ってます？
-AA12(0)<Speaker>AA12</Speaker>||:97、もう出発の時間だよ、何をぐずぐず……+そいつらは誰？
-97type(0)<Speaker>97式</Speaker>||:12ーー！け、警察よ！
-AA12(0)<Speaker>AA12</Speaker>||:警察？あそこのチビシスターと犬耳のガキのこと？
+AA12(0)<Speaker>AA-12</Speaker>||:97、もう出発の時間だよ、何をぐずぐず……+そいつらは誰？
+97type(0)<Speaker>97式</Speaker>||:12ーー！け、警察だよ！
+AA12(0)<Speaker>AA-12</Speaker>||:警察？あそこのチビシスターと犬耳のガキのこと？
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:キツネだよ！
-AA12(0)<Speaker>AA12</Speaker>||:なんでもいいけど、私たちは行くよ。
+AA12(0)<Speaker>AA-12</Speaker>||:なんでもいいけど、私たちは行くよ。
 M870P(0)<Speaker>M870</Speaker>;AA12(0)||:あらら、なんだかすごく怖い顔の奴が出てきたけど、//n指名手配を逃れているうちに濃いクマが出来ちゃったのかな？
-M870P(0);AA12(0)<Speaker>AA12</Speaker>||:……は？
+M870P(0);AA12(0)<Speaker>AA-12</Speaker>||:……は？
 M870P(0)<Speaker>M870</Speaker>||:「は？」じゃないわよ、//n降参に3秒やるから、大人しく物資を全部差し出しなさい！
 M1903(10)<Speaker>スプリングフィールド</Speaker>||:97、何かあったのですか？
 97type(0)<Speaker>97式</Speaker>||:スプリングフィールドさん！け、警察が略奪に来たのよ！
@@ -65,7 +65,7 @@ M870P(0)<Speaker>M870</Speaker>||:いるよ、今からね。
 P7(0)<Speaker>P7</Speaker>||:後輩、銃だよ！
 VSK(0)<Speaker>VSK-94</Speaker>||:あ、すみません、被疑者や暴力行為以外の//n目標に銃を向けるのは慣れていなくて。
 M870P(0)<Speaker>M870</Speaker>||:大丈夫、すぐに起きるわ。
-AA12(0)<Speaker>AA12</Speaker>||:人の暴力を指摘しておきながら、//n自分は暴力を使うなんて、不快な連中だな。//nしかしここまで来たら、もう話し合いの余地もないみたいね？
+AA12(0)<Speaker>AA-12</Speaker>||:人の暴力を指摘しておきながら、//n自分は暴力を使うなんて、不快な連中だな。//nしかしここまで来たら、もう話し合いの余地もないみたいね？
 M1903(10)<Speaker>スプリングフィールド</Speaker>||:待ってください、可能であれば、やはり戦闘は避けた方が賢明です。+物資が必要なんですよね、//nこちらにはたくさんあるので、もしよければ……
 ()<Speaker></Speaker>||:スプリングフィールドが操作を行うと、その前に光の柱が現れた。
 M1903(10)<Speaker>スプリングフィールド</Speaker>||:ここに寒さを凌ぐ衣服が……
@@ -88,11 +88,11 @@ ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:この床に転が
 M1903(10)<Speaker>スプリングフィールド</Speaker>||:あらあら、聞いてる限りは本当にかわいそうですね。
 MP7(4)<Speaker>Gr MP7</Speaker>||:どう見ても97式かあんたたちがさっき倒した奴でしょ？
 P7(0)<Speaker>P7</Speaker>||:今からそいつは図書館管理員だから～！
-AA12(0)<Speaker>AA12</Speaker>||:チッ、濡れ衣を着せるつもり？
+AA12(0)<Speaker>AA-12</Speaker>||:チッ、濡れ衣を着せるつもり？
 M870P(0)<Speaker>M870</Speaker>||:これは正義の主張って言うのよ。追いかけっこはいつまでも続くわ、//nたとえあんたたちが犯罪現場に立ちたくなくても、//nあたしはいくらでも非常線を広げてあんたたちを囲い込む。
-AA12(0)<Speaker>AA12</Speaker>||<SE1>AVG_weapon_reload</SE1>:もう我慢できない。
+AA12(0)<Speaker>AA-12</Speaker>||<SE1>AVG_weapon_reload</SE1>:もう我慢できない。
 M1903(10)<Speaker>スプリングフィールド</Speaker>||:AA-12さん、避けられる争いは避けるべきですよ、//n少なくとも私たちの態度をはっきり示さないと。
-VSK(0)<Speaker>VSK-94</Speaker>||:……+870、窃盗程度では、交戦するには至らないんじゃないですか？
+VSK(0)<Speaker>VSK-94</Speaker>||:……+M870、窃盗程度では、交戦するには至らないんじゃないですか？
 M870P(0)<Speaker>M870</Speaker>;VSK(0)||:そう？ならもう一つ、暴行罪も付け加えておくわ。
 M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:警察を演じるのでしたら、//n全く敵意のない相手と争う必要はないと思いますが。
 M870P(0)<Speaker>M870</Speaker>;VSK(0)||:仮に敵意があると後で気づいたら、//n真っ先に倒れるのはあんたでしょうね。
@@ -104,7 +104,7 @@ VSK(0)<Speaker>VSK-94</Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:この�
 M1903(11)<Speaker>スプリングフィールド</Speaker>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:ちょ、止めて、みんな止めてください！
 P7(0)<Speaker>P7</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:わわわっ！
 P7(0)<Speaker>P7</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:だれ？！だれが撃ってるの？！
-AA12(0)<Speaker>AA12</Speaker>||<SE1>AVG_weapon_reload</SE1>:ダメだ、こいつら端から暴力以外の手段を考えていない！
+AA12(0)<Speaker>AA-12</Speaker>||<SE1>AVG_weapon_reload</SE1>:ダメだ、こいつら端から暴力以外の手段を考えていない！
 97type(0)<Speaker>97式</Speaker>||<SE2>Gunfight</SE2>:フレアもあなたたちの仕業でしょ？！
 MP7(4)<Speaker>Gr MP7</Speaker>||:うーん、今は撤退した方がいいんじゃない？+少なくとも、どこかに隠れた方がよくない？
 M1903(11)<Speaker>スプリングフィールド</Speaker>||:これは収まりそうにありませんね……+ひとまずここを離れましょう。97さん、来てください。
@@ -117,6 +117,6 @@ VSK(0)<Speaker>VSK-94</Speaker>||:待って、単独行動しないでくださ�
 M870P(0)<Speaker>M870</Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:あなたたちには黙秘する権利があります！
 M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||<Shake>0.1</Shake>:視界ももう回復してますよね？//nもう虚空に向かって発砲するのはやめてください！
 M870P(0)<Speaker>M870</Speaker>;VSK(0)||:あ？そこにいたのね。+言ったでしょ、相手が敵意をむき出してからだと遅いと。
-M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:スプリングフィールドたちのことはどうでもいいんです。//nただ、拾った弾や装備のほとんどがART-556とP7のバッグの中にありますし、//n早く追いかけなくていいんですか？
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:スプリングフィールドたちのことはどうでもいいんです。//nただ、拾った弾や装備のほとんどがART556とP7のバッグの中にありますし、//n早く追いかけなくていいんですか？
 M870P(0)<Speaker>M870</Speaker>||:この程度なら何の問題もないわ。//nあたしが思うに、3分以内には追い付いてくるよ。+よし、引き続き前進！
 ()||<黑点1>:

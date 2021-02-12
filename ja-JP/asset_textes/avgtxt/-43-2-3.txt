@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>301</BIN>:……+吹雪がなおも街を襲い続け、劣悪な天候のせいで5メートル先を見通すことも容易ではなかった。+こんな状況下で街をぶらつこうものなら、//nきっと突如姿を現した背丈の小さな二人に嚇かされたことだろう。<下雪></下雪>
+()<Speaker></Speaker>||<黑屏2><BIN>301</BIN>:……+吹雪がなおも街を襲い続け、劣悪な天候のせいで//n5メートル先を見通すことも容易ではなかった。+こんな状況下で街をぶらつこうものなら、//nきっと突如姿を現した背丈の小さな二人に嚇かされたことだろう。<下雪></下雪>
 P7(0)<Speaker>P7</Speaker>||<BGM>m_avg_casual</BGM>:こちら7号警部補、異常なし、ラジャー！
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:こちら556号警部補、同じく異常なし、ラジャー！
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:返答が聞こえると、P7は振り返り、//n無線で自分と会話している奴の耳を引っ張った。
@@ -19,7 +19,7 @@ P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:今でも十
 P7(0)<Speaker>P7</Speaker>;ART556(0)||:でもかなりの時間も無駄にしてるよ。つまり、迷子になってる間に、//n楽しいイベントをたくさん逃してるかもしれないんだよ！
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:……+兄貴がいなくとも、BGMを流しさえすれば、//nあたしたちの「仕事」を行うことはできるよ。
 P7(0)<Speaker>P7</Speaker>||:どういう意味？
-()<Speaker></Speaker>||:ART-556は自分たちが向かおうとしている方向を指さした。//nそこには、吹雪の中を歩く人影が微かに見えた。
+()<Speaker></Speaker>||:ART556は自分たちが向かおうとしている方向を指さした。//nそこには、吹雪の中を歩く人影が微かに見えた。
 P7(0)<Speaker>P7</Speaker>||:おぉ～、もしかしたらはぐれた人かな？
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:敵かどうかは分からないけど、一人だけなら簡単に片づけられるでしょ？
 P7(0)<Speaker>P7</Speaker>;ART556(0)<Position>0,40</Position>||:よし、じゃあ今すぐやっつけよう、//nきっとおいしい食べ物を持ってるはずよ！
@@ -27,8 +27,8 @@ P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:それは疑
 P7(0)<Speaker>P7</Speaker>||:追いかけっこの一部ね、えへへ！
 ()<Speaker></Speaker>||<BGM>BGM_War</BGM>:カチャ。
 ()<Speaker></Speaker>||:「警察」を自任する二名の人形は不敵な笑みを浮かべると、//n使い慣れた爆弾とグレネードを取り出し、//n専用のBGMをかけながらターゲットに近づいた……
-()<Speaker>ART-556的声音</Speaker>||:警――
-()<Speaker>P7的声音</Speaker>||:警――
-NPC-Dima(1)<Speaker>蒂玛</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>クリーナーズ！</color>+<color=#00CCFF>エージェント、彼はクリーナーズの中でも戦闘力が極めて高いインシネレーターよ、気をつけて！</color>
-()<Speaker>ART-556&P7</Speaker>||:インシネレータああああああああーー！
+()<Speaker>ART556の声</Speaker>||:警――
+()<Speaker>P7の声</Speaker>||:警――
+NPC-Dima(1)<Speaker>ディーマ</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>クリーナーズ！</color>+<color=#00CCFF>エージェント、彼はクリーナーズの中でも戦闘力が極めて高いインシネレーターよ、気をつけて！</color>
+()<Speaker>ART556&P7</Speaker>||:インシネレータああああああああーー！
 ()||<黑点1>:

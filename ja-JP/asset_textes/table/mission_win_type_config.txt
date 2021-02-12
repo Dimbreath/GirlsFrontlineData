@@ -55,14 +55,14 @@ mission_win_type_config-10335900,M4A1と接触(特殊戦闘)、M4A1を倒さず�
 mission_win_type_config-10335910,
 mission_win_type_config-10336000,
 mission_win_type_config-10336001,
-mission_win_type_config-10336200,
+mission_win_type_config-10336200,全ての防御ゲートI型を開く(ターン終了時に精算)
 mission_win_type_config-10336210,
 mission_win_type_config-10336300,
 mission_win_type_config-10333600,戦闘が発生しない
 mission_win_type_config-10333800,
 mission_win_type_config-10334100,
 mission_win_type_config-10334600,
-mission_win_type_config-10334700,
+mission_win_type_config-10334700,M4A1を手助けし味方司令部まで移動させる(ターン終了時に精算)
 mission_win_type_config-10334701,
 mission_win_type_config-10336400,戦闘が発生しない
 mission_win_type_config-10336401,部隊を撤退させない
@@ -73,7 +73,7 @@ mission_win_type_config-10336600,
 mission_win_type_config-10336601,
 mission_win_type_config-10336610,
 mission_win_type_config-10337000,
-mission_win_type_config-10337100,
+mission_win_type_config-10337100,M4A1を手助けし大型飛行場まで移動させる(ターン終了時に精算)
 mission_win_type_config-10337101,
 mission_win_type_config-10010220,
 mission_win_type_config-10010221,
@@ -132,7 +132,7 @@ mission_win_type_config-10361201,
 mission_win_type_config-10361202,
 mission_win_type_config-10361203,
 mission_win_type_config-10361204,
-mission_win_type_config-10361300,
+mission_win_type_config-10361300,最低4名を撃破する(赤色側)
 mission_win_type_config-10361400,要路爆破Ⅱ
 mission_win_type_config-10361401,
 mission_win_type_config-10361402,Bossを除く赤色の敵を全て倒す(達成したターンの終了時に達成とみなされます)
@@ -226,24 +226,24 @@ mission_win_type_config-19130200,
 mission_win_type_config-19130210,
 mission_win_type_config-19130300,
 mission_win_type_config-19130310,
-mission_win_type_config-19130500,
-mission_win_type_config-19130510,
+mission_win_type_config-19130500,エゴールを上のレーダーポイントに誘い込む//n<color=#FFFF00>·ターン終了時に精算し達成</color>
+mission_win_type_config-19130510,左上の通路を爆破し塞ぐ。//n<color=#FFFF00>·3</color>
 mission_win_type_config-19130511,防御ゲートを全て爆破する
-mission_win_type_config-19130600,
-mission_win_type_config-19130601,
-mission_win_type_config-19130610,
-mission_win_type_config-19130611,
-mission_win_type_config-19130700,
+mission_win_type_config-19130600,エゴールを撃破する(ターゲットの溺れ状態が続くとダメージと弱化効果を受ける)//n<color=#FFFF00>·ターン終了時に精算し達成</color>
+mission_win_type_config-19130601,制御パネルのあるマスを占領する
+mission_win_type_config-19130610,溺れ状態によるダメージだけでエゴールを撃破する//n<color=#FFFF00>·戦闘が発生した場合は失敗判定となる</color>
+mission_win_type_config-19130611,アンジェを保護する//n<color=#FFFF00>·溺れ状態になると死亡し、失敗判定となる</color>
+mission_win_type_config-19130700,人混みの中から本来のM16A1のメンタルを探し出し、連れ戻そう
 mission_win_type_config-19130710,
 mission_win_type_config-19130800,
 mission_win_type_config-19130810,
-mission_win_type_config-19130910,
+mission_win_type_config-19130910,エリザを傷つけずにヒトデを制圧する(司令部占領)
 mission_win_type_config-19131010,
 mission_win_type_config-10260900,
 mission_win_type_config-10260901,
 mission_win_type_config-16400101,
-mission_win_type_config-16400201,
-mission_win_type_config-16400301,
+mission_win_type_config-16400201,がマークしている中の任意のポイントを一ヵ所占領する
+mission_win_type_config-16400301,制御パネル操作
 mission_win_type_config-16400401,
 mission_win_type_config-16380101,3ターン持ちこたえる
 mission_win_type_config-16380501,
@@ -257,3 +257,206 @@ mission_win_type_config-10381800,
 mission_win_type_config-10381900,カノに追いつき、会話を試みる//n<color=#FFFF00>·右下のレーダーポイントまで移動する</color>
 mission_win_type_config-10381901,
 mission_win_type_config-10382000,ヘンリエッタのロジック迷宮を攻略する//n<color=#FFFF00>·敵司令部を占領し、ターンを終了する</color>
+mission_win_type_config-74101011,
+mission_win_type_config-74101021,
+mission_win_type_config-74102011,
+mission_win_type_config-74102021,
+mission_win_type_config-74102031,
+mission_win_type_config-74102041,
+mission_win_type_config-74102051,
+mission_win_type_config-74102061,
+mission_win_type_config-74102062,
+mission_win_type_config-74102071,
+mission_win_type_config-74102081,
+mission_win_type_config-74102091,
+mission_win_type_config-74102101,
+mission_win_type_config-74104011,
+mission_win_type_config-74104021,
+mission_win_type_config-74104031,
+mission_win_type_config-74104041,
+mission_win_type_config-74104042,
+mission_win_type_config-74104051,
+mission_win_type_config-74104061,
+mission_win_type_config-74104071,
+mission_win_type_config-74104081,
+mission_win_type_config-74104091,
+mission_win_type_config-74104101,
+mission_win_type_config-74101031,
+mission_win_type_config-74102111,
+mission_win_type_config-74103111,
+mission_win_type_config-11051210,
+mission_win_type_config-11051220,
+mission_win_type_config-11051230,
+mission_win_type_config-11051240,
+mission_win_type_config-11051250,
+mission_win_type_config-11051260,
+mission_win_type_config-11051270,
+mission_win_type_config-11051280,
+mission_win_type_config-11051290,
+mission_win_type_config-11051291,
+mission_win_type_config-11051200,
+mission_win_type_config-11051410,
+mission_win_type_config-11051420,
+mission_win_type_config-11051430,
+mission_win_type_config-11051431,
+mission_win_type_config-11051500,
+mission_win_type_config-11051501,
+mission_win_type_config-11051502,
+mission_win_type_config-11051503,
+mission_win_type_config-11051504,
+mission_win_type_config-11051600,
+mission_win_type_config-11051601,
+mission_win_type_config-11051602,
+mission_win_type_config-11051603,
+mission_win_type_config-11051604,
+mission_win_type_config-11051605,
+mission_win_type_config-11051606,
+mission_win_type_config-11051607,
+mission_win_type_config-11051608,
+mission_win_type_config-11051609,
+mission_win_type_config-11051610,
+mission_win_type_config-11051611,
+mission_win_type_config-11051612,
+mission_win_type_config-11051613,
+mission_win_type_config-11051614,
+mission_win_type_config-11051700,
+mission_win_type_config-11051701,
+mission_win_type_config-11051702,
+mission_win_type_config-11051703,
+mission_win_type_config-11051704,
+mission_win_type_config-11051705,
+mission_win_type_config-11051706,
+mission_win_type_config-11051707,
+mission_win_type_config-11051708,
+mission_win_type_config-11051709,
+mission_win_type_config-11051710,
+mission_win_type_config-11051711,
+mission_win_type_config-11051712,
+mission_win_type_config-11051713,
+mission_win_type_config-11052000,
+mission_win_type_config-11051800,
+mission_win_type_config-11051801,
+mission_win_type_config-11051802,
+mission_win_type_config-11051803,
+mission_win_type_config-11051804,
+mission_win_type_config-11051805,
+mission_win_type_config-11051806,
+mission_win_type_config-11051807,
+mission_win_type_config-11051808,
+mission_win_type_config-11051809,
+mission_win_type_config-11051810,
+mission_win_type_config-11051811,
+mission_win_type_config-11051812,
+mission_win_type_config-11051813,
+mission_win_type_config-10420201,
+mission_win_type_config-10420301,
+mission_win_type_config-10420501,
+mission_win_type_config-10420601,
+mission_win_type_config-10420701,
+mission_win_type_config-10420702,
+mission_win_type_config-10420703,
+mission_win_type_config-16430101,AK-47を難民キャンプまで引き付ける
+mission_win_type_config-16430102,区域から逃げる（指定のマスを占領する）
+mission_win_type_config-16430201,M870チームとスプリングフィールドチームを対峙させる（光るマスまで行く）
+mission_win_type_config-16430202,ART556&P7をダークゾーンへ向かわせる（防毒マスクを所持し、光るマスまで行く）
+mission_win_type_config-16430203,指定ポイントまで到達し、占領する
+mission_win_type_config-16430204,防毒マスクを作る
+mission_win_type_config-16430301,
+mission_win_type_config-16430302,
+mission_win_type_config-16430401,
+mission_win_type_config-16430402,
+mission_win_type_config-16430403,藍色の咆哮を右上の赤く光るマスまで動かす
+mission_win_type_config-16430404,藍色の咆哮を右下の赤く光るマスまで動かす
+mission_win_type_config-16430501,
+mission_win_type_config-16430502,
+mission_win_type_config-16430503,敵司令部を占領し、ターンを終える。
+mission_win_type_config-16430601,
+mission_win_type_config-16430701,光るマスのどれか一つを占領する
+mission_win_type_config-16430801,
+mission_win_type_config-16430901,
+mission_win_type_config-16431001,
+mission_win_type_config-16431002,
+mission_win_type_config-16431003,
+mission_win_type_config-16431004,
+mission_win_type_config-16431005,
+mission_win_type_config-16431006,
+mission_win_type_config-16431101,
+mission_win_type_config-16431102,
+mission_win_type_config-11060800,右下方向へ探索を行う。//n<color=#FFFF00>·光るマスを占領する</color>
+mission_win_type_config-11060801,下のハドソン難民キャンプまで逃げる。//n<color=#FFFF00>·防御ゲートの存在するマスを占領する</color>
+mission_win_type_config-11060802,ハドソン難民キャンプを離れる。//n<color=#FFFF00>·右側の司令部を占領する</color>
+mission_win_type_config-11060803,<color=#FFB400>AK47チーム</color>を倒す。
+mission_win_type_config-11060804,<color=#FFB400>AK47チーム</color>をハドソン難民キャンプへ誘導する。//n<color=#FFFF00>·防御ゲートの1つ前のマス</color>
+mission_win_type_config-11060805,<color=#FFB400>AK47チーム</color>を倒す。//n·ハドソン難民キャンプにいるライカーズを使って<color=#FFB400>AK47チーム</color>の戦力を消耗させることが可能。
+mission_win_type_config-11060810,
+mission_win_type_config-11060900,右上方向へ探索を行う。//n<color=#FFFF00>·光るマスを占領する</color>
+mission_win_type_config-11060901,<color=#FFB400>M870チーム</color>を操作して、右側へ探索する。//n<color=#FFFF00>·右側上方の光るマスを占領する（部隊が撤退すると達成出来なくなります）</color>
+mission_win_type_config-11060902,<color=#FFB400>スプリングフィールドチーム</color>を操作して、右上の方へ探索する。//n<color=#FFFF00>·右側下方の光るマスを占領する（部隊が撤退すると達成出来なくなります）</color>
+mission_win_type_config-11060903,自分の部隊が存在するエリアにある資源を探す。//n<color=#FFFF00>·アイテムを3つ拾う</color>
+mission_win_type_config-11060904,<color=#FFB400>M870チーム</color>が<color=#FFB400>スプリングフィールドチーム</color>を倒す。//n<color=#FFFF00>·2ターン後に自動的に達成される</color>
+mission_win_type_config-11060905,<color=#FFB400>ART556チーム</color>を操作して、右側上方にあるマスクのグレードアップに必要なクラフトステーションを見つける。//n<color=#FFFF00>·クラフトステーションを操作し、マスクのグレードアップを行う（部隊が撤退すると達成できなくなります）</color>
+mission_win_type_config-11060906,
+mission_win_type_config-11060907,
+mission_win_type_config-11060908,右上方向へ探索を行う。//n<color=#FFFF00>·光るマスを占領する</color>
+mission_win_type_config-11060909,<color=#FFB400>スプリングフィールドチーム</color>を操作して、右上の方へ探索する。//n<color=#FFFF00>·右側下方の光るマスを占領する（部隊が撤退すると達成出来なくなります）</color>
+mission_win_type_config-11060910,
+mission_win_type_config-11061000,建物エリア内にある資源を探す。//n<color=#FFFF00>·味方部隊で光るマスまで行くことで、そのマスを占領し、建物エリアへ移動することができます。</color>
+mission_win_type_config-11061001,建物エリア内をより深く探索する。//n<color=#FFFF00>·建築エリア内左上にある光るマスを占領する</color>
+mission_win_type_config-11061002,探索を終えた後、建物エリアを離れる。//n<color=#FFFF00>·建物エリアの外にある光るレーダーマスを占領する</color>
+mission_win_type_config-11061100,右上方向へ探索を行う。//n<color=#FFFF00>·光るマスを占領する</color>
+mission_win_type_config-11061101,<color=#FFB400>Vectorチーム</color>を操作して、右側へ突入する。//n<color=#FFFF00>·右側上方にある光るマスを占領する</color>
+mission_win_type_config-11061102,味方部隊を右側へ突入させる。//n<color=#FFFF00>·右側下方にある光るマスを占領する</color>
+mission_win_type_config-11061103,<color=#FFB400>Vectorチーム</color>を操作して、右側へ突入させる。//n<color=#FFFF00>·右側下方にある光るマスを占領する</color>
+mission_win_type_config-11061104,味方部隊を右側へ突入させる。//n<color=#FFFF00>·右側上方にある光るマスを占領する</color>
+mission_win_type_config-11061200,
+mission_win_type_config-11061201,
+mission_win_type_config-11061202,<color=#FFB400>ファング_416</color>のいるマスを占領する。//n<color=#FFFF00>·クリア判定はターン終了直後に入る。</color>
+mission_win_type_config-11066500,
+mission_win_type_config-11066501,
+mission_win_type_config-11066502,
+mission_win_type_config-11066600,
+mission_win_type_config-11066700,
+mission_win_type_config-11066701,
+mission_win_type_config-11066702,
+mission_win_type_config-11066703,
+mission_win_type_config-11066704,
+mission_win_type_config-11066800,
+mission_win_type_config-11066801,
+mission_win_type_config-11066900,
+mission_win_type_config-11067000,
+mission_win_type_config-11067001,
+mission_win_type_config-11067100,
+mission_win_type_config-11067101,
+mission_win_type_config-11067102,
+mission_win_type_config-11067200,
+mission_win_type_config-11064101,
+mission_win_type_config-11065701,
+mission_win_type_config-11065702,
+mission_win_type_config-11065703,
+mission_win_type_config-11064201,
+mission_win_type_config-11065801,
+mission_win_type_config-11064301,
+mission_win_type_config-11065901,
+mission_win_type_config-11065902,
+mission_win_type_config-11065903,
+mission_win_type_config-11064401,
+mission_win_type_config-11064402,
+mission_win_type_config-11064403,
+mission_win_type_config-11066001,
+mission_win_type_config-11066002,
+mission_win_type_config-11066003,
+mission_win_type_config-10449999,
+mission_win_type_config-11064501,
+mission_win_type_config-11064502,
+mission_win_type_config-11066101,
+mission_win_type_config-11666102,
+mission_win_type_config-11064601,
+mission_win_type_config-11064602,
+mission_win_type_config-11066201,
+mission_win_type_config-11066202,
+mission_win_type_config-11063401,
+mission_win_type_config-11063402,
+mission_win_type_config-11063501,
+mission_win_type_config-11065101,
+mission_win_type_config-11063601,
+mission_win_type_config-11065201,
