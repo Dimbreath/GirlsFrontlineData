@@ -46,6 +46,7 @@ end
 local Init = function(self)
 	self:Init();
 	self.transform:Find("Active"):GetComponent(typeof(CS.UnityEngine.Canvas)).sortingOrder = 100;
+	CS.DeploymentBuildSkillItem.showSelectSpot = false;
 end
 
 local PlayerWantlayer = function(self)

@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>269</BIN><BGM>10051</BGM>:……柏林市郊，伯恩村外。+我错愕地盯着玛赫莲，或者应该称为“默莉朵”？
+NPC-Machlian(1)<Speaker>玛赫莲</Speaker>||:你们是什么人……
+()||:在发现AR小队并非人类后，她的神情开始恐慌起来。
+NPC-Machlian(2)<Speaker>玛赫莲</Speaker>||:你们不是人类……你们要对我做什么？！+是他们派来抓我的吗！
+()||:玛赫莲掏出了一把小匕首，因为紧张，她的手剧烈抖动着。
+NPC-Machlian(3)<Speaker>玛赫莲</Speaker>||:你们不要过来！不准碰我！+我是不会跟你们回去的！绝对不！！！
+()<Speaker>指挥官</Speaker>||:你先冷静下来！
+()||:我一边安抚她的情绪，一边小心取出了麻醉剂。
+NPC-Machlian(2)<Speaker>玛赫莲</Speaker>||:你们再过来，我就——
+()||<SE1>AVG_Punch_Hit</SE1>:玛赫莲愤怒的指责戛然而止，紧接着，她软绵绵地瘫倒在地。+站在玛赫莲身后的SOP2擦了擦手，满脸邀功的笑容。
+()<Speaker>指挥官</Speaker>||:……SOP2你做了什么？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:跟她沟通真麻烦，指挥官你看，这不就冷静下来了吗？
+RO635Mod(0)<Speaker>RO635</Speaker>||:……指挥官，别担心。+我检查过了，只是晕过去，她没有生命危险。
+()<Speaker>指挥官</Speaker>||:……你，下次下手轻一点！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:知道啦知道啦！
+()<Speaker>丹德莱</Speaker>||:还没脱离危险就已经开始大声吵闹，真不愧是你们。
+()||:顺着这嘲讽的声音望去，是丹德莱终于抵达了集合点。
+()<Speaker>指挥官</Speaker>||:发生什么事了吗？你比预定的时间晚到了2分钟。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:你知道要在不伤害他们的前提下，从那群恶心的人类身边离开有多困难吗？
+()||:我的耳畔又回响起了那群围在玛赫莲身边的富人们的狂欢声……
+()<Speaker>指挥官</Speaker>||:……+先上车吧。
+()||:为了撤离时不引起注意，我提前在这里安排了一辆当地的小货车。+RO和丹德莱坐在前排，我带着玛赫莲钻入了货箱。
+AR15Mod(0)<Speaker>AR15</Speaker>||:指挥官，接下来怎么处置她？
+()<Speaker>指挥官</Speaker>||:问题是——我其实不确定她是不是“默莉朵”。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:从外形来看，她和默莉朵拥有完全一致的容貌。
+()<Speaker>指挥官</Speaker>||:但是，长相一样并不一定就是同一个人……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:审审不就知道了？总不能放她走吧！
+()<Speaker>指挥官</Speaker>||:……当然。先按照任务指示将她带往指定地点吧！
+RO635Mod(0)<Speaker>RO635</Speaker>||:好。
+()||:RO轻车熟路地驾驶着货车，向着指定坐标行驶。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:需要提醒的是——大批帕拉蒂斯正在往这边围过来。
+()<Speaker>指挥官</Speaker>||:在村里潜伏的那些吗？按照原计划分批伏击。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:不，从数量来看远不止。+现在已经是我们绝对无法抵抗的数量了。+如果想按照原来的计划，我们起码得在这耗上两三天。
+()||:丹德莱将自己最新扫描到的帕拉蒂斯讯号图上传到了我的指挥平板。
+()<Speaker>指挥官</Speaker>||:等等，怎么回事？明明村庄及附近的区域都侦测过了。+这种规模的帕拉蒂斯怎么会出现在这里？
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:来源尚且不明。
+RO635Mod(0)<Speaker>RO635</Speaker>||:来的时间也很巧合，我们在这边蹲守几天都没有出现，偏偏在这时集中袭来。
+()||:透过后视镜，我注意到RO怀疑的目光落在了玛赫莲身上。
+()<Speaker>指挥官</Speaker>||:做好战斗的准备，能避开尽量避开，避不开只能突围了。
+RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏1>:收到。
+()||<黑屏2><BGM>BGM_Empty</BGM>:……十五分钟后，柏林市郊。+我们甩开了几支零散分队，沿着小路向市区方向行进。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||<BGM>10065</BGM>:指挥官，我们的坐标似乎已经被锁定了，帕拉蒂斯的整个大部队离我们越来越近了。
+()<Speaker>指挥官</Speaker>||:<color=#A9A9A9>玛赫莲的身上到底有什么秘密值得帕拉蒂斯出动这么大规模的战力？</color>+总之，不要和它们纠缠，想办法甩开！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我们可是开着车的！它们追不上吧！
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:按照我们目前的速度和帕拉蒂斯追兵的速度，被追上倒是——
+()||<SE2>Gunfight</SE2>:呯呯呯——+子弹的声音从后面传来。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:看来会使用载具的不止我们呢。
+RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官，我们的距离被拉得很近了，近到我已经能侦测到帕拉蒂斯的位置了……+换句话说，我们也已经进入帕拉蒂斯的侦测范围内了。
+()<Speaker>指挥官</Speaker>||:立刻加速前进。
+()||<SE1>AVG_engine_speedup</SE1>:其实不需要提醒，连我都能感受到来自背后的浓重的杀意。+以目前人形的数量，根本不足以匹敌这样规模的帕拉蒂斯。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:它们出现了！
+AR15Mod(0)<Speaker>AR15</Speaker>||:该死，怎么追得这么快？！
+RO635Mod(0)<Speaker>RO635</Speaker>||:丹德莱，看着路！
+()||:我回头望去，一片白色已经压上了身后山坡的地平线，正以雪崩般俯冲的姿态朝着我们袭来。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:来不及了。
+()<Speaker>指挥官</Speaker>||:RO，冲进前面的树林。+15，SOP2，你们向后阻击敌人前进的速度。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:好咧！可以活动活动身体了。
+AR15Mod(0)<Speaker>AR15</Speaker>||:指挥官，你到前面客座去，我和SOP2要开后面的车门了。
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:指挥官，跟我交换一下位置吧。
+()<Speaker>指挥官</Speaker>||:好。
+()||:我抱起仍在昏迷中的玛赫莲，小心地从狭窄的车厢中穿行到前方客座。
+RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官，我们的路线需要改变吗？
+()<Speaker>指挥官</Speaker>||:路线的安排交给我吧，你专心开车。
+()||:帕拉蒂斯已经在肉眼可见的距离内追赶……
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:按目前的情况，我们会在五分钟内被追上。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:你倒是再把它们全部黑掉啊！
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:就算是我，要一次性黑掉这么大规模的帕拉蒂斯也很吃力的。
+()||:在丹德莱的骇入和AR小队的火力配合下，前排的帕拉蒂斯不断倒下，但紧接着跟上的敌人却像是无穷无尽……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:它们越来越近了！
+AR15Mod(0)<Speaker>AR15</Speaker>||:RO开快点啊！
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:我已经把油门踩到底了！
+()||:近在咫尺的子弹不断擦过车身，但RO已经无暇顾及。
+RO635Mod(0)<Speaker>RO635</Speaker>||:注意，三秒后我们将进入树林区域。
+AR15Mod(0)<Speaker>AR15</Speaker>||:收到。
+()||<黑屏1><SE1>Explode</SE1>:砰——+伴随着一声巨响，我感觉车辆像是在海浪中摇摆的船只一样颠簸起来……+紧接着，我们终于进入了树林区域，暂时隔绝了敌方的视野。
+()||<黑屏2><BIN>1</BIN>:细密的枝杈从车窗外擦过……
+RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官！轮胎被打爆了！
+NytoIsomer(8)<Speaker>丹德莱</Speaker>||:我建议立刻弃车，这辆车已经没有价值了。
+AR15Mod(0)<Speaker>AR15</Speaker>||:没有车的话我们很快就会被追上。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那些帕拉蒂斯跑得跟飞一样快！
+RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官，我们该怎么做？
+()<Speaker>指挥官</Speaker>||<黑屏1>:……+我有个想法。

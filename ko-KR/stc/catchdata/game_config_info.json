@@ -265,6 +265,18 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "collect_target_num",
+            "parameter_type": "int",
+            "parameter_value": "20",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "collect_target_switch",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "commander_emoji_default",
             "parameter_type": "int",
             "parameter_value": "1",
@@ -949,6 +961,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "gasha_commonPool",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "gasha_rates_provision",
             "parameter_type": "string",
             "parameter_value": "1:170002,2:170003,3:170004,4:170005",
@@ -1282,6 +1300,12 @@
             "parameter_name": "message_storage_time",
             "parameter_type": "int",
             "parameter_value": "60",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "message_times",
+            "parameter_type": "int",
+            "parameter_value": "1",
             "client_require": "1"
         },
         {
@@ -1987,6 +2011,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "skin_type_txt",
+            "parameter_type": "string",
+            "parameter_value": "1:31899,LUNAR NEW YEAR;2:31900,NEW YEAR;3:31901,WHITEDAY;4:31902,ANNVERSARY;5:31903,CHILDREN'S DAY;6:31904,SWIMSUIT;7:31905,HALLOWEEN;8:31906,CHRISTMAS;9:31907,OTHERS;10:31915;11:31916",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "soulbind_global_switch",
             "parameter_type": "int",
             "parameter_value": "1",
@@ -2188,6 +2218,12 @@
             "parameter_name": "squad_dodge_coef",
             "parameter_type": "int",
             "parameter_value": "23",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "squad_general_data_item",
+            "parameter_type": "int",
+            "parameter_value": "519",
             "client_require": "1"
         },
         {

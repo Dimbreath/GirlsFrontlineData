@@ -607,8 +607,8 @@ mission_skill_config-31000000,
 mission_skill_config-11000001,(일반형I)(距离0)设施堵路通用표식
 mission_skill_config-21000001,(일반형I)(距离0)设施堵路通用표식
 mission_skill_config-31000001,
-mission_skill_config-11000002,(일반형I)(距离0)开门音效표식
-mission_skill_config-21000002,(일반형I)(距离0)开门音效표식
+mission_skill_config-11000002,(일반형I)(距离0)문 열기音效표식
+mission_skill_config-21000002,(일반형I)(距离0)문 열기音效표식
 mission_skill_config-31000002,
 mission_skill_config-11000003,(일반형I)(距离0)关门音效표식
 mission_skill_config-21000003,(일반형I)(距离0)关门音效표식
@@ -4459,7 +4459,7 @@ mission_skill_config-39361236,
 mission_skill_config-19370201,【표식】제어콘솔 초기화
 mission_skill_config-29370201,
 mission_skill_config-39370201,
-mission_skill_config-19370202,【표식】차단문  초기화
+mission_skill_config-19370202,【표식】차단문 초기화
 mission_skill_config-29370202,
 mission_skill_config-39370202,
 mission_skill_config-19370211,문 열기(차단문 A)
@@ -4468,7 +4468,7 @@ mission_skill_config-39370211,
 mission_skill_config-19370212,문 닫기(차단문 A)
 mission_skill_config-29370212,차단문 A를 닫는다
 mission_skill_config-39370212,
-mission_skill_config-19370221,열기: 차단문  开关표식
+mission_skill_config-19370221,열기: 차단문 开关표식
 mission_skill_config-29370221,
 mission_skill_config-39370221,
 mission_skill_config-19370222,닫기차단문 开关표식
@@ -4477,7 +4477,7 @@ mission_skill_config-39370222,
 mission_skill_config-19370401,【표식】제어콘솔 초기화
 mission_skill_config-29370401,
 mission_skill_config-39370401,
-mission_skill_config-19370402,【표식】차단문  초기화
+mission_skill_config-19370402,【표식】차단문 초기화
 mission_skill_config-29370402,
 mission_skill_config-39370402,
 mission_skill_config-19370411,문 열기(차단문 B)
@@ -4486,7 +4486,7 @@ mission_skill_config-39370411,
 mission_skill_config-19370412,문 닫기(차단문 B)
 mission_skill_config-29370412,차단문 B를 닫는다
 mission_skill_config-39370412,
-mission_skill_config-19370421,열기: 차단문  开关표식
+mission_skill_config-19370421,열기: 차단문 开关표식
 mission_skill_config-29370421,
 mission_skill_config-39370421,
 mission_skill_config-19370422,닫기차단문 开关표식
@@ -4600,10 +4600,10 @@ mission_skill_config-39370614,
 mission_skill_config-19370615,폭파지시(돌무더기I)
 mission_skill_config-29370615,폭탄으로 목표를 폭파한다.※정말 터뜨릴 수 있을까?...
 mission_skill_config-39370615,
-mission_skill_config-19370616,【표식】通用열기: 차단문  X1
+mission_skill_config-19370616,【표식】通用열기: 차단문 X1
 mission_skill_config-29370616,
 mission_skill_config-39370616,
-mission_skill_config-19370617,【표식】通用열기: 차단문  X2
+mission_skill_config-19370617,【표식】通用열기: 차단문 X2
 mission_skill_config-29370617,
 mission_skill_config-39370617,
 mission_skill_config-19370618,【표식】通用닫기차단문 X1
@@ -4615,10 +4615,10 @@ mission_skill_config-39370619,
 mission_skill_config-19370620,【표식】清除炸弹buff
 mission_skill_config-29370620,
 mission_skill_config-39370620,
-mission_skill_config-19370626,【표식】通用열기: 차단문  X1开关反馈
+mission_skill_config-19370626,【표식】通用열기: 차단문 X1开关反馈
 mission_skill_config-29370626,
 mission_skill_config-39370626,
-mission_skill_config-19370627,【표식】通用열기: 차단문  X2开关反馈
+mission_skill_config-19370627,【표식】通用열기: 차단문 X2开关反馈
 mission_skill_config-29370627,
 mission_skill_config-39370627,
 mission_skill_config-19370628,【표식】通用닫기차단문 X1开关反馈
@@ -5905,7 +5905,7 @@ mission_skill_config-39410207,
 mission_skill_config-19410208,【표식】召唤敌人
 mission_skill_config-29410208,
 mission_skill_config-39410208,
-mission_skill_config-19410209,【표식】开门完成
+mission_skill_config-19410209,【표식】문 열기完成
 mission_skill_config-29410209,
 mission_skill_config-39410209,
 mission_skill_config-19410210,【표식】初始预埋，踩点触发，활성화兔洞
@@ -5968,13 +5968,13 @@ mission_skill_config-39410308,
 mission_skill_config-19410309,【표식】关门표식
 mission_skill_config-29410309,
 mission_skill_config-39410309,
-mission_skill_config-19410310,【표식】已开门1
+mission_skill_config-19410310,【표식】已문 열기1
 mission_skill_config-29410310,
 mission_skill_config-39410310,
-mission_skill_config-19410311,【표식】已开门2
+mission_skill_config-19410311,【표식】已문 열기2
 mission_skill_config-29410311,
 mission_skill_config-39410311,
-mission_skill_config-19410312,【표식】已开门3
+mission_skill_config-19410312,【표식】已문 열기3
 mission_skill_config-29410312,
 mission_skill_config-39410312,
 mission_skill_config-19410313,【표식】关门2
@@ -6286,7 +6286,7 @@ mission_skill_config-39411824,
 mission_skill_config-19411825,【표식】解锁大门
 mission_skill_config-29411825,
 mission_skill_config-39411825,
-mission_skill_config-19411826,【표식】破解完毕
+mission_skill_config-19411826,【표식】해독完毕
 mission_skill_config-29411826,
 mission_skill_config-39411826,
 mission_skill_config-19411831,철혈 시스템 연결
@@ -6814,7 +6814,7 @@ mission_skill_config-33000910,보호막 수치:70//c 장갑 상승치:30%//c회�
 mission_skill_config-12000024,【标记】防毒面具箱子
 mission_skill_config-22000024,"작업대"//n방독면을 만들 수 있습니다.
 mission_skill_config-32000024,
-mission_skill_config-16430201,【标记】防毒面具初始化
+mission_skill_config-16430201,【标记】防毒面具초기화
 mission_skill_config-26430201,
 mission_skill_config-36430201,
 mission_skill_config-16430202,【标记】制作
@@ -6823,13 +6823,13 @@ mission_skill_config-36430202,
 mission_skill_config-12430001,【标记】箱子描述
 mission_skill_config-22430001,작전에 쓸만한 물건이 들어있습니다.
 mission_skill_config-32430001,
-mission_skill_config-16430001,【标记】세열수류탄初始化
+mission_skill_config-16430001,【标记】세열수류탄초기화
 mission_skill_config-26430001,
 mission_skill_config-36430001,
-mission_skill_config-16430002,【标记】섬광탄初始化
+mission_skill_config-16430002,【标记】섬광탄초기화
 mission_skill_config-26430002,
 mission_skill_config-36430002,
-mission_skill_config-16430003,【标记】터렛初始化
+mission_skill_config-16430003,【标记】터렛초기화
 mission_skill_config-26430003,
 mission_skill_config-36430003,
 mission_skill_config-16430011,세열수류탄 줍기*3
@@ -6865,7 +6865,7 @@ mission_skill_config-36430016,
 mission_skill_config-16430017,【标记】VECTOR作战整备
 mission_skill_config-26430017,
 mission_skill_config-36430017,
-mission_skill_config-16430018,【标记】彩蛋初始化
+mission_skill_config-16430018,【标记】彩蛋초기화
 mission_skill_config-26430018,
 mission_skill_config-36430018,
 mission_skill_config-16430019,요원 416 선택
@@ -6874,13 +6874,13 @@ mission_skill_config-36430019,
 mission_skill_config-16430020,요원 Vector 선택
 mission_skill_config-26430020,
 mission_skill_config-36430020,
-mission_skill_config-16430021,【标记】세열수류탄初始化
+mission_skill_config-16430021,【标记】세열수류탄초기화
 mission_skill_config-26430021,
 mission_skill_config-36430021,
-mission_skill_config-16430023,【标记】섬광탄初始化
+mission_skill_config-16430023,【标记】섬광탄초기화
 mission_skill_config-26430023,
 mission_skill_config-36430023,
-mission_skill_config-16430024,【标记】터렛初始化
+mission_skill_config-16430024,【标记】터렛초기화
 mission_skill_config-26430024,
 mission_skill_config-36430024,
 mission_skill_config-16430022,세열수류탄 줍기*10
@@ -6963,7 +6963,7 @@ mission_skill_config-23001009,액티브: 자신 제대를 거리 5칸 이내의 
 mission_skill_config-33001009,이동 범위:5//c능력치 감소:63%//c치명률 상승치:14%
 mission_skill_config-13001010,액운침습
 mission_skill_config-23001010,액티브: 자신 제대를 지도 상 아무 헬리포트로 이동할 수 있지만//c 2턴 동안 제대 전체 화력//c 명중//c 회피//c 장갑이 60% 감소한다.//n패시브: 중장비 또는 혼합세력의 화력지원을 받는 상태에서 전투할 경우//c 적과 접촉 후 모든 아군 인형 유닛의 치명률을 15% 상승시키고//c 원거리 유닛의 사거리를 1 늘린다.
-mission_skill_config-33001010,이동 범위:MAX//c능력치 감소:60%//c치명률 상승치:15%
+mission_skill_config-33001010,이동 범위:무제한//c능력치 감소:60%//c치명률 상승치:15%
 mission_skill_config-13001101,에이전트 공수
 mission_skill_config-23001101,
 mission_skill_config-33001101,이동 범위:3//c능력치 감소:90%//c치명률 상승치:5%
@@ -6993,4 +6993,955 @@ mission_skill_config-23001109,
 mission_skill_config-33001109,이동 범위:5//c능력치 감소:63%//c치명률 상승치:14%
 mission_skill_config-13001110,에이전트 공수
 mission_skill_config-23001110,
-mission_skill_config-33001110,이동 범위:MAX//c능력치 감소:60%//c치명률 상승치:15%
+mission_skill_config-33001110,이동 범위:무제한//c능력치 감소:60%//c치명률 상승치:15%
+mission_skill_config-10440000,댄들라이 초기화
+mission_skill_config-20440000,
+mission_skill_config-30440000,
+mission_skill_config-10440001,음화잔영
+mission_skill_config-20440001,지정 제대를 지원하여//c 전투 진입 시 댄들라이의 환상을 소환해//c 모든 적에게 피해를 주고 퇴장한다. 지속 1턴//c 쿨타임 1턴.
+mission_skill_config-30440001,
+mission_skill_config-10440002,광핵절단
+mission_skill_config-20440002,지정 적군을 약화한다. 전투 개시 2초 후 적의 모든 역장을 제거하고 회피//c 명중//c 이동속도를 대폭 감소시킨다. 능력치 감소는 5초에 걸쳐 점차 사라진다. 지속시간 1턴//c 쿨타임 1턴.
+mission_skill_config-30440002,
+mission_skill_config-10440003,丹德莱BUFFCD
+mission_skill_config-20440003,
+mission_skill_config-30440003,
+mission_skill_config-10440004,丹德莱DEBUFFCD
+mission_skill_config-20440004,
+mission_skill_config-30440004,
+mission_skill_config-10440010,迷雾1초기화
+mission_skill_config-20440010,
+mission_skill_config-30440010,
+mission_skill_config-10440011,파동탐지
+mission_skill_config-20440011,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440011,
+mission_skill_config-10440020,迷雾2초기화
+mission_skill_config-20440020,
+mission_skill_config-30440020,
+mission_skill_config-10440021,파동탐지
+mission_skill_config-20440021,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440021,
+mission_skill_config-10440030,迷雾3초기화
+mission_skill_config-20440030,
+mission_skill_config-30440030,
+mission_skill_config-10440031,파동탐지
+mission_skill_config-20440031,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440031,
+mission_skill_config-10440040,迷雾4초기화
+mission_skill_config-20440040,
+mission_skill_config-30440040,
+mission_skill_config-10440041,파동탐지
+mission_skill_config-20440041,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440041,
+mission_skill_config-10440050,迷雾5초기화
+mission_skill_config-20440050,
+mission_skill_config-30440050,
+mission_skill_config-10440051,파동탐지
+mission_skill_config-20440051,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440051,
+mission_skill_config-10440060,迷雾6초기화
+mission_skill_config-20440060,
+mission_skill_config-30440060,
+mission_skill_config-10440061,파동탐지
+mission_skill_config-20440061,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440061,
+mission_skill_config-10440070,迷雾7초기화
+mission_skill_config-20440070,
+mission_skill_config-30440070,
+mission_skill_config-10440071,파동탐지
+mission_skill_config-20440071,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440071,
+mission_skill_config-10440080,迷雾8초기화
+mission_skill_config-20440080,
+mission_skill_config-30440080,
+mission_skill_config-10440081,파동탐지
+mission_skill_config-20440081,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440081,
+mission_skill_config-10440090,迷雾9초기화
+mission_skill_config-20440090,
+mission_skill_config-30440090,
+mission_skill_config-10440091,파동탐지
+mission_skill_config-20440091,주변을 스캔해//c 안개에 덮힌 구역을 드러낸다.
+mission_skill_config-30440091,
+mission_skill_config-10440201,鲨鱼剧情标记
+mission_skill_config-20440201,
+mission_skill_config-30440201,
+mission_skill_config-10440301,玛赫莲绑架点초기화
+mission_skill_config-20440301,
+mission_skill_config-30440301,
+mission_skill_config-10440311,视野buff出发点
+mission_skill_config-20440311,
+mission_skill_config-30440311,
+mission_skill_config-10442001,네트워크 잠입
+mission_skill_config-20442001,패러데우스의 로컬 세큐리티 네트워크에 잠입
+mission_skill_config-30442001,
+mission_skill_config-10442011,보안 리미트 해제 
+mission_skill_config-20442011,
+mission_skill_config-30442011,
+mission_skill_config-10442012,보안 리미트 해제 II
+mission_skill_config-20442012,
+mission_skill_config-30442012,
+mission_skill_config-10442013,보안 리미트 해제 III
+mission_skill_config-20442013,
+mission_skill_config-30442013,
+mission_skill_config-10442014,보안 리미트 해제 IV
+mission_skill_config-20442014,
+mission_skill_config-30442014,
+mission_skill_config-10442015,보안 리미트 해제 V
+mission_skill_config-20442015,
+mission_skill_config-30442015,
+mission_skill_config-10442016,보안 리미트 완전 해제
+mission_skill_config-20442016,
+mission_skill_config-30442016,
+mission_skill_config-10442021,보안 리미트 해제 标记
+mission_skill_config-20442021,
+mission_skill_config-30442021,
+mission_skill_config-10442022,보안 리미트 해제 II标记
+mission_skill_config-20442022,
+mission_skill_config-30442022,
+mission_skill_config-10442023,보안 리미트 해제 III标记
+mission_skill_config-20442023,
+mission_skill_config-30442023,
+mission_skill_config-10442024,보안 리미트 해제 IV标记
+mission_skill_config-20442024,
+mission_skill_config-30442024,
+mission_skill_config-10442025,보안 리미트 해제 V标记
+mission_skill_config-20442025,
+mission_skill_config-30442025,
+mission_skill_config-10442026,보안 리미트 완전 해제标记
+mission_skill_config-20442026,
+mission_skill_config-30442026,
+mission_skill_config-10440500,GK0초기화
+mission_skill_config-20440500,
+mission_skill_config-30440500,
+mission_skill_config-10440501,K1초기화
+mission_skill_config-20440501,
+mission_skill_config-30440501,
+mission_skill_config-10440502,K2초기화
+mission_skill_config-20440502,
+mission_skill_config-30440502,
+mission_skill_config-10440503,K3초기화
+mission_skill_config-20440503,
+mission_skill_config-30440503,
+mission_skill_config-10440504,K4초기화
+mission_skill_config-20440504,
+mission_skill_config-30440504,
+mission_skill_config-10440505,K5초기화
+mission_skill_config-20440505,
+mission_skill_config-30440505,
+mission_skill_config-10440506,G1초기화
+mission_skill_config-20440506,
+mission_skill_config-30440506,
+mission_skill_config-10440507,G2초기화
+mission_skill_config-20440507,
+mission_skill_config-30440507,
+mission_skill_config-10440508,G3초기화
+mission_skill_config-20440508,
+mission_skill_config-30440508,
+mission_skill_config-10440509,G4초기화
+mission_skill_config-20440509,
+mission_skill_config-30440509,
+mission_skill_config-10440510,G5초기화
+mission_skill_config-20440510,
+mission_skill_config-30440510,
+mission_skill_config-10440511,GK1
+mission_skill_config-20440511,
+mission_skill_config-30440511,
+mission_skill_config-10440512,GK2
+mission_skill_config-20440512,
+mission_skill_config-30440512,
+mission_skill_config-10440513,GK3
+mission_skill_config-20440513,
+mission_skill_config-30440513,
+mission_skill_config-10440514,GK4
+mission_skill_config-20440514,
+mission_skill_config-30440514,
+mission_skill_config-10440515,GK5
+mission_skill_config-20440515,
+mission_skill_config-30440515,
+mission_skill_config-10440516,KG1
+mission_skill_config-20440516,
+mission_skill_config-30440516,
+mission_skill_config-10440517,KG2
+mission_skill_config-20440517,
+mission_skill_config-30440517,
+mission_skill_config-10440518,KG3
+mission_skill_config-20440518,
+mission_skill_config-30440518,
+mission_skill_config-10440519,KG4
+mission_skill_config-20440519,
+mission_skill_config-30440519,
+mission_skill_config-10440520,KG5
+mission_skill_config-20440520,
+mission_skill_config-30440520,
+mission_skill_config-10440521,GK1清标记
+mission_skill_config-20440521,
+mission_skill_config-30440521,
+mission_skill_config-10440522,GK2清标记
+mission_skill_config-20440522,
+mission_skill_config-30440522,
+mission_skill_config-10440523,GK3清标记
+mission_skill_config-20440523,
+mission_skill_config-30440523,
+mission_skill_config-10440524,GK4清标记
+mission_skill_config-20440524,
+mission_skill_config-30440524,
+mission_skill_config-10440525,GK5清标记
+mission_skill_config-20440525,
+mission_skill_config-30440525,
+mission_skill_config-10440526,뒤집기 1
+mission_skill_config-20440526,
+mission_skill_config-30440526,
+mission_skill_config-10440527,뒤집기 2
+mission_skill_config-20440527,
+mission_skill_config-30440527,
+mission_skill_config-10440528,뒤집기 3
+mission_skill_config-20440528,
+mission_skill_config-30440528,
+mission_skill_config-10440529,뒤집기 4
+mission_skill_config-20440529,
+mission_skill_config-30440529,
+mission_skill_config-10440530,뒤집기 5
+mission_skill_config-20440530,
+mission_skill_config-30440530,
+mission_skill_config-10440531,마크 뒤집기
+mission_skill_config-20440531,인접한 마크를 반댓면으로 뒤집는다.
+mission_skill_config-30440531,
+mission_skill_config-10440532,마크 뒤집기
+mission_skill_config-20440532,인접한 마크를 반댓면으로 뒤집는다.
+mission_skill_config-30440532,
+mission_skill_config-10440533,마크 뒤집기
+mission_skill_config-20440533,인접한 마크를 반댓면으로 뒤집는다.
+mission_skill_config-30440533,
+mission_skill_config-10440534,마크 뒤집기
+mission_skill_config-20440534,인접한 마크를 반댓면으로 뒤집는다.
+mission_skill_config-30440534,
+mission_skill_config-10440535,마크 뒤집기
+mission_skill_config-20440535,인접한 마크를 반댓면으로 뒤집는다.
+mission_skill_config-30440535,
+mission_skill_config-10440536,映射K
+mission_skill_config-20440536,
+mission_skill_config-30440536,
+mission_skill_config-10440537,映射G
+mission_skill_config-20440537,
+mission_skill_config-30440537,
+mission_skill_config-10440538,隐藏召唤
+mission_skill_config-20440538,
+mission_skill_config-30440538,
+mission_skill_config-10442100,GK0초기화
+mission_skill_config-20442100,
+mission_skill_config-30442100,
+mission_skill_config-10440601,酒吧1标记초기화
+mission_skill_config-20440601,
+mission_skill_config-30440601,
+mission_skill_config-10440602,酒吧2标记초기화
+mission_skill_config-20440602,
+mission_skill_config-30440602,
+mission_skill_config-10440603,酒吧3标记초기화
+mission_skill_config-20440603,
+mission_skill_config-30440603,
+mission_skill_config-10442301,경로 변경
+mission_skill_config-20442301,어딘가의 경로가 바꼈다
+mission_skill_config-30442301,
+mission_skill_config-10442302,경로 변경
+mission_skill_config-20442302,어딘가의 경로가 바꼈다
+mission_skill_config-30442302,
+mission_skill_config-10440800,记忆碎片초기화
+mission_skill_config-20440800,
+mission_skill_config-30440800,
+mission_skill_config-10440801,기억조각 읽기
+mission_skill_config-20440801,마흐리안의 기억조각을 읽는다
+mission_skill_config-30440801,
+mission_skill_config-10440802,기억조각 읽기
+mission_skill_config-20440802,마흐리안의 기억조각을 읽는다
+mission_skill_config-30440802,
+mission_skill_config-10440803,기억조각 읽기
+mission_skill_config-20440803,마흐리안의 기억조각을 읽는다
+mission_skill_config-30440803,
+mission_skill_config-10440804,기억조각 읽기
+mission_skill_config-20440804,마흐리안의 기억조각을 읽는다
+mission_skill_config-30440804,
+mission_skill_config-10440805,경로 변경
+mission_skill_config-20440805,어딘가의 경로가 바꼈다
+mission_skill_config-30440805,
+mission_skill_config-10440815,경로 변경
+mission_skill_config-20440815,어딘가의 경로가 바꼈다
+mission_skill_config-30440815,
+mission_skill_config-10440806,경로 변경
+mission_skill_config-20440806,어딘가의 경로가 바꼈다
+mission_skill_config-30440806,
+mission_skill_config-10440816,경로 변경
+mission_skill_config-20440816,어딘가의 경로가 바꼈다
+mission_skill_config-30440816,
+mission_skill_config-10440807,경로 변경
+mission_skill_config-20440807,어딘가의 경로가 바꼈다
+mission_skill_config-30440807,
+mission_skill_config-10440808,경로 변경
+mission_skill_config-20440808,어딘가의 경로가 바꼈다
+mission_skill_config-30440808,
+mission_skill_config-10440900,기억조각 읽기
+mission_skill_config-20440900,마흐리안의 기억조각을 읽는다
+mission_skill_config-30440900,
+mission_skill_config-10440902,传送点标记
+mission_skill_config-20440902,
+mission_skill_config-30440902,
+mission_skill_config-10440903,召唤点标记
+mission_skill_config-20440903,
+mission_skill_config-30440903,
+mission_skill_config-10440911,심층잠입
+mission_skill_config-20440911,더 깊은 파노라마로 잠입한다.
+mission_skill_config-30440911,
+mission_skill_config-10440907,最终传送标记
+mission_skill_config-20440907,
+mission_skill_config-30440907,
+mission_skill_config-10440908,传送标记1
+mission_skill_config-20440908,
+mission_skill_config-30440908,
+mission_skill_config-10440909,传送标记2
+mission_skill_config-20440909,
+mission_skill_config-30440909,
+mission_skill_config-10440914,传送控制
+mission_skill_config-20440914,
+mission_skill_config-30440914,
+mission_skill_config-10440915,传送控制
+mission_skill_config-20440915,
+mission_skill_config-30440915,
+mission_skill_config-10440916,传送控制
+mission_skill_config-20440916,
+mission_skill_config-30440916,
+mission_skill_config-10440910,剧情标记
+mission_skill_config-20440910,
+mission_skill_config-30440910,
+mission_skill_config-54340001,【标记】重新召唤新怪堵路
+mission_skill_config-64340001,
+mission_skill_config-74340001,
+mission_skill_config-54350001,【标记】弃置歌利亚使用提示_埋点
+mission_skill_config-64350001,
+mission_skill_config-74350001,
+mission_skill_config-54360001,【标记】任务目标特殊点
+mission_skill_config-64360001,
+mission_skill_config-74360001,
+mission_skill_config-54360002,【标记】高爆雷拾取*1
+mission_skill_config-64360002,
+mission_skill_config-74360002,
+mission_skill_config-54360003,【标记】任务剧情点预埋
+mission_skill_config-64360003,
+mission_skill_config-74360003,
+mission_skill_config-11000074,【标记】清除1000001堵路点
+mission_skill_config-21000074,
+mission_skill_config-31000074,
+mission_skill_config-54370001,【标记】投掷式歌利亚使用提示_埋点
+mission_skill_config-64370001,
+mission_skill_config-74370001,
+mission_skill_config-54400001,【标记】任务目标特殊点_下半部
+mission_skill_config-64400001,
+mission_skill_config-74400001,
+mission_skill_config-54400002,【标记】任务目标特殊点_上半部
+mission_skill_config-64400002,
+mission_skill_config-74400002,
+mission_skill_config-54400003,【标记】任务目标特殊点_空
+mission_skill_config-64400003,
+mission_skill_config-74400003,
+mission_skill_config-54400004,자료 추출
+mission_skill_config-64400004,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400004,
+mission_skill_config-54400005,자료 추출
+mission_skill_config-64400005,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400005,
+mission_skill_config-54400006,자료 추출
+mission_skill_config-64400006,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400006,
+mission_skill_config-54400007,【标记】자료 추출_1_左
+mission_skill_config-64400007,
+mission_skill_config-74400007,
+mission_skill_config-54400008,【标记】자료 추출_2_左
+mission_skill_config-64400008,
+mission_skill_config-74400008,
+mission_skill_config-54400009,【标记】자료 추출_2_右
+mission_skill_config-64400009,
+mission_skill_config-74400009,
+mission_skill_config-54400010,【标记】자료 추출_完成_左
+mission_skill_config-64400010,
+mission_skill_config-74400010,
+mission_skill_config-54400011,【标记】자료 추출_完成_右
+mission_skill_config-64400011,
+mission_skill_config-74400011,
+mission_skill_config-54400012,【标记】任务达成_演出
+mission_skill_config-64400012,
+mission_skill_config-74400012,
+mission_skill_config-54400013,【标记】任务达成_实际结算
+mission_skill_config-64400013,
+mission_skill_config-74400013,
+mission_skill_config-54400014,자료 추출
+mission_skill_config-64400014,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400014,
+mission_skill_config-54400015,자료 추출
+mission_skill_config-64400015,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400015,
+mission_skill_config-54400016,자료 추출
+mission_skill_config-64400016,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400016,
+mission_skill_config-54400017,자료 추출
+mission_skill_config-64400017,윌리엄에 관한 자료를 찾아본다.
+mission_skill_config-74400017,
+mission_skill_config-54400018,【标记】任务目标特殊点_真计数
+mission_skill_config-64400018,
+mission_skill_config-74400018,
+mission_skill_config-54400019,【标记】添堵
+mission_skill_config-64400019,
+mission_skill_config-74400019,
+mission_skill_config-54400020,【标记】任务达成_叛变剧情
+mission_skill_config-64400020,
+mission_skill_config-74400020,
+mission_skill_config-54400021,【标记】任务达成_启动提示_解另外一边
+mission_skill_config-64400021,
+mission_skill_config-74400021,
+mission_skill_config-54400022,【标记】资料库描述
+mission_skill_config-64400022,모습은 제어콘솔과 똑같지만 데이터베이스에 접속해 자료를 추출할 수 있다.
+mission_skill_config-74400022,
+mission_skill_config-54400023,【标记】차단문 提示1
+mission_skill_config-64400023,
+mission_skill_config-74400023,
+mission_skill_config-54400024,【标记】차단문 提示2
+mission_skill_config-64400024,
+mission_skill_config-74400024,
+mission_skill_config-54400025,【标记】차단문 提示_安洁下方提示，走上方
+mission_skill_config-64400025,
+mission_skill_config-74400025,
+mission_skill_config-54540001,폭파 예약 (제어콘솔)
+mission_skill_config-64540001,골리앗을 설치해//c 다음 아군턴 개시 시 폭파한다.※중복 설치 불가. 오폭을 피해 대피할 것.
+mission_skill_config-74540001,
+mission_skill_config-54540002,【标记】清除一层炸弹持有buff
+mission_skill_config-64540002,
+mission_skill_config-74540002,
+mission_skill_config-54540003,【标记】预设炸弹
+mission_skill_config-64540003,
+mission_skill_config-74540003,
+mission_skill_config-54430001,폭파 예약 (제어콘솔)
+mission_skill_config-64430001,골리앗을 설치해//c 다음 아군턴 개시 시 폭파한다.※중복 설치 불가. 오폭을 피해 대피할 것.
+mission_skill_config-74430001,
+mission_skill_config-54430002,【标记】清除一层炸弹持有buff
+mission_skill_config-64430002,
+mission_skill_config-74430002,
+mission_skill_config-54430003,【标记】预设炸弹
+mission_skill_config-64430003,
+mission_skill_config-74430003,
+mission_skill_config-54430004,【标记】小秃洞任务积分提示
+mission_skill_config-64430004,
+mission_skill_config-74430004,
+mission_skill_config-54440001,【标记】大秃洞任务积分提示
+mission_skill_config-64440001,
+mission_skill_config-74440001,
+mission_skill_config-16440001,【标记】제어콘솔XI초기화
+mission_skill_config-26440001,
+mission_skill_config-36440001,
+mission_skill_config-16440002,해독1
+mission_skill_config-26440002,
+mission_skill_config-36440002,
+mission_skill_config-16440003,연계1
+mission_skill_config-26440003,
+mission_skill_config-36440003,
+mission_skill_config-16440004,완전 해독
+mission_skill_config-26440004,
+mission_skill_config-36440004,
+mission_skill_config-16440005,【标记】제어콘솔XII초기화
+mission_skill_config-26440005,
+mission_skill_config-36440005,
+mission_skill_config-16440006,【标记】제어콘솔XIII초기화
+mission_skill_config-26440006,
+mission_skill_config-36440006,
+mission_skill_config-16440007,문 열기 1
+mission_skill_config-26440007,
+mission_skill_config-36440007,
+mission_skill_config-16440008,문 열기 2
+mission_skill_config-26440008,
+mission_skill_config-36440008,
+mission_skill_config-16440009,【标记】제어콘솔XI초기화
+mission_skill_config-26440009,
+mission_skill_config-36440009,
+mission_skill_config-16440010,【标记】제어콘솔XII초기화
+mission_skill_config-26440010,
+mission_skill_config-36440010,
+mission_skill_config-16440011,【标记】제어콘솔XIII초기화
+mission_skill_config-26440011,
+mission_skill_config-36440011,
+mission_skill_config-16440012,【标记】제어콘솔XIV초기화
+mission_skill_config-26440012,
+mission_skill_config-36440012,
+mission_skill_config-16440013,【标记】제어콘솔XV초기화
+mission_skill_config-26440013,
+mission_skill_config-36440013,
+mission_skill_config-16440014,【标记】제어콘솔XVI초기화
+mission_skill_config-26440014,
+mission_skill_config-36440014,
+mission_skill_config-16440300,암호판3에 0을 입력
+mission_skill_config-26440300,
+mission_skill_config-36440300,
+mission_skill_config-16440310,암호판3에 1을 입력
+mission_skill_config-26440310,
+mission_skill_config-36440310,
+mission_skill_config-16440320,암호판3에 2를 입력
+mission_skill_config-26440320,
+mission_skill_config-36440320,
+mission_skill_config-16440330,암호판3에 3을 입력
+mission_skill_config-26440330,
+mission_skill_config-36440330,
+mission_skill_config-16440340,암호판3에 4를 입력
+mission_skill_config-26440340,
+mission_skill_config-36440340,
+mission_skill_config-16440350,암호판3에 5를 입력
+mission_skill_config-26440350,
+mission_skill_config-36440350,
+mission_skill_config-16440360,암호판3에 6을 입력
+mission_skill_config-26440360,
+mission_skill_config-36440360,
+mission_skill_config-16440370,암호판3에 7을 입력
+mission_skill_config-26440370,
+mission_skill_config-36440370,
+mission_skill_config-16440380,암호판3에 8을 입력
+mission_skill_config-26440380,
+mission_skill_config-36440380,
+mission_skill_config-16440390,암호판3에 9을 입력
+mission_skill_config-26440390,
+mission_skill_config-36440390,
+mission_skill_config-16440400,암호판4에 0을 입력
+mission_skill_config-26440400,
+mission_skill_config-36440400,
+mission_skill_config-16440410,암호판4에 1을 입력
+mission_skill_config-26440410,
+mission_skill_config-36440410,
+mission_skill_config-16440420,암호판4에 2를 입력
+mission_skill_config-26440420,
+mission_skill_config-36440420,
+mission_skill_config-16440430,암호판4에 3을 입력
+mission_skill_config-26440430,
+mission_skill_config-36440430,
+mission_skill_config-16440440,암호판4에 4를 입력
+mission_skill_config-26440440,
+mission_skill_config-36440440,
+mission_skill_config-16440450,암호판4에 5를 입력
+mission_skill_config-26440450,
+mission_skill_config-36440450,
+mission_skill_config-16440460,암호판4에 6을 입력
+mission_skill_config-26440460,
+mission_skill_config-36440460,
+mission_skill_config-16440470,암호판4에 7을 입력
+mission_skill_config-26440470,
+mission_skill_config-36440470,
+mission_skill_config-16440480,암호판4에 8을 입력
+mission_skill_config-26440480,
+mission_skill_config-36440480,
+mission_skill_config-16440490,암호판4에 9을 입력
+mission_skill_config-26440490,
+mission_skill_config-36440490,
+mission_skill_config-16440500,암호판5에 0을 입력
+mission_skill_config-26440500,
+mission_skill_config-36440500,
+mission_skill_config-16440510,암호판5에 1을 입력
+mission_skill_config-26440510,
+mission_skill_config-36440510,
+mission_skill_config-16440520,암호판5에 2를 입력
+mission_skill_config-26440520,
+mission_skill_config-36440520,
+mission_skill_config-16440530,암호판5에 3을 입력
+mission_skill_config-26440530,
+mission_skill_config-36440530,
+mission_skill_config-16440540,암호판5에 4를 입력
+mission_skill_config-26440540,
+mission_skill_config-36440540,
+mission_skill_config-16440550,암호판5에 5를 입력
+mission_skill_config-26440550,
+mission_skill_config-36440550,
+mission_skill_config-16440560,암호판5에 6을 입력
+mission_skill_config-26440560,
+mission_skill_config-36440560,
+mission_skill_config-16440570,암호판5에 7을 입력
+mission_skill_config-26440570,
+mission_skill_config-36440570,
+mission_skill_config-16440580,암호판5에 8을 입력
+mission_skill_config-26440580,
+mission_skill_config-36440580,
+mission_skill_config-16440590,암호판5에 9을 입력
+mission_skill_config-26440590,
+mission_skill_config-36440590,
+mission_skill_config-16440600,암호판6에 0을 입력
+mission_skill_config-26440600,
+mission_skill_config-36440600,
+mission_skill_config-16440610,암호판6에 1을 입력
+mission_skill_config-26440610,
+mission_skill_config-36440610,
+mission_skill_config-16440620,암호판6에 2를 입력
+mission_skill_config-26440620,
+mission_skill_config-36440620,
+mission_skill_config-16440630,암호판6에 3을 입력
+mission_skill_config-26440630,
+mission_skill_config-36440630,
+mission_skill_config-16440640,암호판6에 4를 입력
+mission_skill_config-26440640,
+mission_skill_config-36440640,
+mission_skill_config-16440650,암호판6에 5를 입력
+mission_skill_config-26440650,
+mission_skill_config-36440650,
+mission_skill_config-16440660,암호판6에 6을 입력
+mission_skill_config-26440660,
+mission_skill_config-36440660,
+mission_skill_config-16440670,암호판6에 7을 입력
+mission_skill_config-26440670,
+mission_skill_config-36440670,
+mission_skill_config-16440680,암호판6에 8을 입력
+mission_skill_config-26440680,
+mission_skill_config-36440680,
+mission_skill_config-16440690,암호판6에 9을 입력
+mission_skill_config-26440690,
+mission_skill_config-36440690,
+mission_skill_config-16440015,【标记】제어콘솔召唤ALLY
+mission_skill_config-26440015,
+mission_skill_config-36440015,
+mission_skill_config-16440016,【标记】召唤ALLY초기화
+mission_skill_config-26440016,
+mission_skill_config-36440016,
+mission_skill_config-16440017,【标记】이아손의 상자초기화
+mission_skill_config-26440017,
+mission_skill_config-36440017,
+mission_skill_config-16440018,이아손의 상자 해체
+mission_skill_config-26440018,
+mission_skill_config-36440018,
+mission_skill_config-16440044,이아손의 상자 해체 성공
+mission_skill_config-26440044,
+mission_skill_config-36440044,
+mission_skill_config-16440045,이아손의 상자 암호 오류
+mission_skill_config-26440045,
+mission_skill_config-36440045,
+mission_skill_config-16449901,错误1
+mission_skill_config-26449901,
+mission_skill_config-36449901,
+mission_skill_config-16449902,错误2
+mission_skill_config-26449902,
+mission_skill_config-36449902,
+mission_skill_config-16449903,错误3
+mission_skill_config-26449903,
+mission_skill_config-36449903,
+mission_skill_config-16449904,错误4
+mission_skill_config-26449904,
+mission_skill_config-36449904,
+mission_skill_config-16440019,【标记】密码1
+mission_skill_config-26440019,
+mission_skill_config-36440019,
+mission_skill_config-16440020,【标记】密码2
+mission_skill_config-26440020,
+mission_skill_config-36440020,
+mission_skill_config-16440021,【标记】密码3
+mission_skill_config-26440021,
+mission_skill_config-36440021,
+mission_skill_config-16440022,【标记】密码4
+mission_skill_config-26440022,
+mission_skill_config-36440022,
+mission_skill_config-16440023,【标记】清除密码1
+mission_skill_config-26440023,
+mission_skill_config-36440023,
+mission_skill_config-16440024,【标记】清除密码2
+mission_skill_config-26440024,
+mission_skill_config-36440024,
+mission_skill_config-16440025,【标记】清除密码3
+mission_skill_config-26440025,
+mission_skill_config-36440025,
+mission_skill_config-16440026,【标记】清除密码4
+mission_skill_config-26440026,
+mission_skill_config-36440026,
+mission_skill_config-16440031,【标记】兔子제어콘솔I초기화
+mission_skill_config-26440031,
+mission_skill_config-36440031,
+mission_skill_config-16440032,【标记】兔子제어콘솔II초기화
+mission_skill_config-26440032,
+mission_skill_config-36440032,
+mission_skill_config-16440033,【标记】兔子제어콘솔III초기화
+mission_skill_config-26440033,
+mission_skill_config-36440033,
+mission_skill_config-16440034,【标记】兔子警报초기화
+mission_skill_config-26440034,
+mission_skill_config-36440034,
+mission_skill_config-16440035,차단문 I 열기
+mission_skill_config-26440035,
+mission_skill_config-36440035,
+mission_skill_config-16440036,차단문 II 열기
+mission_skill_config-26440036,
+mission_skill_config-36440036,
+mission_skill_config-16440037,차단문 III 열기
+mission_skill_config-26440037,
+mission_skill_config-36440037,
+mission_skill_config-16440038,경보 울리기
+mission_skill_config-26440038,
+mission_skill_config-36440038,
+mission_skill_config-16440039,【标记】차단문 I초기화
+mission_skill_config-26440039,
+mission_skill_config-36440039,
+mission_skill_config-16440040,【标记】차단문 II초기화
+mission_skill_config-26440040,
+mission_skill_config-36440040,
+mission_skill_config-16440041,【标记】차단문 III초기화
+mission_skill_config-26440041,
+mission_skill_config-36440041,
+mission_skill_config-16440042,【标记】제어콘솔I초기화
+mission_skill_config-26440042,
+mission_skill_config-36440042,
+mission_skill_config-16440043,적이 폭탄 기폭
+mission_skill_config-26440043,
+mission_skill_config-36440043,
+mission_skill_config-16440046,【标记】炮击阵地I초기화
+mission_skill_config-26440046,
+mission_skill_config-36440046,
+mission_skill_config-16440047,【标记】炮击阵地II초기화
+mission_skill_config-26440047,
+mission_skill_config-36440047,
+mission_skill_config-16440048,적을 포격해 전진하지 못하게 한다
+mission_skill_config-26440048,
+mission_skill_config-36440048,
+mission_skill_config-16440058,적을 포격해 전진하지 못하게 한다
+mission_skill_config-26440058,
+mission_skill_config-36440058,
+mission_skill_config-16440049,EMP雷초기화
+mission_skill_config-26440049,
+mission_skill_config-36440049,
+mission_skill_config-16440050,拾取EMP手雷
+mission_skill_config-26440050,
+mission_skill_config-36440050,
+mission_skill_config-16440051,投掷EMP手雷
+mission_skill_config-26440051,
+mission_skill_config-36440051,
+mission_skill_config-16440052,投掷EMP删除标记
+mission_skill_config-26440052,
+mission_skill_config-36440052,
+mission_skill_config-16440053,【标记】炮台描述
+mission_skill_config-26440053,이 포탑으로 적을 상대할 수 있다.
+mission_skill_config-36440053,
+mission_skill_config-16440054,【标记】禁飞
+mission_skill_config-26440054,대공 관제
+mission_skill_config-36440054,
+mission_skill_config-16440055,【标记】3-3内场胜利标记
+mission_skill_config-26440055,
+mission_skill_config-36440055,
+mission_skill_config-16440056,炮击1CD
+mission_skill_config-26440056,
+mission_skill_config-36440056,
+mission_skill_config-16440057,炮击2CD
+mission_skill_config-26440057,
+mission_skill_config-36440057,
+mission_skill_config-16440069,【标记】제어콘솔X초기화
+mission_skill_config-26440069,
+mission_skill_config-36440069,
+mission_skill_config-16440059,【标记】차단문 XI초기화
+mission_skill_config-26440059,
+mission_skill_config-36440059,
+mission_skill_config-16440060,【标记】차단문 XXII초기화
+mission_skill_config-26440060,
+mission_skill_config-36440060,
+mission_skill_config-16440061,차단문 XI 열기
+mission_skill_config-26440061,
+mission_skill_config-36440061,
+mission_skill_config-16440062,차단문 XXII 열기
+mission_skill_config-26440062,
+mission_skill_config-36440062,
+mission_skill_config-16440063,【标记】炸弹초기화
+mission_skill_config-26440063,
+mission_skill_config-36440063,
+mission_skill_config-16440064,닫기
+mission_skill_config-26440064,
+mission_skill_config-36440064,
+mission_skill_config-16440065,다음 턴에 폭탄 폭발
+mission_skill_config-26440065,
+mission_skill_config-36440065,
+mission_skill_config-16440066,【标记】제어콘솔XCD
+mission_skill_config-26440066,
+mission_skill_config-36440066,
+mission_skill_config-16440067,다음 턴에 폭탄 폭발
+mission_skill_config-26440067,
+mission_skill_config-36440067,
+mission_skill_config-16440068,【标记】特效兔子초기화
+mission_skill_config-26440068,
+mission_skill_config-36440068,
+mission_skill_config-16440070,【标记】3-4胜利标记
+mission_skill_config-26440070,
+mission_skill_config-36440070,
+mission_skill_config-16440071,【标记】丹德莱存活
+mission_skill_config-26440071,
+mission_skill_config-36440071,
+mission_skill_config-16440072,【标记】丹德莱死亡
+mission_skill_config-26440072,
+mission_skill_config-36440072,
+mission_skill_config-16440073,【标记】丹德莱吃瘪
+mission_skill_config-26440073,
+mission_skill_config-36440073,
+mission_skill_config-16440074,【标记】제어콘솔초기화
+mission_skill_config-26440074,
+mission_skill_config-36440074,
+mission_skill_config-16440075,해독
+mission_skill_config-26440075,
+mission_skill_config-36440075,
+mission_skill_config-16440076,【标记】제어콘솔초기화
+mission_skill_config-26440076,
+mission_skill_config-36440076,
+mission_skill_config-16440077,해독
+mission_skill_config-26440077,
+mission_skill_config-36440077,
+mission_skill_config-16440078,연계1
+mission_skill_config-26440078,
+mission_skill_config-36440078,
+mission_skill_config-16440079,완전 해독
+mission_skill_config-26440079,
+mission_skill_config-36440079,
+mission_skill_config-16440080,연계2
+mission_skill_config-26440080,
+mission_skill_config-36440080,
+mission_skill_config-16440081,【标记】차단문 초기화
+mission_skill_config-26440081,
+mission_skill_config-36440081,
+mission_skill_config-16440082,【标记】제어콘솔초기화
+mission_skill_config-26440082,
+mission_skill_config-36440082,
+mission_skill_config-16440083,해독
+mission_skill_config-26440083,
+mission_skill_config-36440083,
+mission_skill_config-16440084,연계1
+mission_skill_config-26440084,
+mission_skill_config-36440084,
+mission_skill_config-16440085,해독
+mission_skill_config-26440085,
+mission_skill_config-36440085,
+mission_skill_config-16440086,연계2
+mission_skill_config-26440086,
+mission_skill_config-36440086,
+mission_skill_config-16440087,완전 해독
+mission_skill_config-26440087,
+mission_skill_config-36440087,
+mission_skill_config-16440088,연계3
+mission_skill_config-26440088,
+mission_skill_config-36440088,
+mission_skill_config-16440089,【标记】차단문 초기화
+mission_skill_config-26440089,
+mission_skill_config-36440089,
+mission_skill_config-16440090,【标记】차단문 XI초기화
+mission_skill_config-26440090,
+mission_skill_config-36440090,
+mission_skill_config-16440091,【标记】차단문 XI초기화
+mission_skill_config-26440091,
+mission_skill_config-36440091,
+mission_skill_config-16440092,【标记】문 열기
+mission_skill_config-26440092,
+mission_skill_config-36440092,
+mission_skill_config-16440093,【标记】문 열기
+mission_skill_config-26440093,
+mission_skill_config-36440093,
+mission_skill_config-16449999,골리앗 투척
+mission_skill_config-26449999,박살을 내주마!
+mission_skill_config-36449999,
+mission_skill_config-16440094,【标记】炸弹초기화3
+mission_skill_config-26440094,
+mission_skill_config-36440094,
+mission_skill_config-16440095,【标记】炸弹초기화3
+mission_skill_config-26440095,
+mission_skill_config-36440095,
+mission_skill_config-16440096,【标记】炸弹초기화4
+mission_skill_config-26440096,
+mission_skill_config-36440096,
+mission_skill_config-16440097,【标记】炸弹초기화5
+mission_skill_config-26440097,
+mission_skill_config-36440097,
+mission_skill_config-16440098,【标记】炸弹初倒计时3
+mission_skill_config-26440098,
+mission_skill_config-36440098,
+mission_skill_config-16440099,【标记】炸弹初倒计时3
+mission_skill_config-26440099,
+mission_skill_config-36440099,
+mission_skill_config-16440100,【标记】炸弹初倒计时4
+mission_skill_config-26440100,
+mission_skill_config-36440100,
+mission_skill_config-16440101,【标记】炸弹初倒计时5
+mission_skill_config-26440101,
+mission_skill_config-36440101,
+mission_skill_config-16440102,닫기
+mission_skill_config-26440102,
+mission_skill_config-36440102,
+mission_skill_config-16440103,닫기
+mission_skill_config-26440103,
+mission_skill_config-36440103,
+mission_skill_config-16440104,닫기
+mission_skill_config-26440104,
+mission_skill_config-36440104,
+mission_skill_config-16440105,닫기
+mission_skill_config-26440105,
+mission_skill_config-36440105,
+mission_skill_config-16440106,【标记】4-4胜利用
+mission_skill_config-26440106,
+mission_skill_config-36440106,
+mission_skill_config-16440107,【标记】BOSS抵抗EMP
+mission_skill_config-26440107,
+mission_skill_config-36440107,
+mission_skill_config-16440108,【标记】秃洞炸弹2
+mission_skill_config-26440108,
+mission_skill_config-36440108,
+mission_skill_config-16440109,【标记】秃洞炸弹3
+mission_skill_config-26440109,
+mission_skill_config-36440109,
+mission_skill_config-16440110,【标记】拆弹
+mission_skill_config-26440110,
+mission_skill_config-36440110,
+mission_skill_config-16440111,【标记】拆弹
+mission_skill_config-26440111,
+mission_skill_config-36440111,
+mission_skill_config-16440112,【标记】3-2密码正确下降
+mission_skill_config-26440112,
+mission_skill_config-36440112,
+mission_skill_config-16440113,【标记】作战整备
+mission_skill_config-26440113,
+mission_skill_config-36440113,
+mission_skill_config-16440114,【标记】3-4彩蛋用
+mission_skill_config-26440114,
+mission_skill_config-36440114,
+mission_skill_config-16440115,【标记】3-4第一回合用
+mission_skill_config-26440115,
+mission_skill_config-36440115,
+mission_skill_config-16440116,【标记】炸弹초기화1
+mission_skill_config-26440116,
+mission_skill_config-36440116,
+mission_skill_config-16440117,이아손의 상자
+mission_skill_config-26440117,안에 꽃가루가 잔뜩 들어있다//c 켜지는 순간 분명 큰일이 난다.
+mission_skill_config-36440117,
+mission_skill_config-16440118,【标记】秃洞用加分초기화
+mission_skill_config-26440118,
+mission_skill_config-36440118,
+mission_skill_config-16440119,【标记】秃洞用加分연계
+mission_skill_config-26440119,
+mission_skill_config-36440119,
+mission_skill_config-16440120,【标记】秃洞扣分3
+mission_skill_config-26440120,
+mission_skill_config-36440120,
+mission_skill_config-16440121,【标记】秃洞扣分8
+mission_skill_config-26440121,
+mission_skill_config-36440121,
+mission_skill_config-16440122,【标记】秃洞炸弹8
+mission_skill_config-26440122,
+mission_skill_config-36440122,
+mission_skill_config-16440123,【标记】拆弹
+mission_skill_config-26440123,
+mission_skill_config-36440123,
+mission_skill_config-16440124,【标记】秃洞扣分3判定
+mission_skill_config-26440124,
+mission_skill_config-36440124,
+mission_skill_config-16440125,【标记】秃洞扣分8判定
+mission_skill_config-26440125,
+mission_skill_config-36440125,
+mission_skill_config-16440126,이아손의 상자
+mission_skill_config-26440126,
+mission_skill_config-36440126,
+mission_skill_config-16440127,이아손의 상자
+mission_skill_config-26440127,제조처: 패러데우스 공장//c 제조일자: XX640921
+mission_skill_config-36440127,
+mission_skill_config-16440128,【标记】丹德莱초기화only1
+mission_skill_config-26440128,
+mission_skill_config-36440128,
+mission_skill_config-16440129,【标记】次数累计
+mission_skill_config-26440129,
+mission_skill_config-36440129,
+mission_skill_config-16440130,【标记】提示
+mission_skill_config-26440130,
+mission_skill_config-36440130,

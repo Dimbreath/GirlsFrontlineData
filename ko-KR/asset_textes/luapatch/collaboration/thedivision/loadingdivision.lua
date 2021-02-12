@@ -71,7 +71,7 @@ Awake = function()
 end
 
 OnDestroy = function()
-	if CS.CommonVideoPlayer.Instance ~= nil then
+	if CS.CommonVideoPlayer.Instance ~= nil and not CS.CommonVideoPlayer.Instance:isNull() then
 		CS.CommonController.Invoke(DestroyVideo, leastVideoTime - CS.UnityEngine.Time.time + startTime, CS.CommonVideoPlayer.Instance);
 	end
 	-- 换回原图
