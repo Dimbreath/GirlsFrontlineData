@@ -1,101 +1,101 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>229</BIN><BGM>BGM_Sneak</BGM><黑屏2>:十五分钟前，工厂内部。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……这边。
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||:……你什么时候撒的粉？
-()<Speaker></Speaker>||:狮鹫小队利用紫外线灯照出的路径，小心而迅速地向深处推进着。+帕罗莎走在最前面，盯着断断续续的路径，生怕在什么地方错过了。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:不是我撒的……这是我跟AR15的信号。
-Kolibri(0)<Speaker>蜂鸟</Speaker>||:原来你们当时就是在计划这个？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:她的担心是完全正确的。
-Savage99(0)<Speaker>沙维奇</Speaker>||:……不愧是传闻中的AR小队，果然精英云集。
-Derringer(0)<Speaker>德林加</Speaker>||<SE1>AVG_tele_disconnect</SE1>:404小队到底在干什么啊……+还是完全连不上讯号。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:给她们点时间，德林加。+这种干扰信号我闻所未闻，应该是最新的型号。
-Derringer(0)<Speaker>德林加</Speaker>||:可是……
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||:帕罗莎，引子断了。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……
-()<Speaker></Speaker>||:AR15留下的路径被一道铁门阻断，帕罗莎抬起头，不由得皱了皱眉。
-Kolibri(0)<Speaker>蜂鸟</Speaker>||:现在怎么办？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:绕过去，想办法找回原本的路……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:沙沙……
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:一阵细碎的脚步声突然从前方的拐角处传来，狮鹫小队的众人抖擞精神，纷纷举起了武器。
-()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:呃……
-()<Speaker></Speaker>||:一阵痛苦的呻吟声后，熟悉的身影扶着墙壁从另一边显现出来。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……玛赫莲？
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker>||:……狮，狮鹫小队的各位。
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||<SE1>ClothingUp</SE1>:你受伤了。
-()<Speaker></Speaker>||:菲德洛夫凑上前去，检查了一下玛赫莲的胳膊。
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||:这个流血量……发生什么事了？+指挥官和AR小队呢？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:……我们失散了。+帕拉蒂斯的部队不知道用什么手段躲过了丹德莱小姐的扫描。+她们埋伏了我们，在开战之前，我跟指挥官就和AR小队失散了。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:你和指挥官！？+指挥官呢！？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:指挥官受伤了……他不能移动。+我把他安置在一个空房间里，出来找人。+你们跟我走，我们把指挥官接上，再去找AR小队。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……我明白了。+带路吧。
-()<Speaker></Speaker>||:帕罗莎看了看玛赫莲，走上前去主动搀扶起她的身体。+她用手按了按玛赫莲的肩膀。
-NPC-Machlian(8)<Speaker>玛赫莲</Speaker>||:谢谢。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……不客气。
-()<Speaker></Speaker>||:……
+()<Speaker></Speaker>||<BIN>229</BIN><BGM>BGM_Sneak</BGM><黑屏2>:15분 전, 공장 내부.
+VP1915(0)<Speaker>페로사</Speaker>||:...이쪽.
+Fedorov(0)<Speaker>표도로프</Speaker>||:언제 이런 가루를 뿌렸어요?
+()<Speaker></Speaker>||:자외선 램프가 밝히는 길을 따라, 그리폰 소대는 잔뜩 경계하고 공장 아래로 나아갔다.+선두에 선 페로사는 끊어졌다 이어졌다 하는 길을 놓치지 않도록 바닥을 주시했다.
+VP1915(0)<Speaker>페로사</Speaker>||:내가 한 게 아니라, AR-15와 상의한 거야.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:에이 뭐야, 그런 거였어?
+VP1915(0)<Speaker>페로사</Speaker>||:그녀의 우려가 들어맞았어.
+Savage99(0)<Speaker>새비지</Speaker>||:과연 AR팀, 명불허전의 엘리트 소대로군요.
+Derringer(0)<Speaker>데린저</Speaker>||<SE1>AVG_tele_disconnect</SE1>:404는 뭐하고 있대?+아직도 신호 연결이 안 되잖아!
+VP1915(0)<Speaker>페로사</Speaker>||:그쪽도 시간이 필요하겠지.+이 교란 신호는 본 적 없는 패턴이니, 분명 패러데우스가 개발한 최신형일 거야.
+Derringer(0)<Speaker>데린저</Speaker>||:그래도...
+Fedorov(0)<Speaker>표도로프</Speaker>||:페로사, 길이 끊어졌어요.
+VP1915(0)<Speaker>페로사</Speaker>||:......
+()<Speaker></Speaker>||:AR-15가 남긴 흔적이 철문에 가로막혀 끊기자, 페로사는 고개를 들고 인상을 찌푸렸다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:이제 어떡하지?
+VP1915(0)<Speaker>페로사</Speaker>||:우회하자, 다시 흔적을 찾아서――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:부스럭...
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:작은 발소리가 저 앞의 길모퉁이에서 들려오자, 그리폰 소대 전원이 신경을 곤두세우고 무기를 들었다.
+()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:으으...
+()<Speaker></Speaker>||:고통스러운 신음과 함께, 익숙한 형체가 벽을 짚으며 나타났다.
+VP1915(0)<Speaker>페로사</Speaker>||:마흐리안...?
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:그... 그리폰 소대 여러분...?
+Fedorov(0)<Speaker>표도로프</Speaker>||<SE1>ClothingUp</SE1>:다치셨군요.
+()<Speaker></Speaker>||:표도로프가 급히 다가가 마흐리안의 팔을 살폈다.
+Fedorov(0)<Speaker>표도로프</Speaker>||:출혈이 심해... 무슨 일이 있었죠?+지휘관과 AR팀은 어딨습니까?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:흩어지고 말았어요...+무슨 수를 썼는지, 패러데우스가 댄들라이 씨의 스캔을 피했어요.+몰려든 매복에 AR팀이 맞서던 중, 지휘관님과 저만 고립되고 말았어요...
+VP1915(0)<Speaker>페로사</Speaker>||:AR팀과 흩어졌다고?!+그럼 지휘관은!?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:지휘관님은 부상을 입어서... 움직이질 못해요.+그래서 빈 방에 숨기고 저만 도움을 구하러 나온 거예요.+따라오세요, 지휘관님을 찾은 다음 AR팀을 찾도록 해요.
+VP1915(0)<Speaker>페로사</Speaker>||:...알았다.+안내해 줘.
+()<Speaker></Speaker>||:페로사는 마흐리안을 주욱 훑어본 다음 다가갔다.+그리고 그녀의 어깨를 토닥이며 부축했다.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:고마워요.
+VP1915(0)<Speaker>페로사</Speaker>||:...천만에.
+()<Speaker></Speaker>||:......
 ()||<黑点1>:
-()<Speaker></Speaker>||<黑点2>:在玛赫莲的引导下，狮鹫小队的成员在安静的走廊间慢慢行进着。+因为玛赫莲的身体非常虚弱，她们前进的速度并不快。
-Kolibri(0)<Speaker>蜂鸟</Speaker>||:……能不能稍微快点？+这样下去指挥官会遇到危险的。
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||:但是玛赫莲的身体……
-Kolibri(0)<Speaker>蜂鸟</Speaker>||:哎呀，你不能抱着她走吗！
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:不……没关系的，马上就到了。
-()<Speaker></Speaker>||:玛赫莲对着菲德洛夫露出了温柔的笑容，摇了摇头。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……+……玛赫莲，你和指挥官是怎么上到这边来的？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:嗯？什么？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:你们中了埋伏，立刻就跟AR小队分散了吧？+按之前你提供的地图，这里还算是很上层的位置。+你们两位伤员竟然能跑到这里，运气真好。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:……啊，因为指挥官最开始并没有受伤。+是指挥官带着我逃到这里来的，我们路上遭遇了帕拉蒂斯的士兵。+指挥官很勉强才带着我逃脱。
-Derringer(0)<Speaker>德林加</Speaker>||:……我怎么总觉得哪里怪怪的？
-()<Speaker></Speaker>||:德林加皱起了眉。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:会吗？哪里？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:帕罗莎停住了脚，因她的驻足，狮鹫小队的其他人也不明就以地停了下来。
-Kolibri(0)<Speaker>蜂鸟</Speaker>||:……怎么了？帕罗莎？
-VP1915(0)<Speaker>帕罗莎</Speaker>||<BGM>BGM_Empty</BGM>:玛赫莲。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:嗯？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:指挥官真的在前面吗？
-NPC-Machlian(8)<Speaker>玛赫莲</Speaker>||:……当然啊？+你看过地图吧，前面有个废弃的仓库。+指挥官就在那里。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:我的确看过地图。+所以我才觉得不对劲。+你们逃出来的路线，偏离你们原本的位置太远了。
-NPC-Machlian(8)<Speaker>玛赫莲</Speaker>||:……您想说什么呢？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:你……到底是怎么到上层的？+指挥官和AR小队到底在哪里？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:……
-()<Speaker></Speaker>||:面对帕罗莎的质问，玛赫莲看起来有些惊讶，随即，她脸上的表情渐渐变得温和……尽管，与先前大有不同。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:我还以为你们很相信我呢。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:前提是，你值得相信。
-()<Speaker></Speaker>||<SE1>Select</SE1>:帕罗莎举起了枪。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:指挥官，在哪？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:我不是告诉你了吗？
-()<Speaker></Speaker>||:玛赫莲微笑着，嘴唇轻轻启合。
-NPC-Machlian(8)<Speaker>玛赫莲</Speaker>||<BGM>10227</BGM>:……指挥官在地狱啊。
-Derringer(0)<Speaker>德林加</Speaker>||:帕罗莎！小心！
-VP1915(0)<Speaker>帕罗莎</Speaker>||:什——！
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:嗡——+一阵破空的声音斩开了走廊的墙壁，径直朝着帕罗莎袭来。+似乎预料到了什么的德林加将她一把推开。
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:轰！
-Narciss(2)<Speaker>娜希斯</Speaker>||:哈哈哈哈哈！不错，不错，居然躲开了，居然敢给我躲开啊！+胆子真大！你们这群垃圾！
-()<Speaker></Speaker>||:在狰狞的狂笑之中，那以娇小的身躯散发巨大威压的涅托自墙的另一侧出现。
-Narciss(0)<Speaker>娜希斯</Speaker>||:——啊？居然只有五个？+你们……难道说……瞧不起我吗？
-()<Speaker></Speaker>||:在一阵躁狂的笑声之后，她忽然静了下来，看着眼前的狮鹫小队，却又突然暴怒起来。
-NPC-Machlian(5)<Speaker>“玛赫莲”</Speaker>||:娜希斯。
-Narciss(3)<Speaker>娜希斯</Speaker>||:——！
-()<Speaker></Speaker>||:在玛赫莲的轻呼中，少女周身的浮游刃都轻颤了一下。
-Narciss(3)<Speaker>娜希斯</Speaker>||:……咕。+我真的……超讨厌……你这身打扮。
-NPC-Machlian(5)<Speaker>“玛赫莲”</Speaker>||:乖一点，娜希斯。+好好完成你的任务，我会奖励你的。
-Narciss(2)<Speaker>娜希斯</Speaker>||:……要杀掉你吗？
-NPC-Machlian(5)<Speaker>“玛赫莲”</Speaker>||:暂时不用。
-()<Speaker></Speaker>||:突然变得温顺的狂犬反而令狮鹫小队更觉得胆寒。+她们看着娜希斯，尽管对手就近在咫尺，但她们居然没有一个人敢先开枪。+人形是不会畏惧的。+但面对这个和蜂鸟差不多体型的少女，她们没有一人能运算出自己胜利的可能。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:……你。+你果然……
-()<Speaker></Speaker>||:帕罗莎看着玛赫莲的嘴脸，眼底烧起了愤怒的火光。
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:唰——
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:呯呯——！！
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:当！+帕罗莎倾泻的子弹全部被娜希斯的浮游刃挡了下来，她转过身，温顺的模样瞬间消散。
-Narciss(2)<Speaker>娜希斯</Speaker>||:你们……居然敢对……姐姐大人……露出肮脏的牙齿？
-NPC-Machlian(8)<Speaker>“玛赫莲”</Speaker>||:……
-()<Speaker></Speaker>||:玛赫莲丝毫不以为意，甚至连微笑的模样都完全没有动摇。+她摇了摇头，看向了压抑着暴怒的娜希斯……现在，就是解开狂犬项圈的时候了。
-NPC-Machlian(8)<Speaker>“玛赫莲”</Speaker>||:我还有事要做，娜希斯。+做得漂亮点。
-Narciss(2)<Speaker>娜希斯</Speaker>||:交给我吧！姐姐大人！+你们听到了吧！这是姐姐大人的命令！+哈哈哈——为了我，为了帕拉蒂斯——去死吧！！
-Fedorov(0)<Speaker>菲德洛夫</Speaker>||:帕罗莎！
-Savage99(0)<Speaker>沙维奇</Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:散开！不要被她集中攻击！+德林加！躲开！
-Derringer(0)<Speaker>德林加</Speaker>||<SE1>ClothingUp</SE1>:呜哇！
-Kolibri(0)<Speaker>蜂鸟</Speaker>||<SE1>AVG_Punch_Hit</SE1>:别小瞧人了——！
-VP1915(0)<Speaker>帕罗莎</Speaker>||<SE1>AVG_weapon_reload</SE1>:——准备战斗！
-()<Speaker></Speaker>||:……看来，不论结果如何。+她们都必须在这里和她做个了断了！
-()<Speaker></Speaker>||:……
+()<Speaker></Speaker>||<黑点2>:마흐리안의 안내를 따라, 그리폰 소대는 조용한 복도를 나아갔다.+하지만 마흐리안이 너무 허약해진 탓에, 느리게 이동할 수밖에 없었다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:좀 더 빨리 가면 안 돼?+이러다 지휘관이 위험해지면 어떡해!
+Fedorov(0)<Speaker>표도로프</Speaker>||:하지만 마흐리안의 상태가...
+Kolibri(0)<Speaker>콜리브리</Speaker>||:으이구, 그럼 네가 업고 가면 되지!
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:아뇨... 괜찮아요, 거의 다 왔어요.
+()<Speaker></Speaker>||:마흐리안은 상냥하게 미소지으며 고개를 저었다.
+VP1915(0)<Speaker>페로사</Speaker>||:......+마흐리안, 너와 지휘관은 어떻게 여기까지 올라왔어?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:네...? 무슨 뜻인가요?
+VP1915(0)<Speaker>페로사</Speaker>||:매복에 당해 AR팀과 헤어졌다며.+댄들라이에게 제공받은 지도에 따르면 여기는 꽤 위층이야.+그런데 저 아래서 여기까지 부상자 둘이서 아무 탈 없이 올라왔지? 운이 좋아도 너무 좋은데.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:아... 지휘관님은 처음부터 다친 게 아니었거든요.+절 데리고 이 근처까지 도망쳐 왔는데, 도중에 패러데우스 병사와 마주쳤어요.+그래도 어렵사리 도망칠 수 있었죠.
+Derringer(0)<Speaker>데린저</Speaker>||:...듣기에 좀 이상한걸?
+()<Speaker></Speaker>||:데린저가 눈살을 찌푸렸다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:그런...가요? 어디가요?
+VP1915(0)<Speaker>페로사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:페로사가 걸음을 멈추자, 소대원들도 덩달아 멈춰섰다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:응...? 왜 그래, 페로사?
+VP1915(0)<Speaker>페로사</Speaker>||<BGM>BGM_Empty</BGM>:마흐리안.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:네?
+VP1915(0)<Speaker>페로사</Speaker>||:정말 지휘관이 저 앞에 있어?
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:물론이죠...?+지도를 보셨다면, 저 앞에 버려진 창고가 있다는 걸 아시잖아요.+지휘관님을 저기에 숨도록 했어요.
+VP1915(0)<Speaker>페로사</Speaker>||:지도는 봤어.+그래서 이상하다는 거야.+둘이 도망쳐 나왔다는 경로가, 원래 위치에서 너무 멀어.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:...무슨 말씀이세요?
+VP1915(0)<Speaker>페로사</Speaker>||:너, 대체 어떻게 위층까지 왔어?+지휘관과 AR팀은 어딨지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:페로사의 질문에 마흐리안은 살짝 놀란 표정을 지었다 금세 다시 평온함을 되찾았다. 하지만... 전혀 다른 분위기였다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:믿어 주실 줄 알았는데.
+VP1915(0)<Speaker>페로사</Speaker>||:네가 믿을 만하다면.
+()<Speaker></Speaker>||<SE1>Select</SE1>:페로사가 총을 들었다.
+VP1915(0)<Speaker>페로사</Speaker>||:대답해, 지휘관 어딨냐고.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:말했잖아요, 저기 있다고요.
+()<Speaker></Speaker>||:마흐리안은 미소지으며, 사근사근 말했다.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<BGM>10227</BGM>:저기... 지옥에.
+Derringer(0)<Speaker>데린저</Speaker>||:페로사! 피해!
+VP1915(0)<Speaker>페로사</Speaker>||:뭐——?!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:부웅——!+바람을 가르는 소리가, 복도의 벽을 베면서 페로사를 향해 날아왔다.+간발의 차로 먼저 눈치챈 데린저가 페로사를 밀어 넘어뜨렸다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:쾅!
+Narciss(2)<Speaker>나르시스</Speaker>||:아하하핫! 제법이네 제법이야! 그걸 피하네?+이 겁도 없는 쓰레기들이!
+()<Speaker></Speaker>||:소름끼치는 웃음소리와 함께, 그 왜소한 몸집으로 거대한 위압감을 내뿜는 니토가 벽의 반대편에서 나타났다.
+Narciss(0)<Speaker>나르시스</Speaker>||:――뭐야, 왜 겨우 5명밖에 없어? 너희들 설마...+...날 무시하는 거야!?
+()<Speaker></Speaker>||:발랄하게 웃던 나르시스의 목소리가 돌연 험악해지더니, 그리폰 소대를 보며 분노했다.
+NPC-Machlian(5)<Speaker>"마흐리안"</Speaker>||:나르시스.
+Narciss(3)<Speaker>나르시스</Speaker>||:——!
+()<Speaker></Speaker>||:하지만 마흐리안이 가볍게 이름을 부르자, 그 소녀의 주위를 떠다니는 칼날이 일제히 멈췄다.
+Narciss(3)<Speaker>나르시스</Speaker>||:윽...+솔직히, 언니가 그 차림인 거... 엄청 보기 싫어...
+NPC-Machlian(5)<Speaker>"마흐리안"</Speaker>||:얌전히 굴어야지, 나르시스.+임무가 잘 끝나면 상을 줄 테니까.
+Narciss(2)<Speaker>나르시스</Speaker>||:언니 죽이는 거?
+NPC-Machlian(5)<Speaker>"마흐리안"</Speaker>||:그건 아직.
+()<Speaker></Speaker>||:갑자기 온순해진 광견의 모습에, 그리폰 소대는 오히려 한층 더 오한이 들었다.+모두 "나르시스"라는 니토를 주시했지만, 누구도 감히 먼저 발포하지 못했다.+전술인형은 두려움에 위축되지 않는다.+허나 저 콜리브리와 비슷한 체격인 소녀를 상대로, 누구도 승리할 가능성을 산출해낼 수가 없었다.
+VP1915(0)<Speaker>페로사</Speaker>||:너...+역시...!
+()<Speaker></Speaker>||:페로사는 마흐리안을 노려보며, 눈에서 분노의 불꽃을 태웠다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:철컥——
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕——!!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:팅!+페로사가 발사한 총탄이 전부 부유검에 튕겨나갔고, 얌전했던 광견이 다시 이를 드러냈다.
+Narciss(2)<Speaker>나르시스</Speaker>||:이것들이 감히... 언니한테 더러운 걸 뿌려대!?
+NPC-Machlian(8)<Speaker>"마흐리안"</Speaker>||:......
+()<Speaker></Speaker>||:하지만 마흐리안은 전혀 신경쓰지 않는다는 듯, 미소에 흔들림이 없었다.+그저 고개를 절레절레 흔들더니, 분노를 억누르는 나르시스를 바라봤다...... 광견의 목줄을 풀 때였다.
+NPC-Machlian(8)<Speaker>"마흐리안"</Speaker>||:난 아직 할 일이 있어.+나르시스, 깔끔하게 처리하렴.
+Narciss(2)<Speaker>나르시스</Speaker>||:맡겨만 줘, 언니!+모두 들었지? 언니가 처리하래.+그러니까, 나를 위해... 크흐히히힛, 패러데우스를 위해! 죽어!!!
+Fedorov(0)<Speaker>표도로프</Speaker>||:페로사!
+Savage99(0)<Speaker>새비지</Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:산개! 집중당하지 마!+데린저! 빨리 피해!
+Derringer(0)<Speaker>데린저</Speaker>||<SE1>ClothingUp</SE1>:우와악!!
+Kolibri(0)<Speaker>콜리브리</Speaker>||<SE1>AVG_Punch_Hit</SE1>:저게 짜증나게 우릴 무시하네!?
+VP1915(0)<Speaker>페로사</Speaker>||<SE1>AVG_weapon_reload</SE1>:——전투 개시!
+()<Speaker></Speaker>||:산출해낸 결과가 어떻든, 결국 할 수밖에 없다.+여기서, 결판을 내야 한다.
+()<Speaker></Speaker>||:......
 ()||<黑点1><BIN>10</BIN>:

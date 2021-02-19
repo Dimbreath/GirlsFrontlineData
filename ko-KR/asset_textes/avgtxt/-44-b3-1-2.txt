@@ -1,76 +1,76 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>AVG_21Winter_Subway</SE1>:柏林市旧地铁站地下通道。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>哟，指挥官。</color>
-UMP45Mod(0)<Speaker>指挥官</Speaker><通讯框>||:45，情况怎么样？
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>真是吓了我一跳。</color>+<color=#00CCFF>没想到都是真的，我和9发现了很多爆炸物，足够把这里全部炸塌。</color>+<color=#00CCFF>地点都记录下来了，待会就发送给你。</color>
-UMP45Mod(0)<Speaker>指挥官</Speaker><通讯框>||:……知道了。+我和AR小队已经到了，现在就去拆除。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>小心一点。</color>+<color=#00CCFF>G11和416发现了不少那些白色的士兵。</color>+<color=#00CCFF>看样子他们在这里蹲了不少时间，身上都臭了。</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:在哪里！+帕拉蒂斯在哪里！
-()<Speaker></Speaker>||:SOP龇牙咧嘴地一副跃跃欲试的样子。
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:……
-()<Speaker></Speaker>||:听到45的话，玛赫莲肉眼可见地不安了起来。
-()<Speaker>指挥官</Speaker>||:……不会有事的。
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:……我不知道，我的记忆已经兑现了一半了。+你觉得另一半会存在侥幸吗？
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_disconnect</SE1>:指挥官，404发来的坐标已全部确认。
-()<Speaker>指挥官</Speaker>||:好，15，SOP，你们去和404汇合。+在他们强制引爆之前，把所有爆炸物都拆除掉。
-AR15Mod(0)<Speaker>AR15</Speaker>||:……
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:走啦！15！不要因为玛赫莲说的都是真的而生闷气嘛！
-AR15Mod(4)<Speaker>AR15</Speaker>||:我才没有生闷气！+只是有点……难以置信而已！
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:……
-()<Speaker></Speaker>||:玛赫莲揪紧了自己的衣服，额头上渗出了汗水。
-()<Speaker>指挥官</Speaker>||:……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:指挥官无言地拍了拍她的肩膀。
-()<Speaker>指挥官</Speaker>||:……我不知道你在担心什么。+但是，相信我们。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:罗宾……
-()<Speaker>指挥官</Speaker>||:玛赫莲抬起了头，似乎想说什么。
-AR15Mod(5)<Speaker>AR15</Speaker>||:指挥官！别落单了！
-()<Speaker>指挥官</Speaker>||:知道了！+……你刚才想说什么？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:……+……不，什么都没有。
-()<Speaker></Speaker>||:玛赫莲摇了摇头，又恢复了静默的样子。
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>AVG_21Winter_Subway</SE1>:베를린 구지하철역의 지하 터널.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>하이, 지휘관.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:45, 상황은 어때?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>나도 정말 깜짝 놀랐다니까? 설마 모두 정말이라니.</color>+<color=#00CCFF>나도 9도 폭발물을 잔뜩 찾아냈어, 여길 완전히 무너뜨리고도 남을 양이야.</color>+<color=#00CCFF>장소는 모두 기록했으니까 바로 전송할게.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:...알았다.+나와 AR팀도 도착했으니 바로 해체하러 가겠어.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>조심해.</color>+<color=#00CCFF>G11이랑 416이 그 하얀 병사를 엄청 많이 발견했어.</color>+<color=#00CCFF>여기에 아주 오래 잠복해 있었는지 몸에 냄새가 다 뱄다니까.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:잔뜩이라고!?+어딨어? 패러데우스 놈들 어딨는데?
+()<Speaker></Speaker>||:아까부터 의욕이 넘치는 SOP2가, "잔뜩 있다"는 말에 활짝 웃었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:하지만 UMP45의 말을 들은 마흐리안은 눈에 띄게 불안해했다.
+()<Speaker>지휘관</Speaker>||:괜찮아?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:모르겠어요... 벌써 제 기억의 절반이 들어맞았잖아요...+나머지 절반을, 정말 막을 수 있을까요...?
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관님, 404가 전송한 좌표 모두 확인했습니다.
+()<Speaker>지휘관</Speaker>||:좋았어. AR-15, SOP2, 너희는 404와 합류해.+놈들이 기폭하기 전에 모든 폭발물을 해체한다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:얼른 가자! 마흐리안 말이 맞았다고 심술 부리지 말고!
+AR15Mod(4)<Speaker>AR15</Speaker>||:그런 거 아니야!+그냥 좀... 믿기지 않아서 그래!
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:옷자락을 부여잡은 마흐리안의 이마엔 구슬땀이 맺혔다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 아무 말도 않고, 그저 그녀의 어깨를 토닥여 주었다.
+()<Speaker>지휘관</Speaker>||:네가 뭘 걱정하는 건진 몰라도...+우리를 믿어 주길 바라.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈...
+()<Speaker>지휘관</Speaker>||:고개를 든 마흐리안이, 무언가 말하려 했다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:지휘관! 뒤처지면 위험해요!
+()<Speaker>지휘관</Speaker>||:알았어!+방금 뭐 말하려 했어?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......아뇨.+아무것도 아니에요.
+()<Speaker></Speaker>||:마흐리안은 고개를 젓고, 다시 조용해졌다.
 ()||<黑点1>:
-UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑点2><BGM>BGM_Empty</BGM><SE1>AVG_keyboardtype_sci</SE1>:哟！这就是最后一个了！
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:这样这边就安全了。
-()<Speaker>指挥官</Speaker>||:很好，辛苦了，404的各位。
-G11Mod(0)<Speaker>G11</Speaker>||<震屏3><BGM>BGM_War</BGM>:<Size=55>干什么啊！打起精神来啊！指挥官！</Size>+<Size=55>拖拖沓沓的像什么样子！</Size>
-()<Speaker>指挥官</Speaker>||:……G11是这种人形来着吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:416，拔掉。
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Error</SE1>:416白了45一眼，抬手拔掉了G11身上的插头。
-G11Mod(0)<Speaker>G11</Speaker>||:呜欸——Zzzzzzzzz。
-HK416Mod(0)<Speaker>HK416</Speaker>||:刚才我们和帕拉蒂斯发生了交火。+剩下的地点如果有类似的情况，那肯定也会有留守的士兵。
-HK416Mod(0)<Speaker>指挥官</Speaker>||:但是狮鹫小队目前还没有联络我。+如果发生了交火，我会第一时间收到通知的。
-HK416Mod(0)<Speaker>HK416</Speaker>||:我只是提醒你一下，如果没有当然是最好了。
-HK416Mod(0)<Speaker>指挥官</Speaker>||:嗯，谢谢你，416。
-HK416Mod(0)<Speaker>HK416</Speaker>||:……
-()<Speaker></Speaker>||:416别过了视线，正好看向了一脸不安的玛赫莲。
-HK416Mod(0)<Speaker>HK416</Speaker>||:你怎么了？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:……还有一个。
-NPC-Machlian(6)<Speaker>指挥官</Speaker>||<BGM>BGM_Brain</BGM>:什么？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:还有一个炸弹。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:不可能。+这一块我们都仔细检查过了。+小姐，你是怀疑我们的业务能力吗？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:在狭窄的管道里。
-()<Speaker></Speaker>||:玛赫莲求助一般地看向了指挥官。
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker>||:相信我！
-()<Speaker>指挥官</Speaker>||:……去看看吧。+抱歉，45，如果没有的话，我会补偿你的。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:……哼，给我做好心理准备吧。+我可是会狮子大开口的。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑点2><BGM>BGM_Empty</BGM><SE1>AVG_keyboardtype_sci</SE1>:좋아! 이걸로 끝!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이걸로 여긴 안전해졌네.
+()<Speaker>지휘관</Speaker>||:잘했다, 404 모두 수고했어.
+G11Mod(0)<Speaker>G11</Speaker>||<震屏3><BGM>BGM_War</BGM>:<Size=55>뭔 맥 빠지는 소리야! 정신 똑바로 차리라고 지휘관!</Size>+<Size=55>굼벵이처럼 뭘 꾸물거려?! 얼른 다음 가자 다음!</Size>
+()<Speaker>지휘관</Speaker>||:어어... 쟤가 원래 저런 성격이었던가?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:416, 뽑아.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Error</SE1>:HK416이 UMP45를 흘깃 쏘아보고선, G11의 몸에 꽂혀 있던 케이블을 홱 뽑았다.
+G11Mod(0)<Speaker>G11</Speaker>||:으에에ZZZzzz...
+HK416Mod(0)<Speaker>HK416</Speaker>||:저희도 방금 패러데우스 병력과 교전했습니다.+다른 위치도 비슷한 상황이라면, 분명 어딘가에 주둔 병력이 있을 거예요.
+HK416Mod(0)<Speaker>지휘관</Speaker>||:아직 그리폰 소대에게서 연락이 오진 않았어.+만약 교전이 발생한다면 즉시 연락이 올 거야.
+HK416Mod(0)<Speaker>HK416</Speaker>||:그냥 귀띔해 드린 거예요, 아무 일 없는 것이 제일이죠.
+HK416Mod(0)<Speaker>지휘관</Speaker>||:응. 고맙다, 416.
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+()<Speaker></Speaker>||:HK416은 지휘관의 시선을 피하다, 안절부절못하는 마흐리안과 눈이 마주쳤다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:...너는 왜 그래?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:하나... 더 있어요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker>||<BGM>BGM_Brain</BGM>:뭐?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:폭탄이... 아직 하나 더 있어요...!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그럴 리 없어.+이 구역을 아주 샅샅이 뒤져봤는걸.+너 지금 우리 실력을 의심하는 거야?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:아니에요, 아주... 아주 좁은 파이프 속에 폭탄이...!
+()<Speaker></Speaker>||:마흐리안이 도움을 바라는 눈빛으로 지휘관을 바라보았다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:믿어 주세요!
+()<Speaker>지휘관</Speaker>||:...미안해, 45.+한번 확인해 줘, 없으면 수고비용 추가로 줄 테니까.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:흥... 각오 단단히 하라고.+입 떡 벌어질 금액으로 요구할 거야.
 ()||<黑点1>:
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑点2>:呜哇……真，真的有欸！
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:啧……信号干扰器。
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:45捏着手里精致的小型装置，脸色十分难看。+9小心地将爆炸物从狭窄的管道内取出，有惊无险地将引线拆除。
-AR15Mod(0)<Speaker>AR15</Speaker>||:你怎么知道的？
-()<Speaker></Speaker>||:而AR15看着玛赫莲，脸上的敌意都快要溢出来了。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:我不知道，只是……
-()<Speaker></Speaker>||:玛赫莲咬了咬嘴唇。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:在你们准备离开的时候，我突然就有这种感觉。
-AR15Mod(4)<Speaker>AR15</Speaker>||:呵，是吗？+感觉啊，这词真好用。
-()<Speaker></Speaker>||:AR15不依不饶地一脸讥讽，但这次却没有人阻止她。+RO和SOP也有些惊讶地看着玛赫莲，这样的事情的确有些让人匪夷所思。
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:或许是见到实际的情景。+让她的记忆复苏了一些吧。+这不就是你想要的结果吗？指挥官？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:但还好这位小姐最后还是选择帮了我们一把啊。+否则我的招牌都得砸了。
-UMP9Mod(3)<Speaker>UMP9</Speaker>||:已经砸了吧……
-UMP9Mod(2)<Speaker>UMP9</Speaker><Shake>0.1</Shake>||<震屏3><SE1>AVG_Punch_Hit</SE1>:痛！
-()<Speaker>指挥官</Speaker>||:别说了，15。+如果这里发生爆炸，会有很多人被卷进事故里。+……玛赫莲不是在帮我们。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker>||:……
-()<Speaker></Speaker>||:玛赫莲一言不发，指挥官也只得摇了摇头。
-()<Speaker>指挥官</Speaker>||:走吧，我们到隔离墙那边去。+狮鹫小队可能也需要支援。
-RO635Mod(0)<Speaker>RO635</Speaker>||:明白。
-()<Speaker></Speaker>||:……
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑点2>:우와아... 정말 있었네?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:칫... 재밍 장치 때문이야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:UMP45는 정교하게 만들어진 소형 장치를 집고는, 아주 심각한 표정을 지었다.+그녀 옆의 UMP9는 파이프 속에서 조심조심 폭발물을 꺼내, 무사히 뇌관을 제거했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:어떻게 알았어?
+()<Speaker></Speaker>||:AR-15이 적개심을 드러내며 마흐리안을 노려봤다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:잘 모르겠어요, 그저...
+()<Speaker></Speaker>||:마흐리안은 입술을 살짝 깨물었다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:여러분이 떠나려 할 때, 갑자기 그런 느낌이 들었어요.
+AR15Mod(4)<Speaker>AR15</Speaker>||:아, 그래?+여자의 감이라, 참 편리하네.
+()<Speaker></Speaker>||:AR-15이 대놓고 핀잔을 주는데도, 이번엔 아무도 말리지 않았다.+RO635와 SOP2 역시 다소 놀란 얼굴이었다. 확실히, 의심스러웠다.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:어쩌면 현장을 보니까 기억이 조금 돌아온 걸지도?+지휘관도 바란 결과 아니야?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이 아가씨가 제때 입을 열어서 망정이지.+하마터면 내 커리어에 먹칠할 뻔했어.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:응? 이미 먹칠 범벅 아니야?
+UMP9Mod(2)<Speaker>UMP9</Speaker><Shake>0.1</Shake>||<震屏3><SE1>AVG_Punch_Hit</SE1>:아야!
+()<Speaker>지휘관</Speaker>||:그만해, AR-15.+여기서 폭발이 일어났다면, 수많은 사람이 휘말렸을 거야.+...마흐리안은, 결코 우리 좋으라고 선심 쓴 게 아니야.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:마흐리안이 입을 열지 않으니, 지휘관은 그저 고개를 흔들 수밖에 없었다.
+()<Speaker>지휘관</Speaker>||:그만 가자, 격리벽으로 이동한다.+그리폰 소대가 지원이 필요할 수도 있어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

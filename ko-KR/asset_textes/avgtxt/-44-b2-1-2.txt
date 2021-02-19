@@ -1,115 +1,115 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>168</BIN>:……密涅瓦的猫头鹰门口。
-()<Speaker>指挥官</Speaker>||:还有一分钟！
-RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官，我们在门外待命，有事你——
-()<Speaker>指挥官</Speaker>||<SE1>RunStep</SE1>:30秒！！！
-()||<SE1>AVG_Door_Open_Close</SE1><BGM>GF_EV9_Intermission</BGM>:指挥官冲进了酒吧。
-RO635Mod(0)<Speaker>RO635</Speaker>||:呼……总之还是算踩点到了吧。+45，刚刚的信号屏蔽是怎么回事？
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>具体原因我们还没有找出来，但是这次的屏蔽发生得很蹊跷。</color>
-UMP45Mod(0)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:谁能想到电子战专长的45居然也会被屏蔽信号？还花了不少时间才破解。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>事实上，我们并没有破解成功。</color>+<color=#00CCFF>因为我们搜索不到任何屏蔽器的存在，只能靠频繁移动位置来推测屏蔽器的有效范围。</color>
-UMP45Mod(0)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:怎么可能找不到？+理论上，屏蔽器也是靠发射信号实现乱码干扰来中断我们的链接。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>是，所以我说很蹊跷。</color>+<color=#00CCFF>一般的屏蔽器，就算无法破解，我们也是能意识到它的存在的。</color>+<color=#00CCFF>但是这一次的屏蔽器，就像直接关闭我们的链接一样，我什么也没察觉到。</color>
-UMP45Mod(0)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:……+这很危险。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>是啊，等指挥官出来再考虑后续问题吧。</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>现在，我们要休息了。</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:收到。
-()||<SE1>AVG_tele_disconnect</SE1>:关闭通讯后，RO还在思考屏蔽器的问题。+SOP2摇了摇她，指给她看对面的超大显示屏。+对面商超的外壁在下午三点准时开启了巨幅的显示屏。+显示屏上用华丽的字体写着<color=#FFFF00>“祝贺迦拉提亚集团成立一百周年”</color>。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>10213</BGM>:RO，你看！+原来刚刚那些人这么疯狂，都是因为这个哦！+这个迦拉提亚集团好有排场哦，等我们基地成立一百周年的时候也让指挥官去整个！
-AR15Mod(0)<Speaker>AR15</Speaker>||:一百周年，那时候指挥官都是个老——
-RO635Mod(0)<Speaker>RO635</Speaker>||:咳，一百周年的事就等一百周年的时候再说吧。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:好——
-()||:RO635盯着显示屏上正在播放的迦拉提亚集团宣传片，容貌清秀的难民代表正在发表感谢致辞。
-()<Speaker>难民代表</Speaker>||:……迦拉提亚集团为我们做了很多，不仅仅是物质上的支持，还有精神上的抚慰。+大多数人们认为，能让我们这样的难民苟延残喘地活下来就已经是最大的恩赐。+只有迦拉提亚集团，看到了我们内心因为辐射污染而失去家园的痛苦，并且伸出援手……
-AR15Mod(0)<Speaker>AR15</Speaker>||:你在想什么，RO？
-RO635Mod(0)<Speaker>RO635</Speaker>||:这个集团的名字，在伯恩村也出现过。
-AR15Mod(0)<Speaker>AR15</Speaker>||:……+出现的时间和地点都意外地巧合啊。
-()||<SE1>AVG_Door_Open_Close</SE1>:叮铃铃——+酒吧后门的铃铛发出一阵轻响。+一个白发少女抱着一袋猫粮走了出来。
-AN94(12)<Speaker>AN94</Speaker><Position>0,-100</Position>||:……
-AR15Mod(0)<Speaker>AR15</Speaker>||:94？
-AN94(11)<Speaker>AN94</Speaker><Position>0,-100</Position>||:15……+AR小队的各位，你们好。
-AR15Mod(0)<Speaker>AR15</Speaker>||:你好，安洁和指挥官聊得还好吗？
-AN94(11)<Speaker>AN94</Speaker><Position>0,-100</Position>||:……挺好的。
-()||:AN94静静走到路边蹲下来，原本趴在屋檐晒太阳的猫咪慵懒地跃下，凑到了AN94的手边。
-AR15Mod(0)<Speaker>AR15</Speaker>||:既然你在这里，那么……
-()||<SE1>AVG_Door_Open_Close</SE1>:叮铃铃——门上的铃铛又一次发出轻响。
-AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:这不是AR小队的各位吗？好久不见。
-AK12(12)<Position>0,-100</Position>;RO635Mod(5)<Speaker>RO635</Speaker>||:确实好久不见。
-AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(5)||:你们应该进去喝一杯，这里的调酒师很不错。+在我跟着安洁喝过的酒里，他调的酒能排上前三了。
-AK12(12)<Position>0,-100</Position>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:哇——+那你怎么出来了？
-AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>;M4 SOPMOD IIMod(0)||:当然是因为有个讨厌的家伙也在——
-AK12(12)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:你们先一步来到柏林，感觉如何？
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:不太好，最近安洁的状态……我想你们应该也看到了。
-AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:是因为那个叫“默莉朵”的女人？
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:当然……这一切的源头都是她，不然我们应该都不会在这里。
-AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:她是个怎样的人？
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:阴险，狡诈，擅长伪装，能够模拟各种性格的高级涅托。
-AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:……
-AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:善于伪装吗？
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:当然，默莉朵这个女人可是个高明的骗子，连一向精明的安洁都被蒙蔽了双眼。
-AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:……我们可能抓住了默莉朵。
-AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:15，现阶段还不能确定，指挥官还在调查。
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:哦？那你们可要小心提防了，我们这段时间受的苦，全部拜她所赐。
-AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:难怪能引出那样规模的帕拉蒂斯。
-AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:她很会根据对方性格的弱点改变自己的形象。
-AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:我想，像指挥官这样的人，能扛得住拷问，却不一定扛得住弱者的求助。
-AR15Mod(0)<Speaker>AR15</Speaker>||:……
-RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官虽然确实是个正义又善良的人，但我认为指挥官绝不会被轻易蒙蔽。
-AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:别担心啦，安洁肯定会给指挥官很多有用的建议的。
-()||<SE1>AVG_Door_Open_Close</SE1>:叮铃铃——
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:啊呀，好多熟人？
-AK15(6)<Speaker>AK15</Speaker>||:……
-RO635Mod(0)<Speaker>RO635</Speaker>||:你们是忤逆小队的RPK16和AK15吗？
-RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:是的，你一定就是AR小队的现任队长RO635吧？
-RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:你好，初次见面。
-RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:你好啊。
-RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:你们可以继续之前的话题，不用理会我。
-RO635Mod(0)<Speaker>RO635</Speaker>||:……
-()||<黑点1>:见RPK16出来，AK12也开始靠着墙闭眼休息。+场面再度冷清了起来。+远处的巨幅显示屏上，迦拉提亚集团的宣传片还在喋喋不休。
-()<Speaker>格雷女士</Speaker>||<BIN>325</BIN><common_effect>%%code=NPC_TV_19%%</common_effect>:……一直以来，迦拉提亚集团都致力于抗辐射药剂的研究，我相信大家也对我们的结果——+“伊登”新型辐射病药剂有所耳闻。+更高效安全，更低廉普及，是我们的对“伊登”的展望。+目前，“伊登”药剂已经在临床试验中展现出喜人的成果，正在接受政府的检验。+相信在不久的未来，“伊登”就能正式与各位民众见面，届时我们也诚邀大家来检验“伊登”的效果。+黎明前的黑暗最为漫长，请大家不要放弃，我们一定会看见清晨的第一缕阳光！
-()<Speaker></Speaker>||<黑点2><BIN>168</BIN><关闭蒙版>%%</关闭蒙版>:聚集在显示屏前的人群发出了狂热的欢呼。+就算隔着一段距离，传到酒吧后门这里，依然能感受到人们发自内心的喜悦和希望。+人形们都好奇地望向欢呼的方向。
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:人类真是脆弱又坚强的生物啊。+在绝对压制的力量面前会被轻易碾碎，但只要给他们一点希望……+哪怕只有极其微弱的一点，他们就能重新燃起对生命的渴望。
-()||:不知道在什么时候，RPK16走到了RO635的身边。
-RO635Mod(3)<Speaker>RO635</Speaker>||:……是的。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:还是人形好，素体坏掉了也能换个新的！
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:我倒不这么认为。+你们听说过，忒修斯悖论吗？
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:那是什么？
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:很久以前，有个人类提出了一个问题。+如果忒修斯的船上的木头被逐渐替换，直到所有的木头都不是原来的木头，那这艘船还是原来的那艘船吗？+类比到人形，如果我们身上的零件被逐渐替换，甚至干脆直接换上了新的素体，那我们还是原来的人形吗？
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:诶……
-RO635Mod(0)<Speaker>RO635</Speaker>||:这个故事……
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:我们为了继续运转，必须不断更换零件。+但人类的身体就不一样了。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:唔……
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:在不发生意外的前提下，人类可以仅靠着纯粹的肉体存活很长时间。+虽然人类的肉体很脆弱，但却纯粹得动人。
-RO635Mod(0)<Speaker>RO635</Speaker>||:RPK16小姐想得真深奥啊……
-()||:SOP2已经靠在RO635的肩膀昏睡了过去。+RO635出于礼貌，不得不留在原地。
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:RO小姐，我讲的话题是不是很枯燥无聊？
-RO635Mod(0)<Speaker>RO635</Speaker>||:不会……
-()<Speaker>M4 SOPMOD II</Speaker>||:Zzzzz……
-RO635Mod(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>SOP2你又流口水了……</color>
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:那真是太好了，我有好多事想要请教RO小姐。
-()||:不知道在什么时候，RPK16走到了RO635的身边。用好奇的眼神细细端详起来。
-RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:我听说，你是第三代人形的雏形。+帕斯卡小姐没有对你的底层做出任何限制。
-RO635Mod(3)<Speaker>RO635</Speaker>;RPK16(8)<Position>0,-100</Position>||:呃……+虽然说是这么说，但实际上没有太大差别。
-RO635Mod(3);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:完全干净如白纸的底层……+那可是无限接近于人类心灵的东西啊。
-RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:……
-RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:也就是说，某种程度上，RO小姐已经拥有了人类的心。
-RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:也不能这么说吧，毕竟我——
-RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:那你有没有想过成为人类是什么样的感觉呢？
-RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:毕竟你离完全成为人类，也就只差拥有人类的肉体了吧？+人类般纯粹的心灵，如果再加上人类纯粹的肉体，就能无限接近我们的造物者了吧……
-RO635Mod(3)<Speaker>RO635</Speaker>||:什么？
-()||:RO635被意料之外的问题吓得后退了半步。+原本假寐的AR15也睁开了眼，AK15和AK12的眼神也聚焦到了RPK16的身上。
-RPK16(9)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:诶诶，不要这么紧张嘛，我只是随便聊聊。
-RO635Mod(2)<Speaker>RO635</Speaker>||:呃……对不起……是我从没思考过这个问题，所以不知道该怎么回答。
-()||<SE1>AVG_Door_Open_Close</SE1>:叮铃铃——+指挥官走出了后门。
-()<Speaker>指挥官</Speaker>||:RO，我们——+是忤逆小队啊，我打断了你们吗？
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:你好啊，指挥官。
-()<Speaker>指挥官</Speaker>||:你好，安洁在里面等你。+RO，我们该回去了。
-RO635Mod(0)<Speaker>RO635</Speaker>||:好的，15，SOP2，我们走吧。
-()<Speaker>M4 SOPMOD II</Speaker>||:zzzzZZZZZ……
-AR15Mod(2)<Speaker>AR15</Speaker>||<黑屏1>:SOP2，醒醒！该走了——
-()||<黑屏2><BIN>88</BIN>:……404小队占据的旧城区阁楼。
-HK416Mod(0)<Speaker>HK416</Speaker>||:聊的什么玩意儿？把我都听困了。
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:45姐，你在想什么？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:……
-()||:UMP45的目光再度落到RPK16的身上，此刻，她正笑着和安洁说着什么。
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:我总感觉有什么事要发生了。
+()||<黑屏2><BIN>168</BIN>:술집 "미네르바의 부엉이"의 문 앞.
+()<Speaker>지휘관</Speaker>||:남은 시간 1분!
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 저흰 문 앞에서 대기할 테니 무슨 일 있으면——
+()<Speaker>지휘관</Speaker>||<SE1>RunStep</SE1>:30초——!!
+()||<SE1>AVG_Door_Open_Close</SE1><BGM>GF_EV9_Intermission</BGM>:지휘관은 술집으로 냅다 달려들어갔다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:어휴... 아슬아슬하게 지각은 면하셨겠지.+그나저나 45, 아까 신호가 차단당했다는 건 무슨 소리야?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>자세한 원인은 아직 파악 중이지만, 이번 건 엄청 이상해.</color>
+UMP45Mod(0)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:전자전의 프로 UMP45가 신호를 차단당하고, 그걸 해제하는 데 시간을 그렇게나 잡아먹었다고?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>사실, 차단을 풀진 못했어.</color>+<color=#00CCFF>재밍 장치를 도저히 탐지할 수가 없어서, 결국 계속 자리를 이동하면서 차단망의 범위를 추측했을 뿐이야.</color>
+UMP45Mod(0)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:재밍 장치를 못 찾았다고?+말도 안 돼, 재밍도 신호를 발사해서 통신 신호를 교란하는 원리잖아.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>그래서 이상하다는 거야.</color>+<color=#00CCFF>일반적인 재밍 장치라면 해독할 수 없어도 그 존재를 인식할 수는 있는데...</color>+<color=#00CCFF>이번 건 마치 우리의 연결을 그대로 끊어버린 것처럼, 아무것도 느껴지지가 않았어.</color>
+UMP45Mod(0)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:......+그거 좀 많이 위험한걸.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>그렇지. 그래도 나머진 지휘관이 나온 다음에 얘기하자.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>지금은 우리도 좀 쉬어야겠어.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:알았어.
+()||<SE1>AVG_tele_disconnect</SE1>:통신을 종료하고서도, RO635는 그 "이상한 재밍"에 대해 고민했다.+그러던 그때, SOP2가 그녀를 흔들며 거대한 전광판을 가리켰다.+건너편 마켓의 외벽에 설치된 그 전광판은, 3시 정각이 되자 거창한 광고를 재생했다.+그와 함께, 화려한 글자체로 <color=#FFFF00>"갈라테아 그룹의 창설 100주년을 축하합니다!"</color>라는 문구도 지나갔다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>10213</BGM>:RO! 저것 좀 봐봐!+아까 사람들이 막 뛰어오던 게 저거 때문이었나 봐!+저 갈라테아 그룹이란 데, 엄청 큰 회사인가 보네? 우리도 지휘관한테 기지 창설 100주년 되면 저렇게 해 달라고 하자!
+AR15Mod(0)<Speaker>AR15</Speaker>||:야야, 100주년이면 지휘관도 폭삭――
+RO635Mod(0)<Speaker>RO635</Speaker>||:크흠... 100주년 얘기는 100주년이 됐을 때 하자.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:히히히, 오케이~
+()||:RO635는 전광판에서 재생되는 갈라테아 그룹의 홍보 영상을 물끄러미 바라보았다. 때마침 광고에선 용모단정한 난민 대표가 감사의 메시지를 전하는 중이었다.
+()<Speaker>난민 대표</Speaker>||:"――저희를 위해 정말 많은 일을 해 주었습니다. 물질적인 지원만이 아니라, 정신적 보살핌까지 말이죠."+"저를 포함한 많은 이들이, 난민은 그저 하루하루 연명할 수 있다면 달리 더 바랄 게 없다고 여겨 왔습니다."+"하지만 오직 갈라테아 그룹만이, 붕괴 오염으로 모든 것을 잃은 저희의 고통을 헤아리고 구원의 손길을 내어――"
+AR15Mod(0)<Speaker>AR15</Speaker>||:RO, 무슨 생각해?
+RO635Mod(0)<Speaker>RO635</Speaker>||:저 그룹... 본 마을에서 들었어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:......+출현 시기와 장소가 너무 절묘한걸.
+()||<SE1>AVG_Door_Open_Close</SE1>:딸랑딸랑――+술집 뒷문의 방울이 가볍게 울리더니, 고양이 사료 봉투를 품에 안은 옅은 머리색의 소녀가 걸어 나왔다.
+AN94(12)<Speaker>AN94</Speaker><Position>0,-100</Position>||:......
+AR15Mod(0)<Speaker>AR15</Speaker>||:AN-94?
+AN94(11)<Speaker>AN94</Speaker><Position>0,-100</Position>||:앗, AR-15...+...그리고 AR팀, 모두 반갑다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그래, 안녕. 안젤리아랑 지휘관은 잘 얘기하고 있어?
+AN94(11)<Speaker>AN94</Speaker><Position>0,-100</Position>||:괜찮은 편이다... 아마도.
+()||:AN-94는 조용히 길가에 쪼그려앉았다. 그러자 지붕 언저리에서 햇볕을 쬐던 고양이가 뛰어내려, 그녀에게 다가왔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:네가 여기 있다는 건...
+()||<SE1>AVG_Door_Open_Close</SE1>:문의 방울이 다시 한번 딸랑 울렸다.
+AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:안녕 AR팀~ 오랜만이야~
+AK12(12)<Position>0,-100</Position>;RO635Mod(5)<Speaker>RO635</Speaker>||:확실히 오랜만이네.
+AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(5)||:너희도 들어가서 한잔할래? 이 집 바텐더 실력이 꽤 제법이더라.+내가 안젤리아랑 같이 가본 술집 3위에 들 정도야.
+AK12(12)<Position>0,-100</Position>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오... 응?+근데 왜 나왔어?
+AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>;M4 SOPMOD IIMod(0)||:그야 안에 재수없는 녀석이――
+AK12(12)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:우리보다 먼저 베를린에 왔다고 들었는데, 상황이 어때?
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:별로. 안젤리아도 상태가 영... 원흉이 뭔진 너희도 알겠지?
+AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:그 "몰리도"라는 여자?
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:그래... 그 여자가 원흉이야. 아니면 우리가 이렇게 모일 일도 없었지.
+AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:어떤 인물인지 설명해 주겠어?
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:음험하고, 교활하고, 변장술에 뛰어난, 다양한 성격을 모방할 수 있는 고위 니토야.
+AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:......
+AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:변장술이 특기라고?
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:맞아, 굉장한 사기꾼이었어. 평생 남을 의심하며 살아온 안젤리아마저도 보기좋게 속아넘어갔다니까.
+AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:그 몰리도란 녀석, 우리가 생포한 걸지도 몰라.
+AK12(13)<Position>0,-100</Position>;RO635Mod(0)<Speaker>RO635</Speaker>||:AR-15, 아직 단정할 순 없어. 지휘관님도 조사가 더 필요하다 하셨잖아.
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;RO635Mod(0)||:그래? 그럼 부디 조심해, 그 여자 때문에 우리가 지금 이렇게 고생 중이야.
+AK12(13)<Position>0,-100</Position>;AR15Mod(0)<Speaker>AR15</Speaker>||:패러데우스가 그렇게 떼거리로 쫓아올 만했네.
+AK12(13)<Speaker>AK12</Speaker><Position>0,-100</Position>;AR15Mod(0)||:녀석은 변장술에 더해, 상대의 성격에 따라 자신의 인상을 바꿀 수 있어.
+AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:너네 지휘관 같은 사람은 고문은 버텨도 불쌍한 사람의 간청은 못 버틸걸?
+AR15Mod(0)<Speaker>AR15</Speaker>||:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님은 확실히 정의롭고 선량한 분이시지만, 그렇게 쉽게 속진 않을 거야.
+AK12(12)<Speaker>AK12</Speaker><Position>0,-100</Position>||:그래그래, 너무 걱정 마. 안젤리아도 유용한 조언을 해 주겠지.
+()||<SE1>AVG_Door_Open_Close</SE1>:딸랑딸랑——
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:어머, 익숙한 분들이 한가득이네요.
+AK15(6)<Speaker>AK15</Speaker>||:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:너희가 RPK-16과 AK-15구나.
+RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:네, 맞아요. 당신이 바로 AR팀의 현임 대장 RO635 씨군요?
+RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:응, 만나서 반가워.
+RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:저도 만나서 반가워요~
+RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:방금 대화 중에 끼어들어 버린 듯한데, 저 신경쓰지 말고 계속하세요.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()||<黑点1>:RPK-16이 밖으로 나오자, AK-12는 대뜸 벽에 기대고는 말이 없어졌다.+분위기가 바로 썰렁해져 버렸다.+질리도록 이어지는 대형 전광판의 갈라테아 그룹 홍보 영상만이 시끄럽게 떠들 뿐이었다.
+()<Speaker>그레이</Speaker>||<BIN>325</BIN><common_effect>%%code=NPC_TV_19%%</common_effect>:갈라테아 그룹은, 바로 지금 이 순간에도 항붕괴제 연구에 심혈을 기울이고 있습니다.+여러분도 저희의 최신 성과, 신형 복사감염증 치료제 "이둔"에 대해 익히 들으셨겠죠.+"이둔"은 더욱 효율적이고, 더욱 안전한 복사감염증 치료제로서, 매우 저렴한 가격으로 보급될 것을 약속드립니다.+현재 "이둔"은 임상시험에서 긍정적인 결과를 보여, 정부의 심사를 받는 중입니다.+"이둔"이 곧 국민 여러분께 공개되리라 확신하며, 심사가 통과된다면 저희도 여러분을 초대해 그 효능을 검증드리겠습니다.+동이 트기 전의 새벽이 가장 어두운 법. 절대 포기하지 마십시오, 저희와 함께 다가올 여명의 첫 햇살을 맞이합시다!
+()<Speaker></Speaker>||<黑点2><BIN>168</BIN><关闭蒙版>%%</关闭蒙版>:전광판 앞에 모인 사람들이 열렬하게 환호했다.+어느 정도 떨어진 거리임에도, 술집 뒷문에서까지 그들의 진심 어린 희열과 희망이 느껴졌다.+이에 인형들도 호기심 어린 눈빛으로, 환호성이 들려오는 쪽으로 고개를 돌렸다.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:인간은 참 나약하면서도 강인한 생물이네요.+절대적인 힘 앞에선 너무나도 쉽게 무너지면서...+아무리 실낱같아도, 희망이 있다면 삶에 대한 갈망을 다시 불태우잖아요.
+()||:어느샌가, RPK-16이 RO635의 곁에 다가왔다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:...그렇지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:역시 난 인형인 게 좋아, 소체가 망가져도 바로 갈아치울 수 있잖아!
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:그런가요? 제 생각은 다른데.+"테세우스의 배"라고, 들어보셨어요?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭔 배? 그게 뭐야?
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:아주 오래전, 어느 인간이 이런 질문을 했답니다.+"낡아 가는 배의 목재를 조금씩 갈아 수리하면, 언젠가는 모든 목재가 원래의 것이 아니게 된다. 그렇다면, 그렇게 되어도 그 배는 원래의 배인가?"+인형으로 비유하자면, 우리 소체의 부품을 하나씩 교체하거나 아예 새 소체로 바꾸더라도, 우린 여전히 원래의 그 인형일까요?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어...
+RO635Mod(0)<Speaker>RO635</Speaker>||:그 이야기는...
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:우리는 기능을 유지하기 위해 끊임없이 부품을 교환해야 하죠.+하지만 인간의 육체는 달라요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으음...
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:불행한 사고만 없다면, 인간은 순수한 육체에 의존해 아주 긴 시간을 살 수 있어요.+비록 나약할지언정, 더없이 순수하답니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:RPK-16은 생각이 엄청 깊구나...
+()||:SOP2는 철학적인 얘기에 버티지 못하고 이미 RO635의 어깨에 기대 잠들어버린 뒤였다.+RO635는 예의를 지키느라 자리를 뜨지 못했다.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:...RO 씨, 제 이야기가 너무 지루하진 않나요?
+RO635Mod(0)<Speaker>RO635</Speaker>||:아니...
+()<Speaker>M4 SOPMOD II</Speaker>||:Zzzzz....
+RO635Mod(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>이 녀석 또 침을 흘리네...</color>
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:그거 다행이네요, RO 씨한테 묻고 싶은 게 잔뜩이었는데.
+()||:또다시 어느샌가 RPK-16이 RO635의 코앞까지 다가와, 기묘한 눈빛으로 그녀를 자세히 살폈다.
+RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:제가 듣기론, 당신은 3세대 인형의 프로토타입이라면서요?+페르시카 씨는 당신의 기반 설정에 어떠한 제한도 걸지 않았고요.
+RO635Mod(3)<Speaker>RO635</Speaker>;RPK16(8)<Position>0,-100</Position>||:어... 응.+그렇긴 해도 그다지 차이는 없어.
+RO635Mod(3);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:백지처럼 새하얗고, 티끌 한 점 없는 기반...+인간의 마음에 무한히 가깝네요...
+RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:......
+RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:한마디로, RO 씨는 인간의 마음을 지녔다고도 할 수 있겠죠.
+RO635Mod(0)<Speaker>RO635</Speaker>;RPK16(7)<Position>0,-100</Position>||:그렇게까진 아니지, 아무리 그래도 난——
+RO635Mod(0);RPK16(7)<Position>0,-100</Position><Speaker>RPK16</Speaker><Position>0,-100</Position>||:혹시, 인간이 되면 어떤 느낌일지 상상해보셨나요?
+RPK16(8)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:당신과 인간의 차이는 이제 육체의 차이뿐이에요.+인간처럼 순수한 정신에, 인간의 순수한 육체가 합쳐진다면... 우리의 창조주에게 무한히 가까워질 수 있겠죠...
+RO635Mod(3)<Speaker>RO635</Speaker>||:그게 무슨 소리야...?
+()||:뜻밖의 말에 놀란 RO635는 주춤했다.+조는 척하던 AR-15도 눈을 떴고, AK-15와 AK-12의 시선도 RPK-16에게 집중됐다.
+RPK16(9)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:아이 참, 모두 왜 이렇게 긴장해요? 그냥 해본 말인데.
+RO635Mod(2)<Speaker>RO635</Speaker>||:아... 미안, 한 번도 생각해본 적 없는 거라 어떻게 대답해야 할지 몰랐어.
+()||<SE1>AVG_Door_Open_Close</SE1>:딸랑딸랑——+지휘관이 뒷문으로 나왔다.
+()<Speaker>지휘관</Speaker>||:RO, 이제――+아, 리벨리온도 있었구나. 얘기하는 중이었니?
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-100</Position>||:다시 봐서 반가워요, 지휘관님.
+()<Speaker>지휘관</Speaker>||:나도 반갑다. 안젤리아가 기다리니 어서 가 봐.+AR팀, 우린 그만 돌아가자.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네. AR-15, SOP2, 가자.
+()<Speaker>M4 SOPMOD II</Speaker>||:ZZZZzzzz......
+AR15Mod(2)<Speaker>AR15</Speaker>||<黑屏1>:얼른 일어나 SOP2! 돌아갈 시간이야!
+()||<黑屏2><BIN>88</BIN>:404 소대가 무단 점거 중인 구시가지의 어느 다락방.
+HK416Mod(0)<Speaker>HK416</Speaker>||:저게 무슨 뚱딴지같은 소리래... 듣다 잠들 뻔했네.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:언니, 무슨 생각해?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+()||:UMP45의 시선은 RPK-16에게서 떨어지지 않았다. 저 밑의 그녀는, 생글생글 웃으며 안젤리아와 말을 나누는 중이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:...예감이 썩 좋지 않은걸.

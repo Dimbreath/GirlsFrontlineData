@@ -467,6 +467,7 @@ patch2070=
 "2070/DeploymentBuildSkillItem",	
 "2070/DeploymentRandomEventController",
 "2070/DeploymentExplainItem",
+"2070/DeploymentCampaignExplain",	
 "2070/DeploymentUIController",
 "2070/OPSPanelController",
 "2070/OPSPanelMissionHolder",
@@ -494,7 +495,8 @@ patch2070=
 "2070/HomeOperationButton",	
 "2070/SangvisCaptureController",	
 "2070/Package",
-
+"2070/MotherBaseController",
+"2070/HomeEventListItemController",
 }
 --[[
 -- va11

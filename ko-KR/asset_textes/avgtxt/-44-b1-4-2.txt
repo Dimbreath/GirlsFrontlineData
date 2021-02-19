@@ -1,94 +1,94 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>357</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:……柏林市区。+随着装置解除的咔哒声，建筑的大门徐徐打开。+昏暗的室内，自动亮起了几盏小灯。+兹——+门口出现了一个男人的全息投影。
-NPC-Griffin(0)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>下午好，指挥官。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:您好，爵士。
-NPC-Griffin(0)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>你看起来有点拘谨，指挥官。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……毕竟不是每个格里芬的指挥官都有机会见到您本人的。+关于您的传闻，我也听过实在太多了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>传闻仅仅只是传闻罢了。</color>+<color=#00CCFF>我现在只是个上了年纪的老人，只能做些微不足道的后勤工作。</color>+<color=#00CCFF>你可以把我当作是一位普通的长辈，指挥官，我们之间的距离比你想象地要近得多。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:这，这怎么行，爵士您可是……
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>就叫我“格里芬”吧，指挥官。</color>+<color=#00CCFF>私底下，我希望我们互相能稍微亲切一些。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:呃……好的，格里芬……先生。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>呵呵。</color>+<color=#00CCFF>虽然是值得纪念的初次见面，但我只能以这样的形式与你谈话。</color>+<color=#00CCFF>希望不会让你觉得太失礼。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:不，当然不会。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>感谢你的大度，指挥官。</color>+<color=#00CCFF>关于你的传闻，我也听过不少。</color>+<color=#00CCFF>我本以为像你这样久经沙场的战士都会沾染上洗不去的血性和杀气。</color>+<color=#00CCFF>但看来，你也只是个温和又懂礼貌的年轻人。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:我的经历不及您的十分之一。+而且，我也不希望自己变成我的敌人的样子。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>呵呵，抱歉，我的废话是有些多了。</color>+<color=#00CCFF>只是见到你让我觉得很高兴。</color>+<color=#00CCFF>克鲁格的眼光一向独到，对于可用之才我都会过于偏爱。</color>+<color=#00CCFF>请原谅我的坏毛病。</color>
-NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>帕罗莎</Speaker>||:爵士。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>啊，请随意坐下，不要拘谨。</color>+<color=#00CCFF>我们可以开始正题了，指挥官。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:好的。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>那么，在我开始之前。</color>+<color=#00CCFF>指挥官，相信你已经见过这个人了。</color>
-()<Speaker>指挥官</Speaker><通讯框>||<黑屏2><BIN>335</BIN>:我的确已经找到了玛赫莲……但是，她与资料不符合的地方实在太多。+在有确凿的证据可以证明之前，我不建议将她和画面上的那位判断为同一个人。
-()||:格里芬露出了微笑。
-()<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>你果然十分敏锐，克鲁格对你的评价丝毫不掺水分，指挥官。</color>+<color=#00CCFF>是的，图像上的这个人并非是与你打交道的玛赫莲。</color>+<color=#00CCFF>而是在不莱梅时潜伏在安洁身边的帕拉蒂斯，她窃取了“默莉朵”的名字渗透进了我们的政府中。</color>+<color=#00CCFF>当然为了方便理解，我们现在依然还是叫她“默莉朵”。</color>
-()<Speaker>指挥官</Speaker><通讯框>||<黑屏1>:玛赫莲就是默莉朵？+还是说……有两个长得一模一样的人？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>这个问题的答案，正是我希望你能找到的。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>关于这个问题，我还为你安排了一位顾问。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:顾问？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我相信，你会非常乐意与安洁莉娅上尉并肩作战的。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:安洁？她也到柏林了？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>或许也到了你们好好见一次面的时候了。</color>+<color=#00CCFF>关于不莱梅的事件，以及默莉朵的信息，你会有很多问题想要问她的。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:好的，我知道了。+谢谢您……确实，对我来说没有比安洁更可靠的朋友了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>最可靠的朋友确实往往都在身边，指挥官。</color>+<color=#00CCFF>我希望在你们沟通之后，你可以成为我们在柏林的一柄利刃。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:您要我调查帕拉蒂斯在德国的计划？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>从玛赫莲这个点入手，我想会有收获的。</color>+<color=#00CCFF>想必，你已经注意到伯恩村的一些异常了。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……玛赫莲被村民们用一种怪异的方式崇拜着。+他们的那种奇异的宗教感，毫无疑问是帕拉蒂斯一贯的风格。+他们的口号也证明了我的猜想……帕拉蒂斯的影响已经开始扩散，甚至根深蒂固了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>嗯，还有呢？</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:还有就是……玛赫莲，或者说默莉朵，不论她的真实身份如何。+帕拉蒂斯都非常重视她。+在我们带走她的时候，不止是村民，就连帕拉蒂斯也派出了大量的人员对我们进行堵截。+那绝不是演技，她们对玛赫莲的执着是真实的。
-NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>帕罗莎</Speaker>||:除了玛赫莲的情报，此前的侦察过程中，甚至发现了一名高级涅托的存在。+但是刚才的突围过程中并没有和她正面交锋。
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:不论理由如何，它们非常不想让玛赫莲落到我的手中。+幸好我们采取了渗透的行动，才利用了敌人的松懈之机将她安全地带出来。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>你做得很好，指挥官。</color>+<color=#00CCFF>克鲁格果然没有看错你，第一次任务你就给了一份大惊喜。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:呃……谢谢您的夸奖。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>既然帕拉蒂斯如此重视玛赫莲，那我们就完全可以利用这种重视，来谋取更多的线索。</color>+<color=#00CCFF>我将这件事全权交由你处理，指挥官，除你之外，我再找不到对帕拉蒂斯如此了解，又如此可靠的人了。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……是，我明白了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>帕拉蒂斯在德国各地的异动越来越频繁。</color>+<color=#00CCFF>不莱梅的事件只是其中之一。</color>+<color=#00CCFF>而现在，那个该死的威廉……终于将手伸到了柏林。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:那个威廉，到底是什么人？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我来这里正是为了调查此事。</color>+<color=#00CCFF>从他的行为方式上，我们只知道他至少是一个身居高位者，不然无法解释他为何能调动那么多资源。</color>+<color=#00CCFF>我还不知道他的计划是什么内容，但我很肯定，他会不择手段，妨碍我们的……事业。</color>+<color=#00CCFF>甚至不惜引发一些恐怖事件。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:我会全力调查的，但如果再出现之前那样与帕拉蒂斯正面冲突的情况……+现在的人手有些不足。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我很希望能够亲自为你提供援助。</color>+<color=#00CCFF>但我手头的事务并不允许我这样做……希望你谅解，指挥官。</color>+<color=#00CCFF>你先前的努力所成就的契机，我绝不会让它付诸东流。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:您言重了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>不过，我依然会在我目前的能力范围内帮助你。</color>+<color=#00CCFF>我希望你喜欢我为你准备的临时指挥部，这里的设备很齐全，你可以随意使用这里的所有物品。</color>+<color=#00CCFF>另外。</color>+<color=#00CCFF>帕罗莎，你和狮鹫小队接下来由指挥官全权负责，我要你全力辅佐指挥官的一切行动。</color>
-NPC-Griffin(0)<Speaker><通讯框>;VP1915(0)<Speaker>帕罗莎</Speaker>||:是！
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……谢谢您的支持，但是。+我不知道仅凭我自己究竟能否阻止帕拉蒂斯的计划。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>但我相信，你会竭尽全力。</color>+<color=#00CCFF>就像你一直以来所做的那样，不是吗？</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>不要过分地低估了自己，指挥官。</color>+<color=#00CCFF>你曾做到的事，在任何人看来都值得称之奇迹。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……我明白了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>你似乎总有些放不开。</color>+<color=#00CCFF>也许是我误会了，但莫非，我还没能赢取你的信赖？</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:不……怎么会呢。+只是……经历了这么多事，我可能变得有些神经质了。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>擅长质疑是一个好习惯，我很乐意用我的行动来化解你的质疑。</color>+<color=#00CCFF>我曾多次听克鲁格提及过你的一些想法。</color>+<color=#00CCFF>也许我们会存在一些分歧，但我们的理想是完全一致的。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……“更新世界的锋芒”？
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我们所做的一切，都是为了我们和这个世界的明天。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:但我第一次知道我们公司的口号和罗克萨特主义的宣言一模一样时，我曾思考了很久。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>你思考了什么？</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:我思考着，我到底应该做什么。+到底怎么样才能让我们的国家，我们的社会，我们的世界摆脱现在像狗屎一样的困境。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>一个革命者需要合适的纲领，我想我们应该会很合得来。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:我不太确定，格里芬先生。+罗克萨特主义描绘的世界的确非常美好。+但是人和人之间真的能够团结统一，相互理解吗？
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>……也许我不该在这个问题上对你蒙混。</color>+<color=#00CCFF>你想知道我真正的想法？</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:请务必告诉我。
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我的答案是——不能。</color>+<color=#00CCFF>人和人之间永远不可能永远团结，永远不可能一直互相理解。</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:什……
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>正因如此，所以这个世界需要秩序，需要一个逼迫人类不得不团结，不得不互相理解的规则来引导他们。</color>+<color=#00CCFF>让分裂的人受到惩罚，让互助的人获得利益，只有像电击仪一样的规则存在，人类才能矫正自己所犯的恶行，让这个世界回到应有的秩序中来。</color>+<color=#00CCFF>罗克萨特先生是个伟大的先驱，但他是一个理想主义者。</color>+<color=#00CCFF>理想主义不能帮助我们实现一个理想的世界，我们必须要为结果负责。</color>+<color=#00CCFF>我们必须要建立一个符合全人类利益的秩序，为此我们不惜付出一切。</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:由“你们”来建立，来决定秩序？
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>决定秩序的是人心，我们只是人类利益的公仆。</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:……您的回答与我预想的有些不同。
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>对聪明人来说，说实话比什么都管用。</color>+<color=#00CCFF>如果光靠口号就能革命，我们又何须在这里对话？</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:……+我还想问最后一个问题。
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>请说。</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:当我们走到这条路的尽头，再回望身后时。+我们舍弃的那些代价，也包含善良和正义吗？
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>指挥官，你对寓言有了解吗？</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:……寓言？
-NPC-Griffin(1)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>“信奉绝对真理的刺猬，将世界置于具有唯一性的框架下，竖起浑身的刺，抗拒所有异议；”</color>+<color=#00CCFF>“狡猾多变的狐狸，蛰伏在浩荡的时代洪流之中，眯起眼睛，体察出足以颠覆世界的不和谐音。”</color>
-NPC-Griffin(1)<Speaker>指挥官</Speaker><通讯框>||:刺猬与狐狸……这听起来更像是哲学。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我现在不会回答你的疑惑，就像你也不必回答我的。</color>+<color=#00CCFF>但是总有一天……你会做出你自己的选择。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:……也许吧。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>那么，希望你能为我们带来好消息，指挥官。</color>+<color=#00CCFF>我还有个重要的会议，就先告辞了。</color>
-NPC-Griffin(0)<Speaker>指挥官</Speaker><通讯框>||:是。
-()||:格里芬绅士地欠了欠身，关闭了全息投影。+指挥官的目光落在了桌上的棋局，这一次，又是什么样的局在等着自己呢？
-()<Speaker>指挥官</Speaker>||:……安洁也在柏林吗？
-RO635Mod(0)<Speaker>RO635</Speaker>||:指挥官，刚刚收到了条加密通讯留言。
-()<Speaker>指挥官</Speaker><通讯框>||:我知道了。
-()||:我接过通讯器，打开了留言。
-NPC-Ange(2)<Speaker>安洁</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>嗨，指挥官，好久不见。</color>
-()||:熟练的面孔出现在了通讯器上，虽然比起之前，安洁看上去憔悴了很多。+但不知道为什么，在此刻看见熟悉的人，就让我感到一阵安心。
-NPC-Ange(2)<Speaker>安洁</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>当你看见这条通讯的时候，你已经见过“那个人”了吧。</color>+<color=#00CCFF>现在，你肯定有满肚子的问题想要问我，我也一样。</color>+<color=#00CCFF>所以，来见见我吧，指挥官。</color>+<color=#00CCFF>今天下午三点，我会在密涅瓦的猫头鹰等你。</color>+<color=#00CCFF>话先说在前面，我讨厌迟到的人。</color>
+()||<BIN>357</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:베를린의 구시가지 지역.+장치가 딸깍 소리를 내며 해제됐고, 현관의 문이 서서히 열렸다.+그러자 어두운 실내의 작은 전등이 자동으로 켜졌다.+지익――+그리고, 한 남성의 홀로그램이 나타났다.
+NPC-Griffin(0)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>Good afternoon, 지휘관.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:처음 뵙겠습니다, 훈작사님.
+NPC-Griffin(0)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>좀 긴장한 듯 보이는군.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:...그리폰의 지휘관이라고 다 뵐 수 있는 분이 아니니 말이죠.+귀하에 대해서, 정말 많은 소문을 들었습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>소문은 그저 소문일 뿐이지.</color>+<color=#00CCFF>지금의 나는 그저 소소한 후방 작업이나 하는, 나이 먹은 노인이네.</color>+<color=#00CCFF>자네도 나를 평범한 연장자로 봐주었으면 하네. 우리의 사이는 자네의 생각보다 꽤 가깝거든.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:어, 어떻게 그럴 수 있겠습니까. 훈작사님은――
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>"그리폰".</color>+<color=#00CCFF>사적인 자리에선 친근하게 불렸으면 하네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:아... 네, 그리폰... 씨.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>허허... 뭐, 좋네.</color>+<color=#00CCFF>기념할 만한 첫 만남이지만, 이런 식으로밖에 대화할 수밖에 없어 참 유감이군.</color>+<color=#00CCFF>자네에게도 너무 실례가 되지 않았기를 바라네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:아뇨, 천만의 말씀입니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그 넓은 도량에 감사하지, 지휘관.</color>+<color=#00CCFF>자네에 대해서는, 나도 많은 소문을 들었다네.</color>+<color=#00CCFF>자네처럼 전장을 많이 겪은 전사는 하나같이 피와 살기를 씻어내지 못한다고 생각했건만...</color>+<color=#00CCFF>이렇게 직접 보니, 그저 다정하고 예의 바른 젊은이로군.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:제 경력은 당신의 1할에도 미치지 못합니다.+그리고, 저도 적과 같은 꼴로 전락하고 싶지 않습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>하하하, 미안하네. 괜한 소리를 했나 보군.</color>+<color=#00CCFF>그냥, 자네와 이렇게라도 마주하게 되니 기뻐서 하는 말일세.</color>+<color=#00CCFF>나도 유능한 인재를 정말 아끼는데, 크루거의 안목은 빗나가는 법이 없거든.</color>+<color=#00CCFF>이 늙은이의 나쁜 버릇을 용서해 주게.</color>
+NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>페로사</Speaker>||:훈작사님.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>아아 그래, 굳이 서 있을 필요도 없지. 편하게 앉게나.</color>+<color=#00CCFF>그럼, 본론으로 들어가도록 하지.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:네.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>하지만 그 전에.</color>+<color=#00CCFF>지휘관, 이 인물은 벌써 봤을 테지?</color>
+()<Speaker>지휘관</Speaker><通讯框>||<黑屏2><BIN>335</BIN>:현재 "마흐리안"을 발견하고 확보했습니다만... 자료와 부합하지 않는 점이 너무나도 많습니다.+확실한 증거가 나오기 전엔, 그녀를 화면의 인물과 동일시할 수 없다고 생각합니다.
+()||:그리폰 씨가 미소지었다.
+()<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>역시 예리해, 크루거가 자네를 과대평가한 것이 아니었어.</color>+<color=#00CCFF>그래, 화면의 이 인물은 자네가 확보한 "마흐리안"이 아닐세.</color>+<color=#00CCFF>이 여성은 브레멘에서 안젤리아 곁에 잠복했던 패러데우스로, "몰리도 포거트"의 신분을 탈취해 정부에 침투해 있었네.</color>+<color=#00CCFF>물론, 이해에 용이하도록 계속해서 "몰리도"라 지칭하겠네.</color>
+()<Speaker>지휘관</Speaker><通讯框>||<黑屏1>:마흐리안이 정말 몰리도일까요?+아니면... 그저 똑같이 생긴 별개의 인물일까요?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>그 문제의 답을, 자네가 밝혀 주었으면 해.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:......
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그리고 그 문제를 해결할 수 있도록, 고문을 불렀지.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:고문이요...?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>안젤리아 대위와 함께 임무를 수행하게 되어, 아주 기쁠 것이라 믿네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨 말입니까? 그녀도 베를린으로 왔습니까?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>서로 제대로 만나볼 때도 되었잖는가.</color>+<color=#00CCFF>브레멘에서의 사건들과 몰리도에 관한 정보 등, 그녀에게 묻고 싶은 것이 잔뜩이겠지?</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:그렇죠... 알겠습니다. 정말 감사드립니다.+확실히, 이런 상황에서 안젤리아 씨보다 더 믿음직스러운 동료는 없겠죠.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>진정 믿음직한 친구는 종종 이미 곁에 있기도 하는 법일세, 지휘관.</color>+<color=#00CCFF>자네들이 만나 소통하고, 베를린에서 우리의 예리한 칼이 되어 주길 바라네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:패러데우스가 독일에서 꾸미는 음모를 파헤쳐 달란 뜻이시군요.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>자네는 마흐리안 쪽부터 조사에 착수하면 금방 수확을 얻을걸세.</color>+<color=#00CCFF>자네도 본 마을이 수상하다 느꼈겠지.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:...마흐리안은, 마을 주민들에게 이상한 방식으로 숭배받고 있었습니다.+그 괴이한 종교의식.... 패러데우스의 일관적인 스타일이 틀림없습니다.+그들의 구호도 제 추측대로였고... 패러데우스의 영향은 진작에 확산되어, 이미 뿌리까지 내린 상태라 봐도 무방하겠죠.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>아주 좋아, 계속하게.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:그리고, 마흐리안... 몰리도일 수도 있겠지만...+패러데우스는 그녀를 매우 중요시하고 있습니다.+제가 그녀를 납치하자, 주민들뿐만 아니라 패러데우스마저 대규모 병력을 보내 저희를 붙잡으려 했습니다.+그건 절대 연기가 아닙니다, 마흐리안에게 집착을 보인 것입니다.
+NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>페로사</Speaker>||:마흐리안 외에도, 이전의 정찰로 다른 고위 니토의 존재를 발견했습니다.+하지만 이번 포위망 돌파 과정에선 그녀와 직접 조우하진 않았습니다.
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:어떤 이유에서든, 그들은 제가 마흐리안을 확보하는 것을 극히 싫어한 겁니다.+다행히도 잠입 작전 덕에 경계가 느슨한 기회를 우연찮게 이용하여, 그녀를 무사히 확보할 수 있었습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>정말 훌륭해.</color>+<color=#00CCFF>역시 크루거가 이번에도 사람을 잘못 보지 않았어, 첫 임무부터 이렇게나 큰 놀라움을 주다니.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:어... 칭찬에 감사드립니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>패러데우스가 그토록 마흐리안을 중요시한다면, 우리도 그 점을 역이용해 더 많은 단서를 캐낼 수 있겠지.</color>+<color=#00CCFF>이 일은 자네에게 전권 위임하겠네, 지휘관. 패러데우스에 대해 잘 알면서도 믿을 수 있는 인선은 자네밖에 없겠어.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:...알겠습니다, 감사합니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>패러데우스는 현재, 독일 각지에서의 활동이 빈번해지고 있다네.</color>+<color=#00CCFF>브레멘은 그중 하나에 지나지 않지.</color>+<color=#00CCFF>그리고 드디어, 그 빌어먹을 윌리엄이... 마침내 베를린까지 손을 뻗었네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:그 윌리엄이란 사람은 대체 어떤 인물입니까?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>내가 여기 온 것도 다 그를 수사하기 위해서네.</color>+<color=#00CCFF>그의 행동 양상을 보아 우리가 알아낸 것은, 그가 높은 지위의 인물이라는 것뿐일세. 그렇지 않고서는 그토록 많은 자원을 동원할 수 있는지 설명되지 않으니 말이지.</color>+<color=#00CCFF>아직 그의 계획이 무엇인지는 모르네만, 그가 수단과 방법을 가리지 않고 우리의... 사업을 방해하리란 것만은 확실하네.</color>+<color=#00CCFF>테러까지도 불사하면서 말이지.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:전력을 다해 조사하겠습니다. 하지만 아까처럼 패러데우스와 정면충돌하는 상황이 발생할 경우...+제금 제 병력이 다소 부족합니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>나도 진심으로 자네에게 직접적인 지원을 제공하고 싶네.</color>+<color=#00CCFF>하지만 지금 내가 처리해야 하는 일 때문에, 그럴 수가 없는 것을 부디 양해해 주길 바라네, 지휘관.</color>+<color=#00CCFF>자네가 노력으로 일궈낸 기회를, 내 결코 헛되게 하지 않겠네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:과찬이십니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그래도 내 힘이 닿는대로 자네를 도움세.</color>+<color=#00CCFF>자네를 위해 특별히 마련한 임시 지휘부가 마음에 들었으면 좋겠군. 필요한 설비는 전부 설치했으니, 여기 있는 건 마음껏 사용하게.</color>+<color=#00CCFF>그리고.</color>+<color=#00CCFF>페로사, 현시간부로 자네와 휘하 소대의 지휘 권한은 이 지휘관에게 일임한다. 온힘을 다해 지휘관을 보좌하도록.</color>
+NPC-Griffin(0)<Speaker><通讯框>;VP1915(0)<Speaker>페로사</Speaker>||:예!
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:이렇게라도 지원해 주셔서 감사드립니다.+하지만 과연 저 혼자만으로 패러데우스의 음모를 저지할 수 있을지... 장담할 수가 없습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그래도 자네는 최선을 다하겠지, 지금까지 그래 왔던 것처럼.</color>+<color=#00CCFF>내 말이 틀렸나?</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:......
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>스스로를 너무 과소평가해도 좋을 것 없다네, 지휘관.</color>+<color=#00CCFF>자네의 업적은 그 누가 봐도 기적이라 칭할 만해.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:...알겠습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>마음에 아직 응어리가 있는 모양이군.</color>+<color=#00CCFF>내 오해라면 미리 사과하겠네만, 혹시 아직도 날 신용하지 못하는 겐가?</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:아뇨... 그럴 리가 있겠습니까.+그저, 너무 많은 일을 한꺼번에 겪다 보니... 조금 신경질적이 된 것 같습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>의심도 한편으론 좋은 습관이라네. 나도 몸소 실천해 자네의 의심을 해소하고 싶군.</color>+<color=#00CCFF>크루거한테서도, 자네의 사고방식을 많이 들었네.</color>+<color=#00CCFF>우리 사이에 의견이 갈릴 일이 분명 있겠지만, 우리의 이상은 일치한다는 점을 명심해 주길 바라네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:..."세상을 새로 쓰는 것" 말씀입니까?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>우리가 하는 일은 전부, 우리 모두와 이 세계의 내일을 위한 것일세.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:하지만 우리 회사의 표어가 루크사트주의의 슬로건임을 알았을 때, 오랫동안 고민했습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그래? 무슨 고민이었나?</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:과연 제가 무엇을 해야 할지를, 입니다.+대체 어떡해야 우리나라를, 우리 사회를, 우리 세계를 지금 이 거지 같은 곤경에서 구해낼 수 있을지를 고민했습니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>혁명가에겐 적당한 원칙이 필요한 법이지. 우린 아마 죽이 잘 맞을 게야.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:저는 모르겠습니다, 그리폰 씨.+루크사트주의가 그리는 세상은, 분명 아름답습니다.+하지만, 사람과 사람이 정말 하나로 단결해 서로를 이해할 수 있을까요?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>...이 문제는 얼버무려서는 안 되겠군.</color>+<color=#00CCFF>나의 솔직한 생각을 듣고 싶은가?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:무례가 아니라면, 부디 듣고 싶습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>내 대답은... "불가능하다"일세.</color>+<color=#00CCFF>인류는 결코 하나되어 단결할 수 없고, 영원히 서로를 이해할 수도 없을걸세.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:그럼――
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그렇기 때문에 세상에는 질서가 필요해. 인류가 단결해야만 하는, 서로 이해해야만 하는 "규율"을 수립하고, 인도해야 하네.</color>+<color=#00CCFF>갈등을 조장하는 자는 벌을 받고, 서로를 돕는 자는 이익을 얻는 전기충격기와 같은 규율이 있어야만, 인류는 자신의 악행을 교정하고 세상에 마땅한 질서를 되돌려 놓을 수 있네.</color>+<color=#00CCFF>루크사트 선생은 위대한 선구자지만, 동시에 이상주의자였지.</color>+<color=#00CCFF>이상주의는 결코 이상적인 세계를 현실로 만들지 못해. 우리는 뿌린 씨앗이 불러올 결과에 반드시 책임을 져야 해.</color>+<color=#00CCFF>그렇기에 인류의 공익에 부합하는 질서를 세워야 하고, 이를 위해 우린 어떠한 대가도 마다하지 않을걸세.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:"당신들"이 그 질서를 세우고 정하는 겁니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>질서를 정하는 것은 사람의 마음일세. 우리는 그저, 인류에게 봉사하는 시종일 뿐이야.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:...제가 예상한 답변과는 조금 다르군요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>총명한 자에겐 솔직하고 진중한 말이 가장 설득력이 높지.</color>+<color=#00CCFF>단지 구호만으로 혁명을 실현할 수 있다면, 왜 우리가 지금 이렇게 대화하고 있겠나?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:......+마지막으로 묻고 싶은 게 있습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>말해보게.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:저희가 이 길의 종점에 도달해, 다시 뒤를 돌아볼 때...+저희가 버리게 될지도 모르는 대가 중에, 선량함과 정의도 포함됩니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>지휘관, 우화에 대해선 얼마나 아는가?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:...어느 우화 말씀이십니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>"절대적인 진리를 신봉하는 고슴도치는, 세상을 단 하나의 틀에 넣고 가시를 세워 다른 사상을 모조리 거절했다."</color>+<color=#00CCFF>"반면 교활하고 변덕스러운 여우는, 어지러운 시대의 파도 속에 숨어 눈을 가늘게 뜨고 세상을 뒤집을 불협화음을 찾아 나섰다."</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:고슴도치와 여우... 우화보다는 철학 같습니다만.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>내 아직은 자네의 모든 의혹을 풀어 줄 수 없네. 마찬가지로, 자네도 내 의혹을 다 풀어 줄 필요가 없고.</color>+<color=#00CCFF>하지만 언젠가는... 자네 스스로 결정해야 할 때가 올걸세.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:...그렇겠죠.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그럼 좋은 소식 기다리겠네, 지휘관.</color>+<color=#00CCFF>중요한 회의가 있어서, 이만 실례하겠네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:예.
+()||:그리폰 씨가 신사답게 고개를 숙이는 모습을 끝으로, 홀로그램이 꺼졌다.+내 시선은 탁상에 놓인 체스판을 향했다. 이번엔 또 어떤 국면이 우리를 기다리고 있을까?
+()<Speaker>지휘관</Speaker>||:...안젤리아 씨도 베를린에 왔다니.
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 방금 막 암호화된 메시지를 받았습니다.
+()<Speaker>지휘관</Speaker><通讯框>||:확인할게.
+()||:나는 통신기를 받아, 해독된 그 메시지를 확인했다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>안녕 지휘관, 오랜만이야.</color>
+()||:익숙한 그 얼굴이 통신기의 화면에 나타났다. 다만, 이전에 비해 안젤리아 씨의 얼굴은 많이 수척해 보였다.+그래도 이렇게 다시 보니, 어째선지 안심이 되었다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>이 통신을 볼 땐, 아마 "그 양반"과 만난 뒤겠지?</color>+<color=#00CCFF>지금 넌 나한테 묻고 싶은 게 산더미라는 거 알아, 나도 너한테 물어볼 게 많고.</color>+<color=#00CCFF>그러니까, 얼굴 좀 보자.</color>+<color=#00CCFF>오늘 오후 3시, 술집 "미네르바의 부엉이"에서 기다릴게.</color>+<color=#00CCFF>미리 말해두는데, 난 지각하는 사람은 질색이야.</color>

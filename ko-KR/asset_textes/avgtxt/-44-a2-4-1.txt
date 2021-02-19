@@ -1,49 +1,49 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN>:……
-()<Speaker></Speaker>||:趁着夜色，一辆卡车穿过了市郊的树林，从泥泞的道路中驶了出来。
-NPC-handyman(0)<Speaker>掮客</Speaker>||:妈的……
-()<Speaker></Speaker>||:沉重的卡车被凸起的道路颠了一下，不止的摇晃让坐在司机位置上的男人斥骂了一声。+所幸，这见鬼的工作是这周最后一次了。+卡车缓缓地停在了一栋白色的建筑前面，这栋三层高的仓库被围墙包围着，围墙上是通着高压电流的防盗网，随处可见的监控摄像头也不余死角。+虽然这里前不着村后不着店，但如果有谁想抢劫这里，那他绝对是疯了。
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:掮客脑子里闪过这让他自己都忍不住发笑的念头，又回想起还在工作，赶忙摁了喇叭。
-NPC-handyman(0)<Speaker>掮客</Speaker>||:货我送到了！
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:咔咔……+随着他的喇叭声，大门缓缓地打开。
-Nyto(0)<Speaker>？？</Speaker>||<BGM>BGM_Brain</BGM>:……
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:已经见惯了的黑色女性款款自门内走出。+掮客打开车门从车上跳了下来，扭了扭脖子。+不管看多少次，他都觉得这女孩身体的义体化不同寻常……只不过，他也知道有些事自己最好不要多问。
-NPC-handyman(0)<Speaker>掮客</Speaker>||:这次送的量也太大了，下次要提前说明一下，知道了吗？
-Nyto(0)<Speaker>？？</Speaker>||:……全都送到了吗？
-NPC-handyman(0)<Speaker>掮客</Speaker>||:都送到了。
-Nyto(0)<Speaker>？？</Speaker>||:暂时不需要继续送货了。+下次需要你的时候，会再联络。+你可以走了。
-NPC-handyman(0)<Speaker>掮客</Speaker>||:啧……
-()<Speaker></Speaker>||:虽然合作的时间已经有了一段日子，但黑色的少女对自己的态度却一点也没有转变。+对这种企业出身的家伙，自己大概就跟路边的石子一样吧。
-NPC-handyman(0)<Speaker>掮客</Speaker>||:下次我可要涨价了！+送这么危险的东西到监狱风险可是很大的！
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:基于只想赶紧离开这个鬼地方的心情，掮客回身又爬上了卡车。+轰轰……+引擎启动之后，卡车缓缓地朝着来时的方向离开了。
-Nyto(0)<Speaker>？？</Speaker>||:……
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:黑色的少女——不，被称为涅托的存在，在目视了卡车远离之后，又确认了一下周围，才慢慢地回到围墙内。
-()<Speaker></Speaker>||:大门再次紧闭。
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:呲——
-()<Speaker></Speaker>||:然而，就在涅托返回到建筑内之后的片刻，在围墙的一处，通着电流的防盗网忽然闪烁了一下，紧跟着便熄灭了。+唰——+敏捷的身影在墙上留下了脚印，一下蹬了上去，翻身落地。+连续四次，每一个人的动作都非常娴熟。
-()<Speaker>？？？</Speaker>||:监控已屏蔽。
-()<Speaker>？？？</Speaker>||:未发现活动单位。
-()<Speaker>？？</Speaker>||:好，前进。
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:隐秘的角落中，密谋的声音随着她们的身影一同消失在了阴影中。
-()<Speaker></Speaker>||:……
-AK12(0)<Speaker>AK12</Speaker><Position>0,90</Position>||:左翼无异常。
-AK15(0)<Speaker>AK15</Speaker>||:右翼无异常。
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:正在接入安保系统。
-NPC-Ange(0)<Speaker>安洁</Speaker>||:……刚才出现在门前的那个，你们看到了吗？
-NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:是涅托。
-NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:居然这么正大光明地出现，都不知道该说什么好了。+他们以为在这里没人会认得出她们是吗？
-NPC-Ange(0)<Speaker>安洁</Speaker>;AK12(0)||:柏林监狱的供货渠道只有极少掮客能够走通，其中有能力送入致幻剂的又是少数。+对这种资源，她们看起来却不是非常上心啊。
-NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:送货人大概每做一两次就会被她们灭口，然后换新人吧。+柏林的地下黑市自成网络，她们这样做会坏了名声。+即便如此也能找到人，如果不是这附近的黑帮太傻，那就是背后的人本身就是黑市网络的管理者。
-NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:这栋建筑的所有权在迦拉提亚集团旗下。+具体的负责法人是……格雷。
-NPC-Ange(0)<Speaker>安洁</Speaker>||:不论哪条线索最后都会回到她身上……看样子我们距收网不远了。+能进入建筑内部吗？
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_21Winter_Error</SE1>:安保系统很复杂，但我能替换监控并关掉警报系统，剩下的就各凭本事了。
-AK15(0)<Speaker>AK15</Speaker>||:你不该跟着我们一起来的，你可以和94一起留在公寓里。
-NPC-Ange(0)<Speaker>安洁</Speaker>||:让94一个人看住那小子就够了。+如果我留在那里，还要回答他你们的下落。+而且……如果不亲眼看到结果，我不会安心。
-NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:先说好，我们现在的行为从法律上来说是完全违规的。+视情况而定，可能会让你的立场变得更糟糕喔。
-NPC-Ange(0)<Speaker>安洁</Speaker>;AK12(0)||:那种事情就让爵士去头疼吧。+只要拿到证据，就可以让他把这里封锁起来。+想从我这里拿到东西，那他也要做好相应的准备。
-AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:真亏泽林斯基能忍受你那么久呢！
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:打开了，紧急安全门已启动。
-AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:走吧，各位，记得把武器上膛。+尤其是你，安洁，跟在我身后——别轻举妄动。
-NPC-Ange(0)<Speaker>安洁</Speaker>||:……走。
-()<Speaker></Speaker>||:……
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN>:......
+()<Speaker></Speaker>||:어두운 밤을 틈타, 수상한 트럭 한 대가 교외의 숲을 지나 진흙투성이인 비포장 도로를 달렸다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:어우 진짜...
+()<Speaker></Speaker>||:무거운 트럭이 도로 위의 불룩 튀어나온 곳에 덜컹 흔들리자, 운전하는 남자의 입에서 절로 욕이 나왔다.+그래도 이 지긋지긋한 일도 오늘로 끝이니 그에겐 다행이었다.+트럭은 한참을 달려, 어느 3층 높이의 하얀 건물 앞에 멈춰 섰다.+위에 고압 전류가 흐르는 철망이 쳐진 높은 장벽으로 둘러싸인 이 창고는, 감시 카메라도 사각지대가 없도록 곳곳에 배치되어 있었다.+인적이 거의 없는 곳임에도, 여길 도둑질하려 할 사람은 필시 죽고 싶어 환장한 사람밖에 없을 터였다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:이런 생각이 머릿속에 스친 브로커는 피식했지만, 아직 일하는 중이었기에 빵빵 경적을 울렸다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:배달 왔습니다!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:드르르륵...+정문이 서서히 열렸다.
+Nyto(0)<Speaker>？？</Speaker>||<BGM>BGM_Brain</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:그리고 그 안에서, 이미 몇 번이고 본 검은 옷차림의 여성이 걸어 나왔다.+문이 열리는 걸 본 브로커도 차에서 내려 목관절을 꺾었다.+벌써 몇 번이나 봤지만, 몸의 절반 이상이 기계로 대체된 저 여자는 볼 때마다 기괴해서 소름이 끼쳤다. 하지만 괜한 호기심은 고양이를 죽인다는 걸 브로커는 잘 알았다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:이번엔 화물이 너무 많았어요. 다음엔 미리 좀 알려 주십쇼, 네?
+Nyto(0)<Speaker>？？</Speaker>||:빠짐없이 가져왔습니까?
+NPC-handyman(0)<Speaker>브로커</Speaker>||:그야 물론입죠.
+Nyto(0)<Speaker>？？</Speaker>||:당분간 의뢰할 일은 없습니다.+다음에 필요할 때 다시 연락하겠습니다.+이만 돌아가도 좋습니다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:......쯧.
+()<Speaker></Speaker>||:이렇게 함께 일하게 된 지도 꽤 됐지만, 이 검은 옷의 소녀가 브로커를 대하는 태도는 전혀 변하지 않았다.+대기업에서 일하는 녀석 눈에 자신 같은 사람은 길가의 돌멩이처럼 보이나 하고, 브로커는 투덜댔다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:다음엔 더 받을 겁니다!+이렇게 위험한 물건을 감옥으로 보내다 걸려서 죽고 싶진 않다고요!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:한시라도 빨리 이 빌어먹을 곳을 떠나고 싶은 마음에, 브로커는 서둘러 트럭에 다시 올랐다.+부르릉...+엔진에 시동이 걸리고, 트럭은 왔던 길을 따라 사라졌다.
+Nyto(0)<Speaker>？？</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:검은 옷의 소녀... "니토"라 불리는 존재는, 트럭이 멀리 떠나는 것을 지켜보고 주위를 살펴본 다음에야 천천히 건물 안으로 돌아갔다.
+()<Speaker></Speaker>||:그리고 문은 다시 굳게 닫혔다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파직.
+()<Speaker></Speaker>||:니토가 건물 안으로 들어가고 잠시 후, 장벽 한구석의 고압 전류 철망이 잠깐 반짝이더니 전원이 꺼졌다.+――――+그와 동시에, 재빠른 그림자가 발자국을 남기면서 벽을 뛰어넘었다.+몸을 굴려 반대편에 착지한 그림자는 4개. 모두 군더더기 없는 움직임이었다.
+()<Speaker>？？？</Speaker>||:감시 카메라 차단 완료.
+()<Speaker>？？？</Speaker>||:이동하는 물체, 없음.
+()<Speaker>？？</Speaker>||:좋아, 전진.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몸을 숨기고 은밀하게 속삭이는 소리가, 그들의 기척과 함께 그늘 속으로 사라졌다.
+()<Speaker></Speaker>||:......
+AK12(0)<Speaker>AK12</Speaker><Position>0,90</Position>||:좌측 이상 무.
+AK15(0)<Speaker>AK15</Speaker>||:우측 이상 무.
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:보안 시스템에 접속 중.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:방금 밖으로 나온 놈 봤지?
+NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:니토였습니다.
+NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:당당해도 너무 당당해서 어이가 없네 정말.+설마 아무도 못 알아볼 줄 알고 저러나?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:베를린 교도소의 밀수 루트를 아는 브로커도 몇 안 되는데, 그중에 환각제를 옮길 수 있는 능력자라면 손에 꼽을 정도잖아.+그런데 딱히 신중하게 다루지도 않는구만.
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:아마 한두 번 일을 시키면 바로 입막음하고 다른 사람으로 바꿔서일 거예요.+하지만 암시장이란 건 다 네트워크가 있어서, 누가 갑자기 사라지면 다 알려질 텐데 말이죠.+악평밖에 안 생길 텐데도 그런다면... 근방의 지하조직이 머저리던가, 이 일의 배후가 바로 암시장 네트워크의 관리자던가겠네요.
+NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:이 건물은 갈라테아 그룹 소유입니다.+등록된 담당 법인은... 그레이.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:정말 모든 단서가 그 여자로 이어지는군. 그물을 끌어올릴 때가 금방 오겠어.+안으로 진입 가능하겠어?
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_21Winter_Error</SE1>:보안 시스템이 엄청 복잡해서, 카메라 화면 위조하고 경보 시스템 꺼버리는 게 다예요. 나머지는 모두의 솜씨에 달렸죠.
+AK15(0)<Speaker>AK15</Speaker>||:안젤리아가 동행할 필요는 없었습니다. AN-94와 함께 아파트에 남는 편이 나았다고 봅니다만.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 꼬맹이는 AN-94 혼자서로 충분해.+거기에 나만 있으면 너희가 어디 갔는지 녀석이 물어볼 거 아니야.+그리고... 이런 건 직접 확인해야 성에 찬다고.
+NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:미리 말해 두는데, 지금 우리가 하는 짓이 법적으로 완전 아웃인 건 알지?+상황에 따라선 네 입장만 더 나빠질 수가 있어.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:그딴 건 훈작사보고 골머리 썩이라 해.+나한테 증거를 찾아 달라 했으니, 본인도 그만한 각오는 했겠지.+증거만 찾아낸다면 여길 봉쇄하는 건 일도 아니야.
+AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:젤린스키가 잘도 여태까지 널 봐줬다니까!
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:비상 안전문 열었어요.
+AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:좋았어. 전원, 무기 안전장치 해제.+그리고 특히 안젤리아, 함부로 움직이지 말고 내 뒤에 꼭 붙어서 따라와.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...가자.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

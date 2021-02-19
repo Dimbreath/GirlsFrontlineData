@@ -1,77 +1,77 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>357</BIN><BGM>m_avg_casual</BGM>:……柏林市区，临时指挥部。+疲惫不堪的指挥官一进门就瘫在了沙发上。
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>指挥官，既然你已经平安抵达指挥部，那我们就先休息了。</color>
-UMP45Mod(0)<Speaker>指挥官</Speaker><通讯框>||:好，今天你们的任务也结束了。
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45姐快点！再不出门就排长队了！</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>来了。指挥官，明天见。</color>
-()||<SE1>AVG_tele_disconnect</SE1>:通讯结束，指挥官伸手扶了扶额。
-RO635Mod(0)<Speaker>RO635</Speaker>||:安洁小姐怎么样？
-()<Speaker>指挥官</Speaker>||:还行，起码看起来能轻松扭断我的脖子。
-AR15Mod(0)<Speaker>AR15</Speaker>||:说起来，关于玛赫莲——
-()||<SE1>AVG_doorknock_wood</SE1>:帕罗莎端着一杯浓茶站在门口。
-()<Speaker>指挥官</Speaker>||:怎么了？
-VP1915(0)<Speaker>帕罗莎</Speaker>||:指挥官，她醒过来了。+另外我想你应该会需要这个。
-()||:接过温度正好的茶，这在唇齿间徘徊的浓浓香气让精神清醒了几分。
-()<Speaker>指挥官</Speaker>||:叫上丹德莱，准备审讯吧。
-VP1915(0)<Speaker>帕罗莎</Speaker>||:她去整理伯恩村的资料了。
-()<Speaker>指挥官</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:那我们先开始吧。
-()||<黑点2><BIN>82</BIN><BGM>GF_EV9_Story</BGM>:房间内，玛赫莲已经醒来，正坐在椅子上冷冷地看着指挥官。+指挥官拖来一把椅子，坐在了玛赫莲的对面。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
-()<Speaker>指挥官</Speaker>||:你的名字是玛赫莲，对吗？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:是。+那你呢？你真的叫罗宾吗？
-()<Speaker>指挥官</Speaker>||:无可奉告，但你可以继续叫我罗宾。
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……果然。+不管怎样，你总归救过我。
-()||:指挥官从平板上的资料里抬起头，仔细端详起了玛赫莲的样子。+刚刚从强制昏迷中醒来，玛赫莲的脸上还带着几分睡意和迷惘。+长相确实和资料中默莉朵的照片近乎一致，但散发出的气质却又和默莉朵大相径庭。+究竟是默莉朵太善于伪装，还是真的是另一个人？
-()<Speaker>指挥官</Speaker>||:你是什么时候加入的帕拉蒂斯？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:我从来没有加入过帕拉蒂斯，我只是一个普通人。
-()<Speaker>指挥官</Speaker>||:……+据我所知，有一个帕拉蒂斯少女跟你的外貌完全一致。+你听过那个名字——默莉朵。+你们之间是什么关系？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
-()<Speaker>指挥官</Speaker>||:还是说，你就是她？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:我的名字只有一个——玛赫莲，这是我唯一的称呼。
-()<Speaker>指挥官</Speaker>||:你还是不愿意说出你们的关系？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:她的事我不关心，也不想知道，我只想一辈子都不跟她有任何联系。
-()||:听见“默莉朵”，玛赫莲的眼中出现了恐惧和痛苦。
-()<Speaker>指挥官</Speaker>||:那我们还是回到你的身上吧，找到你的时候，你正在伯恩村。+据我所知，伯恩村是最近几年才新建立起来的难民收容所，你在伯恩村做什么？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……治疗辐射病人。
-()<Speaker>指挥官</Speaker>||:为什么？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:没有为什么，既然我具备这样的能力，我就应该用它来治疗那些需要帮助的难民。
-()<Speaker>指挥官</Speaker>||:据我所知，这世上并没有特效药能够直接治疗辐射病。+目前主流的疗法是通过增强患者的抗体来逐步缓和病状。+但你可以，我亲眼看见你只是进行了祈祷，然后做了某种仪式，那位难民就有所好转。+你到底做了什么？是用了什么药物吗？
-NPC-Machlian(6)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:是……
-()<Speaker>指挥官</Speaker>||:你的药是从哪里来的？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
-()<Speaker>指挥官</Speaker>||:是谁提供给你的药物？
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
-()||:玛赫莲嗫嚅着，似乎想要说什么，但唇齿颤抖了半天终究还是没能说出口。
-()<Speaker>指挥官</Speaker>||:你在害怕什么？ 
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……+我……
-()||:玛赫莲沉默了片刻，避开了话题。
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:如果你想从我这里得到的，只是治疗的话。+你大可以直接把需要治疗的患者带来，我会救他的。+如果你是因为想要获得治疗的具体方案而绑架我，那没有必要。+因为只有我才能做到。
-()<Speaker>指挥官</Speaker>||:……
-NPC-Machlian(5)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:虽然我们相处的时间很短，但我能感觉到你跟那些只想靠抗辐射产品牟取暴利的人不同，你有更远大的目标。+我说这些并不是为了骗取你的信任，我只是希望我们能各退一步。+只要你放了我，我愿意帮你。
-()||<SE1>AVG_Door_Open_Close</SE1><BGM>BGM_Empty</BGM>:……“吱呀”一声，丹德莱推门进来。
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||:指挥官，伯恩村的资料我已经整理好了。
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:……
-()||<BGM>10227</BGM>:在看见丹德莱的一瞬，玛赫莲原本平静的面孔剧烈扭曲起来……
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||<震屏>:帕拉蒂斯……你……+你们是帕拉蒂斯的人……
-()<Speaker>指挥官</Speaker>||:什么？
-()||:玛赫莲的眼中蓄满了泪水，她又愤怒又绝望地盯着指挥官，满脸写着被背叛之后的不敢置信……
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:你们又来了——+我这次的处置是什么？+无非就是被绑在试验台上，被永无止境地折磨对不对？！
-()<Speaker>指挥官</Speaker>||:我们并没有这个打算，玛赫莲，你冷静一点……
-()||:玛赫莲讽刺地笑着，眼睛直勾勾地盯着前方。
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:我是不会让你们得逞的。+他也是，你也是。
-()<Speaker>指挥官</Speaker>||:……
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:谁也不能——
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||:指挥官，她的虚识图景正在崩解！
-NPC-Machlian(7)<Speaker>玛赫莲</Speaker><Position>0,-50</Position>||:她来了！她来了！+我听见她的脚步声了！
-()<Speaker>指挥官</Speaker>||:丹德莱，快制止她！
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||:正在。
-()||<BGM>BGM_Empty</BGM><SE1>AVG_lifttable</SE1>:下一秒，玛赫莲撞翻了桌子后，软软地倒在了地上。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:什么叫虚识图景正在崩解啊？
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||<BGM>BGM_stage10</BGM>:简单来说，相当于你们人形融毁心智。
-RO635Mod(0)<Speaker>RO635</Speaker>||:虚识图景？就是帕拉蒂斯的心智吗？我怎么从来没有听说过这个词？
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||:因为是我现编的。+可以这么理解，我已经确认到了玛赫莲虚识图景的存在，可以说她百分之百是个涅托。+提醒一下，现在是她防守最为松懈的时候，建议直接侵入。
-RO635Mod(0)<Speaker>RO635</Speaker>||:……
-()<Speaker>指挥官</Speaker>||:你刚刚怎么不说可以直接侵入？这样会对她造成伤害吗？
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||:你刚刚又没问我。+现在的她没有反抗能力，反而是侵入伤害最小的时候。
-()<Speaker>指挥官</Speaker>||:立刻准备侵入，我们要找到答案！
-NytoIsomer(7)<Speaker>丹德莱</Speaker>||<黑点1>:明白。
+()||<黑屏2><BIN>357</BIN><BGM>m_avg_casual</BGM>:베를린, 그리폰 임시 지휘부.+지휘관은 피곤한 몸을 이끌고, 문을 지나자마자 소파 위에 벌러덩 드러누웠다.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>지휘관, 무사히 지휘부에 도착했으니까 우리도 그만 휴식할게.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:그래, 수고했어. 오늘 임무는 이걸로 종료니 푹 쉬도록 해.
+UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>언니, 빨리 와! 얼른 가서 줄 서야 한다니까!?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>지금 가~ 그럼 지휘관, 내일 보자.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신을 종료하고, 지휘관은 이마에 손을 얹었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:안젤리아 씨는 어땠습니까?
+()<Speaker>지휘관</Speaker>||:괜찮아 보였어. 적어도 내 목은 단숨에 꺾겠더라.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그러고 보니, 마흐리안에 대해서——
+()||<SE1>AVG_doorknock_wood</SE1>:언제부터인가, 페로사가 진한 향이 풍기는 차를 들고 문 앞에 서 있었다.
+()<Speaker>지휘관</Speaker>||:무슨 일이지?
+VP1915(0)<Speaker>페로사</Speaker>||:그녀가 깨어났습니다.+그리고, 지휘관께 이게 필요하다 생각했습니다.
+()||:온도가 딱 알맞는 차를 받아 한모금 마시니, 입속을 맴도는 진한 향기가 기운을 차리게 했다.
+()<Speaker>지휘관</Speaker>||:후우... 고맙다. 댄들라이 불러서 심문 준비해.
+VP1915(0)<Speaker>페로사</Speaker>||:그녀는 현재 본 마을에서 입수한 자료를 정리 중입니다.
+()<Speaker>지휘관</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:그럼 우선 우리끼리 먼저 시작해야겠군.
+()||<黑点2><BIN>82</BIN><BGM>GF_EV9_Story</BGM>:깨어난 마흐리안은 의자에 앉아, 차가운 눈빛으로 방에 들어온 지휘관을 노려보았다.+지휘관은 다른 의자를 끌고 와, 그녀의 맞은편에 앉았다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+()<Speaker>지휘관</Speaker>||:이름, 마흐리안이 맞지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네.+당신은요? 정말 로빈이 아닌가요?
+()<Speaker>지휘관</Speaker>||:내 실명은 밝힐 수 없으니, 계속 로빈이라 불러도 돼.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:역시...+그래도, 저를 구해 주셔서 진심으로 감사드립니다.
+()||:지휘관은 태블릿의 자료를 확인하다, 고개를 들어 마흐리안의 모습을 유심히 관찰했다.+이제 막 정신을 차린 그녀의 얼굴엔 여전히 잠기운과 불안함이 남아 있었다.+외모는 이견의 여지가 없이 자료 속 몰리도의 사진과 거의 일치했지만, 전체적으로 풍기는 분위기는 천지 차이였다.+몰리도의 변장술이 이토록 뛰어난 것일까? 아니면, 정말 다른 사람인 걸까?
+()<Speaker>지휘관</Speaker>||:너는 언제 패러데우스에 들어갔지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:전 패러데우스의 편이 아닙니다, 그저 일반인일 뿐이에요.
+()<Speaker>지휘관</Speaker>||:......내가 받은 자료의 어느 패러데우스 소속 여성이 너와 외견이 완벽히 일치해.+너도 이름은 들어봤겠지? "몰리도"라고.+너와 무슨 관계지?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+()<Speaker>지휘관</Speaker>||:네가 그녀인가?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:아니오, 저는 "마흐리안"입니다, 제 이름은 이것 하나뿐이에요.
+()<Speaker>지휘관</Speaker>||:그녀와의 관계는 말할 생각 없고?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:그녀에 대해서는 관심 없습니다, 알고 싶지도 않고요. 그녀와는 평생 관계되고 싶지 않아요.
+()||:"몰리도"의 이름을 들은 마흐리안의 눈빛이 두려움과 괴로움으로 반짝였다.
+()<Speaker>지휘관</Speaker>||:...그럼, 너에 관해서 얘기를 하지. 우리가 널 발견했을 때, 넌 본 마을에 있었어.+내가 알아본 바론, 그 마을은 불과 몇 년 전에 설립된 난민 수용소야. 넌 거기서 뭘 하고 있었지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...복사감염증 환자를 치료하고 있었습니다.
+()<Speaker>지휘관</Speaker>||:무슨 이유로?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:이유는 없습니다. 제게 그런 힘이 있으니, 도움이 필요한 자들을 치료했을 뿐이에요.
+()<Speaker>지휘관</Speaker>||:내가 아는 한에서는, 세상에 복사감염증에 직접적으로 작용하는 치료제는 없어.+현재 주된 치료법은, 환자의 항체를 강화해 증상을 점자 자가회복시키는 방식이지.+그런데... 넌 정말로 해냈더군. 내 눈엔 그저 네가 기도하고 어떤 의식을 치르는 것처럼만 보였는데, 그 난민은 바로 증상이 호전됐어.+대체 어떻게 한 거지? 무슨 약품이라도 쓴 건가?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...네.
+()<Speaker>지휘관</Speaker>||:그 약은 어디서 났지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+()<Speaker>지휘관</Speaker>||:대답해, 누가 너에게 그런 약을 제공했지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+()||:마흐리안이 뭔가 말하고 싶어하는 듯했지만, 떨리는 입술에선 아무 말도 나오지 않았다.
+()<Speaker>지휘관</Speaker>||:뭘 무서워하는 거지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......+저...
+()||:마흐리안은 잠시 침묵하다 화제를 돌렸다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:당신이 바라시는 게 단지 치료라면...+환자분을 데려오신다면, 제가 도와드리겠습니다.+자세한 치료법을 알아내려고 저를 납치하신 거라면, 소용없습니다.+이건 저밖에 할 수 없는 일이에요.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:당신과 만난 지 얼마 안 됐지만, 당신은 폭리를 취하려는 탐욕스런 자들과는 다른 사람이란 걸 알겠어요. 당신에겐 더욱 장대한 목표가 있으신 것 같아요.+당신의 신용을 얻기 위해서 하는 말이 아니에요. 우리 모두, 서로 한발씩 물러서도록 해요.+저를 풀어 주겠다 약속하신다면, 저도 당신을 돕겠습니다.
+()||<SE1>AVG_Door_Open_Close</SE1><BGM>BGM_Empty</BGM>:그때, 끼익하는 소리와 함께 댄들라이가 들어왔다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 본 마을의 자료를 다 정리했습니다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......!!
+()||<BGM>10227</BGM>:댄들라이를 본 순간, 침착하던 마흐리안의 얼굴이 급격히 일그러졌다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<震屏>:패러데우스... 당신...!+당신, 패러데우스의 사람이었어...?
+()<Speaker>지휘관</Speaker>||:뭐라고?
+()||:가늠할 수 없는 배신감과 분노, 절망감에 휩싸여, 마흐리안은 눈물로 가득 찬 눈으로 지휘관을 노려보았다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:또 날 찾으러 왔어?!+이번엔 날 어떻게 할 셈이야!+또 실험대에 묶어서, 쉬지도 않고 날 괴롭히려고!?
+()<Speaker>지휘관</Speaker>||:마흐리안, 우린 패러데우스가 아니야. 우선 진정하고――
+()||:마흐리안은 어이없어하는 웃음소리를 내었다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:너희들 뜻대론 되지 않아...!+그 사람도... 너도...
+()<Speaker>지휘관</Speaker>||:......
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:그 누구도——
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 위험합니다. 그녀의 컨셔스 파노라마가 붕괴되고 있습니다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:왔어! 그 여자가 왔어!+그 여자의 발소리가 들려!
+()<Speaker>지휘관</Speaker>||:댄들라이, 어서 멈추게 해!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:하는 중입니다.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_lifttable</SE1>:그 말과 함께, 마흐리안은 테이블을 넘어뜨리며 힘없이 바닥에 쓰러졌다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그런데, 컨셔... 뭐시기가 붕괴된다는 게 무슨 소리야?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<BGM>BGM_stage10</BGM>:간단히 말하자면, 인형의 클라우드 마인드맵이 융해되는 것과 같아.
+RO635Mod(0)<Speaker>RO635</Speaker>||:컨셔스 파노라마...? 패러데우스의 마인드맵을 말하는 거야? 처음 듣는 단어인데.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그야 그렇겠지, 방금 내가 지었거든.+아무튼, 지휘관님, 마흐리안에게서 컨셔스 파노라마의 존재를 확인했습니다. 그녀는 니토입니다.+다시 기절한 지금이 가장 취약한 때이니, 지금 그녀에게 침투하는 것을 건의합니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:침투가 가능하다니, 왜 아까는 말 안 했어? 마흐리안에게도 피해가 갈 수 있어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:물어보지 않으셨으니까요.+지금은 그녀도 저항하지 못하니, 침투 시의 피해가 가장 적을 때이기도 합니다.
+()<Speaker>지휘관</Speaker>||:좋았어, 즉시 침투 준비해. 답을 찾아내자.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<黑点1>:알겠습니다.

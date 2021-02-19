@@ -1,81 +1,81 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><震屏3><BIN>46</BIN><SE1>Explode</SE1><Night><BGM>10230</BGM><火花><SE1>AVG_20Winter_Burnfire_Loop</SE1>:轰！+爆炸的连锁带来的强烈冲击将安洁的身体整个撞飞了出去。
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:RPK16展现出了前所未有的身体能力，飞扑着将安洁护在了身下。+在暗杀失败之后，丧心病狂的帕拉蒂斯开始逐渐采取起过激的手段。
-RPK16(1)<Speaker>RPK16</Speaker>||:我可不是突击手啊……
-()<Speaker></Speaker>||:噩梦还在延续，随着气浪追随而来的不止是火焰和碎石，还有浴火的帕拉蒂斯。
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:RPK16暴力地扯下了枪托，将机枪当做突击步枪使用，对着身后的敌人又是一通扫射。+没有足够的时间和空间让她展开正确的姿势，即便是战术人形在这种条件下也仅能做到火力压制。+但是她一个人的火力，实在难以和一支兵队抗衡。
-RPK16(1)<Speaker>RPK16</Speaker>||:安洁，快醒醒。
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>||:咕……呃……
-RPK16(1)<Speaker>RPK16</Speaker>||:虽然很遗憾，但看样子我也要追随前辈的脚步了。
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>||:别……废话。
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:安洁从腿上拔下手枪，一翻身便对着身后开了几枪。+和RPK16不同的是，她的枪法很准，但依旧是杯水车薪。
-()<Speaker></Speaker>||:当！+子弹敲击在RPK16的素体上发出的声响令安洁一阵心惊。+原本瞄向她的扫射，全部被RPK16用肉身挡了下来。
-RPK16(1)<Speaker>RPK16</Speaker>||:安洁。
-NPC-AngeDamage(1)<Speaker>安洁</Speaker>||:干嘛？
-RPK16(1)<Speaker>RPK16</Speaker>||:很高兴认识你。
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>||:……滚。+还没到念墓志铭的时候。
-()<Speaker></Speaker>||:而随着RPK16的弹仓打空，连对帕拉蒂斯士兵最后的压制力都消失了。+安洁仍举着手，扣动着扳机，撞针每一下撞击都发出清脆的声响，但同样已没有子弹射出。+可恶……就差一点……！
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:安洁看着逐渐靠近的白色士兵，另一只手已经摸向了匕首。
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3><SE2>Gunfight</SE2>:轰！+呯呯呯——！
-()<Speaker></Speaker>||:随着身后的一声爆响，激烈的枪火声骤然拉开。+一发子弹精准地击中了领头的帕拉蒂斯士兵的额头，只见他的身躯应声倒地。
-AN94(2)<Speaker>AN94</Speaker>||<BGM>10118</BGM>:安洁！
-AK15(2)<Speaker>AK15</Speaker>||:敌方单位确认。
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:两名忤逆精准的点射几乎没有浪费任何一发子弹，仅仅只是两人的到来，便将形式瞬间逆转。
-NPC-AngeDamage(1)<Speaker>安洁</Speaker>||:咳……咳……
-AN94(2)<Speaker>AN94</Speaker>||:安洁！
-()<Speaker></Speaker>||:戴着口罩的AN94迅速地靠近了倒在地上的安洁，手里依然端着步枪警戒着四周。+接着两人打开的空隙，RPK16也迅速调整了姿势，并且换上了新的弹匣。
-AN94(2)<Speaker>AN94</Speaker>||:斯塔西的支援和当地警方都快到了。
-RPK16(1)<Speaker>RPK16</Speaker>||:帕拉蒂斯的人正在撤退。
-NPC-AngeDamage(1)<Speaker>安洁</Speaker>||:我们也撤，不要恋战。
-AK15(2)<Speaker>AK15</Speaker>||:明白。
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK15反手将步枪背到身后，熟练地将安洁背了起来。+而在她的身后，AN94和RPK16又开始了新的一轮压制。
-AN94(0)<Speaker>AN94</Speaker>||:12呢？
-NPC-AngeDamage(2)<Speaker>安洁</Speaker>||:……
-()<Speaker></Speaker>||:AN94焦急地询问，而得到的回应只有安洁沉默的脸。
-AN94(5)<Speaker>AN94</Speaker>||:……
-()<Speaker></Speaker>||:AN94咬住了颤抖的嘴唇，用另一只手开始招呼。
-AN94(2)<Speaker>AN94</Speaker>||:目标已救出，撤退！
-()<Speaker></Speaker>||:……
+()<Speaker></Speaker>||<黑屏2><震屏3><BIN>46</BIN><SE1>Explode</SE1><Night><BGM>10230</BGM><火花><SE1>AVG_20Winter_Burnfire_Loop</SE1>:콰아앙――!!+잇따른 폭발로 인한 충격파가, 안젤리아를 허공으로 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:하지만 RPK-16이 여태껏 본 적 없는 순발력으로 안젤리아를 감쌌다.+패러데우스는 암살이 실패한 탓인지, 이성을 잃고 점점 과격한 수단을 동원하기 시작했다.
+RPK16(1)<Speaker>RPK16</Speaker>||:에고고, 전 돌격수가 아닌데 말이죠...
+()<Speaker></Speaker>||:한밤중의 악몽은 계속됐다. 맹렬하게 타오르는 불길과 점점 무너져 내려가는 벽, 그리고 이를 거침없이 뚫고 패러데우스가 바짝 쫓아왔다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:RPK-16은 아예 기관총의 거치대를 억지로 뜯어내 돌격소총처럼 다루며 뒤따라오는 적을 향해 총알을 쏟아부었다.+하지만 제대로 된 조준을 할 시간도, 공간도 없어, 전술인형인 그녀로서도 제압사격이 최선이었다.+그리고 그녀 혼자만의 화력으로는 부대 하나에 대항하기에 역부족이었다.
+RPK16(1)<Speaker>RPK16</Speaker>||:안젤리아, 빨리 일어나요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:으윽...
+RPK16(1)<Speaker>RPK16</Speaker>||:정말 유감이지만, 저도 선배를 따라가야 할 것 같네요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:괜한 소리... 집어쳐!
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:안젤리아도 허벅지에서 권총을 뽑아, 몸을 뒤집어 뒤를 향해 몇 발 쏘았다.+제압사격으로 마구 흩뿌린 RPK-16과는 달리 정확한 솜씨였지만, 역시 언 발에 오줌 누기였다.
+()<Speaker></Speaker>||:따앙!+날아든 총탄이 RPK-16의 방탄 소체를 때리며 낸 소리가 안젤리아의 가슴을 철렁하게 했다.+지금 그녀에게 집중되는 공격을 RPK-16이 전부 몸으로 막아내는 중이었다.
+RPK16(1)<Speaker>RPK16</Speaker>||:안젤리아.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:또 뭐.
+RPK16(1)<Speaker>RPK16</Speaker>||:함께해서 즐거웠어요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:...입 다물어.+아직 유언 읽을 때 아니야.
+()<Speaker></Speaker>||:결국 RPK-16의 탄창도 바닥나, 패러데우스를 향한 마지막 제압력마저 잃었다.+안젤리아도 계속해서 방아쇠를 당겼지만, 공이가 경쾌한 금속음을 낼 뿐 총탄이 발사되진 않았다.+"빌어먹을... 거의 다 왔는데...!"
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다가오는 하얀 병사들을 노려보며, 안젤리아는 다른 손으로 비수를 쥐었다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3><SE2>Gunfight</SE2>:콰앙!+타타타탕!!
+()<Speaker></Speaker>||:그때, 뒤에서 울린 굉음과 함께 총격전이 재개되었다.+날아든 총알 한 발에 앞장섰던 패러데우스 병사는 이마를 꿰뚫려, 그대로 고꾸라졌다.
+AN94(2)<Speaker>AN94</Speaker>||<BGM>10118</BGM>:안젤리아!
+AK15(2)<Speaker>AK15</Speaker>||:적대적 신호 다수 포착.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:리벨리온의 두 대원들의 점사는 백발백중이었다. 겨우 두 명 가세했을 뿐이건만, 형세가 순식간에 역전되었다.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:콜록 콜록...
+AN94(2)<Speaker>AN94</Speaker>||:안젤리아!
+()<Speaker></Speaker>||:방독면을 쓴 AN-94가 황급히 바닥에 쓰러진 안젤리아에게 다가가, 그녀 앞을 지키며 교전을 계속했다.+두 인형 덕에 틈이 생기자, RPK-16도 자세를 바로잡고 탄창을 교체했다.
+AN94(2)<Speaker>AN94</Speaker>||:슈타지의 증원과 현지 경찰이 곧 도착한다.
+RPK16(1)<Speaker>RPK16</Speaker>||:놈들이 후퇴하기 시작했어요.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:우리도 물러난다. 너무 쫓지 마.
+AK15(2)<Speaker>AK15</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15가 총을 옆으로 치우고 안젤리아를 업었다.+그리고 그녀 바로 뒤에선 AN-94와 RPK-16이 다시 제압 사격을 했다.
+AN94(0)<Speaker>AN94</Speaker>||:AK-12는?
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:초조해하는 AN-94의 질문에, 안젤리아는 침묵으로 답할 뿐이었다.
+AN94(5)<Speaker>AN94</Speaker>||:......
+()<Speaker></Speaker>||:AN-94는 떨리는 입술을 깨물며, 동료들에게 수신호를 보냈다.
+AN94(2)<Speaker>AN94</Speaker>||:목표 구출 완료. 이탈한다.
+()<Speaker></Speaker>||:......
 ()||<黑点1>:
-()<Speaker></Speaker>||<BIN>86</BIN><Night><黑点2><SE1>Stop_AVG_loop</SE1><震屏3><SE1>Explode</SE1><关闭火花>:轰——！+楼层之上，震耳欲聋的爆炸声又一次响动，随后便寂静了下来。+枪声归于平静，只留下火焰燃烧的声音仍在浮动。
-()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:背着安洁的AK15率先从火海中冲了出来，而两名白狼紧随其后。
-NPC-Keven(1)<Speaker>J</Speaker>||:喂！
-()<Speaker></Speaker>||:而在门口接应的，则是也不复平日悠闲的J，以及死伤惨重，费尽力气才从火海中被搬运出来的斯塔西特工们。
-NPC-Keven(1)<Speaker>J</Speaker>||:怎么样？没事吧？
-()<Speaker></Speaker>||:J首先冲上前，配合AK15将安洁放了下来，几乎是怒吼着对身后喊了一声。
-NPC-Keven(1)<Speaker>J</Speaker>||:医疗队！
-NPC-AngeDamage(2)<Speaker>安洁</Speaker>||:……我没事。
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Truck</SE1>:安洁喘着气，肺部像是灼伤了一样刺痛着。+她依稀听见了消防车的声音。
-NPC-Keven(1)<Speaker>J</Speaker>||:别废话了，大姐，你现在的样子比相亲后的K还狼狈。+……其他人呢？
-AK15(2)<Speaker>AK15</Speaker>||<SE1>Stop_AVG_loop</SE1>:……
-AN94(4)<Speaker>AN94</Speaker>||:对不起，我们尽力了。+但是，没有见到莱特先生。
-NPC-Keven(2)<Speaker>J</Speaker>||:……！+……你说什么？莱特那小子怎么可能会——+喂，别开玩笑，我怎么跟夏朵交代啊！
+()<Speaker></Speaker>||<BIN>86</BIN><Night><黑点2><SE1>Stop_AVG_loop</SE1><震屏3><SE1>Explode</SE1><关闭火花>:퍼어엉――!!+다시 한번 건물 위에서 귀청이 떠나갈 듯한 폭음이 울려퍼진 뒤, 그걸 끝으로 드디어 조용해졌다.+총성도 멎었고, 남은 것은 이글거리는 불길이 타오르는 소리뿐이었다.
+()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:안젤리아를 업은 AK-15가 가장 먼저 불길을 뚫고 나왔고, 나머지 늑대들 둘이 그녀를 뒤따랐다.
+NPC-Keven(1)<Speaker>J</Speaker>||:오! 이봐요들!
+()<Speaker></Speaker>||:드디어 불타는 아파트에서 빠져나온 그들을 반긴 것은, 평소와는 전혀 다른 진지한 모습의 J와, 처참한 몰골의 생존자 슈타지 요원들이었다.
+NPC-Keven(1)<Speaker>J</Speaker>||:다들 괜찮아요?!
+()<Speaker></Speaker>||:J가 달려와 AK-15와 함께 안젤리아를 눕히고, 호통치듯 뒤쪽을 향해 소리쳤다.
+NPC-Keven(1)<Speaker>J</Speaker>||:의료팀! 여기!
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:난 괜찮아...
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Truck</SE1>:안젤리아의 숨은 거칠었다.+폐가 화상을 입었는지 가슴이 따끔거렸고, 맹렬한 소방차의 사이렌은 어렴풋하게 들렸다.
+NPC-Keven(1)<Speaker>J</Speaker>||:됐으니까 가만히 있어요, 댁 지금 꼴이 맞선 보고 온 K보다 엉망이니까.+...다른 사람들은요?
+AK15(2)<Speaker>AK15</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+AN94(4)<Speaker>AN94</Speaker>||:미안하다... 우리도 최선을 다했다.+라이트 요원은 찾을 수 없었다...
+NPC-Keven(2)<Speaker>J</Speaker>||:......?!+잠깐만요, 라이트가 뭐가 어째요...?+농담이죠? 그쵸? 그럼 내가 섀도를 무슨 얼굴로 봐요, 아니 진짜 농담하지 말고요!!
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:AN94第一次见到J露出了惶恐和不安的表情。
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:轰！+恰到好处地，此时几人的头顶，公寓燃烧最猛烈的楼层又一次发生了爆炸。
-()<Speaker></Speaker>||:安洁躺在地上，看着被火光照亮的夜空。
-()<Speaker>安洁</Speaker>||:12……
-()<Speaker>AN94</Speaker>||<SE1>AVG_20Winter_Burnfire_Loop</SE1><common_effect>%%code=AVG_ink3%%</common_effect>:安洁？安洁？
-()<Speaker>RPK16</Speaker>||:这可不太妙……15，急救品呢？
-()<Speaker>AK15</Speaker>||:马上。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:J가 이렇게 경악하며 동요하는 모습은 처음이었다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:퍼엉!+때마침 그들 머리 위로, 아파트에서 불길이 가장 거센 층에서 폭발이 또 일어났다.
+()<Speaker></Speaker>||:바닥에 누운 안젤리아는 치솟는 불길로 밝아진 밤하늘을 보았다.
+()<Speaker>안젤리아</Speaker>||:AK-12...
+()<Speaker>AN94</Speaker>||<SE1>AVG_20Winter_Burnfire_Loop</SE1><common_effect>%%code=AVG_ink3%%</common_effect>:안젤리아? 안젤리아!
+()<Speaker>RPK16</Speaker>||:이거 심각한데요... AK-15, 당장 구급 상자 가져와 주세요.
+()<Speaker>AK15</Speaker>||:알았다.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Stop_AVG_loop</SE1>:……+……又来了。+火海，子弹……死伤。+为什么事情没有任何改变？+她以前做不到的事，现在也还是无能为力？+开什么玩笑……！
-()<Speaker>AN94</Speaker>||:安洁！
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Stop_AVG_loop</SE1>:......+또다.+불바다, 총소리... 그리고 희생자들.+왜 아무것도 변하지 않는 거지?+그때 해내지 못한 일을, 왜 지금도 어쩌질 못하는 거지?+빌어먹을...
+()<Speaker>AN94</Speaker>||:안젤리아!
 ()||<黑屏1>:
-NPC-AngeDamage(2)<Speaker>安洁</Speaker>||<黑屏2><BIN>86</BIN><Night>:94……+12……12负责断后，她在后面。+还有莱特也是……
-AK15(5)<Speaker>AK15</Speaker>||:大楼内已经不存在任何生物。+也没有发现AK12的信号。
-AN94(2)<Speaker>AN94</Speaker>||:15！别说了！
-NPC-AngeDamage(2)<Speaker>安洁</Speaker>||:……
-NPC-Keven(1)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:……通讯恢复了。
-RPK16(0)<Speaker>RPK16</Speaker>||:安洁，通讯。+是……“爵士”。
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>你的情况似乎不大好，安洁莉娅。</color>
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>;NPC-Griffin(0)<通讯框>||:你的安全屋可真够安全的。+王八蛋……你……打算……作何解释……！
-NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>这是你自己的责任，安洁莉娅。</color>+<color=#00CCFF>你实在太冒进了。</color>+<color=#00CCFF>我要你调查，没让你去和他们正面碰撞。</color>
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>;NPC-Griffin(0)<通讯框>||:别教我做事，你这个……坐在幕后的混蛋。
-NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>我只是提醒你。</color>+<color=#00CCFF>……你看到帕拉蒂斯的觉悟了。</color>+<color=#00CCFF>这种程度对他们来说也只是小打小闹。</color>+<color=#00CCFF>如果让他们的计划成功了。</color>+<color=#00CCFF>死伤会是现在的数十倍……这和别斯兰可不是一个等级。</color>
-NPC-AngeDamage(3)<Speaker>安洁</Speaker>;NPC-Griffin(0)<通讯框>||:不准……你……提……别斯兰！
-NPC-Griffin(0)<Speaker>格里芬</Speaker><通讯框>||:<color=#00CCFF>……祝你好运。</color>
-NPC-AngeDamage(3)<Speaker>安洁</Speaker><Shake>0.1</Shake>||<SE1>AVG_tele_disconnect</SE1>:这……个，王……八……蛋。
-AN94(2)<Speaker>AN94</Speaker>||:安洁！安洁！
-()<Speaker></Speaker>||:……
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||<黑屏2><BIN>86</BIN><Night>:AN-94...+AK-12는... 대신 미끼가 됐어...+라이트도...
+AK15(5)<Speaker>AK15</Speaker>||:건물 내에 생명 반응은 더는 없습니다.+AK-12의 신호도... 탐지되지 않습니다.
+AN94(2)<Speaker>AN94</Speaker>||:AK-15, 그만 말해!
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:......
+NPC-Keven(1)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:...어, 통신 돌아왔다.
+RPK16(0)<Speaker>RPK16</Speaker>||:안젤리아, 전화 받으세요.+"훈작사" 씨네요.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>상황이 썩 좋지 않아 보이는군, 안젤리아.</color>
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Griffin(0)<通讯框>||:퍽이나 안전한 아파트다, 이 망할 영감아...+또 뭐라 지껄이려고...?
+NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>다 자네가 자초한 일일세.</color>+<color=#00CCFF>너무 무모했어.</color>+<color=#00CCFF>난 자네에게 조사하라 했지, 그들과 정면으로 맞붙으라 하지 않았네.</color>
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Griffin(0)<通讯框>||:훈수 두지 마, 이... 뒤에서 구경밖에 안 하는 자식이...!
+NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>훈수라니. 이건 충고일세.</color>+<color=#00CCFF>이걸로... 자네도 패러데우스의 각오를 보았겠지?</color>+<color=#00CCFF>그 정도는 이제 그들에게 있어선 장난에 불과하네.</color>+<color=#00CCFF>만약 그들의 계획이 성공하는 날엔, 오늘의 수십 배에 달하는 사람들이 죽고 다치겠지.</color>+<color=#00CCFF>베슬란보다도 훨씬 많은 이들이.</color>
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Griffin(0)<通讯框>||:네가 뭔데 베슬란을 들먹여...!
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>행운을 빌겠네.</color>
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker><Shake>0.1</Shake>||<SE1>AVG_tele_disconnect</SE1>:이, 망할... 늙은...
+AN94(2)<Speaker>AN94</Speaker>||:안젤리아! 안젤리아!
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:
