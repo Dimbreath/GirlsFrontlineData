@@ -1,64 +1,64 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Room</BGM>:……
-HK416Mod(0)<Speaker>HK416</Speaker>||:怎么回事……这些格里芬的人形怎么……
-G11(2)<Speaker>G11</Speaker>||:一个个都像雕像一样，怎么一动都不动……？
-UMP9Mod(2)<Speaker>UMP9</Speaker>||:应该是强行链接导致的……果然45姐说的没错，这次才是正餐。
-HK416Mod(0)<Speaker>HK416</Speaker>||:得庆幸刚才把心智接口都关闭了吗？45的状态如何？
-UMP9Mod(6)<Speaker>UMP9</Speaker>||:还是没有任何反应……我们得快一些。+你们跟得紧一些，没有协议辅助定位和导航都失灵了……通讯也中断了。幸好离控制中心不太远，我们直接去找那个M4也许更好。
-UMP9Mod(6);HK416Mod(0)<Speaker>HK416</Speaker>||:我不觉得这是M4的决定。
-UMP9Mod(2)<Speaker>UMP9</Speaker>;HK416Mod(0)||:……为什么？
-UMP9Mod(2);HK416Mod(0)<Speaker>HK416</Speaker>||:直觉。虽然她是个很奇怪的人形，但我不觉得她是那种赶尽杀绝的类型。
-UMP9Mod(6)<Speaker>UMP9</Speaker>;HK416Mod(0)||:那……我们该怎么办……
-UMP9Mod(6);HK416Mod(0)<Speaker>HK416</Speaker>||:走一步算一步吧。
-UMP9Mod(6)<Speaker>UMP9</Speaker>||:嗯……
-UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点1>:啊，又有人形出现了，还是一动都不动。这些应该就是受指挥官命令来到外围防御的格里芬梯队，我们应该离控制中心不远了。
-()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:指挥室。
-()<Speaker>指挥官</Speaker>||<BGM>BGM_Truth</BGM>:怎么回事……通讯被干扰了吗？
-NPC-Kalin(4)<Speaker>格琳娜</Speaker>||:不……通讯是正常的，是我们的人形没有了反应……
-()<Speaker>指挥官</Speaker>||:……啧，强制链接又出现了吗？+帕斯卡，帕斯卡你还在吗？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我还在。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:发生了什么？你说知道威廉想做什么了，还有不能融合是什么意思？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>抱歉，指挥官……我现在感觉很害怕……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:害怕？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>那个被我捡回来的孩子，如果那也是威廉安排好的……那他到底是从什么时候开始执行他的计划的？</color>+<color=#00CCFF>三年前？五年前？还是从我和莱科在拒绝他的一瞬间就已经开始了？</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:捡回来的孩子？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>是的……M4的心智是用一个死去的孩子的脑部扫描而成……</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:你是说M4之所以那么特别……是因为她的心智是基于人类，而并非模拟计算出来的？
-NPC-Persica(0);NPC-Kalin(7)<Speaker>格琳娜</Speaker>||:但这样人类和人形的边界就会模糊，这已经是在伦理的边缘徘徊了……我记得这应该是被严令禁止的吧？！
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>因为我可怜她，不想她就这么消失……</color>+<color=#00CCFF>……</color>+<color=#00CCFF>我原本以为我是这么想的，但其实不是这样……</color>+<color=#00CCFF>其实我就是想这样尝试，我想追求最极致的心智模型，任何的模拟和真实的大脑相比都会黯然失色。</color>+<color=#00CCFF>所谓的怜悯只是我自己为自己寻找的一个理由罢了……威廉他也是明白了这一点才会做这样的安排……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:安排？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我已经调查过了，几年前的幼童持枪袭击事件……共同点是幼童皆有很强的攻击性，并且事件的发生地均在格里芬的辖区内……</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:有这回事吗？格里芬的资料库里没有这些报告啊？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>安全承包商射杀儿童，这种丑闻当然不会被披露出来。当时外部的调查档案也几乎都被删除了，只留下了几张照片，我也是刚刚才调查到这些信息。</color>+<color=#00CCFF>而那个时候在我将死去的那个女孩进行脑部扫描后，这样的事件就立即停止了。</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:这就是所谓的安排吗？那威廉的目的是什么呢？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>他是想借我的手为他制作他想要的心智。</color>+<color=#00CCFF>还在“90wish”时，他就曾想让莱科替他制作一个用来复制“某一个人”的心智。他想借用人形的方式来复活“某一个人”。</color>+<color=#00CCFF>莱科自然回绝了他，我想也是因此他才招来杀身之祸。</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>格琳娜</Speaker>||:复活“某一个人”？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>那些幼童恐怕就是威廉“制作”出来的，如果我猜的没错的话，这座城市中的“试验体”一定和我资料库中那个孩子的信息有相同之处。</color>+<color=#00CCFF>原本威廉并不知道M4是特殊的，但你们和涅托接触了很多次，我想他应该是发现了什么，所以才会引诱你们来到这里……</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:那么……这些链接的目的是夺取M4的心智吗？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>我想威廉还没有完全明白M4到底是什么……所以现在还只是试探和接触，而且如果这些“试验体”是被废弃的，我想这些威廉的造物未必和威廉有着完全一致的意志。</color>+<color=#00CCFF>这可能是我们的机会……</color>+<color=#00CCFF>但是在强制链接结束之前，只能看M4是如何应对和选择了，为了保护她我专门制作了AR小队，她们一定能够渡过难关的。</color>
+HK416Mod(0)<Speaker>416</Speaker>||:どういうこと……このグリフィン人形たちは一体……？
+G11(2)<Speaker>Gr G11</Speaker>||:みんな彫刻みたいに固まってる……？
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:多分強制的に連鎖されたせいだよ……//nやっぱり45姉の言う通りだった、これからが本番ってことだね。
+HK416Mod(0)<Speaker>416</Speaker>||:さっきメンタルのポートを閉じておいて正解だったってわけね？//n45はどう？
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:まだ何の反応もないよ……急がなきゃ。+プロトコルの位置取得機能やナビゲーション機能が死んでるし、//n通信も途切れちゃってるから、わたしから離れないようにね。+幸いコントロールセンターは近いみたいだから、//nわたしたちが直接M4を探しに行ったほうがいいのかもしれない。
+UMP9Mod(6);HK416Mod(0)<Speaker>416</Speaker>||:私はこれがM4の決めたことだとは思えない。
+UMP9Mod(2)<Speaker>UMP9</Speaker>;HK416Mod(0)||:……どうして？
+UMP9Mod(2);HK416Mod(0)<Speaker>416</Speaker>||:直観よ。あいつはおかしな人形だけど、//n皆殺しにするようなタイプだとは思えないわ。
+UMP9Mod(6)<Speaker>UMP9</Speaker>;HK416Mod(0)||:そんなこと言ったって……どうすれば……
+UMP9Mod(6);HK416Mod(0)<Speaker>416</Speaker>||:その時が来たら考えましょ。
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:うん……
+UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点1>:あっ、また人形だ、やっぱり固まってるね。//n多分指揮官の命令で外周の防御にあたっていた//nグリフィンの部隊かな。コントロールセンターまでもうすぐだよきっと。
+()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:司令室にて。
+()<Speaker>指揮官</Speaker>||<BGM>BGM_Truth</BGM>:どういうことだ……通信が妨害されているのか？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:いえ……通信に異常があるわけではなく、//nこちらの人形から反応がないようです……
+()<Speaker>指揮官</Speaker>||:……チッ、また強制接続か？+ペルシカさん、通信は繋がっていますか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>繋がってるわよ。</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:何があったんです？//n先ほどウィリアムの企みが分かったと言っていましたよね、//nそれに融合させてはいけないとはどういうことですか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>ごめんなさい、指揮官……私、とても恐ろしいの。</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:恐ろしい？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>私があの子を拾ったことも、それすらもウィリアムに仕組まれたことだったとしたら……彼の計画は一体いつから始まっていたというの？</color>+<color=#00CCFF>三年、いや五年前？それとも私とリコが彼を拒絶したあの時から？</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:あの子を拾った？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>そう……M4のメンタルは亡くなった子供の脳のスキャンから創ったものなのよ……</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:M4さんは特別、というのは……//n彼女のメンタルが模擬演算によって生まれたものではなく、//n人間をベースにしたものだから、ということですか？
+NPC-Persica(0);NPC-Kalin(7)<Speaker>カリーナ</Speaker>||:ですが、それは人間と人形の境界を壊してしまうだけでなく、//n倫理的にもかなりギリギリの行為です……//n私の記憶では法で固く禁じられているはずですよ！？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>彼女が可哀想だったから、あのまま消えてもらいたくなかった……</color>+<color=#00CCFF>……</color>+<color=#00CCFF>それが理由だと、そう私は思っていたけど、実際はそうじゃない……</color>+<color=#00CCFF>実際は試してみたかった、究極のメンタルモデルを作ってみたかったのよ。だってどんな模擬演算も、本物の脳には遠く及ばないから。</color>+<color=#00CCFF>彼女を哀れんだというのはただのこじつけ……ウィリアムもそれを分かっていたからそう仕組んだんでしょうね……</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:仕組んだ？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>調査したの。数年前の銃を持った児童たちによる一連の襲撃事件……どの事件も犯行に及んだ児童の攻撃性が極めて高かったこと、そして発生現場が全てグリフィンの管轄区内だったことが共通してた。</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:そのようなことが？//nグリフィンのデータベースにはそのような記録はありませんよ……？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>民間軍事会社が児童を撃ち殺した、そんなスキャンダルを表に出すはずがないわ。当時の外部調査報告もほとんどが削除され、今残っているのは数枚の写真だけみたいね。私も知ったのはついさっきよ。</color>+<color=#00CCFF>そして私が死亡寸前の少女の脳をスキャンしてからは、似たような事件は起きていない。</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:それが仕組まれたことだったということですか？//nウィリアムがそうした目的は？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>彼は私の手を借りて自らの望むメンタルモデルを創りだしたかったのよ。</color>+<color=#00CCFF>まだ「90wish」に在籍していた時、彼はリコに「ある人物」をコピーしたメンタルを創らせようとした、彼は人形という形でその「ある人物」を復活させようとしたの。</color>+<color=#00CCFF>けどリコはそれを拒絶した。だから彼は殺されたんだと思う。</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:「ある人物」の復活？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>あの子供たちは恐らく、ウィリアムによって「作られた」存在なのよ。もし私の推測が間違ってないなら、あの街にいる「実験体」と私のデーターベース内の子供たちの情報に共通点が見つかるはず。</color>+<color=#00CCFF>もともとウィリアムはM4が特別であることを知らなかった、けどあなたたちがネイトとの接触を繰り返すうちに彼は何かに気付いたのよ。だからあなたたちをここに誘い寄せたんじゃないかしら……</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:では……連鎖の目的とはM4のメンタルの奪取、ということですか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>私の予想では、ウィリアムはM4が何なのか完全には分かっていない……だから今はまだ探りを入れているんだと思う。それにもしあの「実験体」たちが廃棄されたものなのだとしたら、ウィリアムと目的が一致するとも限らない。</color>+<color=#00CCFF>これは、もしかするとチャンスかもしれない……</color>+<color=#00CCFF>強制連鎖が終わるまでは、M4の選択次第になってしまうけど、あの子を守るために創ったAR小隊なら、あの子たちならきっと乗り越えられるはずよ。</color>
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
-()||:控制中心内。+AR15在OGAS的协助下，开始与M4A1的心智建立链接。
-()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:<color=#00CCFF>【系统】二级平层数据同步中……</color>+<color=#00CCFF>【系统】二级平层数据同步率10%</color>
-AR15Mod(0)<Speaker>AR15</Speaker>||:这种感觉……真是久违了。
-AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【系统】二级平层数据同步率25%</color>
-AR15Mod(0)<Speaker>AR15</Speaker>||:我和以前不一样了，你也和以前不一样了。
-AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【系统】二级平层数据同步率55%</color>
-AR15Mod(0)<Speaker>AR15</Speaker>||:但是我明白……有一些事情是不变的。
-AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【系统】二级平层数据同步率76%</color>
-AR15Mod(0)<Speaker>AR15</Speaker>||:无论变得再强大，你依旧是那个不知道好好照顾自己，总是想要一人承担所有事，对待他人温柔过头的笨蛋……
-AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【系统】二级平层数据同步率98%</color>
-AR15Mod(3)<Speaker>AR15</Speaker>||:所以……当你遇到麻烦的时候，我会帮助你。
-()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【系统】二级平层数据同步率100%</color>
-()<Speaker>清澈的声音</Speaker>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>你们的相性很好，不过看来还是有一些小小的阻碍。</color>
-()<Speaker>轻微的声音</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>嗞……嗞……</color>
-AR15Mod(4)<Speaker>AR15</Speaker>||:真是的，讨厌的声音从一个变成了两个……
-AR15Mod(4)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>嗯，这样的确不太方便呢。这个一直被关在你心智深处的孩子并没有被孵化出来呢，很轻易就被我融合了。</color>+<color=#00CCFF>这样你就听不到你讨厌的那个声音了。</color>
-AR15Mod(4)<Speaker>AR15</Speaker>||:是么，那帮了大忙了。
-AR15Mod(4)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>取而代之的是，今后你会听到我的声音。</color>
-AR15Mod(4)<Speaker>AR15</Speaker>||<白屏1>:………
-()<Speaker></Speaker>||<BIN>204</BIN><白屏2>:AR15周围的空间慢慢地稳定了下来，她也同样站在了那片倒立的树海之下。
-()<Speaker>AR15</Speaker>||:这个空间……仿佛是不同的记忆拼凑在一起似的……+没错，构筑这个空间的并不单单只有M4的心智。+虽然找不到她的讯号，但的确能在这里感受到复数的链接……每个链接都指向不同的心智空间。+以单一人形的云图容量和计算上限来看，即便是M4的心智空间，这里的数据量也太过庞大了……难道这是她和别人链接后产生的平层空间吗？
-()<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>看来是这样，这里充斥着不是M4的记忆，那些异构体并没有什么太好的回忆呢。</color>
-()<Speaker>AR15</Speaker>||:异构体？
-()<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>我和M4是这么称呼她们的。这些异构体已经大量地链接进来，想要直接找到M4似乎不太可能，先把这些碎片清除了再往她的心智深处前进吧。</color>
-()<Speaker>AR15</Speaker>||<黑屏1>:哼……即使你不说我也会这么做的。
+()||:コントロールセンター内。+AR-15はOGASの協力の下、M4A1とのメンタル接続を試みていた。
+()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:<color=#00CCFF>【システム】セカンダリレベルデータ同期中……</color>+<color=#00CCFF>【システム】セカンダリレベルデータ同期率10%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:この感覚……久々ね。
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【システム】セカンダリレベルデータ同期率25%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:私は変わった。あんたも変わった。
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【システム】セカンダリレベルデータ同期率55%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:だけど……変わらないこともある。
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【システム】セカンダリレベルデータ同期率76%</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:いくら強くなったって、あんたが自分を顧みず、//nいつも一人で背負い込もうとする、//nお人よしのバカってことは変わらない。
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>【システム】セカンダリレベルデータ同期率98%</color>
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:だから……あんたが困っている時は、私が助けてあげる。
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【システム】セカンダリレベルデータ同期率100%</color>
+()<Speaker>透き通った声</Speaker>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>あなたたち、とっても相性がいいみたいね。でもどうやら少し問題があるみたい。</color>
+()<Speaker>微かな声</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>（ノイズ）</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:はぁ、嫌な声が一つ増えたわ……
+AR15Mod(4)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>そうね、確かに不便。でもあっちはあなたのメンタルの奥底に閉じ込められっぱなしでまだ羽化してなかったみたいだから、簡単に取り込めたわ。</color>+<color=#00CCFF>これでその嫌な声も聞くこともないでしょ？</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:そう、大助かりだわ。
+AR15Mod(4)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>その代わり、今後は私の声が聞こえることになるんだけど。</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<白屏1>:……
+()<Speaker></Speaker>||<BIN>204</BIN><白屏2>:AR-15周辺の空間が段々と安定し始めると、//n彼女はM4同様逆さまになった樹海に佇んでいた。
+()<Speaker>ST AR-15</Speaker>||:この空間……まるで別々の記憶を一つにつなぎ合わせたような……+間違いない、この空間を構成しているのはM4のメンタルだけじゃない。+M4の信号は見つからないけど、複数の連鎖反応をはっきりと感じる……//nどの連鎖も違うメンタルスペースへと向かっているようね。+人形一人のメンタルの容量や演算量から考えると、//nたとえM4であろうとここのデータ量は余りにも大きすぎる……//nあいつが他のメンタルと連鎖して生まれた平層空間だとでもいうの？
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>そのようね、ここにはM4のものではない記憶が満ち溢れているわ。あの異性体たち、ロクな記憶がないのね。</color>
+()<Speaker>ST AR-15</Speaker>||:異性体？
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>私とM4は彼女たちをそう呼んでるの。その異性体たちが大量に連鎖し、入ってきてるから、M4を直接みつけるのは難しいと思うわよ。先にこの欠片たちを処理してからメンタル深部へと進みましょ。</color>
+()<Speaker>ST AR-15</Speaker>||<黑屏1>:ふん……言われなくともそうするわよ。

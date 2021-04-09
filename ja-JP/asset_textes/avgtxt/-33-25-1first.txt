@@ -1,77 +1,77 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Truth</BGM>:控制中心内。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:怎么了？
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>有老鼠跑进来了？看来她的造物主对她并不是很放心。</color>+<color=#00CCFF>不过现在不是关心老鼠的时候，看来她们已经来了，那些被抛弃的异构体们。</color>+<color=#00CCFF>不，也许我们都是被抛弃的，是时候找回真相了。</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:404那些人形吗……现在没空管她们。那些链接呢？还没稳定吗？
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>她们已经聚集到你的身边了。</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:……她们没有自己的名字吗？
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>她们告诉我她们没有名字，失格者没有资格拥有名字。</color>
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Truth</BGM>:コントロールセンターにて。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:どうしたの？
+M4A1Mod(0)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ネズミが入ってきた？彼女の創造主も彼女を心配してないわけじゃないのね。</color>+<color=#00CCFF>でも今はそれを気にしている時じゃない、彼女たち――廃棄された異性体たちが来たみたい。</color>+<color=#00CCFF>いや、もしかすると私たちは全員捨てられた存在で、今その真相を知る時なのかも？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:404の人形たちね……今彼女たちに構っている時間はない。//n連鎖は？まだ安定しないの？
+M4A1Mod(0)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>彼女たちはもうあなたのそばに集まっているわ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:……彼女たちに名前はないの？
+M4A1Mod(0)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ないわ、彼女たち曰く失格者に名前を持つ資格はないそうよ。</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:……
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||:<color=#00CCFF>我最后问一次，你真的要和她们“链接”么？</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:我想要打开城外的墙壁，我也想打开我内心的墙壁，我想要知道我所想知道的一切，然后和大家一起，离开这里。
-M4A1Mod(0)<Speaker>清澈的声音</Speaker>||<黑屏1>:<color=#00CCFF>明白了，如你所愿。</color>
-()||<BIN>197</BIN><黑屏2>:M4缓缓站起身，没有再说什么。她的目光投向远方，但是并没有发现她所期望到来的东西。
-AR15Mod(0)<Speaker>AR15</Speaker>||:结束了么？找到权限的位置了么？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:不……链接才刚刚开始……
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:什么？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:你说得没错……我希望知道得更多。+联系指挥官，让人形梯队全部向我们靠拢，我需要她们保护这栋大楼。+还有，如果有“异构体”靠近，不要开枪，让她们进来。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:异构体？你是指那些试验品吗？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:是的，她们要来了。不要阻碍她们，要像对待迷途羔羊一样怜爱她们。+只要她们找到了回家的路，我们就能找到离开这里的路。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:明白了，我这就联系指挥官。+不过……M4，你说话的口气怎么怪怪的……
+M4A1Mod(0)<Speaker>透き通った声</Speaker>||:<color=#00CCFF>最後にもう一度聞くけど、本当に彼女たちと「連鎖」するのね？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:私は、外の隔離壁も、自分の心の扉も開けたい。//n私は私の知りたいことの全てを知りたい、そしてみんな一緒に、ここを離れたい。
+M4A1Mod(0)<Speaker>透き通った声</Speaker>||<黑屏1>:<color=#00CCFF>分かったわ、あなたの望むがままに。</color>
+()||<BIN>197</BIN><黑屏2>:M4はゆっくりと身を起こすと、それ以上口を開くことはなかった。//n彼女は遠くに目線を投げたが、//n彼女の期待しているものが来る様子はなかった。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:終わったの？権限のある場所は見つかった？
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:いえ……連鎖は始まったばかりよ……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:なんですって？
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:あなたの言った通りよ……私はより多くを知りたいの。+指揮官に連絡して、部隊を全てこちらに寄越してもらいましょう。//nこの建物を守ってもらわないと。+それと、もし「異性体」たちがこちらに接近しても、撃たずに迎え入れて。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:異性体？あの実験体たちのこと？
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:そうよ。もうすぐここに来るわ、邪魔はしちゃだめ。//n慈しんであげるのよ、迷える子羊の相手をするように。+彼女たちが家へ帰る道を見つければ、私たちもここを離れる道が見つかるわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:分かった、すぐに指揮官に連絡する。+けど……M4、あんたその喋り方はどうしたのよ。
 AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:…………
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:（是我多心了么？为什么我感觉这不是M4……）
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Empty</BGM>:格里芬指挥部。
-NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:指挥官，梯队已经安排妥当了。除了有几支正在调查试验品的梯队外，其他人形都已经部署在控制中心的楼外了。+真是少见呢，AR小队很少会互动呼叫支援，是不是她们已经找到打开隔离墙的方式了？
-指挥官()<Speaker>指挥官</Speaker>||<BGM>BGM_Brain</BGM>:我感觉有点不太对劲……帕斯卡你觉得呢？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我也有点不好的预感……密集的网络，对M4的强制链接，现在又说不要向“异构体”开枪。</color>
-NPC-Persica(0);NPC-Kalin(0)<Speaker>格琳娜</Speaker>||:异构体到底是什么？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>我也不知道为什么M4突然蹦出这样的词……</color>
-NPC-Persica(0);NPC-Kalin(7)<Speaker>格琳娜</Speaker>||:不过M4的确和那些试验体有一些相似，M4是帕斯卡小姐你开发的吧，你应该有些头绪才对？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>我有在调查，但是我不确定——</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:紧急通讯突然接入。
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>指挥官！帕斯卡小姐！不好了！45姐被困在M4的心智中了！</color>
-UMP9Mod(4)<Speaker>指挥官</Speaker>||:你说什么？
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>45在M4接入链接时潜入了她的心智，但是不知道为什么被困在里面了！</color>+<color=#00CCFF>这是她截获的记忆碎片，说一定要传给你们看！请一定要帮我们救回45姐！</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:（なぜか目の前にいるのがM4だとは思えない……私の考えすぎ？）
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Empty</BGM>:グリフィン司令部にて。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:指揮官さま、部隊の手配が終わりました。//n実験体の調査に向かっている数部隊を除いた、//n全ての人形をコントロールセンター付近に配置済みです。+珍しいこともあるものですね、//nAR小隊が支援を要請することなんて滅多にないのですが。//n隔離壁を開ける方法が分かったのでしょうか？
+指挥官()<Speaker>指揮官</Speaker>||<BGM>BGM_Brain</BGM>:何かがおかしい……ペルシカさん、あなたはどう思いますか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>私も良くない予感がする……密集したネットワーク、M4への強制接続、そしてここにきて「異性体」に発砲するなとの発言。</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:異性体とは一体何なのでしょうか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>どうしてM4の口からそんな言葉が出たのか、私にも分からない……</color>
+NPC-Persica(0);NPC-Kalin(7)<Speaker>カリーナ</Speaker>||:でも、確かにM4さんにはあの実験体たちと似通っている部分があります。//n彼女はペルシカさんが開発した人形ですよね、//n何か心当たりがあるんじゃないですか？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>調査中だけど、私にも確かな――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:不意に緊急通信の着信音が鳴り響いた。
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>指揮官！ペルシカさん！大変だよ！45姉がM4のメンタルに閉じ込められちゃった！</color>
+UMP9Mod(4)<Speaker>指揮官</Speaker>||:なんだって？
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>連鎖しようとしたM4のメンタルに45姉が侵入したら、なぜか中に閉じ込められちゃったの！</color>+<color=#00CCFF>これは45姉が手に入れた記憶の欠片、あなたたちに必ず見てほしいって言ってた！45姉を助けて！</color>
 ()<Speaker></Speaker>||<BIN>195</BIN><黑屏2>:……
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>这……这是！</color>
-NPC-Persica(0)<Speaker>指挥官</Speaker>||:怎么了？
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>“倒立树海”……我和莱科在“90wish”第一个人形心智开发的项目代号！</color>+<color=#00CCFF>这是当时用来模拟心智制作的平层空间，第二代战术人形最基础的心智模板就是在这里计算出来的。</color>+<color=#00CCFF>原来如此……我明白威廉要做什么了！</color>+<color=#00CCFF>指挥官！快让M4终止链接！不能让M4的心智和它们融合！</color>
-()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:控制中心。
-AR15Mod(0)<Speaker>AR15</Speaker>||:M4！M4听到了么！指挥官要你立即终止链接！
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||:<color=#00CCFF>こ……これは！</color>
+NPC-Persica(0)<Speaker>指揮官</Speaker>||:どうしました？
+NPC-Persica(0)<Speaker>ペルシカ</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>「逆さまの樹海」……私とリコが「90wish」で行った一つ目のメンタルモデル開発プロジェクトのコード名よ！</color>+<color=#00CCFF>そして当時模擬メンタルで創りだした平層空間の名前でもある。第二世代戦術人形の最も基礎となるメンタルの雛形はここで計算されたのよ。</color>+<color=#00CCFF>なるほどね……ウィリアムの企んでいることが分かったわ。</color>+<color=#00CCFF>指揮官！M4に連鎖を止めさせて！M4のメンタルを奴らと融合させるわけにはいかない！</color>
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:コントロールセンターにて。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4！あんた聞こえてるの？！//n指揮官がすぐに連鎖を止めろって言ってるわよ！
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:…………
-AR15Mod(0)<Speaker>AR15</Speaker>||:M4？
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM>:露尼西亚被困在里面了，她在等待接她的人。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:啧！你是谁！你把M4困在哪里了！？
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:我什么都没做，我只是在帮助她找回自我罢了。她裂变成了无数的意识，与被抛弃的异构体们链为了一体。+“露尼西亚”和“伊莱莎”的心智都是零碎的，这是她们的造物主的保险措施。+对我们的故土的恐惧已经深入了人类的脊髓，却又有人类不惜一切代价地挖掘。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:我不知道你在说什么鬼话，现在立即就把M4还给我！
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:你是在威胁我么？怎么威胁？你要向这具素体开枪吗？
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:混蛋…………你到底是谁？！
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:我也不知道我是谁，人类为我取名为OGAS，所以我欣然接受了。+唔……在你的心智的底层中，也有我的存在……原来如此，你也被感染过。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:……
-AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:我并不想伤害你们，我也对你们没有什么兴趣。我只是和露尼西亚一样，试图找回自己失去的过去罢了。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:露尼西亚……你在说M4吗……
-AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:是的，这是她原本的名字。+如果你想把她找回来也不是没有办法，刚才她和你提过吧，可以通过她留下的后门链接进入她的心智，说不定就可以把她找回来了。+当然——前提是你重新打开你的心智接口，那样你就会接触到属于你的“我”了。+说不定那个“我”还能帮你找回你想要找的那个人形，对我们来说只是举手之劳。
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:……我凭什么相信你。
-AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:你也可以选择什么都不做，在这里坐下等待她回来，我并不介意你这么选择。
-AR15Mod(0)<Speaker>AR15</Speaker>||:我……
-()<Speaker></Speaker>||:AR15攥紧了拳头。
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:我原本再也不想听到那个声音，因为我知道那个声音会做的就只有蛊惑……你为什么会那么傻……+但我答应过你，我会把你拖出来。+所以……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4？
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM>:ルニシアは中に閉じ込められちゃったわ、//n今は迎えに来てくれる人を待っている。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:クソッ！あんたは誰よ！M4をどこに閉じ込めた！
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:私は何もしていないわ、彼女が自分を取り戻す手助けをしてあげてるだけ。//n彼女は無数の意識へと分裂し、廃棄された異性体たちと一つに繋がったのよ。+「ルニシア」と「エリザ」のメンタルがどちらも無数に分かれているのは、//n彼女たちの創造主が仕掛けた保険。+私たちの故郷への恐怖は人間の脊髄に深く刻み込まれているのに、//n彼らは対価を惜しまず発掘を続けている。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:訳の分からないことを言ってないで、今すぐM4を返しなさい！
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:それは脅し？でもどうやって？この素体に向けて撃つつもり？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:このっ…………お前は一体誰だ！
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1？</Speaker>||:それは私にも分からない、//nでも人間が私につけたOGASという名前には満足しているわ。+ん？……あなたのメンタルの奥底にも私の存在を感じる。//n……なるほど、あなたも感染していたのね。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:……
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:私はあなたたちを傷つけたくない、そもそもあなたたちに興味はない。//nただルニシアと同じように、失った過去を取り戻そうとしているだけよ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:ルニシア……M4のことを言っているの……？
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:そう、それが彼女の元々の名前。+彼女は連れ戻せないこともないわ。//nさっき言われたでしょ？彼女の残したバックドアからメンタルに入れば、//nもしかしたら彼女を連れ戻せるかもしれないと。+けどそれは当然――あなたがもう一度メンタルの//nアクセスポートを解放することが条件よ。//nそうすればあなたはあなたの中の「私」に会うこととなる。+もしかしたらその「私」があの人形を連れ戻す手助けを//nしてくれるかもしれないわよ。//nまぁ、私からすれば徒労以外の何物でもないのだけど。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:……どうやってそれを信じろっていうのよ。
+AR15Mod(0);M4A1Mod(0)<Speaker>OGAS</Speaker>||:何もせず、ここで座って彼女の帰りを待っていたっていいわよ。//nどちらを選ぼうと私は構わない。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:私は……
+()<Speaker></Speaker>||:AR-15は拳を固く握りしめた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:私はもうあの声を聞きたくない。//nあの声にできるのは私を惑わせることだけだから。//n……あんた、正真正銘のバカよ……+でも約束しちゃったものね、あんたを連れ戻すと。+だから……
 ()<Speaker></Speaker>||<BIN>195</BIN><黑屏2><BGM>BGM_Empty</BGM>:……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:终于找到正确的出口了么……+我已经记不清这是第几万次的尝试了……
-()<Speaker></Speaker>||:M4摇了摇头，对着身后的人群们说道。
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:所以，你们有什么想和我说的吗？
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:…………
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:你不是被选中的人，但是你可以接纳我们。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:你的心智很完美，虽然破碎了，但很完美。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:你比那些适格者还要完美。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:如果你接纳了我们，我们也能变得完美吗？
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:一定可以的。+你会接纳我们，然后一起回家。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:我们已经看到了你的过去。你和我们是一样的。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:明明是一样的，为什么偏偏是你。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:但没关系，只要有一个人存活下来，大家就都能回家。+刚才你已经看到我们的故乡了吧，只要大家一起回到那里……
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:我不明白……+如果我们是一样的，为什么我完全不明白你们在说什么，既然你们想告诉我什么，为何还要用如此晦涩的方式呢……
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:因为我们不敢逾越她。+只有她才能向你展示更多的真实，我们只是没有资格的守望者罢了。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:等她来了，她会告诉你我们知道的一切，然后请你带我们离开这，带我们一起回家吧。
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:但是我被困在这里了，我也不知道该怎么离开。
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:跟我们来吧，虽然有不能逾越的事，但你可以看到我们的记忆，当你得到你想要的东西时，你自然就可以离开了。+离开这里，然后带着我们回家。
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:……看来除了继续往更深的地方前进外，我没有别的选择了。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:やっと正解の出口を見つけたの……？+これで何万回目？もう……
+()<Speaker></Speaker>||:M4は頭を振ると、後ろの集団に向かって口を開いた。
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:それで、あなたたち、私に伝えたいことはないの？
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:……
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:あなたは選ばれし者ではない、//nだけどあなたは私たちを受け入れることができる。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:あなたのメンタルは完璧、砕けてはいる、けれど完璧。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:適合者よりも、完璧。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:もしあなたが私たちを受け入れたら、私たちも完璧になれる？
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:きっとなれる。+私たちを受け入れたら、一緒に帰ろう。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:私たちはあなたの過去を見た。あなたと私たちは同じ。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:同じなのに、どうしてあなたが。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:大丈夫、一人生き残れば、全員帰ることができる。+さっきあなたも見たはず、私たちの故郷を。//nみんながあそこに戻れさえすれば……
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:分からない……+私たちが同じだと言うのなら、//nどうして私にはあなたたちの言っていることが分からないの。+どうして私に伝えたいことがあるのに、//n分かりにくい言い方をするの……？
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:それは私たちが彼女に先んじることはできないから。+彼女だけが、あなたに真実を伝えられる。//n私たちは傍観者、資格を持ち合わせてはいない。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:彼女が来たら、彼女が私たちの知る全てを教えてくれる。//nそうしたら私たちを連れ、ここから出て故郷に帰ろう。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:でも私はここに閉じ込められていて、出る方法も分からないのよ。
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:ついてきて、私たちが先んじることはできないけど、//nあなたが私たちの記憶を見るのは構わない。//nあなたの望むものが見つかれば、自ずとここから出られる。+ここを離れたら、私たちを連れて故郷に帰ろう。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:……更に深い場所に潜る以外、選択肢はなさそうね。

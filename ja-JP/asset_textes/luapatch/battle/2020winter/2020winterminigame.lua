@@ -115,6 +115,8 @@ end
 
 --Start: 加载组件
 Start = function()
+	local suretxt = self.transform:Find("PickCard/Btn_Confirm/UI_Text"):GetComponent(typeof(CS.ExText));
+	suretxt.text = CS.Data.GetLang(260036);
 	--禁止人物拖动并锁定镜头
 	--CS.BattleInteractionController.isGuideInteractable = false
 	--CS.BattleInteractionController.isGuideCanNotScale = false

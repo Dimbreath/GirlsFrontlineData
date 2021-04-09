@@ -492,7 +492,7 @@
     {
         "id": 331010,
         "type": 1401,
-        "arguments": "3",
+        "arguments": "4",
         "extra_language": "mission_win_type_config-10331010",
         "is_hidden": 0
     },
@@ -1505,6 +1505,13 @@
         "is_hidden": 0
     },
     {
+        "id": 449999,
+        "type": 1407,
+        "arguments": "6440064:1",
+        "extra_language": "mission_win_type_config-10449999",
+        "is_hidden": 1
+    },
+    {
         "id": 1051200,
         "type": 1305,
         "arguments": "0",
@@ -2153,6 +2160,468 @@
         "type": 1101,
         "arguments": "93293",
         "extra_language": "mission_win_type_config-11061202",
+        "is_hidden": 0
+    },
+    {
+        "id": 1063301,
+        "type": 1101,
+        "arguments": "73016",
+        "extra_language": "mission_win_type_config-11063301",
+        "is_hidden": 0
+    },
+    {
+        "id": 1063401,
+        "type": 1407,
+        "arguments": "440302:1",
+        "extra_language": "mission_win_type_config-11063401",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063402,
+        "type": 1404,
+        "arguments": "1",
+        "extra_language": "mission_win_type_config-11063402",
+        "is_hidden": 0
+    },
+    {
+        "id": 1063501,
+        "type": 1309,
+        "arguments": "440001,73126",
+        "extra_language": "mission_win_type_config-11063501",
+        "is_hidden": 0
+    },
+    {
+        "id": 1063601,
+        "type": 1407,
+        "arguments": "440511:16",
+        "extra_language": "mission_win_type_config-11063601",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063701,
+        "type": 1407,
+        "arguments": "440611:1",
+        "extra_language": "mission_win_type_config-11063701",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063702,
+        "type": 1407,
+        "arguments": "440612:1",
+        "extra_language": "mission_win_type_config-11063702",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063703,
+        "type": 1407,
+        "arguments": "440613:1",
+        "extra_language": "mission_win_type_config-11063703",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063704,
+        "type": 1407,
+        "arguments": "440614:1",
+        "extra_language": "mission_win_type_config-11063704",
+        "is_hidden": 1
+    },
+    {
+        "id": 1063901,
+        "type": 1406,
+        "arguments": "440800:0",
+        "extra_language": "mission_win_type_config-11063901",
+        "is_hidden": 1
+    },
+    {
+        "id": 1064001,
+        "type": 1407,
+        "arguments": "440900:1",
+        "extra_language": "mission_win_type_config-11064001",
+        "is_hidden": 1
+    },
+    {
+        "id": 1064101,
+        "type": 1101,
+        "arguments": "62561|62562",
+        "extra_language": "mission_win_type_config-11064101",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064201,
+        "type": 1407,
+        "arguments": "6440003:1",
+        "extra_language": "mission_win_type_config-11064201",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064301,
+        "type": 1405,
+        "arguments": "4",
+        "extra_language": "mission_win_type_config-11064301",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064401,
+        "type": 1407,
+        "arguments": "6440003:1",
+        "extra_language": "mission_win_type_config-11064401",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064402,
+        "type": 1305,
+        "arguments": "0",
+        "extra_language": "mission_win_type_config-11064402",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064403,
+        "type": 1407,
+        "arguments": "6440063:2",
+        "extra_language": "mission_win_type_config-11064403",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064501,
+        "type": 1309,
+        "arguments": "6440005,63041",
+        "extra_language": "mission_win_type_config-11064501",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064502,
+        "type": 1101,
+        "arguments": "63070",
+        "extra_language": "mission_win_type_config-11064502",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064601,
+        "type": 1407,
+        "arguments": "6440066:3",
+        "extra_language": "mission_win_type_config-11064601",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064602,
+        "type": 1101,
+        "arguments": "63233",
+        "extra_language": "mission_win_type_config-11064602",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064701,
+        "type": 1102,
+        "arguments": "1",
+        "extra_language": "mission_win_type_config-11064701",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064801,
+        "type": 1303,
+        "arguments": "6440801:1",
+        "extra_language": "mission_win_type_config-11064801",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064802,
+        "type": 1407,
+        "arguments": "6440095:1",
+        "extra_language": "mission_win_type_config-11064802",
+        "is_hidden": 0
+    },
+    {
+        "id": 1064803,
+        "type": 1402,
+        "arguments": "6",
+        "extra_language": "mission_win_type_config-11064803",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065101,
+        "type": 1309,
+        "arguments": "440001,73148",
+        "extra_language": "mission_win_type_config-11065101",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065201,
+        "type": 1407,
+        "arguments": "440511:36",
+        "extra_language": "mission_win_type_config-11065201",
+        "is_hidden": 1
+    },
+    {
+        "id": 1065701,
+        "type": 1407,
+        "arguments": "6440003:1",
+        "extra_language": "mission_win_type_config-11065701",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065702,
+        "type": 1101,
+        "arguments": "62526|62527",
+        "extra_language": "mission_win_type_config-11065702",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065703,
+        "type": 1102,
+        "arguments": "3",
+        "extra_language": "mission_win_type_config-11065703",
+        "is_hidden": 1
+    },
+    {
+        "id": 1065801,
+        "type": 1407,
+        "arguments": "6440003:1",
+        "extra_language": "mission_win_type_config-11065801",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065901,
+        "type": 1405,
+        "arguments": "6",
+        "extra_language": "mission_win_type_config-11065901",
+        "is_hidden": 0
+    },
+    {
+        "id": 1065902,
+        "type": 1406,
+        "arguments": "6440052:0",
+        "extra_language": "mission_win_type_config-11065902",
+        "is_hidden": 1
+    },
+    {
+        "id": 1065903,
+        "type": 1303,
+        "arguments": "6441301:1",
+        "extra_language": "mission_win_type_config-11065903",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066001,
+        "type": 1407,
+        "arguments": "6440003:1",
+        "extra_language": "mission_win_type_config-11066001",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066002,
+        "type": 1305,
+        "arguments": "0",
+        "extra_language": "mission_win_type_config-11066002",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066003,
+        "type": 1407,
+        "arguments": "6440063:3",
+        "extra_language": "mission_win_type_config-11066003",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066101,
+        "type": 1309,
+        "arguments": "6440005,62986",
+        "extra_language": "mission_win_type_config-11066101",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066102,
+        "type": 1101,
+        "arguments": "63061",
+        "extra_language": "mission_win_type_config-11066102",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066201,
+        "type": 1407,
+        "arguments": "6440066:4",
+        "extra_language": "mission_win_type_config-11066201",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066202,
+        "type": 1102,
+        "arguments": "1",
+        "extra_language": "mission_win_type_config-11066202",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066301,
+        "type": 1102,
+        "arguments": "1",
+        "extra_language": "mission_win_type_config-11066301",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066401,
+        "type": 1303,
+        "arguments": "6441801:1",
+        "extra_language": "mission_win_type_config-11066401",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066402,
+        "type": 1407,
+        "arguments": "6440095:3",
+        "extra_language": "mission_win_type_config-11066402",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066403,
+        "type": 1402,
+        "arguments": "7",
+        "extra_language": "mission_win_type_config-11066403",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066404,
+        "type": 2302,
+        "arguments": "10",
+        "extra_language": "mission_win_type_config-11066404",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066500,
+        "type": 1101,
+        "arguments": "93323",
+        "extra_language": "mission_win_type_config-11066500",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066501,
+        "type": 1101,
+        "arguments": "93323",
+        "extra_language": "mission_win_type_config-11066501",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066502,
+        "type": 1303,
+        "arguments": "44340002:1",
+        "extra_language": "mission_win_type_config-11066502",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066600,
+        "type": 1101,
+        "arguments": "93342",
+        "extra_language": "mission_win_type_config-11066600",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066700,
+        "type": 1101,
+        "arguments": "93555",
+        "extra_language": "mission_win_type_config-11066700",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066701,
+        "type": 1101,
+        "arguments": "93393",
+        "extra_language": "mission_win_type_config-11066701",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066702,
+        "type": 1101,
+        "arguments": "93383",
+        "extra_language": "mission_win_type_config-11066702",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066703,
+        "type": 1101,
+        "arguments": "93393",
+        "extra_language": "mission_win_type_config-11066703",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066704,
+        "type": 1101,
+        "arguments": "93395",
+        "extra_language": "mission_win_type_config-11066704",
+        "is_hidden": 1
+    },
+    {
+        "id": 1066800,
+        "type": 1101,
+        "arguments": "93397",
+        "extra_language": "mission_win_type_config-11066800",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066801,
+        "type": 1101,
+        "arguments": "93422",
+        "extra_language": "mission_win_type_config-11066801",
+        "is_hidden": 0
+    },
+    {
+        "id": 1066900,
+        "type": 1404,
+        "arguments": "1",
+        "extra_language": "mission_win_type_config-11066900",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067000,
+        "type": 1101,
+        "arguments": "93454",
+        "extra_language": "mission_win_type_config-11067000",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067001,
+        "type": 1306,
+        "arguments": "44390003:1",
+        "extra_language": "mission_win_type_config-11067001",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067100,
+        "type": 1406,
+        "arguments": "44400005:0",
+        "extra_language": "mission_win_type_config-11067100",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067101,
+        "type": 1101,
+        "arguments": "93505",
+        "extra_language": "mission_win_type_config-11067101",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067102,
+        "type": 1101,
+        "arguments": "93519",
+        "extra_language": "mission_win_type_config-11067102",
+        "is_hidden": 0
+    },
+    {
+        "id": 1067200,
+        "type": 1309,
+        "arguments": "44410003,93545",
+        "extra_language": "mission_win_type_config-11067200",
+        "is_hidden": 0
+    },
+    {
+        "id": 1068500,
+        "type": 1407,
+        "arguments": "44540003:1",
+        "extra_language": "mission_win_type_config-11068500",
+        "is_hidden": 1
+    },
+    {
+        "id": 1076501,
+        "type": 1101,
+        "arguments": "63540|63549|63539|63543|63547|63545",
+        "extra_language": "mission_win_type_config-11076501",
         "is_hidden": 0
     },
     {

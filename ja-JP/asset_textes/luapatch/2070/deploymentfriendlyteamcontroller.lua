@@ -8,4 +8,9 @@ local Complete = function(self,Complete)
 	end
 end
 
+local OnPointerDown = function(self,eventData)
+	self:OnPointerDown(eventData);
+	CS.DeploymentFriendlyTeamController.time = -1;
+end
 util.hotfix_ex(CS.DeploymentFriendlyTeamController,'Complete',Complete)
+util.hotfix_ex(CS.DeploymentFriendlyTeamController,'OnPointerDown',OnPointerDown)

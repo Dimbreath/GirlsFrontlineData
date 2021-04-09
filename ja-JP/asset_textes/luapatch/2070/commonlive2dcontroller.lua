@@ -3,7 +3,7 @@ xlua.private_accessible(CS.CommonLive2DController)
 
 local SetScenePos_New = function(self)
 	local selfPath = CS.Data.GetLive2DPath(self.transform)
-	CS.NDebug.LogError("SetScenePos_New"..selfPath)
+	--CS.NDebug.LogError("SetScenePos_New"..selfPath)
 
 	if selfPath == "WeddingPlay(Clone)" then
 		for i=0,self.currModel.live2dPosDataList.Count-1 do

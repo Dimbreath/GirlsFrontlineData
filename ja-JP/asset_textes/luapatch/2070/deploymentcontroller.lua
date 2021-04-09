@@ -114,6 +114,10 @@ local cantransfer = function(skill,spot)
 	end
 	return CS.DeploymentController.cantransfer(skill,spot);
 end
+
+local CheckColor = function(self)
+	return;
+end
 util.hotfix_ex(CS.DeploymentController,'RequestMoveTeamHandle',RequestMoveTeamHandle)
 util.hotfix_ex(CS.DeploymentController,'HasTeamCanUse',HasTeamCanUse)
 util.hotfix_ex(CS.DeploymentController,'CreateTeam',CreateTeam)
@@ -122,4 +126,5 @@ util.hotfix_ex(CS.DeploymentController,'AnalysisNightSpots',AnalysisNightSpots)
 util.hotfix_ex(CS.DeploymentController,'TriggerFriendAllyTeamTurnEvent',TriggerFriendAllyTeamTurnEvent)
 util.hotfix_ex(CS.DeploymentController,'canairborne',canairborne)
 util.hotfix_ex(CS.DeploymentController,'cantransfer',cantransfer)
+util.hotfix_ex(CS.DeploymentController,'CheckColor',CheckColor)
 

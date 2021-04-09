@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:格里芬临时指挥部内。
-NPC-Kalin(4)<Speaker>格琳</Speaker>||:看起来真的是好多人在关注我们啊……
-指挥官()||:所以我们也需要更多情报。
-()||<SE1>AVG_tele_connect</SE1>:滴——
-NPC-Kalin(0)<Speaker>格琳</Speaker>||:是有新的情报了吗？
-NPC-Havel(0)<Speaker>哈维尔</Speaker><通讯框>||:<color=#00CCFF>哦，果然是传输到了这里。</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||:呜哇！怎么通讯自动打开了！？
-NPC-Havel(0)<Speaker>哈维尔</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>怎么了？格里芬的各位，你们在做什么不可告人的事么？</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>格琳</Speaker>||:是哈维尔先生突然强行通讯过来才吓了我们一跳好吧！
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>抱歉抱歉，先祝贺一下你们从塔林城里逃脱出来吧。</color>+<color=#00CCFF>虽然我们心中都有这个预期，不过真的得到了这个结果，大家还是觉得挺高兴的。</color>
-指挥官()||:我想哈维尔先生不至于为了说声感谢而突然联络我们吧。
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>的确是挺突然的通讯，不过没关系，这说明他还是挺喜欢你们的。</color>+<color=#00CCFF>既然都通上话了，那我也给点小小的建议吧。</color>
-指挥官()||:请说。
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||:<color=#00CCFF>我知道你还是回应了帕斯卡的请求，所以再说之前的老生常谈你一定会觉得索然无味。</color>+<color=#00CCFF>不过帕斯卡那AR小队带回来的东西，我建议不要让安全局知道。</color>+<color=#00CCFF>那个东西……可能会在关键时候能救你的命，也可能会在你认为安全的某一刻要你的命。</color>
-指挥官()||:……
-NPC-Havel(0)<Speaker>哈维尔</Speaker>||<黑屏1>:<color=#00CCFF>好了，我就不多加打扰了。希望接下来的旅程你也能保持着你一贯的好运，我很期待我们可以面对面地交谈一次……</color>+<color=#00CCFF>……如果你能活着回来的话。</color>
-()||<黑屏2><黑屏1><BIN>9</BIN>:【裂变链接 END】
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:グリフィン臨時司令部にて。
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:本当にたくさんの人に注目されてしまいましたね……
+指挥官()<Speaker>指揮官</Speaker>||:もっと情報を集めないとだね。
+()||<SE1>AVG_tele_connect</SE1>:（通知音）
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:新しい情報でしょうか？
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker><通讯框>||:<color=#00CCFF>ほぅ、やはりここに転送されたか。</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:えぇっ！通信が勝手に！？
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>どうした、グリフィンの諸君？人には言えぬようなことでもしていたのか？</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:ハーヴェルさんが突然、強制通信を敢行してきたからビックリしたんです！
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker>||:<color=#00CCFF>そりゃ、すまんすまん。先にタリンから逃げられたことの祝電をと思ってな。</color>+<color=#00CCFF>君たちなら問題ないだろうと我々も思っていたが、いざ改めて結果を知って、皆大喜びしておる。</color>
+指挥官()<Speaker>指揮官</Speaker>||:ハーヴェルさんが、感謝の意を述べるためだけに//n通信を突然寄こしてくるような人には思えませんが。
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker>||:<color=#00CCFF>急な通信なのは確かだが、安心しろ、君らはまだ彼らに好かれているということだ。</color>+<color=#00CCFF>せっかく通信を繋いだことだし、ここはひとつお節介を言わせてもらうとしよう。</color>
+指挥官()<Speaker>指揮官</Speaker>||:どうぞ。
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker>||:<color=#00CCFF>ペルシカの要求を飲んだことは知っている。だから、ありきたりな事を話したとて意味は成さんだろう。</color>+<color=#00CCFF>だが、ペルシカのAR小隊が持ち帰ったモノは、くれぐれも保安局に知らせるでないぞ。</color>+<color=#00CCFF>アレはきっと……窮地からお前を助けはするが、牙を向くこともあろう。</color>
+指挥官()<Speaker>指揮官</Speaker>||:……
+NPC-Havel(0)<Speaker>ハーヴェル</Speaker>||<黑屏1>:<color=#00CCFF>私からは以上だ。次の旅路も、幸運が続くといいな。また相まみえることを期待している……</color>+<color=#00CCFF>……君たちがまだ、生きていたらの話だがな。</color>
+()||<黑屏2><黑屏1><BIN>9</BIN>:【連鎖分裂 END】

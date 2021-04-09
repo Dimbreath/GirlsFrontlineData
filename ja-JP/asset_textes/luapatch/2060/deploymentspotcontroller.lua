@@ -98,6 +98,12 @@ local CloseWinTarget = function(self,winType)
 	ShowObj(self);
 end
 
+local HasFriendlyTeam = function(self)
+	if self.currentHostage ~= nil and not self.currentHostage:isNull() then
+		return true;
+	end
+	return self:HasFriendlyTeam();
+end
 util.hotfix_ex(CS.DeploymentSpotController,'ShowCommonEffect',ShowCommonEffect)
 util.hotfix_ex(CS.DeploymentSpotController,'UpdateColor',UpdateColor)
 util.hotfix_ex(CS.DeploymentSpotController,'CheckPathLine',CheckPathLine)
@@ -106,3 +112,4 @@ util.hotfix_ex(CS.DeploymentSpotController,'CheckBuild',CheckBuild)
 util.hotfix_ex(CS.DeploymentSpotController,'get_currentmaplistRoute',currentmaplistRoute)
 util.hotfix_ex(CS.DeploymentSpotController,'ShowWinTarget',ShowWinTarget)
 util.hotfix_ex(CS.DeploymentSpotController,'CloseWinTarget',CloseWinTarget)
+util.hotfix_ex(CS.DeploymentSpotController,'HasFriendlyTeam',HasFriendlyTeam)

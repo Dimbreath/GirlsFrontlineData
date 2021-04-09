@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:格里芬临时指挥室内。
-RO635(0)<Speaker>RO635</Speaker>||:指挥官，另一台列车炮一直咬着我们不放！
-AR15Mod(0)<Speaker>AR15</Speaker>||:追得还真紧啊……有办法甩掉他们吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:已经是最快了！既然是同型号，单凭速度估计是甩不掉他们。
-()||<SE1>Explode</SE1><震屏>:伴随着轰鸣的炮声，车体又是一阵剧烈的晃动。+在车厢中的众人抓住了身边的东西才勉强站稳。
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45姐，护盾快撑不住了！</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:我们也用火炮打回去吧！
-HK416Mod(0)<Speaker>HK416</Speaker>||:有那么轻松就好了！+对面的护盾是完整的，我们的火炮还少了几门，硬碰硬是没有胜算的。
-()<Speaker>指挥官</Speaker>||:UMP45，你能查到这种型号的列车护盾发生器的位置吗？
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:能查到。+指挥官，你是不是有什么绝妙的计划了？
-()<Speaker>指挥官</Speaker>||<黑屏1>:我有个方案……
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:装甲列车顶部。
-()||<BGM>BGM_Reverse</BGM>:格里芬控制的装甲列车开始渐渐减速。+AR小队守在车顶的掩体之后，等待军方装甲列车靠近。
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没想到指挥官要我们这么做，真是吓了一跳。
-RO635(0)<Speaker>RO635</Speaker>||:就是因为指挥官会下这种命令，我们往往才能绝处逢生……这次一定也是一样的。
-AR15Mod(0)<Speaker>AR15</Speaker>||:指挥官的判断一定是对的。+这次的任务也不复杂——击毁车厢中段的护盾发生器，剩下的就交给那些火炮。
-DesertEagle(0)<Speaker>沙漠之鹰</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我这边的小队已经就位，行动开始时会掩护你们进行突击。</color>+<color=#00CCFF>期待诸位的华丽演出。</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:没问题。+对了对了，RO，AR15，我们要快点行动，等一下还要接M4回来呢！
-RO635(2)<Speaker>RO635</Speaker>||:那是当然，怎么能让M4错过班车呢。
-AR15Mod(0)<Speaker>AR15</Speaker>||:敌方列车进入攻击位置了，我们走！
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:明白，出发啦！
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:グリフィン臨時司令室内。
+RO635(0)<Speaker>RO635</Speaker>||:指揮官、もう一台の列車砲がすぐ後を追ってきます！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:しつこいわね……振り切ることはできない？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:既に最高速よ！同じタイプの車体なら、スピードだけで振り切ることは不可能ね。
+()||<SE1>Explode</SE1><震屏>:砲撃の轟音に伴い、車体がまたしても大きく揺れ動いた。+車両の中は、何かを掴んでやっと立ってられる状態だった。
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45姉、シールドがもう持たないよ！</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:こっちも砲撃で反撃しようよ！
+HK416Mod(0)<Speaker>416</Speaker>||:できたらもうしてるわよ！+向こうのシールドは完璧よ、それに比べてこっちは火砲も少なく、//n正面衝突をしても勝算はないわ。
+()<Speaker>指揮官</Speaker>||:UMP45、このタイプの列車シールド発生装置の位置は調べられる？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:できるわ。+指揮官、何か良い計画を思いついたのね？
+()<Speaker>指揮官</Speaker>||<黑屏1>:考えはある……
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:装甲列車上部。
+()||<BGM>BGM_Reverse</BGM>:グリフィンの操作する装甲列車が徐々に減速し始めた。+AR小隊は列車上部の遮蔽物に隠れ、軍の装甲列車接近を待っていた。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:指揮官にこんなことを頼まれるなんて、びっくりしたよ。
+RO635(0)<Speaker>RO635</Speaker>||:こんな命令を下すような指揮官だからこそ、今まで命拾いできたのよ……今回もきっとそう。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:指揮官の判断は正しいはずよ。+今回の任務も複雑ではない――車両中段にあるシールド発生器を破壊して、あとは火砲に任せればいい。
+DesertEagle(0)<Speaker>デザートイーグル</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>こちらは既に配置に就いてます、作戦開始時には皆さんの突撃を援護します。</color>+<color=#00CCFF>華麗な舞台を楽しみにしていますわ。</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:分かった。+そうそう、RO、AR15、早く行かないと、あとでM4も迎えにいかないといけないんだから！
+RO635(2)<Speaker>RO635</Speaker>||:もちろんよ、M4を乗り遅れさせるわけにはいかないわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:敵列車が攻撃位置に入った、いくわよ！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:オッケー、出発！
 ()||<黑点2>:

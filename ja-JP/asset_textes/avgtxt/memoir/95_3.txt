@@ -1,74 +1,74 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>【编号 2051-05-09】</color>+<color=#00CCFF>【数据读取中……开始播放】</color>
-温柔的女声()<Speaker>温柔的女声</Speaker>||<BGM>BGM_Wake</BGM>:已经是这周第五次了……这才只是周二而已！损坏的频率也太高了！
-冷静的男声()<Speaker>冷静的男声</Speaker>||:这是必要的。+这一仗已经僵持得太久了，上级要求我们尽快完成测试，让这一代强铳兵投入使用。+你也知道，■■■，只要它们能顺利进入实战，那些人根本没法和我们抗衡。
-温柔的女声()<Speaker>温柔的女声</Speaker>||:我知道，但是这种高强度的测试和冲击，就算是人形也承受不住！我们难道不该另想办法，让AI来直接操纵强铳兵吗？
-冷静的男声()<Speaker>冷静的男声</Speaker>||:相关的程序研发需要更久。
-温柔的女声()<Speaker>温柔的女声</Speaker>||:我们应该减少无意义的损毁……
-冷静的男声()<Speaker>冷静的男声</Speaker>||:如果能尽快结束战争，那么一切都是必要的。
-温柔的女声()<Speaker>温柔的女声</Speaker>||:让我来代替小爱。
-冷静的男声()<Speaker>冷静的男声</Speaker>||:我能理解你对59898的珍惜。她们的造价很高，也的确长得很可爱。+但是最后你才会是那架机甲的驾驶员，她只是给你铺路的东西。
-温柔的女声()<Speaker>温柔的女声</Speaker>||:（啜泣声）
-冷静的男声()<Speaker>冷静的男声</Speaker>||<黑屏1><SE1>AVG_door_storehouse</SE1>:（叹息）■■■，不要把她看得太重要了。+我们是人类，她们不过是能重复使用的道具。你比她们高贵得多，别自降身价。+我先走了。
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:【机体修复完成，正在重启。】+【重启完成。】
-88typePilot(0)<Speaker>江城爱</Speaker>||<睁眼><BIN>70</BIN>:……
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:你醒了啊。+早安，小爱。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||:【检测到持有者的情绪低落，执行安抚模式。】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:……哈哈，你总是这样。+从认识的时候开始，你每次想对我表达什么的时候都会这样拉住我的手。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||:【正在提取历史记录核对。】+【核对完成，执行 点头确认。】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:果然。虽然你不会说话，但你一直在听我讲着……+从我来到基地到现在，和你相处的时间要比我和其他人相处的时间多得多呢。+他们所有人加起来，也没有你了解到的我的一半多。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||:【判断持有者的意图】+【判断失败】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:如果战争结束之后，能把你也买下来一起带走就好了。+虽然我应该不用再去咖啡厅打工了，但我们有很多好玩的聚会，我想把你介绍给我的朋友们。+漫展啊，咖啡厅啊，或者别的什么地方……都想带你一起去。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||:【检索自身信息。】+【持有者 ■■■】+【没有查询到其他持有者。】+【执行 点头确认。】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:小爱，我好喜欢你。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<BGM>BGM_Empty</BGM>:【无法判断持有者的意图。】+【执行……】
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<SE2>Alarm</SE2>:【判定中断】+【接收到警告信号】+<color=#FF0000>【敌袭！敌袭！敌袭！！】</color>
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<BGM>BGM_Battle</BGM>:是警报……怎么会，3303明明是后方基地……
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>AVG_weapon_reload</SE1>:小爱，跟我来！准备战斗！
-TestPilot(0)<Speaker>冷静的男声</Speaker>;88typePilot(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>■■■，赶往C区域！</color>
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<黑屏1><SE2>Alarm</SE2>:【与操作系统同步完毕，即将挪转至C区域。】
-TestPilot(0)<Speaker>■■■</Speaker>||<BIN>99</BIN><黑屏2><火花><SE1>Explode</SE1>:这群家伙……跑得真快！+长官，■■■已就位！
-TestPilot(0)<Speaker>冷静的男声</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>收到，不惜一切代价，死守C区域！</color>
-TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Battlefield</SE1>:明白！+<Size=40>……加油啊，小爱。这是我们第一次实战，一场硬仗！</Size>
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<SE1>Select</SE1>:【检测到陌生目标靠近。】+【判定 敌意目标】+【执行 远距离打击】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>Explode</SE1>:好，击中了！近距离的时候，切换大刀——小爱！
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<SE1>Battlefield</SE1>:【接收到持有者指令。更改攻击方案为近距离B种类。】+【切换武器 执行 斩击】+【检测到目标生命活动衰减】+<color=#FF0000>【警告 有爆炸风险】</color>+【执行 后退规避】
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:不愧是小爱！然后，这边——我也不会偷懒的！吃我一枪！
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<黑点1><SE1>AVG_rifle_finalshot_h</SE1>:【检测到敌对目标生命活动停止。】+【检测持有者——心率稳定。计算……持有者状态预计将在三小时内持续下降。】+【执行 开始对下一敌对目标作战。】
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>【No.2051-05-09】</color>+<color=#00CCFF>【データ読み取り中……再生開始】</color>
+温柔的女声()<Speaker>優しい女性の声</Speaker>||<BGM>BGM_Wake</BGM>:今週だけでもう5回目ですよ……//nまだ火曜日なのに！損傷の頻度が高すぎます！
+冷静的男声()<Speaker>冷静な男性の声</Speaker>||:必要なことだ。+この戦いはあまりにも長引いている。一刻も早くテストを終え、//n次世代強銃兵を実戦に投入できるようにするのが、上の命令だ。+■■■、君も分かっているだろう？//nこいつらを実戦に投入できたら、あいつらに我々に対抗する術はなくなる。
+温柔的女声()<Speaker>優しい女性の声</Speaker>||:分かっています。でもこんな高強度の衝撃テスト……//nいくら人形でも耐えられません！//n他の方法、例えばAIで強銃兵を操縦させるべきなのでは？
+冷静的男声()<Speaker>冷静な男性の声</Speaker>||:それだとプログラムの開発に時間がかかる。
+温柔的女声()<Speaker>優しい女性の声</Speaker>||:それでも無意味な損傷は……
+冷静的男声()<Speaker>冷静な男性の声</Speaker>||:戦争を一刻も早く終わらせるために、必要なことなんだ。
+温柔的女声()<Speaker>優しい女性の声</Speaker>||:なら私が愛ちゃんの代わりになります。
+冷静的男声()<Speaker>冷静な男性の声</Speaker>||:59898を大事にしているのは分かっている。//n彼女らは高価な上に、人間にそっくりだからな。+だが最後、あの機体に乗るのは君だ。//nこれは君のためにしていることなんだぞ。
+温柔的女声()<Speaker>優しい女性の声</Speaker>||:でも……
+冷静的男声()<Speaker>冷静な男性の声</Speaker>||<黑屏1><SE1>AVG_door_storehouse</SE1>:■■■、あまり彼女たちに感情移入するな。+つまるところ我々は人間で、彼女たちは道具に過ぎない。//n君は彼女たちよりもずっと重要な存在だ、くれぐれも勘違いはするな。+先に失礼する。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:【機体修復完了。再起動中】+【再起動完了】
+88typePilot(0)<Speaker>江城愛</Speaker>||<睁眼><BIN>70</BIN>:……
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:起きたのね。+おはよう、愛ちゃん。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||:【所有者の感情低下を確認、実行 慰めモード】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:……フフ、あなたはいつもそう。+出会った時から、何かを伝えたくなると、いつも私の手を掴むの。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||:【過去の記録と照会中】+【照会完了。実行 頷く】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:やっぱり。あなたは喋れないけど、いつも私の話を聞いてくれる……+この基地に来てから、//n他の人たちよりあなたと一緒にいる時間の方が、ずっと長い。+多分あの人たちの誰よりも、あなたの方が私のことをよく知っている。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||:【所有者の意図を判断中】+【判断失敗】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:もしこの戦争が終わったら、//nあなたを買って一緒に帰れたらいいのに。+多分、私もカフェでバイトする必要はなくなるけど、//n友達にあなたのことを紹介して、一緒にパーティーとかに参加したいな。+それからアニメのイベントとか、カフェとか、//n色んな面白いところに……あなたと一緒に行きたい。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||:【情報検索】+【所有者 ■■■】+【他の所有者情報はありません】+【実行 頷く】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:愛ちゃん、好きよ。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<BGM>BGM_Empty</BGM>:【所有者の意図を判断できず】+【実行……】
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<SE2>Alarm</SE2>:【判断中止】+【警告信号を受信】+<color=#FF0000>【敵襲！敵襲！敵襲！！】</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<BGM>BGM_Battle</BGM>:警報……そんな、3303は後方の基地なのに……
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>AVG_weapon_reload</SE1>:愛ちゃん、来て！戦闘準備よ！
+TestPilot(0)<Speaker>冷静な男性の声</Speaker>;88typePilot(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>■■■、エリアCへ向かえ！</color>
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<黑屏1><SE2>Alarm</SE2>:【指揮システムと同期完了、エリアCへ移動する】
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>99</BIN><黑屏2><火花><SE1>Explode</SE1>:こいつら……なんて速さ！+指揮官！■■■、位置に着きました！
+TestPilot(0)<Speaker>冷静な男性の声</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>了解、どんな代償を払ってもいい、エリアCを死守しろ！</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Battlefield</SE1>:了解しました！+<Size=40>……愛ちゃん、一緒に頑張ろうね。初めての実戦になるけど、厳しい戦いになりそう！</Size>
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<SE1>Select</SE1>:【未確認の目標が接近中】+【判定 敵対対象】+【実行 遠距離攻撃】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<SE1>Explode</SE1>:よし、当たった！//n敵が近づいてきたら近接戦モードに切り替えて――愛ちゃん！
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<SE1>Battlefield</SE1>:【所有者の命令を確認。戦闘モードを近距離B型に変更】+【武器を変更。 実行 斬撃】+【目標の生命活動減衰を確認】+<color=#FF0000>【警告 爆発の危険性あり】</color>+【実行 後退して回避】
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:さすが愛ちゃん！こっちも負けてられない――くらえ！
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<黑点1><SE1>AVG_rifle_finalshot_h</SE1>:【目標の生命活動停止を確認】+【所有者の心拍数――安定。//n計算中……所有者のバイタルは三時間内に低下する】+【実行 次の目標に対する攻撃】
 ()<Speaker></Speaker>||<黑点2><Night>:……
-TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Explode</SE1>:已经、打倒五架了……这种东西……+只要坚持到其他人来支援……
-TestPilot(0)<Speaker>冷静的男声</Speaker>||:<color=#00CCFF>保持状态不要松懈，■■■！</color>+<color=#00CCFF>向你那边去的敌人变多了！</color>
-TestPilot(0)<Speaker>■■■</Speaker>||:我……明白……
-TestPilot(0)<Speaker>冷静的男声</Speaker>||<黑点1>:<color=#00CCFF>坚持住，其他区域结束战斗就会来支援你。</color>+<color=#00CCFF>在那之前，别死了！</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<SE1>Explode</SE1>:もう、5機倒した……こんなもの……+援軍が来るまで持ちこたえれば……
+TestPilot(0)<Speaker>冷静な男性の声</Speaker>||:<color=#00CCFF>気を緩めるな、■■■！</color>+<color=#00CCFF>そちらに向かってる敵が多くなってるぞ！</color>
+TestPilot(0)<Speaker>■■■</Speaker>||:りょ、了解しました……
+TestPilot(0)<Speaker>冷静な男性の声</Speaker>||<黑点1>:<color=#00CCFF>持ちこたえろ、他のエリアでの戦闘が終わったらそちらへ向かう。</color>+<color=#00CCFF>それまで絶対に死ぬな！</color>
 ()<Speaker></Speaker>||<黑点2><SE1>AVG_rifle_finalshot_h</SE1>:……
-TestPilot(0)<Speaker>■■■</Speaker>||:六架。+稍微……有点头晕，大概是太晃了……+怎么感觉鼻子底下湿湿的……
-TestPilot(0)<Speaker>冷静的男声</Speaker>||:<color=#00CCFF>暂且休息一下，让你的人形先挡住。</color>
-TestPilot(0)<Speaker>■■■</Speaker>||:嗯，拜托了，小爱。+哈哈……头一次这样作战，果然还是有点勉强。我就先负责侦查工作吧。
-88typePilot(0)<Speaker>江城爱</Speaker>||:【判断 持有者身体强度不足以完全驾驭强铳兵，实行保护方案。】+【发现新的敌对目标。执行 远距离打击。】
-()<Speaker>■■■</Speaker>||<SE1>Runstep</SE1>:……小爱！危险！！！
-88typePilot(0)<Speaker>江城爱</Speaker>||<关闭火花><BGM>BGM_Empty</BGM><SE1>AVG_bigglassbreak</SE1><拉伸><黑屏1>:<color=#FF0000>【警告 检测到陌生信号飞速接近】</color>+<color=#FF0000>【警告 机体失衡】</color>+<color=#FF0000>【警告 受到严重冲击——】</color>
-格琳()<Speaker>格琳</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:咦，怎么突然没有画面了？+数据丢失了吗？……啊，有了。
-()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【编号 2051-05-09】</color>+<color=#00CCFF>【继续播放】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||:これで6機。+ちょっと……頭がくらくらする……乗り物酔いかな……+なんだか、鼻の下が湿っているような……
+TestPilot(0)<Speaker>冷静な男性の声</Speaker>||:<color=#00CCFF>少し休憩しろ、戦闘は一旦人形に任せばいい。</color>
+TestPilot(0)<Speaker>■■■</Speaker>||:ええ、お願い、愛ちゃん。+はは……こんなに戦うのは初めてだから、ちょっと無理があったね。//n私はとりあえず偵察の方に回るよ。
+88typePilot(0)<Speaker>江城愛</Speaker>||:【判断 所有者のバイタルでは強銃兵の操縦不可。保護プランを実行】+【新しい敵対対象を発見。実行 遠距離攻撃】
+()<Speaker>■■■</Speaker>||<SE1>Runstep</SE1>:……愛ちゃん！危ない！！！
+88typePilot(0)<Speaker>江城愛</Speaker>||<关闭火花><BGM>BGM_Empty</BGM><SE1>AVG_bigglassbreak</SE1><拉伸><黑屏1>:<color=#FF0000>【警告 未確認の信号が急速接近中】</color>+<color=#FF0000>【警告 機体バランス喪失】</color>+<color=#FF0000>【警告 致命的衝撃を受け――】</color>
+格琳()<Speaker>カリーナ</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:あれ、画面が止まっちゃった？+データが抜け落ちてるのでしょうか？……あ、ありました。
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【No.2051-05-09】</color>+<color=#00CCFF>【再生続行】</color>
 ()<Speaker></Speaker>||<BIN>41</BIN><黑屏2><SE1>AVG_Rain2</SE1>:……
-()<Speaker></Speaker>||:<color=#FF0000>【警告 天气变化 晴天→暴雨  持续时间 无法测算】</color>+【检测不到持有者的生命体征】+【检测不到持有者的生命体征】+<color=#FF0000>【警告 请勿持续无效操作】</color>+<color=#FF0000>【警告 电量不足】</color>
-88typePilot(0)<Speaker>江城爱</Speaker>||<SE1>AVG_Rain2</SE1>:……
-NPC-Bodyguard1(0)<Speaker>沙哑的声音</Speaker>||:啊，这里还有两具机甲！+快过来！
-NPC-PasserbyM(0)<Speaker>年轻的声音</Speaker>||:来了来了。两边的人受伤都不少，别催啊。+喔，这就是C区域坚持到最后的硬骨头吧？
-NPC-Bodyguard1(0)<Speaker>沙哑的声音</Speaker>||<SE1>AVG_Rain2</SE1>:弄塌了那边七架新型号，结果居然只是测试人形吗？+怎么扶着机甲愣在这里，bug了？……喔，快没电了，难怪呢。
-NPC-PasserbyM(0)<Speaker>年轻的声音</Speaker>||:按情报里看应该是那个中国女人和她的人形。
-NPC-Bodyguard1(0)<Speaker>沙哑的声音</Speaker>||:这只有人形啊，那女人呢？给钱的那边说找到尸体要盖国旗送回家乡呢。
-NPC-PasserbyM(0)<Speaker>年轻的声音</Speaker>||<SE1>AVG_Rain2</SE1>:驾驶舱都给炸没了，哪儿来的女人。+说来也真是奇怪，听说这女人最后替她人形驾驶的机甲挡枪。
-NPC-Bodyguard1(0)<Speaker>沙哑的声音</Speaker>||:哈……？？你开玩笑呢吧。+哪儿来的这种傻子啊，怕不是误以为这里头是她战友吧！
-NPC-PasserbyM(0)<Speaker>年轻的声音</Speaker>||<黑屏1>:谁知道呢。+总之，赶快都处理掉吧。现在倒是省事了，只要搬走人形就可以……哟，还挺重。拖车还没到吗？喂——？
-88typePilot(0)<Speaker>江城爱</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:【执行 救助】+<color=#FF0000>【警告 检索不到执行对象】</color>+【执行 拥抱】+<color=#FF0000>【警告 检索不到执行对象】</color>+【执行 呼喊】+<color=#FF0000>【警告 没有相关模块】</color>+<color=#FF0000>【系统错误】</color>+<color=#FF0000>【系统错误】</color>+<color=#FF0000>【系统错误】</color>+【执行……】+【检测到机体被移动，操作中断】+<color=#FF0000>【警告 电量不足，即将在三十秒后关机】</color>
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……+<color=#00CCFF>【编号2051-05-09 记录播放完毕】</color>+<color=#00CCFF>【是否跳转？】</color>+<color=#00CCFF>【确认跳转至 模拟运算记录。】</color>+<color=#00CCFF>【20510106 beta 读取中】</color>
-TestPilot(0)<Speaker>■■■</Speaker>||<BIN>18</BIN><黑屏2><回忆><BGM>BGM_Moon</BGM>:早安哦，59898！
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||:早安。
-TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<黑屏1>:诶——？你的声音……好好听啊！
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:<color=#00CCFF>【20510415 beta 读取中】</color>
-TestPilot(0)<Speaker>■■■</Speaker>||<回忆><黑屏2><BIN>46</BIN>:我想去喝咖啡，但是一个人去根本没有意思！+小爱，和我一起去吧？
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<黑屏1>:好啊，如果是■■■的想法，我很高兴一起去哦！
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:……+<color=#00CCFF>【20510509 beta 读取中】</color>
-TestPilot(0)<Speaker>■■■</Speaker>||<黑屏2><BIN>73</BIN><回忆>:小爱，我喜欢你。
-TestPilot(0);88typePilot(0)<Speaker>江城爱</Speaker>||<黑屏1>:我知    以+■■■+去 展       ■■■  一起
-()<Speaker></Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>【档案出现未知损坏，结束运算】</color>
+()<Speaker></Speaker>||:<color=#FF0000>【警告 天候の変化を確認 晴→豪雨 継続時間 推定不能】</color>+【所有者のバイタルを検知できません】+【所有者のバイタルを検知できません】+<color=#FF0000>【警告 無効な操作の継続を推奨しない】</color>+<color=#FF0000>【警告 バッテリー残量不足】</color>
+88typePilot(0)<Speaker>江城愛</Speaker>||<SE1>AVG_Rain2</SE1>:……
+NPC-Bodyguard1(0)<Speaker>しわがれた声</Speaker>||:おーい、こっちにまだ2機残ってるぞ！+早く来い！
+NPC-PasserbyM(0)<Speaker>若々しい声</Speaker>||:はいはい。こっちだって負傷者が多いんだ、そう急かすなよ。+おお、これがエリアCで最後まで戦ってたやつらか？
+NPC-Bodyguard1(0)<Speaker>しわがれた声</Speaker>||<SE1>AVG_Rain2</SE1>:新型を7機も倒したようだが、乗ってるのはただのテスト人形なのか？+しかもこんなところで機体を支えやがって、何かのバグか？//n……いや、ただのバッテリー切れか、通りで。
+NPC-PasserbyM(0)<Speaker>若々しい声</Speaker>||:情報によると、これに乗ってるのは//nあの中国人の女と彼女の人形のはずだよ。
+NPC-Bodyguard1(0)<Speaker>しわがれた声</Speaker>||:しかし人形しかいないぞ？女はどこだ？//n先方は遺体を見つけて手厚く故郷に送り届けると言ってるのだが。
+NPC-PasserbyM(0)<Speaker>若々しい声</Speaker>||<SE1>AVG_Rain2</SE1>:コクピットが丸ごと吹っ飛んでるし、ここにいるわけないでしょ。+それにしても変な話だ、//nこれに乗ってた女、最後は人形の機体を庇ったんだってよ。
+NPC-Bodyguard1(0)<Speaker>しわがれた声</Speaker>||:はあ……？？冗談だろ。+そんなバカなやつがいるか。中にいるのが戦友だと勘違いしてたんだろ。
+NPC-PasserbyM(0)<Speaker>若々しい声</Speaker>||<黑屏1>:さぁね。+とにかく、さっさと処理を済ませるか。//n人形だけを運べばいいんだから、色々と手間が省ける……//nおっと、結構重いね。トレーラーはまだかい？おーい――？
+88typePilot(0)<Speaker>江城愛</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:【実行 救助】+<color=#FF0000>【警告 実行対象が見つかりません】</color>+【実行 抱擁】+<color=#FF0000>【警告 執行対象が見つかりません】</color>+【実行 呼びかける】+<color=#FF0000>【警告 該当モジュールなし】</color>+<color=#FF0000>【システムエラー】</color>+<color=#FF0000>【システムエラー】</color>+<color=#FF0000>【システムエラー】</color>+【実行……】+【機体の移動を検知、動作を中断】+<color=#FF0000>【警告 バッテリー残量不足、30秒後にシャットダウン】</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……+<color=#00CCFF>【No.2051-05-09 記録再生終了】</color>+<color=#00CCFF>【次の記録を再生しますか？】</color>+<color=#00CCFF>【確認 シミュレーション記録を再生】</color>+<color=#00CCFF>【20510106 beta 読み取り中】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>18</BIN><黑屏2><回忆><BGM>BGM_Moon</BGM>:おはよう、59898！
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||:おはようございます。
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<黑屏1>:えっ――あなたの声……素敵ね！
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:<color=#00CCFF>【20510415 beta 読み取り中】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<回忆><黑屏2><BIN>46</BIN>:コーヒー飲みたい、けど一人で行ってのもなぁ。+愛ちゃん、私と一緒に行かない？
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<黑屏1>:はい、■■■のお誘いでしたら、是非ご一緒させてください！
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><关闭蒙版>:……+<color=#00CCFF>【20510509 beta 読み取り中】</color>
+TestPilot(0)<Speaker>■■■</Speaker>||<黑屏2><BIN>73</BIN><回忆>:愛ちゃん、好きよ。
+TestPilot(0);88typePilot(0)<Speaker>江城愛</Speaker>||<黑屏1>:私 知っ+■■■+行 イ ■■■一緒
+()<Speaker></Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>【アーカイブの破損を検知しました。演算を終了します】</color>

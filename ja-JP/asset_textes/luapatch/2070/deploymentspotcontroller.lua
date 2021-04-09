@@ -17,5 +17,12 @@ local Init = function(self)
 		self:ShowCommonEffect();
 	end
 end
+
+local OnPointerDown = function(self,eventData)
+	self:OnPointerDown(eventData);
+	CS.DeploymentSpotController.time = -1;
+end
+
 util.hotfix_ex(CS.DeploymentSpotController,'OnFinishAnimationEvent',OnFinishAnimationEvent)
 util.hotfix_ex(CS.DeploymentSpotController,'Init',Init)
+util.hotfix_ex(CS.DeploymentSpotController,'OnPointerDown',OnPointerDown)

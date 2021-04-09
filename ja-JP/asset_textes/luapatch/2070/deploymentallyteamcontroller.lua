@@ -20,5 +20,11 @@ local Complete = function(self)
 	self:Complete();
 end
 
+local OnPointerDown = function(self,eventData)
+	self:OnPointerDown(eventData);
+	CS.DeploymentAllyTeamController.time = -1;
+end
+
 util.hotfix_ex(CS.DeploymentAllyTeamController,'Complete',Complete)
+util.hotfix_ex(CS.DeploymentAllyTeamController,'OnPointerDown',OnPointerDown)
 

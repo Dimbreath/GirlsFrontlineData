@@ -1,122 +1,122 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><SE1>Heartbeat</SE1>:在一片黑暗中，FNC紧张地捂着嘴，努力让自己一动不动地贴着墙壁。+她仿佛能听到自己心智高强度运转的声音，核心的转动声在胸中鸣响，无论她怎么努力都压制不下去。
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>安静……要保持安静……</color>+<color=#A9A9A9>不能被发现……</color>
-FNFNC(0)<Speaker>？？？？</Speaker>||:我知道你在这里，出来吧。
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>我不在，我不在……我不在这里，快走吧！</color>
-FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:脚步声回响在空荡荡的空间里，时不时传来什么东西被拿起又放回架子上的声音。+这里的另一个人在徘徊着，寻找着隐藏起来的人的身影。
-FNFNC(0)<Speaker>？？？？</Speaker>||<SE1>Heartbeat</SE1>:你打定主意要躲我了，是不是？+甚至连电闸都拉掉了……但是，这是没有用的。+我会找到你。
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>只要我保持安静，你就抓不到我……可是不行了，我已经快坚持不住了……</color>
-FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:一步，两步，三步，那个人靠近了FNC藏身的地方。
-FNFNC(0)<Speaker>？？？？</Speaker>||:发 现 你 了。
-FNFNC(0)<Speaker>FNC</Speaker>||:哇啊啊啊啊啊啊啊啊！！
-FNFNC(0)<Speaker>？？？？</Speaker>||<黑屏1><SE1>AVG_lifttable</SE1>:什么，等等……哇啊！
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:另一边。
-APS(0)<Speaker>斯捷奇金</Speaker>||<BGM>m_avg_casual</BGM>:刚刚有很大的动静啊，好像货架倒下了。+要不然我们还是去看看吧？说不定有很值得一看的场景呢。
-APS(0)<Speaker>指挥官</Speaker>||:的确让人不安，我们去看看吧。
-()<Speaker>马卡洛夫的声音</Speaker>||:不用你这样“好心”地看热闹了，斯捷奇金。+一切都在可控范围内，指挥官，请稍等。
-()<Speaker>指挥官</Speaker>||<黑点1>:那就交给你了，马卡洛夫。
-()<Speaker></Speaker>||<黑点2><BIN>8</BIN>:片刻后，衣着有些凌乱的马卡洛夫拖着瘫软的FNC来到了指挥室。
-FNFNC(0)<Speaker>FNC</Speaker>||:呜呜……呜呜，指挥官……我全都招，请不要这么对我……
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:哇喔，看不出马卡洛夫是会动用私刑的人呢。+好过分啊，现在给我一笔封口费的话我就不把这件事传出去哦？
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:如果人形能被人类的法律保护，我现在就起诉你诽谤，要求巨额精神损失费赔偿。
-FNFNC(0);PM(0)<Speaker>指挥官</Speaker>||:马卡洛夫，发生了什么？
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:……一点意外。我已经摆平了，不用担心。+FNC也没有受伤，现在可以问她的情况了。
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:呜……我知道错了，那天的事是我做的……+我说……我全都交代！派对的事情，是，是我……是我干的……我……呜……是我怂恿M950A灌醉了指挥官……
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:哦，原来你当时那些话是激我去和指挥官喝酒？
-FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:对不起……M950A，我错了！但……但是……呜呜……我真的没有在指挥官的房间待很久……+我……呜，我放下巧克力就走了呀……
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:原来床头的巧克力是你放的？
-FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:呜呜……你抓着我要我听你唱歌，之后Zas又好像看见我……我以为计划被知道了，就，就放下巧克力跑掉了……
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:……什么啊，这我可不记得。
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:这个也是你？
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:哇——喔！
-FNFNC(0);APS(0)<Speaker>指挥官</Speaker>||:冷静一下，FNC，你知道我们要问什么吗？+那不可能是你做的。
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:诶……可是真的是我做的呀！+马卡洛夫不是因为这个才来抓我的吗？
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:总之可以落幕了吧，我们该为FNC和指挥官准备婚礼了。+这么多人形，光是礼金就能收好多吧？指挥官赚大了呢。
-FNFNC(0);APS(0)<Speaker>指挥官</Speaker>||:等等，肯定不是这么回事！FNC，说明你要说的事情！你到底做了什么？
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||<黑屏1>:诶，不是在说巧克力的事吗？
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>83</BIN>:几天前，仓库。
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||<SE1>AVG_amb_wilderness</SE1>:自从数据库更新后，新品指甲油变少了啊。+是设计师灵感枯竭了吗，还是应该改变一下搜索条件……通讯请求？
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Zas，仓库外面这边有奇怪的动静，我好怕，你能不能来一下啊？</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:有奇怪的动静？你是说什么，虫子还是敌人？
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:<color=#00CCFF>我不知道呀，Zas，救救我！我不敢动！</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……你等我一下，我这就来了。
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑点1>:<color=#00CCFF>拜托你了，Zas！</color>
-()<Speaker></Speaker>||<黑点2><BIN>83</BIN>:在Zas走出去一段距离后，通讯再度接入了。
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||:<color=#00CCFF>啊，奇怪的动静消失了！谢谢你，Zas！</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:什么？
-ZastavaM21(0)<Speaker></Speaker>||:通讯挂断。
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||:真是奇怪……
-ZastavaM21(0)<Speaker></Speaker>||:她自言自语着重新回到仓库门口坐下，然而莫名的不安感却纠缠着她。
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||<黑屏1>:<color=#A9A9A9>不对……这一切都不正常。</color>+<color=#A9A9A9>比起惊吓，FNC更像是要把我从门前引开。</color>+<color=#A9A9A9>她会这么做吗？如果是的话，她该不会是想……</color>
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>88</BIN>:与此同时，仓库内。
-FNFNC(0)<Speaker>FNC</Speaker>||<BGM>BGM_Brain</BGM>:Zas还真是好骗，精英人形也不过如此嘛。+让我看看，最新的口粮放在哪里~+按照货号来看，这个架子不是，这里也不是……啊！多么浓郁的巧克力香味，就是这里！
-FNFNC(0)<Speaker></Speaker>||:FNC踮起脚尖，从储物架上每一样都拿下了几包。
-FNFNC(0)<Speaker>FNC</Speaker>||:好多新口味啊，全都想吃……唔，那就都打开尝一口好了。+反正只要没人发现，我可以偷偷地把这些放在我的配给口粮里……
-FNFNC(0)<Speaker></Speaker>||<BIN>89</BIN>:仓库的大门猛然被打开了。
-FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:……
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||:别躲着了，FNC。你在这里吧？
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:…………
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:我闻到巧克力的香味了。+我早该知道，你这家伙会突然向我求助，就是盯上了这里的巧克力。
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:……
-ZastavaM21(0)<Speaker></Speaker>;FNFNC(0)||<SE1>AVG_weapon_reload</SE1>:Zas慢步走到FNC藏身的集装箱边。+一秒后，FNC听见了枪械上膛的声音。
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:你真的不出来吗？入室盗窃拒不伏法，我可以把你……
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:<color=#A9A9A9>指挥官不会怪我的，送过去只要撒个娇就可以逃过啦！我才不出去呢，会被骗出去的都是傻子。</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……送到M870和FP6那里去。
-ZastavaM21(0);FNFNC(0)<Speaker></Speaker><Shake>||:FNC一个激灵，吓得跳了起来。+被拆开包装的巧克力从她裙摆上滑落下去，哗啦啦掉了一地。
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:我错了真对不起Zas请不要这么做我承认是我的问题！请把我送到指挥官那里去吧！
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……你拿了这么多？
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:因为看起来都很好吃，所以都想尝尝看嘛……+每样都只拿了一个，也都只吃了一口……
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:你不是第一次这么做了，为什么总是干这种事？
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:我就是很喜欢巧克力……拜托，Zas，别把我送到她们俩那里去，我会被折腾得很惨的！
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:唉……我问问指挥官的想法吧。格琳娜小姐在吗？我是Zas M21，FNC在仓库偷吃，指挥官……指挥官不想见她？我明白了，那就按一般程序处理。
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑屏1>:指挥官……不想见我？
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:FNC结束了叙述。
-()<Speaker>指挥官</Speaker>||<BGM>m_avg_casual</BGM>:只是这样吗？
-FNFNC(0)<Speaker>FNC</Speaker>||:因为您没有见我……平时多少都会说我两句的，我以为您彻底对我失望了……+这样下去，说不定我会被赶出格里芬的！所以，所以我就想采取一点行动来争取见到您的机会……
-FNFNC(0)<Speaker>指挥官</Speaker>||:且不说格里芬不会因为你偷吃就赶你走……算了。你做了什么？
-FNFNC(0)<Speaker>FNC</Speaker>||:因为，因为害怕嘛。+我就和M950A说，优秀的人形酒量也很优秀，如果连指挥官都灌不醉的话，怎么能称作精英人形……
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:原来如此，这就是M950A那天一反常态喝醉了的原因。
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:只有这样我才敢进指挥官的房间嘛……万一指挥官还清醒着先训斥我的话，我就没有勇气继续道歉了……对不起，指挥官……
-FNFNC(0)<Speaker>指挥官</Speaker>;PM(0)||:没关系……应该没关系吧。+你说的“是我做的”，就是指这些吗？
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:还，还有……我知道Zas发现我了！+当时我咬过的巧克力都被没收了，但其实还有一块，我想着要是能交给您的话，是不是就能证明认错态度很诚恳了……所以我就趁着派对还没有结束，悄悄地溜进您的房间把巧克力放下了。
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:哎呀，果然Zas说的那个裙子的主人是你？+她真够敏锐的呢。
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:不然我们也不会被她抓住教训得这么惨了。
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:哼，这件事我记下了。+不过，FNC呀。我很感谢你会这样坦诚地交代自己做过的事，不过我们关心的可不是这个哦？
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:啊？不是这个吗？+我听说你们在查进入指挥官房间的人形……
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:的确在查这个，但各方的证据都证明不会是你。+昨晚有不少人进过指挥官的房间，在晚上十一点半监控系统维护结束后，斯捷奇金在监控里捕捉到了这个。
-FNFNC(0);PM(0)<Speaker></Speaker>||:马卡洛夫拿出一张照片。+似乎是监控截图，画质不算很高。画面中的窗帘拉得紧紧的，上面投出一个纤细窈窕的长发女性身影。
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:诶……没见过的人啊。
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:你没有见到类似的人在指挥官的房间里吗？
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:没有。我进去的时候房间里只有我一个人。
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:谢谢配合，这件事与你无关了。
-FNFNC(0)<Speaker>FNC</Speaker>||:那……那个，指挥官？
-FNFNC(0)<Speaker>指挥官</Speaker>||:辛苦你了，FNC……
-FNFNC(0)<Speaker>FNC</Speaker>||:……不要啊！！
-FNFNC(0)<Speaker>指挥官</Speaker>||:啊？
-FNFNC(0)<Speaker>FNC</Speaker>||:请不要辞退我！我保证以后会尽量不盯着巧克力，会更努力地工作，分到多少巧克力就吃多少巧克力，绝对不因为分量太少就去仓库偷偷摸摸！+我也不会去厨房里缠着G36多要两份巧克力冰淇淋，也不会因为89式人好就拿走她的巧克力配给，春田那边的热可可我也会少点几杯的！
-FNFNC(0)<Speaker>指挥官</Speaker>||:……
-FNFNC(0);PM(0)<Speaker>马卡洛夫</Speaker>||:……
-FNFNC(0);APS(0)<Speaker>斯捷奇金</Speaker>||:劣迹斑斑呢。
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:我知道错了……
-FNFNC(0)<Speaker>指挥官</Speaker>;APS(0)||:安心吧，FNC。那天我只是真的很忙，没有别的意思。
-FNFNC(0)<Speaker>FNC</Speaker>||:不是讨厌我？
-FNFNC(0)<Speaker>指挥官</Speaker>||:不是。但是你也的确不能再去偷吃了，仓库的配给都是划分好的，就算你吃的是自己的那份，战场上也会因此缺少一份补给，这可能是致命的。
-FNFNC(0)<Speaker>FNC</Speaker>||:我知道了……指挥官没有讨厌我，真是太好了！
-FNFNC(0)<Speaker>指挥官</Speaker>||:安心吧，我没有讨厌你。
-FNFNC(0)<Speaker>FNC</Speaker>||:最喜欢指挥官了！之后我会准备最好的惊喜给你的，请期待吧！
-()<Speaker></Speaker>||<黑屏1>:得到答案的FNC蹦蹦跳跳地离开了。+指挥官长舒了一口气，继续面对马卡洛夫和斯捷奇金等人的推理。
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>97</BIN>:几天后的傍晚，身心俱疲的我跨出了大厅。+虽然事情顺利结束了，但卡尔走的时候看起来很生气，我要怎么样才能获得她的谅解呢？如果她愿意见我的话，也许我该去找她谈谈……
-()<Speaker>？？？</Speaker>||<震屏>:Surprise！
-()<Speaker>指挥官</Speaker>||<BGM>BGM_Hello</BGM>:哇啊！
-FNFNC(4)<Speaker>FNC</Speaker>||:嘿嘿，指挥官在想什么呢，这么出神？
-FNFNC(4)<Speaker>指挥官</Speaker>||:呃……也没什么重要的事。+FNC，你怎么也……今天的活动名单上没有你吧？
-FNFNC(4)<Speaker>FNC</Speaker>||:嘻嘻，我说过要给指挥官一个惊喜的嘛！+卡诺说婚纱还剩很多，我就请她陪我挑了一件！
-FNFNC(4)<Speaker>指挥官</Speaker>||:啊……这样吗？很好看，这件婚纱很衬你。
-FNFNC(4)<Speaker>FNC</Speaker>||:太好了！人类穿婚纱是要结婚的意思，对吧指挥官？
-FNFNC(4)<Speaker>指挥官</Speaker>||:的确。所以FNC也要和谁结婚了吗？
-FNFNC(4)<Speaker>FNC</Speaker>||:我想和指挥官结婚！不是誓约，是真正的结婚！+我要做我最喜欢的指挥官的新娘，和指挥官相伴一生，分享所有的食物和战果，还有很多很多的巧克力，都先给你吃。+好不好，指挥官？
-FNFNC(4)<Speaker>指挥官</Speaker>||:嗯……这个……+比起这个，我有一点很好奇。
-FNFNC(4)<Speaker>FNC</Speaker>||:哪一点呀？
-FNFNC(4)<Speaker>指挥官</Speaker>||:FNC，你说要先给我吃，但你手里的那块蛋糕……+是不是被咬过了？
-FNFNC(4)<Speaker>FNC</Speaker>||:……+啊，那个，这个，一不小心就……+因为蛋糕实在是太好吃了……对不起！我下次换一块蛋糕再来！
-FNFNC(4)<Speaker></Speaker>||<黑屏1>:在惊慌失措之中，她抓起裙摆逃跑了。望着她逃走的背影，我忍不住笑出了声。+这件事应该就到此为止了吧……也许？
+()||<黑屏2><SE1>Heartbeat</SE1>:一面真っ暗闇の中、FNCは口元を手で押さえながら、//n壁に張り付いたまま身体を懸命に静止させていた。+胸の中から響いてくる音は強さを増すばかりで、//n静めようにも静まる気配は一向にない。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:<color=#A9A9A9>静かに……静かにしなきゃ……</color>+<color=#A9A9A9>見つかっちゃいけない……</color>
+FNFNC(0)<Speaker>？？？？</Speaker>||:そこにいるのは分かってるのよ、出てきなさい。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:<color=#A9A9A9>いないったらいない……いないから早く行って！</color>
+FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:歩く音が空っぽな空間でこだましていた。//n何かを持ち上げたり元に戻す音も時々聞こえてくる。+ここにいるもう一人の人物が、//n隠れている人影を見つけんと部屋の中を徘徊しているのだ。
+FNFNC(0)<Speaker>？？？？</Speaker>||<SE1>Heartbeat</SE1>:私から逃げる気？+ブレーカーまで切ってるけど……そんなの意味ないわよ。+そのうち見つかるんだから。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:<color=#A9A9A9>静かにしていれば見つからない……でも、もう我慢できなぃ……</color>
+FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:一歩、二歩、三歩。例の人影がFNCの隠れているところに近づいた。
+FNFNC(0)<Speaker>？？？？</Speaker>||:み つ け た わ よ 。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:うわぁぁあああああ！！
+FNFNC(0)<Speaker>？？？？</Speaker>||<黑屏1><SE1>AVG_lifttable</SE1>:なっ、待って……きゃあっ！
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:一方。
+APS(0)<Speaker>スチェッキン</Speaker>||<BGM>m_avg_casual</BGM>:いま大きな物音がしなかった？棚でも倒れたのかな。+ねえねえ、見に行かない？面白いものが見れるかもしれないよ。
+APS(0)<Speaker>指揮官</Speaker>||:心配なのは確かだ、一緒に見に行こう。
+()<Speaker>マカロフの声</Speaker>||:ウキウキで見に行くほどのものでもないわ、スチェッキン。+大ごとではないだろうから私が見に行ってくる。指揮官、少し待たせますね。
+()<Speaker>指揮官</Speaker>||<黑点1>:なら君に任せるよ、マカロフ。
+()<Speaker></Speaker>||<黑点2><BIN>8</BIN>:しばらくして、衣服の乱れたマカロフが、//nぐったりしているFNCを引きずって司令室へと戻ってきた。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:うぅ……うぅ、指揮官さま、全部話しますからどうか……
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:わお、マカロフが私刑を働くタイプだったなんて。+ちょっと度が過ぎるんじゃない？//n口止め料をくれたら黙ってあげないこともないけど。
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:人形にも人間の法律が適用されるなら、多額の慰謝料を請求して//nあなたの誹謗中傷を訴えていたところだったわ。
+FNFNC(0);PM(0)<Speaker>指揮官</Speaker>||:マカロフ、何が起きたの？
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:……ちょっとね。でも片はもうついたから安心してください。+FNCも無傷ですし、今なら彼女に事情を聞けますよ。
+FNFNC(0)<Speaker>FF FNC</Speaker>;PM(0)||:うぅ……あの日のことは私がやりました、私が悪かったです……+全部……全部言います！パーティーのことは、ことは……私が……//n私が……うぅ……M950Aに指揮官を酔わせるよう仕向けたんです……
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:あ～、それが狙いであんなこと言ってたのか。
+FNFNC(0)<Speaker>FF FNC</Speaker>;M950A(0)||:ごめんなさい……M950A、私が間違ってた！で……でも……うぅ……指揮官さまの部屋に長居しなかったのは事実だよ……+私……うぅっ、チョコレートを置いた後はすぐに出て行ったし……
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:枕元のチョコレートはあんたのだったんだ？
+FNFNC(0)<Speaker>FF FNC</Speaker>;M950A(0)||:うぅ……歌を私に聞かそうとしたM950Aに捕まった後、Zasが//nこっちを見ていることに気付いて……私の計画がバレちゃったのかなって//n勘違いしちゃったんだ。そ、それでチョコレートを置いて逃げたの……
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:……え、覚えてないんだけど。
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:それもあなただったの？
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:わ～～～おっ！
+FNFNC(0);APS(0)<Speaker>指揮官</Speaker>||:落ち着いて、FNC。//n君は私たちが何を聞こうとしていたのか分かっていたのかい？+ならきっと君のせいではないな。
+FNFNC(0)<Speaker>FF FNC</Speaker>;APS(0)||:へ？……やったのは本当に私だよ！+だからマカロフも私を捕まえたんじゃないの？
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:もうお終いでいいんじゃない？//nFNCと指揮官のために結婚式の準備をするべきだよ。+こんなにたくさん人形がいたら、礼金だけでもガッポリ手に入りそう。//n指揮官、大儲けだね。
+FNFNC(0);APS(0)<Speaker>指揮官</Speaker>||:待ってくれ、どうしてそうなる！//nFNC、ハッキリ事情を説明してくれ！一体なにをしたんだい？
+FNFNC(0)<Speaker>FF FNC</Speaker>;APS(0)||<黑屏1>:え、チョコレートのことじゃないの？
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>83</BIN>:数日前、倉庫にて。
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||<SE1>AVG_amb_wilderness</SE1>:データベースが更新されてから、新作のマニキュアが減ってる。+デザイナーのアイデアが枯れたのかしら。//nここは一度検索条件を変えて……ん、通信請求？
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Zas、倉庫の外から変な物音がするよぉ。怖いから、来てもらえない？</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:変な物音？なにを言ってるの。虫？それとも敵？
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:<color=#00CCFF>わかんない。けどZas、助けて！動けない！</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……ちょっとだけ待ってて。今行くわ。
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<黑点1>:<color=#00CCFF>お願いね、Zas！</color>
+()<Speaker></Speaker>||<黑点2><BIN>83</BIN>:Zasがある程度向かったところで、通信がもう一度入ってきた。
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||:<color=#00CCFF>あ、変な物音消えちゃった！ありがとね、Zas！</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:え？
+ZastavaM21(0)<Speaker></Speaker>||:通信切断。
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||:おかしいわね……
+ZastavaM21(0)<Speaker></Speaker>||:彼女は一人ごちながら、もう一度倉庫の入口へ戻り腰を落としたが、//n得体のしれぬ不安感に苛まれた。
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||<黑屏1>:<color=#A9A9A9>いいえ……やっぱりおかしいわ。</color>+<color=#A9A9A9>驚かせるというより、私を門から引き離そうとしていた印象だった。</color>+<color=#A9A9A9>そうなら、彼女もしかすると……</color>
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>88</BIN>:一方その頃、倉庫内では。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BGM>BGM_Brain</BGM>:Zasってばすぐ騙されちゃって、エリート人形もこの程度かぁ。+どれどれ～、新しい配給はどこかな～？+番号から見るに、こっちの棚じゃないし、こっちでもないなあ……//nあっ！チョコレートのいい匂いだ！ってことはここだぁ！
+FNFNC(0)<Speaker></Speaker>||:FNCはつま先立ちで、物置棚からあらゆる種類のお菓子を取り出した。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:新しい味がいっぱいだぁ、全部食べたいな……//nよし、じゃあ全部開けて食べ比べしよう。+どうせ誰もいないんだし、こっそり私の配給入れに入れて……
+FNFNC(0)<Speaker></Speaker>||<BIN>89</BIN>:倉庫の門が突如開いた。
+FNFNC(0)<Speaker>FF FNC</Speaker>||<SE1>Heartbeat</SE1>:……
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||:隠れるのはやめさない、FNC。ここにいるのよね？
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:…………
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:チョコレートの匂いがする。+ここのチョコレートが目当てで私に助けを求めたことは、もう分かってるわよ。
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:……
+ZastavaM21(0)<Speaker></Speaker>;FNFNC(0)||<SE1>AVG_weapon_reload</SE1>:ZasはゆっくりとFNCの隠れているコンテナのそばまで//nゆっくりと歩いた。+一秒後、FNCは銃に弾がこめられる音を耳にした。
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:出てこない気？窃盗の罰を拒むようなら……
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<SE1>Heartbeat</SE1>:<color=#A9A9A9>指揮官さまのところに連れて行っても無駄だよ！ちょっと甘えればすぐ見逃してくれるもん！騙されるほうが悪いんだ！</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……M870とFP6のところに送るわよ。
+ZastavaM21(0);FNFNC(0)<Speaker></Speaker><Shake>||:FNCはビクッとし、その拍子にスカートの上に広げていた//n開封済みのチョコレートを、床にこぼしてしまった。
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:ごめんなさいZas、私が間違ってた！//nどうか私を指揮官さまのところに連れてって！
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:……こんなにたくさん持ってたの？
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:美味しそうだったからつい全部食べたくなったの……+全部一口ずつ食べちゃった……
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:あなた、これが初犯ではないんでしょ？//nどうしていつもこんなことするのよ……
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:チョコレートが大好きなんだもん……お願いZas、//nあの二人の下には連れてかないで！連れていかれたらどうなることか！
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:はぁ……指揮官次第ね。+カリーナさんいますか？Zas M21です、FNCが倉庫で盗み食いを//n働いていたので指揮官に……指揮官は会えないと？//nわかりました、では、一般プログラムにて処理します。
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<黑屏1>:指揮官さま……私に会いたくないの？
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:FNCの供述が終わる。
+()<Speaker>指揮官</Speaker>||<BGM>m_avg_casual</BGM>:それだけなの？
+FNFNC(0)<Speaker>FF FNC</Speaker>||:会ってくれなかったし……これまでも一言二言くらいしか//n喋ってくれなかったから、完全に見捨てられたのかと……+このままじゃグリフィンを追い出されるかもしれないって！//nだから、だからどうにかして指揮官さまに会おうと思ったの……
+FNFNC(0)<Speaker>指揮官</Speaker>||:盗み食いを働いたくらいじゃ、グリフィンは//n君を追い出したりしないよ……まあいい、なにをしたんだい？
+FNFNC(0)<Speaker>FF FNC</Speaker>||:こ、怖かったんだもん。+M950Aには、優秀な人形はお酒にも強いんだから指揮官さまを//n酔わせられなきゃエリート人形とは呼べないよねって話して……
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:なるほど、いつもは酔わないM950Aが酔ったのはそのためか。
+FNFNC(0)<Speaker>FF FNC</Speaker>;PM(0)||:そうでもしないと指揮官さまの部屋に入れないと思ったから……//nもし指揮官が起きてて、先に叱られたら、//n謝る勇気は出なかったかもしれない……ごめんなさい、指揮官……
+FNFNC(0)<Speaker>指揮官</Speaker>;PM(0)||:大丈夫さ……大丈夫だよきっと。+君が言っていた「私のやったこと」というのがそれなの？
+FNFNC(0)<Speaker>FF FNC</Speaker>;PM(0)||:そ、それと……Zasに見つかった時！+齧ったチョコレートを全部没収されたんだけど、//n実は一個だけ持ってたから、//n指揮官に返せば反省の色を見せたことになると思って……+パーティーが終わらないうちに、//nこっそり指揮官の部屋にチョコレートを置いたの。
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:Zasが言ってたフリルのスカートを履いた人形って、//nやっぱりアナタのことだったんだ？+鋭いね、彼女。
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:そうじゃなきゃ、彼女に捕まってここまでコテンパンに//n説教されてなかったでしょうね。
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:この件のことは書き留めておこう。+でもねFNC、アナタが自分のやったことを//n赤裸々に語ってくれたことには感謝するけど、//nワタシたちの気になってたことってそれではないんだよね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;APS(0)||:え？違うの？+指揮官の部屋に入った人形をあなたたちが探してるって聞いてたけど……
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:探していたのは確かよ、//nでも数々の証拠があなたではなかったことを証明してる。+昨晩、少なくない人数が指揮官の部屋を訪れてたけど、//nスチェッキンが捉えたのは、//n夜11時半、監視システムのメンテナンスが終わった後の話なの。
+FNFNC(0);PM(0)<Speaker></Speaker>||:マカロフは一枚の写真を取り出した。+監視映像のスクリーンショットのようだが、鮮明ではない。//nきつく閉じられたカーテンの上に、//n華奢で髪の長い女性の影が映し出されていた。
+FNFNC(0)<Speaker>FF FNC</Speaker>;PM(0)||:え……見たことない人だね。
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:これに似た人を指揮官の部屋で見なかった？
+FNFNC(0)<Speaker>FF FNC</Speaker>;PM(0)||:ないなあ。私が入った時は私しかいなかったよ。
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:協力感謝するわ。あなたはこの件とは無関係であることがわかった。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:え……えっと、指揮官さま？
+FNFNC(0)<Speaker>指揮官</Speaker>||:おつかれさま、FNC……
+FNFNC(0)<Speaker>FF FNC</Speaker>||:……待ってぇ！
+FNFNC(0)<Speaker>指揮官</Speaker>||:へ？
+FNFNC(0)<Speaker>FF FNC</Speaker>||:解雇だけはどうか！もうチョコを狙ったりしません、//n仕事だって頑張ります、チョコレートも配られた分しか食べませんし、//n少ないからってこっそり倉庫に入ることも絶対にしません！+キッチンのG36にチョコレートアイスをせびることも、人がいいからって//n89式からチョコを分捕ることも、スプリングフィールドの所の//nホットチョコレートを飲む量も減らしますからぁ！
+FNFNC(0)<Speaker>指揮官</Speaker>||:……
+FNFNC(0);PM(0)<Speaker>マカロフ</Speaker>||:……
+FNFNC(0);APS(0)<Speaker>スチェッキン</Speaker>||:悪事のオンパレードだね。
+FNFNC(0)<Speaker>FF FNC</Speaker>;APS(0)||:私が悪かったです……
+FNFNC(0)<Speaker>指揮官</Speaker>;APS(0)||:安心して、FNC。//nあの日は本当に忙しかっただけで特に深い意味はないんだ。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:私が嫌になったわけじゃないの？
+FNFNC(0)<Speaker>指揮官</Speaker>||:うん。だけど盗み食いはやめておこうね。食べていいのは自分の分だけ。//n倉庫の配給はとても綿密に計画されてるから、//n不足が出てしまうと致命的な状況に陥ることだってあるんだ。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:分かりました……指揮官さまが嫌いになったんじゃないなら良かった！
+FNFNC(0)<Speaker>指揮官</Speaker>||:嫌いになることはないから、安心して。
+FNFNC(0)<Speaker>FF FNC</Speaker>||:指揮官さま大好き！今度最高のサプライズをプレゼントするから、期待してて！
+()<Speaker></Speaker>||<黑屏1>:答えを得たFNCは飛び跳ねながら去っていった。+指揮官は大きなため息をつくと、マカロフとスチェッキンの推理に戻った。
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>97</BIN>:数日後の夕方、心身共に疲れ果てた私はホールへと足を運んだ。+事は無事収まったが、Karは去り際にひどい憤りを見せていた。//nどうしたら彼女をなだめることができるだろうか？もし彼女が//n私に会いたがっているなら、彼女を探して話をしに行った方が……
+()<Speaker>？？？</Speaker>||<震屏>:サプラーーイズ！
+()<Speaker>指揮官</Speaker>||<BGM>BGM_Hello</BGM>:うわあ！
+FNFNC(4)<Speaker>FF FNC</Speaker>||:えへへ、ぼんやりして、何考えてたんですか指揮官さま？
+FNFNC(4)<Speaker>指揮官</Speaker>||:ああ……なんでもないんだ。+FNC、どうして……今日のイベントリストには君の名前は無かったよね？
+FNFNC(4)<Speaker>FF FNC</Speaker>||:へへっ、サプライズするって言ったじゃないですか！+ウェディングに余りがまだあるってカノが言ってたから、//n選んでもらったんです！
+FNFNC(4)<Speaker>指揮官</Speaker>||:あー……そうだったんだ？綺麗だね、とってもよく似合ってるよ。
+FNFNC(4)<Speaker>FF FNC</Speaker>||:やったーー！人間がウェディングドレスを着るのって、//n結婚を意味するんだよね指揮官？
+FNFNC(4)<Speaker>指揮官</Speaker>||:そうだよ、FNCも誰かと結婚したいの？
+FNFNC(4)<Speaker>FF FNC</Speaker>||:私、指揮官さまと結婚します！誓約じゃなくて、ちゃんとした結婚！+指揮官さまの一番愛するお嫁さんになって、一生を共にして、//n戦果も食べ物もたくさんのチョコレートも分け合って、//n全部先に指揮官に食べさせてあげます。+いいですか、指揮官さま？
+FNFNC(4)<Speaker>指揮官</Speaker>||:ええっと……その……+それよりも、気になることがあるんだ。
+FNFNC(4)<Speaker>FF FNC</Speaker>||:なんですか？
+FNFNC(4)<Speaker>指揮官</Speaker>||:FNC、さっき私に先に食べさせると話していたけど、//n君の手にあるケーキ……+既に齧られてるよね？
+FNFNC(4)<Speaker>FF FNC</Speaker>||:……+ああっ、えっと、これは、ついうっかり……+だって、ケーキ美味しいんだもん……ごめんなさい！//n今度ケーキをまた用意し直しますから！
+FNFNC(4)<Speaker></Speaker>||<黑屏1>:ドレスの裾を掴みながら、彼女は慌てふためき去ってしまった。//n逃げる彼女の背中を見ていた私は、堪え切れず思わずふき出した。+今回の件はこれにて一件落着……と呼べるだろうか？
