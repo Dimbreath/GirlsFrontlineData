@@ -12,4 +12,14 @@ local ShowRewardListItem = function(self,content,condition)
 	end
 	self:ShowRewardListItem(content,condition);
 end
+
+local Show = function(self,delay)
+	self:Show(delay);
+	if CS.SpecialActivityController.Instance ~= nil and not CS.SpecialActivityController.Instance:isNull() then
+		local canvas = self.transform:GetComponent(typeof(CS.UnityEngine.Canvas));
+		canvas.planeDistance = 0.05;
+	end
+end
+
 util.hotfix_ex(CS.CommonMessageBoxController,'ShowRewardListItem',ShowRewardListItem)
+util.hotfix_ex(CS.CommonMessageBoxController,'Show',Show)

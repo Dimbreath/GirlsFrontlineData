@@ -31,8 +31,15 @@ local InitSpots = function(self)
 		end
 		self.containerBackground.transform:Find("Static").gameObject:SetActive(true);
 	end
+	CS.OPSPanelProcessItem.canmapmove = true;
+end
+
+local ShowAllMission = function(self)
+	CS.OPSPanelProcessItem.canmapmove = true;
+	self:ShowAllMission();
 end
 util.hotfix_ex(CS.OPSPanelController,'ShowContainerReturn',ShowContainerReturn)
 util.hotfix_ex(CS.OPSPanelController,'ReturnContainer',ReturnContainer)
 util.hotfix_ex(CS.OPSPanelController,'InitSpots',InitSpots)
+util.hotfix_ex(CS.OPSPanelController,'ShowAllMission',ShowAllMission)
 

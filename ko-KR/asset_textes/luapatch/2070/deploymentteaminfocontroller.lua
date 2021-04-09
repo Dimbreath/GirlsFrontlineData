@@ -8,9 +8,11 @@ end
 
 local CheckTeamSpineShow = function(self,show)
 	self:CheckTeamSpineShow(show);
-	local otherlimit = CS.DeploymentTeamInfoController.currentSelectedSpot ~= nil and CS.DeploymentTeamInfoController.currentSelectedSpot.currentTeam == nil;
-	local teamlimit = CS.GameData.currentSelectedMissionInfo.sangvisLimitTeam > 0 or CS.GameData.currentSelectedMissionInfo.totalTeamLimit >0;
-	self.deployNumTip.gameObject:SetActive(show and teamlimit and otherlimit);
+	local sangvis = self.sangvisTransform.gameObject.activeSelf;
+	self:ShowCurrentTeamNum(sangvis);
+	if not show then
+		self.deployNumTip.gameObject:SetActive(false);
+	end
 end
 
 util.hotfix_ex(CS.DeploymentTeamInfoController,'CheckTeamSpineShow',CheckTeamSpineShow)
