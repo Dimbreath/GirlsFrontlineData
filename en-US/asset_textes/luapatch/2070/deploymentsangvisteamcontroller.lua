@@ -8,4 +8,10 @@ local Complete = function(self,Complete)
 	end
 end
 
+local OnPointerDown = function(self,eventData)
+	self:OnPointerDown(eventData);
+	CS.DeploymentSangvisTeamController.time = -1;
+end
+
 util.hotfix_ex(CS.DeploymentSangvisTeamController,'Complete',Complete)
+util.hotfix_ex(CS.DeploymentSangvisTeamController,'OnPointerDown',OnPointerDown)

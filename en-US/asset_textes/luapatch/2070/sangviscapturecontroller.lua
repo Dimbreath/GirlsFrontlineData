@@ -3,6 +3,7 @@ xlua.private_accessible(CS.SangvisCaptureController)
 xlua.private_accessible(CS.SangvisChangeMallData)
 xlua.private_accessible(CS.RequestExchangeMallList)
 xlua.private_accessible(CS.GameData)
+xlua.private_accessible(CS.SanvisCaptureDynamicEventInfo)
 
 local listSangvisTempMall = CS.System.Collections.Generic.List(CS.SangvisChangeMallData)()
 
@@ -54,6 +55,38 @@ local mySuccessHandleData = function(self, www)
 	end
 	self:SuccessHandleData(www);
 end
-
+local myCaptureSangvisVip = function(self, num)
+	self.vipCaptureNum = num
+	self.tempVipCapture = num
+	if CS.GameData:IsSangvisBedCountEnough() == false and self.currentCaptureGasha.id ~= CS.UserRecord.sangvisGashaId then
+		return;
+	end
+	if(self.currentCaptureGasha.id == CS.UserRecord.sangvisGashaId) then
+		self:CaptureSangvisVip(num);
+	else
+		local times = CS.GameData:GetCurrentTimeStamp();
+		local isExist = false;
+		for i = 0, CS.GameData.sangvisDynamicEventInfoList.Count-1 do
+			local s = CS.GameData.sangvisDynamicEventInfoList[i];
+			if s.sangvisGashaIdList:Contains(self.currentCaptureGasha.id) and s.end_time > times and s.start_time < times and s.isAuthor then
+				isExist = true;
+				break;
+			end
+		end
+		if isExist == true then
+			self:CaptureSangvisVip(num);
+		else
+			 if CS.SangvisGashaponDrawBoxController.Instance ~= nil and CS.SangvisGashaponDrawBoxController.Instance.freeTokenObj.activeSelf then
+				CS.CommonController.MessageBox(CS.Data.GetLang(260142), function() 
+					CS.CommonController.GotoScene("Home");
+				end)
+			 else
+				self:CaptureSangvisVip(num);
+			 end
+		end
+	end
+	
+end
+util.hotfix_ex(CS.SangvisCaptureController,'CaptureSangvisVip',myCaptureSangvisVip)
 util.hotfix_ex(CS.SangvisCaptureController,'ControlExchangeShop',myControlExchangeShop)
 util.hotfix_ex(CS.RequestExchangeMallList,'SuccessHandleData',mySuccessHandleData)

@@ -442,33 +442,33 @@
         },
         {
             "id": "45",
-            "type": "operation_big_success",
-            "count": "3",
+            "type": "upgrade",
+            "count": "1",
             "prize_id": "10091",
-            "title": "后勤大成功",
-            "content": "累计后勤大成功3次",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能1次",
             "function_control_id": "0",
-            "carnival_type_id": "67"
+            "carnival_type_id": "12"
         },
         {
             "id": "46",
-            "type": "operation_big_success",
-            "count": "5",
+            "type": "upgrade",
+            "count": "3",
             "prize_id": "10086",
-            "title": "后勤大成功",
-            "content": "累计后勤大成功5次",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能3次",
             "function_control_id": "0",
-            "carnival_type_id": "67"
+            "carnival_type_id": "12"
         },
         {
             "id": "47",
-            "type": "operation_big_success",
-            "count": "10",
+            "type": "upgrade",
+            "count": "5",
             "prize_id": "10087",
-            "title": "后勤大成功",
-            "content": "累计后勤大成功10次",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能5次",
             "function_control_id": "0",
-            "carnival_type_id": "67"
+            "carnival_type_id": "12"
         },
         {
             "id": "48",
@@ -562,33 +562,33 @@
         },
         {
             "id": "57",
-            "type": "consume_voucher",
-            "count": "50",
+            "type": "consume_mp",
+            "count": "10000",
             "prize_id": "10086",
-            "title": "校准点券",
-            "content": "累计消耗校准点券*50",
+            "title": "人力消耗",
+            "content": "累计消耗人力*10000",
             "function_control_id": "0",
-            "carnival_type_id": "19"
+            "carnival_type_id": "38"
         },
         {
             "id": "58",
-            "type": "consume_voucher",
-            "count": "100",
+            "type": "consume_mp",
+            "count": "20000",
             "prize_id": "10087",
-            "title": "校准点券",
-            "content": "累计消耗校准点券*100",
+            "title": "人力消耗",
+            "content": "累计消耗人力*20000",
             "function_control_id": "0",
-            "carnival_type_id": "19"
+            "carnival_type_id": "38"
         },
         {
             "id": "59",
-            "type": "consume_voucher",
-            "count": "300",
+            "type": "consume_mp",
+            "count": "30000",
             "prize_id": "10088",
-            "title": "校准点券",
-            "content": "累计消耗校准点券*300",
+            "title": "人力消耗",
+            "content": "累计消耗人力*30000",
             "function_control_id": "0",
-            "carnival_type_id": "19"
+            "carnival_type_id": "38"
         },
         {
             "id": "60",

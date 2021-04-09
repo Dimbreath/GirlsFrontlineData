@@ -1206,11 +1206,11 @@ gun-10000299,HSM10
 gun-40000299,狂気の君//c木戸衣吹//c
 gun-50000299,Type                       Bullpup semi-automatic shotgun//nMass                       4.54 kg (10 lbs)//nLength                     660 mm (26 in)//nBarrel length              457 mm (18 in)                           //nCartridge                  12 gauge//nAction                     12 gauge//nEffective firing range     40 m (45 yards)//nFeed system                4+1 tube magazine//c 6+1 with tube extension//nSights                     Fixed; flip-up front//c notched rear
 gun-60000299,
-gun-10000300,
+gun-10000300,CAR
 gun-40000300,潮汐//c//c
 gun-50000300,Type                       Semi-automatic rifle/Light machine gun                           //nMass                       16 lb (7.3 kg)//c unloaded//nLength                     44.5 in (1150 mm)                         //nCartridge                  .303 British//nCalibre                    .303 British//nAction                     Gas-operated semi-automatic//nRate of fire               600 rounds/minute//nMuzzle velocity            2//c440 ft/s (744 m/s)//nEffective firing range     1//c000 yards (910 m)//nMaximum firing range       2//c000 yards (1830 m)//nFeed system                10-round magazine or modified (?) 30-round Bren gun magazine//nSights                     Sliding ramp rear sights//c fixed post front sights
 gun-60000300,
-gun-10000301,
+gun-10000301,MAS-38
 gun-40000301,绘品//c//c
 gun-50000301,Type                       Submachine gun                          //nMass                       4.340 kg (9.57 lb) (empty)//nLength                     630 mm (25 in)//nBarrel length              224 mm (8.82 in)                      //nCartridge                  7.65mm Longue//nCaliber                    7.65mm//nAction                     Off-axis bolt-travel delayed blowback//nRate of fire               600–700 rounds/min//nMuzzle velocity            350 m/s (1//c148 ft/s)//nEffective firing range     100m//nMaximum firing range       200m//nFeed system                32-round detachable box magazine
 gun-60000301,
@@ -1226,15 +1226,15 @@ gun-10000304,
 gun-40000304,染羽//c//c
 gun-50000304,Type                       Submachine gun//nMass                       2.7 kg (5.95 lb)//nLength                     640 mm (25.2 in) stock extended / 410 mm (16.1 in) stock folded//nBarrel length              198 mm (7.8 in)                           //nCartridge                  9×19mm Parabellum//n                           9×19mm Parabellum//nAction                     Blowback//c closed bolt//nRate of fire               1//c300 rounds/min//nEffective firing range     150 m//nFeed system                20- or 30-round detachable box magazine//nSights                     Iron sights//n
 gun-60000304,
-gun-10000305,
+gun-10000305,Tabuk
 gun-40000305,瑶柱菌//c//c
 gun-50000305,Type                       Semi-automatic Sniper rifle//nMass                       4.5kg//nLength                     1110 mm//nBarrel length              600 mm                           //nCartridge                  7.62×39mm//nAction                     Gas operated//nMuzzle velocity            740 m/s//nEffective firing range     300 - 600m//nFeed system                30 round box magazine//nSights                     Telescopic sight and Iron sight
 gun-60000305,
-gun-10000306,
+gun-10000306,AK-Alfa
 gun-40000306,Neco//c//c
 gun-50000306,Type                       Assault rifle//n                           Carbine//nLength                     950mm (for 415 mm barrel) Overall length//n                           685mm (for 415 mm barrel) stock folded//nBarrel length              415 mm (16.3 in)//nCartridge                  5.56x45 NATO//n                           .223 Remington//n                           7.62x39mm M43 Soviet Intermediate Cartridge//nAction                      select-fire//nRate of fire               600-650 RPM//nFeed system                30-round detachable box magazine
 gun-60000306,
-gun-10000307,
+gun-10000307,ZB-26
 gun-40000307,whoisshe//c//c
 gun-50000307,Type                       Light machine gun//nMass                       9.65 kg (21.27 lb)//nLength                     1//c161 mm (45.7 in)//nBarrel length              672 mm (26.5 in)                     //nCartridge                  7.92×57mm Mauser//nAction                     Gas-operated//c tilting breechblock//nRate of fire               500 rounds/min//nMuzzle velocity            764 m/s (2//c507 ft/s)//nEffective firing range     1//c000 m (1//c100 yd)//nFeed system                20- or 30-round detachable box magazine//nSights                     Front blade//c rear leaf sight
 gun-60000307,
@@ -1450,6 +1450,18 @@ gun-10020101,UMP9
 gun-40020101,GINGALA//cMamiko Noto//c
 gun-50020101,Type                       Submachine Gun//n//nWeight                     2.3 kilograms (5.2 lb) //n//nLength                     450 mm (17.7 inches)//c stock folded//n//n                           690 mm (27.2 inches)//c stock extended//n//nBarrel length              200 mm (8 inches)//n//nCartridge                  9×19mm Parabellum //n//nAction                     Blowback//c closed bolt//n//nRate of fire               650 rounds per minute //n//nMuzzle velocity            320 m/s //n//nEffective firing range     100 m//n//nFeed system                30-round detachable box magazine
 gun-60020101,
+gun-10020007,Stechkin
+gun-40020007,春_日_//cEri Kitamura//c
+gun-50020007,Type                       Machine Pistol//n//nWeight                     1.22 kg (2.69 lbs)//n//nLength                     225 mm (8.86 in)//n//nBarrel length              140 mm (5.51 in)//n//nCartridge                  9×18mm Makarov//n//n                           9×19mm Parabellum.//n//nAction                     blowback//n//nRate of fire               750 rounds/minute//n//nMuzzle velocity            340 m/s (9×18mm Makarov)//n//nEffective firing range     50 m (9×18mm Makarov)//n//nMaximum firing range       200 m//n//nFeed system                20-round detachable box magazine
+gun-60020007,
+gun-10020012,C96
+gun-40020012,林檎愛す//cAyaka Itatani//c
+gun-50020012,Type                       Semi-automatic //n//nWeight                     1//c130 g (40 oz)//n//nLength                     312 mm (12.3 in) (pre-Bolo)//n//n                           271 mm (10.7 in) (post-Bolo)//n//nBarrel length              140 mm (5.5 in) (pre-Bolo)//n//n                           99 mm (3.9 in) (post-Bolo)//n//nCartridge                  7.63×25mm Mauser//n//n                           9×19mm Parabellum//n//n                           .45 ACP (China)//n//n                           9 mm Mauser Export (rare)//n//n                           8.15mm Mauser (experimental)//n//n                           8mm Gasser//n//nAction                     Short recoil//n//nMuzzle velocity            425 m/s (1//c394 ft/s)//n//nEffective firing range     150–200m//n//nFeed system                10-round internal magazine fed by //n//n                           stripper clip or removable magazine//n//nSights                     V-notch rear tangent sight adjustable up//n//n                           to 1000 meters//c inverted V front sight
+gun-60020012,
+gun-10020031,M38
+gun-40020031,ALLENES//cHaruka Takahashi//c
+gun-50020031,Type                       Submachine gun//n//nWeight                     MAB 38A: 4.2 kg (empty)//n//n                           MAB 38/42: 3.27 kg (empty)//n//n                           MAB 38/49: 3.25 kg (empty)//n//nLength                     MAB 38A: 946mm//n//n                           MAB 38/42: 800mm//n//n                           MAB 38/49: 798mm//n//nBarrel length              MAB 38A: 315mm//n//n                           MAB 38/42: 213mm//n//n                           MAB 38/49: 210mm//n//nCartridge                  9×19mm Parabellum//n//nAction                     Blowback//n//nRate of fire               600 rpm//n//nMuzzle velocity            429 m/s (1//c407.1 ft/s)//n//nEffective firing range     250 m (273.4 yd)//n//nFeed system                10//c 20//c 30//c or 40-Round Detachable Box Magazine
+gun-60020031,
 gun-10020053,NTW-20
 gun-40020053,RAN//cAi Kayano//c
 gun-50020053,Type                       Anti-materiel rifle//n//nWeight                     31 kg //n//nLength                     1//c795 mm //n//nBarrel length              1//c000 mm//n//nCrew                       Two; rifle breaks down into two parts for //n//n                           transport and fits into two backpacks//n//n                           weighing 15kg each//c one containing the weapon //n//n                           receiver section//c while the other contains the //n//n                           barrel and ammunition//n//nCartridge                  20 × 82mm//n//nAction                     Bolt action//c recoiling barrel//n//nMuzzle velocity            720 m/s //n//nEffective firing range     1//c500m //n//nFeed system                3-round detachable box magazine //n//n                           (20 x 82mm and 14.5 x 114mm)//n//n                           Single shot (20 x 110mm)//n//nSights                     8 x 56 Lynx Telescopic sight

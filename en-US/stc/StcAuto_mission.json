@@ -10032,6 +10032,28 @@
         "draw_event_id": 0
     },
     {
+        "mission_id": 10765,
+        "team_effect": 6000,
+        "team_count": 2,
+        "month_team_count": 1,
+        "mp": 1000,
+        "ammo": 1000,
+        "mre": 1000,
+        "part": 1000,
+        "duration": 10000,
+        "experience": 50,
+        "expect_gun_level": 100,
+        "get_gun_num": 5,
+        "gun_n_pool": "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0",
+        "gun_1_pool": "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,192,179,142,177,98,102,88,168,39",
+        "limit_guns": "192,179,142,177,98,102",
+        "get_equip_num": 0,
+        "equip_n_pool": "",
+        "equip_1_pool": "",
+        "limit_equips": "",
+        "draw_event_id": 0
+    },
+    {
         "mission_id": 90001,
         "team_effect": 2200,
         "team_count": 1,

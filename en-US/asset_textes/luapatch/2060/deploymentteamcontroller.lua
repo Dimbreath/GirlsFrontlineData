@@ -31,7 +31,20 @@ local Die = function(self)
 		CS.DeploymentUIController.Instance:OnSelectTeamSkillUI(CS.DeploymentController.Instance.currentSelectedTeam);
 	end
 end
+
+local matUse = function(self)
+	if self._mat == nil then
+		local mr = self.spineHolder:GetComponent(typeof(CS.UnityEngine.MeshRenderer));
+		self.spineHolder:GetComponent(typeof(CS.SkeletonAnimation)).onlyRefreshMaterialsOnStart = true;
+		self._mat = mr.material;
+		local matBuff = mr.materials;
+		mr.sharedMaterials = matBuff;
+	end
+	return self._mat;
+end
+
 util.hotfix_ex(CS.DeploymentTeamController,'Transfer',Transfer)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferBefore',TransferBefore)
 util.hotfix_ex(CS.DeploymentTeamController,'TransferComplete',TransferComplete)
 util.hotfix_ex(CS.DeploymentTeamController,'Die',Die)
+util.hotfix_ex(CS.DeploymentTeamController,'get_mat',matUse)

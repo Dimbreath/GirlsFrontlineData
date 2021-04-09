@@ -1,47 +1,47 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:基地内。
-TT33(0)<Speaker>托卡列夫</Speaker>||:就是这样……我们这次的任务完成得太险了。
-TT33(0);G36Mod(0)<Speaker>G36</Speaker>||:你们有些疏忽了。+人类和人形是不一样的，稍有不慎就可能造成不可挽回的损伤。
-TT33(0)<Speaker>托卡列夫</Speaker>;G36Mod(0)||:今后遇到类似的任务我会注意的。+唉，要是StG44在的话，事情应该会更加顺利吧……+对了，我听说她接受了新的任务？
-G36Mod(0)<Speaker>G36</Speaker>||>:嗯，是指挥官亲自发布的。+算算时间，她应该快回来了。
-()||<SE1>AVG_door_elecport</SE1>:G36话音刚落，宿舍的门便打开了。
-STG44Mod(0)<Speaker>StG44</Speaker>||:我回来了！
-TT33(0)<Speaker>托卡列夫</Speaker>;STG44Mod(0)||:啊，欢迎回来！
-TT33(0)<Speaker></Speaker>;STG44Mod(0)||:G36没有说话，只是向StG44点了点头，而归来的StG44回以微笑。
-TT33(0)<Speaker>托卡列夫</Speaker>;STG44Mod(0)||:听说你去心智升级了……不过，看起来改变不是很大？
-TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:虽然款式相似，但我换了崭新的制服哦。+任务也顺利完成了！
-TT33(0)<Speaker>托卡列夫</Speaker>;STG44Mod(0)||:这样啊。恭喜你，StG44。+新的制服很帅气哦。
-TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:谢谢！我问过指挥官，接下来我就能归队正常进行任务了。+之后也请各位守望相助。
-TT33(0)<Speaker>托卡列夫</Speaker>;STG44Mod(0)||:当然，我很乐意同你合作。
-TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:那太好了。
-TT33(0)<Speaker>托卡列夫</Speaker>;STG44Mod(0)||:接下来你有安排吗？+如果没什么事的话就一起聊聊？我对心智升级有点好奇……
-TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:没问题的。+不过我现在有个地方要去，请你在这里稍等一下。
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:匆忙向托卡列夫告别后，StG44转身离开宿舍，放轻步伐走向走廊的转角。
-STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>GF_Memorial</BGM><BIN>18</BIN><黑屏2>:<color=#A9A9A9>（第一次和天使大人见面……就是在这附近发生的事。）</color>+<color=#A9A9A9>（如果这次也能见到的话……）</color>
-STG44Mod(0)<Speaker></Speaker>||:咔哒。+咔哒，嘎吱。
-STG44Mod(0)<Speaker>StG44</Speaker>||:<color=#A9A9A9>什么声音？好像有东西在走廊那边……</color>
-STG44Mod(0)<Speaker>？？？</Speaker>||:哼哼——我正是天使大人！+你们这些普通的人形——
-STG44Mod(0)<Speaker>StG44</Speaker>||:<color=#A9A9A9>太好了，果然在！</color>
-STG44Mod(0)<Speaker>有些熟悉的声音</Speaker>||:——啊……听起来还是不够有威势。+那么就换一种方式……
-STG44Mod(0)<Speaker>StG44</Speaker>||:……
-STG44Mod(0)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:她快步走过转角。
-()<Speaker></Speaker>||<BIN>89</BIN><黑点2><BGM>BGM_Hello</BGM>:P7抱着什么东西坐在杂物室里，正背对着StG44自言自语。
-P7(0)<Speaker>P7</Speaker>||:“那么，就让你见识一下吧，天堂的力量！”+这样感觉还不错，就……
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:我该叫你P7，还是天使大人？
-P7(0)<Speaker>P7</Speaker><Shake>;STG44Mod(0)||:……诶？
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:我猜过那个天使是谁假扮的，没想到是你……
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:你在说什么啊，我听不懂哦。+随便诬陷超可爱的人家的话，可是——
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:你裙子下面是什么？
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:诶？什么都没有哦。
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||<震屏>:等等，不要掀人家的裙子啊！+过分！差劲！喂——！！
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:我听指挥官说过，最近丢了一架无人机。+看来就是这个吧，护盾妖精。
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:……好啦，我承认就是了！+我就是想捉弄你一下嘛。
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Empty</BGM>:……
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:……StG44？
-P7(0);STG44Mod(0)<Speaker></Speaker>||:StG44死死盯着P7，一言不发。
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:你别不说话啊……+……+抱歉，我是不是闹得太过火了……
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Moon</BGM>:不管怎么样，天使大人给我的引导确实是有价值的。+就算没有护盾妖精这个实体，我也想把我的谢意传达给你。+如果不是因为你对我说的那些话，我一定不会变得更强。+谢谢你，P7。
-P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:只是一次恶作剧而已，这么正式的道谢反而让人觉得有点羞耻啊！+不过，反正也……
-P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Empty</BGM>:——但是，恶作剧终究是恶作剧。+我要捉弄回来，P7。接招！
-P7(0)<Speaker>P7</Speaker><Shake>||<BGM>BGM_Hello</BGM>:……诶？！明明刚才还在感谢我啊？！+不是吧，StG44，你别过来！+等等，不要拽我的领子！你要带我去哪？啊——
-STG44Mod(0)<Speaker>StG44</Speaker>||<黑屏1>:如果没有经受过重重考验，是没法成为强大的天使的。+所以啊，尊贵的“天使大人”——+现在，该轮到你来进行特训了。
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:In the base.
+TT33(0)<Speaker>Tokarev</Speaker>||:So yeah... We completed the mission, but it really was touch-and-go.
+TT33(0);G36Mod(0)<Speaker>Gr G36</Speaker>||:That was a bit negligent on your part. +Unlike Dolls, one careless mistake is all it takes to inflict fatal injuries on humans.
+TT33(0)<Speaker>Tokarev</Speaker>;G36Mod(0)||:I will keep that in mind on similar missions in the future. +(Sighs) If I had StG44 with me, it would probably have gone a lot more smoothly... +So, I heard she's been given a new assignment?
+G36Mod(0)<Speaker>Gr G36</Speaker>||>:That's right, a mission given by the Commander in person. +She should be returning...right about now.
+()||<SE1>AVG_door_elecport</SE1>:The door opens not a second too soon.
+STG44Mod(0)<Speaker>StG44</Speaker>||:I'm back!
+TT33(0)<Speaker>Tokarev</Speaker>;STG44Mod(0)||:Oh, welcome back!
+TT33(0)<Speaker></Speaker>;STG44Mod(0)||:Gr G36 only nods silently at StG44, who returns the gestures with a smile.
+TT33(0)<Speaker>Tokarev</Speaker>;STG44Mod(0)||:I heard you got a neural upgrade... But you don't look too different?
+TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:It does look pretty similar, but this uniform is brand new. +And my mission went very well!
+TT33(0)<Speaker>Tokarev</Speaker>;STG44Mod(0)||:I see. Then congratulations, StG44. +You look very cool in your new uniform.
+TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Thanks! I asked the Commander, and I can report for duty and resume my daily duties right away. +So let's keep looking out for one another.
+TT33(0)<Speaker>Tokarev</Speaker>;STG44Mod(0)||:Certainly. Always happy to work with you.
+TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:I'm glad to hear it.
+TT33(0)<Speaker>Tokarev</Speaker>;STG44Mod(0)||:So what's the plan? +If you have some time, can we sit down for a chat? I'm quite curious about this neural upgrade...
+TT33(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Sure thing. +But I need to visit a place first. I'll be back in a second.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:After bidding Tokarev a hasty farewell, StG44 exits the dorm and tiptoes down the corridor.
+STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>GF_Memorial</BGM><BIN>18</BIN><黑屏2>:<color=#A9A9A9>(It was around here...where I first met the angel.)</color> +<color=#A9A9A9>(If I could find her again...)</color>
+STG44Mod(0)<Speaker></Speaker>||:Tap. +Tap. Creak.
+STG44Mod(0)<Speaker>StG44</Speaker>||:<color=#A9A9A9>What's that noise? I can hear something from around the corner...</color>
+STG44Mod(0)<Speaker>???</Speaker>||:Heheh... I'm a noble angel! +You lowly Dolls...
+STG44Mod(0)<Speaker>StG44</Speaker>||:<color=#A9A9A9>Great, she's here!</color>
+STG44Mod(0)<Speaker>Somewhat Familiar Voice</Speaker>||:...Ugh... That doesn't sound grandiose enough. +I should phrase it differently...
+STG44Mod(0)<Speaker>StG44</Speaker>||:...
+STG44Mod(0)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:StG44 swiftly turns the corner.
+()<Speaker></Speaker>||<BIN>89</BIN><黑点2><BGM>BGM_Hello</BGM>:In the storage closet, P7 is sitting with her back to the door and muttering to herself, an unidentifiable object on her lap.
+P7(0)<Speaker>P7</Speaker>||:“Then I'll give you a taste of the power of Heaven!” +That feels pretty good, then...
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:So should I call you Angel...or P7?
+P7(0)<Speaker>P7</Speaker><Shake>;STG44Mod(0)||:...Huh?
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:I knew the angel was fake, but I certainly didn't expect it to be you...
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:I have no idea what you're on about. +How dare you slander an adorable Doll...
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:What's that underneath your dress?
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:Huh? Nothing whatsoever.
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||<震屏>:Hey, don't go flipping up a girl's dress! +Outrageous! Wicked! Hey!!
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||:The Commander mentioned something about a missing drone. +This is the missing Shield Fairy, isn't it?
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:...Oh, fine. I'll admit it, okay?! +I just wanted to prank you.
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Empty</BGM>:...
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:...StG44?
+P7(0);STG44Mod(0)<Speaker></Speaker>||:StG44 continues to stare wordlessly at P7.
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:Well, say something... +...Sorry if I've gone a bit too far...
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Moon</BGM>:In any case, the angel's advice did prove to be valuable. +Even if the Shield Fairy wasn't actually involved, I would still like to express my gratitude to you. +If it hadn't been for what you'd said, I would never have pulled myself together and worked to improve myself. +So thank you, P7.
+P7(0)<Speaker>P7</Speaker>;STG44Mod(0)||:I just pulled a prank on you. It's kind of embarrassing now that you're thanking me so solemnly! +Still, I suppose it doesn't matter...
+P7(0);STG44Mod(0)<Speaker>StG44</Speaker>||<BGM>BGM_Empty</BGM>:...But, a prank is still a prank. +I'm going to avenge myself, P7. Take this!
+P7(0)<Speaker>P7</Speaker><Shake>||<BGM>BGM_Hello</BGM>:...Huh?! Hey, you were thanking me just a second ago?! No, wait! Stay back, StG44! +Wait, don't pick me up by the collar! Where are you taking me?! Ahhhhhh!
+STG44Mod(0)<Speaker>StG44</Speaker>||<黑屏1>:You can't become a powerful angel without undergoing some difficult trials. +So, Noble Angel... +It's your turn to do some special training.

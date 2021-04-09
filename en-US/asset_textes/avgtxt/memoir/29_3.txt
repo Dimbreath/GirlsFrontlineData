@@ -1,121 +1,121 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:……
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>…………</color>+<color=#00CCFF>司登，你先藏好，并且随时观察那个人类的动向。</color>+<color=#00CCFF>我们的梯队马上就会赶到，处理之后的问题。</color>+<color=#00CCFF>……那名人类如果想逃跑，请你使用暴力手段暂时限制他的行动。</color>
-()<Speaker>司登MK-2</Speaker>||:诶？要……这样做吗？会不会太危险了。
-AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>RO，你又忘了吗，除非上级特许，不然我们就不能……</color>
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>我就是上级，而且我特许你这样做。</color>+<color=#00CCFF>但是注意，遇到生命危机时，优先保护自身，有余力时要保护他的人身安全。</color>
-()<Speaker>司登MK-2</Speaker>||:明白啦，我现在就寻找躲藏的地点吧，RO小姐，请您尽快增援。
-()||<黑屏1>:……
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏2><Night><BIN>85</BIN>:为什么会变成这样……+他不是……曾经帮助过我的人类吗……+他不是……一个好人吗？
-()<Speaker></Speaker>||:……司登躲在办公楼的角落，一面观察环境，一面在反锁的门前等候。
-MK2(0)<Speaker>司登MK-2</Speaker>||:他还待在里面吗？+该不会他真的知道36号文件在哪里，但却……
-()||:……
-MK2(0)<Speaker>司登MK-2</Speaker>||:（铁血在外头安装的那个巨大的设备……到底是什么……）+（唔，仔细一看，那根长长的东西真的好像炮管啊！）+……+咦？+转、转过来了？
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏1>0,8</黑屏1><BGM>BGM_Empty</BGM>:等等等等、等一下！
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1>:……砰！
-()||<火花><CGDelay>0.5</CGDelay>:……
-()<Speaker>司登MK-2</Speaker>||:咳……咳……
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏1>0,0.5</黑屏1>:发、发生什么事了……
-()<Speaker></Speaker>||<黑屏2>0,0.7</黑屏2><BIN>98</BIN>:……整栋办公楼被炸出了一个大洞，外面空荡的城市已经陷入火海。
-MK2(0)<Speaker>司登MK-2</Speaker>||<BGM>BGM_Sad</BGM>:怎么会……
-()<Speaker>人类男子</Speaker>||:呃……呃……
-()<Speaker></Speaker>||:……原本反锁的门已经被炸开。+……在破碎的办公室里，那名人类倒在地上，鲜血正自腹部不断流出。
-MK2(0)<Speaker>司登MK-2</Speaker>||:糟糕了！
-()<Speaker>人类男子</Speaker>||:啊啊啊……好痛……
-MK2(0)<Speaker>司登MK-2</Speaker>||:你还好吗！+我、我先给你的伤口做紧急处理，待会你抓紧我，我背着你一起离开这里！
-()<Speaker>人类男子</Speaker>||:……你在说……什么？
-MK2(0)<Speaker>司登MK-2</Speaker>||:你的伤很重，我会带你离开——
-()<Speaker>人类男子</Speaker>||:哈，一定又是那种命令……+“人形必须帮助生命垂危的人类”之类的……+省省吧……不要做多余的事。
-MK2(0)<Speaker>司登MK-2</Speaker>||:不可以！+现在送医的话还来得及，不可以就这样放弃！
-()<Speaker>人类男子</Speaker>||:你又懂得什么？+但是……你过来得正好，我刚好有一件需要你做的事情。
-MK2(0)<Speaker>司登MK-2</Speaker>||:是什么事情？我一定会完成的！
-()<Speaker>人类男子</Speaker>||:不错……看到那里面还有个隐藏的隔间了吗？
-MK2(0)<Speaker>司登MK-2</Speaker>||:……看到了！然后我要做什么？
-()<Speaker>人类男子</Speaker>||:去里面找到你要的36号文件，然后立刻把它销毁掉。
-MK2(0)<Speaker>司登MK-2</Speaker>||:我知道了……咦？等等……你说什么？？
-()<Speaker>人类男子</Speaker>||:听不懂人话吗？+我以人类的身份命令你，不要管我的死活，现在立刻去毁掉36号文件。
-MK2(0)<Speaker>司登MK-2</Speaker>||:不要管你的死活……然后销毁……+但是那文件里记录了大量的犯罪记录，要是没有了这个档案……
-()<Speaker>人类男子</Speaker>||:我没有在征询你的意见。
-MK2(0)<Speaker>司登MK-2</Speaker>||:我不能这么做！+这件事是不对的！
-()<Speaker>人类男子</Speaker>||:我曾经帮过你，我知道你还记得这件事！+你们人形……必须得听从人类的命令！
-MK2(0)<Speaker>司登MK-2</Speaker>||:不，这不对……不应该是这样……+不该是这样的……
-()<Speaker>人类男子</Speaker>||:…………
-MK2(0)<Speaker>司登MK-2</Speaker>||:先生？+先生！
-()<Speaker></Speaker>||:……他已经昏了过去。
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏1>0,3</黑屏1>:我、我该怎么办……+我不能……我不能……+这种时候我到底该怎么办……
-()<Speaker>司登MK-2</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<size=55>呜啊啊啊啊啊啊啊啊——</size>
-()<Speaker></Speaker>||:……
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>司登小姐！</color>
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏2><BIN>98</BIN><回忆>:…………+抱歉，RO小姐……+我不能把它交给你。
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>什么？！</color>+<color=#00CCFF>你说什么，司登小姐？！</color>
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||<BGM>BGM_Sad</BGM>:那个人类在昏过去之前，跟我说……+要求我把这份文件摧毁掉……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>…………</color>+<color=#00CCFF>我要你把文件给我，这是命令！</color>
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:可是，那个人类也下了命令……+按照格里芬的合同，我必须帮助生命垂危的人类……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>他利用的就是这一条，司登小姐。</color>+<color=#00CCFF>而我要告诉你，这个人类是犯罪组织的管理人员！</color>+<color=#00CCFF>你也知道，那个36号文件记录了大量的犯罪档案！你不能帮他做坏事！</color>
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:这不是好坏的问题……RO小姐，我也不想协助犯罪……+可是作为人形，我没有选择……+就像大家说的那样，我们不能伤害人类的个体，而且必须服从人给予我的命令……
-RO635(0)<Speaker>RO635</Speaker>||<震屏><黑屏1>:<color=#00CCFF>去他【】的机器人定理！</color>+<color=#00CCFF>那是一百年前的科幻小说，而我们身处的是现实！</color>+<color=#00CCFF>我们不是人类的仆人！我现在特许……</color>+<color=#00CCFF>不，我现在要求你违抗他的命令！</color>
-()<Speaker>司登MK-2</Speaker>||<BIN>9</BIN><关闭火花><黑屏2><BGM>BGM_Empty</BGM>:你……你能做到吗？+你能让我……违背这个命令？+可是格里芬人形的权限通常……是不可能高于人类的……
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>因为……我是特别的。</color>+<color=#00CCFF>我保留了来到格里芬之前的职务权限………</color>+<color=#00CCFF>……而这，就是我回到格里芬的目的。</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>司登小姐……听我说……</color>+<color=#00CCFF>我要你保存36号文件，并完好地交给我……</color>+<color=#00CCFF>我把权限给了你，你只要相信自己，就能做到………</color>
-()<Speaker>司登MK-2</Speaker>||<黑屏1><CGDelay>0.4</CGDelay>:我……我明白了……
-()||<关闭蒙版><黑屏2><BIN>98</BIN>:……
-AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>GF_Memorial</BGM>:司登——！！+这可找到你啦，你身上没少什么东西吧？
-MK2(0)<Speaker>司登MK-2</Speaker>||:…………
-AAT52(0)<Speaker>AAT-52</Speaker>||:……司登？你没事吧？
-MK2(0)<Speaker>司登MK-2</Speaker>||:我不懂……
-AAT52(0)<Speaker>AAT-52</Speaker>||:怎么了？你遇到什么啦？
-MK2(0)<Speaker>司登MK-2</Speaker>||:这和我所知道的不一样……+会帮助人形的人类……不都是好人吗？+人类制造了我们，那遵循人类的命令……难道不是正确的行为吗？
-AAT52(0)<Speaker>AAT-52</Speaker>||:这个嘛……我倒也说不好啦……
-MK2(0)<Speaker>司登MK-2</Speaker>||:如果这些事情都是正确的……+那么错误的……不就是人类了吗？
-RO635(0)<Speaker>RO635</Speaker>||:那既是正确的，也是错误的。
-MK2(0)<Speaker>司登MK-2</Speaker>||:RO小姐……
-RO635(0)<Speaker>RO635</Speaker>||:AAT-52，你先去和马卡洛夫会合，我们待会就过去。
-AAT52(0)<Speaker>AAT-52</Speaker>||:……知道了。
-RO635(0)<Speaker>RO635</Speaker>||:对不起，司登……我要你原地等待时并没有料到会变成这样的情况……+我能想得到的事情还是太少了……这是我的失误。
-MK2(0)<Speaker>司登MK-2</Speaker>||:那个人类的情况……他的伤势……
-RO635(0)<Speaker>RO635</Speaker>||:92式正在照顾他，情况已经稳定下来了。+直升机正在路上，不用太担心。
-MK2(0)<Speaker>司登MK-2</Speaker>||:我刚才……只差一点就搞砸了……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:但我们都赶上了，36号文件完整地成功回收。+你已经做得很好了，司登。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:可是为什么那个人类……+为什么他会要我做那样的事情……他知道那是违法的行为……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:……+AAT-52刚才跟我说，你在这之前就认识那个人了？
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:是……+几个礼拜前，护送客户时在公路上出了意外……车辆翻覆了。+当时只有我在那里……我联系不上其他人，指挥官……甚至是布伦。
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:他帮了你什么？
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:我没办法在不伤害到人类的前提下把人拉出变形的车子……+我需要……人类的指示……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:…………
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:当时他让我救出车里的人，我毫不犹豫就照做了……+可是这一次……我真的没办法……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:……+不管怎么说，你在这之中都做了正确的决定。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:但我们民用人形从来都不被允许去忤逆人类的意志……+我们……和RO小姐你不一样……只有你是“特别的”。
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:我们都是“特别的”，所以我们才会集结在格里芬的旗帜底下。+在我看来，你这次的表现比我更出色。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:但我只差一步……就要将文件给——
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:然而你却没有这么做，对吧？+你的犹豫来自心智中善良的部分，无论对人类还是人形，这都是非常珍贵的特质。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:难道不是因为36号文件很重要……所以才这么说吗？
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:并不是。+而是因为你知道那么做是错的，并依然坚持了自己的观点。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:但要是他当时要求我做其他的事情……我可能就真的……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:如果你认为那是正确的作为，那又为什么会拒绝呢？
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:可是……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:人类并没有像他们自己生产的东西那样，有着明确区分好人与坏人的指标。+那个人愿意帮助陷于困境的你，和他是犯罪组织的管理人员，也和他企图消灭证据的行为都无关。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:要是没有这种指标……那我又要怎么样才能知道自己的选择有没有错……？
-RO635(0)<Speaker>RO635</Speaker>||:很简单啊，靠这里。
-()<Speaker></Speaker>||:……RO指着司登的胸口。
-MK2(0)<Speaker>司登MK-2</Speaker>||:……+靠动力模块去判断？+这要求的运算能力对动力模块会不会太高了……
-MK2(0);RO635(2)<Speaker>RO635</Speaker>||:虽然那里多半是动力源没错，但才不是！+我想说的是，靠着你的良知去判断吧。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(2)||:只靠人形自己的标准……真的没有问题吗？+如果我的身上有缺陷……
-MK2(0);RO635(2)<Speaker>RO635</Speaker>||:好人可能有极其残忍的一面；就算是坏人也可能会有羞愧的时候。+能区分善与恶的永恒标准，那就是正义。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(2)||:正义……基地里有好多人都对这个词不以为然……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:但是它不但真的存在，而且永远不会输，至少我确信这点绝不会错。+……+你能答应我一件事吗，司登小姐？+不管往后发生什么样的事情，无论见到多么黑暗的事实……你都不会放弃自己觉得正确的事情。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:……我……+我不知道……
-MK2(0);RO635(0)<Speaker>RO635</Speaker>||:……+也是，口头上光说说是不行的。+要能守住正义，还是需要点其他东西才行……刚才的事件就是一种警示吧。
-MK2(0)<Speaker>司登MK-2</Speaker>;RO635(0)||:其他的……东西？
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>0,8</黑屏1>:或许是今晚……也或许是明天，我们很快就要道别了。+这就当作是我给你的祝福吧，可以的话，我希望你能够收下它。+我希望总有一天，你能够骄傲地告诉其他人你所做的坚持……以及你的决定。
-()||<BIN>9</BIN><黑屏2><黑屏1>:……
-()<Speaker>人类男子</Speaker>||<睁眼><BIN>98</BIN>:……唔？+我……还活着？
-92type(0)<Speaker>92式</Speaker>||:不但活着，而且正在被护送哦。+我们尚能保证你能安全离开这座城市，但后面你会被送去哪里就不知道了，毕竟36号文件上还有很多信息没揭露。
-()<Speaker>人类男子</Speaker>||:呜……为什么那东西还在？！+人形！那个穿红衣服的人形呢？
-MK2(0)<Speaker>司登MK-2</Speaker>||:……我在这里。
-()<Speaker>人类男子</Speaker>||:你还愣在那里做什么？+我明确要你就地销毁那份文件，并且把我留在原地——+快一点，你现在过去把文件销毁还来得及——
-MK2(0)<Speaker>司登MK-2</Speaker>||:我不会做的。
-()<Speaker>人类男子</Speaker>||:什么？
-MK2(0)<Speaker>司登MK-2</Speaker>||:我不会听从这样的带有恶意的命令，更不会将重伤的你抛弃。
-()<Speaker>人类男子</Speaker>||:结果你最后还是选择违抗人类的命令了，你们这帮该死的机械——
-92type(0)<Speaker>92式</Speaker>||:（小声）司登……要帮你找RO过来吗？
-MK2(0)<Speaker>司登MK-2</Speaker>||<黑屏1>:已经不需要了。+我已经……不会再迷惘了。
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>STEN, lie low for now and observe his movements.</color> +<color=#00CCFF>Our teams will get there as soon as we can to sort things out.</color> +<color=#00CCFF>...If the human tries to run, please pin him down by force.</color>
+()<Speaker>STEN MkII</Speaker>||:Huh? Is...that necessary? Won't that be too risky?
+AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>RO, have you forgotten again? Unless given special permission by a superior, we can't...</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I AM your superior, and I'm granting you special permission to do so.</color> +<color=#00CCFF>But take note, if your life is at stake, prioritize your own survival. Rescue others only when the situation allows.</color>
+()<Speaker>STEN MkII</Speaker>||:Roger. I'll go look for a place to hide now. Please send reinforcements soon, Miss RO.
+()||<黑屏1>:...
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏2><Night><BIN>85</BIN>:How did it turn out this way...? +Didn't he help me before...? +Is he not...a good person?
+()<Speaker></Speaker>||:...STEN crouches quietly in the corner of the office building, keeping an eye on her surroundings as she waits in front of the locked door.
+MK2(0)<Speaker>STEN MkII</Speaker>||:Is he still in there? +Could he actually know where Document 36 is but...
+()||:...
+MK2(0)<Speaker>STEN MkII</Speaker>||:(What's that huge piece of equipment that Sangvis Ferri has installed outside...?) +(Hm, now that I look at it more carefully, that long tube looks kind of like a barrel!) +... +Huh? +It-it's turning this way?
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏1>0,8</黑屏1><BGM>BGM_Empty</BGM>:W-w-w-w-wait a minute!
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1>:...BOOM!
+()||<火花><CGDelay>0.5</CGDelay>:...
+()<Speaker>STEN MkII</Speaker>||:Cough...cough...
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏1>0,0.5</黑屏1>:W-what just happened...?
+()<Speaker></Speaker>||<黑屏2>0,0.7</黑屏2><BIN>98</BIN>:...The artillery fire has blown a large hole in the outer wall of the entire office building. The empty city outside is burning in a sea of fire.
+MK2(0)<Speaker>STEN MkII</Speaker>||<BGM>BGM_Sad</BGM>:No way...
+()<Speaker>Male Human</Speaker>||:(Groans)
+()<Speaker></Speaker>||:...The locked door is blown right off its hinges. +...Inside the ravaged office, the man is lying on the ground, blood gushing out of his abdomen.
+MK2(0)<Speaker>STEN MkII</Speaker>||:Oh no!
+()<Speaker>Male Human</Speaker>||:Arghhhh... It hurts...
+MK2(0)<Speaker>STEN MkII</Speaker>||:Are you alright?! +I-I'm going to administer some first-aid treatment on your injuries. When that's done, hold onto me and I'll carry you out of here!
+()<Speaker>Male Human</Speaker>||:...What...are you talking about?
+MK2(0)<Speaker>STEN MkII</Speaker>||:You're very badly injured. I'm going to get you—
+()<Speaker>Male Human</Speaker>||:Ha, it must be one of those stupid commands again... +Something like, “A Doll must assist any human whose life is in danger...” +Save it...and mind your own business.
+MK2(0)<Speaker>STEN MkII</Speaker>||:I can't! +If we can get you to a medical facility right now, you can still make it! You can't give up just like that!
+()<Speaker>Male Human</Speaker>||:What do you know? +Still...it's good that you're here. I need you to do something for me.
+MK2(0)<Speaker>STEN MkII</Speaker>||:What is it? I'll do it!
+()<Speaker>Male Human</Speaker>||:Good... You see that hidden compartment in there?
+MK2(0)<Speaker>STEN MkII</Speaker>||:...I see it! What should I do next?
+()<Speaker>Male Human</Speaker>||:Find the Document 36 that you're after, then destroy it.
+MK2(0)<Speaker>STEN MkII</Speaker>||:Understood... Huh? Hold on... What did you just say??
+()<Speaker>Male Human</Speaker>||:Something wrong with your ears? +I am ordering you as a human – stop trying to save me and destroy Document 36 immediately.
+MK2(0)<Speaker>STEN MkII</Speaker>||:Stop trying to save you...and destroy... +But the document contains a lot of criminal records! Without this document...
+()<Speaker>Male Human</Speaker>||:I'm not asking your opinion.
+MK2(0)<Speaker>STEN MkII</Speaker>||:I can't do this! +This isn't right!
+()<Speaker>Male Human</Speaker>||:You owe me a favor, and I know you still remember it! +You Dolls...must obey humans!
+MK2(0)<Speaker>STEN MkII</Speaker>||:No, it's not right... It shouldn't be like this... +It can't be like this...
+()<Speaker>Male Human</Speaker>||:...
+MK2(0)<Speaker>STEN MkII</Speaker>||:Sir? +Sir!
+()<Speaker></Speaker>||:...The man has lost consciousness.
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏1>0,3</黑屏1>:W-what should I do...? +I can't... I can't... +What am I supposed to do right now...?
+()<Speaker>STEN MkII</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<size=55>AAAAAAAAAAAAARGHHHH!!</size>
+()<Speaker></Speaker>||:...
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Miss STEN!</color>
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏2><BIN>98</BIN><回忆>:... +I'm sorry, Miss RO... +I can't give it to you.
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>What?!</color> +<color=#00CCFF>What did you say, Miss STEN?!</color>
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||<BGM>BGM_Sad</BGM>:The human asked me just before he passed out... +To destroy the document...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm asking you to give me the document. That's an order!</color>
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But the human also gave me an order... +According to Griffin's contract, I must help humans whose lives are in peril...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>That's the clause he's exploiting, Miss STEN.</color> +<color=#00CCFF>Let me tell you, that guy is an administrator of a criminal syndicate!</color> +<color=#00CCFF>And you know full well that Document 36 contains a large amount of criminal records! You can't do evil things for him!</color>
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:This isn't a matter of good and evil... I don't want to be an accomplice in criminal activities either, Miss RO...+But as a T-Doll, I don't have a choice... +As they say, we may not injure any human beings and must obey orders given by them...
+RO635(0)<Speaker>RO635</Speaker>||<震屏><黑屏1>:<color=#00CCFF>Fuck the Laws of Robotics! </color> +<color=#00CCFF>That's some science fiction from a hundred years ago, and we're in reality now!</color> +<color=#00CCFF>We are not servants of mankind! I'm giving you special permission...</color> +<color=#00CCFF>No, I'm giving you a direct order to disobey his order!</color>
+()<Speaker>STEN MkII</Speaker>||<BIN>9</BIN><关闭火花><黑屏2><BGM>BGM_Empty</BGM>:Can...can you do that? +Can you make me...disobey that order? +But Griffin T-Dolls don't usually possess authorization higher than that of human beings...
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>I can, because...I'm special.</color> +<color=#00CCFF>I've retained my authorization from before I came to Griffin...</color> +<color=#00CCFF>...And this is precisely the reason why I've returned.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>Listen to me, Miss STEN.</color> +<color=#00CCFF>I need you to preserve Document 36 and bring it to me – all of it.</color> +<color=#00CCFF>I've authorized you to do so. You can do it if you just believe in yourself...</color>
+()<Speaker>STEN MkII</Speaker>||<黑屏1><CGDelay>0.4</CGDelay>:Un...understood...
+()||<关闭蒙版><黑屏2><BIN>98</BIN>:...
+AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>GF_Memorial</BGM>:STEN!! +We finally found you! You aren't missing any parts, are you?
+MK2(0)<Speaker>STEN MkII</Speaker>||:...
+AAT52(0)<Speaker>AAT-52</Speaker>||:...STEN? You alright?
+MK2(0)<Speaker>STEN MkII</Speaker>||:I don't get it...
+AAT52(0)<Speaker>AAT-52</Speaker>||:What is it? What happened to you?
+MK2(0)<Speaker>STEN MkII</Speaker>||:This defies my understanding... +Aren't humans who are happy to help Dolls...good people? +Humans are our creators, so...isn't following their orders...the right thing to do?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Well...I'm not entirely sure myself...
+MK2(0)<Speaker>STEN MkII</Speaker>||:If those previous statements are correct... +Then are the humans...wrong?
+RO635(0)<Speaker>RO635</Speaker>||:Your statements are both correct...and incorrect.
+MK2(0)<Speaker>STEN MkII</Speaker>||:Miss RO...
+RO635(0)<Speaker>RO635</Speaker>||:AAT-52, regroup with Makarov first. We'll be there right away.
+AAT52(0)<Speaker>AAT-52</Speaker>||:...Okay.
+RO635(0)<Speaker>RO635</Speaker>||:I'm sorry, STEN... When I ordered you to stand by in position, I never expected things to go this way... +I wasn't careful enough when I evaluated the situation... It was my mistake.
+MK2(0)<Speaker>STEN MkII</Speaker>||:The man... His injuries...
+RO635(0)<Speaker>RO635</Speaker>||:Type 92 is taking care of him. His condition is now stable. +The chopper is also on its way, so don't worry.
+MK2(0)<Speaker>STEN MkII</Speaker>||:I almost...ruined the entire mission...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:But we made it in time, and now we've successfully retrieved Document 36 in its entirety. +You did very well, STEN.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But why did the human... +Why did he ask me to do that...? He knew it was illegal...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:... +AAT-52 told me you'd met this man before?
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:Yes... +Several weeks ago, there was a traffic accident on the highway when I was escorting a client... The car rolled over. +Back then, I was the only one at the scene... I couldn't contact the others, the Commander...or even Bren.
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:How did he help you?
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:I had no way of extracting the trapped client from the mangled car without hurting him... +I needed...human instructions...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:...
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:The man directed me as I rescued our client and I did everything he told me to without a second thought... +But this time...I really couldn't...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:... +You made the right call in both cases.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But we civilian Dolls must never disobey orders given by humans... +We...are not like you, Miss RO... You're “special”.
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:We are all “special”, that's why we all rally beneath Griffin's banner. +The way I see it, you handled the situation better than I did.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But I almost...destroyed the—
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:Yet you didn't, did you? +You hesitated because you have goodness inside you. That is a very valuable trait in humans and Dolls alike.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:Isn't it possible...that I only wavered because Document 36 is so important?
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:I don't think so. +You questioned his order because you knew it was wrong, and you stood your ground.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But if he had asked me to do any other thing...I might actually...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:If his order had sat well with you, what reason would you have to disobey him?
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:Unlike their own creations, there is no clear-cut way of telling good and bad people apart when it comes to humans. +Just because the man helped you in your hour of need doesn't negate the fact that he's an administrator of a criminal syndicate who tried to destroy key evidence.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:If there's no clear-cut way of telling them apart...then how do I know for sure if I'm making the right choice...?
+RO635(0)<Speaker>RO635</Speaker>||:Simple. You rely on this.
+()<Speaker></Speaker>||:...RO points at STEN's chest.
+MK2(0)<Speaker>STEN MkII</Speaker>||:... +On my kinetics module? +Isn't that a bit too taxing on those parts...?
+MK2(0);RO635(2)<Speaker>RO635</Speaker>||:Your kinetics module is there, yes, but that's not what I'm talking about! +What I mean is your conscience.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(2)||:Making judgment based on a Doll's own moral compass...? Is that really okay? +If I'm also flawed...
+MK2(0);RO635(2)<Speaker>RO635</Speaker>||:Good people can also be cruel, while bad people can feel shame. +The only thing that will never fail to differentiate between good and evil...is justice.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(2)||:Justice... Most people at the base would scoff at the word...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:But not only does it actually exist, it will always prevail. At least, that's what I believe. +... +Could you promise me something, Miss STEN? +Promise me that no matter what happens down the road, no matter what darkness you're faced with... Never give up on what you believe is right.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:...I... +I don't know...
+MK2(0);RO635(0)<Speaker>RO635</Speaker>||:... +True, a verbal promise won't be enough. +To safeguard justice, you'll need more than that... If what just happened was any indication.
+MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:More...than that?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>0,8</黑屏1>:We will have to go our separate ways soon...tomorrow, if not tonight. +I want you to take this. Think of it as my blessing. +I hope that one day, you can proudly proclaim your conviction...as well as your decision.
+()||<BIN>9</BIN><黑屏2><黑屏1>:...
+()<Speaker>Male Human</Speaker>||<睁眼><BIN>98</BIN>:...Hm? +I'm...still alive?
+92type(0)<Speaker>Type 92</Speaker>||:Not only that, you're being escorted. +We can guarantee safe passage out of this city, but who knows where they'll send you afterwards? After all, I'm sure Document 36 doesn't tell the whole story.
+()<Speaker>Male Human</Speaker>||:Urk... Why is that thing still in one piece?! +Doll! Where's the Doll in the red jacket?
+MK2(0)<Speaker>STEN MkII</Speaker>||:...I'm here.
+()<Speaker>Male Human</Speaker>||:Why are you just standing there? +I clearly told you to destroy that document and leave me where I was! +Hurry up! If you go back and do that now—
+MK2(0)<Speaker>STEN MkII</Speaker>||:I will do no such thing.
+()<Speaker>Male Human</Speaker>||:What?
+MK2(0)<Speaker>STEN MkII</Speaker>||:I will not execute such malicious commands, nor will I leave a severely injured man behind.
+()<Speaker>Male Human</Speaker>||:So you're defying humans? You freaking robots!
+92type(0)<Speaker>Type 92</Speaker>||:(Whispers) STEN... Want me to call RO over?
+MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏1>:That won't be necessary. +I...no longer feel lost.

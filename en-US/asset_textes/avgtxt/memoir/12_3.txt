@@ -1,70 +1,70 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-HK45(2)<Speaker>路过的可爱舞者</Speaker>||<BGM>BGM_Sunshine</BGM><BIN>86</BIN><Night><黑屏2>:你还好吗，小妹妹？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:啊……啊，还好……谢谢你。+可以、可以拜托你……和我来一下这边吗？
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;C96(1)||:要去做什么？那边好黑呀，不能因为我可爱就诱拐我哦？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:嗯……嗯……
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;C96(1)||:怎么一副要哭出来的表情？好吧！我就和你一起过去看看。+不过到底是丢了东西，还是……
-HK45(2);C96(1)<Speaker>C96</Speaker><Shake>||<BGM>BGM_Empty</BGM>:……
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;C96(1)||<BGM>BGM_Danger</BGM>:……这是要做什么？
-HK45(2);NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:小美女，看你细皮嫩肉的，也不想多受苦吧。+老实点把身上的钱交出来，还有手机。
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;NPC-PasserbyM(0)||:我是出来准备公演的，最有价值的就是我本人哦。+要钱得找我的经纪人才行。
-HK45(2);NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:手机里有电话吗？+……你手机呢？快交出来。
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;NPC-PasserbyM(0)||:因为害怕公演泄密，我可没有带手机出来哦。+不过号码我还记得，可以告诉你，然后由你来打电话。
-HK45(2)<Speaker></Speaker>;NPC-PasserbyM(0)||:路过的舞者报出了一串数字。
-HK45(2);NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:少来这些花的。要是我打了，恐怕马上就会被警察请进去喝茶吧。+真是倒了八辈子霉……+Red9！把她弄到后面屋子里去，别让她出声呼救。我想想怎么用这个手机号敲点东西……
-C96(1)<Speaker>C96</Speaker>;NPC-PasserbyM(0)||:你说过不伤害她的！
-C96(1);NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:我害她了吗，我只是叫你把她挪个地方而已。要是她有损伤，那就是你不对。
-C96(1)<Speaker>C96</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:这……这……这肯定，肯定绝对一定有哪里不对吧！呜呜呜呜……要怎么办啊，指挥官……
-HK45(2)<Speaker>路过的可爱舞者</Speaker>||<SE1>AVG_lifttable</SE1><BIN>89</BIN><黑屏2>:唔！这边灰尘真大，演出服都要被弄脏了。
-HK45(2);C96(1)<Speaker>C96</Speaker>||<BGM>GF_Memorial</BGM>:你怎么会在这里，HK45？
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;C96(1)||:嗯？谁是HK45？我只是个爱好跳舞的可爱舞者呢。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:明明就是HK45！这身衣服就是你提过的清凉的打歌服吧！
-HK45(2)<Speaker>路过的可爱舞者</Speaker>;C96(1)||:是不是都不重要吧？就当是欣赏一场出色的演出，我就是可爱的路过舞者。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:唔……好吧，路过的舞者HK45。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:你喜欢这么叫我就这么叫吧，偶像就是为造梦而生的嘛。+外面那个人一看就不是什么好东西，为什么要和那种人在一起呢？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:唔……我无法违背他的命令。+他是人类，而我是人形……人形生来就是为人类服务的吧？+我们会和铁血工造对抗，就是因为铁血工造不听人类的话，还袭击人类。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:可是这样的人类就算放在人类社会也在做违法的事情吧？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:嗯……以前就是。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:不会跳舞，只能欺压服从他的人和人形……还卖过你一次呢。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:完全搞不懂……
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:搞不懂？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:人形要为了人类服务，要听人类的话。+指挥官是特别好的人，听指挥官的话能过上更好的生活。格琳小姐也是，费心为我准备了心智升级的方案。+还有，大家都不嫌弃我吵。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:嗯~指挥官的确超好的。+又愿意和我跳舞，又能指挥大家战斗……+等等、格琳娜你不要挤……说起来，格琳娜小姐说你拒绝了心智升级？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:我觉得不合适……在来见金蟾之前，我就感觉到不妙了。+来格里芬之前，我没想过会有这么开心的生活。+有朋友、有很好的指挥官，还有薪金和假期。+我不能在明知道可能回不去的情况下浪费格里芬的资源……
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:那为什么还要帮那家伙呢？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:因为那也是人类……完全搞不懂、不知道，根本不知道，为什么人类的区别这么大。+我应该像帮助指挥官那样帮助他，可我不想那样帮他。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:我们都没办法抗拒人类的指令，因为这就是我们的存在意义嘛。+就像是我们没法选择演出时的天气一样。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:我觉得指挥官不会原谅我了。+我请假出来帮金蟾抢劫，还绑架了HK45，说不定你也要错过演出。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:嗯~嗯。做出这种事的话，格里芬也很难忽视……毕竟是安保公司呢。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:要是删掉记忆的话，能不能当做没做过呢……
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||<BGM>BGM_Empty</BGM>:C96！
-HK45(2);C96(1)<Speaker>C96</Speaker>||<震屏>:是！
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:是提问time！如果在排练途中绊倒了，要怎么办？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:裹好伤起来继续训练！
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:如果发出了错误的指令呢？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:诶……诶……这要怎么办？
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||<BGM>BGM_Moon</BGM>:要立刻去挽救它。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:我没法反抗啊……
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:他的命令是要你把我搬进这里，对吧？现在这个命令已经结束了。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:是的，我已经做好了。
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:你没法抗拒人类的命令，但现在你是无命令的待机状态。+我要请求你一件事。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:请说吧，我会做到的！
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:请你帮我把那个……金蟾？把那家伙叫进来。
-HK45(2);C96(1)<Speaker>C96</Speaker>||:啊……
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||:这不违背任何一条命令吧？当然，我们都是人形，你可以拒绝我。+你想拒绝我吗？
-HK45(2);C96(1)<Speaker>C96</Speaker>||:（这个样子的HK45还是第一次见……和指挥官感觉真像。）+不想不想不想！一点也不想！
-HK45(2)<Speaker>HK45</Speaker>;C96(1)||<黑屏1>:那就拜托你了。
-()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><Night>:巷子的角落仍旧阴暗。
-NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:真麻烦，不如把这娘们卖了，说不定还安全点。
-NPC-PasserbyM(0);C96(1)<Speaker>C96</Speaker>||:金蟾，她出了点问题……+我不懂这些，你能亲自来看看吗？
-NPC-PasserbyM(0)<Speaker>金蟾</Speaker>;C96(1)||:又是啥问题？你们这帮女人就是麻烦，不管人类还是人形……
-NPC-PasserbyM(0)<Speaker></Speaker>;C96(1)||<黑点1>:金蟾一边抱怨着，一边向仓库走去。
-()<Speaker>带着哭腔的女性声音</Speaker>||<BGM>BGM_Empty</BGM><BIN>88</BIN><黑点2>:好……好痛啊……好像扭到脚了……
-NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:啊？这种问题也要叫我，Red9你是废物吗？+我告诉你，这种……
-HK45(3)<Speaker>HK45</Speaker>||<BIN>89</BIN><BGM>BGM_Victory</BGM><震屏>:开演之刻已至，此处应有雷鸣喝彩！
-NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:这什么东西，喂……啊！！……你这臭女人！
-HK45(3)<Speaker>HK45</Speaker>;NPC-PasserbyM(0)||:当然，我也不能伤害人类——但是这种程度还远远说不上伤害吧？+来，C96，把这个塞他嘴里。
-HK45(3);NPC-PasserbyM(0)<Speaker>金蟾</Speaker>||:呜噜噜……
-HK45(3);C96(1)<Speaker>C96</Speaker>||:呼……呼……+居然……不可思议……
-HK45(3)<Speaker>HK45</Speaker>;C96(1)||:怎么样，这个惊喜？+立刻联系巡警吧！我们得撤离了。
-HK45(3);C96(1)<Speaker>C96</Speaker>||<黑屏1>:……嗯！
+HK45(2)<Speaker>Passing Dancer</Speaker>||<BGM>BGM_Sunshine</BGM><BIN>86</BIN><Night><黑屏2>:You okay there, sweetheart?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Uh... Oh, yeah... Thank you. +C-could you...come with me for a second?
+HK45(2)<Speaker>Passing Dancer</Speaker>;C96(1)||:For what? It looks pretty dark in there. You'd better not kidnap me just because I'm cute.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Uh...um...
+HK45(2)<Speaker>Passing Dancer</Speaker>;C96(1)||:You poor thing, you look distraught! Alright, I'll come with you. +Did you lose something or...
+HK45(2);C96(1)<Speaker>C96</Speaker><Shake>||<BGM>BGM_Empty</BGM>:...
+HK45(2)<Speaker>Passing Dancer</Speaker>;C96(1)||<BGM>BGM_Danger</BGM>:...What's the meaning of this?
+HK45(2);NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:Listen here, pretty one. You seem all pampered and delicate, I bet you won't like being treated roughly. +So just hand over your money and your phone.
+HK45(2)<Speaker>Passing Dancer</Speaker>;NPC-PasserbyM(0)||:I'm on my way to a performance, so the most valuable item here is myself. +If you want money, you'll have to talk to my agent.
+HK45(2);NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:You have their number on your phone? +...Where's your phone? Hand it over.
+HK45(2)<Speaker>Passing Dancer</Speaker>;NPC-PasserbyM(0)||:I never bring my phone with me to a performance in case of any information leak. +But I remember the number. I'll tell you and you can call my agent.
+HK45(2)<Speaker></Speaker>;NPC-PasserbyM(0)||:The dancer recites a string of numbers.
+HK45(2);NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:You taking me for a fool? If I call this number, I'll soon find myself sipping tea at the police station. +What's with my rotten luck... +Red 9! Lock her up in the house back there and keep her quiet. Let me see what I can do with this phone number...
+C96(1)<Speaker>C96</Speaker>;NPC-PasserbyM(0)||:You said you wouldn't hurt her!
+C96(1);NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:Am I hurting her? I'm just telling you to move her somewhere else. If anything happens to her, it's your fault.
+C96(1)<Speaker>C96</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:B...but...this just isn't right! (Sobs) What should I do, Commander...?
+HK45(2)<Speaker>Passing Dancer</Speaker>||<SE1>AVG_lifttable</SE1><BIN>89</BIN><黑屏2>:Ack! It's so dusty in here. My costume is getting all dirty.
+HK45(2);C96(1)<Speaker>C96</Speaker>||<BGM>GF_Memorial</BGM>:What are you doing here, Gr HK45?
+HK45(2)<Speaker>Passing Dancer</Speaker>;C96(1)||:Hm? Who's Gr HK45? I'm just a cute dancer who loves dancing.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:You ARE Gr HK45! This is the breezy costume you were telling me about, isn't it?!
+HK45(2)<Speaker>Passing Dancer</Speaker>;C96(1)||:Does it matter? Just think of this as a brilliant performance, and I'm a cute dancer who happens to be passing by.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Um... Alright then, “dancer who happens to be passing by” Gr HK45.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Call me what you like. Idols exist to satisfy people's fantasies. +That man out there is obviously a scoundrel. What are you doing with that kind of human trash?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:I...I can't disobey his orders. +He's human, and I'm a Doll... Dolls are meant to serve humans, right? +We fight Sangvis Ferri because their Dolls don't obey and even attack humans.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:But some humans do illegal things even in human society, don't they?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:True... He's always been like this.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:He doesn't dance. He only knows how to bully people and Dolls into doing his bidding... He even sold you once.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:I just don't understand...
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:What don't you understand?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:It is a Doll's duty to obey and serve humans. +The Commander is an unusually kind person who makes life better for Dolls. Miss Kalin is the same. She even took the time to put together a neural upgrade proposal for me. +Also, nobody at Griffin tells me to shut up.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Yeah, the Commander really is super nice. +They dance with me and do a brilliant job of directing us in battle... +Wait, Kalina, don't shove... Speaking of which, Miss Kalina said you turned down the neural upgrade?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:It would be wrong for me to accept it... I already had a bad feeling even before I came to meet Gold Toad. +Until I joined Griffin, I never thought I'd ever have such a happy life. +I have friends, a fantastic Commander, a good salary, and even holidays. +I couldn't waste Griffin's resources when I knew I would probably never return...
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Then why are you helping this guy?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Because he is also human... I just don't understand... I didn't even know humans can be so different from one another. +I should help him the way I help the Commander, but I don't want to.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:We can't resist orders given by humans because we are made to serve. +Just like we can't do anything about the weather on the day of a performance.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:I don't think the Commander will ever forgive me. +I asked for a leave of absence to assist Gold Toad in mugging innocent people, now I've abducted you, and you'll probably miss your performance.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Right, that's exactly right. Griffin can't ignore what happened... We are a security contractor, after all.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:If I submit myself to a memory wipe, can we pretend none of this ever happened...?
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||<BGM>BGM_Empty</BGM>:C96!
+HK45(2);C96(1)<Speaker>C96</Speaker>||<震屏>:Uh, yes?!
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Question time! What should you do if you trip and twist your ankle during a rehearsal?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Wrap up the ankle and continue with the rehearsal!
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:What if an erroneous command has been issued?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Uh...uh... What should I do then?
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||<BGM>BGM_Moon</BGM>:You try to correct it.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:But I can't defy him...
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:His order was to move me into this house, right? You've already completed this task.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Yes, I have.
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:You cannot disobey orders given by a human, but right now, you are on standby mode, with no pending orders. +I would like you to do something for me.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Name it and I'll do it!
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:Could you please fetch that man for me? Gold Toad, I believe? Tell him to come in.
+HK45(2);C96(1)<Speaker>C96</Speaker>||:Uh...
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||:I'm not countermanding any orders, am I? Of course, I'm just a Doll like you, so you can always refuse. +Are you going to refuse?
+HK45(2);C96(1)<Speaker>C96</Speaker>||:(I've never seen Gr HK45 like this... She's almost like the Commander.) +No, I'm not! I don't want to!
+HK45(2)<Speaker>Gr HK45</Speaker>;C96(1)||<黑屏1>:Then if you'd please.
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><Night>:The corner of the alleyway is as dark as ever.
+NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:What a pain. Maybe I should just sell her. That might actually be safer.
+NPC-PasserbyM(0);C96(1)<Speaker>C96</Speaker>||:Mr. Gold Toad, there's a bit of a problem... +I'm not sure what to do. I think you should take a look yourself.
+NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>;C96(1)||:What problem now? Women are nothing but trouble – be them human or Doll...
+NPC-PasserbyM(0)<Speaker></Speaker>;C96(1)||<黑点1>:Gold Toad keeps mouthing off as he heads into the warehouse.
+()<Speaker>Weepy Female Voice</Speaker>||<BGM>BGM_Empty</BGM><BIN>88</BIN><黑点2>:Ow...ow ow ow... I think I twisted my ankle...
+NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:Huh? Is this why you asked me to come here?! You're a freaking piece of junk, Red 9! +Lemme tell you, you little...
+HK45(3)<Speaker>Gr HK45</Speaker>||<BIN>89</BIN><BGM>BGM_Victory</BGM><震屏>:A round of applause as the performance begins!
+NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:The hell?! Hey... Whoa!! ...You bitch!
+HK45(3)<Speaker>Gr HK45</Speaker>;NPC-PasserbyM(0)||:Of course, I can't hurt humans either, but this hardly counts, right? +Here, C96. Stuff this into his mouth.
+HK45(3);NPC-PasserbyM(0)<Speaker>Gold Toad</Speaker>||:(Gargles)
+HK45(3);C96(1)<Speaker>C96</Speaker>||:(Pants heavily) +We did it... Unbelievable...
+HK45(3)<Speaker>Gr HK45</Speaker>;C96(1)||:Well? What do you think about this surprise? +Call the police! Time for us to withdraw.
+HK45(3);C96(1)<Speaker>C96</Speaker>||<黑屏1>:...Okay!
