@@ -437,6 +437,7 @@ patch2060=
 "2060/CommonPicController",
 "2060/HomeEventController",
 "2060/RequestController",
+"2070/IllustratedBookCGPlayBackController",	
 }
 patch2070=
 {
@@ -449,7 +450,8 @@ patch2070=
 "2070/CommonMessageBoxController",		
 "2070/MissionData",
 "2070/MissionSkillData",
-"2070/MissionSelectionDroneTrainSettingController",		
+"2070/MissionSelectionDroneTrainSettingController",
+"2070/MissionSelectionActivityBar",			
 "2070/ParticleScaler",
 "2070/OPSPanelBackGround",
 "2070/DeploymentController",
@@ -467,9 +469,12 @@ patch2070=
 "2070/DeploymentBuildSkillItem",	
 "2070/DeploymentRandomEventController",
 "2070/DeploymentExplainItem",
+"2070/DeploymentCampaignExplain",	
 "2070/DeploymentUIController",
+"2070/DeploymentTeamController",	
 "2070/OPSPanelController",
 "2070/OPSPanelMissionHolder",
+"2070/OPSPanelMissionBase",	
 "2070/OPSLightControl",	
 "2070/OPSActivityEventPrizeController",
 "2070/OPSRuler",
@@ -491,10 +496,35 @@ patch2070=
 "2070/Requests",	
 "2070/RequestGunMindupdate",
 "2070/HomeController",
+"2070/HomeEventController",
 "2070/HomeOperationButton",	
 "2070/SangvisCaptureController",	
 "2070/Package",
-
+"2070/MotherBaseController",
+"2070/MallSkinDisplayController",
+"2070/HomeEventListItemController",
+"2070/IllustratedBookCGPlayBackController",	
+"2070/MallSkinGoodController",
+"2070/BattleCharacterController", 
+"2070/MallController",
+"2070/SangvisTwinChaosItemController",
+"2070/BattleSangvisSummonController", --hottag
+"2070/FactoryDevelopLogListLabelController",
+"2070/FactoryDevelopLogController",
+"2070/SquadListController",	
+"2070/CommonBundleConfirmBoxController",
+"2070/GunStateController",
+"2070/SangvisGunStateController",
+"2070/IllustratedBookEnemyListLabelController",
+"2070/IllustratedBookCharacterListLabelController",
+"2070/SkillUtils",
+"2070/BatchDevelopConfirmBoxController",
+"2070/CommonAttriLayoutController",
+"2070/TheaterCombatSettlementUIController",
+"2070/TheaterTeamData",
+}
+patch2071={
+"2071/FlightChessLobbyMainController",
 }
 --[[
 -- va11

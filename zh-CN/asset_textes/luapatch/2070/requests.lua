@@ -28,6 +28,17 @@ local RequestSangvisGunSkillStartSuccess = function(self, www)
 	end
 	CS.GameData.missionAction.ap = self.jsonData:GetValue("ap").Int;
 end
+
+local RequestResetGroupSuccess = function(self, www)
+	if CS.GameData.grounpid_num == nil then
+		CS.GameData.grounpid_num = CS.System.Collections.Generic.Dictionary(CS.System.Int32, CS.System.Int32)();
+	end
+	if not CS.GameData.grounpid_num:ContainsKey(self.groupId) then
+		CS.GameData.grounpid_num:Add(self.groupId,0);
+	end
+	self:SuccessHandleData(www);
+end
 util.hotfix_ex(CS.RequestBuildControl,'SuccessHandleData',RequestBuildControlSuccess)
 util.hotfix_ex(CS.RequestBuffSkillControl,'SuccessHandleData',RequestBuffSkillControlSuccess)
 util.hotfix_ex(CS.RequestSangvisGunSkillStart,'SuccessHandleData',RequestSangvisGunSkillStartSuccess)
+util.hotfix_ex(CS.RequestResetGroup,'SuccessHandleData',RequestResetGroupSuccess)

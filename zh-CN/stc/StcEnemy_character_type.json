@@ -4899,7 +4899,7 @@
         "hit_point": "",
         "offset": "",
         "lifebar_offset": "",
-        "enemy_illustration_id": 7
+        "enemy_illustration_id": 121
     },
     {
         "id": 13002,
@@ -4937,7 +4937,7 @@
         "hit_point": "",
         "offset": "",
         "lifebar_offset": "",
-        "enemy_illustration_id": 28
+        "enemy_illustration_id": 122
     },
     {
         "id": 13003,
@@ -17972,6 +17972,44 @@
         "offset": "",
         "lifebar_offset": "",
         "enemy_illustration_id": 50
+    },
+    {
+        "id": 900282,
+        "type": 2,
+        "name": "enemy_character_type-20900282",
+        "enemy_info": "白色近战双子",
+        "code": "Nyto_white",
+        "maxlife": 90000,
+        "pow": 62,
+        "hit": 250,
+        "dodge": 15,
+        "range": 9,
+        "speed": 50,
+        "number": 1,
+        "angle": 180,
+        "armor_piercing": 20,
+        "armor": 60,
+        "shield": 0,
+        "rate": 35,
+        "boss_hp": 0,
+        "def": 1200,
+        "def_break": 0,
+        "debuff_resistance": 0.0,
+        "level": 100,
+        "character": "enemy_character_type-10900282",
+        "special_attack": 0,
+        "normal_attack": 300316,
+        "passive_skill": "",
+        "effect_ratio": 0.6000000238418579,
+        "unable_buff_type": "221",
+        "able_buff_id": "",
+        "voice": "1,2",
+        "deployment_scale": 1.0,
+        "recommend_description": "enemy_character_type-30900282",
+        "hit_point": "",
+        "offset": "",
+        "lifebar_offset": "",
+        "enemy_illustration_id": 51
     },
     {
         "id": 910101,
