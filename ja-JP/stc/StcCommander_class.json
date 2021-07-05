@@ -9,7 +9,9 @@
         "skill_id": 0,
         "path": "CLASS10",
         "is_class": 1,
-        "des_year": "commander_class-30000010"
+        "des_year": "commander_class-30000010",
+        "source": 1,
+        "source_description": "commander_class-40000010"
     },
     {
         "id": 11,
@@ -21,7 +23,9 @@
         "skill_id": 103,
         "path": "CLASS11",
         "is_class": 1,
-        "des_year": "commander_class-30000011"
+        "des_year": "commander_class-30000011",
+        "source": 2,
+        "source_description": "commander_class-40000011"
     },
     {
         "id": 12,
@@ -29,11 +33,13 @@
         "description": "commander_class-20000012",
         "group_id": "53",
         "code": "commander_12_icon",
-        "bonus_plastic": "7101",
+        "bonus_plastic": "130001",
         "skill_id": 104,
         "path": "CLASS12",
         "is_class": 1,
-        "des_year": "commander_class-30000012"
+        "des_year": "commander_class-30000012",
+        "source": 1,
+        "source_description": "commander_class-40000012"
     },
     {
         "id": 13,
@@ -41,11 +47,13 @@
         "description": "commander_class-20000013",
         "group_id": "54",
         "code": "commander_13_icon",
-        "bonus_plastic": "7102",
+        "bonus_plastic": "130002",
         "skill_id": 105,
         "path": "CLASS13",
         "is_class": 1,
-        "des_year": "commander_class-30000013"
+        "des_year": "commander_class-30000013",
+        "source": 2,
+        "source_description": "commander_class-40000013"
     },
     {
         "id": 14,
@@ -53,11 +61,13 @@
         "description": "commander_class-20000014",
         "group_id": "55",
         "code": "commander_1432_icon",
-        "bonus_plastic": "7103",
+        "bonus_plastic": "130003",
         "skill_id": 108,
         "path": "CLASS14",
         "is_class": 1,
-        "des_year": "commander_class-30000014"
+        "des_year": "commander_class-30000014",
+        "source": 1,
+        "source_description": "commander_class-40000014"
     },
     {
         "id": 15,
@@ -69,7 +79,9 @@
         "skill_id": 0,
         "path": "CLASS15",
         "is_class": 0,
-        "des_year": "commander_class-30000015"
+        "des_year": "commander_class-30000015",
+        "source": 2,
+        "source_description": "commander_class-40000015"
     },
     {
         "id": 16,
@@ -77,11 +89,13 @@
         "description": "commander_class-20000016",
         "group_id": "57",
         "code": "commander_1632_icon",
-        "bonus_plastic": "7104",
+        "bonus_plastic": "130004",
         "skill_id": 112,
         "path": "CLASS16",
         "is_class": 1,
-        "des_year": "commander_class-30000016"
+        "des_year": "commander_class-30000016",
+        "source": 1,
+        "source_description": "commander_class-40000016"
     },
     {
         "id": 17,
@@ -93,7 +107,9 @@
         "skill_id": 0,
         "path": "CLASS17",
         "is_class": 0,
-        "des_year": "commander_class-30000017"
+        "des_year": "commander_class-30000017",
+        "source": 1,
+        "source_description": "commander_class-40000017"
     },
     {
         "id": 18,
@@ -101,11 +117,13 @@
         "description": "commander_class-20000018",
         "group_id": "59",
         "code": "commander_1832_icon",
-        "bonus_plastic": "7105",
+        "bonus_plastic": "130005",
         "skill_id": 113,
         "path": "CLASS18",
         "is_class": 1,
-        "des_year": "commander_class-30000018"
+        "des_year": "commander_class-30000018",
+        "source": 1,
+        "source_description": "commander_class-40000018"
     },
     {
         "id": 19,
@@ -113,11 +131,13 @@
         "description": "commander_class-20000019",
         "group_id": "61",
         "code": "commander_1932_icon",
-        "bonus_plastic": "7106",
+        "bonus_plastic": "130006",
         "skill_id": 106,
         "path": "CLASS19",
         "is_class": 1,
-        "des_year": "commander_class-30000019"
+        "des_year": "commander_class-30000019",
+        "source": 1,
+        "source_description": "commander_class-40000019"
     },
     {
         "id": 21,
@@ -125,11 +145,13 @@
         "description": "commander_class-20000021",
         "group_id": "63",
         "code": "commander_2132_icon",
-        "bonus_plastic": "7107",
+        "bonus_plastic": "130007",
         "skill_id": 108,
         "path": "CLASS21",
         "is_class": 1,
-        "des_year": "commander_class-30000021"
+        "des_year": "commander_class-30000021",
+        "source": 1,
+        "source_description": "commander_class-40000021"
     },
     {
         "id": 22,
@@ -141,7 +163,23 @@
         "skill_id": 0,
         "path": "CLASS22",
         "is_class": 0,
-        "des_year": "commander_class-30000022"
+        "des_year": "commander_class-30000022",
+        "source": 2,
+        "source_description": "commander_class-40000022"
+    },
+    {
+        "id": 23,
+        "name": "commander_class-10000023",
+        "description": "commander_class-20000023",
+        "group_id": "65",
+        "code": "commander_2340_icon",
+        "bonus_plastic": "",
+        "skill_id": 0,
+        "path": "CLASS23",
+        "is_class": 0,
+        "des_year": "commander_class-30000023",
+        "source": 2,
+        "source_description": "commander_class-40000023"
     },
     {
         "id": 26,
@@ -149,11 +187,13 @@
         "description": "commander_class-20000026",
         "group_id": "68",
         "code": "commander_2632_icon",
-        "bonus_plastic": "7108",
+        "bonus_plastic": "130008",
         "skill_id": 104,
         "path": "CLASS26",
         "is_class": 1,
-        "des_year": "commander_class-30000026"
+        "des_year": "commander_class-30000026",
+        "source": 1,
+        "source_description": "commander_class-40000026"
     },
     {
         "id": 27,
@@ -161,11 +201,13 @@
         "description": "commander_class-20000027",
         "group_id": "69",
         "code": "commander_2732_icon",
-        "bonus_plastic": "7109",
+        "bonus_plastic": "130009",
         "skill_id": 101,
         "path": "CLASS27",
         "is_class": 1,
-        "des_year": "commander_class-30000027"
+        "des_year": "commander_class-30000027",
+        "source": 1,
+        "source_description": "commander_class-40000027"
     },
     {
         "id": 28,
@@ -177,7 +219,9 @@
         "skill_id": 0,
         "path": "CLASS28",
         "is_class": 0,
-        "des_year": "commander_class-30000028"
+        "des_year": "commander_class-30000028",
+        "source": 2,
+        "source_description": "commander_class-40000028"
     },
     {
         "id": 30,
@@ -185,10 +229,26 @@
         "description": "commander_class-20000030",
         "group_id": "72",
         "code": "commander_3020_icon",
-        "bonus_plastic": "7110",
+        "bonus_plastic": "130010",
         "skill_id": 107,
         "path": "CLASS30",
         "is_class": 1,
-        "des_year": "commander_class-30000030"
+        "des_year": "commander_class-30000030",
+        "source": 1,
+        "source_description": "commander_class-40000030"
+    },
+    {
+        "id": 34,
+        "name": "commander_class-10000034",
+        "description": "commander_class-20000034",
+        "group_id": "76",
+        "code": "commander_3432_icon",
+        "bonus_plastic": "130011",
+        "skill_id": 105,
+        "path": "CLASS34",
+        "is_class": 1,
+        "des_year": "commander_class-30000034",
+        "source": 1,
+        "source_description": "commander_class-40000034"
     }
 ]

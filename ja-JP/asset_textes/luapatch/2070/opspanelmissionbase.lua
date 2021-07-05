@@ -11,7 +11,8 @@ local RefreshUI = function(self)
 	if CS.OPSPanelController.Instance.campaionId == -46 then
 		local image = self.transform:Find("Img_ChapterNum"):GetComponent(typeof(CS.ExImage));
 		local spriteHolder = self.transform:Find("Img_ChapterNum"):GetComponent(typeof(CS.UGUISpriteHolder));
-		image.sprite = spriteHolder.listSprite[self.order];		
+		local index = CS.UnityEngine.Mathf.Clamp(self.order,0,spriteHolder.listSprite.Count-1);
+		image.sprite = spriteHolder.listSprite[index];		
 		if spotInfo[self.order] ~= nil then
 			local title = self.transform:Find("Tex_ChapterName"):GetComponent(typeof(CS.ExText));
 			title.text = CS.Data.GetLang(spotInfo[self.order]);

@@ -72,246 +72,6 @@
         },
         {
             "id": "8",
-            "type": "consume_furniture_coin",
-            "count": "100",
-            "prize_id": "10086",
-            "title": "限时采购",
-            "content": "累计消耗采购币*100",
-            "function_control_id": "0",
-            "carnival_type_id": "16"
-        },
-        {
-            "id": "9",
-            "type": "consume_furniture_coin",
-            "count": "200",
-            "prize_id": "10087",
-            "title": "限时采购",
-            "content": "累计消耗采购币*200",
-            "function_control_id": "0",
-            "carnival_type_id": "16"
-        },
-        {
-            "id": "10",
-            "type": "consume_furniture_coin",
-            "count": "500",
-            "prize_id": "10090",
-            "title": "限时采购",
-            "content": "累计消耗采购币*500",
-            "function_control_id": "0",
-            "carnival_type_id": "16"
-        },
-        {
-            "id": "11",
-            "type": "consume_furniture_coin",
-            "count": "1000",
-            "prize_id": "10095",
-            "title": "限时采购",
-            "content": "累计消耗采购币*1000",
-            "function_control_id": "0",
-            "carnival_type_id": "16"
-        },
-        {
-            "id": "12",
-            "type": "mission_win",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "战役关卡",
-            "content": "战役胜利情况下挑战任意战役关卡10次（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "11"
-        },
-        {
-            "id": "13",
-            "type": "mission_win",
-            "count": "20",
-            "prize_id": "10087",
-            "title": "战役关卡",
-            "content": "战役胜利情况下挑战任意战役关卡20次（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "11"
-        },
-        {
-            "id": "14",
-            "type": "mission_win",
-            "count": "50",
-            "prize_id": "10088",
-            "title": "战役关卡",
-            "content": "战役胜利情况下挑战任意战役关卡50次（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "11"
-        },
-        {
-            "id": "15",
-            "type": "mission_win",
-            "count": "100",
-            "prize_id": "10089",
-            "title": "战役关卡",
-            "content": "战役胜利情况下挑战任意战役关卡100次（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "11"
-        },
-        {
-            "id": "16",
-            "type": "collect_gun",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "救援人形",
-            "content": "在任意关卡或战斗中累计救援任意人形10个（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "15"
-        },
-        {
-            "id": "17",
-            "type": "collect_gun",
-            "count": "30",
-            "prize_id": "10087",
-            "title": "救援人形",
-            "content": "在任意关卡或战斗中累计救援任意人形30个（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "15"
-        },
-        {
-            "id": "18",
-            "type": "collect_gun",
-            "count": "50",
-            "prize_id": "10088",
-            "title": "救援人形",
-            "content": "在任意关卡或战斗中累计救援任意人形50个（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "15"
-        },
-        {
-            "id": "19",
-            "type": "collect_gun",
-            "count": "100",
-            "prize_id": "10089",
-            "title": "救援人形",
-            "content": "在任意关卡或战斗中累计救援任意人形100个（自律除外）",
-            "function_control_id": "0",
-            "carnival_type_id": "15"
-        },
-        {
-            "id": "20",
-            "type": "fix_gun",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "修复人形",
-            "content": "累计修复人形10次",
-            "function_control_id": "0",
-            "carnival_type_id": "17"
-        },
-        {
-            "id": "21",
-            "type": "fix_gun",
-            "count": "30",
-            "prize_id": "10087",
-            "title": "修复人形",
-            "content": "累计修复人形30次",
-            "function_control_id": "0",
-            "carnival_type_id": "17"
-        },
-        {
-            "id": "22",
-            "type": "fix_gun",
-            "count": "50",
-            "prize_id": "10088",
-            "title": "修复人形",
-            "content": "累计修复人形50次",
-            "function_control_id": "0",
-            "carnival_type_id": "17"
-        },
-        {
-            "id": "23",
-            "type": "operation_duration",
-            "count": "100",
-            "prize_id": "10086",
-            "title": "后勤支援",
-            "content": "后勤支援累计完成100小时",
-            "function_control_id": "0",
-            "carnival_type_id": "14"
-        },
-        {
-            "id": "24",
-            "type": "operation_duration",
-            "count": "300",
-            "prize_id": "10087",
-            "title": "后勤支援",
-            "content": "后勤支援累计完成300小时",
-            "function_control_id": "0",
-            "carnival_type_id": "14"
-        },
-        {
-            "id": "25",
-            "type": "operation_duration",
-            "count": "600",
-            "prize_id": "10088",
-            "title": "后勤支援",
-            "content": "后勤支援累计完成600小时",
-            "function_control_id": "0",
-            "carnival_type_id": "14"
-        },
-        {
-            "id": "26",
-            "type": "consume_coin1",
-            "count": "1000",
-            "prize_id": "10086",
-            "title": "训练资料",
-            "content": "消耗初级训练资料*1000",
-            "function_control_id": "0",
-            "carnival_type_id": "4"
-        },
-        {
-            "id": "27",
-            "type": "consume_coin2",
-            "count": "500",
-            "prize_id": "10087",
-            "title": "训练资料",
-            "content": "消耗中级训练资料*500",
-            "function_control_id": "0",
-            "carnival_type_id": "5"
-        },
-        {
-            "id": "28",
-            "type": "consume_coin3",
-            "count": "100",
-            "prize_id": "10088",
-            "title": "训练资料",
-            "content": "消耗高级训练资料*100",
-            "function_control_id": "0",
-            "carnival_type_id": "6"
-        },
-        {
-            "id": "29",
-            "type": "consume_capsule",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*10",
-            "function_control_id": "0",
-            "carnival_type_id": "47"
-        },
-        {
-            "id": "30",
-            "type": "consume_capsule",
-            "count": "20",
-            "prize_id": "10087",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*20",
-            "function_control_id": "0",
-            "carnival_type_id": "47"
-        },
-        {
-            "id": "31",
-            "type": "consume_capsule",
-            "count": "30",
-            "prize_id": "10088",
-            "title": "增幅胶囊",
-            "content": "累计消耗增幅胶囊*30",
-            "function_control_id": "0",
-            "carnival_type_id": "47"
-        },
-        {
-            "id": "32",
             "type": "friend_praise",
             "count": "10",
             "prize_id": "10091",
@@ -321,27 +81,7 @@
             "carnival_type_id": "2"
         },
         {
-            "id": "33",
-            "type": "friend_praise",
-            "count": "20",
-            "prize_id": "10086",
-            "title": "友谊的小船",
-            "content": "活动期间累计被点赞20次",
-            "function_control_id": "0",
-            "carnival_type_id": "2"
-        },
-        {
-            "id": "34",
-            "type": "friend_praise",
-            "count": "30",
-            "prize_id": "10087",
-            "title": "友谊的小船",
-            "content": "活动期间累计被点赞30次",
-            "function_control_id": "0",
-            "carnival_type_id": "2"
-        },
-        {
-            "id": "35",
+            "id": "9",
             "type": "friend_praise",
             "count": "50",
             "prize_id": "10088",
@@ -351,7 +91,7 @@
             "carnival_type_id": "2"
         },
         {
-            "id": "36",
+            "id": "10",
             "type": "friend_praise",
             "count": "100",
             "prize_id": "10089",
@@ -361,37 +101,7 @@
             "carnival_type_id": "2"
         },
         {
-            "id": "37",
-            "type": "upvote",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "点赞使者",
-            "content": "活动期间累计点赞10次",
-            "function_control_id": "0",
-            "carnival_type_id": "20"
-        },
-        {
-            "id": "38",
-            "type": "upvote",
-            "count": "30",
-            "prize_id": "10087",
-            "title": "点赞使者",
-            "content": "活动期间累计点赞30次",
-            "function_control_id": "0",
-            "carnival_type_id": "20"
-        },
-        {
-            "id": "39",
-            "type": "upvote",
-            "count": "50",
-            "prize_id": "10088",
-            "title": "点赞使者",
-            "content": "活动期间累计点赞50次",
-            "function_control_id": "0",
-            "carnival_type_id": "20"
-        },
-        {
-            "id": "40",
+            "id": "11",
             "type": "get_build_coin",
             "count": "100",
             "prize_id": "10087",
@@ -401,7 +111,7 @@
             "carnival_type_id": "10"
         },
         {
-            "id": "41",
+            "id": "12",
             "type": "get_build_coin",
             "count": "300",
             "prize_id": "10088",
@@ -411,7 +121,7 @@
             "carnival_type_id": "10"
         },
         {
-            "id": "42",
+            "id": "13",
             "type": "get_build_coin",
             "count": "500",
             "prize_id": "10089",
@@ -421,87 +131,137 @@
             "carnival_type_id": "10"
         },
         {
-            "id": "43",
-            "type": "open_gift",
-            "count": "20",
+            "id": "14",
+            "type": "operation_duration",
+            "count": "100",
             "prize_id": "10086",
-            "title": "礼物赠送",
-            "content": "累计赠送礼物*20",
+            "title": "后勤支援",
+            "content": "后勤支援累计完成100小时",
             "function_control_id": "0",
-            "carnival_type_id": "45"
+            "carnival_type_id": "14"
         },
         {
-            "id": "44",
-            "type": "open_gift",
-            "count": "50",
+            "id": "15",
+            "type": "operation_duration",
+            "count": "300",
             "prize_id": "10087",
-            "title": "礼物赠送",
-            "content": "累计赠送礼物*50",
+            "title": "后勤支援",
+            "content": "后勤支援累计完成300小时",
             "function_control_id": "0",
-            "carnival_type_id": "45"
+            "carnival_type_id": "14"
         },
         {
-            "id": "45",
-            "type": "open_gift",
+            "id": "16",
+            "type": "operation_duration",
+            "count": "600",
+            "prize_id": "10088",
+            "title": "后勤支援",
+            "content": "后勤支援累计完成600小时",
+            "function_control_id": "0",
+            "carnival_type_id": "14"
+        },
+        {
+            "id": "17",
+            "type": "win_robot",
+            "count": "200",
+            "prize_id": "10088",
+            "title": "普通机械铁血兵",
+            "content": "战斗胜利情况下消灭200个普通机械铁血兵",
+            "function_control_id": "0",
+            "carnival_type_id": "102"
+        },
+        {
+            "id": "18",
+            "type": "win_person",
             "count": "100",
             "prize_id": "10088",
-            "title": "礼物赠送",
-            "content": "累计赠送礼物*100",
+            "title": "普通人形铁血兵",
+            "content": "战斗胜利情况下消灭100个普通人形铁血兵",
             "function_control_id": "0",
-            "carnival_type_id": "45"
+            "carnival_type_id": "103"
         },
         {
-            "id": "46",
-            "type": "develop_gun_rank4",
-            "count": "1",
-            "prize_id": "10086",
-            "title": "血统验证",
-            "content": "累计造出4星人形*1",
-            "function_control_id": "0",
-            "carnival_type_id": "8"
-        },
-        {
-            "id": "47",
-            "type": "develop_gun_rank4",
-            "count": "5",
-            "prize_id": "10087",
-            "title": "血统验证",
-            "content": "累计造出4星人形*5",
-            "function_control_id": "0",
-            "carnival_type_id": "8"
-        },
-        {
-            "id": "48",
-            "type": "develop_gun_rank5",
-            "count": "1",
-            "prize_id": "10088",
-            "title": "血统验证",
-            "content": "累计造出5星人形*1",
-            "function_control_id": "0",
-            "carnival_type_id": "9"
-        },
-        {
-            "id": "49",
-            "type": "develop_gun_rank5",
-            "count": "5",
+            "id": "19",
+            "type": "win_boss",
+            "count": "30",
             "prize_id": "10089",
-            "title": "血统验证",
-            "content": "累计造出5星人形*5",
+            "title": "消灭BOSS",
+            "content": "战斗胜利情况下消灭30个BOSS",
             "function_control_id": "0",
-            "carnival_type_id": "9"
+            "carnival_type_id": "104"
         },
         {
-            "id": "50",
-            "type": "consume_iop_contract",
+            "id": "20",
+            "type": "upvote",
             "count": "10",
             "prize_id": "10086",
-            "title": "人形制造",
-            "content": "累计消耗人形制造契约*10",
+            "title": "点赞使者",
+            "content": "活动期间累计点赞10次",
             "function_control_id": "0",
-            "carnival_type_id": "3"
+            "carnival_type_id": "20"
         },
         {
-            "id": "51",
+            "id": "21",
+            "type": "upvote",
+            "count": "30",
+            "prize_id": "10087",
+            "title": "点赞使者",
+            "content": "活动期间累计点赞30次",
+            "function_control_id": "0",
+            "carnival_type_id": "20"
+        },
+        {
+            "id": "22",
+            "type": "upvote",
+            "count": "50",
+            "prize_id": "10088",
+            "title": "点赞使者",
+            "content": "活动期间累计点赞50次",
+            "function_control_id": "0",
+            "carnival_type_id": "20"
+        },
+        {
+            "id": "23",
+            "type": "consume_furniture_coin",
+            "count": "100",
+            "prize_id": "10086",
+            "title": "限时采购",
+            "content": "累计消耗采购币*100",
+            "function_control_id": "0",
+            "carnival_type_id": "16"
+        },
+        {
+            "id": "24",
+            "type": "consume_furniture_coin",
+            "count": "200",
+            "prize_id": "10087",
+            "title": "限时采购",
+            "content": "累计消耗采购币*200",
+            "function_control_id": "0",
+            "carnival_type_id": "16"
+        },
+        {
+            "id": "25",
+            "type": "consume_furniture_coin",
+            "count": "500",
+            "prize_id": "10090",
+            "title": "限时采购",
+            "content": "累计消耗采购币*500",
+            "function_control_id": "0",
+            "carnival_type_id": "16"
+        },
+        {
+            "id": "26",
+            "type": "consume_furniture_coin",
+            "count": "1000",
+            "prize_id": "10095",
+            "title": "限时采购",
+            "content": "累计消耗采购币*1000",
+            "function_control_id": "0",
+            "carnival_type_id": "16"
+        },
+        {
+            "id": "27",
             "type": "consume_iop_contract",
             "count": "20",
             "prize_id": "10087",
@@ -511,7 +271,7 @@
             "carnival_type_id": "3"
         },
         {
-            "id": "52",
+            "id": "28",
             "type": "consume_iop_contract",
             "count": "50",
             "prize_id": "10088",
@@ -521,37 +281,47 @@
             "carnival_type_id": "3"
         },
         {
-            "id": "53",
-            "type": "develop_equip",
-            "count": "10",
-            "prize_id": "10086",
-            "title": "装备制造次数",
-            "content": "装备制造10次",
+            "id": "29",
+            "type": "consume_iop_contract",
+            "count": "100",
+            "prize_id": "10089",
+            "title": "人形制造",
+            "content": "累计消耗人形制造契约*100",
             "function_control_id": "0",
-            "carnival_type_id": "35"
+            "carnival_type_id": "3"
         },
         {
-            "id": "54",
-            "type": "develop_equip",
-            "count": "20",
+            "id": "30",
+            "type": "upgrade",
+            "count": "1",
+            "prize_id": "10091",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能1次",
+            "function_control_id": "0",
+            "carnival_type_id": "12"
+        },
+        {
+            "id": "31",
+            "type": "upgrade",
+            "count": "5",
             "prize_id": "10087",
-            "title": "装备制造次数",
-            "content": "装备制造20次",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能5次",
             "function_control_id": "0",
-            "carnival_type_id": "35"
+            "carnival_type_id": "12"
         },
         {
-            "id": "55",
-            "type": "develop_equip",
-            "count": "30",
+            "id": "32",
+            "type": "upgrade",
+            "count": "10",
             "prize_id": "10088",
-            "title": "装备制造次数",
-            "content": "装备制造30次",
+            "title": "技能升级",
+            "content": "累计升级人形/妖精技能10次",
             "function_control_id": "0",
-            "carnival_type_id": "35"
+            "carnival_type_id": "12"
         },
         {
-            "id": "56",
+            "id": "33",
             "type": "consume_core",
             "count": "30",
             "prize_id": "10086",
@@ -561,7 +331,7 @@
             "carnival_type_id": "42"
         },
         {
-            "id": "57",
+            "id": "34",
             "type": "consume_core",
             "count": "50",
             "prize_id": "10088",
@@ -571,7 +341,147 @@
             "carnival_type_id": "42"
         },
         {
-            "id": "58",
+            "id": "35",
+            "type": "consume_core",
+            "count": "100",
+            "prize_id": "10089",
+            "title": "核心消耗",
+            "content": "核心消耗*100",
+            "function_control_id": "0",
+            "carnival_type_id": "42"
+        },
+        {
+            "id": "36",
+            "type": "consume_capsule",
+            "count": "10",
+            "prize_id": "10086",
+            "title": "增幅胶囊",
+            "content": "累计消耗增幅胶囊*10",
+            "function_control_id": "0",
+            "carnival_type_id": "47"
+        },
+        {
+            "id": "37",
+            "type": "consume_capsule",
+            "count": "20",
+            "prize_id": "10087",
+            "title": "增幅胶囊",
+            "content": "累计消耗增幅胶囊*20",
+            "function_control_id": "0",
+            "carnival_type_id": "47"
+        },
+        {
+            "id": "38",
+            "type": "consume_capsule",
+            "count": "30",
+            "prize_id": "10088",
+            "title": "增幅胶囊",
+            "content": "累计消耗增幅胶囊*30",
+            "function_control_id": "0",
+            "carnival_type_id": "47"
+        },
+        {
+            "id": "39",
+            "type": "consume_fight_report",
+            "count": "10",
+            "prize_id": "10091",
+            "title": "作战报告书",
+            "content": "消耗作战报告书*10",
+            "function_control_id": "0",
+            "carnival_type_id": "7"
+        },
+        {
+            "id": "40",
+            "type": "consume_fight_report",
+            "count": "30",
+            "prize_id": "10087",
+            "title": "作战报告书",
+            "content": "消耗作战报告书*30",
+            "function_control_id": "0",
+            "carnival_type_id": "7"
+        },
+        {
+            "id": "41",
+            "type": "consume_fight_report",
+            "count": "50",
+            "prize_id": "10088",
+            "title": "作战报告书",
+            "content": "消耗作战报告书*50",
+            "function_control_id": "0",
+            "carnival_type_id": "7"
+        },
+        {
+            "id": "42",
+            "type": "develop_equip",
+            "count": "10",
+            "prize_id": "10086",
+            "title": "装备制造次数",
+            "content": "装备制造10次",
+            "function_control_id": "0",
+            "carnival_type_id": "35"
+        },
+        {
+            "id": "43",
+            "type": "develop_equip",
+            "count": "20",
+            "prize_id": "10087",
+            "title": "装备制造次数",
+            "content": "装备制造20次",
+            "function_control_id": "0",
+            "carnival_type_id": "35"
+        },
+        {
+            "id": "44",
+            "type": "develop_equip",
+            "count": "30",
+            "prize_id": "10088",
+            "title": "装备制造次数",
+            "content": "装备制造30次",
+            "function_control_id": "0",
+            "carnival_type_id": "35"
+        },
+        {
+            "id": "45",
+            "type": "consume_bp",
+            "count": "10",
+            "prize_id": "10091",
+            "title": "动能消耗（包含超导动能）",
+            "content": "累计消耗动能*10",
+            "function_control_id": "0",
+            "carnival_type_id": "18"
+        },
+        {
+            "id": "46",
+            "type": "consume_bp",
+            "count": "30",
+            "prize_id": "10087",
+            "title": "动能消耗（包含超导动能）",
+            "content": "累计消耗动能*30",
+            "function_control_id": "0",
+            "carnival_type_id": "18"
+        },
+        {
+            "id": "47",
+            "type": "consume_bp",
+            "count": "50",
+            "prize_id": "10088",
+            "title": "动能消耗（包含超导动能）",
+            "content": "累计消耗动能*50",
+            "function_control_id": "0",
+            "carnival_type_id": "18"
+        },
+        {
+            "id": "48",
+            "type": "consume_bp",
+            "count": "100",
+            "prize_id": "10089",
+            "title": "动能消耗（包含超导动能）",
+            "content": "累计消耗动能*100",
+            "function_control_id": "0",
+            "carnival_type_id": "18"
+        },
+        {
+            "id": "49",
             "type": "consume_voucher",
             "count": "50",
             "prize_id": "10087",
@@ -581,7 +491,7 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "59",
+            "id": "50",
             "type": "consume_voucher",
             "count": "100",
             "prize_id": "10088",
@@ -591,7 +501,7 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "60",
+            "id": "51",
             "type": "consume_voucher",
             "count": "200",
             "prize_id": "10089",
@@ -601,74 +511,114 @@
             "carnival_type_id": "19"
         },
         {
-            "id": "61",
-            "type": "consume_ammo",
-            "count": "10000",
+            "id": "52",
+            "type": "mission_win",
+            "count": "10",
             "prize_id": "10086",
-            "title": "弹药消耗",
-            "content": "累计消耗弹药*10000",
+            "title": "战役关卡",
+            "content": "战役胜利情况下挑战任意战役关卡10次（自律除外）",
             "function_control_id": "0",
-            "carnival_type_id": "21"
+            "carnival_type_id": "11"
+        },
+        {
+            "id": "53",
+            "type": "mission_win",
+            "count": "20",
+            "prize_id": "10087",
+            "title": "战役关卡",
+            "content": "战役胜利情况下挑战任意战役关卡20次（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "11"
+        },
+        {
+            "id": "54",
+            "type": "mission_win",
+            "count": "50",
+            "prize_id": "10088",
+            "title": "战役关卡",
+            "content": "战役胜利情况下挑战任意战役关卡50次（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "11"
+        },
+        {
+            "id": "55",
+            "type": "mission_win",
+            "count": "100",
+            "prize_id": "10089",
+            "title": "战役关卡",
+            "content": "战役胜利情况下挑战任意战役关卡100次（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "11"
+        },
+        {
+            "id": "56",
+            "type": "collect_gun",
+            "count": "10",
+            "prize_id": "10086",
+            "title": "救援人形",
+            "content": "在任意关卡或战斗中累计救援任意人形10个（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "15"
+        },
+        {
+            "id": "57",
+            "type": "collect_gun",
+            "count": "30",
+            "prize_id": "10087",
+            "title": "救援人形",
+            "content": "在任意关卡或战斗中累计救援任意人形30个（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "15"
+        },
+        {
+            "id": "58",
+            "type": "collect_gun",
+            "count": "50",
+            "prize_id": "10088",
+            "title": "救援人形",
+            "content": "在任意关卡或战斗中累计救援任意人形50个（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "15"
+        },
+        {
+            "id": "59",
+            "type": "collect_gun",
+            "count": "100",
+            "prize_id": "10089",
+            "title": "救援人形",
+            "content": "在任意关卡或战斗中累计救援任意人形100个（自律除外）",
+            "function_control_id": "0",
+            "carnival_type_id": "15"
+        },
+        {
+            "id": "60",
+            "type": "fix_gun",
+            "count": "10",
+            "prize_id": "10086",
+            "title": "修复人形",
+            "content": "累计修复人形10次",
+            "function_control_id": "0",
+            "carnival_type_id": "17"
+        },
+        {
+            "id": "61",
+            "type": "fix_gun",
+            "count": "30",
+            "prize_id": "10087",
+            "title": "修复人形",
+            "content": "累计修复人形30次",
+            "function_control_id": "0",
+            "carnival_type_id": "17"
         },
         {
             "id": "62",
-            "type": "consume_ammo",
-            "count": "20000",
-            "prize_id": "10087",
-            "title": "弹药消耗",
-            "content": "累计消耗弹药*20000",
-            "function_control_id": "0",
-            "carnival_type_id": "21"
-        },
-        {
-            "id": "63",
-            "type": "consume_ammo",
-            "count": "30000",
-            "prize_id": "10088",
-            "title": "弹药消耗",
-            "content": "累计消耗弹药*30000",
-            "function_control_id": "0",
-            "carnival_type_id": "21"
-        },
-        {
-            "id": "64",
-            "type": "borrow_friend_team",
-            "count": "5",
-            "prize_id": "10086",
-            "title": "支援梯队",
-            "content": "累计部署支援梯队次数*5",
-            "function_control_id": "0",
-            "carnival_type_id": "13"
-        },
-        {
-            "id": "65",
-            "type": "borrow_friend_team",
-            "count": "10",
-            "prize_id": "10087",
-            "title": "支援梯队",
-            "content": "累计部署支援梯队次数*10",
-            "function_control_id": "0",
-            "carnival_type_id": "13"
-        },
-        {
-            "id": "66",
-            "type": "borrow_friend_team",
-            "count": "20",
-            "prize_id": "10088",
-            "title": "支援梯队",
-            "content": "累计部署支援梯队次数*20",
-            "function_control_id": "0",
-            "carnival_type_id": "13"
-        },
-        {
-            "id": "67",
-            "type": "borrow_friend_team",
+            "type": "fix_gun",
             "count": "50",
-            "prize_id": "10089",
-            "title": "支援梯队",
-            "content": "累计部署支援梯队次数*50",
+            "prize_id": "10088",
+            "title": "修复人形",
+            "content": "累计修复人形50次",
             "function_control_id": "0",
-            "carnival_type_id": "13"
+            "carnival_type_id": "17"
         }
     ]
 }

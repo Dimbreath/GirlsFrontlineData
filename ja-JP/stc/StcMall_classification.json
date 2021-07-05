@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1000,
+        "parent_id": 0,
+        "sort": 1,
+        "name": "mall_classification-10001000",
+        "description": "mall_classification-20001000"
+    },
+    {
+        "id": 1001,
+        "parent_id": 1000,
+        "sort": 1,
+        "name": "mall_classification-10001001",
+        "description": "mall_classification-20001001"
+    },
+    {
+        "id": 1002,
+        "parent_id": 1000,
+        "sort": 2,
+        "name": "mall_classification-10001002",
+        "description": "mall_classification-20001002"
+    },
+    {
+        "id": 1003,
+        "parent_id": 1000,
+        "sort": 3,
+        "name": "mall_classification-10001003",
+        "description": "mall_classification-20001003"
+    },
+    {
+        "id": 1004,
+        "parent_id": 1000,
+        "sort": 4,
+        "name": "mall_classification-10001004",
+        "description": "mall_classification-20001004"
+    },
+    {
+        "id": 2000,
+        "parent_id": 0,
+        "sort": 2,
+        "name": "mall_classification-10002000",
+        "description": "mall_classification-20002000"
+    },
+    {
+        "id": 2001,
+        "parent_id": 2000,
+        "sort": 1,
+        "name": "mall_classification-10002001",
+        "description": "mall_classification-20002001"
+    },
+    {
+        "id": 2002,
+        "parent_id": 2000,
+        "sort": 2,
+        "name": "mall_classification-10002002",
+        "description": "mall_classification-20002002"
+    },
+    {
+        "id": 3000,
+        "parent_id": 0,
+        "sort": 3,
+        "name": "mall_classification-10003000",
+        "description": "mall_classification-20003000"
+    },
+    {
+        "id": 3001,
+        "parent_id": 3000,
+        "sort": 1,
+        "name": "mall_classification-10003001",
+        "description": "mall_classification-20003001"
+    },
+    {
+        "id": 3002,
+        "parent_id": 3000,
+        "sort": 2,
+        "name": "mall_classification-10003002",
+        "description": "mall_classification-20003002"
+    },
+    {
+        "id": 3003,
+        "parent_id": 3000,
+        "sort": 3,
+        "name": "mall_classification-10003003",
+        "description": "mall_classification-20003003"
+    },
+    {
+        "id": 4000,
+        "parent_id": 0,
+        "sort": 4,
+        "name": "mall_classification-10004000",
+        "description": "mall_classification-20004000"
+    },
+    {
+        "id": 5000,
+        "parent_id": 0,
+        "sort": 5,
+        "name": "mall_classification-10005000",
+        "description": "mall_classification-20005000"
+    },
+    {
+        "id": 5001,
+        "parent_id": 5000,
+        "sort": 1,
+        "name": "mall_classification-10005001",
+        "description": "mall_classification-20005001"
+    },
+    {
+        "id": 5002,
+        "parent_id": 5000,
+        "sort": 2,
+        "name": "mall_classification-10005002",
+        "description": "mall_classification-20005002"
+    },
+    {
+        "id": 5003,
+        "parent_id": 5000,
+        "sort": 3,
+        "name": "mall_classification-10005003",
+        "description": "mall_classification-20005003"
+    },
+    {
+        "id": 5004,
+        "parent_id": 5000,
+        "sort": 4,
+        "name": "mall_classification-10005004",
+        "description": "mall_classification-20005004"
+    }
+]

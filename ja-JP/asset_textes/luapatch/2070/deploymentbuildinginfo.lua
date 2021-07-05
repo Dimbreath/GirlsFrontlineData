@@ -8,7 +8,14 @@ local Init = function(self,buildController)
 	end
 end
 
+local UpdateInfo = function(self)
+	if self.buildController.buildAction.activeOrder < 0 then
+		self.buildController:InitCode(self.buildController.buildAction.buildingInfo.spineCode);
+	end
+	self:UpdateInfo();
+end
 
 util.hotfix_ex(CS.DeploymentBuildingInfo,'Init',Init)
+util.hotfix_ex(CS.DeploymentBuildingInfo,'UpdateInfo',UpdateInfo)
 
 

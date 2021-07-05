@@ -80,7 +80,6 @@ local enterPerformanceStarted = false; -- 是否已开始进入演出，在第�
 --Awake：初始化数据
 Awake = function()
 
-	
 	-- 加载出现演出
 	enterPerformance = CS.UnityEngine.GameObject.Instantiate(CS.ResManager.GetObjectByPath("Va11Prefabs/VA11_Dissolve",".prefab"));
 	enterPerformance.transform:SetParent(self.transform,false);

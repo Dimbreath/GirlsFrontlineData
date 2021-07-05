@@ -15,5 +15,10 @@ local CheckTeamSpineShow = function(self,show)
 	end
 end
 
+local SquadSupply = function(spotAction)
+	CS.DeploymentTeamInfoController.currentSelectedSpotAction = spotAction;
+	CS.DeploymentTeamInfoController.SquadSupply(spotAction);
+end
 util.hotfix_ex(CS.DeploymentTeamInfoController,'CheckTeamSpineShow',CheckTeamSpineShow)
 util.hotfix_ex(CS.DeploymentTeamInfoController,'RqquestAllyReinforceHandle',RqquestAllyReinforceHandle)
+util.hotfix_ex(CS.DeploymentTeamInfoController,'SquadSupply',SquadSupply)

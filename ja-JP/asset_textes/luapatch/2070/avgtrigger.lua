@@ -38,4 +38,12 @@ local DeploymentController_FinishMissionEvent = function(self)
 	self:DeploymentController_FinishMissionEvent();
 end
 
+local ScriptEndName = function(self,script)
+	self.scriptName = script;
+	local play = self:PlayAVG();
+	if not play and CS.GameData.missionResult == nil then
+		CS.DeploymentController.TriggerPlayPerformanceEndEvent(nil);
+	end
+end
 util.hotfix_ex(CS.AVGTrigger,'DeploymentController_FinishMissionEvent',DeploymentController_FinishMissionEvent)
+util.hotfix_ex(CS.AVGTrigger,'ScriptEndName',ScriptEndName)
