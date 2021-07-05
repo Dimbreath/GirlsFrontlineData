@@ -27,7 +27,7 @@
         "id": 5,
         "parameter_name": "chess_member_num",
         "parameter_type": "int",
-        "parameter_value": "5"
+        "parameter_value": "8"
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
         "id": 12,
         "parameter_name": "launch_point",
         "parameter_type": "string",
-        "parameter_value": "6"
+        "parameter_value": "6,1"
     },
     {
         "id": 13,
@@ -111,25 +111,37 @@
         "id": 19,
         "parameter_name": "chip_refresh_chance_limit",
         "parameter_type": "int",
-        "parameter_value": "90"
+        "parameter_value": "100"
     },
     {
         "id": 20,
         "parameter_name": "chip_refresh_price",
         "parameter_type": "int",
-        "parameter_value": "3"
+        "parameter_value": "2"
     },
     {
         "id": 21,
         "parameter_name": "default_team",
         "parameter_type": "string",
-        "parameter_value": "1:0,2:0,3:0,4:0,5:0"
+        "parameter_value": "138:0,196:2104,260:0,294:0,266:0,329:0,115:0,245:0"
+    },
+    {
+        "id": 23,
+        "parameter_name": "roommaster_startime_limit",
+        "parameter_type": "int",
+        "parameter_value": "30"
+    },
+    {
+        "id": 25,
+        "parameter_name": "airplane_readytime_limit",
+        "parameter_type": "int",
+        "parameter_value": "20"
     },
     {
         "id": 28,
         "parameter_name": "chess_set_camp_time",
         "parameter_type": "int",
-        "parameter_value": "15"
+        "parameter_value": "45"
     },
     {
         "id": 29,
@@ -159,7 +171,7 @@
         "id": 33,
         "parameter_name": "chess_choose_chip_time",
         "parameter_type": "int",
-        "parameter_value": "45"
+        "parameter_value": "60"
     },
     {
         "id": 34,
@@ -171,7 +183,7 @@
         "id": 35,
         "parameter_name": "chess_player_battle_time",
         "parameter_type": "int",
-        "parameter_value": "15"
+        "parameter_value": "20"
     },
     {
         "id": 36,
@@ -189,19 +201,19 @@
         "id": 38,
         "parameter_name": "chess_player_drop_chip_time",
         "parameter_type": "int",
-        "parameter_value": "15"
+        "parameter_value": "20"
     },
     {
         "id": 39,
         "parameter_name": "chess_player_fly_time",
         "parameter_type": "int",
-        "parameter_value": "15"
+        "parameter_value": "20"
     },
     {
         "id": 40,
         "parameter_name": "chess_player_action_time",
         "parameter_type": "int",
-        "parameter_value": "45"
+        "parameter_value": "60"
     },
     {
         "id": 41,
@@ -339,7 +351,7 @@
         "id": 63,
         "parameter_name": "default_gun",
         "parameter_type": "string",
-        "parameter_value": "1:0,2:0,3:0,4:0,5:0,16:0,17:0,18:0,19:0,20:0,34:0,35:0,36:0,37:0,38:0,54:0,55:0,56:0,57:0,58:0,75:0,76:0,77:0,78:0,79:0,151:0,152:0,153:0,154:0,155:0"
+        "parameter_value": "1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,16:0,17:0,18:0,19:0,20:0,21:0,22:0,23:0,34:0,35:0,36:0,37:0,38:0,39:0,40:0,41:0,54:0,55:0,56:0,57:0,58:0,60:0,61:0,62:0,75:0,77:0,78:0,79:0,80:0,81:0,82:0,84:0,151:0,152:0,153:0,154:0,155:0,156:0,157:0,158:0"
     },
     {
         "id": 64,
@@ -357,7 +369,7 @@
         "id": 66,
         "parameter_name": "chess_init_refresh_chance",
         "parameter_type": "int",
-        "parameter_value": "27"
+        "parameter_value": "5"
     },
     {
         "id": 67,
@@ -436,5 +448,149 @@
         "parameter_name": "rewardfreme_emoji",
         "parameter_type": "string",
         "parameter_value": "Emoji__0502,Emoji__0501,Emoji__1203,Emoji_1603,Emoji__1205"
+    },
+    {
+        "id": 82,
+        "parameter_name": "chess_monster_notice_showround",
+        "parameter_type": "int",
+        "parameter_value": "3"
+    },
+    {
+        "id": 83,
+        "parameter_name": "capitulate_cdtime",
+        "parameter_type": "int",
+        "parameter_value": "360"
+    },
+    {
+        "id": 84,
+        "parameter_name": "chess_coin_with_gun",
+        "parameter_type": "int",
+        "parameter_value": "2"
+    },
+    {
+        "id": 85,
+        "parameter_name": "chess_gacha_mode",
+        "parameter_type": "int",
+        "parameter_value": "2"
+    },
+    {
+        "id": 86,
+        "parameter_name": "kill_reward_coin",
+        "parameter_type": "int",
+        "parameter_value": "3"
+    },
+    {
+        "id": 87,
+        "parameter_name": "achieve_reward_coin",
+        "parameter_type": "int",
+        "parameter_value": "6"
+    },
+    {
+        "id": 88,
+        "parameter_name": "chess_chance_choose_time",
+        "parameter_type": "int",
+        "parameter_value": "15"
+    },
+    {
+        "id": 89,
+        "parameter_name": "chess_chance_choose_delay_time",
+        "parameter_type": "int",
+        "parameter_value": "1"
+    },
+    {
+        "id": 90,
+        "parameter_name": "chess_chance_choose_limit",
+        "parameter_type": "int",
+        "parameter_value": "5"
+    },
+    {
+        "id": 91,
+        "parameter_name": "chess_chip_experience_price",
+        "parameter_type": "int",
+        "parameter_value": "1"
+    },
+    {
+        "id": 92,
+        "parameter_name": "chess_bag_quality_tips",
+        "parameter_type": "string",
+        "parameter_value": "0:280293,5:280293,10:280293,20:280293,1000:280293"
+    },
+    {
+        "id": 93,
+        "parameter_name": "chess_onhook_times",
+        "parameter_type": "int",
+        "parameter_value": "3"
+    },
+    {
+        "id": 94,
+        "parameter_name": "tiptxt_chipcollect",
+        "parameter_type": "string",
+        "parameter_value": "280341,280342"
+    },
+    {
+        "id": 95,
+        "parameter_name": "tiptxt_fivechipmax",
+        "parameter_type": "string",
+        "parameter_value": "280343,280344"
+    },
+    {
+        "id": 104,
+        "parameter_name": "2_chess_set_camp_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 105,
+        "parameter_name": "2_chess_set_team_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 106,
+        "parameter_name": "2_chess_set_initial_gun_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 107,
+        "parameter_name": "2_chess_choose_chip_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 108,
+        "parameter_name": "2_chess_player_end_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 109,
+        "parameter_name": "2_chess_player_drop_chip_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 110,
+        "parameter_name": "2_chess_player_fly_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 111,
+        "parameter_name": "2_chess_player_action_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 112,
+        "parameter_name": "2_chess_chance_choose_time",
+        "parameter_type": "int",
+        "parameter_value": "999"
+    },
+    {
+        "id": 113,
+        "parameter_name": "chess_first_goal_point",
+        "parameter_type": "int",
+        "parameter_value": "3"
     }
 ]

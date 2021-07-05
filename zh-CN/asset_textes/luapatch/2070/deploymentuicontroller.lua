@@ -27,10 +27,19 @@ local CheckTypeComplete = function(winTypeInfo,showTarget,process,medal)
 	local result,process = CS.DeploymentUIController.CheckTypeComplete(winTypeInfo,showTarget,process,medal);
 	return result,process;
 end
+
+local RefreshUI = function(self)
+	self:RefreshUI();
+	if CS.GameData.missionAction ~= nil then
+		local num = CS.GameData.missionAction.enemyDieNumber + CS.GameData.missionAction.alldieallyNum;
+		self.textDeadRestEnemyCount.text = tostring(num);
+	end
+end
 util.hotfix_ex(CS.DeploymentUIController,'ShowLeftBuildSkillUI',ShowLeftBuildSkillUI)
 util.hotfix_ex(CS.DeploymentUIController,'ShowRightBuildSkillUI',ShowRightBuildSkillUI)
 util.hotfix_ex(CS.DeploymentUIController,'ShowDeploymentExplain',ShowDeploymentExplain)
 util.hotfix_ex(CS.DeploymentUIController,'CheckTypeComplete',CheckTypeComplete)
+util.hotfix_ex(CS.DeploymentUIController,'RefreshUI',RefreshUI)
 
 
 

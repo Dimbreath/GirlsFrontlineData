@@ -6,7 +6,7 @@
         "is_select": 0,
         "range": "",
         "select_order": "1",
-        "select_limit": 200108,
+        "select_limit": 0,
         "select_type": 1
     },
     {
@@ -16,7 +16,7 @@
         "is_select": 0,
         "range": "",
         "select_order": "1",
-        "select_limit": 200106,
+        "select_limit": 0,
         "select_type": 0
     },
     {
@@ -24,7 +24,7 @@
         "target_type": "2",
         "target_number": 1,
         "is_select": 1,
-        "range": "8,2",
+        "range": "6,2",
         "select_order": "",
         "select_limit": 0,
         "select_type": 1
@@ -427,6 +427,136 @@
         "range": "",
         "select_order": "3",
         "select_limit": 200102,
+        "select_type": 0
+    },
+    {
+        "id": 44,
+        "target_type": "9",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200108,
+        "select_type": 1
+    },
+    {
+        "id": 45,
+        "target_type": "5",
+        "target_number": 1,
+        "is_select": 1,
+        "range": "6,4",
+        "select_order": "",
+        "select_limit": 0,
+        "select_type": 1
+    },
+    {
+        "id": 46,
+        "target_type": "1",
+        "target_number": 1,
+        "is_select": 1,
+        "range": "",
+        "select_order": "",
+        "select_limit": 0,
+        "select_type": 1
+    },
+    {
+        "id": 47,
+        "target_type": "1,2",
+        "target_number": 0,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 0,
+        "select_type": 0
+    },
+    {
+        "id": 48,
+        "target_type": "1,3",
+        "target_number": 0,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 0,
+        "select_type": 0
+    },
+    {
+        "id": 49,
+        "target_type": "2",
+        "target_number": 0,
+        "is_select": 0,
+        "range": "",
+        "select_order": "",
+        "select_limit": 0,
+        "select_type": 0
+    },
+    {
+        "id": 50,
+        "target_type": "2",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200110,
+        "select_type": 0
+    },
+    {
+        "id": 51,
+        "target_type": "2",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200111,
+        "select_type": 0
+    },
+    {
+        "id": 52,
+        "target_type": "2",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200112,
+        "select_type": 0
+    },
+    {
+        "id": 53,
+        "target_type": "1",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "2:200113",
+        "select_limit": 0,
+        "select_type": 0
+    },
+    {
+        "id": 54,
+        "target_type": "1",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200102,
+        "select_type": 0
+    },
+    {
+        "id": 55,
+        "target_type": "1",
+        "target_number": 1,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 200112,
+        "select_type": 0
+    },
+    {
+        "id": 56,
+        "target_type": "7",
+        "target_number": 0,
+        "is_select": 0,
+        "range": "",
+        "select_order": "1",
+        "select_limit": 0,
         "select_type": 0
     }
 ]

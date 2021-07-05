@@ -66,6 +66,15 @@ local UpdateInfo = function(self)
 		self.SaveNode.gameObject:SetActive(false);
 	end
 end
+local CheckPoint = function(self)
+	local point = self.allyTeamController.allyTeam:CurrentPower(self.allyTeamController.currentSpot);
+	if self.power == point then
+		self.txtEnemyTeam.text = tostring(point);
+		self.txtAllyPoint.text = tostring(point);
+	end
+	self:CheckPoint();
+end
 util.hotfix_ex(CS.DeploymentAllyTeamFloatingInfo,'RefreshBuffUI',RefreshBuffUI)
 util.hotfix_ex(CS.DeploymentAllyTeamFloatingInfo,'UpdateInfo',UpdateInfo)
+util.hotfix_ex(CS.DeploymentAllyTeamFloatingInfo,'CheckPoint',CheckPoint)
 

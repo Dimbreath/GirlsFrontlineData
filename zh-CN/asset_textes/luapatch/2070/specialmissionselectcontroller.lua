@@ -1,5 +1,6 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.SpecialMissionSelectController)
+xlua.private_accessible(CS.RollingText)
 local Start = function(self)
 	self:Start();
 	self.scrollrect.inertia = false;
@@ -32,16 +33,21 @@ local Init = function(self,showMissions,currentMissionInfo)
 		local mission = CS.GameData.listMission:GetDataById(showMissions[i].id);
 		child:Find("RollingText/Tex_Mission"):GetComponent(typeof(CS.ExText)).text = showMissions[i].name;
 		child:Find("Img_MissionBattleType").gameObject:SetActive(showMissions[i].specialType ~= CS.MapSpecialType.Story);
-		child:Find("Img_MissionStoryType").gameObject:SetActive(showMissions[i].specialType == CS.MapSpecialType.Story);
+		child:Find("Img_MissionStoryType").gameObject:SetActive(false);
 		child:Find("Img_New").gameObject:SetActive(mission.counter == 0);
-	end
+		local roll = child:Find("RollingText"):GetComponent(typeof(CS.RollingText));
+		CS.CommonController.Invoke(function()
+				roll:UpdateRollingInfo();
+			end,0.3,CS.OPSPanelController.Instance);
+	end	
 end
 local ItemList = function(self)
 	for i=0,self.textList.Count-1 do		
 		local a = CS.Mathf.Abs(self.textList[i].position.y - self.targetRec.position.y);
 		local lerp = CS.Mathf.Abs(self.curve_color:Evaluate(a / 8));
-		local color = CS.UnityEngine.Color.Lerp(CS.UnityEngine.Color(0.5,0.5,0.5,1),CS.UnityEngine.Color(0,0,0,1),lerp);
+		local color = CS.UnityEngine.Color.Lerp(CS.UnityEngine.Color(0.8,0.8,0.8,1),CS.UnityEngine.Color(0,0,0,1),lerp);
 		self.textList[i]:Find("RollingText/Tex_Mission"):GetComponent(typeof(CS.ExText)).color = color; 
+		self.textList[i]:Find("Img_MissionBattleType"):GetComponent(typeof(CS.ExImage)).color = color;
 	end
 end
 util.hotfix_ex(CS.SpecialMissionSelectController,'Init',Init)

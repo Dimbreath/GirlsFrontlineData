@@ -58,5 +58,25 @@
         "target_range": 3,
         "battle_skill": "199001",
         "code": "SpotTarget0"
+    },
+    {
+        "id": 3007,
+        "trigger_target_type": "",
+        "trigger_range": "",
+        "trigger_formula": "",
+        "target_type": "8",
+        "target_range": 0,
+        "battle_skill": "610008",
+        "code": "SpotTarget0"
+    },
+    {
+        "id": 3008,
+        "trigger_target_type": "",
+        "trigger_range": "",
+        "trigger_formula": "",
+        "target_type": "1,2,3,8",
+        "target_range": 2,
+        "battle_skill": "610009",
+        "code": "SpotTarget0"
     }
 ]

@@ -9,7 +9,7 @@
         {
             "parameter_name": "achievement_type_sort",
             "parameter_type": "string",
-            "parameter_value": "1:35023,2:35024,3:1420,4:35025,5:35026,6:35027,7:35028,8:35029,9:1421,10:35030,11:35031,12:35032,13:35049,14:35050,15:35080,16:35107,100:35041",
+            "parameter_value": "1:35023,2:35024,3:1420,4:35025,5:35026,6:35027,7:35028,8:35029,9:1421,10:35030,11:35031,12:35032,13:35049,14:35050,15:35080,16:35107,100:35041,17:35122",
             "client_require": "1"
         },
         {
@@ -182,6 +182,12 @@
         },
         {
             "parameter_name": "battle_spine_mainframe_work",
+            "parameter_type": "int",
+            "parameter_value": "1",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "battle_subtitle_switch",
             "parameter_type": "int",
             "parameter_value": "1",
             "client_require": "1"
@@ -1153,6 +1159,12 @@
             "client_require": "1"
         },
         {
+            "parameter_name": "illustration_skin_switch",
+            "parameter_type": "int",
+            "parameter_value": "0",
+            "client_require": "1"
+        },
+        {
             "parameter_name": "item_recover_info_603",
             "parameter_type": "string",
             "parameter_value": "603:6:2:1",
@@ -1204,6 +1216,12 @@
             "parameter_name": "live_efficien",
             "parameter_type": "float",
             "parameter_value": "0.5",
+            "client_require": "1"
+        },
+        {
+            "parameter_name": "mall_special_daily_quota_switch",
+            "parameter_type": "int",
+            "parameter_value": "1",
             "client_require": "1"
         },
         {
@@ -1569,7 +1587,7 @@
         {
             "parameter_name": "recharge_img",
             "parameter_type": "string",
-            "parameter_value": "recharge_20180330.png,rechargeBG_20180330.png",
+            "parameter_value": "recharge_20180330.png,934d99ca5ea269c0_draw_210630001.png",
             "client_require": "1"
         },
         {
