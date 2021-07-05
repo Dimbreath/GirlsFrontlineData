@@ -211,7 +211,7 @@
         },
         {
             "id": "23",
-            "function_name": "mission_targettrain",
+            "function_name": "targetTrain",
             "turn_on": "1",
             "need_level": "12",
             "pre_mission": "0",
@@ -235,12 +235,23 @@
             "id": "25",
             "function_name": "minigame_flight",
             "turn_on": "0",
-            "need_level": "1",
-            "pre_mission": "0",
+            "need_level": "0",
+            "pre_mission": "6",
             "need_copper_medal": "0",
             "mall_id": "0",
             "max_cost_id": "0",
-            "description": "小游戏飞行棋"
+            "description": "小游戏飞行棋-70包开关"
+        },
+        {
+            "id": "26",
+            "function_name": "minigame_flight_ver1",
+            "turn_on": "1",
+            "need_level": "0",
+            "pre_mission": "6",
+            "need_copper_medal": "0",
+            "mall_id": "0",
+            "max_cost_id": "0",
+            "description": "小游戏飞行棋-71包开关"
         }
     ]
 }

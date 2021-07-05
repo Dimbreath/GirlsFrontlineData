@@ -12,5 +12,14 @@ local matUse = function(self)
 	return self._mat;
 end
 
+local freeBuffMre = function(self)
+	return 0;
+end
+
+local freeBuffAmmo = function(self)
+	return 0;
+end
 
 util.hotfix_ex(CS.DeploymentTeamController,'get_mat',matUse)
+util.hotfix_ex(CS.DeploymentTeamController,'freeBuffMre',freeBuffMre)
+util.hotfix_ex(CS.DeploymentTeamController,'freeBuffAmmo',freeBuffAmmo)

@@ -18,6 +18,13 @@ local InitProcess = function(self,order)
 	end
 end
 
+local InitUIElements = function(self)
+	self:InitUIElements();
+	self.transform:SwitchSidebar("ActivityEventPrize",true);
+	--CS.Extensions.InitNarrowScreenAdaption(self.transform);
+	self.imageBackground.rectTransform.anchoredPosition = CS.UnityEngine.Vector2(110,-576);
+end
 util.hotfix_ex(CS.OPSActivityEventPrizeController,'Start',Start)
 util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitProcess',InitProcess)
+util.hotfix_ex(CS.OPSActivityEventPrizeController,'InitUIElements',InitUIElements)
 

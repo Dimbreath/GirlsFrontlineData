@@ -27,6 +27,22 @@ local _CancelPlan = function(self)
 		self:_CancelPlan();
 	end
 end
+local UpdatePlanMark = function(self)
+	for i=0,self.listMarks.Count-1 do
+		if self.listMarks[i].gameObject~=nil and not self.listMarks[i].gameObject:isNull() then
+			CS.UnityEngine.Object.Destroy(self.listMarks[i].gameObject);
+		end
+	end
+	for i=0,self.masklines.Count-1 do
+		if self.masklines[i]~=nil and not self.masklines[i]:isNull() then
+			CS.UnityEngine.Object.Destroy(self.masklines[i]);
+		end
+	end
+	self.listMarks:Clear();
+	self.masklines:Clear();
+	self:UpdatePlanMark();
+end
 util.hotfix_ex(CS.DeploymentPlanModeController,'PausePlan',PausePlan)
 util.hotfix_ex(CS.DeploymentPlanModeController,'Resume',Resume)
 util.hotfix_ex(CS.DeploymentPlanModeController,'_CancelPlan',_CancelPlan)
+util.hotfix_ex(CS.DeploymentPlanModeController,'UpdatePlanMark',UpdatePlanMark)

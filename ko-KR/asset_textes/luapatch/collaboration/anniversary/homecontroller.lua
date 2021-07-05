@@ -3,9 +3,9 @@ local util = require 'xlua.util'
 xlua.private_accessible(CS.HomeController)
 local GetAdjutantGunId = function()
 	-- 2050
-	local adj = CS.GameData.userRecord.adjutant;
+	--local adj = CS.GameData.userRecord.adjutant;
 	-- 2060
-	--local adj = CS.Data.GetHomeAdjutantInfo()[0];
+	local adj = CS.Data.GetHomeAdjutantInfo()[0];
 	print(adj:GetID())
 	if adj ~= nil and adj.GetAdjutantType == CS.AdjutantInfo.AdjutantType.GUN then
 		local gunId = adj:GetID();
@@ -15,7 +15,10 @@ local GetAdjutantGunId = function()
 			return gunId;
 		end
 	elseif adj ~= nil and adj.GetAdjutantType == CS.AdjutantInfo.AdjutantType.NPC then
-		return -1;
+		-- 2050
+		-- return -1;
+		-- 2060
+		return adj:GetID();
 	else
 		print('当前副官不是人形');
 		return 0;
@@ -48,7 +51,6 @@ end
 local InitUIElements = function(self)
 	self:InitUIElements();
 	local anniversary_guns_avg_switch = CS.Data.GetInt("anniversary_guns_avg_switch");
-	print('anniversary_guns_avg_switch'..tostring(anniversary_guns_avg_switch));
 	-- if in event
 	if anniversary_guns_avg_switch ~= 0 then
 		local prefab = CS.ResManager.GetObjectByPath("Prefabs/HomeTalk");
