@@ -5516,6 +5516,10 @@
         "formula": "@Life"
     },
     {
+        "id": 3976,
+        "formula": "GetChance(20)?10:0"
+    },
+    {
         "id": 6000,
         "formula": "(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(221)+tbufftypetier(403)>0&sbuffidtier(6004)>0?1.1*$1:$1"
     },
@@ -7378,5 +7382,29 @@
     {
         "id": 397505,
         "formula": "9+sbuffidtier(743011)"
+    },
+    {
+        "id": 397601,
+        "formula": "sbuffidtier(743204)/#formation"
+    },
+    {
+        "id": 397602,
+        "formula": "sbuffidtier(743205)/#formation"
+    },
+    {
+        "id": 397603,
+        "formula": "sbuffidtier(743206)"
+    },
+    {
+        "id": 397604,
+        "formula": "1500/@rate"
+    },
+    {
+        "id": 397605,
+        "formula": "100/#formation"
+    },
+    {
+        "id": 397606,
+        "formula": "($1+tbufftypetier(601))*(1-#def/#maxdef)/#formation"
     }
 ]
