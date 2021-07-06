@@ -1,4 +1,5 @@
 local util = require 'xlua.util'
+local config = require 'collaboration/Va11/VA11Config'
 xlua.private_accessible(CS.DormController)
 xlua.private_accessible(CS.DormCafeController)
 xlua.private_accessible(CS.DormCafeCustomerController)
@@ -9,8 +10,8 @@ xlua.private_accessible(CS.Utility)
 xlua.private_accessible(CS.PLTable)
 local pointer
 local initFlag = false
-local Va11Table = {}
-local TableStruct =nil
+--local Va11Table = {}
+--local TableStruct =nil
 local Va11EventOpen = function()
 	if CS.OPSConfig.ContainCampaigns:Contains(-32) then
 		local stamp = CS.GameData.GetCurrentTimeStamp();
@@ -26,29 +27,6 @@ ShowReadHint = function(self)
 
 	pointer = tonumber(CS.UnityEngine.PlayerPrefs.GetString('VA11CafeCounter',"-1"))
 	--特殊活动avg气泡
-	TableStruct = {Id = 1 ,front_mission_id = 10277,followup_mission_id = 10278,avg_txt = 'VA11_1',gun_code ="M870P",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 2 ,front_mission_id = 10278,followup_mission_id = 10279,avg_txt = 'VA11_2',gun_code ="K2",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 3 ,front_mission_id = 10279,followup_mission_id = 10280,avg_txt = 'VA11_3',gun_code ="OC44",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 4 ,front_mission_id = 10280,followup_mission_id = 10281,avg_txt = 'VA11_4',gun_code ="G36",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 5 ,front_mission_id = 10281,followup_mission_id = 10282,avg_txt = 'VA11_5',gun_code ="G28",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 6 ,front_mission_id = 10282,followup_mission_id = 10283,avg_txt = 'VA11_6',gun_code ="M16A1",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 7 ,front_mission_id = 10283,followup_mission_id = 10284,avg_txt = 'VA11_7',gun_code ="M1903",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
-	
-	TableStruct = {Id = 8 ,front_mission_id = 10284,followup_mission_id = 0,avg_txt = 'VA11_8',gun_code ="FN57",item_id = 8002,item_num = 100}
-	Va11Table[TableStruct.Id] = TableStruct
 	local finalAVGCleared = false;
 	if pointer == 8 then
 		finalAVGCleared = CS.GameData.GetItem(Va11Table[pointer].item_id) > 0;
@@ -92,7 +70,7 @@ function CallCustomerAnim(self)
 		self.aiSelf:StartNewState()
 
 	else
-		local duplicate = CS.DormController.instance:CreateAndStartCafeCustomer(self.codeWithSkinId, true, true)
+		local duplicate = CS.DormCafeController.instance:CreateAndStartCafeCustomer(self.codeWithSkinId, true, true)
 		CS.DormController.instance:UpdateAllAIList()
 		CS.DormController.instance.listAllAIController:Add(duplicate)
 		self:ExitCafeImmediately()	
